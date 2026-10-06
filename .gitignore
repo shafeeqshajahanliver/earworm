@@ -1,0 +1,14 @@
+# audio and working media never go in git
+_cache/
+*.mp3
+*.m4a
+*.aac
+*.wav
+*.flac
+*.ogg
+*.mp4
+*.pdf
+.env
+__pycache__/
+.DS_Store
+.venv/
