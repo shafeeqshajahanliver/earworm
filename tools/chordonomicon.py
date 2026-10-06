@@ -165,8 +165,10 @@ def build(row, how):
               "licence": LICENCE, "retrieved": TODAY, "confidence": "crowd",
               "version_note": "fan transcription; may follow a different version, key (capo) or simplification "
                               "than the charting recording; no timings"}
-    st = dict(base, sections=ssecs, bridge="yes" if "bridge" in labs else "no",
-              bridge_basis="a <bridge_n> tag in the transcription" if "bridge" in labs else
+    untagged = all(t == "(untagged)" for t, _ in secs)
+    st = dict(base, sections=ssecs, bridge="unknown" if untagged else "yes" if "bridge" in labs else "no",
+              bridge_basis="the transcription has no section tags" if untagged else
+              "a <bridge_n> tag in the transcription" if "bridge" in labs else
               "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)")
     ch = dict(base, key_info={"tonic": H.note_name(tonic, flats) if est else None, "tonic_pc": tonic,
                                 "mode": est["mode"] if est else None,

@@ -188,12 +188,42 @@
       "bridge": "yes",
       "bridge_basis": "a section the analyst named Br (bridge)",
       "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "579511",
+      "match": {
+        "spotify_song_id": "1ZEOIhSn6BKErV59bIgn76",
+        "matched_via": "MusicBrainz url relation on our recording 0d03f94c-ea55-4b77-b4b4-7b42d993d473",
+        "spotify_artist_id": "1bs7HoMkSyQwcobCpE9KpN",
+        "release_date": "2001-08-28",
+        "genres": "'classic rock' 'folk' 'folk rock' 'mellow gold' 'psychedelic rock' 'rock' 'soft rock' 'sunshine pop'",
+        "main_genre": "pop rock"
+      },
+      "source": "Chordonomicon v2 row 579511 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-06",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "(untagged)",
+          "normalised": "other",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "the transcription has no section tags"
     }
   ],
   "comparison": {
     "form_by_source": {
       "rolling_stone_dt": "intro verse instrumental verse outro",
-      "rolling_stone_tdc": "intro verse chorus verse chorus bridge verse chorus outro"
+      "rolling_stone_tdc": "intro verse chorus verse chorus bridge verse chorus outro",
+      "chordonomicon": ""
     },
     "section_order": [
       {
@@ -202,16 +232,33 @@
         "same_order": false,
         "edit_distance": 5,
         "similarity": 0.44
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.0
+      },
+      {
+        "a": "rolling_stone_tdc",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 9,
+        "similarity": 0.0
       }
     ],
     "section_order_agree": false,
     "bridge_by_source": {
       "rolling_stone_dt": "no",
-      "rolling_stone_tdc": "yes"
+      "rolling_stone_tdc": "yes",
+      "chordonomicon": "unknown"
     },
     "bridge_agree": false,
     "bridge_expert_value": "disputed",
-    "notes": [],
+    "notes": [
+      "chordonomicon: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
     "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
     "computed": "2026-10-06",
     "confidence": "computed"

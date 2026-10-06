@@ -301,6 +301,10 @@ def compare(structure, chords, today):
             row = {"reference": ref["key"], "other": s["key"], "same_tonic": shift == 0,
                    "semitones_apart": shift if shift <= 6 else shift - 12,
                    "roman_root_overlap": jac}
+            if jac is not None and jac < 0.4 and s["confidence"] != "expert" and ref["confidence"] == "expert":
+                row["suspect_match"] = ("the chords share few scale degrees with the expert analysis even "
+                                        "in Roman numerals; the crowd row is probably a different song or a "
+                                        "garbled transcription")
             rows.append(row)
         cc = {"key_by_source": names, "key_agree": len(set(tonics.values())) == 1, "pairs": rows,
               "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of "

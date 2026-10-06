@@ -43,3 +43,20 @@ Default: the album cover of the album the song appeared on, plus the single slee
 ## Facts and lineage
 
 MusicBrainz (writers, producers, recordings, release dates, ISRCs), Wikidata (awards, IDs), SecondHandSongs (covers, samples, adaptations).
+
+## What the 30-song pilot found (6 October 2026)
+
+| Source | Result | Notes |
+|---|---|---|
+| Wikipedia, Wikidata, MusicBrainz | 30/30 | Charting recording found via the earliest single release group. Multi-version articles (e.g. I Will Always Love You) follow the artist's own version article |
+| Billboard weekly Hot 100 (utdata/rwd-billboard-data) | 30/30 | Double A-sides chart as "A/B" |
+| LRCLIB | 30/30 | Synced lyrics for every song |
+| Deezer / iTunes previews | 30/30 | Tempo agrees with Deezer's own BPM apart from half/double-time cases. Key from a 30 s clip is rough (often the relative key) |
+| Cover Art Archive | single 27, album 28 | Pre-1980 "single" images are often the disc label: no picture sleeve |
+| iTunes artwork | 29 | Often a later reissue or re-recording; check before using |
+| SecondHandSongs | 28 | Anonymous API throttles with 403 after ~25 quick calls; 6 s spacing works |
+| McGill Billboard | 1 | DDMAL page 404; data via mirdata's Dropbox links / Zenodo. Its random sample barely overlaps year-end #1s |
+| Harmonix Set | 3 | Structure only; often annotates shortened edits |
+| Rolling Stone corpus | 4 | Two analysts per song; they often disagree on form, never on key |
+| Isophonics | 0 | Beatles albums only |
+| Chordonomicon | 2 | Matching needs Spotify track IDs. No key-free route found for 17 songs; 11 IDs found were different releases from the ones in the dataset. Odesli/song.link now needs a key (gap) |

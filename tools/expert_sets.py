@@ -635,12 +635,14 @@ def finalise(sid):
     st, ch = read_json(sp), read_json(cp)
     st = st if st and st.get("sources") else None
     ch = ch if ch and ch.get("sources") else None
+    order = {"expert": 0, "sourced": 1, "crowd": 2}
+    for obj in (st, ch):
+        if obj:
+            obj["sources"].sort(key=lambda x: order.get(x["confidence"], 3))
     sc, cc = H.compare(st, ch, TODAY)
     for obj, cmp_, path, kind in ((st, sc, sp, "structure"), (ch, cc, cp, "chords")):
         none = os.path.join(SONGS, sid, kind + ".none")
         if obj:
-            order = {"expert": 0, "sourced": 1, "crowd": 2}
-            obj["sources"].sort(key=lambda x: order.get(x["confidence"], 3))
             obj["comparison"] = cmp_ if cmp_ else "only one source"
             obj = {k: obj[k] for k in ["id", "updated", "note", "sources", "comparison"] if k in obj}
             write_json(path, obj)

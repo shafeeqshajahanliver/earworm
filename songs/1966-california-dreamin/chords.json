@@ -640,14 +640,133 @@
         }
       ],
       "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "579511",
+      "match": {
+        "spotify_song_id": "1ZEOIhSn6BKErV59bIgn76",
+        "matched_via": "MusicBrainz url relation on our recording 0d03f94c-ea55-4b77-b4b4-7b42d993d473",
+        "spotify_artist_id": "1bs7HoMkSyQwcobCpE9KpN",
+        "release_date": "2001-08-28",
+        "genres": "'classic rock' 'folk' 'folk rock' 'mellow gold' 'psychedelic rock' 'rock' 'soft rock' 'sunshine pop'",
+        "main_genre": "pop rock"
+      },
+      "source": "Chordonomicon v2 row 579511 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-06",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": "major",
+        "name": "G major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.9,
+        "runner_up": "D major (0.798)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "(untagged)",
+          "normalised": "other",
+          "key": "G major",
+          "written": [
+            "D",
+            "G",
+            "A",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G"
+          ],
+          "roman": [
+            "V",
+            "I",
+            "II",
+            "V",
+            "I",
+            "V",
+            "I",
+            "V",
+            "I",
+            "V",
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "V",
+            "I",
+            "V",
+            "I",
+            "V",
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I"
+          ],
+          "raw": [
+            "D",
+            "G",
+            "A",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "Emin",
+            "G",
+            "Emin",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "Emin",
+            "G",
+            "Emin",
+            "G"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
     }
   ],
   "comparison": {
     "key_by_source": {
       "rolling_stone_dt": "C#",
-      "rolling_stone_tdc": "C#"
+      "rolling_stone_tdc": "C#",
+      "chordonomicon": "G major"
     },
-    "key_agree": true,
+    "key_agree": false,
     "pairs": [
       {
         "reference": "rolling_stone_dt",
@@ -655,6 +774,14 @@
         "same_tonic": true,
         "semitones_apart": 0,
         "roman_root_overlap": 1.0
+      },
+      {
+        "reference": "rolling_stone_dt",
+        "other": "chordonomicon",
+        "same_tonic": false,
+        "semitones_apart": 6,
+        "roman_root_overlap": 0.29,
+        "suspect_match": "the chords share few scale degrees with the expert analysis even in Roman numerals; the crowd row is probably a different song or a garbled transcription"
       }
     ],
     "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
