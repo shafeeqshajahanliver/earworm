@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "file": "songs.csv",
+      "field": "country",
+      "upstream_value": "GB",
+      "corrected_value": "US",
+      "reason": "MusicBrainz lists Elton John first in the artist credit, so the country was taken from him. The single was credited to Dionne and Friends, led by Dionne Warwick (US).",
+      "confidence": "sourced",
+      "found_by": "data audit",
+      "date": "2026-10-06"
+    }
+  ]
+}

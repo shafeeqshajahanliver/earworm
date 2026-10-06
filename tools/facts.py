@@ -276,7 +276,7 @@ def main(only=None):
             facts["musicbrainz"].update({"source": "MusicBrainz (CC0)", "confidence": "sourced"})
             s["musicbrainz"] = rid
             ma = facts["musicbrainz"].get("main_artist", {})
-            if ma.get("country") and not s["country"]:
+            if ma.get("country") and not s["country"]:  # first credited artist; check against the single credit
                 s["country"] = ma["country"]
         write_json(song_dir(sid, "facts.json"), facts)
         print(sid, qid, rid, s["country"], flush=True)
