@@ -1,0 +1,112 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Police"
+  ],
+  "title_as_charted": [
+    "Every Breath You Take"
+  ],
+  "debut_week": "1983-06-04",
+  "debut_position": 36,
+  "peak_position": 1,
+  "weeks_at_peak": 8,
+  "first_week_at_peak": "1983-07-09",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 22,
+  "last_week": "1983-10-29",
+  "weeks_at_number_one": 8,
+  "run": [
+    [
+      "1983-06-04",
+      36
+    ],
+    [
+      "1983-06-11",
+      25
+    ],
+    [
+      "1983-06-18",
+      14
+    ],
+    [
+      "1983-06-25",
+      4
+    ],
+    [
+      "1983-07-02",
+      3
+    ],
+    [
+      "1983-07-09",
+      1
+    ],
+    [
+      "1983-07-16",
+      1
+    ],
+    [
+      "1983-07-23",
+      1
+    ],
+    [
+      "1983-07-30",
+      1
+    ],
+    [
+      "1983-08-06",
+      1
+    ],
+    [
+      "1983-08-13",
+      1
+    ],
+    [
+      "1983-08-20",
+      1
+    ],
+    [
+      "1983-08-27",
+      1
+    ],
+    [
+      "1983-09-03",
+      3
+    ],
+    [
+      "1983-09-10",
+      6
+    ],
+    [
+      "1983-09-17",
+      6
+    ],
+    [
+      "1983-09-24",
+      15
+    ],
+    [
+      "1983-10-01",
+      20
+    ],
+    [
+      "1983-10-08",
+      26
+    ],
+    [
+      "1983-10-15",
+      34
+    ],
+    [
+      "1983-10-22",
+      55
+    ],
+    [
+      "1983-10-29",
+      92
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

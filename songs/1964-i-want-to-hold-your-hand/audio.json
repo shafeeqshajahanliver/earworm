@@ -1,0 +1,76 @@
+{
+  "id": "1964-i-want-to-hold-your-hand",
+  "preview": {
+    "service": "deezer",
+    "track_id": 116348598,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBUM71505904",
+    "title": "I Want To Hold Your Hand (Remastered 2015)",
+    "artist": "The Beatles",
+    "album": "1 (Remastered 2015)",
+    "track_duration_s": 145,
+    "link": "https://www.deezer.com/track/116348598",
+    "duration_matched_to": "musicbrainz recording length (147s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 130.7,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      136.0,
+      64.6
+    ],
+    "beats_detected": 65,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.489,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.445,
+    "chroma_profile": [
+      0.75,
+      0.582,
+      0.776,
+      0.438,
+      0.563,
+      0.42,
+      0.52,
+      0.622,
+      0.545,
+      1.0,
+      0.866,
+      0.822
+    ],
+    "rms_dbfs": -10.49,
+    "rms_dbfs_p95_frame": -8.6,
+    "peak_dbfs": 0.54,
+    "loudness_lufs_approx": -9.35,
+    "spectral_centroid_hz_mean": 2530.1,
+    "spectral_centroid_hz_median": 2570.8,
+    "onsets": 65,
+    "onset_density_per_s": 2.167,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 116348598",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 130.42,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/116348598",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 126848577: duration 82s matches no reference length",
+    "deezer 131737340: version (I Want To Hold Your Hand (Live / Bonus Track))",
+    "deezer 521609372: version (I Want To Hold Your Hand (Live At The BBC For \"The Beatles Say From Us To You\" / 26th December, 1963))",
+    "deezer 3668066212: version (I Want To Hold Your Hand (Live On The Morecambe And Wise Show - Remastered))"
+  ]
+}

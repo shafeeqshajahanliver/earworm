@@ -1,0 +1,72 @@
+{
+  "id": "1984-when-doves-cry",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3612790,
+    "matched_by": "isrc",
+    "isrc": "USWB10003047",
+    "title": "When Doves Cry",
+    "artist": "Prince",
+    "album": "The Hits / The B-Sides",
+    "track_duration_s": 228,
+    "link": "https://www.deezer.com/track/3612790",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.5,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      63.0,
+      129.2,
+      123.0
+    ],
+    "beats_detected": 64,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.299,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.236,
+    "chroma_profile": [
+      1.0,
+      0.979,
+      0.866,
+      0.805,
+      0.77,
+      0.773,
+      0.802,
+      0.908,
+      0.822,
+      0.956,
+      0.929,
+      0.975
+    ],
+    "rms_dbfs": -17.08,
+    "rms_dbfs_p95_frame": -12.16,
+    "peak_dbfs": 0.1,
+    "loudness_lufs_approx": -15.94,
+    "spectral_centroid_hz_mean": 2762.4,
+    "spectral_centroid_hz_median": 2676.5,
+    "onsets": 110,
+    "onset_density_per_s": 3.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3612790",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126.43,
+    "gain": -15.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3612790",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USWB19903183: matched but no preview available (readable=False)"
+  ]
+}

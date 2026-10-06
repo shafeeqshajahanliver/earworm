@@ -1,0 +1,92 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Three Dog Night"
+  ],
+  "title_as_charted": [
+    "Joy To The World"
+  ],
+  "debut_week": "1971-03-13",
+  "debut_position": 58,
+  "peak_position": 1,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "1971-04-17",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 17,
+  "last_week": "1971-07-03",
+  "weeks_at_number_one": 6,
+  "run": [
+    [
+      "1971-03-13",
+      58
+    ],
+    [
+      "1971-03-20",
+      45
+    ],
+    [
+      "1971-03-27",
+      34
+    ],
+    [
+      "1971-04-03",
+      11
+    ],
+    [
+      "1971-04-10",
+      3
+    ],
+    [
+      "1971-04-17",
+      1
+    ],
+    [
+      "1971-04-24",
+      1
+    ],
+    [
+      "1971-05-01",
+      1
+    ],
+    [
+      "1971-05-08",
+      1
+    ],
+    [
+      "1971-05-15",
+      1
+    ],
+    [
+      "1971-05-22",
+      1
+    ],
+    [
+      "1971-05-29",
+      2
+    ],
+    [
+      "1971-06-05",
+      2
+    ],
+    [
+      "1971-06-12",
+      5
+    ],
+    [
+      "1971-06-19",
+      8
+    ],
+    [
+      "1971-06-26",
+      12
+    ],
+    [
+      "1971-07-03",
+      31
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

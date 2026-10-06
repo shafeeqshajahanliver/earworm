@@ -1,0 +1,450 @@
+{
+  "id": "1969-sugar-sugar",
+  "retrieved": "2026-10-06",
+  "wikipedia_article": "Sugar, Sugar",
+  "wikidata": {
+    "qid": "Q516203",
+    "label": "Sugar, Sugar",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q512836",
+          "label": "The Archies"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q526423",
+          "label": "Andy Kim"
+        },
+        {
+          "qid": "Q339458",
+          "label": "Jeff Barry"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q526423",
+          "label": "Andy Kim"
+        },
+        {
+          "qid": "Q339458",
+          "label": "Jeff Barry"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q339458",
+          "label": "Jeff Barry"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q128998487",
+          "label": "Calendar"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1969-07-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        },
+        {
+          "qid": "Q997481",
+          "label": "bubblegum music"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "168",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "3818fa67-c508-3499-9d18-0fd9a2b443ce"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz": {
+    "recording_id": "cd0e12ba-77ed-43b8-85d5-125476dc0c8b",
+    "title": "Sugar, Sugar",
+    "length_ms": 168466,
+    "first_release_date": "1969-09-12",
+    "artist_credit": "The Archies",
+    "artists": [
+      {
+        "name": "The Archies",
+        "mbid": "623d5f3f-3093-4711-881f-ed33eda10882"
+      }
+    ],
+    "isrcs": [
+      "NLG620400826",
+      "NLG620466548",
+      "QM6XS1601599",
+      "USLIC0701320"
+    ],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [
+      "bubblegum pop",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "am pop",
+      "bubblegum pop",
+      "soundtrack",
+      "general rock",
+      "rock"
+    ],
+    "releases": [
+      {
+        "id": "3ab88925-92ec-4ed0-a1eb-a2bf887d162d",
+        "title": "Everything’s Archie",
+        "date": "1969",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "d8d91e09-97ab-3f5a-a934-18c72c1273e4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "271fa11e-855b-438e-853e-a8b876c53fed",
+        "title": "Sugar, Sugar",
+        "date": "1969",
+        "country": "US",
+        "status": "Official",
+        "release_group": "dc3fc902-3957-337e-9629-5d14e8b879cf",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "98c8f51d-bec7-45c0-8589-d64f11d79e0c",
+        "title": "Sugar, Sugar / Melody Hill",
+        "date": "1969",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "dc3fc902-3957-337e-9629-5d14e8b879cf",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "ab0f4dbc-c598-4483-9310-e88d7151d8e1",
+        "title": "Sugar, Sugar",
+        "date": "1969-09-12",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "dc3fc902-3957-337e-9629-5d14e8b879cf",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "253059aa-7a6e-4395-ba63-fe07afb093a6",
+        "title": "Greatest Hits",
+        "date": "1970",
+        "country": "US",
+        "status": "Official",
+        "release_group": "dee2ffd6-7d1e-4f5f-bc20-732d18a1ea81",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6cc99b92-b1ed-4c37-a718-a3323b494669",
+        "title": "Greatest Hits",
+        "date": "1985",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "d4d123e1-0df6-4beb-aa34-2c23a4b69969",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4a055558-9054-4fe4-9119-ed8648a63c76",
+        "title": "Fun Rock",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1636be40-aa9e-4c73-9499-761f407c2ee2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "39d80c1d-ebf8-4361-aef0-2914d7afa28e",
+        "title": "20 Greatest Hits",
+        "date": "1988",
+        "country": null,
+        "status": "Official",
+        "release_group": "fd10884c-3d9b-334c-89e1-e1a13eed2958",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f8dd5206-ae31-4a35-a7ed-c937008126dd",
+        "title": "100 Super Oldies: Too Good to Be Forgotten",
+        "date": "1988",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "14e2dd34-1660-3154-aa8e-2a699db38e07",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "325866bd-e9a6-4a73-b99f-58eed3297caa",
+        "title": "History of the 60’s",
+        "date": "1988",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "3833d319-b3aa-3958-b845-5558ef706403",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "74c3f925-fa3f-4f0d-b1f3-17fb11c5cfaf",
+        "title": "30 Years of Number 1's, Volume 6: 1969-1972",
+        "date": "1989",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "cf7a7f98-94f5-47fb-a3c7-f6880d5d87b7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6ae52f87-b8e5-42b1-b16b-24dedb38a455",
+        "title": "Billboard Top Rock’n’Roll Hits: 1969",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5c1907c7-5387-344a-81b8-2788d06a7082",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "69842675-742a-4d9b-bd4d-a35a402e5f74",
+        "title": "Classic Rock: 1969: The Beat Goes On",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e7ffff84-2cd3-353d-a5eb-90f0f6a33aba",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0f351221-8b86-4f5a-8543-52082281dd78",
+        "title": "Hifi Visionen: Oldie-CD 15",
+        "date": "1989",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "df1969d8-c0a0-3520-b0fd-f19a05d47763",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8a596910-db85-4964-ba56-c56f648585b5",
+        "title": "Le Top des Sixties",
+        "date": "1989",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "c12a546a-39d9-475a-ad21-97821c11adb1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1a396de0-6209-4b1a-ae48-3e660aa8d8e6",
+        "title": "Remember The 60's - Volume 3 (32 Golden Oldies)",
+        "date": "1989",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "253fb2e6-1a76-48ba-a703-5fcbe1a2d502",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "79935f60-47dc-449e-b1e8-429ce2d47e61",
+        "title": "Rockin' USA: Los Angeles Rock- The '60s",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "dcc0a454-a8fb-4485-b1c7-106e39c7b490",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "480e8273-de72-421e-af57-44fcfe1ad5b3",
+        "title": "The 60’s Collection",
+        "date": "1989",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "3e151aae-af5c-3109-b332-063e856bab34",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2de42c8c-b305-4e8c-aaf2-2f1e486cf942",
+        "title": "60 Number Ones of the Sixties",
+        "date": "1990",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "186f2424-5160-3d70-98fb-36c14e584550",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5e3a0595-ad65-471f-be1e-c604ae67b8bb",
+        "title": "80 Screaming Hits of the Sixties",
+        "date": "1990",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "e8d361af-628b-4f07-ae7b-5e7dbc8ec01b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8c3b47f4-e5ed-4ef2-9c60-d405a93c2615",
+        "title": "101 Number One Hit Records!",
+        "date": "1990",
+        "country": "US",
+        "status": "Official",
+        "release_group": "460e6049-929f-32a4-9241-639c72d3d1dc",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a2636e53-ccb6-4ea3-b4d1-86570515d4ac",
+        "title": "Bubble Gum Party",
+        "date": "1990",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "cb3af1fa-77ac-3f15-8998-c1dde80119ca",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "af4d5ec0-b0f8-40d6-8834-d22c5aa58243",
+        "title": "Greatest Hits",
+        "date": "1990",
+        "country": null,
+        "status": "Official",
+        "release_group": "10d14834-7ae8-417f-a3b6-7f908938684f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5d8949c3-c152-4963-8bc3-e216c76c4fc3",
+        "title": "Hits of the Sixties, Volume One",
+        "date": "1990",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "9f236f8e-ff88-4d6f-88c3-c2c3fb3d4467",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1295e5cf-dded-44cb-9f80-e4582bc0eee3",
+        "title": "Media’s affenstarke Softies",
+        "date": "1990",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "7e8ebcc5-7325-43b8-afc2-f7f2ebe68487",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "3818fa67-c508-3499-9d18-0fd9a2b443ce",
+      "title": "Sugar, Sugar",
+      "iswcs": [
+        "T-070.244.045-6",
+        "T-923.867.858-5"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Jeff Barry",
+          "mbid": "0e21491a-18a5-40d9-a68c-a651a0fda689"
+        },
+        {
+          "role": "writer",
+          "name": "Andy Kim",
+          "mbid": "a6d3a1bf-ee78-4a6d-96b3-1bd9769128c4"
+        }
+      ],
+      "urls": [
+        "https://genius.com/The-archies-sugar-sugar-lyrics",
+        "https://secondhandsongs.com/work/15385",
+        "http://www.songfacts.com/detail.php?id=1137",
+        "https://www.wikidata.org/wiki/Q516203"
+      ]
+    },
+    "main_artist": {
+      "name": "The Archies",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Riverdale"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

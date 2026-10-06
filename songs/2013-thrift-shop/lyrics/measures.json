@@ -1,0 +1,41 @@
+{
+  "id": "2013-thrift-shop",
+  "lyrics_kind": "synced",
+  "lrclib_id": 2219654,
+  "lines": 89,
+  "words": 681,
+  "unique_words": 277,
+  "type_token_ratio": 0.407,
+  "repeated_line_share": 0.258,
+  "distinct_lines": 66,
+  "zlib_compression_ratio": 0.375,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "thrift shop",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 63,
+    "second": 18,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.11,
+  "last_line_s": 232.32,
+  "sung_time_s": 228.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 179.2,
+  "words_per_minute_track": 173.1,
+  "longest_gap_between_lines_s": 5.43,
+  "longest_gap_starts_at_s": 61.29,
+  "first_repeated_block": {
+    "first_at_s": 33.44,
+    "recurs_at_s": 104.33,
+    "lines": [
+      "I'm gonna pop some tags",
+      "Only got 20 dollars in my pocket"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 2219654",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

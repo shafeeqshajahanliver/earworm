@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "1fe5e061-9c53-45eb-9f74-8986cadb23d5",
+      "release_title": "3 Songs at a Time Sampler",
+      "release_date": "2023-01-31",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d5608555-e625-4292-9d93-eec4d24631f3/34791702909-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d5608555-e625-4292-9d93-eec4d24631f3",
+      "image_id": 34791702909,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.4,
+        "saturation": 0.135,
+        "dark_share": 0.322,
+        "palette": [
+          {
+            "hex": "#23221f",
+            "share": 0.282
+          },
+          {
+            "hex": "#38362c",
+            "share": 0.255
+          },
+          {
+            "hex": "#7a756b",
+            "share": 0.163
+          },
+          {
+            "hex": "#b3b1ae",
+            "share": 0.156
+          },
+          {
+            "hex": "#c7c2c1",
+            "share": 0.144
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "eab1ce83-eb3d-4e70-94ff-6fddd5405e84",
+      "release_title": "One Thing at a Time",
+      "release_date": "2023-03-03",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: One Thing at a Time",
+      "url": "http://coverartarchive.org/release/b36a69a1-7af5-4ee6-a1b1-5110ee465ad8/34791747385-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b36a69a1-7af5-4ee6-a1b1-5110ee465ad8",
+      "image_id": 34791747385,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.398,
+        "saturation": 0.137,
+        "dark_share": 0.327,
+        "palette": [
+          {
+            "hex": "#24231f",
+            "share": 0.288
+          },
+          {
+            "hex": "#37362c",
+            "share": 0.254
+          },
+          {
+            "hex": "#79746a",
+            "share": 0.158
+          },
+          {
+            "hex": "#b3b1ae",
+            "share": 0.156
+          },
+          {
+            "hex": "#c7c2c1",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/9f/8e/db9f8e0c-d947-b7fd-cc93-a832c81ce4ee/00602455241252_Cover.jpg/1200x1200bb.jpg",
+      "collection": "One Thing At A Time",
+      "collection_id": 1818408501,
+      "track_id": 1818408858,
+      "artist_name": "Morgan Wallen",
+      "release_date": "2023-02-02T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.395,
+        "saturation": 0.132,
+        "dark_share": 0.342,
+        "palette": [
+          {
+            "hex": "#23221f",
+            "share": 0.287
+          },
+          {
+            "hex": "#36342b",
+            "share": 0.257
+          },
+          {
+            "hex": "#797369",
+            "share": 0.156
+          },
+          {
+            "hex": "#b2b1ad",
+            "share": 0.153
+          },
+          {
+            "hex": "#c6c1c1",
+            "share": 0.147
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

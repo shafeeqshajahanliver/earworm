@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3204715,
+  "kind": "synced",
+  "matched": {
+    "track": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "The Weeknd - Blinding Lights",
+    "duration_s": 200.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (200s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 262.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 200.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 202.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (200s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 36936735 (Blinding Lights / The Weeknd / Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers), 248.0s): duration matches no reference length",
+    "lrclib 37257280 (Blinding Lights / The Weeknd / The Script Radio, 213.0s): duration matches no reference length",
+    "lrclib 36851844 (Blinding Lights / The Weeknd / After Hours (Explicit), 292.0s): duration matches no reference length",
+    "lrclib 34427256 (Blinding Lights / The Weeknd / After Hours (Deluxe), 153.0s): duration matches no reference length",
+    "lrclib 34615612 (Blinding Lights / The Weeknd / AUTO-DISSECTION, 154.0s): duration matches no reference length",
+    "lrclib 36231727 (Blinding Lights / The Weeknd / Blinding Lights, Nones): duration matches no reference length",
+    "lrclib 36018235 (Blinding Lights / The Weeknd / Blinding Lights, 110.0s): duration matches no reference length",
+    "lrclib 35930191 (Blinding Lights / The Weeknd / Blinding Lights, 170.0s): duration matches no reference length",
+    "lrclib 33928019 (Blinding Lights / The Weeknd / Blinding Lights, 3.0s): duration matches no reference length",
+    "lrclib 34129108 (Blinding Lights / The Weeknd / Blinding Lights, 193.0s): duration matches no reference length",
+    "lrclib 35381468 (Blinding Lights / The Weeknd / Blinding Lights, 1412.0s): duration matches no reference length",
+    "lrclib 35583691 (Blinding Lights / The Weeknd / Blinding Lights, 139.0s): duration matches no reference length",
+    "lrclib 24326413 (Blinding Lights / The Weeknd / Blinding Lights, 216.12s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

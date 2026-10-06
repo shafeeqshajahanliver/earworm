@@ -1,0 +1,107 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-06",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/52452",
+    "title": "The Battle of New Orleans",
+    "performer": "Johnny Horton",
+    "is_original": false,
+    "first_release_date": "1959-04-06",
+    "releases": [
+      {
+        "title": "The Battle of New Orleans",
+        "uri": "https://api.secondhandsongs.com/release/21151",
+        "performer": "Johnny Horton"
+      },
+      {
+        "title": "The Spectacular Johnny Horton",
+        "uri": "https://api.secondhandsongs.com/release/14196",
+        "performer": "Johnny Horton"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Battle of New Orleans",
+      "uri": "https://api.secondhandsongs.com/work/52451"
+    },
+    {
+      "title": "Eighth of January",
+      "uri": "https://api.secondhandsongs.com/work/52450"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/52451",
+    "title": "Battle of New Orleans",
+    "language": "English",
+    "writers": [
+      "Jimmie Driftwood"
+    ],
+    "original_performer": "Jimmie Driftwood",
+    "versions": 78,
+    "based_on": [
+      {
+        "title": "Eighth of January",
+        "uri": "https://api.secondhandsongs.com/work/52450"
+      }
+    ],
+    "derived_works": [
+      {
+        "title": "Die große Rauferei Anno 1902",
+        "uri": "https://api.secondhandsongs.com/work/127841"
+      },
+      {
+        "title": "The Battle of Kookamonga",
+        "uri": "https://api.secondhandsongs.com/work/136848"
+      },
+      {
+        "title": "Mexico",
+        "uri": "https://api.secondhandsongs.com/work/135538"
+      },
+      {
+        "title": "The Battle of New Orleans, 1982",
+        "uri": "https://api.secondhandsongs.com/work/221778"
+      },
+      {
+        "title": "Långt borta i Minnesota",
+        "uri": "https://api.secondhandsongs.com/work/225978"
+      },
+      {
+        "title": "La batalla",
+        "uri": "https://api.secondhandsongs.com/work/235253"
+      },
+      {
+        "title": "Battle of New Orleans",
+        "uri": "https://api.secondhandsongs.com/work/240696"
+      },
+      {
+        "title": "Tordenskjolds soldater",
+        "uri": "https://api.secondhandsongs.com/work/163673"
+      },
+      {
+        "title": "Við gefumst aldrei upp",
+        "uri": "https://api.secondhandsongs.com/work/248938"
+      },
+      {
+        "title": "Rokk og ról",
+        "uri": "https://api.secondhandsongs.com/work/263053"
+      },
+      {
+        "title": "New Orleansin taistelu",
+        "uri": "https://api.secondhandsongs.com/work/296091"
+      },
+      {
+        "title": "Waterloo",
+        "uri": "https://api.secondhandsongs.com/work/316500"
+      },
+      {
+        "title": "Heia Norge",
+        "uri": "https://api.secondhandsongs.com/work/344728"
+      }
+    ]
+  }
+}

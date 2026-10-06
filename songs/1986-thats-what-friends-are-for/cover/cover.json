@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "d6cedee7-7fbe-425a-b7b9-e8839519d0a3",
+      "release_title": "That’s What Friends Are For",
+      "release_date": "1985",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/46d7fdfe-06ca-4340-8fc0-2441ea492246/32206076156-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/46d7fdfe-06ca-4340-8fc0-2441ea492246",
+      "image_id": 32206076156,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1182
+      ],
+      "measures": {
+        "brightness": 0.47,
+        "saturation": 0.176,
+        "dark_share": 0.174,
+        "palette": [
+          {
+            "hex": "#403d41",
+            "share": 0.341
+          },
+          {
+            "hex": "#cab8aa",
+            "share": 0.262
+          },
+          {
+            "hex": "#23272a",
+            "share": 0.221
+          },
+          {
+            "hex": "#d8cbc2",
+            "share": 0.089
+          },
+          {
+            "hex": "#987e7e",
+            "share": 0.086
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a1cafedf-69c7-3ea2-9ea9-72b593024ad8",
+      "release_title": "Friends",
+      "release_date": "1985-11-25",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Friends",
+      "url": "http://coverartarchive.org/release/6ac36567-bb9d-4b8e-8481-01c4facacc33/37936359571-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6ac36567-bb9d-4b8e-8481-01c4facacc33",
+      "image_id": 37936359571,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        372,
+        600
+      ],
+      "measures": {
+        "brightness": 0.3,
+        "saturation": 0.27,
+        "dark_share": 0.359,
+        "palette": [
+          {
+            "hex": "#3b2d20",
+            "share": 0.263
+          },
+          {
+            "hex": "#101010",
+            "share": 0.248
+          },
+          {
+            "hex": "#a3856c",
+            "share": 0.233
+          },
+          {
+            "hex": "#4b3b2a",
+            "share": 0.175
+          },
+          {
+            "hex": "#21201c",
+            "share": 0.081
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/fd/0d/21/mzi.bbfvjyhe.jpg/1200x1200bb.jpg",
+      "collection": "Friends",
+      "collection_id": 271836067,
+      "track_id": 271836218,
+      "artist_name": "Dionne Warwick",
+      "release_date": "1985-10-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.567,
+        "saturation": 0.497,
+        "dark_share": 0.009,
+        "palette": [
+          {
+            "hex": "#783e34",
+            "share": 0.374
+          },
+          {
+            "hex": "#c88569",
+            "share": 0.195
+          },
+          {
+            "hex": "#57382f",
+            "share": 0.189
+          },
+          {
+            "hex": "#9e5c47",
+            "share": 0.13
+          },
+          {
+            "hex": "#dca185",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

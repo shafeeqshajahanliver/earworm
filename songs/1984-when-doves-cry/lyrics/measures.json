@@ -1,0 +1,41 @@
+{
+  "id": "1984-when-doves-cry",
+  "lyrics_kind": "synced",
+  "lrclib_id": 7025645,
+  "lines": 53,
+  "words": 318,
+  "unique_words": 90,
+  "type_token_ratio": 0.283,
+  "repeated_line_share": 0.321,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.28,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "when doves cry",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 24,
+    "second": 18,
+    "first_plural": 4
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 33.58,
+  "last_line_s": 219.05,
+  "sung_time_s": 155.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 122.7,
+  "words_per_minute_track": 83.4,
+  "longest_gap_between_lines_s": 16.83,
+  "longest_gap_starts_at_s": 153.15,
+  "first_repeated_block": {
+    "first_at_s": 71.35,
+    "recurs_at_s": 132.01,
+    "lines": [
+      "Maybe I'm just too demanding",
+      "Maybe I'm just like my father, too bold"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 7025645",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

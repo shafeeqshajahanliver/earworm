@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 12549464,
+  "kind": "synced",
+  "matched": {
+    "track": "The Battle of New Orleans",
+    "artist": "Johnny Horton",
+    "album": "The Battle of New Orleans",
+    "duration_s": 152.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (151s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 151.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 150.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (151s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37402541 (The Battle Of New Orleans / Johnny Horton / TTRH Season 3 - 06 - War, 187.0s): duration matches no reference length",
+    "lrclib 33563960 (The Battle of New Orleans / Johnny Horton / Johnny Horton on Stage, 180.0s): live/remix/other version",
+    "lrclib 22649367 (The Battle of New Orleans / Johnny Horton / Johnny Horton on Stage, 171.0s): live/remix/other version",
+    "lrclib 22780210 (The Battle of New Orleans / Johnny Horton / Johnny Horton Makes History, 156.969796s): duration matches no reference length",
+    "lrclib 31443535 (The Battle of New Orleans / Johnny Horton / Johnny Horton on Stage, 150.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1969-sugar-sugar",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37157933,
+  "lines": 45,
+  "words": 233,
+  "unique_words": 56,
+  "type_token_ratio": 0.24,
+  "repeated_line_share": 0.378,
+  "distinct_lines": 28,
+  "zlib_compression_ratio": 0.266,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "sugar sugar",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 21,
+    "second": 22,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.14,
+  "last_line_s": 155.82,
+  "sung_time_s": 155.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 89.8,
+  "words_per_minute_track": 83.0,
+  "longest_gap_between_lines_s": 5.53,
+  "longest_gap_starts_at_s": 34.14,
+  "first_repeated_block": {
+    "first_at_s": 15.19,
+    "recurs_at_s": 30.62,
+    "lines": [
+      "You are my candy girl",
+      "And you got me wanting you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37157933",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

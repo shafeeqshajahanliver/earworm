@@ -1,0 +1,41 @@
+{
+  "id": "1983-every-breath-you-take",
+  "lyrics_kind": "synced",
+  "lrclib_id": 16984188,
+  "lines": 77,
+  "words": 336,
+  "unique_words": 69,
+  "type_token_ratio": 0.205,
+  "repeated_line_share": 0.688,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.191,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "every breath you take",
+  "title_phrase_occurrences": 4,
+  "pronouns": {
+    "first_singular": 26,
+    "second": 70,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 15.4,
+  "last_line_s": 244.41,
+  "sung_time_s": 195.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 103.2,
+  "words_per_minute_track": 79.5,
+  "longest_gap_between_lines_s": 35.01,
+  "longest_gap_starts_at_s": 99.06,
+  "first_repeated_block": {
+    "first_at_s": 48.17,
+    "recurs_at_s": 134.07,
+    "lines": [
+      "Oh, can't you see",
+      "You belong to me?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 16984188",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

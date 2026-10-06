@@ -1,0 +1,267 @@
+{
+  "id": "1964-i-want-to-hold-your-hand",
+  "updated": "2026-10-06",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "i_want_to_hold_your_hand_dt",
+      "match": {
+        "title": "I Want to Hold Your Hand",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "16",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_want_to_hold_your_hand_dt.har/.clt + i_want_to_hold_your_hand.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 142 s; our recording 147 s",
+      "parse_check": "expanded 78 bars; timed chord list ends in bar 77",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 8.213,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 5
+        },
+        {
+          "start": 8.213,
+          "end": 22.451,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 5,
+          "bars": 8
+        },
+        {
+          "start": 22.451,
+          "end": 29.721,
+          "label": "Rf",
+          "normalised": "chorus",
+          "first_bar": 13,
+          "bars": 4
+        },
+        {
+          "start": 29.721,
+          "end": 44.177,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 17,
+          "bars": 8
+        },
+        {
+          "start": 44.177,
+          "end": 51.474,
+          "label": "Rf",
+          "normalised": "chorus",
+          "first_bar": 25,
+          "bars": 4
+        },
+        {
+          "start": 51.474,
+          "end": 71.683,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 29,
+          "bars": 11
+        },
+        {
+          "start": 71.683,
+          "end": 86.399,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 40,
+          "bars": 8
+        },
+        {
+          "start": 86.399,
+          "end": 93.776,
+          "label": "Rf",
+          "normalised": "chorus",
+          "first_bar": 48,
+          "bars": 4
+        },
+        {
+          "start": 93.776,
+          "end": 114.137,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 52,
+          "bars": 11
+        },
+        {
+          "start": 114.137,
+          "end": 128.843,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 63,
+          "bars": 8
+        },
+        {
+          "start": 128.843,
+          "end": 142.133,
+          "label": "Rfb",
+          "normalised": "chorus",
+          "first_bar": 71,
+          "bars": 7
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "i_want_to_hold_your_hand_tdc",
+      "match": {
+        "title": "I Want to Hold Your Hand",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "16",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_want_to_hold_your_hand_tdc.har/.clt + i_want_to_hold_your_hand.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 142 s; our recording 147 s",
+      "parse_check": "expanded 78 bars; timed chord list ends in bar 77",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 8.213,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 5
+        },
+        {
+          "start": 8.213,
+          "end": 22.451,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 5,
+          "bars": 8
+        },
+        {
+          "start": 22.451,
+          "end": 29.721,
+          "label": "Re",
+          "normalised": "chorus",
+          "first_bar": 13,
+          "bars": 4
+        },
+        {
+          "start": 29.721,
+          "end": 44.177,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 17,
+          "bars": 8
+        },
+        {
+          "start": 44.177,
+          "end": 51.474,
+          "label": "Re",
+          "normalised": "chorus",
+          "first_bar": 25,
+          "bars": 4
+        },
+        {
+          "start": 51.474,
+          "end": 71.683,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 29,
+          "bars": 11
+        },
+        {
+          "start": 71.683,
+          "end": 86.399,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 40,
+          "bars": 8
+        },
+        {
+          "start": 86.399,
+          "end": 93.776,
+          "label": "Re",
+          "normalised": "chorus",
+          "first_bar": 48,
+          "bars": 4
+        },
+        {
+          "start": 93.776,
+          "end": 114.137,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 52,
+          "bars": 11
+        },
+        {
+          "start": 114.137,
+          "end": 128.843,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 63,
+          "bars": 8
+        },
+        {
+          "start": 128.843,
+          "end": 142.133,
+          "label": "Re2",
+          "normalised": "chorus",
+          "first_bar": 71,
+          "bars": 7
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse chorus verse chorus bridge verse chorus bridge verse chorus",
+      "rolling_stone_tdc": "intro verse chorus verse chorus bridge verse chorus bridge verse chorus"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      }
+    ],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-06",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 768854,
+  "kind": "synced",
+  "matched": {
+    "track": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "album": "The Bodyguard - Original Soundtrack Album",
+    "duration_s": 271.0
+  },
+  "duration_matched_to": "musicbrainz recording length (271s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 270.866,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 271.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 271.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36995678 (I Will Always Love You / Whitney Houston / ChartBoxx: Soul Classics, 265.0s): duration matches no reference length",
+    "lrclib 37008603 (I Will Always Love You / Whitney Houston / Die Ultimative Chartshow Lieblingssongs Der Frauen, 265.0s): duration matches no reference length",
+    "lrclib 37107087 (I Will Always Love You / Whitney Houston / Old School, 265.0s): duration matches no reference length",
+    "lrclib 37047596 (I Will Always Love You / Whitney Houston / Greatest Hits: Cool Down, 264.0s): duration matches no reference length",
+    "lrclib 37311325 (I Will Always Love You / Whitney Houston / The Greatest Hits, Disc 1 - Cool Down, 132.0s): duration matches no reference length",
+    "lrclib 25862763 (I Will Always Love You / Whitney Houston / I Will Always Love You: The Best Of Whitney Houston, 264.3120128s): duration matches no reference length",
+    "lrclib 37837704 (I Will Always Love You / Whitney Houston / I Will Always Love You: The Best Of Whitney Houston, 281.0s): duration matches no reference length",
+    "lrclib 29741730 (I Will Always Love You / Whitney Houston / Whitney Houston - Love, Whitney, 264.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1973-tie-a-yellow-ribbon-round-the-ole-oak-tree",
+  "preview": {
+    "service": "deezer",
+    "track_id": 861018,
+    "matched_by": "isrc",
+    "isrc": "USAR19800305",
+    "title": "Tie a Yellow Ribbon Round the Ole Oak Tree (feat. Tony Orlando) (1998 Remastered)",
+    "artist": "Dawn",
+    "album": "Tuneweaving",
+    "track_duration_s": 204,
+    "link": "https://www.deezer.com/track/861018",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 87.8,
+    "tempo_bpm_grid": 88.3,
+    "tempo_candidates_bpm": [
+      172.3,
+      89.1,
+      184.6
+    ],
+    "beats_detected": 43,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.775,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.627,
+    "chroma_profile": [
+      0.91,
+      0.774,
+      1.0,
+      0.758,
+      0.92,
+      0.945,
+      0.778,
+      0.92,
+      0.781,
+      0.976,
+      0.784,
+      0.646
+    ],
+    "rms_dbfs": -16.65,
+    "rms_dbfs_p95_frame": -12.91,
+    "peak_dbfs": -1.45,
+    "loudness_lufs_approx": -16.5,
+    "spectral_centroid_hz_mean": 2334.4,
+    "spectral_centroid_hz_median": 2260.5,
+    "onsets": 123,
+    "onset_density_per_s": 4.102,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 861018",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 175.2,
+    "gain": -16,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/861018",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (175.2): octave error likely"
+  ],
+  "rejected_candidates": []
+}

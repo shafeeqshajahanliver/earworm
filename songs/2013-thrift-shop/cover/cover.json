@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "10cdf553-e53b-491e-b4d6-db5bb69fd6bf",
+      "release_title": "Thrift Shop",
+      "release_date": "2012-08-01",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/7ff3e82b-c447-4352-8a26-4316947c1b09/3369526433-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/7ff3e82b-c447-4352-8a26-4316947c1b09",
+      "image_id": "3369526433",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.427,
+        "saturation": 0.289,
+        "dark_share": 0.112,
+        "palette": [
+          {
+            "hex": "#623f33",
+            "share": 0.311
+          },
+          {
+            "hex": "#667681",
+            "share": 0.277
+          },
+          {
+            "hex": "#322c2a",
+            "share": 0.22
+          },
+          {
+            "hex": "#60666e",
+            "share": 0.113
+          },
+          {
+            "hex": "#b8b4b0",
+            "share": 0.08
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "22315cdd-4ed9-427c-9492-560cf4afed58",
+      "release_title": "The Heist",
+      "release_date": "2012-10-09",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Heist",
+      "url": "http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a100f86e-ac89-4ced-98e9-799f4329622e",
+      "image_id": "2307424566",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.064,
+        "saturation": 0.309,
+        "dark_share": 0.943,
+        "palette": [
+          {
+            "hex": "#0a0d0e",
+            "share": 0.292
+          },
+          {
+            "hex": "#000001",
+            "share": 0.21
+          },
+          {
+            "hex": "#030405",
+            "share": 0.175
+          },
+          {
+            "hex": "#2a2a24",
+            "share": 0.17
+          },
+          {
+            "hex": "#010101",
+            "share": 0.153
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/40/83/44408300-636f-8cae-d508-9dd96db48cea/707541528191.jpg/1200x1200bb.jpg",
+      "collection": "The Heist",
+      "collection_id": 560097246,
+      "track_id": 560097550,
+      "artist_name": "Macklemore & Ryan Lewis",
+      "release_date": "2012-08-27T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.086,
+        "saturation": 0.228,
+        "dark_share": 0.946,
+        "palette": [
+          {
+            "hex": "#090c0d",
+            "share": 0.295
+          },
+          {
+            "hex": "#151818",
+            "share": 0.223
+          },
+          {
+            "hex": "#0d1011",
+            "share": 0.212
+          },
+          {
+            "hex": "#080a0b",
+            "share": 0.191
+          },
+          {
+            "hex": "#363329",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

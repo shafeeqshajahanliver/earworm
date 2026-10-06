@@ -1,0 +1,712 @@
+{
+  "id": "1983-every-breath-you-take",
+  "updated": "2026-10-06",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "every_breath_you_take_dt",
+      "match": {
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "year": "1983",
+        "rs500_rank": "84",
+        "audio_used": {
+          "artist": "The Police",
+          "album": "Synchronicity",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, every_breath_you_take_dt.har/.clt + every_breath_you_take.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 246 s; our recording 253 s",
+      "parse_check": "expanded 120 bars; timed chord list ends in bar 119",
+      "key_info": {
+        "tonic": "A",
+        "tonic_pc": 9,
+        "mode": null,
+        "name": "A",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.832,
+          "end": 17.196,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | vi | | IV | V | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 17.196,
+          "end": 33.555,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 33.555,
+          "end": 49.921,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | vi | | IV | V | I | |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 49.921,
+          "end": 66.284,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "D",
+            "A",
+            "B7",
+            "Esus4"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V7/V",
+            "Vs4"
+          ],
+          "raw_rule": "IV | | I | | V7/V | | Vs4 | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 66.284,
+          "end": 82.644,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | |"
+        },
+        {
+          "label": "Br2",
+          "normalised": "bridge",
+          "start": 82.644,
+          "end": 103.108,
+          "bars": 10,
+          "key": "A",
+          "written": [
+            "F",
+            "G",
+            "F",
+            "G",
+            "F"
+          ],
+          "roman": [
+            "bVI",
+            "bVII",
+            "bVI",
+            "bVII",
+            "bVI"
+          ],
+          "raw_rule": "bVI | | bVII | | bVI | | bVII | | bVI | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 103.108,
+          "end": 119.445,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 119.445,
+          "end": 135.817,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | vi | | IV | V | I | |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 135.817,
+          "end": 152.176,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "D",
+            "A",
+            "B7",
+            "Esus4"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V7/V",
+            "Vs4"
+          ],
+          "raw_rule": "IV | | I | | V7/V | | Vs4 | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 152.176,
+          "end": 168.54,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | |"
+        },
+        {
+          "label": "Ta",
+          "normalised": "other",
+          "start": 168.54,
+          "end": 180.795,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "IV | V | vi | | | |"
+        },
+        {
+          "label": "Fadeout",
+          "normalised": "outro",
+          "start": 180.795,
+          "end": 246.255,
+          "bars": 32,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV"
+          ],
+          "raw_rule": "$CP*8"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "every_breath_you_take_tdc",
+      "match": {
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "year": "1983",
+        "rs500_rank": "84",
+        "audio_used": {
+          "artist": "The Police",
+          "album": "Synchronicity",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, every_breath_you_take_tdc.har/.clt + every_breath_you_take.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 246 s; our recording 253 s",
+      "parse_check": "expanded 120 bars; timed chord list ends in bar 119",
+      "key_info": {
+        "tonic": "A",
+        "tonic_pc": 9,
+        "mode": null,
+        "name": "A",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 0.832,
+          "end": 17.196,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | vi | | IV | V | I | |"
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 17.196,
+          "end": 33.555,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 33.555,
+          "end": 49.921,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | vi | | IV | V | I | |"
+        },
+        {
+          "label": "Br1",
+          "normalised": "bridge",
+          "start": 49.921,
+          "end": 66.284,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "D",
+            "A",
+            "B",
+            "E"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V/V",
+            "V"
+          ],
+          "raw_rule": "IV | | I | | V/V | | V | |"
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 66.284,
+          "end": 82.644,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | |"
+        },
+        {
+          "label": "Br2",
+          "normalised": "bridge",
+          "start": 82.644,
+          "end": 103.108,
+          "bars": 10,
+          "key": "A",
+          "written": [
+            "F",
+            "G",
+            "F",
+            "G",
+            "F"
+          ],
+          "roman": [
+            "bVI",
+            "bVII",
+            "bVI",
+            "bVII",
+            "bVI"
+          ],
+          "raw_rule": "bVI | | bVII | | bVI | | bVII | | bVI | |"
+        },
+        {
+          "label": "Vr1a",
+          "normalised": "verse",
+          "start": 103.108,
+          "end": 119.445,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | vi V |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 119.445,
+          "end": 135.817,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | vi | | IV | V | I | |"
+        },
+        {
+          "label": "Br1",
+          "normalised": "bridge",
+          "start": 135.817,
+          "end": 152.176,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "D",
+            "A",
+            "B",
+            "E"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V/V",
+            "V"
+          ],
+          "raw_rule": "IV | | I | | V/V | | V | |"
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 152.176,
+          "end": 168.54,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw_rule": "I | | vi | | IV | V | vi | |"
+        },
+        {
+          "label": "Ta",
+          "normalised": "other",
+          "start": 168.54,
+          "end": 180.795,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "D",
+            "E",
+            "F#m",
+            "E"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "IV | V | vi | | | vi V |"
+        },
+        {
+          "label": "Ou",
+          "normalised": "outro",
+          "start": 180.795,
+          "end": 246.255,
+          "bars": 32,
+          "key": "A",
+          "written": [
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D",
+            "A",
+            "F#m",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV"
+          ],
+          "raw_rule": "I | | vi | IV |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "A",
+      "rolling_stone_tdc": "A"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-06",
+    "confidence": "computed"
+  }
+}

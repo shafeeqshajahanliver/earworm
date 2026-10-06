@@ -1,0 +1,70 @@
+{
+  "id": "1983-every-breath-you-take",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4159680,
+    "matched_by": "isrc",
+    "isrc": "GBAAM0201110",
+    "title": "Every Breath You Take (Remastered 2003)",
+    "artist": "The Police",
+    "album": "Every Breath You Take The Classics",
+    "track_duration_s": 254,
+    "link": "https://www.deezer.com/track/4159680",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.3,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      58.7,
+      117.5,
+      234.9
+    ],
+    "beats_detected": 57,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.608,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.502,
+    "chroma_profile": [
+      0.752,
+      0.861,
+      0.725,
+      1.0,
+      0.865,
+      0.817,
+      0.687,
+      0.621,
+      0.845,
+      0.733,
+      0.723,
+      0.697
+    ],
+    "rms_dbfs": -13.1,
+    "rms_dbfs_p95_frame": -9.59,
+    "peak_dbfs": -0.17,
+    "loudness_lufs_approx": -13.77,
+    "spectral_centroid_hz_mean": 1666.7,
+    "spectral_centroid_hz_median": 1558.3,
+    "onsets": 117,
+    "onset_density_per_s": 3.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4159680",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 117.5,
+    "gain": -13.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4159680",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

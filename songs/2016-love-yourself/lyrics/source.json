@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 543485,
+  "kind": "synced",
+  "matched": {
+    "track": "Love Yourself",
+    "artist": "Justin Bieber",
+    "album": "Purpose",
+    "duration_s": 234.0
+  },
+  "duration_matched_to": "musicbrainz recording length (233s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 233.066,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 234.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 233.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36942556 (Love Yourself / Justin Bieber / Purpose [Deluxe], 245.0s): duration matches no reference length",
+    "lrclib 37242339 (Love Yourself / Justin Bieber / Mr Entertainer Karaoke MRH136 December 2015, 254.0s): live/remix/other version",
+    "lrclib 34637269 (Love Yourself / Justin Bieber / Purpose, 223.0s): duration matches no reference length",
+    "lrclib 34752843 (Love Yourself / Justin Bieber / En Vrac & Youtube, 272.0s): duration matches no reference length",
+    "lrclib 27433683 (Love Yourself (Brynny X Teddy Cream Booty) / Justin Bieber / Justin Bieber, 272.326531s): duration matches no reference length",
+    "lrclib 34119958 (Love Yourself / Justin Bieber / Love Yourself, 187.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 16896289,
+  "kind": "synced",
+  "matched": {
+    "track": "Joy To The World",
+    "artist": "Three Dog Night",
+    "album": "Joy To The World: Their Greatest Hits [Three Dog Night]",
+    "duration_s": 216.226667
+  },
+  "duration_matched_to": "musicbrainz recording length (216s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 216.48,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 220.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 197.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 220.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 34,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37379201 (Joy To The World / Three Dog Night / Naturally, 190.0s): duration matches no reference length",
+    "lrclib 37437728 (Joy to the World / Three Dog Night / Original Party Music, Vol. 2, 232.0s): duration matches no reference length",
+    "lrclib 35624740 (Joy to the World / Three Dog Night / Around the World With Three Dog Night, 164.0s): duration matches no reference length",
+    "lrclib 18805918 (Joy To The World / Three Dog Night / Around The World With Three Dog Night, 188.32s): duration matches no reference length",
+    "lrclib 20323181 (Joy to the World / Three Dog Night / Around the World With Three Dog Night, 176.253458s): duration matches no reference length",
+    "lrclib 20398057 (Joy To The World Live / Three Dog Night / Around The World in Three Dog Night, 355.0643119s): live/remix/other version",
+    "lrclib 20203623 (Joy to the World / Three Dog Night / Joy to the World, 209.345313s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

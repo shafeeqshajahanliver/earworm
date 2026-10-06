@@ -1,0 +1,112 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bryan Adams"
+  ],
+  "title_as_charted": [
+    "(Everything I Do) I Do It For You"
+  ],
+  "debut_week": "1991-06-29",
+  "debut_position": 53,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "1991-07-27",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 22,
+  "last_week": "1991-11-23",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "1991-06-29",
+      53
+    ],
+    [
+      "1991-07-06",
+      31
+    ],
+    [
+      "1991-07-13",
+      14
+    ],
+    [
+      "1991-07-20",
+      4
+    ],
+    [
+      "1991-07-27",
+      1
+    ],
+    [
+      "1991-08-03",
+      1
+    ],
+    [
+      "1991-08-10",
+      1
+    ],
+    [
+      "1991-08-17",
+      1
+    ],
+    [
+      "1991-08-24",
+      1
+    ],
+    [
+      "1991-08-31",
+      1
+    ],
+    [
+      "1991-09-07",
+      1
+    ],
+    [
+      "1991-09-14",
+      3
+    ],
+    [
+      "1991-09-21",
+      6
+    ],
+    [
+      "1991-09-28",
+      12
+    ],
+    [
+      "1991-10-05",
+      13
+    ],
+    [
+      "1991-10-12",
+      23
+    ],
+    [
+      "1991-10-19",
+      33
+    ],
+    [
+      "1991-10-26",
+      40
+    ],
+    [
+      "1991-11-02",
+      46
+    ],
+    [
+      "1991-11-09",
+      60
+    ],
+    [
+      "1991-11-16",
+      64
+    ],
+    [
+      "1991-11-23",
+      75
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

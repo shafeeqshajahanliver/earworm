@@ -1,0 +1,70 @@
+{
+  "id": "2004-yeah",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13783449,
+    "matched_by": "isrc",
+    "isrc": "USAR10301423",
+    "title": "Yeah! (feat. Lil Jon & Ludacris)",
+    "artist": "USHER",
+    "album": "Confessions (Expanded Edition)",
+    "track_duration_s": 250,
+    "link": "https://www.deezer.com/track/13783449",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.1,
+    "tempo_bpm_grid": 105.5,
+    "tempo_candidates_bpm": [
+      215.3,
+      69.8,
+      103.4
+    ],
+    "beats_detected": 53,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.618,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.524,
+    "chroma_profile": [
+      0.207,
+      0.188,
+      0.239,
+      0.454,
+      1.0,
+      0.439,
+      0.331,
+      0.366,
+      0.287,
+      0.267,
+      0.232,
+      0.207
+    ],
+    "rms_dbfs": -7.29,
+    "rms_dbfs_p95_frame": -4.06,
+    "peak_dbfs": 2.08,
+    "loudness_lufs_approx": -7.69,
+    "spectral_centroid_hz_mean": 3414.7,
+    "spectral_centroid_hz_median": 3273.8,
+    "onsets": 100,
+    "onset_density_per_s": 3.335,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13783449",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 104.9,
+    "gain": -8.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13783449",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

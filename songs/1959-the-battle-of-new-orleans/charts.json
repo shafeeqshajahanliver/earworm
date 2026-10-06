@@ -1,0 +1,108 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Johnny Horton"
+  ],
+  "title_as_charted": [
+    "The Battle Of New Orleans"
+  ],
+  "debut_week": "1959-04-27",
+  "debut_position": 93,
+  "peak_position": 1,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "1959-06-01",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 21,
+  "last_week": "1959-09-14",
+  "weeks_at_number_one": 6,
+  "run": [
+    [
+      "1959-04-27",
+      93
+    ],
+    [
+      "1959-05-04",
+      36
+    ],
+    [
+      "1959-05-11",
+      23
+    ],
+    [
+      "1959-05-18",
+      7
+    ],
+    [
+      "1959-05-25",
+      2
+    ],
+    [
+      "1959-06-01",
+      1
+    ],
+    [
+      "1959-06-08",
+      1
+    ],
+    [
+      "1959-06-15",
+      1
+    ],
+    [
+      "1959-06-22",
+      1
+    ],
+    [
+      "1959-06-29",
+      1
+    ],
+    [
+      "1959-07-06",
+      1
+    ],
+    [
+      "1959-07-13",
+      2
+    ],
+    [
+      "1959-07-20",
+      2
+    ],
+    [
+      "1959-07-27",
+      2
+    ],
+    [
+      "1959-08-03",
+      4
+    ],
+    [
+      "1959-08-10",
+      7
+    ],
+    [
+      "1959-08-17",
+      13
+    ],
+    [
+      "1959-08-24",
+      25
+    ],
+    [
+      "1959-08-31",
+      34
+    ],
+    [
+      "1959-09-07",
+      42
+    ],
+    [
+      "1959-09-14",
+      91
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

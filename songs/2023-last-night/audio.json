@@ -1,0 +1,70 @@
+{
+  "id": "2023-last-night",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3398329171,
+    "matched_by": "isrc",
+    "isrc": "USUG12300802",
+    "title": "Last Night",
+    "artist": "Morgan Wallen",
+    "album": "One Thing At A Time",
+    "track_duration_s": 163,
+    "link": "https://www.deezer.com/track/3398329171",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.0,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      103.4,
+      50.7,
+      198.8
+    ],
+    "beats_detected": 51,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.807,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.752,
+    "chroma_profile": [
+      0.46,
+      0.882,
+      0.538,
+      1.0,
+      0.572,
+      0.602,
+      0.973,
+      0.497,
+      0.55,
+      0.379,
+      0.672,
+      0.499
+    ],
+    "rms_dbfs": -8.23,
+    "rms_dbfs_p95_frame": -5.63,
+    "peak_dbfs": 1.0,
+    "loudness_lufs_approx": -7.96,
+    "spectral_centroid_hz_mean": 1990.9,
+    "spectral_centroid_hz_median": 1845.1,
+    "onsets": 117,
+    "onset_density_per_s": 3.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3398329171",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3398329171",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

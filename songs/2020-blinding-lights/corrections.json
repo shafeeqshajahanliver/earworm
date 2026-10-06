@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "file": "facts.json",
+      "field": "musicbrainz.length_ms",
+      "upstream_value": 262000,
+      "corrected_value": 200000,
+      "reason": "The charting single runs 3:20. Both the LRCLIB lyrics and the Deezer preview match the 200 s version; the 262 s MusicBrainz length matches no released edit we could find.",
+      "confidence": "claude-knowledge",
+      "found_by": "lyrics/audio matching (tools/lyrics.py, tools/audio.py)",
+      "date": "2026-10-06"
+    }
+  ]
+}

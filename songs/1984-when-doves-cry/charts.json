@@ -1,0 +1,116 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Prince"
+  ],
+  "title_as_charted": [
+    "When Doves Cry"
+  ],
+  "debut_week": "1984-06-02",
+  "debut_position": 57,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1984-07-07",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 23,
+  "last_week": "2016-05-14",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1984-06-02",
+      57
+    ],
+    [
+      "1984-06-09",
+      36
+    ],
+    [
+      "1984-06-16",
+      17
+    ],
+    [
+      "1984-06-23",
+      8
+    ],
+    [
+      "1984-06-30",
+      3
+    ],
+    [
+      "1984-07-07",
+      1
+    ],
+    [
+      "1984-07-14",
+      1
+    ],
+    [
+      "1984-07-21",
+      1
+    ],
+    [
+      "1984-07-28",
+      1
+    ],
+    [
+      "1984-08-04",
+      1
+    ],
+    [
+      "1984-08-11",
+      2
+    ],
+    [
+      "1984-08-18",
+      4
+    ],
+    [
+      "1984-08-25",
+      4
+    ],
+    [
+      "1984-09-01",
+      5
+    ],
+    [
+      "1984-09-08",
+      11
+    ],
+    [
+      "1984-09-15",
+      17
+    ],
+    [
+      "1984-09-22",
+      23
+    ],
+    [
+      "1984-09-29",
+      46
+    ],
+    [
+      "1984-10-06",
+      63
+    ],
+    [
+      "1984-10-13",
+      70
+    ],
+    [
+      "1984-10-20",
+      96
+    ],
+    [
+      "2016-05-07",
+      20
+    ],
+    [
+      "2016-05-14",
+      8
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

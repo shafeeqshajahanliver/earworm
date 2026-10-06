@@ -1,0 +1,41 @@
+{
+  "id": "1977-tonights-the-night-gonna-be-alright",
+  "lyrics_kind": "synced",
+  "lrclib_id": 822160,
+  "lines": 29,
+  "words": 159,
+  "unique_words": 87,
+  "type_token_ratio": 0.547,
+  "repeated_line_share": 0.276,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.433,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "tonight's the night",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 9,
+    "second": 10,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 18.0,
+  "last_line_s": 192.42,
+  "sung_time_s": 150.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 63.6,
+  "words_per_minute_track": 40.4,
+  "longest_gap_between_lines_s": 31.24,
+  "longest_gap_starts_at_s": 120.07,
+  "first_repeated_block": {
+    "first_at_s": 66.18,
+    "recurs_at_s": 108.71,
+    "lines": [
+      "Tonight's the night",
+      "It's gonna be alright"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 822160",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

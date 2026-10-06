@@ -1,0 +1,264 @@
+{
+  "id": "1984-when-doves-cry",
+  "updated": "2026-10-06",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "when_doves_cry_dt",
+      "match": {
+        "title": "When Doves Cry",
+        "artist": "Prince and the Revolution",
+        "year": "1984",
+        "rs500_rank": "52",
+        "audio_used": {
+          "artist": "Prince and the Revolution",
+          "album": "Purple Rain",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, when_doves_cry_dt.har/.clt + when_doves_cry.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 353 s; our recording 229 s",
+      "parse_check": "expanded 184 bars; timed chord list ends in bar 180",
+      "version_note": "annotated audio runs to 353 s vs 229 s for our recording (Purple Rain): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 3.217,
+          "end": 33.588,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 16
+        },
+        {
+          "start": 33.588,
+          "end": 94.311,
+          "label": "VP",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 32
+        },
+        {
+          "start": 94.311,
+          "end": 109.493,
+          "label": "Break",
+          "normalised": "instrumental",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 109.493,
+          "end": 155.038,
+          "label": "VP",
+          "normalised": "verse",
+          "first_bar": 56,
+          "bars": 24
+        },
+        {
+          "start": 155.038,
+          "end": 170.22,
+          "label": "Break",
+          "normalised": "instrumental",
+          "first_bar": 80,
+          "bars": 8
+        },
+        {
+          "start": 170.22,
+          "end": 200.585,
+          "label": "VP2",
+          "normalised": "verse",
+          "first_bar": 88,
+          "bars": 16
+        },
+        {
+          "start": 200.585,
+          "end": 344.839,
+          "label": "VP2",
+          "normalised": "verse",
+          "first_bar": 104,
+          "bars": 76
+        },
+        {
+          "start": 344.839,
+          "end": 352.524,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 180,
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "when_doves_cry_tdc",
+      "match": {
+        "title": "When Doves Cry",
+        "artist": "Prince and the Revolution",
+        "year": "1984",
+        "rs500_rank": "52",
+        "audio_used": {
+          "artist": "Prince and the Revolution",
+          "album": "Purple Rain",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, when_doves_cry_tdc.har/.clt + when_doves_cry.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 353 s; our recording 229 s",
+      "parse_check": "expanded 184 bars; timed chord list ends in bar 180",
+      "version_note": "annotated audio runs to 353 s vs 229 s for our recording (Purple Rain): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 3.217,
+          "end": 18.404,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 18.404,
+          "end": 33.588,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 33.588,
+          "end": 63.949,
+          "label": "Vr1",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 16
+        },
+        {
+          "start": 63.949,
+          "end": 94.311,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 32,
+          "bars": 16
+        },
+        {
+          "start": 94.311,
+          "end": 109.493,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 109.493,
+          "end": 155.038,
+          "label": "Vr3",
+          "normalised": "verse",
+          "first_bar": 56,
+          "bars": 24
+        },
+        {
+          "start": 155.038,
+          "end": 170.22,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 80,
+          "bars": 8
+        },
+        {
+          "start": 170.22,
+          "end": 200.585,
+          "label": "Vr4",
+          "normalised": "verse",
+          "first_bar": 88,
+          "bars": 16
+        },
+        {
+          "start": 200.585,
+          "end": 215.771,
+          "label": "E",
+          "normalised": "other",
+          "first_bar": 104,
+          "bars": 8
+        },
+        {
+          "start": 215.771,
+          "end": 299.291,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 112,
+          "bars": 44
+        },
+        {
+          "start": 299.291,
+          "end": 314.474,
+          "label": "So",
+          "normalised": "solo",
+          "first_bar": 156,
+          "bars": 8
+        },
+        {
+          "start": 314.474,
+          "end": 344.839,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 164,
+          "bars": 16
+        },
+        {
+          "start": 344.839,
+          "end": 352.524,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 180,
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse instrumental verse instrumental verse",
+      "rolling_stone_tdc": "intro verse bridge solo outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.33
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "disputed",
+    "notes": [
+      "rolling_stone_dt: annotated audio runs to 353 s vs 229 s for our recording (Purple Rain): a different version; section times do not line up with the charting recording",
+      "rolling_stone_tdc: annotated audio runs to 353 s vs 229 s for our recording (Purple Rain): a different version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-06",
+    "confidence": "computed"
+  }
+}

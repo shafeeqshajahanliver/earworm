@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "dc3fc902-3957-337e-9629-5d14e8b879cf",
+      "release_title": "Sugar, Sugar",
+      "release_date": "1969",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ab0f4dbc-c598-4483-9310-e88d7151d8e1/13993832623-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ab0f4dbc-c598-4483-9310-e88d7151d8e1",
+      "image_id": 13993832623,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        597
+      ],
+      "measures": {
+        "brightness": 0.578,
+        "saturation": 0.541,
+        "dark_share": 0.245,
+        "palette": [
+          {
+            "hex": "#c95f36",
+            "share": 0.358
+          },
+          {
+            "hex": "#16161c",
+            "share": 0.286
+          },
+          {
+            "hex": "#cb643b",
+            "share": 0.183
+          },
+          {
+            "hex": "#c38369",
+            "share": 0.092
+          },
+          {
+            "hex": "#954d32",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d8d91e09-97ab-3f5a-a934-18c72c1273e4",
+      "release_title": "Everything’s Archie",
+      "release_date": "1969",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Everything's Archie",
+      "url": "https://coverartarchive.org/release/3ab88925-92ec-4ed0-a1eb-a2bf887d162d/3394259652-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3ab88925-92ec-4ed0-a1eb-a2bf887d162d",
+      "image_id": 3394259652,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.611,
+        "saturation": 0.617,
+        "dark_share": 0.14,
+        "palette": [
+          {
+            "hex": "#fdfde9",
+            "share": 0.284
+          },
+          {
+            "hex": "#5f0d05",
+            "share": 0.222
+          },
+          {
+            "hex": "#290504",
+            "share": 0.195
+          },
+          {
+            "hex": "#cf8859",
+            "share": 0.181
+          },
+          {
+            "hex": "#8f210c",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/35/9c/3f359c1d-2f7e-2756-3261-a4b053c6c0e6/dj.ohpderqx.jpg/1200x1200bb.jpg",
+      "collection": "Sugar, Sugar - Single",
+      "collection_id": 214805379,
+      "track_id": 214805381,
+      "artist_name": "The Archies",
+      "release_date": "1969-05-24T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.671,
+        "saturation": 0.744,
+        "dark_share": 0.047,
+        "palette": [
+          {
+            "hex": "#282853",
+            "share": 0.321
+          },
+          {
+            "hex": "#ad2736",
+            "share": 0.275
+          },
+          {
+            "hex": "#ddc32f",
+            "share": 0.16
+          },
+          {
+            "hex": "#fdda14",
+            "share": 0.145
+          },
+          {
+            "hex": "#997449",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

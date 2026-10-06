@@ -1,0 +1,91 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-06",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/4963",
+    "title": "My Sharona",
+    "performer": "The Knack [US]",
+    "is_original": true,
+    "first_release_date": "1979-06-01",
+    "releases": [
+      {
+        "title": "My Sharona",
+        "uri": "https://api.secondhandsongs.com/release/2595",
+        "performer": "The Knack [US]"
+      },
+      {
+        "title": "Get the Knack",
+        "uri": "https://api.secondhandsongs.com/release/41654",
+        "performer": "The Knack [US]"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 62,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/4963",
+    "title": "My Sharona",
+    "language": "English",
+    "writers": [
+      "Berton Averre",
+      "Doug Fieger"
+    ],
+    "original_performer": "The Knack [US]",
+    "versions": 63,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "My Bologna",
+        "uri": "https://api.secondhandsongs.com/work/23162"
+      },
+      {
+        "title": "Comme des conards",
+        "uri": "https://api.secondhandsongs.com/work/52111"
+      },
+      {
+        "title": "Babylona",
+        "uri": "https://api.secondhandsongs.com/work/128584"
+      },
+      {
+        "title": "Maj melouna",
+        "uri": "https://api.secondhandsongs.com/work/207404"
+      },
+      {
+        "title": "My Corona",
+        "uri": "https://api.secondhandsongs.com/work/225514"
+      },
+      {
+        "title": "My Corona",
+        "uri": "https://api.secondhandsongs.com/work/225517"
+      },
+      {
+        "title": "Mašta moja",
+        "uri": "https://api.secondhandsongs.com/work/313123"
+      },
+      {
+        "title": "Mi Sharona",
+        "uri": "https://api.secondhandsongs.com/work/313749"
+      },
+      {
+        "title": "愛到你發狂",
+        "uri": "https://api.secondhandsongs.com/work/331051"
+      },
+      {
+        "title": "Moe Sihota",
+        "uri": "https://api.secondhandsongs.com/work/348924"
+      }
+    ]
+  }
+}

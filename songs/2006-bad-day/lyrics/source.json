@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13311,
+  "kind": "synced",
+  "matched": {
+    "track": "Bad Day",
+    "artist": "Daniel Powter",
+    "album": "Daniel Powter",
+    "duration_s": 234.0
+  },
+  "duration_matched_to": "musicbrainz recording length (235s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 235.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 235.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35192631 (Bad Day / Daniel Powter / Daniel Powter, 215.0s): duration matches no reference length",
+    "lrclib 35903630 (Bad Day / Daniel Powter / Daniel Powter, 110.0s): duration matches no reference length",
+    "lrclib 35903664 (Bad Day / Daniel Powter / Daniel Powter, 200.0s): duration matches no reference length",
+    "lrclib 35903618 (Bad Day / Daniel Powter / Daniel Powter, 44.0s): duration matches no reference length",
+    "lrclib 33839343 (Bad Day / Daniel Powter / Daniel Powter, 4.0s): duration matches no reference length",
+    "lrclib 35608928 (Bad Day / Daniel Powter / Daniel Powter, 30.0s): duration matches no reference length",
+    "lrclib 35668042 (Bad Day / Daniel Powter / Daniel Powter, 210.0s): duration matches no reference length",
+    "lrclib 22620468 (Bad Day / Daniel Powter / Daniel Powter, 225.697875s): duration matches no reference length",
+    "lrclib 22634471 (Bad Day / Daniel Powter / Daniel Powter, 271.750687s): duration matches no reference length",
+    "lrclib 5697179 (Bad Day / Daniel Powter / Daniel Powter, 229.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1961-tossin-and-turnin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 12465442,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USGZ20600422",
+    "title": "Tossin' And Turnin'",
+    "artist": "Bobby Lewis",
+    "album": "Golden Oldies",
+    "track_duration_s": 161,
+    "link": "https://www.deezer.com/track/12465442",
+    "duration_matched_to": "musicbrainz recording length (160s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 141.5,
+    "tempo_bpm_grid": 141.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      136.0,
+      71.8
+    ],
+    "beats_detected": 70,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.755,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.668,
+    "chroma_profile": [
+      0.881,
+      0.585,
+      0.744,
+      0.855,
+      0.865,
+      0.674,
+      0.803,
+      1.0,
+      0.746,
+      0.819,
+      0.709,
+      0.895
+    ],
+    "rms_dbfs": -13.71,
+    "rms_dbfs_p95_frame": -10.8,
+    "peak_dbfs": -2.87,
+    "loudness_lufs_approx": -13.72,
+    "spectral_centroid_hz_mean": 2524.0,
+    "spectral_centroid_hz_median": 2449.9,
+    "onsets": 81,
+    "onset_density_per_s": 2.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 12465442",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -14.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/12465442",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 6646228: version (Tossin' and Turnin' (Rerecorded))",
+    "deezer 3770138192: version (Tossin' & Turnin' (Live))",
+    "deezer 138021935: duration 194s matches no reference length",
+    "deezer 3675928152: version (Tossin' & Turnin' (Sped Up))",
+    "deezer 6070086: version (Tossin' And Turnin' (Karaoke Version))"
+  ]
+}

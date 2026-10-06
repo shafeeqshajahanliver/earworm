@@ -1,0 +1,41 @@
+{
+  "id": "1964-i-want-to-hold-your-hand",
+  "lyrics_kind": "synced",
+  "lrclib_id": 5098139,
+  "lines": 34,
+  "words": 187,
+  "unique_words": 39,
+  "type_token_ratio": 0.209,
+  "repeated_line_share": 0.471,
+  "distinct_lines": 18,
+  "zlib_compression_ratio": 0.243,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i want to hold your hand",
+  "title_phrase_occurrences": 11,
+  "pronouns": {
+    "first_singular": 35,
+    "second": 24,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.18,
+  "last_line_s": 136.15,
+  "sung_time_s": 132.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 84.6,
+  "words_per_minute_track": 76.3,
+  "longest_gap_between_lines_s": 7.41,
+  "longest_gap_starts_at_s": 93.78,
+  "first_repeated_block": {
+    "first_at_s": 58.77,
+    "recurs_at_s": 101.19,
+    "lines": [
+      "It's such a feelin' that my love",
+      "I can't hide, I can't hide"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 5098139",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

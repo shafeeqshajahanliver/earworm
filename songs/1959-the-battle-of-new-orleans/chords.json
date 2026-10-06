@@ -1,0 +1,430 @@
+{
+  "id": "1959-the-battle-of-new-orleans",
+  "updated": "2026-10-06",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "500",
+      "also_ids": [
+        "873"
+      ],
+      "match": {
+        "title": "The Battle Of New Orleans",
+        "artist": "Johnny Horton",
+        "chart_date": "1959-04-27",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 500 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "annotated_duration": 152.551,
+      "version_check": "duration within 12 s (+2.6 s) of our recording (Wikipedia infobox length)",
+      "key_info": {
+        "tonic": "A",
+        "tonic_pc": 9,
+        "mode": null,
+        "name": "A",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.65,
+          "end": 10.438,
+          "bars": 7,
+          "key": "A",
+          "written": [
+            "A",
+            "D",
+            "E7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "V7",
+            "I"
+          ],
+          "raw": [
+            "*",
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 10.438,
+          "end": 21.216,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "D",
+            "E7",
+            "A",
+            "D",
+            "E7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "V7",
+            "I",
+            "IV",
+            "V7",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 21.216,
+          "end": 34.777,
+          "bars": 10,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "E:maj",
+            "A:maj",
+            "E:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 34.777,
+          "end": 45.661,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "D",
+            "E7",
+            "A",
+            "D",
+            "E7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "V7",
+            "I",
+            "IV",
+            "V7",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 45.661,
+          "end": 59.23,
+          "bars": 10,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "E:maj",
+            "A:maj",
+            "E:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 59.23,
+          "end": 70.846,
+          "bars": 9,
+          "key": "A",
+          "written": [
+            "A",
+            "D",
+            "E7",
+            "A",
+            "D",
+            "E7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "V7",
+            "I",
+            "IV",
+            "V7",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj",
+            "&pause"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 70.846,
+          "end": 84.423,
+          "bars": 10,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "E:maj",
+            "A:maj",
+            "E:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "C'",
+          "normalised": "bridge",
+          "start": 84.423,
+          "end": 100.574,
+          "bars": 12,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "E:maj",
+            "A:maj",
+            "E:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 100.574,
+          "end": 111.37,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "D",
+            "E7",
+            "A",
+            "D",
+            "E7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "V7",
+            "I",
+            "IV",
+            "V7",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj",
+            "D:maj",
+            "E:7",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 111.37,
+          "end": 124.934,
+          "bars": 10,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "E:maj",
+            "A:maj",
+            "E:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "C''",
+          "normalised": "bridge",
+          "start": 124.934,
+          "end": 135.806,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "E:maj",
+            "A:maj",
+            "E:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "outro",
+          "letter": "D",
+          "normalised": "outro",
+          "start": 135.806,
+          "end": 141.213,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "A:maj"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "start": 141.213,
+          "end": 151.821,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "A:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

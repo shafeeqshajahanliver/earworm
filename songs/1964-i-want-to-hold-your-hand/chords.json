@@ -1,0 +1,762 @@
+{
+  "id": "1964-i-want-to-hold-your-hand",
+  "updated": "2026-10-06",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "i_want_to_hold_your_hand_dt",
+      "match": {
+        "title": "I Want to Hold Your Hand",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "16",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_want_to_hold_your_hand_dt.har/.clt + i_want_to_hold_your_hand.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 142 s; our recording 147 s",
+      "parse_check": "expanded 78 bars; timed chord list ends in bar 77",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.0,
+          "end": 8.213,
+          "bars": 5,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "C",
+            "D",
+            "C",
+            "D"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "IV",
+            "V",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "R R R IV | V . . IV | V . . IV | V | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 8.213,
+          "end": 22.451,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "Bm",
+            "G",
+            "D",
+            "Em",
+            "Bm"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "iii",
+            "I",
+            "V",
+            "vi",
+            "iii"
+          ],
+          "raw_rule": "I | V | vi | iii | I | V | vi | iii |"
+        },
+        {
+          "label": "Rf",
+          "normalised": "chorus",
+          "start": 22.451,
+          "end": 29.721,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 29.721,
+          "end": 44.177,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "Bm",
+            "G",
+            "D",
+            "Em",
+            "Bm"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "iii",
+            "I",
+            "V",
+            "vi",
+            "iii"
+          ],
+          "raw_rule": "I | V | vi | iii | I | V | vi | iii |"
+        },
+        {
+          "label": "Rf",
+          "normalised": "chorus",
+          "start": 44.177,
+          "end": 51.474,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | I |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 51.474,
+          "end": 71.683,
+          "bars": 11,
+          "key": "C -> G",
+          "written": [
+            "Dm7",
+            "G",
+            "C",
+            "Am",
+            "Dm7",
+            "G",
+            "C",
+            "D",
+            "C",
+            "D",
+            "C",
+            "D"
+          ],
+          "roman": [
+            "ii7",
+            "V",
+            "I",
+            "vi",
+            "ii7",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "V",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "[C] ii7 | V | I | vi | ii7 | V | I | [G] V . . IV | V . . IV | V | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 71.683,
+          "end": 86.399,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "Bm",
+            "G",
+            "D",
+            "Em",
+            "Bm"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "iii",
+            "I",
+            "V",
+            "vi",
+            "iii"
+          ],
+          "raw_rule": "I | V | vi | iii | I | V | vi | iii |"
+        },
+        {
+          "label": "Rf",
+          "normalised": "chorus",
+          "start": 86.399,
+          "end": 93.776,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | I |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 93.776,
+          "end": 114.137,
+          "bars": 11,
+          "key": "C -> G",
+          "written": [
+            "Dm7",
+            "G",
+            "C",
+            "Am",
+            "Dm7",
+            "G",
+            "C",
+            "D",
+            "C",
+            "D",
+            "C",
+            "D"
+          ],
+          "roman": [
+            "ii7",
+            "V",
+            "I",
+            "vi",
+            "ii7",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "V",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "[C] ii7 | V | I | vi | ii7 | V | I | [G] V . . IV | V . . IV | V | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 114.137,
+          "end": 128.843,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "Bm",
+            "G",
+            "D",
+            "Em",
+            "Bm"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "iii",
+            "I",
+            "V",
+            "vi",
+            "iii"
+          ],
+          "raw_rule": "I | V | vi | iii | I | V | vi | iii |"
+        },
+        {
+          "label": "Rfb",
+          "normalised": "chorus",
+          "start": 128.843,
+          "end": 142.133,
+          "bars": 7,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "Bm",
+            "C",
+            "D",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "iii",
+            "IV",
+            "V",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | iii | IV V | IV | I |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "i_want_to_hold_your_hand_tdc",
+      "match": {
+        "title": "I Want to Hold Your Hand",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "16",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_want_to_hold_your_hand_tdc.har/.clt + i_want_to_hold_your_hand.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 142 s; our recording 147 s",
+      "parse_check": "expanded 78 bars; timed chord list ends in bar 77",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.0,
+          "end": 8.213,
+          "bars": 5,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "C",
+            "D",
+            "C",
+            "D"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "IV",
+            "V",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "R R R IV | $B"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 8.213,
+          "end": 22.451,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "B",
+            "G",
+            "D",
+            "Em",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "III",
+            "I",
+            "V",
+            "vi",
+            "III"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Re",
+          "normalised": "chorus",
+          "start": 22.451,
+          "end": 29.721,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 29.721,
+          "end": 44.177,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "B",
+            "G",
+            "D",
+            "Em",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "III",
+            "I",
+            "V",
+            "vi",
+            "III"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Re",
+          "normalised": "chorus",
+          "start": 44.177,
+          "end": 51.474,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | I |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 51.474,
+          "end": 71.683,
+          "bars": 11,
+          "key": "C -> G",
+          "written": [
+            "Dm",
+            "G",
+            "C",
+            "Am",
+            "Dm",
+            "G",
+            "C",
+            "C",
+            "D",
+            "C",
+            "D",
+            "C",
+            "D"
+          ],
+          "roman": [
+            "ii",
+            "V",
+            "I",
+            "vi",
+            "ii",
+            "V",
+            "I",
+            "IV",
+            "V",
+            "IV",
+            "V",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "[C] ii | V | I | vi | ii | V | I . . [G] IV | $B"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 71.683,
+          "end": 86.399,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "B",
+            "G",
+            "D",
+            "Em",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "III",
+            "I",
+            "V",
+            "vi",
+            "III"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Re",
+          "normalised": "chorus",
+          "start": 86.399,
+          "end": 93.776,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | I |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 93.776,
+          "end": 114.137,
+          "bars": 11,
+          "key": "C -> G",
+          "written": [
+            "Dm",
+            "G",
+            "C",
+            "Am",
+            "Dm",
+            "G",
+            "C",
+            "C",
+            "D",
+            "C",
+            "D",
+            "C",
+            "D"
+          ],
+          "roman": [
+            "ii",
+            "V",
+            "I",
+            "vi",
+            "ii",
+            "V",
+            "I",
+            "IV",
+            "V",
+            "IV",
+            "V",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "[C] ii | V | I | vi | ii | V | I . . [G] IV | $B"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 114.137,
+          "end": 128.843,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "Em",
+            "B",
+            "G",
+            "D",
+            "Em",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "vi",
+            "III",
+            "I",
+            "V",
+            "vi",
+            "III"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Re2",
+          "normalised": "chorus",
+          "start": 128.843,
+          "end": 142.133,
+          "bars": 7,
+          "key": "G",
+          "written": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "B",
+            "C",
+            "D",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "III",
+            "IV",
+            "V",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "IV V | I vi | IV V | III | IV V | IV | I |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "G",
+      "rolling_stone_tdc": "G"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-06",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1973-tie-a-yellow-ribbon-round-the-ole-oak-tree",
+  "lyrics_kind": "synced",
+  "lrclib_id": 9118140,
+  "lines": 33,
+  "words": 304,
+  "unique_words": 91,
+  "type_token_ratio": 0.299,
+  "repeated_line_share": 0.364,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.28,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "tie a yellow ribbon round the ole oak tree",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 32,
+    "second": 7,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.6,
+  "last_line_s": 199.08,
+  "sung_time_s": 153.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 118.8,
+  "words_per_minute_track": 89.4,
+  "longest_gap_between_lines_s": 26.94,
+  "longest_gap_starts_at_s": 120.38,
+  "first_repeated_block": {
+    "first_at_s": 38.42,
+    "recurs_at_s": 98.58,
+    "lines": [
+      "Woah, tie a yellow ribbon 'round the old oak tree",
+      "It's been three long years, do you still want me? (Still want me)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 9118140",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "4ad2799f-1a48-438e-94fc-ccf0780b2d4d",
+      "release_title": "Tonight’s the Night (Gonna Be Alright)",
+      "release_date": "1976",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "e477ebfb-d037-3540-9c45-0ee3c5dd1df9",
+      "release_title": "A Night on the Town",
+      "release_date": "1976",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: A Night on the Town",
+      "url": "http://coverartarchive.org/release/0c2dc002-3dee-4026-a028-21811b6aa79e/16061220025-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/0c2dc002-3dee-4026-a028-21811b6aa79e",
+      "image_id": 16061220025,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        499,
+        500
+      ],
+      "measures": {
+        "brightness": 0.379,
+        "saturation": 0.254,
+        "dark_share": 0.285,
+        "palette": [
+          {
+            "hex": "#6c6553",
+            "share": 0.244
+          },
+          {
+            "hex": "#1a2119",
+            "share": 0.23
+          },
+          {
+            "hex": "#aea088",
+            "share": 0.222
+          },
+          {
+            "hex": "#474439",
+            "share": 0.156
+          },
+          {
+            "hex": "#2e342b",
+            "share": 0.148
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/49/dc/91/mzi.ldsntdvl.jpg/1200x1200bb.jpg",
+      "collection": "A Night On the Town",
+      "collection_id": 269186704,
+      "track_id": 269186717,
+      "artist_name": "Rod Stewart",
+      "release_date": "1976-05-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.352,
+        "saturation": 0.355,
+        "dark_share": 0.308,
+        "palette": [
+          {
+            "hex": "#0e191c",
+            "share": 0.265
+          },
+          {
+            "hex": "#243736",
+            "share": 0.263
+          },
+          {
+            "hex": "#475b56",
+            "share": 0.195
+          },
+          {
+            "hex": "#748885",
+            "share": 0.166
+          },
+          {
+            "hex": "#adbcb5",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

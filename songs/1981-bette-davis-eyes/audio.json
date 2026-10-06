@@ -1,0 +1,75 @@
+{
+  "id": "1981-bette-davis-eyes",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3153065,
+    "matched_by": "isrc",
+    "isrc": "USCA28100081",
+    "title": "Bette Davis Eyes",
+    "artist": "Kim Carnes",
+    "album": "Gypsy Honeymoon: The Best Of Kim Carnes",
+    "track_duration_s": 224,
+    "link": "https://www.deezer.com/track/3153065",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.4,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      117.5,
+      58.7,
+      234.9
+    ],
+    "beats_detected": 58,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.853,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.826,
+    "chroma_profile": [
+      0.767,
+      0.533,
+      0.816,
+      0.682,
+      0.699,
+      1.0,
+      0.606,
+      0.738,
+      0.611,
+      0.685,
+      0.834,
+      0.594
+    ],
+    "rms_dbfs": -15.29,
+    "rms_dbfs_p95_frame": -9.82,
+    "peak_dbfs": -0.02,
+    "loudness_lufs_approx": -15.26,
+    "spectral_centroid_hz_mean": 2700.3,
+    "spectral_centroid_hz_median": 2476.0,
+    "onsets": 91,
+    "onset_density_per_s": 3.034,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3153065",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 116.5,
+    "gain": -15.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3153065",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between F major and Bb major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc DEC640000008: matched but no preview available (readable=False)",
+    "deezer isrc USEM38900124: matched but no preview available (readable=False)"
+  ]
+}

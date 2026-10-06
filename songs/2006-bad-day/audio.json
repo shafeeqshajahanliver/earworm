@@ -1,0 +1,70 @@
+{
+  "id": "2006-bad-day",
+  "preview": {
+    "service": "deezer",
+    "track_id": 8059380,
+    "matched_by": "isrc",
+    "isrc": "USWB11002915",
+    "title": "Bad Day",
+    "artist": "Daniel Powter",
+    "album": "Best of Me",
+    "track_duration_s": 235,
+    "link": "https://www.deezer.com/track/8059380",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 140.0,
+    "tempo_bpm_grid": 139.7,
+    "tempo_candidates_bpm": [
+      69.8,
+      143.6,
+      136.0
+    ],
+    "beats_detected": 71,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.842,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.743,
+    "chroma_profile": [
+      0.724,
+      0.411,
+      0.557,
+      0.958,
+      0.481,
+      1.0,
+      0.47,
+      0.771,
+      0.737,
+      0.538,
+      0.885,
+      0.459
+    ],
+    "rms_dbfs": -7.07,
+    "rms_dbfs_p95_frame": -4.83,
+    "peak_dbfs": 1.4,
+    "loudness_lufs_approx": -6.44,
+    "spectral_centroid_hz_mean": 2447.3,
+    "spectral_centroid_hz_median": 2374.6,
+    "onsets": 121,
+    "onset_density_per_s": 4.035,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 8059380",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 140.2,
+    "gain": -7.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/8059380",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

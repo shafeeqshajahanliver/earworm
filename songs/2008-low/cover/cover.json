@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "c50a2da9-de09-3837-b0d5-dc6081fa8d92",
+      "release_title": "Low",
+      "release_date": "2007",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/902a42de-1f43-42b7-aaf8-d810f5aa6598/28574775460-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/902a42de-1f43-42b7-aaf8-d810f5aa6598",
+      "image_id": 28574775460,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        234
+      ],
+      "measures": {
+        "brightness": 0.431,
+        "saturation": 0.377,
+        "dark_share": 0.219,
+        "palette": [
+          {
+            "hex": "#201f17",
+            "share": 0.258
+          },
+          {
+            "hex": "#58432e",
+            "share": 0.241
+          },
+          {
+            "hex": "#786d47",
+            "share": 0.238
+          },
+          {
+            "hex": "#a3a06a",
+            "share": 0.153
+          },
+          {
+            "hex": "#d8d099",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "128a479e-576b-312e-92fb-a3b1908155e8",
+      "release_title": "Mail on Sunday",
+      "release_date": "2008-03-17",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mail on Sunday",
+      "url": "http://coverartarchive.org/release/2a93c62c-3b8f-4e3a-8d22-0c49f9020f1c/3602885998-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/2a93c62c-3b8f-4e3a-8d22-0c49f9020f1c",
+      "image_id": "3602885998",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.426,
+        "saturation": 0.139,
+        "dark_share": 0.27,
+        "palette": [
+          {
+            "hex": "#110e0e",
+            "share": 0.267
+          },
+          {
+            "hex": "#878078",
+            "share": 0.24
+          },
+          {
+            "hex": "#4c453e",
+            "share": 0.223
+          },
+          {
+            "hex": "#b6b0a9",
+            "share": 0.144
+          },
+          {
+            "hex": "#dbd7d3",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/42/a0/1442a084-36ea-09a0-ff87-d5aea0cc19f8/mzi.ktgesuhn.jpg/1200x1200bb.jpg",
+      "collection": "Mail On Sunday",
+      "collection_id": 275496110,
+      "track_id": 275496141,
+      "artist_name": "Flo Rida",
+      "release_date": "2007-10-09T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.427,
+        "saturation": 0.13,
+        "dark_share": 0.274,
+        "palette": [
+          {
+            "hex": "#100e0e",
+            "share": 0.268
+          },
+          {
+            "hex": "#888179",
+            "share": 0.24
+          },
+          {
+            "hex": "#4c443e",
+            "share": 0.221
+          },
+          {
+            "hex": "#b8b1aa",
+            "share": 0.145
+          },
+          {
+            "hex": "#dcd8d4",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "1991-everything-i-do-i-do-it-for-you",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1440756952,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "(Everything I Do) I Do It for You",
+    "artist": "Bryan Adams",
+    "album": "Waking Up the Neighbours",
+    "track_duration_s": 394.1,
+    "link": "https://music.apple.com/us/album/everything-i-do-i-do-it-for-you/1440756670?i=1440756952&uo=4",
+    "duration_matched_to": "wikipedia infobox length (394s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 65.6,
+    "tempo_bpm_grid": 65.8,
+    "tempo_candidates_bpm": [
+      66.3,
+      129.2,
+      136.0
+    ],
+    "beats_detected": 30,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.689,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.664,
+    "chroma_profile": [
+      0.48,
+      1.0,
+      0.488,
+      0.891,
+      0.606,
+      0.545,
+      0.497,
+      0.415,
+      0.707,
+      0.349,
+      0.427,
+      0.495
+    ],
+    "rms_dbfs": -16.01,
+    "rms_dbfs_p95_frame": -11.8,
+    "peak_dbfs": 0.12,
+    "loudness_lufs_approx": -15.42,
+    "spectral_centroid_hz_mean": 2498.4,
+    "spectral_centroid_hz_median": 2395.6,
+    "onsets": 84,
+    "onset_density_per_s": 2.802,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1440756952",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between C# major and C# minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USUM71710007: matched but no preview available (readable=False)",
+    "deezer 1477687862: version ((Everything I Do) I Do It For You (Live at Sydney Opera House))",
+    "deezer 3788698622: version ((Everything I Do) I Do It For You (Classic Version))",
+    "deezer 2928423011: version ((Everything I Do) I Do It For You (Live))",
+    "deezer 2492393931: version ((Everything I Do) I Do It For You (Live))",
+    "deezer 2560471632: version ((Everything I Do) I Do It For You (Live At The Royal Albert Hall))",
+    "deezer 712068022: version ((Everything I Do) I Do It For You (Live From Toronto, Canada,1992))",
+    "deezer 2607418122: version ((Everything I Do) I Do It For You (Live In Lisbon))",
+    "itunes 1870995778: version ((Everything I Do) I Do It For You (Classic Version))",
+    "itunes 1583287334: version ((Everything I Do) I Do It For You (Live at Sydney Opera House))",
+    "itunes 1760415518: version ((Everything I Do) I Do It For You (Live))",
+    "itunes 1724091732: version ((Everything I Do) I Do It For You (Live In Lisbon))",
+    "itunes 1718613260: version ((Everything I Do) I Do It For You (Live At The Royal Albert Hall))",
+    "itunes 1472285623: version ((Everything I Do) I Do It For You (Live From Toronto, Canada,1992))",
+    "itunes 1711255047: version ((Everything I Do) I Do It For You (Live))"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1971-joy-to-the-world",
+  "preview": {
+    "service": "deezer",
+    "track_id": 85840359,
+    "matched_by": "isrc",
+    "isrc": "USMC17047804",
+    "title": "Joy To The World",
+    "artist": "Three Dog Night",
+    "album": "Naturally",
+    "track_duration_s": 220,
+    "link": "https://www.deezer.com/track/85840359",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.7,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      129.2,
+      123.0,
+      63.0
+    ],
+    "beats_detected": 61,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.832,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.78,
+    "chroma_profile": [
+      0.562,
+      0.569,
+      0.9,
+      0.464,
+      0.647,
+      0.457,
+      0.597,
+      0.546,
+      0.55,
+      1.0,
+      0.537,
+      0.533
+    ],
+    "rms_dbfs": -15.27,
+    "rms_dbfs_p95_frame": -12.66,
+    "peak_dbfs": -1.2,
+    "loudness_lufs_approx": -14.89,
+    "spectral_centroid_hz_mean": 1715.1,
+    "spectral_centroid_hz_median": 1704.5,
+    "onsets": 97,
+    "onset_density_per_s": 3.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 85840359",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126.4,
+    "gain": -15.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/85840359",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USMC17049751: matched but no preview available (readable=False)"
+  ]
+}

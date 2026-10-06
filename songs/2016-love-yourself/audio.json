@@ -1,0 +1,70 @@
+{
+  "id": "2016-love-yourself",
+  "preview": {
+    "service": "deezer",
+    "track_id": 112662272,
+    "matched_by": "isrc",
+    "isrc": "USUM71516761",
+    "title": "Love Yourself",
+    "artist": "Justin Bieber",
+    "album": "Purpose",
+    "track_duration_s": 234,
+    "link": "https://www.deezer.com/track/112662272",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 99.8,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      198.8,
+      184.6,
+      66.3
+    ],
+    "beats_detected": 50,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.904,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.568,
+    "chroma_profile": [
+      0.366,
+      0.542,
+      0.34,
+      0.453,
+      1.0,
+      0.472,
+      0.752,
+      0.471,
+      0.648,
+      0.63,
+      0.415,
+      0.679
+    ],
+    "rms_dbfs": -11.46,
+    "rms_dbfs_p95_frame": -6.96,
+    "peak_dbfs": -0.08,
+    "loudness_lufs_approx": -11.49,
+    "spectral_centroid_hz_mean": 2173.0,
+    "spectral_centroid_hz_median": 1833.9,
+    "onsets": 88,
+    "onset_density_per_s": 2.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 112662272",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 99.86,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/112662272",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

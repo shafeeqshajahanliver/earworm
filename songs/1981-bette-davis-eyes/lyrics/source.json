@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22616653,
+  "kind": "synced",
+  "matched": {
+    "track": "Bette Davis Eyes (re‐recorded)",
+    "artist": "Kim Carnes",
+    "album": "Bette Davis Eyes",
+    "duration_s": 224.693333
+  },
+  "duration_matched_to": "musicbrainz recording length (224s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 224.466,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 224.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 228.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 0.919,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36908417 (Bette Davis Eyes / Kim Carnes / Mistaken Identity, 294.0s): duration matches no reference length",
+    "lrclib 36987771 (Bette Davis Eyes / Kim Carnes / Betty Davis Eyes, 246.0s): duration matches no reference length",
+    "lrclib 37456558 (Bette Davis Eyes / kim carnes / Satin & Steel, 216.0s): duration matches no reference length",
+    "lrclib 37054156 (Bette Davis Eyes / Kim Carnes / Unplugged Vol. 170, 218.0s): live/remix/other version",
+    "lrclib 35564361 (Bette Davis Eyes / Kim Carnes / Bette Davis Eyes, 402.0s): duration matches no reference length",
+    "lrclib 20460744 (Bette Davis Eyes / Kim Carnes / Bette Davis Eyes, 209.789375s): duration matches no reference length",
+    "lrclib 6064494 (Bette Davis Eyes / Kim Carnes / Bette Davis Eyes, 218.0s): duration matches no reference length",
+    "lrclib 29327857 (Bette Davis Eyes / Kim Carnes / Bette Davis Eyes, 214.0s): duration matches no reference length",
+    "lrclib 28856446 (Bette Davis Eyes / Kim Carnes / Bette Davis Eyes, 241.0s): duration matches no reference length",
+    "lrclib 29452062 (Bette Davis Eyes / Kim Carnes / Bette Davis Eyes, 384.0s): duration matches no reference length",
+    "lrclib 31143219 (﻿Bette Davis Eyes / ﻿Kim Carnes / ﻿Bette Davis Eyes, 214.0s): duration matches no reference length",
+    "lrclib 34384034 (Bette davis eyes / Kim Carnes / Kim Carnes, 218.0s): duration matches no reference length",
+    "lrclib 34089215 (Bette Davis Eyes / Kim Carnes / Kim Carnes, 213.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

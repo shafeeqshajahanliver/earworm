@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 376171,
+  "kind": "synced",
+  "matched": {
+    "track": "Love Will Keep Us Together",
+    "artist": "Captain & Tennille",
+    "album": "Love Will Keep Us Together",
+    "duration_s": 205.0
+  },
+  "duration_matched_to": "musicbrainz recording length (204s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 204.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 204.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 204.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36876802 (Love Will Keep Us Together / Captain & Tennille / The Way I Want To Touch You / Love Will Keep Us Together, 195.0s): duration matches no reference length",
+    "lrclib 33849818 (Love Will Keep Us Together / Captain & Tennille / Love Will Keep Us Together / Gentle Stranger, 195.0s): duration matches no reference length",
+    "lrclib 23548602 (Love Will Keep Us Together / The Captain & Tennille / Love Will Keep Us Together, 225.123265s): duration matches no reference length",
+    "lrclib 30827496 (Love Will Keep Us Together (95 Version) / Captain & Tennille / Love Will Keep Us Together, 204.0s): live/remix/other version",
+    "lrclib 21153684 (Love Will Keep Us Together / Captain & Tennille / Ultimate Collection: Captain & Tennille, 197.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

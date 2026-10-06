@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "album": {
+      "release_group": "e2f307ee-050c-3c20-b324-ba87b2f5855a",
+      "release_title": "Love Will Keep Us Together",
+      "release_date": "1975",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Love Will Keep Us Together",
+      "url": "http://coverartarchive.org/release/2e733111-a0a3-4ec0-a157-e0e2bef1a4d1/35683274145-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/2e733111-a0a3-4ec0-a157-e0e2bef1a4d1",
+      "image_id": 35683274145,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        596,
+        599
+      ],
+      "measures": {
+        "brightness": 0.582,
+        "saturation": 0.152,
+        "dark_share": 0.089,
+        "palette": [
+          {
+            "hex": "#7f766c",
+            "share": 0.246
+          },
+          {
+            "hex": "#3d3333",
+            "share": 0.235
+          },
+          {
+            "hex": "#a6b0a6",
+            "share": 0.235
+          },
+          {
+            "hex": "#c0cac1",
+            "share": 0.155
+          },
+          {
+            "hex": "#e3ebd3",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f0/d4/15/f0d41508-27b4-386b-06f6-c294b3e137ef/00602537747191.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Love Will Keep Us Together",
+      "collection_id": 1442300587,
+      "track_id": 1442300589,
+      "artist_name": "Captain & Tennille",
+      "release_date": "1975-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.743,
+        "saturation": 0.253,
+        "dark_share": 0.061,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.356
+          },
+          {
+            "hex": "#483028",
+            "share": 0.257
+          },
+          {
+            "hex": "#b88458",
+            "share": 0.23
+          },
+          {
+            "hex": "#e8d5c7",
+            "share": 0.124
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.034
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

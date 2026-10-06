@@ -1,0 +1,76 @@
+{
+  "id": "2008-low",
+  "preview": {
+    "service": "deezer",
+    "track_id": 717358,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAT20705841",
+    "title": "Low (feat. T-Pain)",
+    "artist": "Flo Rida",
+    "album": "Low (feat. T-Pain)",
+    "track_duration_s": 231,
+    "link": "https://www.deezer.com/track/717358",
+    "duration_matched_to": "wikipedia infobox length (230s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 64.5,
+    "tempo_bpm_grid": 63.8,
+    "tempo_candidates_bpm": [
+      64.6,
+      129.2,
+      86.1
+    ],
+    "beats_detected": 32,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.437,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.345,
+    "chroma_profile": [
+      0.215,
+      0.299,
+      1.0,
+      0.851,
+      0.462,
+      0.358,
+      0.293,
+      0.246,
+      0.251,
+      0.271,
+      0.308,
+      0.222
+    ],
+    "rms_dbfs": -6.68,
+    "rms_dbfs_p95_frame": -2.58,
+    "peak_dbfs": 2.31,
+    "loudness_lufs_approx": -9.82,
+    "spectral_centroid_hz_mean": 2317.7,
+    "spectral_centroid_hz_median": 2084.4,
+    "onsets": 164,
+    "onset_density_per_s": 5.469,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 717358",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 128,
+    "gain": -9.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/717358",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (128.0): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer 865999: version (Low (feat. T-Pain) (Travis Barker Remix))"
+  ]
+}

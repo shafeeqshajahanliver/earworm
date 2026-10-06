@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 24477909,
+  "kind": "synced",
+  "matched": {
+    "track": "Yeah!",
+    "artist": "Usher",
+    "album": "Usher - Yeah (ft. Ludacris & Lil' Jon)",
+    "duration_s": 250.444
+  },
+  "duration_matched_to": "musicbrainz recording length (250s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 250.373,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 250.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 250.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 37,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35553112 (Yeah / Usher Featuring Lil Jon & Ludacris / Yeah, 233.0s): duration matches no reference length",
+    "lrclib 35553135 (Yeah / Usher Featuring Lil Jon & Ludacris / Yeah, 215.0s): duration matches no reference length",
+    "lrclib 21722827 (Yeah! (Instrumental) / Usher Featuring Lil' Jon & Ludacris / Yeah, 249.106667s): live/remix/other version",
+    "lrclib 37501553 (Yeah / Usher / Ultimix 115, 335.0s): duration matches no reference length",
+    "lrclib 34389075 (Yeah! / Usher / Usher, 3005.0s): duration matches no reference length",
+    "lrclib 33481244 (Yeah! / Usher / Confessions, 260.0s): duration matches no reference length",
+    "lrclib 33390469 (Yeah / USHER / Smooth Jazz tribute, 217.0s): live/remix/other version",
+    "lrclib 33822830 (Yeah! / Usher / Die Ultimative Chartshow - Die Größten Hits Der 2000er, 256.0s): duration matches no reference length",
+    "lrclib 36215894 (Yeah / Usher / R&B After Party Pt. 6, 78.0s): duration matches no reference length",
+    "lrclib 36809778 (Yeah! / Usher / Confessions, 239.0s): duration matches no reference length",
+    "lrclib 36448704 (Yeah / Usher / Dschedä, 218.0s): duration matches no reference length",
+    "lrclib 35553156 (Yeah / Usher / Yeah, 215.0s): duration matches no reference length",
+    "lrclib 23891123 (Yeah / Usher / Yeah, 243.487347s): duration matches no reference length",
+    "lrclib 19975300 (Yeah! (instrumental) / Usher / Yeah!, 265.7445s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

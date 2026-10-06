@@ -1,0 +1,126 @@
+{
+  "id": "1959-the-battle-of-new-orleans",
+  "retrieved": "2026-10-06",
+  "wikipedia_article": "The Battle of New Orleans",
+  "wikidata": {
+    "qid": "Q7715876",
+    "label": "The Battle of New Orleans",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1534428",
+          "label": "Johnny Horton"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q16010038",
+          "label": "Don Law"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q183387",
+          "label": "Columbia Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1959-04-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q83440",
+          "label": "country music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q7976",
+          "label": "American English"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q7992617",
+          "label": "When It's Springtime in Alaska (It's Forty Below)"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "d14ab713-08a5-4743-821e-fce5f233f3c1",
+        "a776de89-7f59-481c-b3bd-381960ec574e"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz": {
+    "recording_id": "46832303-2d7a-4d33-a21e-5176e56a51db",
+    "title": "The Battle of New Orleans",
+    "length_ms": null,
+    "first_release_date": "1959",
+    "artist_credit": "Johnny Horton",
+    "artists": [
+      {
+        "name": "Johnny Horton",
+        "mbid": "8736f41f-365e-42c7-a733-36c22e74c97e"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "368063c4-fb5c-4b75-8377-3c13b7c940da",
+        "title": "The Battle of New Orleans / Frankie’s Man, Johnny",
+        "date": "1959",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "e1cf7e7d-e996-406b-b912-68fa769e92ae",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "d14ab713-08a5-4743-821e-fce5f233f3c1",
+      "title": "The Battle of New Orleans",
+      "iswcs": [
+        "T-070.256.194-1"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Jimmy Driftwood",
+          "mbid": "5cd09b8e-1370-45df-9269-850be737aecb"
+        },
+        {
+          "role": "lyricist",
+          "name": "Jimmy Driftwood",
+          "mbid": "5cd09b8e-1370-45df-9269-850be737aecb"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/52451",
+        "https://www.wikidata.org/wiki/Q7715876"
+      ]
+    },
+    "main_artist": {
+      "name": "Johnny Horton",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Los Angeles"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

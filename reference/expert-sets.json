@@ -1,0 +1,93 @@
+{
+  "retrieved": "2026-10-06",
+  "songs": 30,
+  "matched_per_source": {
+    "mcgill_billboard": 1,
+    "harmonix": 3,
+    "rolling_stone": 4,
+    "isophonics": 0
+  },
+  "by_song": {
+    "1959-the-battle-of-new-orleans": [
+      "mcgill_billboard"
+    ],
+    "1961-tossin-and-turnin": [],
+    "1964-i-want-to-hold-your-hand": [
+      "rolling_stone_dt",
+      "rolling_stone_tdc"
+    ],
+    "1966-california-dreamin": [
+      "rolling_stone_dt",
+      "rolling_stone_tdc"
+    ],
+    "1969-sugar-sugar": [],
+    "1971-joy-to-the-world": [],
+    "1973-tie-a-yellow-ribbon-round-the-ole-oak-tree": [],
+    "1975-love-will-keep-us-together": [],
+    "1977-tonights-the-night-gonna-be-alright": [],
+    "1979-my-sharona": [],
+    "1981-bette-davis-eyes": [],
+    "1983-every-breath-you-take": [
+      "rolling_stone_dt",
+      "rolling_stone_tdc"
+    ],
+    "1984-when-doves-cry": [
+      "rolling_stone_dt",
+      "rolling_stone_tdc"
+    ],
+    "1986-thats-what-friends-are-for": [],
+    "1988-faith": [],
+    "1991-everything-i-do-i-do-it-for-you": [],
+    "1993-i-will-always-love-you": [],
+    "1995-gangstas-paradise": [],
+    "1997-candle-in-the-wind-1997": [],
+    "1999-believe": [],
+    "2001-hanging-by-a-moment": [],
+    "2004-yeah": [
+      "harmonix"
+    ],
+    "2006-bad-day": [],
+    "2008-low": [
+      "harmonix"
+    ],
+    "2011-rolling-in-the-deep": [
+      "harmonix"
+    ],
+    "2013-thrift-shop": [],
+    "2016-love-yourself": [],
+    "2018-gods-plan": [],
+    "2020-blinding-lights": [],
+    "2023-last-night": []
+  },
+  "sources": {
+    "mcgill_billboard": {
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)"
+    },
+    "harmonix": {
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio"
+    },
+    "rolling_stone": {
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)"
+    },
+    "isophonics": {
+      "licence": "No licence stated on the Isophonics page; cite Harte (2010) / Mauch et al. (2009)"
+    }
+  },
+  "downloads": {
+    "mcgill/billboard-2.0-index.csv": "https://www.dropbox.com/s/o0olz0uwl9z9stb/billboard-2.0-index.csv?dl=1",
+    "mcgill/billboard-2.0-salami_chords.tar.gz": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+    "rs/rs200.txt": "https://rockcorpus.midside.com/overview/rs200.txt",
+    "rs/rs200_harmony.zip": "https://rockcorpus.midside.com/harmonic_analyses/rs200_harmony.zip",
+    "rs/rs200_harmony_clt.zip": "https://rockcorpus.midside.com/harmonic_analyses/rs200_harmony_clt.zip",
+    "rs/timing_data.zip": "https://rockcorpus.midside.com/timing_data/timing_data.zip",
+    "rs/audio_sources.txt": "https://rockcorpus.midside.com/timing_data/audio_sources.txt",
+    "isophonics/The_Beatles_Annotations.tar.gz": "https://isophonics.net/files/annotations/The%20Beatles%20Annotations.tar.gz",
+    "harmonix/metadata.csv": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/metadata.csv"
+  },
+  "notes": {
+    "mcgill_billboard": "DDMAL project page returns 404; files fetched from the Dropbox links used by mirdata (index CSV + salami_chords). Covers sampled Hot 100 entries 1958-1991.",
+    "harmonix": "Annotations of the audio Harmonix used (often game or compilation edits); durations compared.",
+    "rolling_stone": "Two independent analysts (dt, tdc) kept as separate sources.",
+    "isophonics": "Beatles annotations cover the 12 UK studio albums plus Magical Mystery Tour; non-album singles such as 'I Want to Hold Your Hand' are not included."
+  }
+}

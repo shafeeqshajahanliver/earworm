@@ -1,0 +1,137 @@
+{
+  "id": "1959-the-battle-of-new-orleans",
+  "updated": "2026-10-06",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "500",
+      "also_ids": [
+        "873"
+      ],
+      "match": {
+        "title": "The Battle Of New Orleans",
+        "artist": "Johnny Horton",
+        "chart_date": "1959-04-27",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 500 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "annotated_duration": 152.551,
+      "version_check": "duration within 12 s (+2.6 s) of our recording (Wikipedia infobox length)",
+      "sections": [
+        {
+          "start": 0.65,
+          "end": 10.438,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 7
+        },
+        {
+          "start": 10.438,
+          "end": 21.216,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 21.216,
+          "end": 34.777,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 34.777,
+          "end": 45.661,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 45.661,
+          "end": 59.23,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 59.23,
+          "end": 70.846,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 9
+        },
+        {
+          "start": 70.846,
+          "end": 84.423,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 84.423,
+          "end": 100.574,
+          "label": "bridge",
+          "letter": "C'",
+          "normalised": "bridge",
+          "bars": 12
+        },
+        {
+          "start": 100.574,
+          "end": 111.37,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 111.37,
+          "end": 124.934,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 124.934,
+          "end": 135.806,
+          "label": "bridge",
+          "letter": "C''",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 135.806,
+          "end": 141.213,
+          "label": "outro",
+          "letter": "D",
+          "normalised": "outro",
+          "bars": 4
+        },
+        {
+          "start": 141.213,
+          "end": 151.821,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator; note: the annotator's letter for it (C', C'') marks it as a variant of the chorus material, not new music"
+    }
+  ],
+  "comparison": "only one source"
+}

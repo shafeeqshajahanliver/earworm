@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5098139,
+  "kind": "synced",
+  "matched": {
+    "track": "I Want To Hold Your Hand",
+    "artist": "The Beatles",
+    "album": "I Want To Hold Your Hand",
+    "duration_s": 147.0
+  },
+  "duration_matched_to": "musicbrainz recording length (147s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 147.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 145.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 144.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37167039 (I Want To Hold Your Hand / The Beatles / On The Air, In The Studio And In Concert - Greatest Hits 1961-1966, 176.0s): live/remix/other version",
+    "lrclib 37127669 (I Want To Hold Your Hand / The Beatles / 1962-1966 (The Red Album) - Disc 1, 49.0s): duration matches no reference length",
+    "lrclib 37451096 (I Want to Hold Your Hand / The Beatles / The Beatles, 129.0s): duration matches no reference length",
+    "lrclib 36854337 (I Want to Hold Your Hand / The Beatles / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 33125339 (I Want to Hold Your Hand / The Beatles / I Want To Hold Your Hand, 157.0s): duration matches no reference length",
+    "lrclib 18768527 (I Want to Hold Your Hand / The Beatles / I Want to Hold Your Hand / This Boy, 227.226133s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

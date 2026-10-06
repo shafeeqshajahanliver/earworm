@@ -1,0 +1,69 @@
+{
+  "id": "2011-rolling-in-the-deep",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1544491233,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "album": "21",
+    "track_duration_s": 228.1,
+    "link": "https://music.apple.com/us/album/rolling-in-the-deep/1544491232?i=1544491233&uo=4",
+    "duration_matched_to": "musicbrainz recording length (228s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 105.0,
+    "tempo_bpm_grid": 105.5,
+    "tempo_candidates_bpm": [
+      103.4,
+      52.7,
+      107.7
+    ],
+    "beats_detected": 52,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.599,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.333,
+    "chroma_profile": [
+      0.601,
+      0.693,
+      0.741,
+      0.669,
+      0.568,
+      0.633,
+      0.751,
+      1.0,
+      0.881,
+      0.681,
+      0.735,
+      0.513
+    ],
+    "rms_dbfs": -10.98,
+    "rms_dbfs_p95_frame": -7.39,
+    "peak_dbfs": 0.35,
+    "loudness_lufs_approx": -11.84,
+    "spectral_centroid_hz_mean": 2234.2,
+    "spectral_centroid_hz_median": 2093.0,
+    "onsets": 119,
+    "onset_density_per_s": 3.97,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1544491233",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBBKS1000335: title/artist mismatch:  / ",
+    "itunes 1544490791: version (Rolling in the Deep (Live))",
+    "itunes 1545039948: duration 258s matches no reference length",
+    "itunes 478335376: version (Rolling In the Deep (Nu:Tone Remix))"
+  ]
+}

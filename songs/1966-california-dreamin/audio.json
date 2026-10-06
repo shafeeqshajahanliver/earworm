@@ -1,0 +1,72 @@
+{
+  "id": "1966-california-dreamin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2321278,
+    "matched_by": "isrc",
+    "isrc": "USMC16532697",
+    "title": "California Dreamin' (Single Version)",
+    "artist": "The Mamas & The Papas",
+    "album": "If You Can Believe Your Eyes & Ears",
+    "track_duration_s": 160,
+    "link": "https://www.deezer.com/track/2321278",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 111.7,
+    "tempo_bpm_grid": 112.3,
+    "tempo_candidates_bpm": [
+      112.3,
+      56.2,
+      234.9
+    ],
+    "beats_detected": 56,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.482,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.471,
+    "chroma_profile": [
+      0.574,
+      0.699,
+      0.633,
+      0.781,
+      0.858,
+      0.712,
+      0.674,
+      0.718,
+      1.0,
+      0.944,
+      0.572,
+      0.602
+    ],
+    "rms_dbfs": -14.84,
+    "rms_dbfs_p95_frame": -12.22,
+    "peak_dbfs": -0.67,
+    "loudness_lufs_approx": -11.54,
+    "spectral_centroid_hz_mean": 2594.1,
+    "spectral_centroid_hz_median": 2565.8,
+    "onsets": 44,
+    "onset_density_per_s": 1.467,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2321278",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 112.35,
+    "gain": -12.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2321278",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C# minor and E major"
+  ],
+  "rejected_candidates": []
+}

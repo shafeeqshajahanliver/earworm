@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "7046b03e-0523-337c-a1e4-9506363de63a",
+      "release_title": "(Everything I Do) I Do It for You",
+      "release_date": "1991",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e4f4368c-8d0f-4fef-83b5-64e127b7632e/10116768162-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/e4f4368c-8d0f-4fef-83b5-64e127b7632e",
+      "image_id": "10116768162",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        433
+      ],
+      "measures": {
+        "brightness": 0.442,
+        "saturation": 0.107,
+        "dark_share": 0.252,
+        "palette": [
+          {
+            "hex": "#242124",
+            "share": 0.29
+          },
+          {
+            "hex": "#878c82",
+            "share": 0.229
+          },
+          {
+            "hex": "#a4ad9d",
+            "share": 0.186
+          },
+          {
+            "hex": "#4d4d4b",
+            "share": 0.181
+          },
+          {
+            "hex": "#c0c6b1",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9ed842fd-7140-4fcc-9744-66aa544fe14e",
+      "release_title": "Robin Hood: Prince of Thieves: Original Motion Picture Soundtrack",
+      "release_date": "1991-07-02",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Robin Hood: Prince of Thieves (Original Soundtrack)",
+      "url": "https://coverartarchive.org/release/b27f9f54-370a-4d3a-94f0-74bb9a39d6c7/7953776471-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b27f9f54-370a-4d3a-94f0-74bb9a39d6c7",
+      "image_id": 7953776471,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1197,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.427,
+        "saturation": 0.449,
+        "dark_share": 0.348,
+        "palette": [
+          {
+            "hex": "#050403",
+            "share": 0.235
+          },
+          {
+            "hex": "#d7af69",
+            "share": 0.227
+          },
+          {
+            "hex": "#98512f",
+            "share": 0.222
+          },
+          {
+            "hex": "#522f25",
+            "share": 0.164
+          },
+          {
+            "hex": "#271f1a",
+            "share": 0.152
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a1/50/cd/a150cd72-bdab-8b04-dd73-404412b90179/06UMGIM25477.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Anthology",
+      "collection_id": 1454088102,
+      "track_id": 1454088209,
+      "artist_name": "Bryan Adams",
+      "release_date": "1991-06-17T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.754,
+        "saturation": 0.163,
+        "dark_share": 0.202,
+        "palette": [
+          {
+            "hex": "#fffcf3",
+            "share": 0.567
+          },
+          {
+            "hex": "#595655",
+            "share": 0.271
+          },
+          {
+            "hex": "#fefcf3",
+            "share": 0.075
+          },
+          {
+            "hex": "#fffdf1",
+            "share": 0.065
+          },
+          {
+            "hex": "#fffef6",
+            "share": 0.022
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

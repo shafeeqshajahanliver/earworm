@@ -1,0 +1,203 @@
+{
+  "id": "2020-blinding-lights",
+  "retrieved": "2026-10-06",
+  "wikipedia_article": "Blinding Lights",
+  "wikidata": {
+    "qid": "Q76566134",
+    "label": "Blinding Lights",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q2121062",
+          "label": null
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q2121062",
+          "label": null
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        },
+        {
+          "qid": "Q2121062",
+          "label": null
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q23045455",
+          "label": "XO"
+        },
+        {
+          "qid": "Q4413456",
+          "label": "Republic Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2019-11-29"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q188450",
+          "label": "electropop"
+        },
+        {
+          "qid": "Q19938910",
+          "label": "synthwave"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q85189613",
+          "label": "After Hours"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "200",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q76618308",
+          "label": "Heartless"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q88072621",
+          "label": "In Your Eyes"
+        }
+      ],
+      "musicbrainz_release_group_id": [
+        "9b905cac-df8d-4942-bc4e-4fe0f2ed635f"
+      ],
+      "genius_song_id": [
+        "The-weeknd-blinding-lights-lyrics"
+      ],
+      "youtube_video_id": [
+        "J7p4bzqLvCw"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz": {
+    "recording_id": "5bdbfe86-4ad5-4c19-8d29-ee5f30ba628b",
+    "title": "Blinding Lights",
+    "length_ms": 262000,
+    "first_release_date": "2019-11-29",
+    "artist_credit": "The Weeknd",
+    "artists": [
+      {
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      }
+    ],
+    "isrcs": [
+      "USUMV1902060"
+    ],
+    "recording_credits": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+      }
+    ],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "24f4415e-2684-42ed-b002-807066381839",
+        "title": "Blinding Lights",
+        "date": "2019-11-29",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "9b905cac-df8d-4942-bc4e-4fe0f2ed635f",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "7d5e9105-de07-4f54-b096-c1d8a39c74ff",
+        "title": "The Highlights",
+        "date": "2021-02-05",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "f60c961a-b4c8-4e01-831c-51a0dfa55188",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "04ccb6fa-84ed-49fe-94ae-15050bb86b91",
+      "title": "Blinding Lights",
+      "iswcs": [
+        "T-929.744.911-7"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Belly",
+          "mbid": "7e302507-6b78-4f3b-9c4c-e3b85580fad0"
+        },
+        {
+          "role": "writer",
+          "name": "DaHeala",
+          "mbid": "d44ab93a-98c0-483f-ae58-8f9255f816d3"
+        },
+        {
+          "role": "writer",
+          "name": "Oscar Holter",
+          "mbid": "c956a6b7-59bd-4155-9fbd-3f3278d0c276"
+        },
+        {
+          "role": "writer",
+          "name": "Max Martin",
+          "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+        },
+        {
+          "role": "writer",
+          "name": "The Weeknd",
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+        }
+      ],
+      "urls": [
+        "https://genius.com/The-weeknd-blinding-lights-lyrics",
+        "https://secondhandsongs.com/work/226180",
+        "https://www.wikidata.org/wiki/Q76566134",
+        "https://www.wikidata.org/wiki/Q96264870"
+      ]
+    },
+    "main_artist": {
+      "name": "The Weeknd",
+      "type": "Person",
+      "country": "CA",
+      "area": "Canada",
+      "begin_area": "Scarborough"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "e1cf7e7d-e996-406b-b912-68fa769e92ae",
+      "release_title": "The Battle of New Orleans / Frankie’s Man, Johnny",
+      "release_date": "1959",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/368063c4-fb5c-4b75-8377-3c13b7c940da/28537459166-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/368063c4-fb5c-4b75-8377-3c13b7c940da",
+      "image_id": 28537459166,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        999,
+        999
+      ],
+      "measures": {
+        "brightness": 0.444,
+        "saturation": 0.183,
+        "dark_share": 0.191,
+        "palette": [
+          {
+            "hex": "#474345",
+            "share": 0.291
+          },
+          {
+            "hex": "#6a615d",
+            "share": 0.241
+          },
+          {
+            "hex": "#232323",
+            "share": 0.228
+          },
+          {
+            "hex": "#d3b17e",
+            "share": 0.144
+          },
+          {
+            "hex": "#f3e3c5",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/7f/38/9c/mzi.cwbprpyk.jpg/1200x1200bb.jpg",
+      "collection": "The Battle of New Orleans (Digitally Remastered)",
+      "collection_id": 397932082,
+      "track_id": 397932090,
+      "artist_name": "Johnny Horton",
+      "release_date": "1959-07-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        800,
+        800
+      ],
+      "measures": {
+        "brightness": 0.613,
+        "saturation": 0.28,
+        "dark_share": 0.089,
+        "palette": [
+          {
+            "hex": "#a099a3",
+            "share": 0.249
+          },
+          {
+            "hex": "#242b41",
+            "share": 0.248
+          },
+          {
+            "hex": "#855c5e",
+            "share": 0.232
+          },
+          {
+            "hex": "#f4f5f6",
+            "share": 0.136
+          },
+          {
+            "hex": "#c3d5d5",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

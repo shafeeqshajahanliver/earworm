@@ -1,0 +1,71 @@
+{
+  "id": "1997-candle-in-the-wind-1997",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1103313,
+    "matched_by": "isrc",
+    "isrc": "GBAMS9700016",
+    "title": "Candle In The Wind 1997",
+    "artist": "Elton John",
+    "album": "Candle In The Wind 1997 / Something About ...",
+    "track_duration_s": 247,
+    "link": "https://www.deezer.com/track/1103313",
+    "duration_note": "Deezer track (ISRC match) is 247s; MusicBrainz length is 253s. ISRC match kept; one of the two lengths may refer to another edit.",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.9,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      129.2,
+      123.0,
+      234.9
+    ],
+    "beats_detected": 64,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.924,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.762,
+    "chroma_profile": [
+      0.283,
+      0.524,
+      0.251,
+      0.453,
+      0.847,
+      0.283,
+      0.64,
+      0.296,
+      0.816,
+      0.623,
+      0.308,
+      1.0
+    ],
+    "rms_dbfs": -13.83,
+    "rms_dbfs_p95_frame": -9.59,
+    "peak_dbfs": -0.37,
+    "loudness_lufs_approx": -13.14,
+    "spectral_centroid_hz_mean": 1637.8,
+    "spectral_centroid_hz_median": 1401.6,
+    "onsets": 94,
+    "onset_density_per_s": 3.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1103313",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126.4,
+    "gain": -12.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1103313",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

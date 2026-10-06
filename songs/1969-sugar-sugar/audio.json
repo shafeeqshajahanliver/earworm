@@ -1,0 +1,73 @@
+{
+  "id": "1969-sugar-sugar",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10734179,
+    "matched_by": "isrc",
+    "isrc": "NLG620400826",
+    "title": "Sugar, Sugar",
+    "artist": "The Archies",
+    "album": "The Very Best Of \"The Archies\"",
+    "track_duration_s": 167,
+    "link": "https://www.deezer.com/track/10734179",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 122.5,
+    "tempo_bpm_grid": 123.0,
+    "tempo_candidates_bpm": [
+      123.0,
+      61.5,
+      234.9
+    ],
+    "beats_detected": 61,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.722,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.585,
+    "chroma_profile": [
+      0.528,
+      0.71,
+      0.986,
+      0.487,
+      0.459,
+      0.391,
+      0.597,
+      1.0,
+      0.777,
+      0.963,
+      0.528,
+      0.573
+    ],
+    "rms_dbfs": -6.54,
+    "rms_dbfs_p95_frame": -3.46,
+    "peak_dbfs": 3.15,
+    "loudness_lufs_approx": -5.87,
+    "spectral_centroid_hz_mean": 2751.4,
+    "spectral_centroid_hz_median": 2651.8,
+    "onsets": 114,
+    "onset_density_per_s": 3.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10734179",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 122.3,
+    "gain": -6.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10734179",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc QM6XS1601599: title/artist mismatch: Archie's Theme (Everything's Archie) / The Archies",
+    "deezer isrc NLG620466548: matched but no preview available (readable=False)"
+  ]
+}

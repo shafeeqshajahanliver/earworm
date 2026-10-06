@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37124595,
+  "kind": "synced",
+  "matched": {
+    "track": "Gangsta's Paradise",
+    "artist": "Coolio",
+    "album": "Pure Swing IV (Disc 1)",
+    "duration_s": 241.0
+  },
+  "duration_matched_to": "musicbrainz recording length (241s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 241.306,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 241.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 244.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 38,
+  "agreement_with_other_candidates": 0.895,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34582446 (Gangsta’s Paradise / Coolio / The Greatest Hits and Remixes, 238.0s): live/remix/other version",
+    "lrclib 34741030 (Gangsta's Paradise / Coolio / Gangsta's Paradise, 175.0s): duration matches no reference length",
+    "lrclib 34460617 (Gangsta's Paradise / Coolio / Club Sounds Vol. 101, 168.0s): duration matches no reference length",
+    "lrclib 34482583 (Gangsta's Paradise / Coolio / Coolio, 212.0s): duration matches no reference length",
+    "lrclib 37209156 (Gangsta's Paradise / Coolio Featuring L.V. / Music, 255.0s): duration matches no reference length",
+    "lrclib 36155192 (Gangsta's Paradise / Coolio Featuring L.V. / One Shot 90 Vol.3, 228.0s): duration matches no reference length",
+    "lrclib 23316555 (Gangsta’s Paradise / Coolio featuring L.V. / Gangsta’s Paradise, 898.596661s): duration matches no reference length",
+    "lrclib 3204794 (Gangsta's Paradise / Coolio / Coolio - Gangsta's Paradise, 222.0s): duration matches no reference length",
+    "lrclib 36168713 (Gangsta's Paradise / Coolio / Gangsta's Paradise, 259.0s): duration matches no reference length",
+    "lrclib 34054858 (Gangsta's Paradise / Coolio / Gangsta's Paradise, 232.0s): duration matches no reference length",
+    "lrclib 20009644 (Gangsta's Paradise / Coolio / Gangsta's Paradise, 168.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

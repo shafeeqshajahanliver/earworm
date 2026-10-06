@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-06",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/310897",
+    "title": "Candle in the Wind 1997",
+    "performer": "Elton John",
+    "is_original": false,
+    "first_release_date": "1997",
+    "releases": [
+      {
+        "title": "Something About the Way You Look Tonight",
+        "uri": "https://api.secondhandsongs.com/release/106198",
+        "performer": "Elton John"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Candle in the Wind",
+      "uri": "https://api.secondhandsongs.com/work/159"
+    }
+  ],
+  "covers_of_this_recording": 4,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/137190",
+    "title": "Candle in the Wind 1997",
+    "language": "English",
+    "writers": [
+      "Bernie Taupin"
+    ],
+    "original_performer": "Elton John",
+    "versions": 5,
+    "based_on": [
+      {
+        "title": "Candle in the Wind",
+        "uri": "https://api.secondhandsongs.com/work/159"
+      }
+    ],
+    "derived_works": []
+  }
+}

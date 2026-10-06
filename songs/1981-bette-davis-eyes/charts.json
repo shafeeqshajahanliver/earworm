@@ -1,0 +1,128 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Kim Carnes"
+  ],
+  "title_as_charted": [
+    "Bette Davis Eyes"
+  ],
+  "debut_week": "1981-03-28",
+  "debut_position": 80,
+  "peak_position": 1,
+  "weeks_at_peak": 9,
+  "first_week_at_peak": "1981-05-16",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 26,
+  "last_week": "1981-09-19",
+  "weeks_at_number_one": 9,
+  "run": [
+    [
+      "1981-03-28",
+      80
+    ],
+    [
+      "1981-04-04",
+      57
+    ],
+    [
+      "1981-04-11",
+      33
+    ],
+    [
+      "1981-04-18",
+      27
+    ],
+    [
+      "1981-04-25",
+      18
+    ],
+    [
+      "1981-05-02",
+      7
+    ],
+    [
+      "1981-05-09",
+      5
+    ],
+    [
+      "1981-05-16",
+      1
+    ],
+    [
+      "1981-05-23",
+      1
+    ],
+    [
+      "1981-05-30",
+      1
+    ],
+    [
+      "1981-06-06",
+      1
+    ],
+    [
+      "1981-06-13",
+      1
+    ],
+    [
+      "1981-06-20",
+      2
+    ],
+    [
+      "1981-06-27",
+      1
+    ],
+    [
+      "1981-07-04",
+      1
+    ],
+    [
+      "1981-07-11",
+      1
+    ],
+    [
+      "1981-07-18",
+      1
+    ],
+    [
+      "1981-07-25",
+      2
+    ],
+    [
+      "1981-08-01",
+      7
+    ],
+    [
+      "1981-08-08",
+      12
+    ],
+    [
+      "1981-08-15",
+      22
+    ],
+    [
+      "1981-08-22",
+      38
+    ],
+    [
+      "1981-08-29",
+      57
+    ],
+    [
+      "1981-09-05",
+      78
+    ],
+    [
+      "1981-09-12",
+      93
+    ],
+    [
+      "1981-09-19",
+      99
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

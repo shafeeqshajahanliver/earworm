@@ -1,0 +1,72 @@
+{
+  "id": "1977-tonights-the-night-gonna-be-alright",
+  "preview": {
+    "service": "deezer",
+    "track_id": 723771,
+    "matched_by": "isrc",
+    "isrc": "USWB10001978",
+    "title": "Tonight's the Night (Gonna Be Alright)",
+    "artist": "Rod Stewart",
+    "album": "A Night on the Town",
+    "track_duration_s": 236,
+    "link": "https://www.deezer.com/track/723771",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 91.0,
+    "tempo_bpm_grid": 91.5,
+    "tempo_candidates_bpm": [
+      92.3,
+      143.6,
+      45.3
+    ],
+    "beats_detected": 41,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.842,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.724,
+    "chroma_profile": [
+      0.568,
+      0.608,
+      0.58,
+      0.655,
+      0.72,
+      0.523,
+      0.768,
+      0.663,
+      0.798,
+      0.657,
+      0.579,
+      1.0
+    ],
+    "rms_dbfs": -10.92,
+    "rms_dbfs_p95_frame": -6.85,
+    "peak_dbfs": 1.18,
+    "loudness_lufs_approx": -10.36,
+    "spectral_centroid_hz_mean": 1981.1,
+    "spectral_centroid_hz_median": 1817.2,
+    "onsets": 95,
+    "onset_density_per_s": 3.168,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 723771",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 89.9,
+    "gain": -11.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/723771",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USWB19900840: version: Tonight's The Night (MTV Unplugged Version)"
+  ]
+}

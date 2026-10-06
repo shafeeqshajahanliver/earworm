@@ -1,0 +1,41 @@
+{
+  "id": "2018-gods-plan",
+  "lyrics_kind": "synced",
+  "lrclib_id": 33914027,
+  "lines": 53,
+  "words": 354,
+  "unique_words": 138,
+  "type_token_ratio": 0.39,
+  "repeated_line_share": 0.264,
+  "distinct_lines": 39,
+  "zlib_compression_ratio": 0.366,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "god's plan",
+  "title_phrase_occurrences": 4,
+  "pronouns": {
+    "first_singular": 42,
+    "second": 4,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.36,
+  "last_line_s": 159.06,
+  "sung_time_s": 158.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 133.8,
+  "words_per_minute_track": 106.8,
+  "longest_gap_between_lines_s": 6.41,
+  "longest_gap_starts_at_s": 69.86,
+  "first_repeated_block": {
+    "first_at_s": 63.84,
+    "recurs_at_s": 76.27,
+    "lines": [
+      "Bad things",
+      "It's a lot of bad things"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 33914027",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

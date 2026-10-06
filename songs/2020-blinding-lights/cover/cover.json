@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "9b905cac-df8d-4942-bc4e-4fe0f2ed635f",
+      "release_title": "Blinding Lights",
+      "release_date": "2019-11-29",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6e560572-8fc0-4f53-bde3-75d844cce6f5/24754974144-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6e560572-8fc0-4f53-bde3-75d844cce6f5",
+      "image_id": 24754974144,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.55,
+        "saturation": 0.785,
+        "dark_share": 0.238,
+        "palette": [
+          {
+            "hex": "#100401",
+            "share": 0.283
+          },
+          {
+            "hex": "#c06c0c",
+            "share": 0.275
+          },
+          {
+            "hex": "#781c05",
+            "share": 0.174
+          },
+          {
+            "hex": "#dd8b26",
+            "share": 0.173
+          },
+          {
+            "hex": "#f2b155",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+      "release_title": "After Hours",
+      "release_date": "2020-02-19",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: After Hours",
+      "url": "http://coverartarchive.org/release/19e4f6cc-ca0c-4897-8dfc-a36914b7f998/25720993837-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/19e4f6cc-ca0c-4897-8dfc-a36914b7f998",
+      "image_id": 25720993837,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.275,
+        "saturation": 0.458,
+        "dark_share": 0.481,
+        "palette": [
+          {
+            "hex": "#030405",
+            "share": 0.249
+          },
+          {
+            "hex": "#47391f",
+            "share": 0.244
+          },
+          {
+            "hex": "#90977d",
+            "share": 0.219
+          },
+          {
+            "hex": "#361a12",
+            "share": 0.145
+          },
+          {
+            "hex": "#130f0c",
+            "share": 0.144
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/1200x1200bb.jpg",
+      "collection": "After Hours",
+      "collection_id": 1499378108,
+      "track_id": 1499378607,
+      "artist_name": "The Weeknd",
+      "release_date": "2019-11-29T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.279,
+        "saturation": 0.418,
+        "dark_share": 0.491,
+        "palette": [
+          {
+            "hex": "#08090c",
+            "share": 0.325
+          },
+          {
+            "hex": "#46371c",
+            "share": 0.249
+          },
+          {
+            "hex": "#25140f",
+            "share": 0.175
+          },
+          {
+            "hex": "#9fb6a5",
+            "share": 0.135
+          },
+          {
+            "hex": "#807754",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

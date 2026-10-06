@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "a0c596be-f066-385d-a3c5-3270217a1e26",
+      "release_title": "Tossin' and Turnin' / Oh Yes, I Love You",
+      "release_date": "1961",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "cfad2d97-bc63-4c7e-bfad-546739599440",
+      "release_title": "Tossin' and Turnin'",
+      "release_date": "2005-05-17",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Tossin' & Turnin'",
+      "url": "http://coverartarchive.org/release/fed5ad57-15c1-4809-b1fc-e09660257081/24992790683-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fed5ad57-15c1-4809-b1fc-e09660257081",
+      "image_id": 24992790683,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.517,
+        "saturation": 0.61,
+        "dark_share": 0.337,
+        "palette": [
+          {
+            "hex": "#030908",
+            "share": 0.336
+          },
+          {
+            "hex": "#c03c30",
+            "share": 0.284
+          },
+          {
+            "hex": "#d3a358",
+            "share": 0.161
+          },
+          {
+            "hex": "#621d19",
+            "share": 0.127
+          },
+          {
+            "hex": "#ebdda7",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/a9/6b/b2/mzi.xkqmlhdf.jpg/1200x1200bb.jpg",
+      "collection": "Tossin' and Turnin'",
+      "collection_id": 351516343,
+      "track_id": 351516350,
+      "artist_name": "Bobby Lewis",
+      "release_date": "1961-09-14T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        620,
+        620
+      ],
+      "measures": {
+        "brightness": 0.517,
+        "saturation": 0.569,
+        "dark_share": 0.341,
+        "palette": [
+          {
+            "hex": "#c03d30",
+            "share": 0.282
+          },
+          {
+            "hex": "#040808",
+            "share": 0.277
+          },
+          {
+            "hex": "#e1c484",
+            "share": 0.232
+          },
+          {
+            "hex": "#231411",
+            "share": 0.137
+          },
+          {
+            "hex": "#a42623",
+            "share": 0.071
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

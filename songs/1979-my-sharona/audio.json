@@ -1,0 +1,72 @@
+{
+  "id": "1979-my-sharona",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3229188,
+    "matched_by": "isrc",
+    "isrc": "USCA28900153",
+    "title": "My Sharona",
+    "artist": "The Knack",
+    "album": "Retrospective: The Best Of The Knack",
+    "track_duration_s": 240,
+    "link": "https://www.deezer.com/track/3229188",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 147.4,
+    "tempo_bpm_grid": 147.7,
+    "tempo_candidates_bpm": [
+      143.6,
+      152.0,
+      73.8
+    ],
+    "beats_detected": 73,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.552,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.433,
+    "chroma_profile": [
+      0.573,
+      0.481,
+      0.729,
+      0.534,
+      0.619,
+      0.912,
+      0.792,
+      1.0,
+      0.541,
+      0.532,
+      0.601,
+      0.523
+    ],
+    "rms_dbfs": -11.89,
+    "rms_dbfs_p95_frame": -9.21,
+    "peak_dbfs": -0.09,
+    "loudness_lufs_approx": -11.22,
+    "spectral_centroid_hz_mean": 2474.0,
+    "spectral_centroid_hz_median": 2407.7,
+    "onsets": 90,
+    "onset_density_per_s": 3.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3229188",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 147.7,
+    "gain": -11.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3229188",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USCA27900065: matched but no preview available (readable=False)"
+  ]
+}

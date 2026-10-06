@@ -1,0 +1,73 @@
+{
+  "id": "1959-the-battle-of-new-orleans",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1129044,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSM19916424",
+    "title": "The Battle Of New Orleans",
+    "artist": "Johnny Horton",
+    "album": "Johnny Horton'S Greatest Hits",
+    "track_duration_s": 151,
+    "link": "https://www.deezer.com/track/1129044",
+    "duration_matched_to": "wikipedia infobox length (150s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 176.4,
+    "tempo_bpm_grid": 175.2,
+    "tempo_candidates_bpm": [
+      172.3,
+      184.6,
+      89.1
+    ],
+    "beats_detected": 84,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.631,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.521,
+    "chroma_profile": [
+      0.519,
+      0.603,
+      0.643,
+      0.898,
+      1.0,
+      0.574,
+      0.536,
+      0.594,
+      0.812,
+      0.874,
+      0.579,
+      0.636
+    ],
+    "rms_dbfs": -17.21,
+    "rms_dbfs_p95_frame": -13.91,
+    "peak_dbfs": -2.55,
+    "loudness_lufs_approx": -15.27,
+    "spectral_centroid_hz_mean": 2182.5,
+    "spectral_centroid_hz_median": 2107.1,
+    "onsets": 101,
+    "onset_density_per_s": 3.368,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1129044",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 177.4,
+    "gain": -15.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1129044",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

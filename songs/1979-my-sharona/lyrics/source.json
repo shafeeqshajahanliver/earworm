@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13005736,
+  "kind": "synced",
+  "matched": {
+    "track": "My Sharona",
+    "artist": "The Knack",
+    "album": "My Sharona",
+    "duration_s": 241.0
+  },
+  "duration_matched_to": "musicbrainz recording length (241s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 241.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 240.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 238.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 292.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 0.76,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37120813 (My Sharona / The Knack / Reality Bites: Original Motion Picture Soundtrack, 223.0s): duration matches no reference length",
+    "lrclib 37361537 (My Sharona / The Knack / 30 Years of Classic Hits, 232.0s): duration matches no reference length",
+    "lrclib 36565880 (My Sharona / The Knack / My Sharona, 307.0s): duration matches no reference length",
+    "lrclib 24587363 (My Sharona / The Knack / My Sharona, 387.584s): duration matches no reference length",
+    "lrclib 24832201 (My Sharona / The Knack / My Sharona, 182.91737s): duration matches no reference length",
+    "lrclib 11815866 (My Sharona / The Knack / My Sharona, 311.0s): duration matches no reference length",
+    "lrclib 6379503 (My Sharona / The Knack / My Sharona (Live), 308.0s): live/remix/other version",
+    "lrclib 16062229 (My Sharona / The Knack / My Sharona/Good Girls Don't, 298.496s): duration matches no reference length",
+    "lrclib 17932385 (My Sharona / The Knack / Get the Knack, 301.0931519s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

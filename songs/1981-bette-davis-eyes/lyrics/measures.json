@@ -1,0 +1,41 @@
+{
+  "id": "1981-bette-davis-eyes",
+  "lyrics_kind": "synced",
+  "lrclib_id": 22616653,
+  "lines": 25,
+  "words": 239,
+  "unique_words": 82,
+  "type_token_ratio": 0.343,
+  "repeated_line_share": 0.2,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.307,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "bette davis eyes",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 0,
+    "second": 25,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 15.08,
+  "last_line_s": 219.85,
+  "sung_time_s": 166.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 86.2,
+  "words_per_minute_track": 63.9,
+  "longest_gap_between_lines_s": 21.99,
+  "longest_gap_starts_at_s": 126.68,
+  "first_repeated_block": {
+    "first_at_s": 51.45,
+    "recurs_at_s": 152.35,
+    "lines": [
+      "All the better just to please you",
+      "She's precocious and she knows just what it takes to make a pro-blush"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 22616653",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34752179,
+  "kind": "synced",
+  "matched": {
+    "track": "(Everything I Do) I Do It for You",
+    "artist": "Bryan Adams",
+    "album": "En Vrac & Youtube",
+    "duration_s": 246.0
+  },
+  "duration_matched_to": "musicbrainz recording length (249s)",
+  "duration_diff_s": 3.0,
+  "reference_lengths": [
+    {
+      "seconds": 249.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 394.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 246.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 394.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 12,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37456570 ((Everything I Do) I Do It For You / Bryan Adams / Greatest Rock Ballads, 321.0s): duration matches no reference length",
+    "lrclib 37119278 ((Everything I Do) I Do It For You / Bryan Adams / On Stage, 247.0s): live/remix/other version",
+    "lrclib 37162114 ((Everything I Do) I Do It For You / Bryan Adams / 2010 - Bare Bones, 321.0s): duration matches no reference length",
+    "lrclib 37074152 ((Everything I Do) I Do It for You / Bryan Adams / Live at the Budokan  (Flac), 250.0s): live/remix/other version",
+    "lrclib 37041151 ((Everything I Do) I Do It For You / Bryan Adams / The Ultimate Karaoke Love Songs, 256.0s): live/remix/other version",
+    "lrclib 37261804 ((Everything I Do) I Do It For You / Bryan Adams / Waking Up The Neighbours, 307.0s): duration matches no reference length",
+    "lrclib 20138642 ((Everything I Do) I Do It for You / Bryan Adams / Bryan Adams, 441.48s): duration matches no reference length",
+    "lrclib 36881724 (I do it for you / Bryan Adams / I do it for you, 244.0s): marked instrumental",
+    "lrclib 14703848 (i do it for you / bryan adams / i do it for you, 394.0s): marked instrumental",
+    "lrclib 38902475 (I Do It For You / Bryan Adams / (Everything I Do) I Do It For You, 252.0s): marked instrumental",
+    "lrclib 37327227 (I Do It For You / Bryan Adams / Bryan Adams - Anthology, 396.0s): marked instrumental",
+    "lrclib 17827333 (I Do It For You / Bryan Adams / Zx Bryan Adams, 393.848163s): marked instrumental",
+    "lrclib 31108759 (I do it for you / Bryan Adams / Bryan Adams Assorted, 395.0s): marked instrumental",
+    "lrclib 9859926 ((Everything I Do) I Do It For You (Classic Version) / Bryan Adams / Bryan Adams, 387.0s): live/remix/other version",
+    "lrclib 28700257 (I Do It For You / Bryan Adams / I Do It For You (Single), 389.0s): marked instrumental",
+    "lrclib 35855126 ([Everything I Do] I Do It For You / Bryan Adams / [Everything I Do] I Do It For You, 421.0s): duration matches no reference length",
+    "lrclib 35667799 ((Everything I Do) I Do It for You / Bryan Adams / (Everything I Do) I Do It for You, 387.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

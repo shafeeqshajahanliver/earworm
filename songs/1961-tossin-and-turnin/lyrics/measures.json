@@ -1,0 +1,41 @@
+{
+  "id": "1961-tossin-and-turnin",
+  "lyrics_kind": "synced",
+  "lrclib_id": 35132240,
+  "lines": 45,
+  "words": 242,
+  "unique_words": 69,
+  "type_token_ratio": 0.285,
+  "repeated_line_share": 0.467,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.268,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "tossin and turnin",
+  "title_phrase_occurrences": 13,
+  "pronouns": {
+    "first_singular": 18,
+    "second": 3,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.12,
+  "last_line_s": 150.93,
+  "sung_time_s": 146.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 98.9,
+  "words_per_minute_track": 90.8,
+  "longest_gap_between_lines_s": 16.24,
+  "longest_gap_starts_at_s": 76.95,
+  "first_repeated_block": {
+    "first_at_s": 13.63,
+    "recurs_at_s": 34.49,
+    "lines": [
+      "Turnin' and tossin'",
+      "Tossin' and turnin' all night"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 35132240",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

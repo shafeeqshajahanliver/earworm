@@ -1,0 +1,70 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-06",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/26578",
+    "title": "Joy to the World",
+    "performer": "Three Dog Night",
+    "is_original": true,
+    "first_release_date": "1970-11-18",
+    "releases": [
+      {
+        "title": "Naturally",
+        "uri": "https://api.secondhandsongs.com/release/8678",
+        "performer": "Three Dog Night"
+      },
+      {
+        "title": "Joy to the World",
+        "uri": "https://api.secondhandsongs.com/release/380314",
+        "performer": "Three Dog Night"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 64,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/26578",
+    "title": "Joy to the World",
+    "language": "English",
+    "writers": [
+      "Hoyt Axton"
+    ],
+    "original_performer": "Three Dog Night",
+    "versions": 65,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Ráj bude náš",
+        "uri": "https://api.secondhandsongs.com/work/189744"
+      },
+      {
+        "title": "Sotilaat, kansat, maat",
+        "uri": "https://api.secondhandsongs.com/work/121756"
+      },
+      {
+        "title": "Boy Tell the World",
+        "uri": "https://api.secondhandsongs.com/work/128627"
+      },
+      {
+        "title": "Savon heimo",
+        "uri": "https://api.secondhandsongs.com/work/168950"
+      },
+      {
+        "title": "Moschakok",
+        "uri": "https://api.secondhandsongs.com/work/280941"
+      }
+    ]
+  }
+}

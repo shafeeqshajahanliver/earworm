@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "98d58e00-1fe0-4870-9342-10e076c88c85",
+      "release_title": "Joy to the World",
+      "release_date": "1971",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/5e50e465-36fe-4625-9821-0d6c9df319ac/44862264204-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5e50e465-36fe-4625-9821-0d6c9df319ac",
+      "image_id": 44862264204,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        593
+      ],
+      "measures": {
+        "brightness": 0.6,
+        "saturation": 0.224,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#5f513e",
+            "share": 0.391
+          },
+          {
+            "hex": "#534836",
+            "share": 0.209
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.203
+          },
+          {
+            "hex": "#f4fff9",
+            "share": 0.14
+          },
+          {
+            "hex": "#a6a18e",
+            "share": 0.057
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1e096954-9f7d-325a-b664-4fa1decdbd76",
+      "release_title": "Naturally",
+      "release_date": "1970-11-18",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Naturally",
+      "url": "https://coverartarchive.org/release/ace0a7ac-b374-41a1-9405-7c7958ab9882/38952976998-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ace0a7ac-b374-41a1-9405-7c7958ab9882",
+      "image_id": 38952976998,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1164
+      ],
+      "measures": {
+        "brightness": 0.437,
+        "saturation": 0.308,
+        "dark_share": 0.259,
+        "palette": [
+          {
+            "hex": "#c09a6b",
+            "share": 0.255
+          },
+          {
+            "hex": "#232626",
+            "share": 0.228
+          },
+          {
+            "hex": "#80604e",
+            "share": 0.188
+          },
+          {
+            "hex": "#323431",
+            "share": 0.188
+          },
+          {
+            "hex": "#513c37",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/44/d5/28/44d528cf-bb8f-263b-e76e-537a40838e4b/00076743135521.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Naturally",
+      "collection_id": 1443890529,
+      "track_id": 1443890867,
+      "artist_name": "Three Dog Night",
+      "release_date": "1970-11-18T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1160
+      ],
+      "measures": {
+        "brightness": 0.434,
+        "saturation": 0.291,
+        "dark_share": 0.255,
+        "palette": [
+          {
+            "hex": "#b6986f",
+            "share": 0.252
+          },
+          {
+            "hex": "#242627",
+            "share": 0.227
+          },
+          {
+            "hex": "#333333",
+            "share": 0.199
+          },
+          {
+            "hex": "#805d4e",
+            "share": 0.195
+          },
+          {
+            "hex": "#553a3b",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

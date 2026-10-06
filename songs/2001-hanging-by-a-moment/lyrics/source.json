@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1006474,
+  "kind": "synced",
+  "matched": {
+    "track": "Hanging By a Moment",
+    "artist": "Lifehouse",
+    "album": "No Name Face",
+    "duration_s": 216.0
+  },
+  "duration_matched_to": "musicbrainz recording length (216s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 215.626,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 215.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 216.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37491440 (Hanging By A Moment / Lifehouse / Buzz Ballads, 204.0s): duration matches no reference length",
+    "lrclib 37435678 (Hanging By A Moment / Lifehouse / CB8526-22, 239.0s): duration matches no reference length",
+    "lrclib 33792148 (Hanging by a Moment / Lifehouse / Lifehouse, 57.0s): duration matches no reference length",
+    "lrclib 35902606 (Hanging By A Moment / Lifehouse / No Name Face, 50.0s): duration matches no reference length",
+    "lrclib 35902635 (Hanging By A Moment / Lifehouse / No Name Face, 200.0s): duration matches no reference length",
+    "lrclib 35902615 (Hanging By A Moment / Lifehouse / No Name Face, 110.0s): duration matches no reference length",
+    "lrclib 21893951 (Hanging by a Moment / Lifehouse / Hanging by a Moment, 281.895375s): duration matches no reference length",
+    "lrclib 28030560 (Hanging by a Moment / Lifehouse / Hanging by a Moment, 201.0s): duration matches no reference length",
+    "lrclib 27528910 (Hanging by a Moment / Lifehouse / Hanging By a Moment, 198.98125s): duration matches no reference length",
+    "lrclib 21697227 (Hanging by a Moment (acoustic) / Lifehouse / Hanging by a Moment, 203.26675s): live/remix/other version",
+    "lrclib 10547949 (Hanging by a Moment (acoustic) / Lifehouse / Hanging by a Moment, 198.0s): live/remix/other version",
+    "lrclib 9167343 (Hanging By A Moment (Acoustic Version) / Lifehouse / Hanging By A Moment, 200.0s): live/remix/other version",
+    "lrclib 22621464 (Hanging by a Moment / Lifehouse / Hanging by a Moment [Australia CD], 203.26675s): duration matches no reference length",
+    "lrclib 27207268 (Hanging By A Moment / Lifehouse / Hanging By A Moment (Acoustic Version), 201.0s): live/remix/other version",
+    "lrclib 10961370 (Hanging By A Moment / Lifehouse / Hanging By A Moment (Acoustic Version), 198.0s): live/remix/other version",
+    "lrclib 24278376 (Hanging By A Moment (Acoustic) / Lifehouse / Hanging By A Moment (Single), 203.26675s): live/remix/other version",
+    "lrclib 27088400 (Hanging by a Moment (acoustic) / Lifehouse / Hanging By A Moment (Single), 200.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

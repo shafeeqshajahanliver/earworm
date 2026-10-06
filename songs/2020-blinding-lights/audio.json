@@ -1,0 +1,78 @@
+{
+  "id": "2020-blinding-lights",
+  "preview": {
+    "service": "deezer",
+    "track_id": 908604612,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUG11904206",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "track_duration_s": 200,
+    "link": "https://www.deezer.com/track/908604612",
+    "duration_matched_to": "wikipedia infobox length (202s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 85.4,
+    "tempo_bpm_grid": 85.4,
+    "tempo_candidates_bpm": [
+      86.1,
+      172.3,
+      161.5
+    ],
+    "beats_detected": 43,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.747,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.644,
+    "chroma_profile": [
+      0.933,
+      0.712,
+      0.591,
+      0.739,
+      0.512,
+      1.0,
+      0.695,
+      0.718,
+      0.637,
+      0.562,
+      0.675,
+      0.537
+    ],
+    "rms_dbfs": -7.08,
+    "rms_dbfs_p95_frame": -4.26,
+    "peak_dbfs": 0.49,
+    "loudness_lufs_approx": -8.37,
+    "spectral_centroid_hz_mean": 2453.8,
+    "spectral_centroid_hz_median": 2319.2,
+    "onsets": 106,
+    "onset_density_per_s": 3.535,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 908604612",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 170.84,
+    "gain": -8.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/908604612",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (170.8): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer 1161752782: version (Blinding Lights (Remix))",
+    "deezer 2166259437: version (Blinding Lights (Live))",
+    "deezer 1078622722: version (Blinding Lights (Major Lazer Remix))",
+    "deezer 1078622732: version (Blinding Lights (Chromatics Remix))"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33914027,
+  "kind": "synced",
+  "matched": {
+    "track": "God's Plan",
+    "artist": "Drake",
+    "album": "God's Plan",
+    "duration_s": 199.0
+  },
+  "duration_matched_to": "musicbrainz recording length (199s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 198.96,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 198.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 199.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37324366 (God's Plan / Drake / Yayınımsı, 357.0s): duration matches no reference length",
+    "lrclib 34395742 (God's Plan / Drake / CyzmiX Videos, 179.0s): duration matches no reference length",
+    "lrclib 35087000 (God's Plan / Drake / YouTube Search - Drake God's Plan, 357.0s): duration matches no reference length",
+    "lrclib 35183817 (God's Plan / Drake / Billboard Top 100 of 2018, 357.0s): duration matches no reference length",
+    "lrclib 33683559 (God's Plan / Drake / Scorpion, 209.0s): duration matches no reference length",
+    "lrclib 33732196 (Gods Plan / Drake / Scorpion, 480.0s): duration matches no reference length",
+    "lrclib 19342269 (God's Plan / Drake / God's Plan, 357.0s): duration matches no reference length",
+    "lrclib 23791766 (Gods Plan / Drake / Gods Plan, 141.840125s): duration matches no reference length",
+    "lrclib 33382511 (God's Plan (Paused) / Drake / God's Plan, 357.0s): duration matches no reference length",
+    "lrclib 26059747 (God's Plan / Drake / Drake, 356.913923s): duration matches no reference length",
+    "lrclib 22567996 (God's Plan / Drake / Drake Videos, 357.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

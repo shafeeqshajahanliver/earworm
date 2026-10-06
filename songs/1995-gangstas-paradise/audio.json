@@ -1,0 +1,74 @@
+{
+  "id": "1995-gangstas-paradise",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1584428112,
+    "matched_by": "isrc",
+    "isrc": "USTB10250016",
+    "title": "Gangsta's Paradise",
+    "artist": "Coolio",
+    "album": "Gangsta's Paradise",
+    "track_duration_s": 241,
+    "link": "https://www.deezer.com/track/1584428112",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 30.01,
+    "tempo_bpm": 79.7,
+    "tempo_bpm_grid": 80.1,
+    "tempo_candidates_bpm": [
+      80.7,
+      161.5,
+      152.0
+    ],
+    "beats_detected": 35,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.591,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.555,
+    "chroma_profile": [
+      0.766,
+      0.46,
+      0.534,
+      0.593,
+      0.415,
+      0.604,
+      0.482,
+      0.838,
+      1.0,
+      0.663,
+      0.599,
+      0.539
+    ],
+    "rms_dbfs": -10.49,
+    "rms_dbfs_p95_frame": -4.74,
+    "peak_dbfs": 1.53,
+    "loudness_lufs_approx": -10.44,
+    "spectral_centroid_hz_mean": 3024.9,
+    "spectral_centroid_hz_median": 2882.8,
+    "onsets": 83,
+    "onset_density_per_s": 2.765,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1584428112",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1584428112",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc NLD141100029: matched but no preview available (readable=False)",
+    "deezer isrc USRH11200647: matched but no preview available (readable=False)",
+    "deezer isrc USTBI0250016: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Cher"
+  ],
+  "title_as_charted": [
+    "Believe"
+  ],
+  "debut_week": "1998-12-19",
+  "debut_position": 99,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1999-03-13",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 31,
+  "last_week": "1999-07-17",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1998-12-19",
+      99
+    ],
+    [
+      "1998-12-26",
+      77
+    ],
+    [
+      "1999-01-02",
+      58
+    ],
+    [
+      "1999-01-09",
+      47
+    ],
+    [
+      "1999-01-16",
+      52
+    ],
+    [
+      "1999-01-23",
+      35
+    ],
+    [
+      "1999-01-30",
+      18
+    ],
+    [
+      "1999-02-06",
+      13
+    ],
+    [
+      "1999-02-13",
+      4
+    ],
+    [
+      "1999-02-20",
+      3
+    ],
+    [
+      "1999-02-27",
+      2
+    ],
+    [
+      "1999-03-06",
+      2
+    ],
+    [
+      "1999-03-13",
+      1
+    ],
+    [
+      "1999-03-20",
+      1
+    ],
+    [
+      "1999-03-27",
+      1
+    ],
+    [
+      "1999-04-03",
+      1
+    ],
+    [
+      "1999-04-10",
+      2
+    ],
+    [
+      "1999-04-17",
+      2
+    ],
+    [
+      "1999-04-24",
+      2
+    ],
+    [
+      "1999-05-01",
+      3
+    ],
+    [
+      "1999-05-08",
+      5
+    ],
+    [
+      "1999-05-15",
+      5
+    ],
+    [
+      "1999-05-22",
+      7
+    ],
+    [
+      "1999-05-29",
+      9
+    ],
+    [
+      "1999-06-05",
+      14
+    ],
+    [
+      "1999-06-12",
+      15
+    ],
+    [
+      "1999-06-19",
+      23
+    ],
+    [
+      "1999-06-26",
+      26
+    ],
+    [
+      "1999-07-03",
+      32
+    ],
+    [
+      "1999-07-10",
+      38
+    ],
+    [
+      "1999-07-17",
+      41
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

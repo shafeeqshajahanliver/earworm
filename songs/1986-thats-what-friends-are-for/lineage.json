@@ -1,0 +1,62 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-06",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/83640",
+    "title": "That's What Friends Are For",
+    "performer": "Dionne Warwick featuring Elton John, Gladys Knight and Stevie Wonder",
+    "is_original": false,
+    "first_release_date": "1985",
+    "releases": [
+      {
+        "title": "Friends",
+        "uri": "https://api.secondhandsongs.com/release/33544",
+        "performer": "Dionne Warwick"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "That's What Friends Are For",
+      "uri": "https://api.secondhandsongs.com/work/25359"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/25359",
+    "title": "That's What Friends Are For",
+    "language": "English",
+    "writers": [
+      "Burt Bacharach",
+      "Carole Bayer Sager"
+    ],
+    "original_performer": "Rod Stewart",
+    "versions": 104,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Két bolond",
+        "uri": "https://api.secondhandsongs.com/work/198035"
+      },
+      {
+        "title": "Daar zijn we vrienden voor",
+        "uri": "https://api.secondhandsongs.com/work/75063"
+      },
+      {
+        "title": "Nooit gedacht",
+        "uri": "https://api.secondhandsongs.com/work/127669"
+      },
+      {
+        "title": "Wenn man Freunde hat",
+        "uri": "https://api.secondhandsongs.com/work/201683"
+      },
+      {
+        "title": "Vägen till en vän",
+        "uri": "https://api.secondhandsongs.com/work/278893"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1999-believe",
+  "preview": {
+    "service": "deezer",
+    "track_id": 730434652,
+    "matched_by": "isrc",
+    "isrc": "GBAHT1200601",
+    "title": "Believe (2012 Remaster)",
+    "artist": "Cher",
+    "album": "90s",
+    "track_duration_s": 239,
+    "link": "https://www.deezer.com/track/730434652",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 133.1,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      89.1,
+      136.0,
+      129.2
+    ],
+    "beats_detected": 67,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.705,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.642,
+    "chroma_profile": [
+      0.578,
+      0.808,
+      0.512,
+      0.697,
+      0.653,
+      0.635,
+      0.764,
+      0.717,
+      1.0,
+      0.586,
+      0.573,
+      0.611
+    ],
+    "rms_dbfs": -7.53,
+    "rms_dbfs_p95_frame": -5.01,
+    "peak_dbfs": 0.48,
+    "loudness_lufs_approx": -7.85,
+    "spectral_centroid_hz_mean": 2636.5,
+    "spectral_centroid_hz_median": 2510.3,
+    "onsets": 129,
+    "onset_density_per_s": 4.302,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 730434652",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 132.94,
+    "gain": -8.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/730434652",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

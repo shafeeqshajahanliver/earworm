@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 2219654,
+  "kind": "synced",
+  "matched": {
+    "track": "Thrift Shop",
+    "artist": "Macklemore & Ryan Lewis feat. Wanz",
+    "album": "The Heist",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (236s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 235.982,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 235.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 45,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33608575 (Thrift Shop / Macklemore & Ryan Lewis / The Heist (Deluxe Edition), 280.0s): duration matches no reference length",
+    "lrclib 19048446 (Thrift Shop / Macklemore & Ryan Lewis / Summer Beach Party, 132.287275s): duration matches no reference length",
+    "lrclib 24701516 (Thrift Shop / Macklemore & Ryan Lewis / Tiny Desk Concert, 270.8455s): duration matches no reference length",
+    "lrclib 37240720 (Thrift Shop / Macklemore & Ryan Lewis feat. Wanz / Planète Rap 2013, 212.0s): duration matches no reference length",
+    "lrclib 33583719 (Thrift Shop / Macklemore & Ryan Lewis feat. Wanz / Maximum Hit Music 2013; Vol.2, 209.0s): duration matches no reference length",
+    "lrclib 21762160 (Thrift Shop / Macklemore & Ryan Lewis feat. Wanz / Mastermix: DJ Beats Vol. 87, 259.134694s): duration matches no reference length",
+    "lrclib 22737022 (Thrift Shop / Macklemore & Ryan Lewis / Thrift Shop (Remix) - Single (Macklemore & Ryan Lewis - Wanz Tribute), 235.62449s): live/remix/other version",
+    "lrclib 37882155 (Thrift Shop / Macklemore & Ryan Lewis / Thrift Shop, 242.0s): duration matches no reference length",
+    "lrclib 34655757 (Thrift Shop / Macklemore & Ryan Lewis/Macklemore/Ryan Lewis/Wanz / Thrift Shop, 182.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

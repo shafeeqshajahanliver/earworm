@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "b5801cd8-c309-48fa-a449-02167a047a17",
+      "release_title": "Rolling in the Deep",
+      "release_date": "2010",
+      "release_country": "TW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/79ef6f41-51a3-3ee5-8b2f-7347de023e30/41836773259-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/79ef6f41-51a3-3ee5-8b2f-7347de023e30",
+      "image_id": 41836773259,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        522
+      ],
+      "measures": {
+        "brightness": 0.115,
+        "saturation": 0.39,
+        "dark_share": 0.817,
+        "palette": [
+          {
+            "hex": "#0a0a05",
+            "share": 0.265
+          },
+          {
+            "hex": "#050503",
+            "share": 0.26
+          },
+          {
+            "hex": "#030302",
+            "share": 0.176
+          },
+          {
+            "hex": "#5f5d58",
+            "share": 0.168
+          },
+          {
+            "hex": "#020201",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+      "release_title": "21",
+      "release_date": "2011-01-19",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 21",
+      "url": "http://coverartarchive.org/release/d0a60bc8-b4e9-4f1c-b9b5-c84c284493c4/34029007881-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d0a60bc8-b4e9-4f1c-b9b5-c84c284493c4",
+      "image_id": 34029007881,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.244,
+        "saturation": 0.057,
+        "dark_share": 0.464,
+        "palette": [
+          {
+            "hex": "#434749",
+            "share": 0.281
+          },
+          {
+            "hex": "#000000",
+            "share": 0.264
+          },
+          {
+            "hex": "#919596",
+            "share": 0.241
+          },
+          {
+            "hex": "#181a1b",
+            "share": 0.132
+          },
+          {
+            "hex": "#000001",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/1200x1200bb.jpg",
+      "collection": "21",
+      "collection_id": 1544491232,
+      "track_id": 1544491233,
+      "artist_name": "Adele",
+      "release_date": "2010-11-29T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.248,
+        "saturation": 0.057,
+        "dark_share": 0.459,
+        "palette": [
+          {
+            "hex": "#454649",
+            "share": 0.291
+          },
+          {
+            "hex": "#000000",
+            "share": 0.253
+          },
+          {
+            "hex": "#929497",
+            "share": 0.241
+          },
+          {
+            "hex": "#18191b",
+            "share": 0.127
+          },
+          {
+            "hex": "#010001",
+            "share": 0.089
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

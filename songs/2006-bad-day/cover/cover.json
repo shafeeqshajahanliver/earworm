@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "78d56747-df4a-3b45-b57d-a5c0010a10b1",
+      "release_title": "Bad Day",
+      "release_date": "2005-03-05",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/568dcbcb-4711-4be7-a7a0-119cd5b057b0/18399816020-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/568dcbcb-4711-4be7-a7a0-119cd5b057b0",
+      "image_id": 18399816020,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        360,
+        360
+      ],
+      "measures": {
+        "brightness": 0.569,
+        "saturation": 0.283,
+        "dark_share": 0.121,
+        "palette": [
+          {
+            "hex": "#313430",
+            "share": 0.279
+          },
+          {
+            "hex": "#565b3e",
+            "share": 0.228
+          },
+          {
+            "hex": "#e7cc99",
+            "share": 0.183
+          },
+          {
+            "hex": "#c2a975",
+            "share": 0.181
+          },
+          {
+            "hex": "#f4ddb7",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7672bd54-417c-3dda-b16c-0f49265216bb",
+      "release_title": "Daniel Powter",
+      "release_date": "2005-07-26",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Daniel Powter",
+      "url": "http://coverartarchive.org/release/7203b76e-30c6-4c59-984a-3e1466c313d2/12009575982-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/7203b76e-30c6-4c59-984a-3e1466c313d2",
+      "image_id": "12009575982",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.624,
+        "saturation": 0.633,
+        "dark_share": 0.065,
+        "palette": [
+          {
+            "hex": "#937e1f",
+            "share": 0.331
+          },
+          {
+            "hex": "#b4a02f",
+            "share": 0.198
+          },
+          {
+            "hex": "#503e1a",
+            "share": 0.197
+          },
+          {
+            "hex": "#d2bf55",
+            "share": 0.163
+          },
+          {
+            "hex": "#f3eabf",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/90/db/17/mzi.tiuteyft.jpg/1200x1200bb.jpg",
+      "collection": "Daniel Powter",
+      "collection_id": 63816246,
+      "track_id": 63816165,
+      "artist_name": "Daniel Powter",
+      "release_date": "2005-06-27T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.63,
+        "saturation": 0.643,
+        "dark_share": 0.063,
+        "palette": [
+          {
+            "hex": "#947e1c",
+            "share": 0.33
+          },
+          {
+            "hex": "#b6a02a",
+            "share": 0.203
+          },
+          {
+            "hex": "#523f1a",
+            "share": 0.198
+          },
+          {
+            "hex": "#d3c050",
+            "share": 0.157
+          },
+          {
+            "hex": "#f5ecc2",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

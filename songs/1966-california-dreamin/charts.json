@@ -1,0 +1,92 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Mamas & The Papas"
+  ],
+  "title_as_charted": [
+    "California Dreamin'"
+  ],
+  "debut_week": "1966-01-08",
+  "debut_position": 99,
+  "peak_position": 4,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1966-03-12",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 17,
+  "last_week": "1966-04-30",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1966-01-08",
+      99
+    ],
+    [
+      "1966-01-15",
+      74
+    ],
+    [
+      "1966-01-22",
+      54
+    ],
+    [
+      "1966-01-29",
+      44
+    ],
+    [
+      "1966-02-05",
+      33
+    ],
+    [
+      "1966-02-12",
+      23
+    ],
+    [
+      "1966-02-19",
+      16
+    ],
+    [
+      "1966-02-26",
+      8
+    ],
+    [
+      "1966-03-05",
+      5
+    ],
+    [
+      "1966-03-12",
+      4
+    ],
+    [
+      "1966-03-19",
+      7
+    ],
+    [
+      "1966-03-26",
+      7
+    ],
+    [
+      "1966-04-02",
+      7
+    ],
+    [
+      "1966-04-09",
+      10
+    ],
+    [
+      "1966-04-16",
+      16
+    ],
+    [
+      "1966-04-23",
+      19
+    ],
+    [
+      "1966-04-30",
+      26
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

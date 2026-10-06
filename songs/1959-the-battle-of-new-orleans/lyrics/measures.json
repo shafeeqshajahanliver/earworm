@@ -1,0 +1,41 @@
+{
+  "id": "1959-the-battle-of-new-orleans",
+  "lyrics_kind": "synced",
+  "lrclib_id": 12549464,
+  "lines": 55,
+  "words": 421,
+  "unique_words": 135,
+  "type_token_ratio": 0.321,
+  "repeated_line_share": 0.382,
+  "distinct_lines": 34,
+  "zlib_compression_ratio": 0.297,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "the battle of new orleans",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 0,
+    "second": 0,
+    "first_plural": 35
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.96,
+  "last_line_s": 143.38,
+  "sung_time_s": 131.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 192.0,
+  "words_per_minute_track": 166.2,
+  "longest_gap_between_lines_s": 7.62,
+  "longest_gap_starts_at_s": 91.87,
+  "first_repeated_block": {
+    "first_at_s": 20.57,
+    "recurs_at_s": 44.95,
+    "lines": [
+      "We fired our guns and the British kept a-comin'",
+      "There wasn't as many as there was a while ago"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 12549464",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 163264,
+  "kind": "synced",
+  "matched": {
+    "track": "Faith",
+    "artist": "George Michael",
+    "album": "Faith",
+    "duration_s": 195.0
+  },
+  "duration_matched_to": "musicbrainz recording length (195s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 195.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 193.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 187.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 196.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37532012 (Faith / George Michael / The Best Of George Michael - Ladies & Gentlemen - Cd 2, 254.0s): duration matches no reference length",
+    "lrclib 37313848 (Faith / George Michael / Ladies & Gentleman: The Best of George Michael, 247.0s): duration matches no reference length",
+    "lrclib 34248658 (Faith (instrumental) / George Michael / Michael: Faith, 188.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

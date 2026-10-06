@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "8c102670-f3d4-45e9-be3b-72c96ef69c88",
+      "release_title": "Every Breath You Take",
+      "release_date": "1983-05",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3f463683-6fb2-4598-8335-f6a8d77da8f4/5520130272-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/3f463683-6fb2-4598-8335-f6a8d77da8f4",
+      "image_id": "5520130272",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.481,
+        "saturation": 0.689,
+        "dark_share": 0.404,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.276
+          },
+          {
+            "hex": "#393c52",
+            "share": 0.216
+          },
+          {
+            "hex": "#baa733",
+            "share": 0.195
+          },
+          {
+            "hex": "#a60001",
+            "share": 0.179
+          },
+          {
+            "hex": "#000002",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f6df6292-fd40-37c3-bd61-22c53abfe773",
+      "release_title": "Synchronicity",
+      "release_date": "1983",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Synchronicity",
+      "url": "https://coverartarchive.org/release/53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4/4426159553-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4",
+      "image_id": 4426159553,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.545,
+        "saturation": 0.446,
+        "dark_share": 0.317,
+        "palette": [
+          {
+            "hex": "#010608",
+            "share": 0.328
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.218
+          },
+          {
+            "hex": "#5c201a",
+            "share": 0.196
+          },
+          {
+            "hex": "#8baf87",
+            "share": 0.19
+          },
+          {
+            "hex": "#f5fcf2",
+            "share": 0.067
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/22/4d/91224d23-76f8-0ca3-da49-41f9aeeba1d4/23UM1IM00741.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Synchronicity (Super Deluxe Edition)",
+      "collection_id": 1744158559,
+      "track_id": 1744158568,
+      "artist_name": "The Police",
+      "release_date": "1983-01-06T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.965,
+        "saturation": 0.219,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.678
+          },
+          {
+            "hex": "#adc08c",
+            "share": 0.173
+          },
+          {
+            "hex": "#b44d4a",
+            "share": 0.097
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.032
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.02
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

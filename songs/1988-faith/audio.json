@@ -1,0 +1,72 @@
+{
+  "id": "1988-faith",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15626269,
+    "matched_by": "isrc",
+    "isrc": "GBARL0601598",
+    "title": "Faith (Remastered 2006)",
+    "artist": "George Michael",
+    "album": "Twenty Five",
+    "track_duration_s": 193,
+    "link": "https://www.deezer.com/track/15626269",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 96.0,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      95.7,
+      198.8,
+      184.6
+    ],
+    "beats_detected": 47,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.321,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.265,
+    "chroma_profile": [
+      1.0,
+      0.875,
+      0.73,
+      0.606,
+      0.671,
+      0.779,
+      0.841,
+      0.833,
+      0.828,
+      0.739,
+      0.747,
+      0.951
+    ],
+    "rms_dbfs": -12.43,
+    "rms_dbfs_p95_frame": -7.19,
+    "peak_dbfs": 0.82,
+    "loudness_lufs_approx": -13.5,
+    "spectral_centroid_hz_mean": 2913.0,
+    "spectral_centroid_hz_median": 2751.0,
+    "onsets": 161,
+    "onset_density_per_s": 5.369,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15626269",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 191.4,
+    "gain": -12.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15626269",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (191.4): octave error likely"
+  ],
+  "rejected_candidates": []
+}

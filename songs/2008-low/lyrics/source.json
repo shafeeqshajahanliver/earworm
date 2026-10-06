@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34947476,
+  "kind": "synced",
+  "matched": {
+    "track": "Low",
+    "artist": "Flo Rida Feat․ T-Pain",
+    "album": "Mail On Sunday",
+    "duration_s": 231.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (231s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 231.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 230.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 52,
+  "agreement_with_other_candidates": 0.815,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (231s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 33564205 (Low / Flo Rida Feat. T‐Pain / Mail on Sunday, 221.0s): duration matches no reference length",
+    "lrclib 35883430 (Low / Flo Rida Feat. T-Pain / Kiss Presents: The Mixtape, 215.0s): duration matches no reference length",
+    "lrclib 36135987 (Low / Flo Rida feat. T-Pain / Mail On Sunday (Deluxe Version), 231.0s): live/remix/other version",
+    "lrclib 20302018 (Low / Flo Rida feat. T-Pain / HT Select Mix Party Essentials Vol. 05 (DD), 289.097143s): duration matches no reference length",
+    "lrclib 20205858 (Low / Flo Rida feat. T-Pain / Ht Select Mix The Best Of Select Essentials Vol. 02 (DD), 320.391837s): duration matches no reference length",
+    "lrclib 37327910 (Low / Flo Rida / Low, 250.0s): duration matches no reference length",
+    "lrclib 36863314 (Low / Flo Rida / Beating the Odds, 240.0s): duration matches no reference length",
+    "lrclib 35144371 (**Low** / Flo Rida / undefined, Nones): duration matches no reference length",
+    "lrclib 36130366 (Low / Flo Rida / Mail On Sunday (Deluxe Version), 236.0s): live/remix/other version",
+    "lrclib 36534487 (Low / Flo-Rida / Metal-Hard Rock Covers, 239.0s): live/remix/other version",
+    "lrclib 35551119 (Low / Flo Rida / Right Round, 255.0s): duration matches no reference length",
+    "lrclib 38271028 (Low (feat. T-Pain) / Flo Rida / Flo Rida, 324.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

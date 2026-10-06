@@ -1,0 +1,41 @@
+{
+  "id": "2016-love-yourself",
+  "lyrics_kind": "synced",
+  "lrclib_id": 543485,
+  "lines": 51,
+  "words": 450,
+  "unique_words": 119,
+  "type_token_ratio": 0.264,
+  "repeated_line_share": 0.412,
+  "distinct_lines": 30,
+  "zlib_compression_ratio": 0.269,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "love yourself",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 56,
+    "second": 48,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.49,
+  "last_line_s": 227.22,
+  "sung_time_s": 208.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 129.3,
+  "words_per_minute_track": 115.8,
+  "longest_gap_between_lines_s": 23.4,
+  "longest_gap_starts_at_s": 150.1,
+  "first_repeated_block": {
+    "first_at_s": 19.73,
+    "recurs_at_s": 96.54,
+    "lines": [
+      "And I didn't wanna write a song",
+      "'Cause I didn't want anyone thinkin' I still care, I don't, but"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 543485",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

@@ -1,0 +1,116 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bobby Lewis"
+  ],
+  "title_as_charted": [
+    "Tossin' And Turnin'"
+  ],
+  "debut_week": "1961-04-24",
+  "debut_position": 91,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "1961-07-10",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 23,
+  "last_week": "1961-09-25",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "1961-04-24",
+      91
+    ],
+    [
+      "1961-05-01",
+      81
+    ],
+    [
+      "1961-05-08",
+      66
+    ],
+    [
+      "1961-05-15",
+      55
+    ],
+    [
+      "1961-05-22",
+      44
+    ],
+    [
+      "1961-05-29",
+      34
+    ],
+    [
+      "1961-06-05",
+      24
+    ],
+    [
+      "1961-06-12",
+      17
+    ],
+    [
+      "1961-06-19",
+      7
+    ],
+    [
+      "1961-06-26",
+      4
+    ],
+    [
+      "1961-07-03",
+      2
+    ],
+    [
+      "1961-07-10",
+      1
+    ],
+    [
+      "1961-07-17",
+      1
+    ],
+    [
+      "1961-07-24",
+      1
+    ],
+    [
+      "1961-07-31",
+      1
+    ],
+    [
+      "1961-08-07",
+      1
+    ],
+    [
+      "1961-08-14",
+      1
+    ],
+    [
+      "1961-08-21",
+      1
+    ],
+    [
+      "1961-08-28",
+      2
+    ],
+    [
+      "1961-09-04",
+      3
+    ],
+    [
+      "1961-09-11",
+      15
+    ],
+    [
+      "1961-09-18",
+      16
+    ],
+    [
+      "1961-09-25",
+      52
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

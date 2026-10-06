@@ -1,0 +1,124 @@
+{
+  "id": "2011-rolling-in-the-deep",
+  "updated": "2026-10-06",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0485_rollinginthedeep",
+      "match": {
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "release": "Now That's What I Call Music! 38",
+        "musicbrainz_id": "1a13c710-4b7e-4701-8968-cd61f2e58110",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0485_rollinginthedeep.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0485_rollinginthedeep.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "annotated_duration": 226.421,
+      "bpm": 105.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.522,
+          "end": 5.093,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 2
+        },
+        {
+          "start": 5.093,
+          "end": 23.379,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 23.379,
+          "end": 41.665,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 41.665,
+          "end": 58.807,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 58.807,
+          "end": 78.236,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 78.236,
+          "end": 96.522,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 96.522,
+          "end": 113.665,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 113.665,
+          "end": 131.95,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 131.95,
+          "end": 151.379,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 151.379,
+          "end": 169.665,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 169.665,
+          "end": 186.808,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 186.808,
+          "end": 205.093,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 205.093,
+          "end": 224.522,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 940635,
+  "kind": "synced",
+  "matched": {
+    "track": "Believe",
+    "artist": "Cher",
+    "album": "Believe",
+    "duration_s": 239.0
+  },
+  "duration_matched_to": "musicbrainz recording length (239s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 238.693,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 239.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 239.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36982929 (Believe / Cher / 100 Greatest 90s [Disc 1], 232.0s): duration matches no reference length",
+    "lrclib 37522755 (believe / cher / the greatest dance album, 258.0s): duration matches no reference length",
+    "lrclib 37157439 (Believe / Cher / Personal Collection, 231.0s): duration matches no reference length",
+    "lrclib 30261621 (Believe - Cher [Almighty Definitive Mix] / Cher / Believe, 457.0s): duration matches no reference length",
+    "lrclib 29464174 (Believe (Xenomania Mix) / Cher / Cher - Believe (EP in 160Kbps), 520.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

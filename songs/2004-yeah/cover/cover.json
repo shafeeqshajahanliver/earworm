@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "5f9288b9-4d5d-335c-90ee-c7359db7c5f0",
+      "release_title": "Yeah!",
+      "release_date": "2004-02-03",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e4bf20db-6a71-4f44-a0b2-267a2efe72a9/34577243126-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e4bf20db-6a71-4f44-a0b2-267a2efe72a9",
+      "image_id": 34577243126,
+      "types": [
+        "Front"
+      ],
+      "comment": "cropped and color corrected",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1031
+      ],
+      "measures": {
+        "brightness": 0.868,
+        "saturation": 0.087,
+        "dark_share": 0.073,
+        "palette": [
+          {
+            "hex": "#fdfffe",
+            "share": 0.674
+          },
+          {
+            "hex": "#806964",
+            "share": 0.2
+          },
+          {
+            "hex": "#fbfffe",
+            "share": 0.065
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.048
+          },
+          {
+            "hex": "#fdfffd",
+            "share": 0.013
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0ee013ee-5f59-35d5-b6b8-26a0cb3e4372",
+      "release_title": "Confessions",
+      "release_date": "2004-03-22",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Confessions",
+      "url": "http://coverartarchive.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f/21521356369-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f",
+      "image_id": 21521356369,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1188
+      ],
+      "measures": {
+        "brightness": 0.301,
+        "saturation": 0.185,
+        "dark_share": 0.458,
+        "palette": [
+          {
+            "hex": "#91765d",
+            "share": 0.221
+          },
+          {
+            "hex": "#493f3a",
+            "share": 0.22
+          },
+          {
+            "hex": "#252428",
+            "share": 0.217
+          },
+          {
+            "hex": "#2d2c2f",
+            "share": 0.182
+          },
+          {
+            "hex": "#28282c",
+            "share": 0.16
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/1200x1200bb.jpg",
+      "collection": "Confessions (Expanded Edition)",
+      "collection_id": 386153476,
+      "track_id": 386153478,
+      "artist_name": "USHER",
+      "release_date": "2004-01-10T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        601
+      ],
+      "measures": {
+        "brightness": 0.215,
+        "saturation": 0.442,
+        "dark_share": 0.598,
+        "palette": [
+          {
+            "hex": "#906d56",
+            "share": 0.226
+          },
+          {
+            "hex": "#392921",
+            "share": 0.223
+          },
+          {
+            "hex": "#010304",
+            "share": 0.205
+          },
+          {
+            "hex": "#040505",
+            "share": 0.177
+          },
+          {
+            "hex": "#0d0b0a",
+            "share": 0.169
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

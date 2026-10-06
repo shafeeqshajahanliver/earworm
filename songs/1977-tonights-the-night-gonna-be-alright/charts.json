@@ -1,0 +1,116 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Rod Stewart"
+  ],
+  "title_as_charted": [
+    "Tonight's The Night (Gonna Be Alright)"
+  ],
+  "debut_week": "1976-10-02",
+  "debut_position": 81,
+  "peak_position": 1,
+  "weeks_at_peak": 8,
+  "first_week_at_peak": "1976-11-13",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 23,
+  "last_week": "1977-03-05",
+  "weeks_at_number_one": 8,
+  "run": [
+    [
+      "1976-10-02",
+      81
+    ],
+    [
+      "1976-10-09",
+      71
+    ],
+    [
+      "1976-10-16",
+      42
+    ],
+    [
+      "1976-10-23",
+      35
+    ],
+    [
+      "1976-10-30",
+      22
+    ],
+    [
+      "1976-11-06",
+      8
+    ],
+    [
+      "1976-11-13",
+      1
+    ],
+    [
+      "1976-11-20",
+      1
+    ],
+    [
+      "1976-11-27",
+      1
+    ],
+    [
+      "1976-12-04",
+      1
+    ],
+    [
+      "1976-12-11",
+      1
+    ],
+    [
+      "1976-12-18",
+      1
+    ],
+    [
+      "1976-12-25",
+      1
+    ],
+    [
+      "1977-01-01",
+      1
+    ],
+    [
+      "1977-01-08",
+      3
+    ],
+    [
+      "1977-01-15",
+      6
+    ],
+    [
+      "1977-01-22",
+      11
+    ],
+    [
+      "1977-01-29",
+      22
+    ],
+    [
+      "1977-02-05",
+      30
+    ],
+    [
+      "1977-02-12",
+      35
+    ],
+    [
+      "1977-02-19",
+      45
+    ],
+    [
+      "1977-02-26",
+      60
+    ],
+    [
+      "1977-03-05",
+      60
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

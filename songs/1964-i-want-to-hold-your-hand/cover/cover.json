@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "feae685b-cf45-319e-9286-8f4571cf2d0f",
+      "release_title": "I Want to Hold Your Hand / This Boy",
+      "release_date": "1963-11-29",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/7875663e-8923-45bd-a837-c7de69e2f37f/18039713141-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/7875663e-8923-45bd-a837-c7de69e2f37f",
+      "image_id": 18039713141,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.386,
+        "saturation": 0.285,
+        "dark_share": 0.149,
+        "palette": [
+          {
+            "hex": "#416047",
+            "share": 0.336
+          },
+          {
+            "hex": "#46684c",
+            "share": 0.234
+          },
+          {
+            "hex": "#4d7152",
+            "share": 0.178
+          },
+          {
+            "hex": "#292d28",
+            "share": 0.165
+          },
+          {
+            "hex": "#9aa389",
+            "share": 0.088
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c2c696fc-6beb-3dfb-bb15-7bb021ebeb5d",
+      "release_title": "Meet The Beatles!",
+      "release_date": "1964",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/d1aa46e4-414b-4488-a506-cfd72eae29d9/1334505243-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/d1aa46e4-414b-4488-a506-cfd72eae29d9",
+      "image_id": 1334505243,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        499
+      ],
+      "measures": {
+        "brightness": 0.337,
+        "saturation": 0.527,
+        "dark_share": 0.624,
+        "palette": [
+          {
+            "hex": "#1d1a08",
+            "share": 0.277
+          },
+          {
+            "hex": "#d5d4b6",
+            "share": 0.258
+          },
+          {
+            "hex": "#141202",
+            "share": 0.224
+          },
+          {
+            "hex": "#3e3c28",
+            "share": 0.138
+          },
+          {
+            "hex": "#161807",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/56/3c/83563c70-437e-af42-4327-32842b34d467/00602537669042.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Meet The Beatles!",
+      "collection_id": 1468023095,
+      "track_id": 1468023761,
+      "artist_name": "The Beatles",
+      "release_date": "1963-11-29T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.382,
+        "saturation": 0.526,
+        "dark_share": 0.598,
+        "palette": [
+          {
+            "hex": "#05181c",
+            "share": 0.28
+          },
+          {
+            "hex": "#e5edf0",
+            "share": 0.274
+          },
+          {
+            "hex": "#06191d",
+            "share": 0.259
+          },
+          {
+            "hex": "#3e5252",
+            "share": 0.116
+          },
+          {
+            "hex": "#051619",
+            "share": 0.071
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

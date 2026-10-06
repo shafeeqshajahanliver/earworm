@@ -1,0 +1,283 @@
+{
+  "id": "1983-every-breath-you-take",
+  "updated": "2026-10-06",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "every_breath_you_take_dt",
+      "match": {
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "year": "1983",
+        "rs500_rank": "84",
+        "audio_used": {
+          "artist": "The Police",
+          "album": "Synchronicity",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, every_breath_you_take_dt.har/.clt + every_breath_you_take.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 246 s; our recording 253 s",
+      "parse_check": "expanded 120 bars; timed chord list ends in bar 119",
+      "sections": [
+        {
+          "start": 0.832,
+          "end": 17.196,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 17.196,
+          "end": 33.555,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 33.555,
+          "end": 49.921,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 8
+        },
+        {
+          "start": 49.921,
+          "end": 66.284,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 66.284,
+          "end": 82.644,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 32,
+          "bars": 8
+        },
+        {
+          "start": 82.644,
+          "end": 103.108,
+          "label": "Br2",
+          "normalised": "bridge",
+          "first_bar": 40,
+          "bars": 10
+        },
+        {
+          "start": 103.108,
+          "end": 119.445,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 50,
+          "bars": 8
+        },
+        {
+          "start": 119.445,
+          "end": 135.817,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 58,
+          "bars": 8
+        },
+        {
+          "start": 135.817,
+          "end": 152.176,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 66,
+          "bars": 8
+        },
+        {
+          "start": 152.176,
+          "end": 168.54,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 74,
+          "bars": 8
+        },
+        {
+          "start": 168.54,
+          "end": 180.795,
+          "label": "Ta",
+          "normalised": "other",
+          "first_bar": 82,
+          "bars": 6
+        },
+        {
+          "start": 180.795,
+          "end": 246.255,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 88,
+          "bars": 32
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "every_breath_you_take_tdc",
+      "match": {
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "year": "1983",
+        "rs500_rank": "84",
+        "audio_used": {
+          "artist": "The Police",
+          "album": "Synchronicity",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, every_breath_you_take_tdc.har/.clt + every_breath_you_take.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 246 s; our recording 253 s",
+      "parse_check": "expanded 120 bars; timed chord list ends in bar 119",
+      "sections": [
+        {
+          "start": 0.832,
+          "end": 17.196,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 17.196,
+          "end": 33.555,
+          "label": "Vr1",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 33.555,
+          "end": 49.921,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 8
+        },
+        {
+          "start": 49.921,
+          "end": 66.284,
+          "label": "Br1",
+          "normalised": "bridge",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 66.284,
+          "end": 82.644,
+          "label": "Vr1",
+          "normalised": "verse",
+          "first_bar": 32,
+          "bars": 8
+        },
+        {
+          "start": 82.644,
+          "end": 103.108,
+          "label": "Br2",
+          "normalised": "bridge",
+          "first_bar": 40,
+          "bars": 10
+        },
+        {
+          "start": 103.108,
+          "end": 119.445,
+          "label": "Vr1a",
+          "normalised": "verse",
+          "first_bar": 50,
+          "bars": 8
+        },
+        {
+          "start": 119.445,
+          "end": 135.817,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 58,
+          "bars": 8
+        },
+        {
+          "start": 135.817,
+          "end": 152.176,
+          "label": "Br1",
+          "normalised": "bridge",
+          "first_bar": 66,
+          "bars": 8
+        },
+        {
+          "start": 152.176,
+          "end": 168.54,
+          "label": "Vr1",
+          "normalised": "verse",
+          "first_bar": 74,
+          "bars": 8
+        },
+        {
+          "start": 168.54,
+          "end": 180.795,
+          "label": "Ta",
+          "normalised": "other",
+          "first_bar": 82,
+          "bars": 6
+        },
+        {
+          "start": 180.795,
+          "end": 246.255,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 88,
+          "bars": 32
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse bridge verse bridge verse bridge verse outro",
+      "rolling_stone_tdc": "verse bridge verse bridge verse bridge verse outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.89
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-06",
+    "confidence": "computed"
+  }
+}

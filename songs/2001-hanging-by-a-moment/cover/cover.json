@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "b255dfc2-797e-3d7f-8a5e-a739f9a6880c",
+      "release_title": "Hanging by a Moment",
+      "release_date": "2001",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/bf9a107f-d859-4909-a6e1-0b142ce1d3f8/24417713028-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/bf9a107f-d859-4909-a6e1-0b142ce1d3f8",
+      "image_id": 24417713028,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        276
+      ],
+      "measures": {
+        "brightness": 0.707,
+        "saturation": 0.322,
+        "dark_share": 0.086,
+        "palette": [
+          {
+            "hex": "#998f5d",
+            "share": 0.294
+          },
+          {
+            "hex": "#e9d383",
+            "share": 0.222
+          },
+          {
+            "hex": "#4d3a2f",
+            "share": 0.21
+          },
+          {
+            "hex": "#fdfcfb",
+            "share": 0.148
+          },
+          {
+            "hex": "#faf3c1",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "ae76bd62-2ca4-3665-a061-9674a6397998",
+      "release_title": "No Name Face",
+      "release_date": "2000",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: No Name Face",
+      "url": "http://coverartarchive.org/release/0223b539-b9b1-4a94-836f-a8fbd5457443/9324803137-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0223b539-b9b1-4a94-836f-a8fbd5457443",
+      "image_id": 9324803137,
+      "types": [
+        "Front"
+      ],
+      "comment": "2000x2000",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.543,
+        "saturation": 0.442,
+        "dark_share": 0.072,
+        "palette": [
+          {
+            "hex": "#a67e48",
+            "share": 0.258
+          },
+          {
+            "hex": "#7b5e3f",
+            "share": 0.252
+          },
+          {
+            "hex": "#38342e",
+            "share": 0.23
+          },
+          {
+            "hex": "#b4925c",
+            "share": 0.155
+          },
+          {
+            "hex": "#d0b983",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/f1/1f/28f11f2c-bea1-7b4f-a872-1d25c61086ef/00602527333472.rgb.jpg/1200x1200bb.jpg",
+      "collection": "No Name Face",
+      "collection_id": 1440768163,
+      "track_id": 1440768181,
+      "artist_name": "Lifehouse",
+      "release_date": "2000-08-16T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1196
+      ],
+      "measures": {
+        "brightness": 0.536,
+        "saturation": 0.436,
+        "dark_share": 0.073,
+        "palette": [
+          {
+            "hex": "#a57c48",
+            "share": 0.257
+          },
+          {
+            "hex": "#7b5d3f",
+            "share": 0.253
+          },
+          {
+            "hex": "#3a342e",
+            "share": 0.233
+          },
+          {
+            "hex": "#b2905d",
+            "share": 0.152
+          },
+          {
+            "hex": "#ceb683",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

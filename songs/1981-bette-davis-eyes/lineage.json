@@ -1,0 +1,88 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-06",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/1271",
+    "title": "Bette Davis Eyes",
+    "performer": "Kim Carnes",
+    "is_original": false,
+    "first_release_date": "1981-03",
+    "releases": [
+      {
+        "title": "Mistaken Identity",
+        "uri": "https://api.secondhandsongs.com/release/794",
+        "performer": "Kim Carnes"
+      },
+      {
+        "title": "Bette Davis Eyes",
+        "uri": "https://api.secondhandsongs.com/release/115035",
+        "performer": "Kim Carnes"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Bette Davis Eyes",
+      "uri": "https://api.secondhandsongs.com/work/1270"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/1270",
+    "title": "Bette Davis Eyes",
+    "language": "English",
+    "writers": [
+      "Jackie DeShannon",
+      "Donna Weiss"
+    ],
+    "original_performer": "Jackie De Shannon",
+    "versions": 63,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "In My Arms",
+        "uri": "https://api.secondhandsongs.com/work/31890"
+      },
+      {
+        "title": "Bartimaeus Eyes",
+        "uri": "https://api.secondhandsongs.com/work/129101"
+      },
+      {
+        "title": "Bette Davis",
+        "uri": "https://api.secondhandsongs.com/work/132811"
+      },
+      {
+        "title": "Als ob sie Bette Davis wär",
+        "uri": "https://api.secondhandsongs.com/work/148300"
+      },
+      {
+        "title": "Ivar Medaas øyne",
+        "uri": "https://api.secondhandsongs.com/work/163949"
+      },
+      {
+        "title": "Dívka, která spí jen tak",
+        "uri": "https://api.secondhandsongs.com/work/213777"
+      },
+      {
+        "title": "Lars Adaktussons frisyr",
+        "uri": "https://api.secondhandsongs.com/work/255098"
+      },
+      {
+        "title": "Prázdnej špajz",
+        "uri": "https://api.secondhandsongs.com/work/299527"
+      },
+      {
+        "title": "Bette Davis Eyes",
+        "uri": "https://api.secondhandsongs.com/work/348362"
+      }
+    ]
+  }
+}

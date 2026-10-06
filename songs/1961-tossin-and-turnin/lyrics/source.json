@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35132240,
+  "kind": "synced",
+  "matched": {
+    "track": "Tossin' and Turnin'",
+    "artist": "Bobby Lewis",
+    "album": "Tossin' and Turnin' / Oh Yes, I Love You",
+    "duration_s": 160.0
+  },
+  "duration_matched_to": "musicbrainz recording length (160s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 160.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 161.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 149.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37108980 (Tossin' And Turnin' / Bobby Lewis / Vol. 14, 140.0s): duration matches no reference length",
+    "lrclib 37096686 (Tossin' And Turnin' / Bobby Lewis / Mastermix Decades USB 80s 1982, 143.0s): duration matches no reference length",
+    "lrclib 35225012 (Tossin' and Turnin' / Bobby Lewis / Solid Gold Soul: 1961, 140.0s): duration matches no reference length",
+    "lrclib 33591242 (Tossin' And Turnin' / Bobby Lewis / Heroes Of Rock & Roll [Disc 2], 136.0s): duration matches no reference length",
+    "lrclib 33630693 (Tossin' And Turnin' / Bobby Lewis / Oldies But Goodies Volume 5, 140.0s): duration matches no reference length",
+    "lrclib 36260609 (Tossin' And Turnin' / Bobby Lewis / Charts 1961, 143.0s): duration matches no reference length",
+    "lrclib 36195135 (Tossin' and Turnin' / Bobby Lewis / Dick Clark  Hits Vol._2, 137.0s): duration matches no reference length",
+    "lrclib 36330432 (Tossin' and Turnin' / Bobby Lewis / '60s R&B Classics, 143.0s): duration matches no reference length",
+    "lrclib 34028701 (Tossin' and Turnin' / Bobby Lewis / The Ultimate Oldies But Goodies Collection - Sh-Boom - Side A, 142.0s): duration matches no reference length",
+    "lrclib 35462757 (Tossin' and Turnin' / Bobby Lewis / National Lampoon's Animal House: Original Motion Picture Soundtrack, 169.0s): duration matches no reference length",
+    "lrclib 29361248 (Tossin' and Turnin' / Bobby Lewis / Tossin' & Turnin', 142.0s): duration matches no reference length",
+    "lrclib 22844978 (Tossin’ & Turnin’ / Bobby Lewis / \"Tossin' and Turnin'\" single, 135.0s): duration matches no reference length",
+    "lrclib 31608694 (Tossin' and Turnin' / Bobby Lewis / 20th Century Rocks: 60's Rock 'n Roll - Tossin' and Turnin', 143.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

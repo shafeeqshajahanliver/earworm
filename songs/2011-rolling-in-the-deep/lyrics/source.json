@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1213,
+  "kind": "synced",
+  "matched": {
+    "track": "Rolling In The Deep",
+    "artist": "Adele",
+    "album": "21",
+    "duration_s": 228.0
+  },
+  "duration_matched_to": "musicbrainz recording length (228s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 228.293,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 228.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 228.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37194256 (Rolling in the Deep / Adele / More Music 4, 234.0s): duration matches no reference length",
+    "lrclib 37093049 (Rolling in the Deep / Adele / Now That’s What I Call Music! 78, 234.0s): duration matches no reference length",
+    "lrclib 37077827 (Rolling In The Deep / Adele / Live At Royal Albert Hall, 289.0s): live/remix/other version",
+    "lrclib 37978823 (Rolling In The Deep (Adele Cover) / Adele / Rolling In The Deep (Adele Cover), 218.0s): live/remix/other version",
+    "lrclib 10894361 (Rolling in the Deep (Adele Cover) / Adele / Rolling in the Deep (Adele Cover), 205.0s): live/remix/other version",
+    "lrclib 34694666 (Rolling in the Deep / Adele / Rolling in the Deep, 285.0s): duration matches no reference length",
+    "lrclib 33725719 (Rolling in the Deep / Adele / Rolling in the Deep, 190.0s): duration matches no reference length",
+    "lrclib 35910061 (Rolling in the Deep / Adele / Rolling in the Deep, 200.0s): duration matches no reference length",
+    "lrclib 36088897 (Rolling in the Deep / Adele / Rolling in the Deep, 50.0s): duration matches no reference length",
+    "lrclib 36595841 (Rolling in the Deep / Adele / Rolling in the Deep, 276.0s): duration matches no reference length",
+    "lrclib 26344956 (Rolling in the Deep / Adele / Rolling in the Deep, 129.76326366666666s): duration matches no reference length",
+    "lrclib 28046644 (Rolling in the Deep / Adele / Rolling in the Deep, 202.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

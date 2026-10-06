@@ -1,0 +1,70 @@
+{
+  "id": "1975-love-will-keep-us-together",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2522887,
+    "matched_by": "isrc",
+    "isrc": "USAM17500299",
+    "title": "Love Will Keep Us Together",
+    "artist": "Captain & Tennille",
+    "album": "The Ultimate Collection: Captain & Tennille",
+    "track_duration_s": 204,
+    "link": "https://www.deezer.com/track/2522887",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 129.9,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      64.6,
+      86.1
+    ],
+    "beats_detected": 65,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.898,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.727,
+    "chroma_profile": [
+      0.589,
+      0.719,
+      0.652,
+      0.814,
+      0.888,
+      0.626,
+      0.843,
+      0.612,
+      0.673,
+      0.727,
+      0.738,
+      1.0
+    ],
+    "rms_dbfs": -12.69,
+    "rms_dbfs_p95_frame": -9.49,
+    "peak_dbfs": -0.08,
+    "loudness_lufs_approx": -12.31,
+    "spectral_centroid_hz_mean": 2319.4,
+    "spectral_centroid_hz_median": 2272.8,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2522887",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 130.2,
+    "gain": -7.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2522887",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

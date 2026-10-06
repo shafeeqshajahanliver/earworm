@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "4d87583a-1010-4f4a-a6d6-3bc0ed207f12",
+      "release_title": "Scary Hours",
+      "release_date": "2018-01-19",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/1d43ea65-b557-428b-9e76-c020baedd7de/19011100224-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1d43ea65-b557-428b-9e76-c020baedd7de",
+      "image_id": 19011100224,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.187,
+        "saturation": 0.024,
+        "dark_share": 0.943,
+        "palette": [
+          {
+            "hex": "#292929",
+            "share": 0.353
+          },
+          {
+            "hex": "#272727",
+            "share": 0.278
+          },
+          {
+            "hex": "#242424",
+            "share": 0.163
+          },
+          {
+            "hex": "#282828",
+            "share": 0.152
+          },
+          {
+            "hex": "#48393b",
+            "share": 0.054
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "857db798-5c31-4d5f-991a-6667f41d8899",
+      "release_title": "Scorpion",
+      "release_date": "2018-06-29",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/d20f4815-cc49-4cdd-b168-306ea974cd5d/20314002710-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d20f4815-cc49-4cdd-b168-306ea974cd5d",
+      "image_id": 20314002710,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.255,
+        "saturation": 0.001,
+        "dark_share": 0.576,
+        "palette": [
+          {
+            "hex": "#323232",
+            "share": 0.314
+          },
+          {
+            "hex": "#2e2e2e",
+            "share": 0.233
+          },
+          {
+            "hex": "#2b2b2b",
+            "share": 0.213
+          },
+          {
+            "hex": "#454545",
+            "share": 0.136
+          },
+          {
+            "hex": "#9d9d9d",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Scorpion",
+      "collection_id": 1406109769,
+      "track_id": 1406109863,
+      "artist_name": "Drake",
+      "release_date": "2018-01-19T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.256,
+        "saturation": 0.001,
+        "dark_share": 0.584,
+        "palette": [
+          {
+            "hex": "#323232",
+            "share": 0.315
+          },
+          {
+            "hex": "#2e2e2e",
+            "share": 0.254
+          },
+          {
+            "hex": "#2b2b2b",
+            "share": 0.189
+          },
+          {
+            "hex": "#464546",
+            "share": 0.138
+          },
+          {
+            "hex": "#9d9d9d",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

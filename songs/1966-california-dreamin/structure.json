@@ -1,0 +1,219 @@
+{
+  "id": "1966-california-dreamin",
+  "updated": "2026-10-06",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "california_dreamin_dt",
+      "match": {
+        "title": "California Dreamin'",
+        "artist": "The Mamas & the Papas",
+        "year": "1965",
+        "rs500_rank": "89",
+        "audio_used": {
+          "artist": "The Mamas & the Papas",
+          "album": "Greatest Hits",
+          "publication": "MCA 1998"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, california_dreamin_dt.har/.clt + california_dreamin.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 156 s; our recording 160 s; audio taken from compilation 'Greatest Hits'",
+      "parse_check": "expanded 73 bars; timed chord list ends in bar 72",
+      "sections": [
+        {
+          "start": 0.393,
+          "end": 9.134,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 9.134,
+          "end": 43.4,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 16
+        },
+        {
+          "start": 43.4,
+          "end": 77.587,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 16
+        },
+        {
+          "start": 77.587,
+          "end": 111.466,
+          "label": "Inst",
+          "normalised": "instrumental",
+          "first_bar": 36,
+          "bars": 16
+        },
+        {
+          "start": 111.466,
+          "end": 137.064,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 52,
+          "bars": 12
+        },
+        {
+          "start": 137.064,
+          "end": 156.137,
+          "label": "Co",
+          "normalised": "outro",
+          "first_bar": 64,
+          "bars": 9
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "california_dreamin_tdc",
+      "match": {
+        "title": "California Dreamin'",
+        "artist": "The Mamas & the Papas",
+        "year": "1965",
+        "rs500_rank": "89",
+        "audio_used": {
+          "artist": "The Mamas & the Papas",
+          "album": "Greatest Hits",
+          "publication": "MCA 1998"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, california_dreamin_tdc.har/.clt + california_dreamin.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "version_check": "last barline at 156 s; our recording 160 s; audio taken from compilation 'Greatest Hits'",
+      "parse_check": "expanded 73 bars; timed chord list ends in bar 72",
+      "sections": [
+        {
+          "start": 0.393,
+          "end": 9.134,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 9.134,
+          "end": 26.301,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 8
+        },
+        {
+          "start": 26.301,
+          "end": 43.4,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 12,
+          "bars": 8
+        },
+        {
+          "start": 43.4,
+          "end": 60.526,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 60.526,
+          "end": 77.587,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 8
+        },
+        {
+          "start": 77.587,
+          "end": 94.521,
+          "label": "Br1",
+          "normalised": "bridge",
+          "first_bar": 36,
+          "bars": 8
+        },
+        {
+          "start": 94.521,
+          "end": 111.466,
+          "label": "Br2",
+          "normalised": "bridge",
+          "first_bar": 44,
+          "bars": 8
+        },
+        {
+          "start": 111.466,
+          "end": 128.536,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 52,
+          "bars": 8
+        },
+        {
+          "start": 128.536,
+          "end": 137.064,
+          "label": "Ch3",
+          "normalised": "chorus",
+          "first_bar": 60,
+          "bars": 4
+        },
+        {
+          "start": 137.064,
+          "end": 156.137,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 64,
+          "bars": 9
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse instrumental verse outro",
+      "rolling_stone_tdc": "intro verse chorus verse chorus bridge verse chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.44
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "disputed",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-06",
+    "confidence": "computed"
+  }
+}

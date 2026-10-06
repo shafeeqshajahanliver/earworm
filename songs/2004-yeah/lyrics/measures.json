@@ -1,0 +1,41 @@
+{
+  "id": "2004-yeah",
+  "lyrics_kind": "synced",
+  "lrclib_id": 24477909,
+  "lines": 81,
+  "words": 667,
+  "unique_words": 199,
+  "type_token_ratio": 0.298,
+  "repeated_line_share": 0.247,
+  "distinct_lines": 61,
+  "zlib_compression_ratio": 0.345,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "yeah",
+  "title_phrase_occurrences": 80,
+  "pronouns": {
+    "first_singular": 58,
+    "second": 9,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.02,
+  "last_line_s": 227.69,
+  "sung_time_s": 229.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 174.6,
+  "words_per_minute_track": 159.8,
+  "longest_gap_between_lines_s": 5.14,
+  "longest_gap_starts_at_s": 207.18,
+  "first_repeated_block": {
+    "first_at_s": 56.35,
+    "recurs_at_s": 120.32,
+    "lines": [
+      "(Yeah!) Yeah!",
+      "Shawty got down low, she said, \"Come and get me\" (yeah! Yeah!)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 24477909",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

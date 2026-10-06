@@ -1,0 +1,140 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Whitney Houston"
+  ],
+  "title_as_charted": [
+    "I Will Always Love You"
+  ],
+  "debut_week": "1992-11-14",
+  "debut_position": 40,
+  "peak_position": 1,
+  "weeks_at_peak": 14,
+  "first_week_at_peak": "1992-11-28",
+  "weeks_to_peak": 2,
+  "weeks_on_chart": 29,
+  "last_week": "2012-03-10",
+  "weeks_at_number_one": 14,
+  "run": [
+    [
+      "1992-11-14",
+      40
+    ],
+    [
+      "1992-11-21",
+      12
+    ],
+    [
+      "1992-11-28",
+      1
+    ],
+    [
+      "1992-12-05",
+      1
+    ],
+    [
+      "1992-12-12",
+      1
+    ],
+    [
+      "1992-12-19",
+      1
+    ],
+    [
+      "1992-12-26",
+      1
+    ],
+    [
+      "1993-01-02",
+      1
+    ],
+    [
+      "1993-01-09",
+      1
+    ],
+    [
+      "1993-01-16",
+      1
+    ],
+    [
+      "1993-01-23",
+      1
+    ],
+    [
+      "1993-01-30",
+      1
+    ],
+    [
+      "1993-02-06",
+      1
+    ],
+    [
+      "1993-02-13",
+      1
+    ],
+    [
+      "1993-02-20",
+      1
+    ],
+    [
+      "1993-02-27",
+      1
+    ],
+    [
+      "1993-03-06",
+      2
+    ],
+    [
+      "1993-03-13",
+      7
+    ],
+    [
+      "1993-03-20",
+      11
+    ],
+    [
+      "1993-03-27",
+      16
+    ],
+    [
+      "1993-04-03",
+      22
+    ],
+    [
+      "1993-04-10",
+      26
+    ],
+    [
+      "1993-04-17",
+      28
+    ],
+    [
+      "1993-04-24",
+      30
+    ],
+    [
+      "1993-05-01",
+      41
+    ],
+    [
+      "1993-05-08",
+      49
+    ],
+    [
+      "2012-02-25",
+      7
+    ],
+    [
+      "2012-03-03",
+      3
+    ],
+    [
+      "2012-03-10",
+      30
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

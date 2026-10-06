@@ -1,0 +1,90 @@
+{
+  "id": "2004-yeah",
+  "updated": "2026-10-06",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0323_yeah",
+      "match": {
+        "title": "Yeah!",
+        "artist": "Lil Jon & The East Side Boyz",
+        "release": "New Year’s Eve",
+        "musicbrainz_id": "10f5a405-db58-4c96-bcd9-47f921dd8650",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0323_yeah.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0323_yeah.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-06",
+      "confidence": "expert",
+      "annotated_duration": 135.045,
+      "bpm": 104.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -115 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 1.142,
+          "end": 11.426,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 11.426,
+          "end": 29.712,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 29.712,
+          "end": 47.426,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 47.426,
+          "end": 66.283,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 66.283,
+          "end": 75.423,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 75.423,
+          "end": 93.717,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 93.717,
+          "end": 112.003,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 112.003,
+          "end": 130.289,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 135 s vs 250 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

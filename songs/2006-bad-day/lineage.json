@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-06",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/68886",
+    "title": "Bad Day",
+    "performer": "Daniel Powter",
+    "is_original": true,
+    "first_release_date": "2005",
+    "releases": [
+      {
+        "title": "Bad Day",
+        "uri": "https://api.secondhandsongs.com/release/27474",
+        "performer": "Daniel Powter"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 31,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/68886",
+    "title": "Bad Day",
+    "language": "English",
+    "writers": [
+      "Daniel Powter"
+    ],
+    "original_performer": "Daniel Powter",
+    "versions": 32,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Bad Dad",
+        "uri": "https://api.secondhandsongs.com/work/128732"
+      }
+    ]
+  }
+}

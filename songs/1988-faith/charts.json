@@ -1,0 +1,108 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "George Michael"
+  ],
+  "title_as_charted": [
+    "Faith"
+  ],
+  "debut_week": "1987-10-24",
+  "debut_position": 54,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1987-12-12",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 21,
+  "last_week": "2017-01-14",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1987-10-24",
+      54
+    ],
+    [
+      "1987-10-31",
+      37
+    ],
+    [
+      "1987-11-07",
+      27
+    ],
+    [
+      "1987-11-14",
+      19
+    ],
+    [
+      "1987-11-21",
+      10
+    ],
+    [
+      "1987-11-28",
+      5
+    ],
+    [
+      "1987-12-05",
+      3
+    ],
+    [
+      "1987-12-12",
+      1
+    ],
+    [
+      "1987-12-19",
+      1
+    ],
+    [
+      "1987-12-26",
+      1
+    ],
+    [
+      "1988-01-02",
+      1
+    ],
+    [
+      "1988-01-09",
+      3
+    ],
+    [
+      "1988-01-16",
+      9
+    ],
+    [
+      "1988-01-23",
+      16
+    ],
+    [
+      "1988-01-30",
+      28
+    ],
+    [
+      "1988-02-06",
+      37
+    ],
+    [
+      "1988-02-13",
+      47
+    ],
+    [
+      "1988-02-20",
+      61
+    ],
+    [
+      "1988-02-27",
+      78
+    ],
+    [
+      "1988-03-05",
+      95
+    ],
+    [
+      "2017-01-14",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

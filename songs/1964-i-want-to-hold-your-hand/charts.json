@@ -1,0 +1,84 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Beatles"
+  ],
+  "title_as_charted": [
+    "I Want To Hold Your Hand"
+  ],
+  "debut_week": "1964-01-18",
+  "debut_position": 45,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "1964-02-01",
+  "weeks_to_peak": 2,
+  "weeks_on_chart": 15,
+  "last_week": "1964-04-25",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "1964-01-18",
+      45
+    ],
+    [
+      "1964-01-25",
+      3
+    ],
+    [
+      "1964-02-01",
+      1
+    ],
+    [
+      "1964-02-08",
+      1
+    ],
+    [
+      "1964-02-15",
+      1
+    ],
+    [
+      "1964-02-22",
+      1
+    ],
+    [
+      "1964-02-29",
+      1
+    ],
+    [
+      "1964-03-07",
+      1
+    ],
+    [
+      "1964-03-14",
+      1
+    ],
+    [
+      "1964-03-21",
+      2
+    ],
+    [
+      "1964-03-28",
+      2
+    ],
+    [
+      "1964-04-04",
+      4
+    ],
+    [
+      "1964-04-11",
+      7
+    ],
+    [
+      "1964-04-18",
+      19
+    ],
+    [
+      "1964-04-25",
+      24
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

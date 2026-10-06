@@ -1,0 +1,116 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Captain & Tennille"
+  ],
+  "title_as_charted": [
+    "Love Will Keep Us Together"
+  ],
+  "debut_week": "1975-04-19",
+  "debut_position": 98,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1975-06-21",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 23,
+  "last_week": "1975-09-20",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1975-04-19",
+      98
+    ],
+    [
+      "1975-04-26",
+      86
+    ],
+    [
+      "1975-05-03",
+      72
+    ],
+    [
+      "1975-05-10",
+      58
+    ],
+    [
+      "1975-05-17",
+      41
+    ],
+    [
+      "1975-05-24",
+      33
+    ],
+    [
+      "1975-05-31",
+      25
+    ],
+    [
+      "1975-06-07",
+      12
+    ],
+    [
+      "1975-06-14",
+      2
+    ],
+    [
+      "1975-06-21",
+      1
+    ],
+    [
+      "1975-06-28",
+      1
+    ],
+    [
+      "1975-07-05",
+      1
+    ],
+    [
+      "1975-07-12",
+      1
+    ],
+    [
+      "1975-07-19",
+      8
+    ],
+    [
+      "1975-07-26",
+      13
+    ],
+    [
+      "1975-08-02",
+      17
+    ],
+    [
+      "1975-08-09",
+      17
+    ],
+    [
+      "1975-08-16",
+      13
+    ],
+    [
+      "1975-08-23",
+      13
+    ],
+    [
+      "1975-08-30",
+      19
+    ],
+    [
+      "1975-09-06",
+      32
+    ],
+    [
+      "1975-09-13",
+      55
+    ],
+    [
+      "1975-09-20",
+      74
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-06",
+  "confidence": "sourced"
+}

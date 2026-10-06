@@ -1,0 +1,41 @@
+{
+  "id": "1991-everything-i-do-i-do-it-for-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 34752179,
+  "lines": 55,
+  "words": 254,
+  "unique_words": 81,
+  "type_token_ratio": 0.319,
+  "repeated_line_share": 0.145,
+  "distinct_lines": 47,
+  "zlib_compression_ratio": 0.344,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i do it for you",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 31,
+    "second": 28,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 14.74,
+  "last_line_s": 345.26,
+  "sung_time_s": 234.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 65.0,
+  "words_per_minute_track": 61.2,
+  "longest_gap_between_lines_s": 20.39,
+  "longest_gap_starts_at_s": 235.77,
+  "first_repeated_block": {
+    "first_at_s": 56.6,
+    "recurs_at_s": 114.89,
+    "lines": [
+      "You know it's true",
+      "Everything I do"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 34752179",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1995-gangstas-paradise",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37124595,
+  "lines": 50,
+  "words": 504,
+  "unique_words": 179,
+  "type_token_ratio": 0.355,
+  "repeated_line_share": 0.28,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.335,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "gangsta's paradise",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 47,
+    "second": 9,
+    "first_plural": 18
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 12.44,
+  "last_line_s": 209.7,
+  "sung_time_s": 199.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 151.8,
+  "words_per_minute_track": 125.3,
+  "longest_gap_between_lines_s": 6.89,
+  "longest_gap_starts_at_s": 113.76,
+  "first_repeated_block": {
+    "first_at_s": 54.4,
+    "recurs_at_s": 126.43,
+    "lines": [
+      "They've been spending most their lives living in the gangsta's paradise",
+      "We keep spending most our lives living in the gangsta's paradise"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37124595",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1993-i-will-always-love-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7675403,
+    "matched_by": "isrc",
+    "isrc": "USAR19200110",
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "album": "The Bodyguard - Original Soundtrack Album",
+    "track_duration_s": 271,
+    "link": "https://www.deezer.com/track/7675403",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-06",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 135.8,
+    "tempo_bpm_grid": 137.8,
+    "tempo_candidates_bpm": [
+      136.0,
+      198.8,
+      143.6
+    ],
+    "beats_detected": 66,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.915,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.64,
+    "chroma_profile": [
+      0.186,
+      0.54,
+      0.463,
+      0.223,
+      0.603,
+      0.218,
+      0.434,
+      0.207,
+      0.566,
+      1.0,
+      0.247,
+      0.539
+    ],
+    "rms_dbfs": -21.02,
+    "rms_dbfs_p95_frame": -15.72,
+    "peak_dbfs": -5.43,
+    "loudness_lufs_approx": -21.0,
+    "spectral_centroid_hz_mean": 1640.0,
+    "spectral_centroid_hz_median": 1539.1,
+    "onsets": 50,
+    "onset_density_per_s": 1.667,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7675403",
+    "retrieved": "2026-10-06",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 134.2,
+    "gain": -15,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7675403",
+    "retrieved": "2026-10-06",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

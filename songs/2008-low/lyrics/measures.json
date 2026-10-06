@@ -1,0 +1,41 @@
+{
+  "id": "2008-low",
+  "lyrics_kind": "synced",
+  "lrclib_id": 34947476,
+  "lines": 97,
+  "words": 711,
+  "unique_words": 205,
+  "type_token_ratio": 0.288,
+  "repeated_line_share": 0.351,
+  "distinct_lines": 63,
+  "zlib_compression_ratio": 0.296,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "low",
+  "title_phrase_occurrences": 65,
+  "pronouns": {
+    "first_singular": 39,
+    "second": 11,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.85,
+  "last_line_s": 223.31,
+  "sung_time_s": 222.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 191.5,
+  "words_per_minute_track": 184.7,
+  "longest_gap_between_lines_s": 4.37,
+  "longest_gap_starts_at_s": 152.14,
+  "first_repeated_block": {
+    "first_at_s": 24.86,
+    "recurs_at_s": 39.83,
+    "lines": [
+      "She hit the floor (she hit the floor)",
+      "Next thing you know"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 34947476",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

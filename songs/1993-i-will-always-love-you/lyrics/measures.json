@@ -1,0 +1,41 @@
+{
+  "id": "1993-i-will-always-love-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 768854,
+  "lines": 28,
+  "words": 151,
+  "unique_words": 58,
+  "type_token_ratio": 0.384,
+  "repeated_line_share": 0.321,
+  "distinct_lines": 19,
+  "zlib_compression_ratio": 0.386,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i will always love you",
+  "title_phrase_occurrences": 10,
+  "pronouns": {
+    "first_singular": 27,
+    "second": 25,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.56,
+  "last_line_s": 250.49,
+  "sung_time_s": 186.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 48.5,
+  "words_per_minute_track": 33.4,
+  "longest_gap_between_lines_s": 30.0,
+  "longest_gap_starts_at_s": 125.55,
+  "first_repeated_block": {
+    "first_at_s": 42.92,
+    "recurs_at_s": 105.96,
+    "lines": [
+      "And I will always love you",
+      "I will always love you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 768854",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}

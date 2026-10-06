@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-06",
+  "images": {
+    "single": {
+      "release_group": "1204e352-108f-3169-bcea-3e57d447fe39",
+      "release_title": "My Sharona",
+      "release_date": "1979",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ac987e1a-8539-4ec5-a656-659e6a8df11b/8078080554-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ac987e1a-8539-4ec5-a656-659e6a8df11b",
+      "image_id": 8078080554,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.329,
+        "saturation": 0.268,
+        "dark_share": 0.242,
+        "palette": [
+          {
+            "hex": "#343a47",
+            "share": 0.333
+          },
+          {
+            "hex": "#2a2d36",
+            "share": 0.295
+          },
+          {
+            "hex": "#16191f",
+            "share": 0.172
+          },
+          {
+            "hex": "#dec6be",
+            "share": 0.137
+          },
+          {
+            "hex": "#594f55",
+            "share": 0.062
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "379f3adb-20a6-365a-9b90-6fdf34beb16b",
+      "release_title": "Get the Knack",
+      "release_date": "1979-06-11",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Get the Knack",
+      "url": "https://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/489e7f56-d73e-3772-9229-c45375da5e5b",
+      "image_id": 7506671171,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.394,
+        "saturation": 0.003,
+        "dark_share": 0.579,
+        "palette": [
+          {
+            "hex": "#fafafa",
+            "share": 0.297
+          },
+          {
+            "hex": "#222222",
+            "share": 0.26
+          },
+          {
+            "hex": "#121212",
+            "share": 0.198
+          },
+          {
+            "hex": "#1d1d1d",
+            "share": 0.152
+          },
+          {
+            "hex": "#626363",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/8c/a9/d28ca97f-f577-4bee-fb12-716570d076da/05099922669056.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Get the Knack",
+      "collection_id": 716268020,
+      "track_id": 716268684,
+      "artist_name": "The Knack",
+      "release_date": "1979-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.421,
+        "saturation": 0.147,
+        "dark_share": 0.228,
+        "palette": [
+          {
+            "hex": "#323a3d",
+            "share": 0.41
+          },
+          {
+            "hex": "#171b1e",
+            "share": 0.207
+          },
+          {
+            "hex": "#d7cfc9",
+            "share": 0.178
+          },
+          {
+            "hex": "#eee7e1",
+            "share": 0.126
+          },
+          {
+            "hex": "#5f6566",
+            "share": 0.08
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 16984188,
+  "kind": "synced",
+  "matched": {
+    "track": "Every Breath You Take",
+    "artist": "The Police",
+    "album": "The Police: Every Breath You Take - The Classics",
+    "duration_s": 253.794104
+  },
+  "duration_matched_to": "musicbrainz recording length (253s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 253.466,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 254.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 236.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 253.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 0.958,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36971036 (Every Breath You Take / The Police / Knuffelrock 3, 229.0s): duration matches no reference length",
+    "lrclib 37039065 (Every Breath You Take / The Police / Live! (Disc 2), 260.0s): live/remix/other version",
+    "lrclib 6884762 (Every Breath You Take / The Police / Every Breath You Take, 229.0s): duration matches no reference length",
+    "lrclib 26087938 (Every Breath You Take / The Police / Every Breath You Take, 222.260875s): duration matches no reference length",
+    "lrclib 27406465 (Every Breath You Take / The Police / Every Breath You Take, 293.68025s): duration matches no reference length",
+    "lrclib 27480550 (Every Breath You Take / The Police / Every Breath You Take, 301.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-06",
+  "confidence": "crowd"
+}

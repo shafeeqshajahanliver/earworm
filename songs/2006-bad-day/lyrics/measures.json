@@ -1,0 +1,41 @@
+{
+  "id": "2006-bad-day",
+  "lyrics_kind": "synced",
+  "lrclib_id": 13311,
+  "lines": 48,
+  "words": 384,
+  "unique_words": 115,
+  "type_token_ratio": 0.299,
+  "repeated_line_share": 0.375,
+  "distinct_lines": 30,
+  "zlib_compression_ratio": 0.301,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "bad day",
+  "title_phrase_occurrences": 14,
+  "pronouns": {
+    "first_singular": 11,
+    "second": 53,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.69,
+  "last_line_s": 220.75,
+  "sung_time_s": 192.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 119.9,
+  "words_per_minute_track": 98.0,
+  "longest_gap_between_lines_s": 15.11,
+  "longest_gap_starts_at_s": 85.07,
+  "first_repeated_block": {
+    "first_at_s": 64.33,
+    "recurs_at_s": 115.97,
+    "lines": [
+      "You sing a sad song just to turn it around",
+      "You say you don't know, you tell me, \"Don't lie\""
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 13311",
+  "retrieved": "2026-10-06",
+  "confidence": "computed"
+}
