@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/959844",
+    "title": "One More Try",
+    "performer": "Timmy T",
+    "is_original": true,
+    "first_release_date": "1990",
+    "releases": [
+      {
+        "title": "Time After Time",
+        "uri": "https://api.secondhandsongs.com/release/9456",
+        "performer": "Timmy T"
+      },
+      {
+        "title": "All for Love",
+        "uri": "https://api.secondhandsongs.com/release/1654",
+        "performer": "Timmy T"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 5,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/225769",
+    "title": "One More Try",
+    "language": "English",
+    "writers": [
+      "Russ Hildreth",
+      "Timmy T"
+    ],
+    "original_performer": "Timmy T",
+    "versions": 6,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "'t Gaat Niet Door",
+        "uri": "https://api.secondhandsongs.com/work/316136"
+      }
+    ]
+  }
+}

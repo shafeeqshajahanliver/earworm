@@ -1,0 +1,76 @@
+{
+  "id": "1982-ebony-and-ivory",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2035210377,
+    "matched_by": "isrc",
+    "isrc": "GBCCS2200023",
+    "title": "Ebony And Ivory (2022 Remaster)",
+    "artist": "Paul McCartney",
+    "album": "The 7” Singles",
+    "track_duration_s": 224,
+    "link": "https://www.deezer.com/track/2035210377",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 161.5,
+    "tempo_bpm_grid": 161.5,
+    "tempo_candidates_bpm": [
+      161.5,
+      80.7,
+      152.0
+    ],
+    "beats_detected": 81,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.79,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.651,
+    "chroma_profile": [
+      0.625,
+      0.838,
+      0.603,
+      0.541,
+      0.797,
+      0.55,
+      0.934,
+      0.534,
+      0.646,
+      0.625,
+      0.53,
+      1.0
+    ],
+    "rms_dbfs": -16.06,
+    "rms_dbfs_p95_frame": -11.85,
+    "peak_dbfs": -1.09,
+    "loudness_lufs_approx": -15.87,
+    "spectral_centroid_hz_mean": 2022.8,
+    "spectral_centroid_hz_median": 1908.2,
+    "onsets": 87,
+    "onset_density_per_s": 2.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2035210377",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -14.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2035210377",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBCCS0700131: matched but no preview available (readable=False)",
+    "deezer isrc USSM18100752: matched but no preview available (readable=False)",
+    "deezer isrc USUG10500491: matched but no preview available (readable=False)"
+  ]
+}

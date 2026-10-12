@@ -1,0 +1,90 @@
+{
+  "id": "1984-hello",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0401_hello",
+      "match": {
+        "title": "Hello",
+        "artist": "Lionel Richie with Jennifer Nettles",
+        "release": "Tuskegee",
+        "musicbrainz_id": "6c12d191-b1b6-4fd5-97fd-97f427954697",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0401_hello.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0401_hello.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 269.482,
+      "bpm": 128.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +21 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.316,
+          "end": 15.8,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 15.8,
+          "end": 62.22,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 24
+        },
+        {
+          "start": 62.22,
+          "end": 91.237,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 91.237,
+          "end": 122.205,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 122.205,
+          "end": 151.237,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 151.237,
+          "end": 182.205,
+          "label": "solo",
+          "normalised": "solo",
+          "bars": 16
+        },
+        {
+          "start": 182.205,
+          "end": 211.237,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 211.237,
+          "end": 257.689,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 24
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 269 s vs 249 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

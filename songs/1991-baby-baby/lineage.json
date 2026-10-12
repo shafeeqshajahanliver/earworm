@@ -1,0 +1,50 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/675340",
+    "title": "Baby Baby",
+    "performer": "Amy Grant",
+    "is_original": true,
+    "first_release_date": "1991-01",
+    "releases": [
+      {
+        "title": "Baby Baby",
+        "uri": "https://api.secondhandsongs.com/release/207301",
+        "performer": "Amy Grant"
+      },
+      {
+        "title": "Heart in Motion",
+        "uri": "https://api.secondhandsongs.com/release/207319",
+        "performer": "Amy Grant"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 10,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/181864",
+    "title": "Baby Baby",
+    "language": "English",
+    "writers": [
+      "Amy Grant",
+      "Keith Thomas"
+    ],
+    "original_performer": "Amy Grant",
+    "versions": 11,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Baby Why Not Me",
+        "uri": "https://api.secondhandsongs.com/work/312366"
+      },
+      {
+        "title": "一冷一熱",
+        "uri": "https://api.secondhandsongs.com/work/330902"
+      }
+    ]
+  }
+}

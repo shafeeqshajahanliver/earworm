@@ -1,0 +1,70 @@
+{
+  "id": "2010-dynamite",
+  "preview": {
+    "service": "deezer",
+    "track_id": 6169869,
+    "matched_by": "isrc",
+    "isrc": "GBUM71003721",
+    "title": "Dynamite",
+    "artist": "Taio Cruz",
+    "album": "Rokstarr",
+    "track_duration_s": 204,
+    "link": "https://www.deezer.com/track/6169869",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.1,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      60.1,
+      117.5,
+      123.0
+    ],
+    "beats_detected": 61,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.583,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.465,
+    "chroma_profile": [
+      0.536,
+      0.68,
+      0.584,
+      0.519,
+      0.838,
+      0.625,
+      1.0,
+      0.987,
+      0.662,
+      0.728,
+      0.534,
+      0.778
+    ],
+    "rms_dbfs": -6.45,
+    "rms_dbfs_p95_frame": -2.58,
+    "peak_dbfs": 3.53,
+    "loudness_lufs_approx": -7.5,
+    "spectral_centroid_hz_mean": 2708.3,
+    "spectral_centroid_hz_median": 2638.3,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 6169869",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.8,
+    "gain": -7.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/6169869",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

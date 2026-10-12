@@ -1,0 +1,978 @@
+{
+  "id": "1992-tears-in-heaven",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "tears_in_heaven_dt",
+      "match": {
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "year": "1992",
+        "rs500_rank": "353",
+        "audio_used": {
+          "artist": "Eric Clapton",
+          "album": "Rush [Soundtrack]",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, tears_in_heaven_dt.har/.clt + tears_in_heaven.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 265 s; our recording 273 s",
+      "parse_check": "expanded 84 bars; timed chord list ends in bar 83",
+      "key_info": {
+        "tonic": "A",
+        "tonic_pc": 9,
+        "mode": null,
+        "name": "A",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.641,
+          "end": 13.159,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "V",
+            "I"
+          ],
+          "raw_rule": "$Li"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 13.159,
+          "end": 38.138,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$VP $VP"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 38.138,
+          "end": 56.881,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iio/ii | V/ii | ii | V11 |"
+        },
+        {
+          "label": "Li",
+          "normalised": "other",
+          "start": 56.881,
+          "end": 69.389,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi iii43 | IV6 V | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 69.389,
+          "end": 94.369,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$VP $VP"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 94.369,
+          "end": 113.148,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iio/ii | V/ii | ii | V11 |"
+        },
+        {
+          "label": "Li",
+          "normalised": "other",
+          "start": 113.148,
+          "end": 125.662,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi iii43 | IV6 V | I |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 125.662,
+          "end": 150.626,
+          "bars": 8,
+          "key": "G -> A",
+          "written": [
+            "C",
+            "G",
+            "Am",
+            "D",
+            "G",
+            "D",
+            "Em",
+            "D",
+            "G",
+            "C",
+            "G",
+            "Am",
+            "D",
+            "G",
+            "D",
+            "E"
+          ],
+          "roman": [
+            "IV",
+            "I6",
+            "ii",
+            "V6",
+            "I",
+            "V6",
+            "vi",
+            "V6",
+            "I",
+            "IV",
+            "I6",
+            "ii",
+            "V6",
+            "I",
+            "V6",
+            "V"
+          ],
+          "raw_rule": "[G] IV I6 | ii V6 | I V6 | vi . V6 I | IV I6 | ii V6 | I V6 | [A] V |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 150.626,
+          "end": 175.647,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$VP $VP"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 175.647,
+          "end": 194.375,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iio/ii | V/ii | ii | V11 |"
+        },
+        {
+          "label": "Li",
+          "normalised": "other",
+          "start": 194.375,
+          "end": 206.867,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi iii43 | IV6 V | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 206.867,
+          "end": 231.861,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$VP $VP"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 231.861,
+          "end": 250.611,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iio/ii | V/ii | ii | V11 |"
+        },
+        {
+          "label": "Li",
+          "normalised": "other",
+          "start": 250.611,
+          "end": 265.415,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "C#m7",
+            "D",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "iii43",
+            "IV6",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi iii43 | IV6 V | I |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "tears_in_heaven_tdc",
+      "match": {
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "year": "1992",
+        "rs500_rank": "353",
+        "audio_used": {
+          "artist": "Eric Clapton",
+          "album": "Rush [Soundtrack]",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, tears_in_heaven_tdc.har/.clt + tears_in_heaven.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 265 s; our recording 273 s",
+      "parse_check": "expanded 84 bars; timed chord list ends in bar 83",
+      "key_info": {
+        "tonic": "A",
+        "tonic_pc": 9,
+        "mode": null,
+        "name": "A",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 0.641,
+          "end": 13.159,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi I64 | IV6 . I64 V | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 13.159,
+          "end": 38.138,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 38.138,
+          "end": 56.881,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm7",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii7",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iid6/ii | V/ii | ii7 | V11 |"
+        },
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 56.881,
+          "end": 69.389,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi I64 | IV6 . I64 V | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 69.389,
+          "end": 94.369,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 94.369,
+          "end": 113.148,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm7",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii7",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iid6/ii | V/ii | ii7 | V11 |"
+        },
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 113.148,
+          "end": 125.662,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi I64 | IV6 . I64 V | I |"
+        },
+        {
+          "label": "BBr",
+          "normalised": "other",
+          "start": 125.662,
+          "end": 150.626,
+          "bars": 8,
+          "key": "G -> A",
+          "written": [
+            "C",
+            "Bm",
+            "Am",
+            "D",
+            "G",
+            "D",
+            "Em",
+            "D",
+            "G",
+            "C",
+            "Bm",
+            "Am",
+            "D",
+            "G",
+            "D",
+            "E"
+          ],
+          "roman": [
+            "IV",
+            "iii",
+            "ii",
+            "V6",
+            "I",
+            "V6",
+            "vi",
+            "V6",
+            "I",
+            "IV",
+            "iii",
+            "ii",
+            "V6",
+            "I",
+            "V6",
+            "V"
+          ],
+          "raw_rule": "[G] IV iii | ii V6 | I V6 | vi . V6 I | IV iii | ii V6 | I V6 | [A] V |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 150.626,
+          "end": 175.647,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 175.647,
+          "end": 194.375,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm7",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii7",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iid6/ii | V/ii | ii7 | V11 |"
+        },
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 194.375,
+          "end": 206.867,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi I64 | IV6 . I64 V | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 206.867,
+          "end": 231.861,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 231.861,
+          "end": 250.611,
+          "bars": 6,
+          "key": "A",
+          "written": [
+            "F#m",
+            "C#",
+            "F#",
+            "Bm7",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "V6/vi",
+            "V/ii",
+            "ii7",
+            "V11"
+          ],
+          "raw_rule": "vi | V6/vi | iid6/ii | V/ii | ii7 | V11 |"
+        },
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 250.611,
+          "end": 265.415,
+          "bars": 4,
+          "key": "A",
+          "written": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi",
+            "I64",
+            "IV6",
+            "I64",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I V6 | vi I64 | IV6 . I64 V | I |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "A",
+      "rolling_stone_tdc": "A"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 19985605,
+  "kind": "synced",
+  "matched": {
+    "track": "Love in This Club",
+    "artist": "Usher",
+    "album": "Here I Stand",
+    "duration_s": 263.113313
+  },
+  "duration_matched_to": "musicbrainz recording length (266s)",
+  "duration_diff_s": 2.9,
+  "reference_lengths": [
+    {
+      "seconds": 266.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 259.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 259.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 43,
+  "agreement_with_other_candidates": 0.763,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 770703 (Love In This Club / Usher feat. Young Jeezy / Here I Stand (Deluxe Version), 260.0s): live/remix/other version",
+    "lrclib 9239726 (Love In This Club (Instrumental) / Usher featuring Young Jeezy / Love In This Club, 258.0s): live/remix/other version",
+    "lrclib 36375936 (Love In This Club (Main Version) / Usher featuring Young Jeezy / Billboard Year-End Hot 100 singles of 2008, 262.0s): live/remix/other version",
+    "lrclib 9239730 (Love In This Club (Main Version) / Usher featuring Young Jeezy / Love In This Club, 260.0s): live/remix/other version",
+    "lrclib 27966022 (Love In This Club (Main Version) / Usher featuring Young Jeezy / Love In This Club (Single), 264.0s): live/remix/other version",
+    "lrclib 28129113 (Love In This Club (Main Version) / Usher featuring Young Jeezy / Here I Stand (Amazon Exclusive), 260.0s): live/remix/other version",
+    "lrclib 37107744 (Love in This Club / Usher / Chilled R&B, 206.0s): duration matches no reference length",
+    "lrclib 36054992 (Love In This Club / Usher / R&B Lovesongs, 223.0s): duration matches no reference length",
+    "lrclib 35400331 (Love In This Club / Usher / Love in This Club, 223.0s): duration matches no reference length",
+    "lrclib 19912694 (Love In This Club / Usher / NRJ Summer Hits Only 2008, 224.156735s): duration matches no reference length",
+    "lrclib 20331441 (Love in This Club / Usher / Here I Stand, 271.290354s): duration matches no reference length",
+    "lrclib 37290685 (Love in This Club (Clean No Rap) / Usher / Pure Urban Essentials Spring 2009, 221.0s): duration matches no reference length",
+    "lrclib 17809102 (Love in this Club (Clean No Rap) / Usher / Number 1 Pop Vol.4, 220.447347s): duration matches no reference length",
+    "lrclib 10915056 (Love In This Club (Clean No Rap) / Usher / 181 FM, 220.0s): duration matches no reference length",
+    "lrclib 12625988 (Love in This Club (clean no rap) / Usher / Bravo: The Hits 2008, 221.0s): duration matches no reference length",
+    "lrclib 9426058 (Love in This Club (clean no rap) / Usher / Bravo Hits 62, 222.0s): duration matches no reference length",
+    "lrclib 27781167 (Love in This Club (instrumental) / Usher / Love in This Club, 268.0s): live/remix/other version",
+    "lrclib 16752141 (Love In This Club (Instrumental) / Usher / Love In This Club, 261.36s): live/remix/other version",
+    "lrclib 7611854 (Love in This Club (Stonebridge club mix) / Usher / Love in This Club, 545.0s): live/remix/other version",
+    "lrclib 18877850 (Love in This Club (instrumental version) / Usher / Love in This Club, 263.007007s): live/remix/other version",
+    "lrclib 22974859 (Love in This Club (STONEBRIDGE remix) / Usher / Love in This Club, 547.253333s): live/remix/other version",
+    "lrclib 1973087 (Love In This Club (Main Version) / Usher / Love In This Club, 262.0s): live/remix/other version",
+    "lrclib 7611850 (Love in This Club (Reavers remix) / Usher / Love in This Club, 261.0s): live/remix/other version",
+    "lrclib 9968071 (Love in This Club (instrumental version) / Usher / Love in This Club, 259.0s): live/remix/other version",
+    "lrclib 13613305 (Love in This Club (STONEBRIDGE remix) / Usher / Love in This Club, 545.0s): live/remix/other version",
+    "lrclib 35829135 (Love in This Club / Usher feat. Jeezy / Love in This Club, 545.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

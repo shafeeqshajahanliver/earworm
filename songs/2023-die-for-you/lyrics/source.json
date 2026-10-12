@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36009757,
+  "kind": "synced",
+  "matched": {
+    "track": "Die For You",
+    "artist": "The Weeknd & Ariana Grande",
+    "album": "Starboy (Explicit)",
+    "duration_s": 232.0
+  },
+  "duration_matched_to": "musicbrainz recording length (235s)",
+  "duration_diff_s": 2.8,
+  "reference_lengths": [
+    {
+      "seconds": 234.813,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 260.3,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 220.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 6,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35629561 (Die for You / The Weeknd & Ariana Grande / Die for You (remix), 260.0s): live/remix/other version",
+    "lrclib 12658643 (Die For You / The Weeknd & Ariana Grande / Die For You (Remix) - Single, 232.0s): live/remix/other version",
+    "lrclib 34976017 (Die For You (Remix) / The Weeknd & Ariana Grande / Calm Down, 233.0s): live/remix/other version",
+    "lrclib 34687794 (Die For You (Remix) / The Weeknd and Ariana Grande / Die For You (Remix), 233.0s): live/remix/other version",
+    "lrclib 19454548 (Die for You (remix) / The Weeknd and Ariana Grande / Starboy, 233.0s): live/remix/other version",
+    "lrclib 27612906 (Die For You (Remix) / The Weeknd and Ariana Grande / Starboy (Deluxe), 233.0s): live/remix/other version",
+    "lrclib 30281177 (Die For You (Remix) / The Weeknd and Ariana Grande / Starboy (Deluxe), 170.0s): live/remix/other version",
+    "lrclib 38003739 (Die For You (Remix) / The Weeknd and Ariana Grande / Starboy (Deluxe), 173.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

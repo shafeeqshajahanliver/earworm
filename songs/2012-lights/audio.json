@@ -1,0 +1,72 @@
+{
+  "id": "2012-lights",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7667349,
+    "matched_by": "isrc",
+    "isrc": "GBUM71028043",
+    "title": "Lights (Single Version)",
+    "artist": "Ellie Goulding",
+    "album": "Bright Lights (Lights Re-pack / Bonus Version)",
+    "track_duration_s": 210,
+    "link": "https://www.deezer.com/track/7667349",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 119.9,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      234.9,
+      60.1,
+      117.5
+    ],
+    "beats_detected": 60,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.378,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.373,
+    "chroma_profile": [
+      0.438,
+      0.713,
+      0.481,
+      0.736,
+      1.0,
+      0.863,
+      0.969,
+      0.661,
+      0.774,
+      0.416,
+      0.43,
+      0.52
+    ],
+    "rms_dbfs": -6.64,
+    "rms_dbfs_p95_frame": -4.03,
+    "peak_dbfs": 1.54,
+    "loudness_lufs_approx": -6.97,
+    "spectral_centroid_hz_mean": 2431.1,
+    "spectral_centroid_hz_median": 2327.9,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7667349",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.84,
+    "gain": -7.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7667349",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C# minor and B major"
+  ],
+  "rejected_candidates": []
+}

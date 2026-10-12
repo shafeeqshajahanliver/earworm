@@ -1,0 +1,111 @@
+{
+  "id": "1983-beat-it",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "629",
+      "also_ids": [],
+      "match": {
+        "title": "Beat It",
+        "artist": "Michael Jackson",
+        "chart_date": "1983-04-02",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 629 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 257.934,
+      "version_check": "duration within 12 s (-0.2 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.07,
+          "end": 23.979,
+          "label": "intro a",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 14
+        },
+        {
+          "start": 23.979,
+          "end": 38.283,
+          "label": "intro b",
+          "letter": "B'",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 38.283,
+          "end": 65.869,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 65.869,
+          "end": 86.411,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 86.411,
+          "end": 114.03,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 114.03,
+          "end": 141.648,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 141.648,
+          "end": 169.31,
+          "label": "instrumental",
+          "letter": "D",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 169.31,
+          "end": 196.944,
+          "label": "solo",
+          "letter": "C",
+          "normalised": "solo",
+          "bars": 16
+        },
+        {
+          "start": 196.944,
+          "end": 245.359,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 28
+        },
+        {
+          "start": 245.359,
+          "end": 256.813,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

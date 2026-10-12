@@ -1,0 +1,70 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3283485,
+  "kind": "synced",
+  "matched": {
+    "track": "Kiss Me More",
+    "artist": "Doja Cat ft. SZA",
+    "album": "Planet Her",
+    "duration_s": 209.0
+  },
+  "duration_matched_to": "musicbrainz recording length (209s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 208.666,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 208.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 208.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 1878578 (Kiss Me More / Doja Cat / Planet Her, 208.0s): marked instrumental",
+    "lrclib 37143860 (Kiss Me More / Doja Cat / Billboard Top 100 Hits of 2021, 209.0s): marked instrumental",
+    "lrclib 37314022 (Kiss Me More / Doja Cat / キス・ミー・モア, 209.0s): marked instrumental",
+    "lrclib 37355802 (Kiss Me More / Doja Cat / NRJ Music Awards 2021, 209.0s): marked instrumental",
+    "lrclib 36859443 (Kiss Me More / Doja Cat / Doja Cat, 316.0s): marked instrumental",
+    "lrclib 34626370 (Kiss Me More / Doja Cat / Kiss Me More (feat. Naomi Watanabe) - Single, 209.0s): marked instrumental",
+    "lrclib 36325783 (Kiss Me More / Doja Cat / Kiss Me More, 316.0s): marked instrumental",
+    "lrclib 33863073 (Kiss Me More / Doja Cat / TikTok Viral Hits 2022 | 2023, 208.0s): marked instrumental",
+    "lrclib 34095016 (Kiss Me More / Doja Cat / Beach Beats, 208.0s): marked instrumental",
+    "lrclib 34216305 (Kiss Me More / Doja Cat / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): marked instrumental",
+    "lrclib 34320025 (Kiss Me More / Doja Cat / NOW That's What I Call Music! 25th Anniversary, Volume 2, 208.0s): marked instrumental",
+    "lrclib 35438095 (Kiss Me More / Doja Cat / Summer Party Anthems, 208.0s): marked instrumental",
+    "lrclib 17983652 (Kiss Me More / Doja Cat / Kiss Me More, 202.5723392s): marked instrumental",
+    "lrclib 18271146 (Kiss Me More / Doja Cat / Planet Her, 244.461875s): marked instrumental",
+    "lrclib 22023333 (Kiss Me More / Doja Cat / Summer Party Hits, 209.0s): marked instrumental",
+    "lrclib 24194784 (Kiss Me More / Doja Cat / Kiss Me More (feat. Naomi Watanabe), 209.942857s): marked instrumental",
+    "lrclib 24436849 (Kiss Me More / Doja Cat / Kiss Me More - Single, 207.34263s): marked instrumental",
+    "lrclib 22440852 (Kiss Me More / Doja Cat / Bravo Hits Vol 113, 210.7346s): marked instrumental",
+    "lrclib 25168202 (Kiss Me More / Doja Cat / Kiss Me More (Explicit), 208.933152s): marked instrumental",
+    "lrclib 1049999 (Kiss Me More / Doja Cat / Kiss Me More, 208.0s): marked instrumental",
+    "lrclib 1017546 (Kiss Me More / Doja Cat / Planet Her (Deluxe), 208.0s): marked instrumental",
+    "lrclib 35972873 (Kiss Me More / Doja Cat ft. SZA / Foreign, 315.0s): duration matches no reference length",
+    "lrclib 28271623 (Kiss Me More / Doja Cat Ft. SZA / The Passion Of R&B 146: Sexual Buffet, 198.0s): duration matches no reference length",
+    "lrclib 26135176 (Kiss Me More / Doja Cat Ft. SZA / 538: Hitzone 98, 315.552s): duration matches no reference length",
+    "lrclib 9810236 (Kiss Me More / Doja Cat ft. SZA / Kiss Me More, 316.0s): duration matches no reference length",
+    "lrclib 31689549 (Kiss Me More (Extended Mix) / Doja Cat Ft. SZA / Pop, Dance & Mainstream Top Chart - By Fuvi Clan, 225.0s): live/remix/other version",
+    "lrclib 16278007 (Kiss Me More (Doja Cat feat. SZA, Nicki Minaj & Rihanna) / Doja Cat / Kiss Me More (Doja Cat feat. SZA, Nicki Minaj & Rihanna), 207.6s): marked instrumental",
+    "lrclib 9974614 (Kiss Me More / Doja Cat / Doja Cat, 209.0s): marked instrumental",
+    "lrclib 11226437 (Kiss Me More / Doja Cat / Doja Cat Videos, 209.0s): marked instrumental",
+    "lrclib 9812775 (Kiss Me More / Doja Cat / 100% Doja Cat, 209.0s): marked instrumental",
+    "lrclib 36417889 (Kiss Me More (avec SZA) / Doja Cat / Doja Cat, 209.0s): marked instrumental",
+    "lrclib 34226995 (Kiss Me More (feat. SZA) / Doja Cat / Doja Cat, 329.0s): duration matches no reference length",
+    "lrclib 10753278 (Kiss Me More (Official Video) / Doja Cat / Doja Cat Songs, 316.0s): marked instrumental",
+    "lrclib 10125623 (Kiss Me More (Official Video) / Doja Cat / Doja Cat Videos, 315.523s): marked instrumental"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

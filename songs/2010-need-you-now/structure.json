@@ -1,0 +1,117 @@
+{
+  "id": "2010-need-you-now",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0827_needyounow",
+      "match": {
+        "title": "Need You Now",
+        "artist": "Lady Antebellum",
+        "release": "Need You Now",
+        "musicbrainz_id": "ff6c90db-6def-4aac-9a4a-23cd5c526875",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0827_needyounow.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0827_needyounow.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 232.409,
+      "bpm": 108.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 2.069,
+          "end": 17.625,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 7
+        },
+        {
+          "start": 17.625,
+          "end": 34.291,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 34.291,
+          "end": 48.18,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 6
+        },
+        {
+          "start": 48.18,
+          "end": 73.18,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 11
+        },
+        {
+          "start": 73.18,
+          "end": 82.069,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 82.069,
+          "end": 98.736,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 98.736,
+          "end": 112.625,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 6
+        },
+        {
+          "start": 112.625,
+          "end": 137.625,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 11
+        },
+        {
+          "start": 137.625,
+          "end": 154.291,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 154.291,
+          "end": 163.736,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 163.736,
+          "end": 188.736,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 11
+        },
+        {
+          "start": 188.736,
+          "end": 224.291,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 16
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

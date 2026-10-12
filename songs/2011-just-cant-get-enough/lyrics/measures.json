@@ -1,0 +1,41 @@
+{
+  "id": "2011-just-cant-get-enough",
+  "lyrics_kind": "synced",
+  "lrclib_id": 35143450,
+  "lines": 66,
+  "words": 492,
+  "unique_words": 172,
+  "type_token_ratio": 0.35,
+  "repeated_line_share": 0.288,
+  "distinct_lines": 47,
+  "zlib_compression_ratio": 0.34,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "just can't get enough",
+  "title_phrase_occurrences": 13,
+  "pronouns": {
+    "first_singular": 70,
+    "second": 24,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.58,
+  "last_line_s": 216.56,
+  "sung_time_s": 201.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 146.7,
+  "words_per_minute_track": 133.9,
+  "longest_gap_between_lines_s": 9.91,
+  "longest_gap_starts_at_s": 169.16,
+  "first_repeated_block": {
+    "first_at_s": 0.58,
+    "recurs_at_s": 72.07,
+    "lines": [
+      "Boy, I think about it every night and day",
+      "I'm addicted, wanna drown inside your love"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 35143450",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

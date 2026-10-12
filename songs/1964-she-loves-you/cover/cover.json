@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1d0c4220-1130-3ef3-a7ea-11d4d4fbadf2",
+      "release_title": "She Loves You / I’ll Get You",
+      "release_date": "1963",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8216b400-47b8-4438-9cf7-876695d662dd/17511549401-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8216b400-47b8-4438-9cf7-876695d662dd",
+      "image_id": 17511549401,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.426,
+        "saturation": 0.283,
+        "dark_share": 0.121,
+        "palette": [
+          {
+            "hex": "#43694f",
+            "share": 0.331
+          },
+          {
+            "hex": "#497055",
+            "share": 0.227
+          },
+          {
+            "hex": "#53785d",
+            "share": 0.204
+          },
+          {
+            "hex": "#333b38",
+            "share": 0.151
+          },
+          {
+            "hex": "#99ab96",
+            "share": 0.088
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "387bc6cc-ac60-365f-819b-fbc78c486065",
+      "release_title": "The Beatles’ Second Album",
+      "release_date": "1964",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/cffb79a6-8c6c-4864-96a3-24f33f64bfa3/19437566122-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cffb79a6-8c6c-4864-96a3-24f33f64bfa3",
+      "image_id": 19437566122,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1194,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.677,
+        "saturation": 0.323,
+        "dark_share": 0.164,
+        "palette": [
+          {
+            "hex": "#a57254",
+            "share": 0.259
+          },
+          {
+            "hex": "#f7f8ed",
+            "share": 0.255
+          },
+          {
+            "hex": "#26140f",
+            "share": 0.247
+          },
+          {
+            "hex": "#fbfcf3",
+            "share": 0.125
+          },
+          {
+            "hex": "#e5e0d0",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/3f/68/2e3f6804-041e-5828-d1ac-b81240b7cbee/00602537669080.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Beatles' Second Album",
+      "collection_id": 1468023095,
+      "track_id": 1468024676,
+      "artist_name": "The Beatles",
+      "release_date": "1963-08-23T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.703,
+        "saturation": 0.222,
+        "dark_share": 0.128,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.332
+          },
+          {
+            "hex": "#3d2b26",
+            "share": 0.257
+          },
+          {
+            "hex": "#a66f4f",
+            "share": 0.25
+          },
+          {
+            "hex": "#ded1c6",
+            "share": 0.108
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.054
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

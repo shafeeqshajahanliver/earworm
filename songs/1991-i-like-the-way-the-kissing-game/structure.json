@@ -1,0 +1,111 @@
+{
+  "id": "1991-i-like-the-way-the-kissing-game",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "856",
+      "also_ids": [],
+      "match": {
+        "title": "I Like The Way (The Kissing Game)",
+        "artist": "Hi-Five",
+        "chart_date": "1991-07-20",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 856 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 237.845,
+      "version_check": "duration within 12 s (+5.1 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.232,
+          "end": 23.397,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 10
+        },
+        {
+          "start": 23.397,
+          "end": 41.861,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 41.861,
+          "end": 78.84,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 20
+        },
+        {
+          "start": 78.84,
+          "end": 97.319,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 97.319,
+          "end": 134.319,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 20
+        },
+        {
+          "start": 134.319,
+          "end": 152.835,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 152.835,
+          "end": 171.299,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 12
+        },
+        {
+          "start": 171.299,
+          "end": 189.783,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 189.783,
+          "end": 208.247,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 208.247,
+          "end": 233.407,
+          "label": "fadeout",
+          "letter": "B",
+          "normalised": "outro",
+          "bars": 13
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

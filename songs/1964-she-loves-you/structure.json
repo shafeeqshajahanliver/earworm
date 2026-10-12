@@ -1,0 +1,227 @@
+{
+  "id": "1964-she-loves-you",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "she_loves_you_dt",
+      "match": {
+        "title": "She Loves You",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "64",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, she_loves_you_dt.har/.clt + she_loves_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 139 s; our recording 141 s",
+      "parse_check": "expanded 87 bars; timed chord list ends in bar 85",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 13.41,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 9
+        },
+        {
+          "start": 13.41,
+          "end": 38.716,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 9,
+          "bars": 16
+        },
+        {
+          "start": 38.716,
+          "end": 64.199,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 25,
+          "bars": 16
+        },
+        {
+          "start": 64.199,
+          "end": 76.715,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 41,
+          "bars": 8
+        },
+        {
+          "start": 76.715,
+          "end": 102.414,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 49,
+          "bars": 16
+        },
+        {
+          "start": 102.414,
+          "end": 126.288,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 65,
+          "bars": 14
+        },
+        {
+          "start": 126.288,
+          "end": 138.832,
+          "label": "Coda",
+          "normalised": "outro",
+          "first_bar": 79,
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "she_loves_you_tdc",
+      "match": {
+        "title": "She Loves You",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "64",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, she_loves_you_tdc.har/.clt + she_loves_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 139 s; our recording 141 s",
+      "parse_check": "expanded 87 bars; timed chord list ends in bar 85",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 1.199,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 1
+        },
+        {
+          "start": 1.199,
+          "end": 13.41,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 1,
+          "bars": 8
+        },
+        {
+          "start": 13.41,
+          "end": 26.034,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 9,
+          "bars": 8
+        },
+        {
+          "start": 26.034,
+          "end": 38.716,
+          "label": "Ta",
+          "normalised": "other",
+          "first_bar": 17,
+          "bars": 8
+        },
+        {
+          "start": 38.716,
+          "end": 51.513,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 25,
+          "bars": 8
+        },
+        {
+          "start": 51.513,
+          "end": 64.199,
+          "label": "Ta",
+          "normalised": "other",
+          "first_bar": 33,
+          "bars": 8
+        },
+        {
+          "start": 64.199,
+          "end": 76.715,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 41,
+          "bars": 8
+        },
+        {
+          "start": 76.715,
+          "end": 89.65,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 49,
+          "bars": 8
+        },
+        {
+          "start": 89.65,
+          "end": 102.414,
+          "label": "Ta",
+          "normalised": "other",
+          "first_bar": 57,
+          "bars": 8
+        },
+        {
+          "start": 102.414,
+          "end": 138.832,
+          "label": "Bo",
+          "normalised": "other",
+          "first_bar": 65,
+          "bars": 22
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse chorus verse chorus outro",
+      "rolling_stone_tdc": "intro verse bridge verse"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.5
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "disputed",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

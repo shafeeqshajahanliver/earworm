@@ -1,0 +1,407 @@
+{
+  "id": "1965-help",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1244",
+      "also_ids": [],
+      "match": {
+        "title": "Help!",
+        "artist": "The Beatles",
+        "chart_date": "1965-10-30",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1244 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 139.618,
+      "version_check": "duration within 12 s (-10.4 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 1.068,
+          "end": 11.22,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 11.22,
+          "end": 31.306,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 31.306,
+          "end": 51.485,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 51.485,
+          "end": 71.65,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 71.65,
+          "end": 91.922,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 91.922,
+          "end": 112.29,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 112.29,
+          "end": 136.948,
+          "label": "chorus",
+          "letter": "C'",
+          "normalised": "chorus",
+          "bars": 18
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "help_dt",
+      "match": {
+        "title": "Help!",
+        "artist": "The Beatles",
+        "year": "1965",
+        "rs500_rank": "29",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Help!",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, help_dt.har/.clt + help.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 135 s; our recording 150 s",
+      "parse_check": "expanded 106 bars; timed chord list ends in bar 104",
+      "sections": [
+        {
+          "start": 1.176,
+          "end": 11.208,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 11.208,
+          "end": 31.282,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 16
+        },
+        {
+          "start": 31.282,
+          "end": 48.953,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 14
+        },
+        {
+          "start": 48.953,
+          "end": 51.479,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 38,
+          "bars": 2
+        },
+        {
+          "start": 51.479,
+          "end": 71.646,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 40,
+          "bars": 16
+        },
+        {
+          "start": 71.646,
+          "end": 89.377,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 14
+        },
+        {
+          "start": 89.377,
+          "end": 91.945,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 70,
+          "bars": 2
+        },
+        {
+          "start": 91.945,
+          "end": 112.285,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 72,
+          "bars": 16
+        },
+        {
+          "start": 112.285,
+          "end": 129.993,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 88,
+          "bars": 14
+        },
+        {
+          "start": 129.993,
+          "end": 135.192,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 102,
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "help_tdc",
+      "match": {
+        "title": "Help!",
+        "artist": "The Beatles",
+        "year": "1965",
+        "rs500_rank": "29",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Help!",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, help_tdc.har/.clt + help.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 135 s; our recording 150 s",
+      "parse_check": "expanded 106 bars; timed chord list ends in bar 104",
+      "sections": [
+        {
+          "start": 1.176,
+          "end": 11.208,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 11.208,
+          "end": 31.282,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 16
+        },
+        {
+          "start": 31.282,
+          "end": 51.479,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 16
+        },
+        {
+          "start": 51.479,
+          "end": 71.646,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 40,
+          "bars": 16
+        },
+        {
+          "start": 71.646,
+          "end": 91.945,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 16
+        },
+        {
+          "start": 91.945,
+          "end": 112.285,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 72,
+          "bars": 16
+        },
+        {
+          "start": 112.285,
+          "end": 135.192,
+          "label": "Ch3",
+          "normalised": "chorus",
+          "first_bar": 88,
+          "bars": 18
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "isophonics",
+      "dataset": "Isophonics Beatles reference annotations",
+      "source_id": "The Beatles/05_-_Help!/01_-_Help!.lab",
+      "source": "Isophonics, The Beatles annotations, The Beatles/05_-_Help!/01_-_Help!.lab",
+      "licence": "No licence stated on the Isophonics page; cite Harte (2010) / Mauch et al. (2009)",
+      "url": "https://isophonics.net/files/annotations/The%20Beatles%20Annotations.tar.gz",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "sections": [
+        {
+          "start": 1.05,
+          "end": 11.137,
+          "label": "intro",
+          "normalised": "intro"
+        },
+        {
+          "start": 11.137,
+          "end": 31.199,
+          "label": "verse",
+          "normalised": "verse"
+        },
+        {
+          "start": 31.199,
+          "end": 51.4,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 51.4,
+          "end": 71.593,
+          "label": "verse",
+          "normalised": "verse"
+        },
+        {
+          "start": 71.593,
+          "end": 91.864,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 91.864,
+          "end": 112.196,
+          "label": "verse",
+          "normalised": "verse"
+        },
+        {
+          "start": 112.196,
+          "end": 129.916,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 129.916,
+          "end": 136.84,
+          "label": "outro",
+          "normalised": "outro"
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled bridge"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "mcgill_billboard": "intro verse chorus verse chorus verse chorus",
+      "rolling_stone_dt": "intro verse chorus verse chorus verse chorus",
+      "rolling_stone_tdc": "intro verse chorus verse chorus verse chorus",
+      "isophonics": "intro verse chorus verse chorus verse chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_dt",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      },
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      },
+      {
+        "a": "mcgill_billboard",
+        "b": "isophonics",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.88
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "isophonics",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.88
+      },
+      {
+        "a": "rolling_stone_tdc",
+        "b": "isophonics",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.88
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "mcgill_billboard": "no",
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no",
+      "isophonics": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

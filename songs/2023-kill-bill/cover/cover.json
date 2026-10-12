@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4bf388c5-bdef-45c1-8e27-7c1359797a47",
+      "release_title": "Kill Bill",
+      "release_date": "2023-01-13",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/1c7cca6b-0546-41d7-86c1-62cd5d22185f/34644806333-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1c7cca6b-0546-41d7-86c1-62cd5d22185f",
+      "image_id": 34644806333,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.22,
+        "saturation": 0.428,
+        "dark_share": 0.551,
+        "palette": [
+          {
+            "hex": "#121816",
+            "share": 0.269
+          },
+          {
+            "hex": "#01030c",
+            "share": 0.257
+          },
+          {
+            "hex": "#3c3e32",
+            "share": 0.195
+          },
+          {
+            "hex": "#6a6d59",
+            "share": 0.147
+          },
+          {
+            "hex": "#7f8470",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+      "release_title": "SOS",
+      "release_date": "2022-12-09",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: SOS",
+      "url": "https://coverartarchive.org/release/b82458a3-7d3a-495f-861f-8698731c4dd0/34281078448-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b82458a3-7d3a-495f-861f-8698731c4dd0",
+      "image_id": 34281078448,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.347,
+        "saturation": 0.751,
+        "dark_share": 0.202,
+        "palette": [
+          {
+            "hex": "#092947",
+            "share": 0.258
+          },
+          {
+            "hex": "#020c27",
+            "share": 0.248
+          },
+          {
+            "hex": "#1e4767",
+            "share": 0.217
+          },
+          {
+            "hex": "#385f7f",
+            "share": 0.179
+          },
+          {
+            "hex": "#5e7d98",
+            "share": 0.098
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/93/13/6293132e-20ff-67ab-3d1f-96bb6797a6ba/196589564955.jpg/1200x1200bb.jpg",
+      "collection": "SOS",
+      "collection_id": 1658650093,
+      "track_id": 1658650488,
+      "artist_name": "SZA",
+      "release_date": "2022-12-09T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.347,
+        "saturation": 0.759,
+        "dark_share": 0.201,
+        "palette": [
+          {
+            "hex": "#092947",
+            "share": 0.257
+          },
+          {
+            "hex": "#021027",
+            "share": 0.25
+          },
+          {
+            "hex": "#1c4567",
+            "share": 0.211
+          },
+          {
+            "hex": "#345d7e",
+            "share": 0.182
+          },
+          {
+            "hex": "#5a7b97",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

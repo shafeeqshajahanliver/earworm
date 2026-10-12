@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/1130311",
+    "title": "Whoomp! (There It Is)",
+    "performer": "Tag Team",
+    "is_original": true,
+    "first_release_date": "1993-05-07",
+    "releases": [
+      {
+        "title": "Whoomp! (There It Is)",
+        "uri": "https://api.secondhandsongs.com/release/310674",
+        "performer": "Tag Team"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 5,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/247270",
+    "title": "Whoomp! (There It Is)",
+    "language": "English",
+    "writers": [
+      "Steve Gibson [US]",
+      "Cecil Glenn"
+    ],
+    "original_performer": "Tag Team",
+    "versions": 6,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Addam's Family Whoomp",
+        "uri": "https://api.secondhandsongs.com/work/200279"
+      }
+    ]
+  }
+}

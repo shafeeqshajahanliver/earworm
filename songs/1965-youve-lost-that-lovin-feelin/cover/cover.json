@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c0d00f9c-0e9c-3ac9-ac6a-7102b46ea0a8",
+      "release_title": "You've Lost That Lovin' Feelin' / There's a Woman",
+      "release_date": "1964-12",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8e48a6ab-ef7c-4518-b761-b662f3a61348/1876609857-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/8e48a6ab-ef7c-4518-b761-b662f3a61348",
+      "image_id": "1876609857",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        390,
+        397
+      ],
+      "measures": {
+        "brightness": 0.889,
+        "saturation": 0.326,
+        "dark_share": 0.06,
+        "palette": [
+          {
+            "hex": "#f2db78",
+            "share": 0.41
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.322
+          },
+          {
+            "hex": "#96613f",
+            "share": 0.195
+          },
+          {
+            "hex": "#fefdff",
+            "share": 0.05
+          },
+          {
+            "hex": "#fcee97",
+            "share": 0.024
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8f4ec720-1ca6-4801-827f-572265de2fa7",
+      "release_title": "You’ve Lost That Lovin’ Feelin’",
+      "release_date": null,
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: You've Lost That Lovin' Feelin'",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/3b/e0/e73be06c-e94d-6521-08c0-144728408dff/00602567436393.rgb.jpg/1200x1200bb.jpg",
+      "collection": "You've Lost That Lovin' Feelin'",
+      "collection_id": 1428755889,
+      "track_id": 1428758750,
+      "artist_name": "The Righteous Brothers",
+      "release_date": "2022-06-03T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.075,
+        "saturation": 0.795,
+        "dark_share": 0.893,
+        "palette": [
+          {
+            "hex": "#040301",
+            "share": 0.42
+          },
+          {
+            "hex": "#030200",
+            "share": 0.396
+          },
+          {
+            "hex": "#262926",
+            "share": 0.132
+          },
+          {
+            "hex": "#010000",
+            "share": 0.04
+          },
+          {
+            "hex": "#040100",
+            "share": 0.012
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

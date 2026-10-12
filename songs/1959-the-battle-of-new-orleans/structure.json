@@ -1,6 +1,6 @@
 {
   "id": "1959-the-battle-of-new-orleans",
-  "updated": "2026-10-06",
+  "updated": "2026-10-12",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -19,7 +19,7 @@
       "source": "McGill Billboard Project 2.0, salami_chords.txt id 500 (Burgoyne, Wild & Fujinaga 2011)",
       "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
       "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
-      "retrieved": "2026-10-06",
+      "retrieved": "2026-10-12",
       "confidence": "expert",
       "annotated_duration": 152.551,
       "version_check": "duration within 12 s (+2.6 s) of our recording (Wikipedia infobox length)",

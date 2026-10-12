@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5597506,
+  "kind": "synced",
+  "matched": {
+    "track": "Dark Horse",
+    "artist": "Katy Perry",
+    "album": "Dark Horse",
+    "duration_s": 216.0
+  },
+  "duration_matched_to": "musicbrainz recording length (216s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 215.613,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 215.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 215.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 52,
+  "agreement_with_other_candidates": 0.934,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36844191 (Dark Horse / Katy Perry Featuring Juicy J / Dark Horse, 225.0s): duration matches no reference length",
+    "lrclib 17710250 (dark horse (instrumental) / katy perry featuring juicy j / prism, 214.0s): live/remix/other version",
+    "lrclib 36905933 (Dark Horse / Katy Perry / PRISM, 208.0s): duration matches no reference length",
+    "lrclib 1123085 (Dark Horse / Katy Perry / Katy Perry, 297.0s): duration matches no reference length",
+    "lrclib 19905196 (Dark Horse / Katy Perry / Dark Horse, 225.07102s): duration matches no reference length",
+    "lrclib 2312236 (Dark Horse / Katy Perry / Dark Horse, 297.0s): duration matches no reference length",
+    "lrclib 28046622 (Dark Horse / Katy Perry / Dark Horse, 282.0s): duration matches no reference length",
+    "lrclib 32349277 (Dark Horse / Katy Perry / Dark Horse, 228.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

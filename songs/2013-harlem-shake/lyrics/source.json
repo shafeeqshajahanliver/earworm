@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 237574,
+  "kind": "synced",
+  "matched": {
+    "track": "Harlem Shake",
+    "artist": "Baauer",
+    "album": "Harlem Shake",
+    "duration_s": 197.0
+  },
+  "duration_matched_to": "musicbrainz recording length (197s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 196.664,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 196.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 196.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 13,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 21176874 (Harlem Shake / Baauer / Top 100 Van 2013, 127.973333s): duration matches no reference length",
+    "lrclib 18198175 (Harlem Shake / Baauer / US Top 40 Singles, 196.719456s): marked instrumental",
+    "lrclib 18091479 (Harlem Shake / Baauer / Billboard Hit Single, 196.702041s): marked instrumental",
+    "lrclib 17639959 (Harlem Shake / Baauer / Billboard Top 100 - 2013, 196.0s): marked instrumental",
+    "lrclib 17516432 (Harlem Shake / Baauer / Top 100, 196.736525s): marked instrumental",
+    "lrclib 17749718 (Harlem Shake / Baauer / Ministry of Sound - The Annual 2013 - CD3, 193.48898s): marked instrumental",
+    "lrclib 17605791 (Harlem Shake / Baauer / Nederlandse Top 40 week 2013-08, 196.952325s): marked instrumental",
+    "lrclib 17737835 (Harlem Shake / Baauer / Top 100 Single Charts German (25.03.2013), 196.728175s): marked instrumental",
+    "lrclib 22156181 (Harlem Shake / Baauer / Single-Charts 2013, 1262.848393s): duration matches no reference length",
+    "lrclib 28967574 (Harlem Shake / Baauer / Harlem Shake, 211.0s): duration matches no reference length",
+    "lrclib 11964293 (Harlem Shake / Baauer / Harlem Shake, 215.0s): marked instrumental",
+    "lrclib 15431380 (Harlem Shake / Baauer / Harlem Shake, 194.6644864s): marked instrumental",
+    "lrclib 29649530 (Harlem Shake (Paused) / Baauer / Harlem Shake, 197.0s): marked instrumental",
+    "lrclib 2749834 (Harlem Shake / Baauer / Harlem Shake - Single, 0.0s): marked instrumental",
+    "lrclib 10744360 (Harlem Shake / Baauer / Harlem Shake - Single, 197.0s): marked instrumental",
+    "lrclib 31273037 (Harlem Shake (Original Mix) / Baauer / Harlem Shake, 197.0s): marked instrumental",
+    "lrclib 14689902 (Harlem Shake (Original Version) / Baauer / Harlem Shake, 196.0s): marked instrumental",
+    "lrclib 12572920 (Harlem Shake / Baauer / Baauer Videos, 197.0s): marked instrumental"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

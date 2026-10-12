@@ -1,0 +1,70 @@
+{
+  "id": "2021-drivers-license",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1242779142,
+    "matched_by": "isrc",
+    "isrc": "USUG12004749",
+    "title": "drivers license",
+    "artist": "Olivia Rodrigo",
+    "album": "Hits Brasil 2021",
+    "track_duration_s": 242,
+    "link": "https://www.deezer.com/track/1242779142",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 143.8,
+    "tempo_bpm_grid": 143.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      71.8,
+      152.0
+    ],
+    "beats_detected": 63,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.881,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.801,
+    "chroma_profile": [
+      0.268,
+      0.208,
+      0.453,
+      0.85,
+      0.19,
+      0.549,
+      0.192,
+      0.4,
+      0.195,
+      0.297,
+      1.0,
+      0.223
+    ],
+    "rms_dbfs": -10.19,
+    "rms_dbfs_p95_frame": -7.36,
+    "peak_dbfs": -0.02,
+    "loudness_lufs_approx": -9.7,
+    "spectral_centroid_hz_mean": 1545.7,
+    "spectral_centroid_hz_median": 1462.7,
+    "onsets": 117,
+    "onset_density_per_s": 3.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1242779142",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1242779142",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

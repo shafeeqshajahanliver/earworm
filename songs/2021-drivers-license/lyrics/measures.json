@@ -1,0 +1,41 @@
+{
+  "id": "2021-drivers-license",
+  "lyrics_kind": "synced",
+  "lrclib_id": 33703911,
+  "lines": 43,
+  "words": 368,
+  "unique_words": 131,
+  "type_token_ratio": 0.356,
+  "repeated_line_share": 0.186,
+  "distinct_lines": 35,
+  "zlib_compression_ratio": 0.336,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "drivers license",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 40,
+    "second": 30,
+    "first_plural": 8
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.86,
+  "last_line_s": 230.97,
+  "sung_time_s": 214.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 103.1,
+  "words_per_minute_track": 91.2,
+  "longest_gap_between_lines_s": 10.3,
+  "longest_gap_starts_at_s": 187.86,
+  "first_repeated_block": {
+    "first_at_s": 57.11,
+    "recurs_at_s": 200.91,
+    "lines": [
+      "But I've never felt this way for no one",
+      "And I just can't imagine how you could be so okay now that I'm gone"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 33703911",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

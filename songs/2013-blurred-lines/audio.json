@@ -1,0 +1,76 @@
+{
+  "id": "2013-blurred-lines",
+  "preview": {
+    "service": "deezer",
+    "track_id": 70335406,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM71307668",
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke",
+    "album": "Blurred Lines (Deluxe)",
+    "track_duration_s": 263,
+    "link": "https://www.deezer.com/track/70335406",
+    "duration_matched_to": "musicbrainz recording length (263s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.1,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      234.9,
+      60.1,
+      80.7
+    ],
+    "beats_detected": 61,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.314,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.235,
+    "chroma_profile": [
+      0.759,
+      0.916,
+      1.0,
+      0.879,
+      0.916,
+      0.942,
+      0.896,
+      0.892,
+      0.621,
+      0.63,
+      0.534,
+      0.567
+    ],
+    "rms_dbfs": -7.15,
+    "rms_dbfs_p95_frame": -3.24,
+    "peak_dbfs": 2.68,
+    "loudness_lufs_approx": -8.56,
+    "spectral_centroid_hz_mean": 2441.2,
+    "spectral_centroid_hz_median": 2452.6,
+    "onsets": 140,
+    "onset_density_per_s": 4.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 70335406",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.8,
+    "gain": -9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/70335406",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2454818695: version (Blurred Lines (No Rap Version))",
+    "deezer 69525488: version (Blurred Lines (Will Sparks Remix))",
+    "deezer 436352492: version (Blurred Lines (Bee's Knees Remix))",
+    "deezer 69525489: version (Blurred Lines (DallasK Remix))"
+  ]
+}

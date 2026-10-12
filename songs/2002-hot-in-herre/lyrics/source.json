@@ -1,0 +1,74 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 16997986,
+  "kind": "synced",
+  "matched": {
+    "track": "Hot in Herre",
+    "artist": "Nelly",
+    "album": "Hot In Herre-(Promo Single)",
+    "duration_s": 228.657292
+  },
+  "duration_matched_to": "musicbrainz recording length (230s)",
+  "duration_diff_s": 1.3,
+  "reference_lengths": [
+    {
+      "seconds": 230.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 230.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 229.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 86550 (Hot In Herre / Nelly / Nellyville, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37476423 (Hot in Herre / Nelly / 00s Pop Party, 247.0s): duration matches no reference length",
+    "lrclib 37157852 (Hot In Herre / Nelly / Delicious, 189.0s): duration matches no reference length",
+    "lrclib 37037024 (Hot In Herre / Nelly / R&B Clubmix, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37047055 (Hot In Herre / Nelly / Now That's What I Call Music! 52 [Disc 2], 229.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37296531 (Hot In Herre / Nelly / Fetenhits - 00s, 229.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37357296 (Hot In Herre / Nelly / Billboard's Top 100 Of 2002, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37377374 (Hot In Herre / Nelly / YouTube, 245.0s): duration matches no reference length",
+    "lrclib 37428254 (Hot in Herre / Nelly / Platinum - the Definitive R &, 231.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36889156 (Hot In Herre / Nelly / 2000's Party Music, 229.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36870284 (Hot in Herre / Nelly / Most Wanted Hits 1, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34465189 (Hot in Herre / Nelly / Nellyville, 243.0s): duration matches no reference length",
+    "lrclib 34652047 (Hot In Herre / Nelly / Football Party Hits 2022, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34408813 (Hot In Herre / Nelly / 99 & 2000s, 229.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34412649 (Hot in Herre / Nelly / The Best 2000s Album in the World…Ever!, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34546809 (Hot in Herre / Nelly / Da Derrty Versions, 225.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34730577 (Hot In Herre / Nelly / y2k R&amp;B nostalgia, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34365126 (Hot in Herre / Nelly / Hip Hop The 2008 Collection, 229.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34901532 (Hot In Herre / Nelly / 20 #1'S∶ Summer Hits, 230.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 35200735 (Hot in Herre / Nelly / Nellyville, 160.0s): duration matches no reference length",
+    "lrclib 35310232 (Hot In Herre / Nelly / Now That's What I Call Old Skool [Disc 2], 230.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 20855159 (Hot in Herre / Nelly / Hot In Herre, 238.0s): duration matches no reference length",
+    "lrclib 22455059 (Hot in Herre / Nelly / Hot In Herre, 297.0s): duration matches no reference length",
+    "lrclib 1941554 (Hot In Herre / Nelly / Hot in Herre, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 31149083 (Hot In Herre / Nelly / Hot In Herre, 245.0s): duration matches no reference length",
+    "lrclib 27989202 (Hot In Herre (Instrumental) / Nelly / Hot In Herre, 229.0s): live/remix/other version",
+    "lrclib 31091196 (Hot in Herre (instrumental) / Nelly / Hot in Herre, 232.0s): live/remix/other version",
+    "lrclib 33544972 (Hot In Herre / Nelly / Hot In Herre (Single), 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 20040513 (Hot in Herre / Nelly / Hot In Herre (remixes), 238.027755s): live/remix/other version",
+    "lrclib 3696873 (Hot in Herre / Nelly / Still Hot In Herre, 228.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 29308526 (Hot in Herre / Nelly / Hot In Herre (Remixes), 232.0s): live/remix/other version",
+    "lrclib 26093086 (Hot In Herre / Nelly / Hot In Herre Cds, 234.062458s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 33817461 (Hot in Herre (radio edit) / Nelly / Hot in Herre, 238.0s): duration matches no reference length",
+    "lrclib 28810146 (Hot in Herre (Corporate remix) / Nelly / Hot in Herre, 216.0s): live/remix/other version",
+    "lrclib 11556255 (Hot in Herre (Corporate remix) / Nelly / Hot in Herre, 213.0s): live/remix/other version",
+    "lrclib 19609229 (Hot in Herre / Nelly / Hot In Herre (remixes) EP, 238.0s): live/remix/other version",
+    "lrclib 37265965 (Hot in Herre (X‐Ecutioners remix) / Nelly / Hot in Herre, 229.0s): live/remix/other version",
+    "lrclib 24089781 (Hot in Herre (X‐Ecutioners remix) / Nelly / Hot in Herre, 262.701083s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

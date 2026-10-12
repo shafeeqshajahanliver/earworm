@@ -1,0 +1,531 @@
+{
+  "id": "1962-i-cant-stop-loving-you",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "i_cant_stop_loving_you_dt",
+      "match": {
+        "title": "I Can't Stop Loving You",
+        "artist": "Ray Charles",
+        "year": "1962",
+        "rs500_rank": "161",
+        "audio_used": {
+          "artist": "Ray Charles",
+          "album": "The Very Best of Ray Charles",
+          "publication": "Rhino 2000"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_cant_stop_loving_you_dt.har/.clt + i_cant_stop_loving_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 249 s; our recording 158 s; audio taken from compilation 'The Very Best of Ray Charles'",
+      "parse_check": "expanded 81 bars; timed chord list ends in bar 80",
+      "version_note": "annotated audio runs to 249 s vs 158 s for our recording (The Very Best of Ray Charles): a different version; section times do not line up with the charting recording",
+      "key_info": {
+        "tonic": "F",
+        "tonic_pc": 5,
+        "mode": null,
+        "name": "F",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 0.558,
+          "end": 3.598,
+          "bars": 1,
+          "key": "F",
+          "written": [
+            "F7"
+          ],
+          "roman": [
+            "V7/IV"
+          ],
+          "raw_rule": null
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 3.598,
+          "end": 51.454,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV64",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V7 | | I | V7/IV | IV | | I | | V7 | | I IV64 | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 51.454,
+          "end": 99.389,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "C",
+            "F7"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV",
+            "I64",
+            "V7",
+            "I",
+            "V11",
+            "V7/IV"
+          ],
+          "raw_rule": "I | V7/IV | IV | | I | | V7 | | I | V7/IV | IV | | I64 | V7 | I V11 | V7/IV |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 99.389,
+          "end": 147.63,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV64",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V7 | | I | V7/IV | IV | | I | | V7 | | I IV64 | I |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 147.63,
+          "end": 195.551,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "C",
+            "F7"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV",
+            "I64",
+            "V7",
+            "I",
+            "V11",
+            "V7/IV"
+          ],
+          "raw_rule": "I | V7/IV | IV | | I | | V7 | | I | V7/IV | IV | | I64 | V7 | I V11 | V7/IV |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 195.551,
+          "end": 249.054,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "Bb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I",
+            "IV64",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V7 | | I | V7/IV | IV | | I | | V7 | | I IV64 | I |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "i_cant_stop_loving_you_tdc",
+      "match": {
+        "title": "I Can't Stop Loving You",
+        "artist": "Ray Charles",
+        "year": "1962",
+        "rs500_rank": "161",
+        "audio_used": {
+          "artist": "Ray Charles",
+          "album": "The Very Best of Ray Charles",
+          "publication": "Rhino 2000"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_cant_stop_loving_you_tdc.har/.clt + i_cant_stop_loving_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 249 s; our recording 158 s; audio taken from compilation 'The Very Best of Ray Charles'",
+      "parse_check": "expanded 81 bars; timed chord list ends in bar 80",
+      "version_note": "annotated audio runs to 249 s vs 158 s for our recording (The Very Best of Ray Charles): a different version; section times do not line up with the charting recording",
+      "key_info": {
+        "tonic": "F",
+        "tonic_pc": 5,
+        "mode": null,
+        "name": "F",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.558,
+          "end": 3.598,
+          "bars": 1,
+          "key": "F",
+          "written": [
+            "F7"
+          ],
+          "roman": [
+            "V7/IV"
+          ],
+          "raw_rule": "V7/IV |"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 3.598,
+          "end": 27.483,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V | | I | V7/IV |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 27.483,
+          "end": 51.454,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C",
+            "F",
+            "Bb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V | | I IV | I |"
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 51.454,
+          "end": 75.357,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "F",
+            "Bb",
+            "F",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw_rule": "I | V7/IV | IV | | I | | V | V7 |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 75.357,
+          "end": 99.389,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "F",
+            "Bb",
+            "F",
+            "C",
+            "F",
+            "Bb",
+            "F7"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I",
+            "IV",
+            "V7/IV"
+          ],
+          "raw_rule": "I | V7/IV | IV | | I | V | I IV | V7/IV |"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 99.389,
+          "end": 123.522,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V | | I | V7/IV |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 123.522,
+          "end": 147.63,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C",
+            "F",
+            "Bb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V | | I IV | I |"
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 147.63,
+          "end": 171.614,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "F",
+            "Bb",
+            "F",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw_rule": "I | V7/IV | IV | | I | | V | V7 |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 171.614,
+          "end": 195.551,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "F",
+            "Bb",
+            "F",
+            "C",
+            "F",
+            "Bb",
+            "F7"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I",
+            "IV",
+            "V7/IV"
+          ],
+          "raw_rule": "I | V7/IV | IV | | I | V | I IV | V7/IV |"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 195.551,
+          "end": 219.43,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V | | I | V7/IV |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 219.43,
+          "end": 249.054,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "Bb",
+            "F",
+            "C",
+            "F",
+            "Bb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "V",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "IV | | I | | V | | I IV | I |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "F",
+      "rolling_stone_tdc": "F"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

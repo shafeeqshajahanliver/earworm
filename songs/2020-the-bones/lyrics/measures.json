@@ -1,0 +1,41 @@
+{
+  "id": "2020-the-bones",
+  "lyrics_kind": "synced",
+  "lrclib_id": 24900531,
+  "lines": 38,
+  "words": 341,
+  "unique_words": 95,
+  "type_token_ratio": 0.279,
+  "repeated_line_share": 0.316,
+  "distinct_lines": 26,
+  "zlib_compression_ratio": 0.269,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "the bones",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 7,
+    "second": 4,
+    "first_plural": 13
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.9,
+  "last_line_s": 186.31,
+  "sung_time_s": 170.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 120.3,
+  "words_per_minute_track": 104.3,
+  "longest_gap_between_lines_s": 8.16,
+  "longest_gap_starts_at_s": 123.04,
+  "first_repeated_block": {
+    "first_at_s": 37.23,
+    "recurs_at_s": 93.32,
+    "lines": [
+      "When the bones are good, the rest don't matter",
+      "Yeah, the paint could peel, the glass could shatter"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 24900531",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

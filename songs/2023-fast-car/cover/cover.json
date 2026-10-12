@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "4dd05327-b70f-4d7b-b950-367ecdd29b66",
+      "release_title": "Gettin' Old",
+      "release_date": "2023-03-24",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Gettin' Old",
+      "url": "http://coverartarchive.org/release/f3ca160f-3533-4472-ba10-a9e8fe40cd1d/35228607451-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f3ca160f-3533-4472-ba10-a9e8fe40cd1d",
+      "image_id": 35228607451,
+      "types": [
+        "Front"
+      ],
+      "comment": "Apple Music",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.486,
+        "saturation": 0.797,
+        "dark_share": 0.146,
+        "palette": [
+          {
+            "hex": "#2b6c79",
+            "share": 0.291
+          },
+          {
+            "hex": "#012746",
+            "share": 0.232
+          },
+          {
+            "hex": "#72b5a4",
+            "share": 0.218
+          },
+          {
+            "hex": "#04354c",
+            "share": 0.173
+          },
+          {
+            "hex": "#27393e",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/1200x1200bb.jpg",
+      "collection": "Gettin' Old",
+      "collection_id": 1666738524,
+      "track_id": 1666738585,
+      "artist_name": "Luke Combs",
+      "release_date": "2023-03-24T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.476,
+        "saturation": 0.796,
+        "dark_share": 0.16,
+        "palette": [
+          {
+            "hex": "#2a6977",
+            "share": 0.297
+          },
+          {
+            "hex": "#71b4a3",
+            "share": 0.216
+          },
+          {
+            "hex": "#012847",
+            "share": 0.202
+          },
+          {
+            "hex": "#053043",
+            "share": 0.193
+          },
+          {
+            "hex": "#2b3739",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

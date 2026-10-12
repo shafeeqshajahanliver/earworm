@@ -1,0 +1,70 @@
+{
+  "id": "2014-fancy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 77485391,
+    "matched_by": "isrc",
+    "isrc": "GBUM71400597",
+    "title": "Fancy",
+    "artist": "Iggy Azalea",
+    "album": "The New Classic",
+    "track_duration_s": 199,
+    "link": "https://www.deezer.com/track/77485391",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 96.3,
+    "tempo_bpm_grid": 94.8,
+    "tempo_candidates_bpm": [
+      95.7,
+      184.6,
+      47.9
+    ],
+    "beats_detected": 48,
+    "key": "C minor",
+    "key_tonic": "C",
+    "key_mode": "minor",
+    "key_correlation": 0.743,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.502,
+    "chroma_profile": [
+      1.0,
+      0.673,
+      0.827,
+      0.816,
+      0.61,
+      0.59,
+      0.586,
+      0.682,
+      0.549,
+      0.454,
+      0.493,
+      0.458
+    ],
+    "rms_dbfs": -6.93,
+    "rms_dbfs_p95_frame": -2.22,
+    "peak_dbfs": 3.29,
+    "loudness_lufs_approx": -6.99,
+    "spectral_centroid_hz_mean": 2893.8,
+    "spectral_centroid_hz_median": 2795.1,
+    "onsets": 140,
+    "onset_density_per_s": 4.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 77485391",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95,
+    "gain": -7.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/77485391",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20070619,
+  "kind": "synced",
+  "matched": {
+    "track": "Don't Let Me Down",
+    "artist": "The Chainsmokers feat. Daya",
+    "album": "Absolute Summer Hits 2016",
+    "duration_s": 207.830204
+  },
+  "duration_matched_to": "musicbrainz recording length (208s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 207.706,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 208.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 208.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 39,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 19870856 (Don't Let Me Down / The Chainsmokers feat. Daya / Don't Let Me Down (Remixes), 195.134694s): live/remix/other version",
+    "lrclib 35475567 (Don't Let Me Down (W&W Remix) / The Chainsmokers Featuring Daya / Don't Let Me Down (Remixes), 196.0s): live/remix/other version",
+    "lrclib 34360217 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 194.0s): duration matches no reference length",
+    "lrclib 33552615 (Don't Let Me Down / The Chainsmokers / The Chainsmokers, 218.0s): duration matches no reference length",
+    "lrclib 35894243 (Don't Let Me Down / The Chainsmokers / Collage, 50.0s): duration matches no reference length",
+    "lrclib 35894319 (Don't Let Me Down / The Chainsmokers / Collage, 227.0s): duration matches no reference length",
+    "lrclib 36126391 (Don't Let Me Down / The Chainsmokers / Collage, 80.0s): duration matches no reference length",
+    "lrclib 36230781 (Don't Let Me Down / The Chainsmokers / Ministry Of Sound The Annual 2017, 197.0s): duration matches no reference length",
+    "lrclib 36233300 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down - Single, 217.0s): duration matches no reference length",
+    "lrclib 33967173 (Don’t Let Me Down / The Chainsmokers / Club Sounds: The Ultimate Club Dance Collection, Vol. 77, 217.0s): duration matches no reference length",
+    "lrclib 34328761 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 151.0s): duration matches no reference length",
+    "lrclib 19253395 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 162.4816329s): duration matches no reference length",
+    "lrclib 960024 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 198.0s): duration matches no reference length",
+    "lrclib 28876805 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 253.0s): duration matches no reference length",
+    "lrclib 32258176 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 183.0s): duration matches no reference length",
+    "lrclib 16398087 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 217.939592s): duration matches no reference length",
+    "lrclib 16397954 (Don't Let Me Down / The Chainsmokers / Don't Let Me Down, 217.939584s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

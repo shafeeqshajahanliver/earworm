@@ -1,0 +1,120 @@
+{
+  "id": "1984-karma-chameleon",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "979",
+      "also_ids": [],
+      "match": {
+        "title": "Karma Chameleon",
+        "artist": "Culture Club",
+        "chart_date": "1984-04-28",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 979 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 254.616,
+      "version_check": "duration differs by +15 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 255 s vs 239 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.348,
+          "end": 13.444,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 10
+        },
+        {
+          "start": 13.444,
+          "end": 44.838,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 24
+        },
+        {
+          "start": 44.838,
+          "end": 65.618,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 65.618,
+          "end": 96.975,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 24
+        },
+        {
+          "start": 96.975,
+          "end": 117.772,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 117.772,
+          "end": 138.684,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 16
+        },
+        {
+          "start": 138.684,
+          "end": 169.998,
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "bars": 24
+        },
+        {
+          "start": 169.998,
+          "end": 190.671,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 190.671,
+          "end": 211.23,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 211.23,
+          "end": 226.936,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 226.936,
+          "end": 250.404,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 20
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

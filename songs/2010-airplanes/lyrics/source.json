@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 9203406,
+  "kind": "synced",
+  "matched": {
+    "track": "Airplanes",
+    "artist": "B.o.B",
+    "album": "B.o.B Presents: The Adventures of Bobby Ray",
+    "duration_s": 180.48
+  },
+  "duration_matched_to": "musicbrainz recording length (180s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 180.48,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 180.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 181.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 0.987,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 1872150 (Airplanes / B.o.B (feat. Hayley Williams of Paramore) / B.o.B Presents: The Adventures of Bobby Ray, 181.0s): marked instrumental",
+    "lrclib 33676309 (Airplanes / B.o.B feat. Hayley Williams of Paramore / Airplanes (deluxe single), 192.0s): marked instrumental",
+    "lrclib 35879791 (Airplanes / B.o.B feat. Hayley Williams of Paramore / Every UK Number 1 Single - 1952-2026, 181.0s): marked instrumental",
+    "lrclib 36650881 (Airplanes / B.o.B feat. Hayley Williams of Paramore / B.o.B Presents: The Adventures of Bobby Ray (Deluxe Version), 180.0s): live/remix/other version",
+    "lrclib 18888489 (Airplanes / B.o.b feat. Hayley Williams Of Paramore / German Top 100 Single Charts (Osc) - 11.10.2010, 182.413061s): marked instrumental",
+    "lrclib 22238884 (Airplanes / B.O.B. feat. Hayley Williams Of Paramore / Love Ballads - Die 40 Schönsten Lovesongs, 180.506122s): marked instrumental",
+    "lrclib 21598667 (Airplanes / B.o.B feat. Hayley Williams of Paramore / Bravo Hits Vol.071, 182.0s): marked instrumental",
+    "lrclib 21811137 (Airplanes / B.O.B feat. Hayley Williams of Paramore / German Top 100 Single Charts KW 51, 182.413061s): marked instrumental",
+    "lrclib 24787662 (Airplanes / B.o.B feat. Hayley Williams of Paramore / Die ultimative Chart Show - Die erfolgreichsten Hits 2010, 181.315918s): marked instrumental",
+    "lrclib 22609694 (Airplanes / B.O.B feat. Hayley Williams of Paramore / German Top 100 Single Charts KW 50, 182.413061s): marked instrumental",
+    "lrclib 24840108 (Airplanes / B.O.B feat. Hayley Williams of Paramore / Various Hits A-Z, 182.413061s): marked instrumental",
+    "lrclib 24977160 (Airplanes / B.O.B. Feat. Hayley Williams Of Paramore / Bravo Hits Collection (1992-2015), 181.786122s): marked instrumental",
+    "lrclib 315801 (Airplanes / B.o.B feat. Hayley Williams of Paramore / Airplanes - Deluxe Single, 181.0s): marked instrumental",
+    "lrclib 28598654 (Airplanes / B.O.B feat. Hayley Williams of Paramore / Top 100 2010, 182.0s): marked instrumental",
+    "lrclib 35912462 (Airplanes / B.o.B / B.o.B Presents: The Adventures of Bobby Ray, 30.0s): duration matches no reference length",
+    "lrclib 17498774 (Airplanes / B.o.B / The Adventures of Bobby Ray, 310.966958s): duration matches no reference length",
+    "lrclib 25976323 (Airplanes (feat. Hayley Williams of Paramore) / B.o.B / B.o.B, 180.48s): marked instrumental",
+    "lrclib 21862338 (Airplanes (feat. Hayley Williams) / B.o.B / B.o.B Videos, 192.0s): duration matches no reference length",
+    "lrclib 24827969 (Airplanes (feat. Hayley Williams) / B.o.B / B.o.B Songs, 192.0s): duration matches no reference length",
+    "lrclib 27392894 (Airplanes / B.o.B / Airplanes, 191.827s): duration matches no reference length",
+    "lrclib 31187307 (Airplanes / B.O.B. / Airplanes, 171.0s): duration matches no reference length",
+    "lrclib 9656839 (Airplanes (explicit) (feat. Hayley Williams) / B.o.B / B.o.B Songs, 192.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "2010-bad-romance",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4601933,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM70903859",
+    "title": "Bad Romance",
+    "artist": "Lady Gaga",
+    "album": "Bad Romance",
+    "track_duration_s": 295,
+    "link": "https://www.deezer.com/track/4601933",
+    "duration_matched_to": "wikipedia infobox length (294s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 118.9,
+    "tempo_bpm_grid": 118.8,
+    "tempo_candidates_bpm": [
+      117.5,
+      234.9,
+      60.1
+    ],
+    "beats_detected": 52,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.362,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.328,
+    "chroma_profile": [
+      0.829,
+      0.597,
+      0.68,
+      0.658,
+      0.702,
+      0.629,
+      0.736,
+      0.843,
+      0.828,
+      0.932,
+      0.851,
+      1.0
+    ],
+    "rms_dbfs": -8.16,
+    "rms_dbfs_p95_frame": -5.18,
+    "peak_dbfs": 1.34,
+    "loudness_lufs_approx": -9.07,
+    "spectral_centroid_hz_mean": 2565.5,
+    "spectral_centroid_hz_median": 2513.8,
+    "onsets": 113,
+    "onset_density_per_s": 3.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4601933",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 118.8,
+    "gain": -7.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4601933",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USUM70904367: matched but no preview available (readable=False)",
+    "deezer 5235384: version (Bad Romance (Bimbo Jones Radio Remix))",
+    "deezer 5235382: version (Bad Romance (Chew Fu H1N1 Fix))",
+    "deezer 5235385: version (Bad Romance (Skrillex Remix))",
+    "deezer 5235383: version (Bad Romance (Kaskade Remix))",
+    "deezer 1761599567: version (Bad Romance (Grum Remix))",
+    "deezer 5664515: version (Bad Romance (DJ Paulo’s Gaga Oh La-La Remix))"
+  ]
+}

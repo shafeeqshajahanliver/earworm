@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/14437",
+    "title": "Hold On",
+    "performer": "En Vogue",
+    "is_original": true,
+    "first_release_date": "1990",
+    "releases": [
+      {
+        "title": "Born to Sing",
+        "uri": "https://api.secondhandsongs.com/release/6017",
+        "performer": "En Vogue"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Who's Lovin' You",
+      "uri": "https://api.secondhandsongs.com/work/8803"
+    }
+  ],
+  "covers_of_this_recording": 51,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/8803",
+    "title": "Who's Lovin' You",
+    "language": "English",
+    "writers": [
+      "Smokey Robinson"
+    ],
+    "original_performer": "The Miracles featuring Bill \"Smokey\" Robinson",
+    "versions": 51,
+    "based_on": [],
+    "derived_works": []
+  }
+}

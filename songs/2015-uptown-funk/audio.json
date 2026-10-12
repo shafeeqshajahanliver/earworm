@@ -1,0 +1,77 @@
+{
+  "id": "2015-uptown-funk",
+  "preview": {
+    "service": "deezer",
+    "track_id": 92734438,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBARL1401524",
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "artist": "Mark Ronson",
+    "album": "Uptown Special",
+    "track_duration_s": 270,
+    "link": "https://www.deezer.com/track/92734438",
+    "duration_matched_to": "wikipedia infobox length (270s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 115.1,
+    "tempo_bpm_grid": 114.8,
+    "tempo_candidates_bpm": [
+      117.5,
+      112.3,
+      57.4
+    ],
+    "beats_detected": 48,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.4,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.349,
+    "chroma_profile": [
+      0.95,
+      0.963,
+      1.0,
+      0.786,
+      0.718,
+      0.813,
+      0.772,
+      0.809,
+      0.647,
+      0.715,
+      0.657,
+      0.666
+    ],
+    "rms_dbfs": -11.68,
+    "rms_dbfs_p95_frame": -6.54,
+    "peak_dbfs": 0.31,
+    "loudness_lufs_approx": -12.24,
+    "spectral_centroid_hz_mean": 2796.2,
+    "spectral_centroid_hz_median": 2735.7,
+    "onsets": 128,
+    "onset_density_per_s": 4.268,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 92734438",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 114.8,
+    "gain": -11.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/92734438",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBARL1401540: matched but no preview available (readable=False)",
+    "deezer 98327832: version (Uptown Funk (feat. Bruno Mars) (Will Sparks Remix))",
+    "deezer 102883546: version (Uptown Funk (feat. Bruno Mars) (Trinidad James Remix))",
+    "deezer 98327828: version (Uptown Funk (feat. Bruno Mars) (Dave Audé Remix))",
+    "deezer 98327830: version (Uptown Funk (feat. Bruno Mars) (Wideboys VIP Remix))"
+  ]
+}

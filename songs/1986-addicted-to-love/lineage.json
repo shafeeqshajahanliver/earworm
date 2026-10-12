@@ -1,0 +1,48 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/11773",
+    "title": "Addicted to Love",
+    "performer": "Robert Palmer",
+    "is_original": true,
+    "first_release_date": "1985-11",
+    "releases": [
+      {
+        "title": "Riptide",
+        "uri": "https://api.secondhandsongs.com/release/5027",
+        "performer": "Robert Palmer"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 58,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/11773",
+    "title": "Addicted to Love",
+    "language": "English",
+    "writers": [
+      "Robert Palmer"
+    ],
+    "original_performer": "Robert Palmer",
+    "versions": 59,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Addicted to Spuds",
+        "uri": "https://api.secondhandsongs.com/work/23179"
+      },
+      {
+        "title": "Expected to Love",
+        "uri": "https://api.secondhandsongs.com/work/204314"
+      },
+      {
+        "title": "上癮",
+        "uri": "https://api.secondhandsongs.com/work/316027"
+      }
+    ]
+  }
+}

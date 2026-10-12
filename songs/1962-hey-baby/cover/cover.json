@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6cb5508c-0fe9-36bc-a624-67bf91386aa4",
+      "release_title": "Hey! Baby / Dream Girl",
+      "release_date": "1962",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b0e8178f-0a66-4406-9471-059afb9e659f/14872121242-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/b0e8178f-0a66-4406-9471-059afb9e659f",
+      "image_id": "14872121242",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "label",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.24,
+        "saturation": 0.168,
+        "dark_share": 0.285,
+        "palette": [
+          {
+            "hex": "#3a3032",
+            "share": 0.397
+          },
+          {
+            "hex": "#251e1e",
+            "share": 0.267
+          },
+          {
+            "hex": "#3e3537",
+            "share": 0.154
+          },
+          {
+            "hex": "#6d646b",
+            "share": 0.126
+          },
+          {
+            "hex": "#32292a",
+            "share": 0.056
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "121d06c9-72bd-32e5-ba9e-0fbabfd57030",
+      "release_title": "Hey! Baby",
+      "release_date": "1962",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Hey! Baby",
+      "url": "http://coverartarchive.org/release/b63616e3-9bbb-4a85-a41a-d69e2b6b76b2/33228872483-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b63616e3-9bbb-4a85-a41a-d69e2b6b76b2",
+      "image_id": 33228872483,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.692,
+        "saturation": 0.355,
+        "dark_share": 0.055,
+        "palette": [
+          {
+            "hex": "#988661",
+            "share": 0.283
+          },
+          {
+            "hex": "#c9b692",
+            "share": 0.216
+          },
+          {
+            "hex": "#62403d",
+            "share": 0.185
+          },
+          {
+            "hex": "#dcc7ac",
+            "share": 0.183
+          },
+          {
+            "hex": "#ead5ba",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/98/c9/5a98c98b-bffd-be0e-1bcc-54fbac1dfeeb/198704990243_Cover.jpg/1200x1200bb.jpg",
+      "collection": "Hey! Baby - Single",
+      "collection_id": 1875119631,
+      "track_id": 1875119634,
+      "artist_name": "Bruce Channel",
+      "release_date": "1959-11-06T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.547,
+        "saturation": 0.359,
+        "dark_share": 0.154,
+        "palette": [
+          {
+            "hex": "#2a2629",
+            "share": 0.272
+          },
+          {
+            "hex": "#875b68",
+            "share": 0.221
+          },
+          {
+            "hex": "#73849b",
+            "share": 0.212
+          },
+          {
+            "hex": "#c4b897",
+            "share": 0.209
+          },
+          {
+            "hex": "#88a9b2",
+            "share": 0.087
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

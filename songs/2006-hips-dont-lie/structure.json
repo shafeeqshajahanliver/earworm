@@ -1,0 +1,103 @@
+{
+  "id": "2006-hips-dont-lie",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0719_hipsdontlie",
+      "match": {
+        "title": "Hips Don't Lie",
+        "artist": "Shakira feat. Wyclef Jean",
+        "release": "The Best of Now That's What I Call Music! 10th Anniversary",
+        "musicbrainz_id": "2c0b2787-307c-49e9-b2e9-5b1ddd6e713e",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0719_hipsdontlie.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0719_hipsdontlie.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 216.408,
+      "bpm": 100.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.176,
+          "end": 9.776,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 9.776,
+          "end": 38.576,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 38.576,
+          "end": 57.776,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 57.776,
+          "end": 96.176,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 96.176,
+          "end": 124.976,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 124.976,
+          "end": 144.176,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 144.176,
+          "end": 165.776,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 165.776,
+          "end": 184.976,
+          "label": "raps",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 184.976,
+          "end": 204.176,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 204.176,
+          "end": 211.376,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 3
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

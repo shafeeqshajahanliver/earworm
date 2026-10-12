@@ -1,0 +1,209 @@
+{
+  "id": "2010-bad-romance",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0017_badromance",
+      "match": {
+        "title": "Bad Romance",
+        "artist": "Lady Gaga",
+        "release": "Love 2 Club",
+        "musicbrainz_id": "0b651db4-3eb4-32bd-9b42-f00cc20d9f49",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0017_badromance.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0017_badromance.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 165.582,
+      "bpm": 119.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -96 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.017,
+          "end": 18.151,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 18.151,
+          "end": 50.42,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 50.42,
+          "end": 58.487,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 58.487,
+          "end": 90.756,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 90.756,
+          "end": 106.891,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 106.891,
+          "end": 123.025,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 123.025,
+          "end": 155.294,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 166 s vs 261 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0575_badromanceskrillexremix",
+      "match": {
+        "title": "Bad Romance (Skrillex remix)",
+        "artist": "Lady Gaga",
+        "release": "Now That's What I Call Club Hits 2",
+        "musicbrainz_id": "79061abe-d123-4fc8-978b-fd39ac327979",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0575_badromanceskrillexremix.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0575_badromanceskrillexremix.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 262.083,
+      "bpm": 124.0,
+      "time_signature": "4/4",
+      "version_check": "duration within 12 s (+0.8 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.064,
+          "end": 19.419,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 10
+        },
+        {
+          "start": 19.419,
+          "end": 50.387,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 50.387,
+          "end": 58.129,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 58.129,
+          "end": 89.097,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 89.097,
+          "end": 98.774,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 5
+        },
+        {
+          "start": 98.774,
+          "end": 129.742,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 129.742,
+          "end": 137.484,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 137.484,
+          "end": 168.452,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 168.452,
+          "end": 176.194,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 176.194,
+          "end": 222.645,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 24
+        },
+        {
+          "start": 222.645,
+          "end": 253.613,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 253.613,
+          "end": 261.355,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro verse prechorus chorus instrumental verse prechorus chorus instrumental bridge chorus instrumental"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [
+      "harmonix: annotated audio is 166 s vs 261 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

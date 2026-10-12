@@ -1,0 +1,48 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/19508",
+    "title": "Beat It",
+    "performer": "Michael Jackson",
+    "is_original": true,
+    "first_release_date": "1982-11-30",
+    "releases": [
+      {
+        "title": "Thriller",
+        "uri": "https://api.secondhandsongs.com/release/273",
+        "performer": "Michael Jackson"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 152,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/19508",
+    "title": "Beat It",
+    "language": "English",
+    "writers": [
+      "Michael Jackson"
+    ],
+    "original_performer": "Michael Jackson",
+    "versions": 153,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Eat It",
+        "uri": "https://api.secondhandsongs.com/work/23166"
+      },
+      {
+        "title": "Farðu",
+        "uri": "https://api.secondhandsongs.com/work/265563"
+      },
+      {
+        "title": "Beat It",
+        "uri": "https://api.secondhandsongs.com/work/318318"
+      }
+    ]
+  }
+}

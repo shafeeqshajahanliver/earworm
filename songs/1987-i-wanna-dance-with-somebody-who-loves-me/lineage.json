@@ -1,0 +1,74 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/16477",
+    "title": "I Wanna Dance with Somebody (Who Loves Me)",
+    "performer": "Whitney Houston",
+    "is_original": true,
+    "first_release_date": "1987-06-29",
+    "releases": [
+      {
+        "title": "Whitney",
+        "uri": "https://api.secondhandsongs.com/release/6780",
+        "performer": "Whitney Houston"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 167,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/16477",
+    "title": "I Wanna Dance with Somebody (Who Loves Me)",
+    "language": "English",
+    "writers": [
+      "George Merrill",
+      "Shannon Rubicam"
+    ],
+    "original_performer": "Whitney Houston",
+    "versions": 168,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Mám nový vůz",
+        "uri": "https://api.secondhandsongs.com/work/186296"
+      },
+      {
+        "title": "Somebody",
+        "uri": "https://api.secondhandsongs.com/work/162802"
+      },
+      {
+        "title": "Jag vill dansa med någon",
+        "uri": "https://api.secondhandsongs.com/work/241507"
+      },
+      {
+        "title": "Al Beni Dans",
+        "uri": "https://api.secondhandsongs.com/work/246599"
+      },
+      {
+        "title": "Ich will mit jemandem tanzen",
+        "uri": "https://api.secondhandsongs.com/work/267194"
+      },
+      {
+        "title": "Dance with Somebody",
+        "uri": "https://api.secondhandsongs.com/work/274210"
+      },
+      {
+        "title": "跟我跳一次",
+        "uri": "https://api.secondhandsongs.com/work/314075"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2016-cant-stop-the-feeling",
+  "preview": {
+    "service": "deezer",
+    "track_id": 132635814,
+    "matched_by": "isrc",
+    "isrc": "USRC11600876",
+    "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+    "artist": "Justin Timberlake",
+    "album": "TROLLS (Original Motion Picture Soundtrack)",
+    "track_duration_s": 236,
+    "link": "https://www.deezer.com/track/132635814",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 113.2,
+    "tempo_bpm_grid": 113.6,
+    "tempo_candidates_bpm": [
+      112.3,
+      56.2,
+      234.9
+    ],
+    "beats_detected": 53,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.715,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.559,
+    "chroma_profile": [
+      0.806,
+      0.511,
+      0.627,
+      0.627,
+      0.87,
+      1.0,
+      0.656,
+      0.61,
+      0.512,
+      0.63,
+      0.638,
+      0.509
+    ],
+    "rms_dbfs": -8.25,
+    "rms_dbfs_p95_frame": -5.81,
+    "peak_dbfs": 1.92,
+    "loudness_lufs_approx": -7.91,
+    "spectral_centroid_hz_mean": 2655.4,
+    "spectral_centroid_hz_median": 2603.7,
+    "onsets": 148,
+    "onset_density_per_s": 4.935,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 132635814",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/132635814",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

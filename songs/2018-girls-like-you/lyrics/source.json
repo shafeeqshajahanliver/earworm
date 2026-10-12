@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 8985583,
+  "kind": "synced",
+  "matched": {
+    "track": "Girls Like You",
+    "artist": "Maroon 5",
+    "album": "Girls Like You",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (236s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 235.68,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 235.5,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 215.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 236.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 41,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 19988909 (Girls Like You / Maroon 5 feat. Cardi B / Mastermix: DJ Beats Chart Vol. 59, 258.037551s): duration matches no reference length",
+    "lrclib 20203828 (Girls Like You / Maroon 5 feat. Cardi B / HT Select Mix Select Essentials 151 (DD), 318.772245s): duration matches no reference length",
+    "lrclib 9299844 (Girls Like You / Maroon 5 feat. Cardi B / Girls Like You, 271.0s): duration matches no reference length",
+    "lrclib 37504882 (Girls Like You / Maroon 5 / Red Pill Blues (Deluxe), 170.0s): duration matches no reference length",
+    "lrclib 34387748 (Girls Like You / Maroon 5 / Red Pill Blues (Deluxe), 266.0s): duration matches no reference length",
+    "lrclib 34350868 (Girls Like You / Maroon 5 / 4017 M de vistas, 271.0s): duration matches no reference length",
+    "lrclib 34620537 (Girls Like You / Maroon 5 / 4 bi de visualizações, 271.0s): duration matches no reference length",
+    "lrclib 34702599 (Girls Like You / Maroon 5 / Unknown Album, 270.0s): duration matches no reference length",
+    "lrclib 34774357 (Girls Like You / Maroon 5 / Red Pill Blues (Deluxe), 3.0s): duration matches no reference length",
+    "lrclib 35334089 (Girls Like You / Maroon 5 / Slow Songs For Relaxing, 221.0s): duration matches no reference length",
+    "lrclib 33668382 (Girls Like You / Maroon 5 / •, 271.0s): duration matches no reference length",
+    "lrclib 24629268 (Girls Like You / Maroon 5 / Maroon 5, 270.0s): duration matches no reference length",
+    "lrclib 11178000 (Girls Like You / Maroon 5 / Girls Like You, 271.0s): duration matches no reference length",
+    "lrclib 31434649 (Girls Like You / Maroon 5 / Girls Like You, 223.0s): duration matches no reference length",
+    "lrclib 24598642 (Girls Like You / Maroon 5 / Maroon 5 Songs, 271.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

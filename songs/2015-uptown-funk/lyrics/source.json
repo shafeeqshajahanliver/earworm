@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36952346,
+  "kind": "synced",
+  "matched": {
+    "track": "Uptown Funk",
+    "artist": "Mark Ronson",
+    "album": "Just Great Songs 2015",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (236s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 235.76,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 270.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 270.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 39,
+  "agreement_with_other_candidates": 0.745,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33649605 (Uptown Funk / Mark Ronson / Party Tyme Karaoke - Super Hits 23, 270.0s): live/remix/other version",
+    "lrclib 36179384 (Uptown Funk / Mark Ronson / Uptown Special, 70.0s): duration matches no reference length",
+    "lrclib 36640635 (Uptown Funk / Mark Ronson / Uptown Funk  (feat. Bruno Mars), 277.0s): duration matches no reference length",
+    "lrclib 36769036 (Uptown Funk / Mark Ronson / Singles, 442.0s): duration matches no reference length",
+    "lrclib 35382195 (Uptown Funk / Mark Ronson / Uptown Special, 2540.0s): duration matches no reference length",
+    "lrclib 37117791 (Uptown Funk / Mark Ronson feat. Bruno Mars / Radio 538 Hitzone: Best of 2015, 262.0s): duration matches no reference length",
+    "lrclib 31168203 (Uptown Funk / Mark Ronson / Mark Ronson, 204.0s): duration matches no reference length",
+    "lrclib 2264820 (Uptown Funk! / Mark Ronson / Uptown Funk!, 51.0s): duration matches no reference length",
+    "lrclib 25845819 (Uptown Funk / Mark Ronson / Uptown Funk!, 278.3223499s): duration matches no reference length",
+    "lrclib 29479508 (Uptown Funk! / Mark Ronson / Uptown Funk!, 284.0s): duration matches no reference length",
+    "lrclib 32494887 (Uptown Funk! / Mark Ronson / Uptown Funk!, 2325.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

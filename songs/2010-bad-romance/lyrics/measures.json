@@ -1,0 +1,41 @@
+{
+  "id": "2010-bad-romance",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37286423,
+  "lines": 96,
+  "words": 664,
+  "unique_words": 81,
+  "type_token_ratio": 0.122,
+  "repeated_line_share": 0.625,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.16,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "bad romance",
+  "title_phrase_occurrences": 29,
+  "pronouns": {
+    "first_singular": 50,
+    "second": 66,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.17,
+  "last_line_s": 289.61,
+  "sung_time_s": 288.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 138.1,
+  "words_per_minute_track": 152.5,
+  "longest_gap_between_lines_s": 6.41,
+  "longest_gap_starts_at_s": 124.22,
+  "first_repeated_block": {
+    "first_at_s": 0.17,
+    "recurs_at_s": 8.19,
+    "lines": [
+      "Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh",
+      "Caught in a bad romance"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37286423",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

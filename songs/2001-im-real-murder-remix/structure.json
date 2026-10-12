@@ -1,0 +1,110 @@
+{
+  "id": "2001-im-real-murder-remix",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0747_imreal",
+      "match": {
+        "title": "I'm Real (Murder remix)",
+        "artist": "Ja Rule",
+        "release": "Pain Is Love",
+        "musicbrainz_id": "30c9c6b0-755b-48e3-bcd0-a5474a6cc655",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0747_imreal.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0747_imreal.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 256.096,
+      "bpm": 83.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.107,
+          "end": 25.975,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 9
+        },
+        {
+          "start": 25.975,
+          "end": 48.969,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 48.969,
+          "end": 59.748,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 59.748,
+          "end": 83.46,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 83.46,
+          "end": 117.233,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 117.233,
+          "end": 140.227,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 140.227,
+          "end": 163.94,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 163.94,
+          "end": 174.718,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 174.718,
+          "end": 197.712,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 197.712,
+          "end": 221.425,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 221.425,
+          "end": 250.167,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 10
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

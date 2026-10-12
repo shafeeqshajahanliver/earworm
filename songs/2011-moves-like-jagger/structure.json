@@ -1,0 +1,83 @@
+{
+  "id": "2011-moves-like-jagger",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0179_moveslikejagger",
+      "match": {
+        "title": "Moves Like Jagger",
+        "artist": "Maroon 5 feat. Christina Aguilera",
+        "release": "Nossa! Summer Mix 2012",
+        "musicbrainz_id": "d91453b3-e3f0-4d3d-89ac-b702a7812c18",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0179_moveslikejagger.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0179_moveslikejagger.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 185.792,
+      "bpm": 127.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -16 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 14.069,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 14.069,
+          "end": 43.605,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 43.605,
+          "end": 74.076,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 74.076,
+          "end": 103.612,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 103.612,
+          "end": 135.023,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 135.023,
+          "end": 150.492,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 150.492,
+          "end": 184.716,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 18
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 186 s vs 202 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

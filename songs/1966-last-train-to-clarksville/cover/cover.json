@@ -1,0 +1,68 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "cb82435d-7a80-3952-96c8-91d8c5feb419",
+      "release_title": "Last Train to Clarksville / Take a Giant Step",
+      "release_date": "1966-08-16",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "e816b329-a0d6-302d-a649-920247e76893",
+      "release_title": "The Monkees",
+      "release_date": "1984",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Monkees",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/e0/1d/ace01d53-fbdd-bae9-96f5-a6ddacf238d3/081227767822.jpg/1200x1200bb.jpg",
+      "collection": "The Monkees (Deluxe Edition)",
+      "collection_id": 176582361,
+      "track_id": 176582846,
+      "artist_name": "The Monkees",
+      "release_date": "1966-10-10T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.47,
+        "saturation": 0.401,
+        "dark_share": 0.142,
+        "palette": [
+          {
+            "hex": "#30211d",
+            "share": 0.287
+          },
+          {
+            "hex": "#835e55",
+            "share": 0.223
+          },
+          {
+            "hex": "#673331",
+            "share": 0.218
+          },
+          {
+            "hex": "#a98e79",
+            "share": 0.16
+          },
+          {
+            "hex": "#d9be92",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

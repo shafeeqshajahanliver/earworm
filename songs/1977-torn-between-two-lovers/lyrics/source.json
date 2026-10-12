@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37284945,
+  "kind": "synced",
+  "matched": {
+    "track": "Torn Between Two Lovers",
+    "artist": "Mary MacGregor",
+    "album": "Torn Between Two Lovers / I Just Want To Love You",
+    "duration_s": 221.0
+  },
+  "duration_matched_to": "musicbrainz recording length (224s)",
+  "duration_diff_s": 3.0,
+  "reference_lengths": [
+    {
+      "seconds": 224.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 224.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 220.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37539474 (Torn Between Two Lovers / Mary MacGregor / Romancing the 70s- Lovin' You, 231.0s): duration matches no reference length",
+    "lrclib 37205762 (Torn Between Two Lovers / Mary MacGregor / Het Beste Uit De Country Jukebox Top 100 Aller Tijden (CD2), 233.0s): duration matches no reference length",
+    "lrclib 34540563 (Torn Between Two Lovers / Mary MacGregor / Those Were the Days: 30 Years of Great Folk Hits, 230.0s): duration matches no reference length",
+    "lrclib 33816694 (Torn Between Two Lovers / Mary MacGregor / Billboard Year-End Hot 100 singles of 1977, 231.0s): duration matches no reference length",
+    "lrclib 33445573 (Torn between two Lovers / Mary MacGregor / BRT Top 30 1977, 243.0s): duration matches no reference length",
+    "lrclib 36081866 (Torn Between Two Lovers / Mary MacGregor / The Music of Our Lives - CD 30, 222.0s): live/remix/other version",
+    "lrclib 19045557 (Torn Between Two Lovers / Mary MacGregor / Torn Between Two Lovers, 235.580187s): duration matches no reference length",
+    "lrclib 24101418 (Torn Between Two Lovers / Mary MacGregor / Torn Between Two Lovers, 200.0s): duration matches no reference length",
+    "lrclib 1079650 (Torn Between Two Lovers / Mary MacGregor / Torn Between Two Lovers, 231.0s): duration matches no reference length",
+    "lrclib 38152068 (Torn Between Two Lovers / Mary MacGregor / Torn Between Two Lovers, 246.0s): duration matches no reference length",
+    "lrclib 10945688 (Torn Between Two Lovers / Mary MacGregor / Just Mary, 231.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

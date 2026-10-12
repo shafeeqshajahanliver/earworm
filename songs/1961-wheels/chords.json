@@ -1,0 +1,282 @@
+{
+  "id": "1961-wheels",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "147",
+      "also_ids": [
+        "318",
+        "863"
+      ],
+      "match": {
+        "title": "Wheels",
+        "artist": "The String-A-Longs",
+        "chart_date": "1961-02-06",
+        "peak_rank": "3"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 147 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 124.082,
+      "version_check": "duration within 12 s (+6.2 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "F",
+        "tonic_pc": 5,
+        "mode": null,
+        "name": "F",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "start": 2.995,
+          "end": 18.53,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "F",
+            "C",
+            "F"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "F:maj",
+            "C:maj",
+            "F:maj",
+            "C:maj",
+            "F:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "start": 18.53,
+          "end": 33.995,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "F",
+            "C",
+            "F"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "F:maj",
+            "C:maj",
+            "F:maj",
+            "C:maj",
+            "F:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "B",
+          "normalised": "bridge",
+          "start": 33.995,
+          "end": 49.571,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "C",
+            "F",
+            "C",
+            "F",
+            "C",
+            "F",
+            "C",
+            "F"
+          ],
+          "roman": [
+            "V",
+            "I",
+            "V",
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "F:maj",
+            "C:maj",
+            "F:maj",
+            "C:maj",
+            "F:maj",
+            "C:maj",
+            "F:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "start": 49.571,
+          "end": 64.7,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "II",
+            "VI",
+            "II",
+            "VI",
+            "II"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "start": 64.7,
+          "end": 79.714,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "II",
+            "VI",
+            "II",
+            "VI",
+            "II"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "B",
+          "normalised": "bridge",
+          "start": 79.714,
+          "end": 94.866,
+          "bars": 8,
+          "key": "F",
+          "written": [
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "VI",
+            "II",
+            "VI",
+            "II",
+            "VI",
+            "II",
+            "VI",
+            "II"
+          ],
+          "raw": [
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "A'",
+          "normalised": "chorus",
+          "start": 94.866,
+          "end": 117.656,
+          "bars": 12,
+          "key": "F",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "II",
+            "VI",
+            "II",
+            "VI",
+            "II",
+            "VI",
+            "II",
+            "VI",
+            "II"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

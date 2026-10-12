@@ -1,0 +1,40 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13144833,
+  "kind": "synced",
+  "matched": {
+    "track": "The Middle",
+    "artist": "zedd feat maren morris and grey",
+    "album": "the middle WEB",
+    "duration_s": 184.764082
+  },
+  "duration_matched_to": "musicbrainz recording length (185s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 184.732,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 184.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 184.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 11,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37138653 (The Middle / Zedd, Maren Morris & Grey / NOW That's What I Call Hits & Remixes 2019, 221.0s): live/remix/other version",
+    "lrclib 37150964 (The Middle / Zedd, Maren Morris & Grey / NRJ Back to School 2018, 190.0s): duration matches no reference length",
+    "lrclib 37358934 (The Middle / ZEDD, Maren Morris & Grey / The Post COVID‐19 Mixtape: Dance Edition, 190.0s): duration matches no reference length",
+    "lrclib 36294513 (The Middle / Zedd, Maren Morris & Grey / The Middle - Single, 125.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

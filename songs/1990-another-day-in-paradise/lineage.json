@@ -1,0 +1,44 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/3930",
+    "title": "Another Day in Paradise",
+    "performer": "Phil Collins",
+    "is_original": true,
+    "first_release_date": "1989-11",
+    "releases": [
+      {
+        "title": "...But Seriously",
+        "uri": "https://api.secondhandsongs.com/release/2131",
+        "performer": "Phil Collins"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 101,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/3930",
+    "title": "Another Day in Paradise",
+    "language": "English",
+    "writers": [
+      "Phil Collins"
+    ],
+    "original_performer": "Phil Collins",
+    "versions": 102,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kaksi maailmaa",
+        "uri": "https://api.secondhandsongs.com/work/194867"
+      },
+      {
+        "title": "Yok Olmaz",
+        "uri": "https://api.secondhandsongs.com/work/353770"
+      }
+    ]
+  }
+}

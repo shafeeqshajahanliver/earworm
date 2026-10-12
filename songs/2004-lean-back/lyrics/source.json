@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 9595782,
+  "kind": "synced",
+  "matched": {
+    "track": "Lean Back",
+    "artist": "Terror Squad",
+    "album": "True Story",
+    "duration_s": 251.0
+  },
+  "duration_matched_to": "musicbrainz recording length (251s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 251.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 251.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 247.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 50,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37108308 (Lean Back / Terror Squad / RnB Superclub, Volume 6.0, 400.0s): duration matches no reference length",
+    "lrclib 37312400 (Lean Back / Terror Squad / Grandmaster R'n'b 3, 192.0s): duration matches no reference length",
+    "lrclib 34457417 (Lean Back / Terror Squad / True Story, 290.0s): duration matches no reference length",
+    "lrclib 33550128 (Lean Back / Terror Squad / Funkymix 078, 346.0s): duration matches no reference length",
+    "lrclib 36213167 (Lean Back / Terror Squad / Lean Back (NGHTMRE Remix), 247.0s): live/remix/other version",
+    "lrclib 31533703 (Lean Back / Terror Squad feat. Fat Joe & Remy / NOW That’s What I Call Music! 17, 234.0s): duration matches no reference length",
+    "lrclib 37892417 (Lean Back / Terror Squad Feat. Fat Joe & Remy / , 282.0s): duration matches no reference length",
+    "lrclib 33673894 (Lean Back / Terror Squad feat. Fat Joe, Remy Ma / True Story, 197.0s): duration matches no reference length",
+    "lrclib 18018658 (Lean Back (Clean) / Terror Squad / True Story, 262.82435s): duration matches no reference length",
+    "lrclib 38081437 (Lean Back / Terror Squad / Terror Squad, 233.0s): duration matches no reference length",
+    "lrclib 19736605 (Lean Back / Terror Squad / Lean Back, 197.7208s): duration matches no reference length",
+    "lrclib 38157883 (Lean Back (Instrumental) / Terror Squad / Lean Back, 253.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

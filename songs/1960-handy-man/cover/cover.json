@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5343f1ca-26c3-443b-a797-1a7fc947a6e0",
+      "release_title": "The Search is Over / Handy Man",
+      "release_date": "1959-12",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/53a5dea2-5719-49e8-8b6e-7cd4d6ea3f1c/37854423090-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/53a5dea2-5719-49e8-8b6e-7cd4d6ea3f1c",
+      "image_id": 37854423090,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.471,
+        "saturation": 0.104,
+        "dark_share": 0.237,
+        "palette": [
+          {
+            "hex": "#272826",
+            "share": 0.34
+          },
+          {
+            "hex": "#7a7474",
+            "share": 0.245
+          },
+          {
+            "hex": "#e0e8ed",
+            "share": 0.169
+          },
+          {
+            "hex": "#5d4142",
+            "share": 0.16
+          },
+          {
+            "hex": "#bfc1be",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/27/86/08/mzi.yjpavrwo.tif/1200x1200bb.jpg",
+      "collection": "Good Timin'",
+      "collection_id": 343133978,
+      "track_id": 343133980,
+      "artist_name": "Jimmy Jones",
+      "release_date": "1960-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.291,
+        "saturation": 0.282,
+        "dark_share": 0.618,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.561
+          },
+          {
+            "hex": "#2721a0",
+            "share": 0.185
+          },
+          {
+            "hex": "#b0ae3a",
+            "share": 0.181
+          },
+          {
+            "hex": "#000001",
+            "share": 0.045
+          },
+          {
+            "hex": "#010000",
+            "share": 0.028
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

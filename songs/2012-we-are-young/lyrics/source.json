@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21414859,
+  "kind": "synced",
+  "matched": {
+    "track": "We Are Young",
+    "artist": "Fun․ feat․ Janelle Monáe",
+    "album": "We Are Young",
+    "duration_s": 250.67102
+  },
+  "duration_matched_to": "musicbrainz recording length (251s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 250.626,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 250.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 233.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 250.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 0.966,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 38210820 (We Are Young / fun. featuring Janelle Monáe / 100 Greatest Karaoke Songs, 251.0s): live/remix/other version",
+    "lrclib 28992040 (We Are Young (Alvin Risk remix) / Fun. featuring Janelle Monáe / We Are Young (Alvin Risk remix), 250.0s): live/remix/other version",
+    "lrclib 37191987 (We Are Young / fun. / 97X Green Room, Volume 8, 282.0s): duration matches no reference length",
+    "lrclib 34796828 (We Are Young / Fun / Pop, 275.0s): duration matches no reference length",
+    "lrclib 35919549 (We Are Young / fun. / Some Nights, 200.0s): duration matches no reference length",
+    "lrclib 36015799 (We Are Young / fun. / Some Nights, 110.0s): duration matches no reference length",
+    "lrclib 35435321 (We Are Young / fun. / Some Nights, 211.0s): duration matches no reference length",
+    "lrclib 26381003 (We Are Young / Fun / We Are Young, 289.0s): duration matches no reference length",
+    "lrclib 27882252 (We Are Young (acoustic) / Fun. / We Are Young, 273.0s): live/remix/other version",
+    "lrclib 32748431 (We Are Young (Acoustic) / Fun. / We Are Young CDS, 273.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

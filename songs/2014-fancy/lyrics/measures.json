@@ -1,0 +1,41 @@
+{
+  "id": "2014-fancy",
+  "lyrics_kind": "synced",
+  "lrclib_id": 2219413,
+  "lines": 58,
+  "words": 517,
+  "unique_words": 198,
+  "type_token_ratio": 0.383,
+  "repeated_line_share": 0.224,
+  "distinct_lines": 45,
+  "zlib_compression_ratio": 0.386,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "fancy",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 47,
+    "second": 16,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.03,
+  "last_line_s": 191.57,
+  "sung_time_s": 181.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 170.8,
+  "words_per_minute_track": 155.9,
+  "longest_gap_between_lines_s": 8.27,
+  "longest_gap_starts_at_s": 125.94,
+  "first_repeated_block": {
+    "first_at_s": 37.67,
+    "recurs_at_s": 87.98,
+    "lines": [
+      "I'm so fancy, you already know",
+      "I'm in the fast lane, from L.A. to Tokyo"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 2219413",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

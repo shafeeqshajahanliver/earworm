@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1144281,
+  "kind": "synced",
+  "matched": {
+    "track": "With You",
+    "artist": "Chris Brown",
+    "album": "Exclusive",
+    "duration_s": 252.0
+  },
+  "duration_matched_to": "musicbrainz recording length (252s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 252.467,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37447562 (With You / Chris Brown / Exclusive (Bonus Track Version), 252.0s): live/remix/other version",
+    "lrclib 37246966 (With You / Chris Brown / Vol. 61 Disc 1, 260.0s): duration matches no reference length",
+    "lrclib 34498322 (With You / Chris Brown / Exclusive (Expanded Edition), Nones): duration matches no reference length",
+    "lrclib 35263316 (With You / Chris Brown / With You, 300.0s): duration matches no reference length",
+    "lrclib 19790556 (With You (Main Version) / Chris Brown / Chris Brown - With You [16Bit-44.1kHz], 552.96s): live/remix/other version",
+    "lrclib 38065059 (With You (Main Version) / Chris Brown / Chris Brown - Essentials, 252.0s): live/remix/other version",
+    "lrclib 21485160 (With You / Chris Brown / The Best of Chris Brown, 211.335958s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

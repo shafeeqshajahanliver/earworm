@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1869387,
+  "kind": "synced",
+  "matched": {
+    "track": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber",
+    "album": "F*CK LOVE 3: OVER YOU",
+    "duration_s": 142.0
+  },
+  "duration_matched_to": "musicbrainz recording length (142s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 141.806,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 140.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 141.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 12,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33889757 (Stay / The Kid Laroi and Justin Bieber / YouTube Search - The Kid Laroi and Justin Bieber Stay, 158.0s): duration matches no reference length",
+    "lrclib 38359165 (STAY / The Kid LAROI and Justin Bieber / STAY, 11.0s): duration matches no reference length",
+    "lrclib 38359171 (STAY / The Kid LAROI and Justin Bieber / STAY, 19.0s): duration matches no reference length",
+    "lrclib 38359173 (STAY / The Kid LAROI and Justin Bieber / STAY, 25.0s): duration matches no reference length",
+    "lrclib 38359174 (STAY / The Kid LAROI and Justin Bieber / STAY, 37.0s): duration matches no reference length",
+    "lrclib 38359197 (STAY / The Kid LAROI and Justin Bieber / STAY, 98.0s): duration matches no reference length",
+    "lrclib 38369659 (STAY / The Kid LAROI and Justin Bieber / STAY, 51.0s): duration matches no reference length",
+    "lrclib 38369661 (STAY / The Kid LAROI and Justin Bieber / STAY, 60.0s): duration matches no reference length",
+    "lrclib 38369669 (STAY / The Kid LAROI and Justin Bieber / STAY, 90.0s): duration matches no reference length",
+    "lrclib 38369671 (STAY / The Kid LAROI and Justin Bieber / STAY, 95.0s): duration matches no reference length",
+    "lrclib 38369676 (STAY / The Kid LAROI and Justin Bieber / STAY, 113.0s): duration matches no reference length",
+    "lrclib 38369684 (STAY / The Kid LAROI and Justin Bieber / STAY, 125.0s): duration matches no reference length",
+    "lrclib 38369685 (STAY / The Kid LAROI and Justin Bieber / STAY, 129.0s): duration matches no reference length",
+    "lrclib 35962259 (STAY / The Kid LAROI & Justin Bieber / STAY, 70.0s): duration matches no reference length",
+    "lrclib 35923897 (STAY / The Kid LAROI & Justin Bieber / STAY, 80.0s): duration matches no reference length",
+    "lrclib 35962273 (STAY / The Kid LAROI & Justin Bieber / STAY, 100.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

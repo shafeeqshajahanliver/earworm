@@ -1,0 +1,75 @@
+{
+  "id": "2013-when-i-was-your-man",
+  "preview": {
+    "service": "deezer",
+    "track_id": 62724009,
+    "matched_by": "isrc",
+    "isrc": "USAT21206701",
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "album": "Unorthodox Jukebox",
+    "track_duration_s": 213,
+    "link": "https://www.deezer.com/track/62724009",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 73.2,
+    "tempo_bpm_grid": 73.3,
+    "tempo_candidates_bpm": [
+      73.8,
+      143.6,
+      152.0
+    ],
+    "beats_detected": 33,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.892,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.741,
+    "chroma_profile": [
+      0.804,
+      0.299,
+      0.634,
+      0.343,
+      0.67,
+      0.64,
+      0.37,
+      1.0,
+      0.365,
+      0.754,
+      0.292,
+      0.424
+    ],
+    "rms_dbfs": -10.84,
+    "rms_dbfs_p95_frame": -7.29,
+    "peak_dbfs": -0.08,
+    "loudness_lufs_approx": -10.16,
+    "spectral_centroid_hz_mean": 1772.1,
+    "spectral_centroid_hz_median": 1636.8,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 62724009",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 146.1,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/62724009",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (146.1): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAT21206698: matched but no preview available (readable=False)",
+    "deezer isrc USAT21207280: matched but no preview available (readable=False)"
+  ]
+}

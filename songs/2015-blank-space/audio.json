@@ -1,0 +1,70 @@
+{
+  "id": "2015-blank-space",
+  "preview": {
+    "service": "deezer",
+    "track_id": 550269942,
+    "matched_by": "isrc",
+    "isrc": "USCJY1431309",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "track_duration_s": 232,
+    "link": "https://www.deezer.com/track/550269942",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 96.1,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      95.7,
+      47.9,
+      198.8
+    ],
+    "beats_detected": 48,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.688,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.536,
+    "chroma_profile": [
+      0.514,
+      0.482,
+      0.861,
+      0.709,
+      0.649,
+      0.903,
+      0.697,
+      1.0,
+      0.686,
+      0.714,
+      0.703,
+      0.464
+    ],
+    "rms_dbfs": -7.67,
+    "rms_dbfs_p95_frame": -3.17,
+    "peak_dbfs": 1.73,
+    "loudness_lufs_approx": -7.94,
+    "spectral_centroid_hz_mean": 2711.3,
+    "spectral_centroid_hz_median": 2594.4,
+    "onsets": 115,
+    "onset_density_per_s": 3.835,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 550269942",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95.93,
+    "gain": -8.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/550269942",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

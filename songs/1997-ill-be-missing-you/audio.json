@@ -1,0 +1,69 @@
+{
+  "id": "1997-ill-be-missing-you",
+  "preview": {
+    "service": "itunes",
+    "track_id": 80969486,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "I'll Be Missing You (feat. Faith Evans, 112)",
+    "artist": "Puff Daddy & Faith Evans",
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "track_duration_s": 301.5,
+    "link": "https://music.apple.com/us/album/ill-be-missing-you-feat-faith-evans-112/80969514?i=80969486&uo=4",
+    "duration_matched_to": "wikipedia infobox length (301s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 109.9,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      55.0,
+      112.3,
+      107.7
+    ],
+    "beats_detected": 54,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.912,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.596,
+    "chroma_profile": [
+      0.7,
+      0.563,
+      0.814,
+      0.576,
+      0.651,
+      0.579,
+      0.705,
+      1.0,
+      0.683,
+      0.683,
+      0.625,
+      0.753
+    ],
+    "rms_dbfs": -12.44,
+    "rms_dbfs_p95_frame": -7.14,
+    "peak_dbfs": 0.51,
+    "loudness_lufs_approx": -12.85,
+    "spectral_centroid_hz_mean": 2020.4,
+    "spectral_centroid_hz_median": 2005.5,
+    "onsets": 109,
+    "onset_density_per_s": 3.636,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 80969486",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "itunes 906589235: duration 307s matches no reference length",
+    "itunes 1145520969: duration 307s matches no reference length",
+    "itunes 908175784: version (I'll Be Missing You (feat. 112))",
+    "itunes 908175787: version (I'll Be Missing You (Instrumental) [feat. 112])"
+  ]
+}

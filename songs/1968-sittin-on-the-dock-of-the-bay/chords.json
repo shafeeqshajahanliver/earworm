@@ -1,0 +1,966 @@
+{
+  "id": "1968-sittin-on-the-dock-of-the-bay",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "645",
+      "also_ids": [],
+      "match": {
+        "title": "(Sittin' On) The Dock Of The Bay",
+        "artist": "Otis Redding",
+        "chart_date": "1968-03-23",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 645 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 164.78,
+      "version_check": "duration within 12 s (+2.4 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.232,
+          "end": 9.465,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "G"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "G:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 9.465,
+          "end": 28.022,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw": [
+            "G:maj",
+            "B:maj",
+            "C:maj",
+            "A:maj",
+            "G:maj",
+            "B:maj",
+            "C:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 28.022,
+          "end": 46.517,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw": [
+            "G:maj",
+            "E:min(9)",
+            "G:maj",
+            "E:min(9)",
+            "G:maj",
+            "A:maj",
+            "G:maj",
+            "E:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 46.517,
+          "end": 65.277,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw": [
+            "G:maj",
+            "B:maj",
+            "C:maj",
+            "A:maj",
+            "G:maj",
+            "B:maj",
+            "C:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 65.277,
+          "end": 83.905,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw": [
+            "G:maj",
+            "E:min(9)",
+            "G:maj",
+            "E:min(9)",
+            "G:maj",
+            "A:maj",
+            "G:maj",
+            "E:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "start": 83.905,
+          "end": 102.486,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "C",
+            "G",
+            "D",
+            "C",
+            "G",
+            "D",
+            "C",
+            "G",
+            "F",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "IV",
+            "I",
+            "V",
+            "IV",
+            "I",
+            "V",
+            "IV",
+            "I",
+            "bVII",
+            "V"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "C:maj",
+            "G:maj",
+            "D:maj",
+            "C:maj",
+            "G:maj",
+            "D:maj",
+            "C:maj",
+            "G:maj",
+            "F:maj",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 102.486,
+          "end": 121.096,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw": [
+            "G:maj",
+            "B:maj",
+            "C:maj",
+            "A:maj",
+            "G:maj",
+            "B:maj",
+            "C:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 121.096,
+          "end": 139.613,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw": [
+            "G:maj",
+            "E:min(9)",
+            "G:maj",
+            "E:min(9)",
+            "G:maj",
+            "A:maj",
+            "G:maj",
+            "E:maj"
+          ]
+        },
+        {
+          "label": "outro",
+          "letter": "A'",
+          "normalised": "outro",
+          "start": 139.613,
+          "end": 148.89,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "G",
+            "Em"
+          ],
+          "roman": [
+            "I",
+            "vi"
+          ],
+          "raw": [
+            "G:maj",
+            "E:min"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "start": 148.89,
+          "end": 159.359,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "G",
+            "Em"
+          ],
+          "roman": [
+            "I",
+            "vi"
+          ],
+          "raw": [
+            "G:maj",
+            "E:min"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "the_dock_of_the_bay_dt",
+      "match": {
+        "title": "(Sittin' on) the Dock of the Bay",
+        "artist": "Otis Redding",
+        "year": "1968",
+        "rs500_rank": "28",
+        "audio_used": {
+          "artist": "Otis Redding",
+          "album": "The Very Best of Otis Redding, Vol. 1",
+          "publication": "Rhino 1992"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, the_dock_of_the_bay_dt.har/.clt + the_dock_of_the_bay.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 149 s; our recording 162 s; audio taken from compilation 'The Very Best of Otis Redding, Vol. 1'",
+      "parse_check": "expanded 64 bars; timed chord list ends in bar 63",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.299,
+          "end": 9.505,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "G"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I | | | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 9.505,
+          "end": 27.991,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw_rule": "$VP $VP"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 27.991,
+          "end": 46.456,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw_rule": "I | vi | I | vi | I | II | I | VI |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 46.456,
+          "end": 65.198,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw_rule": "$VP $VP"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 65.198,
+          "end": 83.806,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw_rule": "I | vi | I | vi | I | II | I | VI |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 83.806,
+          "end": 102.403,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "C",
+            "G",
+            "D",
+            "C",
+            "G",
+            "D",
+            "C",
+            "G",
+            "F",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "IV",
+            "I",
+            "V",
+            "IV",
+            "I",
+            "V",
+            "IV",
+            "I",
+            "bVII",
+            "V"
+          ],
+          "raw_rule": "I V | IV | I V | IV | I V | IV I | bVII | V |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 102.403,
+          "end": 120.95,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw_rule": "$VP $VP"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 120.95,
+          "end": 139.52,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw_rule": "I | vi | I | vi | I | II | I | VI |"
+        },
+        {
+          "label": "Fadeout",
+          "normalised": "outro",
+          "start": 139.52,
+          "end": 148.788,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "G",
+            "Em"
+          ],
+          "roman": [
+            "I",
+            "vi"
+          ],
+          "raw_rule": "I | | | vi |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "the_dock_of_the_bay_tdc",
+      "match": {
+        "title": "(Sittin' on) the Dock of the Bay",
+        "artist": "Otis Redding",
+        "year": "1968",
+        "rs500_rank": "28",
+        "audio_used": {
+          "artist": "Otis Redding",
+          "album": "The Very Best of Otis Redding, Vol. 1",
+          "publication": "Rhino 1992"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, the_dock_of_the_bay_tdc.har/.clt + the_dock_of_the_bay.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 149 s; our recording 162 s; audio taken from compilation 'The Very Best of Otis Redding, Vol. 1'",
+      "parse_check": "expanded 64 bars; timed chord list ends in bar 63",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.299,
+          "end": 9.505,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "G"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I | | | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 9.505,
+          "end": 27.991,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 27.991,
+          "end": 46.456,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "E",
+            "G",
+            "E",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "VI",
+            "I",
+            "VI",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw_rule": "I | VI | I | VI | I | II | I | VI |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 46.456,
+          "end": 65.198,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 65.198,
+          "end": 83.806,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "E",
+            "G",
+            "E",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "VI",
+            "I",
+            "VI",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw_rule": "I | VI | I | VI | I | II | I | VI |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 83.806,
+          "end": 102.403,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "C",
+            "G",
+            "D",
+            "C",
+            "G",
+            "D",
+            "C",
+            "G",
+            "F",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "IV",
+            "I",
+            "V",
+            "IV",
+            "I",
+            "V",
+            "IV",
+            "I",
+            "bVII",
+            "V"
+          ],
+          "raw_rule": "I V | IV | I V | IV | I V | IV I | bVII | V |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 102.403,
+          "end": 120.95,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "B",
+            "C",
+            "A",
+            "G",
+            "B",
+            "C",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "III",
+            "IV",
+            "II",
+            "I",
+            "III",
+            "IV",
+            "II"
+          ],
+          "raw_rule": "$A*2"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 120.95,
+          "end": 139.52,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "E",
+            "G",
+            "E",
+            "G",
+            "A",
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "VI",
+            "I",
+            "VI",
+            "I",
+            "II",
+            "I",
+            "VI"
+          ],
+          "raw_rule": "I | VI | I | VI | I | II | I | VI |"
+        },
+        {
+          "label": "Ou",
+          "normalised": "outro",
+          "start": 139.52,
+          "end": 148.788,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "G",
+            "E"
+          ],
+          "roman": [
+            "I",
+            "VI"
+          ],
+          "raw_rule": "$B"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "mcgill_billboard": "G",
+      "rolling_stone_dt": "G",
+      "rolling_stone_tdc": "G"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "mcgill_billboard",
+        "other": "rolling_stone_dt",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      },
+      {
+        "reference": "mcgill_billboard",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

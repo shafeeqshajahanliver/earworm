@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "27440999-2c23-360d-9ddf-9e4294f4285f",
+      "release_title": "The World We Knew",
+      "release_date": "1994-07-31",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The World We Knew",
+      "url": "https://coverartarchive.org/release/dabb9500-e8b5-4d90-a475-4e714885da56/40572708669-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/dabb9500-e8b5-4d90-a475-4e714885da56",
+      "image_id": 40572708669,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        599,
+        597
+      ],
+      "measures": {
+        "brightness": 0.457,
+        "saturation": 0.465,
+        "dark_share": 0.247,
+        "palette": [
+          {
+            "hex": "#262d43",
+            "share": 0.355
+          },
+          {
+            "hex": "#101622",
+            "share": 0.258
+          },
+          {
+            "hex": "#dbb478",
+            "share": 0.172
+          },
+          {
+            "hex": "#f3ce92",
+            "share": 0.135
+          },
+          {
+            "hex": "#645a66",
+            "share": 0.081
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ef/bd/64/efbd64ab-6a7c-80e0-ca85-02fb0d282720/00602537570713.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The World We Knew",
+      "collection_id": 1443454169,
+      "track_id": 1443454173,
+      "artist_name": "Frank Sinatra & Nancy Sinatra",
+      "release_date": "1967-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.596,
+        "saturation": 0.674,
+        "dark_share": 0.08,
+        "palette": [
+          {
+            "hex": "#ab803b",
+            "share": 0.477
+          },
+          {
+            "hex": "#a97f3a",
+            "share": 0.343
+          },
+          {
+            "hex": "#5d411c",
+            "share": 0.153
+          },
+          {
+            "hex": "#b48d4e",
+            "share": 0.02
+          },
+          {
+            "hex": "#aa803b",
+            "share": 0.008
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

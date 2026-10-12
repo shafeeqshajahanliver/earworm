@@ -1,0 +1,110 @@
+{
+  "id": "2011-just-cant-get-enough",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0426_justcantgetenough",
+      "match": {
+        "title": "Just Can't Get Enough",
+        "artist": "The Black Eyed Peas",
+        "release": "NOW That's What I Call R&B",
+        "musicbrainz_id": "6204119d-ea38-4d8f-be8f-44afb2f59786",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0426_justcantgetenough.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0426_justcantgetenough.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 219.545,
+      "bpm": 94.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.069,
+          "end": 19.204,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 19.204,
+          "end": 30.694,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 30.694,
+          "end": 51.119,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 51.119,
+          "end": 71.545,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 71.545,
+          "end": 90.694,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 90.694,
+          "end": 102.183,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 102.183,
+          "end": 132.821,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 132.821,
+          "end": 143.034,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 143.034,
+          "end": 166.013,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 166.013,
+          "end": 211.013,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 24
+        },
+        {
+          "start": 211.013,
+          "end": 218.513,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

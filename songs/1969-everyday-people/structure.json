@@ -1,0 +1,163 @@
+{
+  "id": "1969-everyday-people",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "everyday_people_dt",
+      "match": {
+        "title": "Everyday People",
+        "artist": "Sly and the Family Stone",
+        "year": "1968",
+        "rs500_rank": "145",
+        "audio_used": {
+          "artist": "Sly and the Family Stone",
+          "album": "Anthology",
+          "publication": "Epic 1981"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, everyday_people_dt.har/.clt + everyday_people.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 138 s; our recording 142 s",
+      "parse_check": "expanded 65 bars; timed chord list ends in bar 63",
+      "sections": [
+        {
+          "start": 0.247,
+          "end": 8.735,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 8.735,
+          "end": 25.554,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 8
+        },
+        {
+          "start": 25.554,
+          "end": 59.162,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 12,
+          "bars": 16
+        },
+        {
+          "start": 59.162,
+          "end": 75.868,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 28,
+          "bars": 8
+        },
+        {
+          "start": 75.868,
+          "end": 126.273,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 36,
+          "bars": 24
+        },
+        {
+          "start": 126.273,
+          "end": 134.546,
+          "label": "BP",
+          "normalised": "other",
+          "first_bar": 60,
+          "bars": 4
+        },
+        {
+          "start": 134.546,
+          "end": 138.423,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 64,
+          "bars": 1
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "everyday_people_tdc",
+      "match": {
+        "title": "Everyday People",
+        "artist": "Sly and the Family Stone",
+        "year": "1968",
+        "rs500_rank": "145",
+        "audio_used": {
+          "artist": "Sly and the Family Stone",
+          "album": "Anthology",
+          "publication": "Epic 1981"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, everyday_people_tdc.har/.clt + everyday_people.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 138 s; our recording 142 s",
+      "parse_check": "expanded 65 bars; timed chord list ends in bar 63",
+      "sections": [
+        {
+          "start": 0.247,
+          "end": 134.546,
+          "label": "A",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 64
+        },
+        {
+          "start": 134.546,
+          "end": 138.423,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 64,
+          "bars": 1
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse chorus verse chorus",
+      "rolling_stone_tdc": ""
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.0
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

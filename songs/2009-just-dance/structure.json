@@ -1,0 +1,220 @@
+{
+  "id": "2009-just-dance",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0150_justdance",
+      "match": {
+        "title": "Just Dance",
+        "artist": "Lady Gaga",
+        "release": "Promo Only: Mainstream Radio, October 2008",
+        "musicbrainz_id": "01372277-c972-4438-9857-44187acf2f66",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0150_justdance.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0150_justdance.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 139.28,
+      "bpm": 119.0,
+      "time_signature": "4/4",
+      "version_check": "duration not comparable (missing length)",
+      "sections": [
+        {
+          "start": 4.034,
+          "end": 20.168,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 20.168,
+          "end": 36.303,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 36.303,
+          "end": 51.933,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 51.933,
+          "end": 68.571,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 68.571,
+          "end": 92.773,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 12
+        },
+        {
+          "start": 92.773,
+          "end": 108.403,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 108.403,
+          "end": 133.109,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0766_justdance",
+      "match": {
+        "title": "Just Dance",
+        "artist": "Lady Gaga",
+        "release": "Now That's What I Call Music! 30",
+        "musicbrainz_id": "0810268f-2e52-4f89-86be-42762ea3f6d4",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0766_justdance.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0766_justdance.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 240.278,
+      "bpm": 119.0,
+      "time_signature": "4/4",
+      "version_check": "duration not comparable (missing length)",
+      "sections": [
+        {
+          "start": 0.083,
+          "end": 7.646,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.646,
+          "end": 16.218,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 16.218,
+          "end": 32.352,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 32.352,
+          "end": 47.983,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 47.983,
+          "end": 66.638,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 66.638,
+          "end": 82.772,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 82.772,
+          "end": 98.403,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 98.403,
+          "end": 115.041,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 115.041,
+          "end": 146.806,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 16
+        },
+        {
+          "start": 146.806,
+          "end": 171.512,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 171.512,
+          "end": 179.579,
+          "label": "breakdown",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 179.579,
+          "end": 195.714,
+          "label": "bridge2",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 195.714,
+          "end": 211.344,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 211.344,
+          "end": 236.05,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro prechorus verse prechorus chorus verse prechorus chorus bridge chorus bridge verse chorus"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

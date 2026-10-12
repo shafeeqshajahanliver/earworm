@@ -1,0 +1,78 @@
+{
+  "id": "2023-anti-hero",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1976903157,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUG12205736",
+    "title": "Anti-Hero",
+    "artist": "Taylor Swift",
+    "album": "Midnights",
+    "track_duration_s": 200,
+    "link": "https://www.deezer.com/track/1976903157",
+    "duration_matched_to": "wikipedia infobox length (200s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 97.9,
+    "tempo_bpm_grid": 96.6,
+    "tempo_candidates_bpm": [
+      198.8,
+      95.7,
+      64.6
+    ],
+    "beats_detected": 50,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.8,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.76,
+    "chroma_profile": [
+      0.455,
+      1.0,
+      0.48,
+      0.5,
+      0.928,
+      0.52,
+      0.649,
+      0.487,
+      0.59,
+      0.753,
+      0.517,
+      0.928
+    ],
+    "rms_dbfs": -7.36,
+    "rms_dbfs_p95_frame": -4.55,
+    "peak_dbfs": 0.65,
+    "loudness_lufs_approx": -8.28,
+    "spectral_centroid_hz_mean": 2088.9,
+    "spectral_centroid_hz_median": 1937.6,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1976903157",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1976903157",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2035609347: version (Anti-Hero (Acoustic Version))",
+    "deezer 2010957157: version (Anti-Hero (Kungs Remix))",
+    "deezer 2006112637: duration 228s matches no reference length",
+    "deezer 2010957147: version (Anti-Hero (Roosevelt Remix))",
+    "deezer 2022270587: version (Anti-Hero (ILLENIUM Remix))",
+    "deezer 2010957167: version (Anti-Hero (Jayda G Remix))"
+  ]
+}

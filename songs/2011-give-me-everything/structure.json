@@ -1,0 +1,218 @@
+{
+  "id": "2011-give-me-everything",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0114_givemeeverything",
+      "match": {
+        "title": "Give Me Everything",
+        "artist": "Pitbull",
+        "release": "More Music 2011",
+        "musicbrainz_id": "9a003e6f-ca42-3b57-92b8-2ac3d940227a",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0114_givemeeverything.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0114_givemeeverything.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 163.909,
+      "bpm": 129.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -90 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 5.581,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 3
+        },
+        {
+          "start": 5.581,
+          "end": 22.326,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 22.326,
+          "end": 44.651,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 44.651,
+          "end": 59.07,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 59.07,
+          "end": 87.442,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 15
+        },
+        {
+          "start": 87.442,
+          "end": 104.186,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 104.186,
+          "end": 126.046,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 126.046,
+          "end": 141.395,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 141.395,
+          "end": 156.279,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 164 s vs 254 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0690_givemeeverything",
+      "match": {
+        "title": "Give Me Everything",
+        "artist": "Pitbull feat. Ne-Yo, Afrojack & Nayer",
+        "release": "Pump It Up: The Ultimate Dance Workout",
+        "musicbrainz_id": "2edcede8-3f7b-4c40-a14e-acfc14d727d9",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0690_givemeeverything.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0690_givemeeverything.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 225.323,
+      "bpm": 128.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -29 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.055,
+          "end": 15.06,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 15.06,
+          "end": 43.185,
+          "label": "altchorus",
+          "normalised": "other",
+          "bars": 15
+        },
+        {
+          "start": 43.185,
+          "end": 60.06,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 60.06,
+          "end": 82.56,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 82.56,
+          "end": 97.56,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 97.56,
+          "end": 125.685,
+          "label": "altchorus",
+          "normalised": "other",
+          "bars": 15
+        },
+        {
+          "start": 125.685,
+          "end": 142.56,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 142.56,
+          "end": 165.06,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 165.06,
+          "end": 180.06,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 180.06,
+          "end": 208.185,
+          "label": "altchorus",
+          "normalised": "other",
+          "bars": 15
+        },
+        {
+          "start": 208.185,
+          "end": 225.06,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 225 s vs 254 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro chorus verse prechorus chorus verse prechorus chorus"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "unknown"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [
+      "harmonix: annotated audio is 164 s vs 254 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "harmonix: annotated audio is 225 s vs 254 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "0a02cd8b-efe1-4d55-87b2-4e29e32273eb",
+      "release_title": "Surfin' USA / Shut Down",
+      "release_date": "1963",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/c3d978be-d141-4e96-8e94-311679b96d80/18989407088-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/c3d978be-d141-4e96-8e94-311679b96d80",
+      "image_id": 18989407088,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.695,
+        "saturation": 0.206,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#867a7c",
+            "share": 0.31
+          },
+          {
+            "hex": "#5b4949",
+            "share": 0.231
+          },
+          {
+            "hex": "#fcf7ea",
+            "share": 0.178
+          },
+          {
+            "hex": "#c3c1ab",
+            "share": 0.141
+          },
+          {
+            "hex": "#fefcf1",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9a7228ff-f6f9-3d90-a39b-65a2f1dabade",
+      "release_title": "Surfin’ USA",
+      "release_date": "1963-03-25",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Surfin' U.S.A.",
+      "url": "http://coverartarchive.org/release/62c11d20-01ac-44dd-ac49-bed482d2711f/10713167122-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/62c11d20-01ac-44dd-ac49-bed482d2711f",
+      "image_id": "10713167122",
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        498
+      ],
+      "measures": {
+        "brightness": 0.619,
+        "saturation": 0.362,
+        "dark_share": 0.051,
+        "palette": [
+          {
+            "hex": "#73abc3",
+            "share": 0.258
+          },
+          {
+            "hex": "#303f4c",
+            "share": 0.241
+          },
+          {
+            "hex": "#3c6c87",
+            "share": 0.235
+          },
+          {
+            "hex": "#adc8cd",
+            "share": 0.144
+          },
+          {
+            "hex": "#e6eed1",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/91/67/dc91671c-54a9-333a-b57d-b1fd658095fb/15UMGIM27157.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Surfin' USA (Mono & Stereo)",
+      "collection_id": 1443212970,
+      "track_id": 1443213335,
+      "artist_name": "The Beach Boys",
+      "release_date": "1963-03-04T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.574,
+        "saturation": 0.395,
+        "dark_share": 0.109,
+        "palette": [
+          {
+            "hex": "#739ebd",
+            "share": 0.288
+          },
+          {
+            "hex": "#1a2935",
+            "share": 0.259
+          },
+          {
+            "hex": "#375976",
+            "share": 0.203
+          },
+          {
+            "hex": "#a5becd",
+            "share": 0.131
+          },
+          {
+            "hex": "#e6eace",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

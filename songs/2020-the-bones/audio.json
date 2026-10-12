@@ -1,0 +1,70 @@
+{
+  "id": "2020-the-bones",
+  "preview": {
+    "service": "deezer",
+    "track_id": 641672792,
+    "matched_by": "isrc",
+    "isrc": "USG4X1800054",
+    "title": "The Bones",
+    "artist": "Maren Morris",
+    "album": "GIRL",
+    "track_duration_s": 197,
+    "link": "https://www.deezer.com/track/641672792",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 153.9,
+    "tempo_bpm_grid": 154.3,
+    "tempo_candidates_bpm": [
+      152.0,
+      76.0,
+      51.7
+    ],
+    "beats_detected": 77,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.894,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.684,
+    "chroma_profile": [
+      0.488,
+      0.717,
+      1.0,
+      0.641,
+      0.694,
+      0.446,
+      0.771,
+      0.877,
+      0.645,
+      0.902,
+      0.479,
+      0.817
+    ],
+    "rms_dbfs": -9.23,
+    "rms_dbfs_p95_frame": -5.47,
+    "peak_dbfs": 1.37,
+    "loudness_lufs_approx": -9.65,
+    "spectral_centroid_hz_mean": 1774.6,
+    "spectral_centroid_hz_median": 1740.5,
+    "onsets": 85,
+    "onset_density_per_s": 2.834,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 641672792",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 153.69,
+    "gain": -9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/641672792",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

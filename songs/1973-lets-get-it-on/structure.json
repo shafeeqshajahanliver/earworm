@@ -1,0 +1,240 @@
+{
+  "id": "1973-lets-get-it-on",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "lets_get_it_on_dt",
+      "match": {
+        "title": "Let's Get It On",
+        "artist": "Marvin Gaye",
+        "year": "1973",
+        "rs500_rank": "167",
+        "audio_used": {
+          "artist": "Marvin Gaye",
+          "album": "Let's Get It On",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, lets_get_it_on_dt.har/.clt + lets_get_it_on.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 288 s; our recording 241 s",
+      "parse_check": "expanded 100 bars; timed chord list ends in bar 99",
+      "version_note": "annotated audio runs to 288 s vs 241 s for our recording (Let's Get It On): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 1.994,
+          "end": 25.522,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 25.522,
+          "end": 48.633,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 48.633,
+          "end": 71.665,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 8
+        },
+        {
+          "start": 71.665,
+          "end": 94.596,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 94.596,
+          "end": 140.113,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 32,
+          "bars": 16
+        },
+        {
+          "start": 140.113,
+          "end": 162.949,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 162.949,
+          "end": 185.769,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 8
+        },
+        {
+          "start": 185.769,
+          "end": 231.162,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 64,
+          "bars": 16
+        },
+        {
+          "start": 231.162,
+          "end": 254.113,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 80,
+          "bars": 8
+        },
+        {
+          "start": 254.113,
+          "end": 288.202,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 88,
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "lets_get_it_on_tdc",
+      "match": {
+        "title": "Let's Get It On",
+        "artist": "Marvin Gaye",
+        "year": "1973",
+        "rs500_rank": "167",
+        "audio_used": {
+          "artist": "Marvin Gaye",
+          "album": "Let's Get It On",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, lets_get_it_on_tdc.har/.clt + lets_get_it_on.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 288 s; our recording 241 s",
+      "parse_check": "expanded 100 bars; timed chord list ends in bar 99",
+      "version_note": "annotated audio runs to 288 s vs 241 s for our recording (Let's Get It On): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 1.994,
+          "end": 25.522,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 25.522,
+          "end": 48.633,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 48.633,
+          "end": 94.596,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 16
+        },
+        {
+          "start": 94.596,
+          "end": 140.113,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 32,
+          "bars": 16
+        },
+        {
+          "start": 140.113,
+          "end": 185.769,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 48,
+          "bars": 16
+        },
+        {
+          "start": 185.769,
+          "end": 231.162,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 64,
+          "bars": 16
+        },
+        {
+          "start": 231.162,
+          "end": 254.113,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 80,
+          "bars": 8
+        },
+        {
+          "start": 254.113,
+          "end": 288.202,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 88,
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "verse chorus verse bridge chorus bridge chorus outro",
+      "rolling_stone_tdc": "verse chorus verse bridge chorus bridge chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      }
+    ],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [
+      "rolling_stone_dt: annotated audio runs to 288 s vs 241 s for our recording (Let's Get It On): a different version; section times do not line up with the charting recording",
+      "rolling_stone_tdc: annotated audio runs to 288 s vs 241 s for our recording (Let's Get It On): a different version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

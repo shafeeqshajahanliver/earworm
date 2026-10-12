@@ -1,0 +1,111 @@
+{
+  "id": "1974-dancing-machine",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0633_dancingmachine",
+      "match": {
+        "title": "Dancing Machine (Polow remix)",
+        "artist": "The Jackson 5",
+        "release": "Now That's What I Call Club Hits",
+        "musicbrainz_id": "96ba73c4-d68b-4323-a4e9-077e71db6270",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0633_dancingmachine.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0633_dancingmachine.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 194.891,
+      "bpm": 116.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +46 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.143,
+          "end": 26.97,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 12
+        },
+        {
+          "start": 26.97,
+          "end": 43.522,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 43.522,
+          "end": 51.798,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 51.798,
+          "end": 68.35,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 68.35,
+          "end": 84.901,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 84.901,
+          "end": 101.453,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 101.453,
+          "end": 118.005,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 118.005,
+          "end": 134.557,
+          "label": "bridge2",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 134.557,
+          "end": 151.108,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 151.108,
+          "end": 167.66,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 167.66,
+          "end": 191.97,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 195 s vs 149 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

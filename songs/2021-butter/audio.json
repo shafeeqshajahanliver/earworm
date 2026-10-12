@@ -1,0 +1,70 @@
+{
+  "id": "2021-butter",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1576169062,
+    "matched_by": "isrc",
+    "isrc": "QM6MZ2156864",
+    "title": "Butter",
+    "artist": "BTS",
+    "album": "Butter (Hotter, Sweeter, Cooler)",
+    "track_duration_s": 164,
+    "link": "https://www.deezer.com/track/1576169062",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 109.7,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      112.3,
+      107.7,
+      55.0
+    ],
+    "beats_detected": 44,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.741,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.509,
+    "chroma_profile": [
+      0.658,
+      0.744,
+      0.667,
+      0.931,
+      0.697,
+      0.77,
+      0.733,
+      0.721,
+      1.0,
+      0.634,
+      0.53,
+      0.462
+    ],
+    "rms_dbfs": -8.25,
+    "rms_dbfs_p95_frame": -3.78,
+    "peak_dbfs": 1.36,
+    "loudness_lufs_approx": -9.35,
+    "spectral_centroid_hz_mean": 2987.7,
+    "spectral_centroid_hz_median": 2863.7,
+    "onsets": 99,
+    "onset_density_per_s": 3.301,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1576169062",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1576169062",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

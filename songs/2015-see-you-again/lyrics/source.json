@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18015266,
+  "kind": "synced",
+  "matched": {
+    "track": "See You Again (From 'furious 7')",
+    "artist": "Wiz Khalifa Featuring Charlie Puth",
+    "album": "Now That's What I Call Music! 91",
+    "duration_s": 229.575692
+  },
+  "duration_matched_to": "musicbrainz recording length (230s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 229.525,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 229.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 230.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 58,
+  "agreement_with_other_candidates": 0.896,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 32599512 (See You Again / Wiz Khalifa featuring Charlie Puth / Nine Track Mind, 237.0s): duration matches no reference length",
+    "lrclib 33570333 (See You Again / Wiz Khalifa (feat. Charlie Puth) / Furious 7 OST, 237.0s): duration matches no reference length",
+    "lrclib 34637587 (See You Again / Wiz Khalifa / 6,9 M x ditonton, 237.0s): duration matches no reference length",
+    "lrclib 34739400 (See You Again / Wiz Khalifa / Most Wanted, Vol. 2, 237.0s): duration matches no reference length",
+    "lrclib 34773745 (See You Again / Wiz Khalifa / Wiz Khalifa - See You Again, 237.0s): duration matches no reference length",
+    "lrclib 19931992 (See You Again / Wiz Khalifa / See You Again, 237.408s): duration matches no reference length",
+    "lrclib 6560868 (See You Again / Wiz Khalifa / Wiz Khalifa, 237.0s): duration matches no reference length",
+    "lrclib 9484454 (See You Again / Wiz Khalifa / Wiz Khalifa Videos, 238.0s): duration matches no reference length",
+    "lrclib 35596963 (See You Again (feat. Charlie Puth) / Wiz Khalifa / Wiz Khalifa, 237.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

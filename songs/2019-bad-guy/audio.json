@@ -1,0 +1,70 @@
+{
+  "id": "2019-bad-guy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 655095912,
+    "matched_by": "isrc",
+    "isrc": "USUM71900764",
+    "title": "bad guy",
+    "artist": "Billie Eilish",
+    "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "track_duration_s": 194,
+    "link": "https://www.deezer.com/track/655095912",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 136.4,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      89.1
+    ],
+    "beats_detected": 68,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.71,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.671,
+    "chroma_profile": [
+      0.996,
+      0.821,
+      1.0,
+      0.821,
+      0.924,
+      0.816,
+      0.71,
+      0.978,
+      0.709,
+      0.744,
+      0.858,
+      0.846
+    ],
+    "rms_dbfs": -7.33,
+    "rms_dbfs_p95_frame": -2.57,
+    "peak_dbfs": 0.53,
+    "loudness_lufs_approx": -8.46,
+    "spectral_centroid_hz_mean": 1768.0,
+    "spectral_centroid_hz_median": 1600.4,
+    "onsets": 143,
+    "onset_density_per_s": 4.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 655095912",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 135.11,
+    "gain": -8.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/655095912",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

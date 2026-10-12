@@ -1,0 +1,37 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22750859,
+  "kind": "synced",
+  "matched": {
+    "track": "All For Love",
+    "artist": "Bryan Adams, Rod Stewart and Sting",
+    "album": "All For Love (Single)",
+    "duration_s": 282.7958279
+  },
+  "duration_matched_to": "musicbrainz recording length (283s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 282.52,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 281.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 285.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 46,
+  "agreement_with_other_candidates": 0.98,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 27926915 (All for Love / Bryan Adams, Rod Stewart and Sting / The Three Musketeers OST, 263.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2013-cruise",
+  "preview": {
+    "service": "deezer",
+    "track_id": 62513271,
+    "matched_by": "isrc",
+    "isrc": "USUM71207991",
+    "title": "Cruise",
+    "artist": "Florida Georgia Line",
+    "album": "Here's To The Good Times",
+    "track_duration_s": 209,
+    "link": "https://www.deezer.com/track/62513271",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 148.0,
+    "tempo_bpm_grid": 147.7,
+    "tempo_candidates_bpm": [
+      73.8,
+      152.0,
+      99.4
+    ],
+    "beats_detected": 73,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.812,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.719,
+    "chroma_profile": [
+      0.523,
+      0.435,
+      0.62,
+      0.557,
+      0.524,
+      1.0,
+      0.489,
+      0.599,
+      0.387,
+      0.42,
+      0.718,
+      0.367
+    ],
+    "rms_dbfs": -8.32,
+    "rms_dbfs_p95_frame": -6.19,
+    "peak_dbfs": 1.72,
+    "loudness_lufs_approx": -7.03,
+    "spectral_centroid_hz_mean": 2784.3,
+    "spectral_centroid_hz_median": 2636.1,
+    "onsets": 46,
+    "onset_density_per_s": 1.534,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 62513271",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 148.2,
+    "gain": -6.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/62513271",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

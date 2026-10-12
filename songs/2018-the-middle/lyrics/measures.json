@@ -1,0 +1,41 @@
+{
+  "id": "2018-the-middle",
+  "lyrics_kind": "synced",
+  "lrclib_id": 13144833,
+  "lines": 46,
+  "words": 347,
+  "unique_words": 85,
+  "type_token_ratio": 0.245,
+  "repeated_line_share": 0.391,
+  "distinct_lines": 28,
+  "zlib_compression_ratio": 0.252,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "the middle",
+  "title_phrase_occurrences": 18,
+  "pronouns": {
+    "first_singular": 39,
+    "second": 20,
+    "first_plural": 4
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 2.1,
+  "last_line_s": 178.82,
+  "sung_time_s": 178.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 116.9,
+  "words_per_minute_track": 112.7,
+  "longest_gap_between_lines_s": 6.98,
+  "longest_gap_starts_at_s": 91.25,
+  "first_repeated_block": {
+    "first_at_s": 35.17,
+    "recurs_at_s": 53.32,
+    "lines": [
+      "I'm losing my mind just a little",
+      "So why don't you just meet me in the middle?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 13144833",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

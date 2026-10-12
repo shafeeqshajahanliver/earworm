@@ -1,0 +1,73 @@
+{
+  "id": "2017-humble",
+  "preview": {
+    "service": "deezer",
+    "track_id": 350171311,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM71703085",
+    "title": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "track_duration_s": 177,
+    "link": "https://www.deezer.com/track/350171311",
+    "duration_matched_to": "wikipedia infobox length (177s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 150.0,
+    "tempo_bpm_grid": 149.8,
+    "tempo_candidates_bpm": [
+      152.0,
+      76.0,
+      143.6
+    ],
+    "beats_detected": 69,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.564,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.541,
+    "chroma_profile": [
+      0.484,
+      1.0,
+      0.649,
+      0.668,
+      0.595,
+      0.649,
+      0.483,
+      0.427,
+      0.449,
+      0.404,
+      0.321,
+      0.272
+    ],
+    "rms_dbfs": -5.98,
+    "rms_dbfs_p95_frame": -1.89,
+    "peak_dbfs": 1.18,
+    "loudness_lufs_approx": -9.21,
+    "spectral_centroid_hz_mean": 2380.1,
+    "spectral_centroid_hz_median": 2360.8,
+    "onsets": 147,
+    "onset_density_per_s": 4.902,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 350171311",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 149.8,
+    "gain": -9.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/350171311",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C# major and C# minor"
+  ],
+  "rejected_candidates": []
+}

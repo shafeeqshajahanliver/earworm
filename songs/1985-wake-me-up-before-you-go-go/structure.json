@@ -1,0 +1,143 @@
+{
+  "id": "1985-wake-me-up-before-you-go-go",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "542",
+      "also_ids": [],
+      "match": {
+        "title": "Wake Me Up Before You Go-Go",
+        "artist": "Wham!",
+        "chart_date": "1984-10-27",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 542 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 234.423,
+      "version_check": "duration within 12 s (+3.4 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.348,
+          "end": 12.655,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 9
+        },
+        {
+          "start": 12.655,
+          "end": 24.474,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 24.474,
+          "end": 37.756,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 37.756,
+          "end": 59.861,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 59.861,
+          "end": 71.68,
+          "label": "interlude",
+          "letter": "D",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 71.68,
+          "end": 83.499,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 83.499,
+          "end": 96.758,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 96.758,
+          "end": 118.886,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 118.886,
+          "end": 130.728,
+          "label": "interlude",
+          "letter": "D",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 130.728,
+          "end": 142.524,
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "bars": 8
+        },
+        {
+          "start": 142.524,
+          "end": 154.32,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 154.32,
+          "end": 166.139,
+          "label": "instrumental",
+          "letter": "B",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 166.139,
+          "end": 189.753,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 189.753,
+          "end": 229.994,
+          "label": "outro",
+          "letter": "B",
+          "normalised": "outro",
+          "bars": 28
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

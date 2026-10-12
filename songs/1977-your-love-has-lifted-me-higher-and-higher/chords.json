@@ -1,0 +1,343 @@
+{
+  "id": "1977-your-love-has-lifted-me-higher-and-higher",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "336",
+      "also_ids": [],
+      "match": {
+        "title": "(Your Love Has Lifted Me) Higher And Higher",
+        "artist": "Rita Coolidge",
+        "chart_date": "1977-08-13",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 336 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 242.913,
+      "version_check": "duration differs by +33 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 243 s vs 210 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "key_info": {
+        "tonic": "Db",
+        "tonic_pc": 1,
+        "mode": null,
+        "name": "Db",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A'",
+          "normalised": "intro",
+          "start": 0.418,
+          "end": 18.967,
+          "bars": 8,
+          "key": "Db",
+          "written": [
+            "Db",
+            "Db7",
+            "Eb/C#",
+            "Ebm/C#",
+            "Ebm7b5/C#",
+            "Db"
+          ],
+          "roman": [
+            "I",
+            "I7",
+            "II",
+            "ii",
+            "iiø7",
+            "I"
+          ],
+          "raw": [
+            "Db:maj",
+            "Db:7",
+            "Eb:maj/b7",
+            "Eb:min/b7",
+            "Eb:hdim7/b7",
+            "Db:maj"
+          ]
+        },
+        {
+          "label": "trans",
+          "letter": "B",
+          "normalised": "other",
+          "start": 18.967,
+          "end": 27.309,
+          "bars": 4,
+          "key": "Db",
+          "written": [
+            "Db"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "Db:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 27.309,
+          "end": 60.118,
+          "bars": 16,
+          "key": "Db",
+          "written": [
+            "Db",
+            "Ebm/C#",
+            "Ebm7b5/C#",
+            "Db",
+            "Ebm/C#",
+            "Ebm7b5/C#",
+            "Db"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "iiø7",
+            "I",
+            "ii",
+            "iiø7",
+            "I"
+          ],
+          "raw": [
+            "Db:maj",
+            "Eb:min/b7",
+            "Eb:hdim7/b7",
+            "Db:maj",
+            "Eb:min/b7",
+            "Eb:hdim7/b7",
+            "Db:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 60.118,
+          "end": 92.85,
+          "bars": 16,
+          "key": "Db",
+          "written": [
+            "Db",
+            "Ebm/C#",
+            "Ebm7b5/C#",
+            "Db",
+            "Ebm/C#",
+            "Ebm7b5/C#",
+            "Db"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "iiø7",
+            "I",
+            "ii",
+            "iiø7",
+            "I"
+          ],
+          "raw": [
+            "Db:maj",
+            "Eb:min/b7",
+            "Eb:hdim7/b7",
+            "Db:maj",
+            "Eb:min/b7",
+            "Eb:hdim7/b7",
+            "Db:maj"
+          ]
+        },
+        {
+          "label": "solo",
+          "letter": "A",
+          "normalised": "solo",
+          "start": 92.85,
+          "end": 125.342,
+          "bars": 16,
+          "key": "Db",
+          "written": [
+            "Db",
+            "Ebm/C#",
+            "Ebm7b5/C#",
+            "Db",
+            "Ebm/C#",
+            "A7"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "iiø7",
+            "I",
+            "ii",
+            "bVI7"
+          ],
+          "raw": [
+            "Db:maj",
+            "Eb:min/b7",
+            "Eb:hdim7/b7",
+            "Db:maj",
+            "Eb:min/b7",
+            "A:7"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 125.342,
+          "end": 157.716,
+          "bars": 16,
+          "key": "Db",
+          "written": [
+            "D",
+            "E/D",
+            "Em/D",
+            "Em7b5/D",
+            "D",
+            "E/D",
+            "Em/D",
+            "Em7b5/D",
+            "D"
+          ],
+          "roman": [
+            "bII",
+            "bIII",
+            "biii",
+            "biiiø7",
+            "bII",
+            "bIII",
+            "biii",
+            "biiiø7",
+            "bII"
+          ],
+          "raw": [
+            "D:maj",
+            "E:maj/b7",
+            "E:min/b7",
+            "E:hdim7/b7",
+            "D:maj",
+            "E:maj/b7",
+            "E:min/b7",
+            "E:hdim7/b7",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 157.716,
+          "end": 190.216,
+          "bars": 16,
+          "key": "Db",
+          "written": [
+            "D",
+            "E/D",
+            "Em/D",
+            "Em7b5/D",
+            "D",
+            "E/D",
+            "Em/D",
+            "Em7b5/D",
+            "D"
+          ],
+          "roman": [
+            "bII",
+            "bIII",
+            "biii",
+            "biiiø7",
+            "bII",
+            "bIII",
+            "biii",
+            "biiiø7",
+            "bII"
+          ],
+          "raw": [
+            "D:maj",
+            "E:maj/b7",
+            "E:min/b7",
+            "E:hdim7/b7",
+            "D:maj",
+            "E:maj/b7",
+            "E:min/b7",
+            "E:hdim7/b7",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 190.216,
+          "end": 222.572,
+          "bars": 16,
+          "key": "Db",
+          "written": [
+            "Eb",
+            "Fm/D#",
+            "Fm7b5/D#",
+            "Eb",
+            "Fm/D#",
+            "Fm7b5/D#",
+            "Eb"
+          ],
+          "roman": [
+            "II",
+            "iii",
+            "iiiø7",
+            "II",
+            "iii",
+            "iiiø7",
+            "II"
+          ],
+          "raw": [
+            "Eb:maj",
+            "F:min/b7",
+            "F:hdim7/b7",
+            "Eb:maj",
+            "F:min/b7",
+            "F:hdim7/b7",
+            "Eb:maj"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": "A",
+          "normalised": "outro",
+          "start": 222.572,
+          "end": 239.096,
+          "bars": 8,
+          "key": "Db",
+          "written": [
+            "Eb",
+            "Fm/D#",
+            "Fm7b5/D#",
+            "Eb"
+          ],
+          "roman": [
+            "II",
+            "iii",
+            "iiiø7",
+            "II"
+          ],
+          "raw": [
+            "Eb:maj",
+            "F:min/b7",
+            "F:hdim7/b7",
+            "Eb:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,68 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9ebc14fb-58dd-41a6-90a6-c0b565fc4201",
+      "release_title": "He’ll Have to Go / In a Mansion Stands My Love",
+      "release_date": "1959-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "Cover Art Archive error: <urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "album": {
+      "release_group": "7f01c6ab-debb-4d18-b22f-4b2837ba4cb9",
+      "release_title": "He’ll Have to Go",
+      "release_date": "1960",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: He'll Have to Go and Other Favorites",
+      "missing": "Cover Art Archive error: HTTP Error 500: Internal Server Error"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/1c/aa/fe1caa96-359e-3e46-44f7-dee84349c0e7/196874094501.jpg/1200x1200bb.jpg",
+      "collection": "He'll Have To Go (Expanded Edition)",
+      "collection_id": 1884680468,
+      "track_id": 1884680469,
+      "artist_name": "Jim Reeves",
+      "release_date": "1959-11-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.551,
+        "saturation": 0.06,
+        "dark_share": 0.084,
+        "palette": [
+          {
+            "hex": "#a6a5a1",
+            "share": 0.249
+          },
+          {
+            "hex": "#84827f",
+            "share": 0.24
+          },
+          {
+            "hex": "#403d3b",
+            "share": 0.222
+          },
+          {
+            "hex": "#bbb9b1",
+            "share": 0.169
+          },
+          {
+            "hex": "#cec8b5",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

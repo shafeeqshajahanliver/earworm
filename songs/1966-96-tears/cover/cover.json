@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "be581d86-884c-31d6-a1e6-175390376ba2",
+      "release_title": "96 Tears",
+      "release_date": "1966",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 96 Tears",
+      "url": "http://coverartarchive.org/release/53da9254-4d82-4f9b-a22b-5a3abc36f58c/15000624229-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/53da9254-4d82-4f9b-a22b-5a3abc36f58c",
+      "image_id": "15000624229",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.446,
+        "saturation": 0.351,
+        "dark_share": 0.221,
+        "palette": [
+          {
+            "hex": "#261e1b",
+            "share": 0.288
+          },
+          {
+            "hex": "#8b6a58",
+            "share": 0.243
+          },
+          {
+            "hex": "#623e33",
+            "share": 0.191
+          },
+          {
+            "hex": "#9f8772",
+            "share": 0.181
+          },
+          {
+            "hex": "#c6af74",
+            "share": 0.097
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e2/f9/ac/e2f9ac7d-4a8c-7008-4cf1-6f844819fcd0/00018771888628.rgb.jpg/1200x1200bb.jpg",
+      "collection": "96 Tears",
+      "collection_id": 1443197131,
+      "track_id": 1443197906,
+      "artist_name": "? and The Mysterians",
+      "release_date": "1966-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.555,
+        "saturation": 0.265,
+        "dark_share": 0.14,
+        "palette": [
+          {
+            "hex": "#29262f",
+            "share": 0.284
+          },
+          {
+            "hex": "#b49083",
+            "share": 0.21
+          },
+          {
+            "hex": "#7b524d",
+            "share": 0.204
+          },
+          {
+            "hex": "#c6aea4",
+            "share": 0.199
+          },
+          {
+            "hex": "#dfd5a9",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

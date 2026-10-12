@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/301205",
+    "title": "Cradle of Love",
+    "performer": "Billy Idol",
+    "is_original": true,
+    "first_release_date": "1990-04-16",
+    "releases": [
+      {
+        "title": "Cradle of Love",
+        "uri": "https://api.secondhandsongs.com/release/103285",
+        "performer": "Billy Idol"
+      },
+      {
+        "title": "Charmed Life",
+        "uri": "https://api.secondhandsongs.com/release/1459",
+        "performer": "Billy Idol"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 7,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/136087",
+    "title": "Cradle of Love",
+    "language": "English",
+    "writers": [
+      "Billy Idol",
+      "David Werner"
+    ],
+    "original_performer": "Billy Idol",
+    "versions": 8,
+    "based_on": [],
+    "derived_works": []
+  }
+}

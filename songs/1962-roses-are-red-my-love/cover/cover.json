@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5282686b-ddb4-4c86-8476-557ef9d39337",
+      "release_title": "Roses Are Red (My Love)",
+      "release_date": "1962-04",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "34fdc8ee-9a43-3964-b562-365ed34e357e",
+      "release_title": "Roses Are Red and Other Songs for the Young and Sentimental",
+      "release_date": "1962",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Roses Are Red",
+      "url": "http://coverartarchive.org/release/e615d8c1-405a-4343-9a82-158f7535e939/10994946945-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/e615d8c1-405a-4343-9a82-158f7535e939",
+      "image_id": "10994946945",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        494
+      ],
+      "measures": {
+        "brightness": 0.695,
+        "saturation": 0.706,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#be4b3a",
+            "share": 0.333
+          },
+          {
+            "hex": "#872612",
+            "share": 0.282
+          },
+          {
+            "hex": "#b43929",
+            "share": 0.146
+          },
+          {
+            "hex": "#d99b7d",
+            "share": 0.12
+          },
+          {
+            "hex": "#bc654e",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/cb/04/cacb040c-28f8-ca19-c6bd-fd27ae070c96/Bobby_Vinton_-_Roses_Are_Red.jpg/1200x1200bb.jpg",
+      "collection": "Roses Are Red (Remastered) - Single",
+      "collection_id": 564490216,
+      "track_id": 564490223,
+      "artist_name": "Bobby Vinton",
+      "release_date": "1995-12-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.573,
+        "saturation": 0.312,
+        "dark_share": 0.241,
+        "palette": [
+          {
+            "hex": "#0f0603",
+            "share": 0.274
+          },
+          {
+            "hex": "#7a4a3b",
+            "share": 0.232
+          },
+          {
+            "hex": "#b9aea0",
+            "share": 0.186
+          },
+          {
+            "hex": "#fdfcfb",
+            "share": 0.167
+          },
+          {
+            "hex": "#f5eaea",
+            "share": 0.14
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

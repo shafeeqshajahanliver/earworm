@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 576850,
+  "kind": "synced",
+  "matched": {
+    "track": "Counting Stars",
+    "artist": "OneRepublic",
+    "album": "Counting Stars",
+    "duration_s": 257.0
+  },
+  "duration_matched_to": "musicbrainz recording length (257s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 257.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 257.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 257.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 0.99,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37009810 (Counting Stars / OneRepublic / Now That’s What I Call Music! 49, 266.0s): duration matches no reference length",
+    "lrclib 36941006 (Counting Stars / OneRepublic / Native, Nones): duration matches no reference length",
+    "lrclib 37247375 (Counting Stars / OneRepublic / Counting Stars, 493.0s): duration matches no reference length",
+    "lrclib 24153184 (Counting Stars / OneRepublic / Counting Stars, 231.0s): duration matches no reference length",
+    "lrclib 9265381 (Counting Stars / OneRepublic / Counting Stars, 283.0s): duration matches no reference length",
+    "lrclib 38854116 (Counting Stars / OneRepublic / Counting Stars, 228.0s): duration matches no reference length",
+    "lrclib 9175902 (Counting Stars / OneRepublic / Counting Stars - Single, 282.0s): duration matches no reference length",
+    "lrclib 29785157 (Counting Stars / OneRepublic / Counting Stars (2023 Version), 232.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

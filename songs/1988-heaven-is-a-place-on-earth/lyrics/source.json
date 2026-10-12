@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21876994,
+  "kind": "synced",
+  "matched": {
+    "track": "Heaven Is A Place On Earth",
+    "artist": "Belinda Carlisle",
+    "album": "Heaven Is A Place On Earth",
+    "duration_s": 244.453878
+  },
+  "duration_matched_to": "deezer preview track matched by search (244s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 323.653,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 244.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 233.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 246.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 359.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 40,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (244s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 18991458 (Heaven Is a Place on Earth (down to earth dub) / Belinda Carlisle / Heaven Is a Place on Earth, 331.0s): duration matches no reference length",
+    "lrclib 37004791 (Heaven Is a Place on Earth / Belinda Carlisle / Ultimate 80's Party-Volume 5, 256.0s): duration matches no reference length",
+    "lrclib 37479283 (Heaven Is A Place On Earth / Belinda Carlisle / Billboard Top 100 Hits 1988, 254.0s): duration matches no reference length",
+    "lrclib 37025402 (Heaven Is A Place On Earth / Belinda Carlisle / 1987! Songs of the Year, 255.0s): duration matches no reference length",
+    "lrclib 37283643 (Heaven Is A Place On Earth / Belinda Carlisle / Runaway Horses, 293.0s): duration matches no reference length",
+    "lrclib 37286065 (Heaven Is A Place On Earth / Belinda Carlisle / Billboard Top 100 Hits Of 1988, 254.0s): duration matches no reference length",
+    "lrclib 37399317 (Heaven is a place on earth / Belinda Carlisle / MyTape009, 254.0s): duration matches no reference length",
+    "lrclib 36463271 (Heaven Is A Place On Earth / Belinda Carlisle / Heaven Is A Place On Earth, 347.0s): duration matches no reference length",
+    "lrclib 18796039 (Heaven Is A Place On Earth / Belinda Carlisle / Heaven Is A Place On Earth, 276.02s): duration matches no reference length",
+    "lrclib 27385183 (Heaven is a Place on Earth / Belinda Carlisle / Heaven is a Place on Earth, 254.440625s): duration matches no reference length",
+    "lrclib 5863177 (Heaven Is A Place On Earth / Belinda Carlisle / Belinda Carlisle, 252.0s): duration matches no reference length",
+    "lrclib 13572190 (Heaven Is A Place On Earth / Belinda Carlisle / Belinda Carlisle, 255.0s): duration matches no reference length",
+    "lrclib 23994771 (Heaven Is A Place On Earth / Belinda Carlisle / Heaven Is A Place On Earth (Single), 254.432625s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

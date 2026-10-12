@@ -1,0 +1,38 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35088336,
+  "kind": "synced",
+  "matched": {
+    "track": "I Like It",
+    "artist": "Cardi B, Bad Bunny and J Balvin",
+    "album": "Invasion of Privacy",
+    "duration_s": 253.0
+  },
+  "duration_matched_to": "musicbrainz recording length (253s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 253.39,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 253.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 253.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 14,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34596643 (I Like It / Cardi B, Bad Bunny & J Balvin / Invasion of Privacy, 244.0s): duration matches no reference length",
+    "lrclib 26854175 (I Like It (Dillon Francis remix) / Cardi B, Bad Bunny & J Balvin / DMC DJ Promo 234: Pre-Release and Future Chart Hits, 219.271837s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

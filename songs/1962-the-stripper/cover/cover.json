@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "40827989-d8a3-4398-a12b-c5bfaf8301f7",
+      "release_title": "The Stripper",
+      "release_date": "1962",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/53f8a4dc-b796-4be8-b67d-3149436e421c/32742915959-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/53f8a4dc-b796-4be8-b67d-3149436e421c",
+      "image_id": 32742915959,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        597,
+        599
+      ],
+      "measures": {
+        "brightness": 0.729,
+        "saturation": 0.112,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#503a45",
+            "share": 0.299
+          },
+          {
+            "hex": "#eeebf0",
+            "share": 0.229
+          },
+          {
+            "hex": "#f0f0f6",
+            "share": 0.173
+          },
+          {
+            "hex": "#f0f3f9",
+            "share": 0.167
+          },
+          {
+            "hex": "#a49a9e",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/81/7a/9e817aab-d992-e91f-b241-7f0635cfae77/David_Rose_-_The_Stripper.jpg/1200x1200bb.jpg",
+      "collection": "The Stripper (Remastered) - Single",
+      "collection_id": 564550629,
+      "track_id": 564550632,
+      "artist_name": "David Rose",
+      "release_date": "1962-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.343,
+        "saturation": 0.051,
+        "dark_share": 0.43,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.342
+          },
+          {
+            "hex": "#cdcdcd",
+            "share": 0.261
+          },
+          {
+            "hex": "#676c6a",
+            "share": 0.25
+          },
+          {
+            "hex": "#302221",
+            "share": 0.091
+          },
+          {
+            "hex": "#000101",
+            "share": 0.056
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

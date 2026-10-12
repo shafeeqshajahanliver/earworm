@@ -1,0 +1,41 @@
+{
+  "id": "2023-calm-down",
+  "lyrics_kind": "synced",
+  "lrclib_id": 18728580,
+  "lines": 54,
+  "words": 623,
+  "unique_words": 160,
+  "type_token_ratio": 0.257,
+  "repeated_line_share": 0.148,
+  "distinct_lines": 46,
+  "zlib_compression_ratio": 0.305,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "calm down",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 45,
+    "second": 40,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.67,
+  "last_line_s": 230.36,
+  "sung_time_s": 206.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 180.8,
+  "words_per_minute_track": 156.2,
+  "longest_gap_between_lines_s": 20.9,
+  "longest_gap_starts_at_s": 209.46,
+  "first_repeated_block": {
+    "first_at_s": 17.38,
+    "recurs_at_s": 179.01,
+    "lines": [
+      "Baby, calm down, calm down",
+      "Girl, this your body e put in my heart for lockdown, for lockdown, oh, lockdown"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 18728580",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

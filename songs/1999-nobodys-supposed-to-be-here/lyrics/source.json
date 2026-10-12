@@ -1,0 +1,60 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 2575321,
+  "kind": "synced",
+  "matched": {
+    "track": "Nobody's Supposed to Be Here (original version)",
+    "artist": "Deborah Cox",
+    "album": "Nobody's Supposed To Be Here",
+    "duration_s": 261.0
+  },
+  "duration_matched_to": "musicbrainz recording length (261s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 261.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 262.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 13,
+  "agreement_with_other_candidates": 0.972,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37031535 (Nobody's Supposed to Be Here / Deborah Cox / Bravo Black Hits Disc 2, 212.0s): duration matches no reference length",
+    "lrclib 37285525 (Nobody's Supposed To Be Here / Deborah Cox / Billboard Hot 100 - 1999, 253.0s): duration matches no reference length",
+    "lrclib 37436312 (Nobody's Supposed To Be Here / Deborah Cox / Billboard Top 100 of 1999, 255.0s): duration matches no reference length",
+    "lrclib 36858646 (Nobody's Supposed To Be Here / Deborah Cox / Dance Vault Mixes - Nobody's Supposed To Be Here, 608.0s): duration matches no reference length",
+    "lrclib 34530116 (Nobody's Supposed To Be Here / Deborah Cox / Billboard Top 100 - 1998, 253.0s): duration matches no reference length",
+    "lrclib 34530119 (Nobody's Supposed To Be Here / Deborah Cox / Billboard Top 100 - 1999, 253.0s): duration matches no reference length",
+    "lrclib 35172836 (Nobody’s Supposed to Be Here / Deborah Cox / Ultimate R&B, 223.0s): duration matches no reference length",
+    "lrclib 33668518 (Nobody's Supposed to Be Here / Deborah Cox / Pure... R&B-Disc 2, 224.0s): duration matches no reference length",
+    "lrclib 33451821 (Nobody's Supposed to Be Here / Deborah Cox / Ultimate Dance Party: The Bes, 253.0s): duration matches no reference length",
+    "lrclib 33620429 (Nobody's Supposed To Be Here / Deborah Cox / Billboard 100 of 1998, 253.0s): duration matches no reference length",
+    "lrclib 33770990 (Nobody's Supposed to Be Here / Deborah Cox / Nobody's Supposed to Be Here, 255.0s): duration matches no reference length",
+    "lrclib 33432644 (Nobody's Supposed to Be Here / Deborah Cox / Ultimate Dance Party: The Best, 253.0s): duration matches no reference length",
+    "lrclib 35532565 (Nobody's Supposed to Be Here / Deborah Cox / Pure… Woman  (Compilation), 224.0s): duration matches no reference length",
+    "lrclib 37316993 (Nobody's Supposed to Be Here (Dance Mix) / Deborah Cox / Dance Vault Mixes - Nobody's Supposed to Be Here: Deborah Cox, 254.0s): live/remix/other version",
+    "lrclib 34239921 (Nobody's Supposed to Be Here (dance mix) / Deborah Cox / Nobody's Supposed to Be Here, 253.0s): live/remix/other version",
+    "lrclib 18982155 (Nobody's Supposed To Be Here (Hex's Dub) / Deborah Cox / Nobody's Supposed To Be Here, 381.066667s): duration matches no reference length",
+    "lrclib 14810498 (Nobody's Supposed to Be Here (Hex's Dub) / Deborah Cox / Nobody's Supposed to Be Here, 379.0s): duration matches no reference length",
+    "lrclib 29589622 (Nobody's Supposed To Be Here (Original Version Instrumental) / Deborah Cox / Nobody's Supposed To Be Here, 261.0s): live/remix/other version",
+    "lrclib 34184248 (Nobody's Supposed to Be Here (Hex's Dub) / Deborah Cox / Nobody's Supposed to Be Here  (single), 380.0s): duration matches no reference length",
+    "lrclib 28782915 (Nobody's Supposed To Be Here (Hex Hector's Club Mix) / Deborah Cox / Nobody's Supposed To Be Here, 611.0s): live/remix/other version",
+    "lrclib 14810499 (Nobody's Supposed to Be Here (Hex Hector's Club mix) / Deborah Cox / Nobody's Supposed to Be Here, 608.0s): live/remix/other version",
+    "lrclib 20876925 (Nobody's Supposed To Be Here / Deborah Cox / Ultimate Deborah Cox, 222.563275s): duration matches no reference length",
+    "lrclib 24949820 (Nobody's Supposed To Be Here (Original Version (Instrumental)) / Deborah Cox / Nobody's Supposed To Be Here (Single), 261.06195s): live/remix/other version",
+    "lrclib 20536266 (Nobody's Supposed To Be Here (Hex Hector's Club Mix) / Deborah Cox / Nobody's Supposed To Be Here (Single), 611.242086s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

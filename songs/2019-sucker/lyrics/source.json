@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3629810,
+  "kind": "synced",
+  "matched": {
+    "track": "Sucker",
+    "artist": "Jonas Brothers",
+    "album": "Sucker",
+    "duration_s": 181.0
+  },
+  "duration_matched_to": "musicbrainz recording length (181s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 181.026,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 181.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36891374 (Sucker / Jonas Brothers / Demos for Your Memo, 181.0s): live/remix/other version",
+    "lrclib 34615619 (Sucker / Jonas Brothers / Happiness Begins, 172.0s): duration matches no reference length",
+    "lrclib 35899607 (Sucker / Jonas Brothers / Sucker, 350.0s): duration matches no reference length",
+    "lrclib 31549876 (Sucker / Jonas Brothers / Jonas Brothers - Sucker, 200.0s): duration matches no reference length",
+    "lrclib 3002382 (Sucker / Jonas Brothers / Jonas Brothers, 195.0s): duration matches no reference length",
+    "lrclib 29866636 (Sucker / Jonas Brothers / Jonas Brothers, 200.0s): duration matches no reference length",
+    "lrclib 31163915 (Sucker / Jonas Brothers / Jonas Brothers, 244.0s): duration matches no reference length",
+    "lrclib 11217051 (Sucker (Official Video) / Jonas Brothers / Jonas Brothers, 200.0s): duration matches no reference length",
+    "lrclib 9156324 (Sucker (Official Video) / Jonas Brothers / Jonas Brothers Songs, 200.0s): duration matches no reference length",
+    "lrclib 9566882 (Sucker (Official Video) / Jonas Brothers / Jonas Brothers Videos, 200.0s): duration matches no reference length",
+    "lrclib 35605941 (Sucker / Jonas Brothers / Sucker, 413.0s): duration matches no reference length",
+    "lrclib 8791743 (Sucker / Jonas Brothers / Sucker, 199.0s): duration matches no reference length",
+    "lrclib 2337544 (Sucker / Jonas Brothers / Sucker, 195.0s): duration matches no reference length",
+    "lrclib 28301864 (Sucker / Jonas Brothers / Sucker, 28.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

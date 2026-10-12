@@ -1,0 +1,41 @@
+{
+  "id": "2016-sorry",
+  "lyrics_kind": "synced",
+  "lrclib_id": 551398,
+  "lines": 42,
+  "words": 338,
+  "unique_words": 102,
+  "type_token_ratio": 0.302,
+  "repeated_line_share": 0.476,
+  "distinct_lines": 22,
+  "zlib_compression_ratio": 0.3,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "sorry",
+  "title_phrase_occurrences": 20,
+  "pronouns": {
+    "first_singular": 43,
+    "second": 17,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.88,
+  "last_line_s": 184.62,
+  "sung_time_s": 173.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 116.8,
+  "words_per_minute_track": 101.1,
+  "longest_gap_between_lines_s": 7.25,
+  "longest_gap_starts_at_s": 83.98,
+  "first_repeated_block": {
+    "first_at_s": 61.83,
+    "recurs_at_s": 81.09,
+    "lines": [
+      "Yeah I know that I let you down",
+      "Is it too late to say I'm sorry now?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 551398",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

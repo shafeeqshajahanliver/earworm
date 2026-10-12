@@ -1,0 +1,41 @@
+{
+  "id": "1999-nobodys-supposed-to-be-here",
+  "lyrics_kind": "synced",
+  "lrclib_id": 2575321,
+  "lines": 38,
+  "words": 325,
+  "unique_words": 105,
+  "type_token_ratio": 0.323,
+  "repeated_line_share": 0.395,
+  "distinct_lines": 23,
+  "zlib_compression_ratio": 0.284,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "nobody's supposed to be here",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 33,
+    "second": 14,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 14.08,
+  "last_line_s": 202.07,
+  "sung_time_s": 155.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 125.1,
+  "words_per_minute_track": 74.7,
+  "longest_gap_between_lines_s": 11.0,
+  "longest_gap_starts_at_s": 109.06,
+  "first_repeated_block": {
+    "first_at_s": 14.08,
+    "recurs_at_s": 93.02,
+    "lines": [
+      "How did you get here? Nobody's supposed to be here",
+      "I've tried that love thing for the last time"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 2575321",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

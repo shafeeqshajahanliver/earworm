@@ -1,0 +1,74 @@
+{
+  "id": "2008-apologize",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1455131834,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Apologize",
+    "artist": "OneRepublic",
+    "album": "Apologize (feat. OneRepublic) - Single",
+    "track_duration_s": 207.8,
+    "link": "https://music.apple.com/us/album/apologize/1455131818?i=1455131834&uo=4",
+    "duration_matched_to": "wikipedia infobox length (208s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 118.0,
+    "tempo_bpm_grid": 118.8,
+    "tempo_candidates_bpm": [
+      58.7,
+      117.5,
+      234.9
+    ],
+    "beats_detected": 58,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.63,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.622,
+    "chroma_profile": [
+      0.595,
+      0.447,
+      0.561,
+      0.692,
+      0.352,
+      0.423,
+      0.466,
+      1.0,
+      0.81,
+      0.403,
+      0.549,
+      0.319
+    ],
+    "rms_dbfs": -8.36,
+    "rms_dbfs_p95_frame": -4.9,
+    "peak_dbfs": 0.09,
+    "loudness_lufs_approx": -9.23,
+    "spectral_centroid_hz_mean": 1793.3,
+    "spectral_centroid_hz_median": 1627.7,
+    "onsets": 99,
+    "onset_density_per_s": 3.303,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1455131834",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between Eb major and G minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USUM70722793: title/artist mismatch: Apologize / Timbaland",
+    "deezer isrc USUM70809583: title/artist mismatch: Apologize / Timbaland",
+    "deezer 1640375652: duration 192s matches no reference length",
+    "deezer 2452974765: version (Apologize (Live))",
+    "deezer 1763240447: version (Apologize (Richard Vission Mix))",
+    "itunes 1607895793: duration 192s matches no reference length",
+    "itunes 1443657865: version (Apologize (Richard Vission Mix))"
+  ]
+}

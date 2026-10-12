@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "ffcd182a-8836-458a-9032-857d6cecf39d",
+      "release_title": "Mr. Blue / You Mean Everything to Me",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/c956d224-6197-4129-82a8-736e41b53e26/29250545613-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c956d224-6197-4129-82a8-736e41b53e26",
+      "image_id": 29250545613,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "label",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        597
+      ],
+      "measures": {
+        "brightness": 0.581,
+        "saturation": 0.213,
+        "dark_share": 0.236,
+        "palette": [
+          {
+            "hex": "#9fbbbb",
+            "share": 0.334
+          },
+          {
+            "hex": "#0f1519",
+            "share": 0.243
+          },
+          {
+            "hex": "#86a1a6",
+            "share": 0.158
+          },
+          {
+            "hex": "#a8bfbe",
+            "share": 0.14
+          },
+          {
+            "hex": "#dbd8d8",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1cb1c47a-88d9-4da8-bbc1-ceabc6b3178b",
+      "release_title": "Mr. Blue",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mr. Blue",
+      "url": "http://coverartarchive.org/release/45078891-a93d-40cc-a9db-f5eacfd0ae12/27095995805-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/45078891-a93d-40cc-a9db-f5eacfd0ae12",
+      "image_id": 27095995805,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        597
+      ],
+      "measures": {
+        "brightness": 0.489,
+        "saturation": 0.478,
+        "dark_share": 0.134,
+        "palette": [
+          {
+            "hex": "#395b8a",
+            "share": 0.539
+          },
+          {
+            "hex": "#213954",
+            "share": 0.192
+          },
+          {
+            "hex": "#999b98",
+            "share": 0.135
+          },
+          {
+            "hex": "#626b7d",
+            "share": 0.091
+          },
+          {
+            "hex": "#39455e",
+            "share": 0.043
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/cb/ab/e9cbabda-47ed-3dc3-d7de-98d13e4e3ec7/25UMGIM06796.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Mr. Blue (Expanded Edition)",
+      "collection_id": 1794374263,
+      "track_id": 1794374526,
+      "artist_name": "The Fleetwoods",
+      "release_date": "1959-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.587,
+        "saturation": 0.422,
+        "dark_share": 0.107,
+        "palette": [
+          {
+            "hex": "#5473a7",
+            "share": 0.394
+          },
+          {
+            "hex": "#4c6b9d",
+            "share": 0.204
+          },
+          {
+            "hex": "#343a3e",
+            "share": 0.189
+          },
+          {
+            "hex": "#aaa7ac",
+            "share": 0.154
+          },
+          {
+            "hex": "#6c7b9c",
+            "share": 0.06
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

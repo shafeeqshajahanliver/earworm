@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3727161,
+  "kind": "synced",
+  "matched": {
+    "track": "Blurred Lines",
+    "artist": "Robin Thicke",
+    "album": "Blurred Lines",
+    "duration_s": 263.0
+  },
+  "duration_matched_to": "musicbrainz recording length (263s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 263.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 263.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 265.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34825597 (Blurred Lines / Robin Thicke / Blurred Lines (Deluxe), 235.0s): duration matches no reference length",
+    "lrclib 34751871 (Blurred Lines / Robin Thicke / En Vrac & Youtube, 272.0s): duration matches no reference length",
+    "lrclib 35287887 (Blurred Lines / Robin Thicke / Radio 538: Hitzone 66, 232.0s): duration matches no reference length",
+    "lrclib 33453628 (Blurred Lines / Robin Thicke / Much Dance 2014, 226.0s): duration matches no reference length",
+    "lrclib 36076355 (Blurred Lines / Robin Thicke / 2014 GRAMMY Nominees, 271.0s): duration matches no reference length",
+    "lrclib 36364414 (Blurred Lines / Robin Thicke / Blurred Lines (Deluxe), 242.0s): duration matches no reference length",
+    "lrclib 36648914 (Blurred Lines / Robin Thicke / Blurred Lines, 245.0s): duration matches no reference length",
+    "lrclib 18813578 (Blurred Lines / Robin Thicke / Blurred Lines (Deluxe Bonus Track Version), 263.826667s): live/remix/other version",
+    "lrclib 37101409 (Blurred Lines / Robin Thicke feat. T.I. + Pharrell / German Top 100 25.11.2013, 222.0s): duration matches no reference length",
+    "lrclib 36222039 (Blurred Lines / Robin Thicke feat. T.I. + Pharrell / German Top100 Single Charts Komplett vom 02.12.2013, 222.0s): duration matches no reference length",
+    "lrclib 20999355 (Blurred Lines / Robin Thicke feat. T.I. + Pharrell / Blurred Lines, 221.962449s): duration matches no reference length",
+    "lrclib 21641737 (Blurred Lines / Robin Thicke feat. T.I. & Pharrell / Mastermix: DJ Beats Chart Collection Vol. 01, 291.004082s): duration matches no reference length",
+    "lrclib 18928677 (Blurred Lines / Robin Thicke / Blurred Lines, 272.016s): duration matches no reference length",
+    "lrclib 22215556 (Blurred Lines / Robin Thicke / Blurred Lines, 280.0s): duration matches no reference length",
+    "lrclib 25174304 (Blurred Lines / Robin Thicke / Blurred Lines, 528.12s): duration matches no reference length",
+    "lrclib 1031149 (Blurred Lines / Robin Thicke / Blurred Lines, 231.0s): duration matches no reference length",
+    "lrclib 32429618 (Blurred Lines / Robin Thicke / Blurred Lines, 248.0s): duration matches no reference length",
+    "lrclib 39059594 (Blurred Lines / Robin Thicke / Blurred Lines, 289.0s): duration matches no reference length",
+    "lrclib 1123803 (Blurred Lines (Explicit) / Robin Thicke / Robin Thicke, 231.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

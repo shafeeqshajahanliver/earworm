@@ -1,0 +1,339 @@
+{
+  "id": "1970-bridge-over-troubled-water",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "bridge_over_troubled_water_dt",
+      "match": {
+        "title": "Bridge over Troubled Water",
+        "artist": "Simon and Garfunkel",
+        "year": "1970",
+        "rs500_rank": "47",
+        "audio_used": {
+          "artist": "Simon and Garfunkel",
+          "album": "Bridge Over Troubled Water",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, bridge_over_troubled_water_dt.har/.clt + bridge_over_troubled_water.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 284 s; our recording 293 s",
+      "parse_check": "expanded 97 bars; timed chord list ends in bar 96",
+      "sections": [
+        {
+          "start": 0.805,
+          "end": 23.854,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 23.854,
+          "end": 61.813,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 13
+        },
+        {
+          "start": 61.813,
+          "end": 84.869,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 21,
+          "bars": 8
+        },
+        {
+          "start": 84.869,
+          "end": 87.752,
+          "label": "Chend1",
+          "normalised": "chorus",
+          "first_bar": 29,
+          "bars": 1
+        },
+        {
+          "start": 87.752,
+          "end": 105.398,
+          "label": "BP",
+          "normalised": "other",
+          "first_bar": 30,
+          "bars": 6
+        },
+        {
+          "start": 105.398,
+          "end": 143.564,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 36,
+          "bars": 13
+        },
+        {
+          "start": 143.564,
+          "end": 166.907,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 49,
+          "bars": 8
+        },
+        {
+          "start": 166.907,
+          "end": 169.827,
+          "label": "Chend2",
+          "normalised": "chorus",
+          "first_bar": 57,
+          "bars": 1
+        },
+        {
+          "start": 169.827,
+          "end": 184.168,
+          "label": "Inst",
+          "normalised": "instrumental",
+          "first_bar": 58,
+          "bars": 5
+        },
+        {
+          "start": 184.168,
+          "end": 201.676,
+          "label": "BP",
+          "normalised": "other",
+          "first_bar": 63,
+          "bars": 6
+        },
+        {
+          "start": 201.676,
+          "end": 239.076,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 69,
+          "bars": 13
+        },
+        {
+          "start": 239.076,
+          "end": 262.119,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 82,
+          "bars": 8
+        },
+        {
+          "start": 262.119,
+          "end": 265.043,
+          "label": "Chend2",
+          "normalised": "chorus",
+          "first_bar": 90,
+          "bars": 1
+        },
+        {
+          "start": 265.043,
+          "end": 279.809,
+          "label": "Inst",
+          "normalised": "instrumental",
+          "first_bar": 91,
+          "bars": 5
+        },
+        {
+          "start": 279.809,
+          "end": 283.628,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 96,
+          "bars": 1
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "bridge_over_troubled_water_tdc",
+      "match": {
+        "title": "Bridge over Troubled Water",
+        "artist": "Simon and Garfunkel",
+        "year": "1970",
+        "rs500_rank": "47",
+        "audio_used": {
+          "artist": "Simon and Garfunkel",
+          "album": "Bridge Over Troubled Water",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, bridge_over_troubled_water_tdc.har/.clt + bridge_over_troubled_water.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 284 s; our recording 293 s",
+      "parse_check": "expanded 97 bars; timed chord list ends in bar 96",
+      "sections": [
+        {
+          "start": 0.805,
+          "end": 12.212,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 12.212,
+          "end": 23.854,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 4,
+          "bars": 4
+        },
+        {
+          "start": 23.854,
+          "end": 50.231,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 9
+        },
+        {
+          "start": 50.231,
+          "end": 76.235,
+          "label": "Ch1a",
+          "normalised": "chorus",
+          "first_bar": 17,
+          "bars": 9
+        },
+        {
+          "start": 76.235,
+          "end": 87.752,
+          "label": "Ch1b",
+          "normalised": "chorus",
+          "first_bar": 26,
+          "bars": 4
+        },
+        {
+          "start": 87.752,
+          "end": 105.398,
+          "label": "Ln2",
+          "normalised": "other",
+          "first_bar": 30,
+          "bars": 6
+        },
+        {
+          "start": 105.398,
+          "end": 131.878,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 36,
+          "bars": 9
+        },
+        {
+          "start": 131.878,
+          "end": 158.135,
+          "label": "Ch1a",
+          "normalised": "chorus",
+          "first_bar": 45,
+          "bars": 9
+        },
+        {
+          "start": 158.135,
+          "end": 175.515,
+          "label": "Ch2b",
+          "normalised": "chorus",
+          "first_bar": 54,
+          "bars": 6
+        },
+        {
+          "start": 175.515,
+          "end": 184.168,
+          "label": "In2",
+          "normalised": "intro",
+          "first_bar": 60,
+          "bars": 3
+        },
+        {
+          "start": 184.168,
+          "end": 201.676,
+          "label": "Ln2",
+          "normalised": "other",
+          "first_bar": 63,
+          "bars": 6
+        },
+        {
+          "start": 201.676,
+          "end": 227.725,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 69,
+          "bars": 9
+        },
+        {
+          "start": 227.725,
+          "end": 253.507,
+          "label": "Ch3a",
+          "normalised": "chorus",
+          "first_bar": 78,
+          "bars": 9
+        },
+        {
+          "start": 253.507,
+          "end": 270.643,
+          "label": "Ch2b",
+          "normalised": "chorus",
+          "first_bar": 87,
+          "bars": 6
+        },
+        {
+          "start": 270.643,
+          "end": 279.809,
+          "label": "In2",
+          "normalised": "intro",
+          "first_bar": 93,
+          "bars": 3
+        },
+        {
+          "start": 279.809,
+          "end": 283.628,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 96,
+          "bars": 1
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse chorus verse chorus instrumental verse chorus instrumental",
+      "rolling_stone_tdc": "intro verse chorus verse chorus intro verse chorus intro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.78
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

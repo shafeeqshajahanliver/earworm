@@ -1,0 +1,110 @@
+{
+  "id": "1984-footloose",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0386_footloose",
+      "match": {
+        "title": "Footloose (from the Paramount Film ''Footloose'')",
+        "artist": "Kenny Loggins",
+        "release": "Now That's What I Call Running",
+        "musicbrainz_id": "384f304d-5539-4cbf-920b-cfa8e69f795e",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0386_footloose.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0386_footloose.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 222.473,
+      "bpm": 174.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 5.486,
+          "end": 24.777,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 14
+        },
+        {
+          "start": 24.777,
+          "end": 35.795,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 35.795,
+          "end": 56.8,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 16
+        },
+        {
+          "start": 56.8,
+          "end": 84.026,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 19
+        },
+        {
+          "start": 84.026,
+          "end": 95.04,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 95.04,
+          "end": 113.304,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 14
+        },
+        {
+          "start": 113.304,
+          "end": 134.99,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 134.99,
+          "end": 164.267,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 22
+        },
+        {
+          "start": 164.267,
+          "end": 185.966,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 185.966,
+          "end": 205.254,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 14
+        },
+        {
+          "start": 205.254,
+          "end": 217.654,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 9
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

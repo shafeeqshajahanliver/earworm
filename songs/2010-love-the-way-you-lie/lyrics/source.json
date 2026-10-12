@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 14483984,
+  "kind": "synced",
+  "matched": {
+    "track": "Love the Way You Lie (Dirty)",
+    "artist": "Eminem",
+    "album": "Love The Way You Lie",
+    "duration_s": 263.5548928
+  },
+  "duration_matched_to": "musicbrainz recording length (263s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 263.34,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 263.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 263.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 61,
+  "agreement_with_other_candidates": 0.985,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37187836 (Love The Way You Lie / Eminem Feat Rihanna / German Top 100 Jahrescharts 2010, 336.0s): duration matches no reference length",
+    "lrclib 35121435 (Love the Way You Lie / Eminem feat. Rihanna / 2011 GRAMMY Nominees, 269.0s): duration matches no reference length",
+    "lrclib 34193694 (Love The Way You Lie / Eminem Feat. Rihanna / X-MiX Chartbusters 60, 336.0s): duration matches no reference length",
+    "lrclib 20026732 (Love The Way You Lie / Eminem Feat Rihanna / German Top100 Single Charts, 335.908571s): duration matches no reference length",
+    "lrclib 35257566 (Love The Way You Lie / Eminem / Recovery, 249.0s): duration matches no reference length",
+    "lrclib 36750142 (Love The Way You Lie / Eminem / Recovery, 180.0s): duration matches no reference length",
+    "lrclib 34193695 (Love The Way You Lie / Eminem / X-MiX Chartbusters 60, 336.0s): duration matches no reference length",
+    "lrclib 19941129 (Love the Way You Lie / Eminem / Curtain Call 2, 280.355075s): duration matches no reference length",
+    "lrclib 20300754 (Love the Way You Lie / Eminem / Recovery, 136.463673s): duration matches no reference length",
+    "lrclib 14484364 (Love The Way You Lie (Instrumental) / Eminem / Love The Way You Lie, 261.3028608s): live/remix/other version",
+    "lrclib 19234592 (Love The Way You Lie / Eminem Ft Rihanna / Love The Way You Lie, 335.856327s): duration matches no reference length",
+    "lrclib 31164480 (Love The Way You Lie / Rihanna ft. Eminem / Love The Way You Lie, 302.0s): duration matches no reference length",
+    "lrclib 38486861 (Love the Way You Lie (album version) / Eminem / Love the Way You Lie, 302.0s): duration matches no reference length",
+    "lrclib 38119442 (Love the Way You Lie (album version) / Eminem / Love the Way You Lie, 241.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

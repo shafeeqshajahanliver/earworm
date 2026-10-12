@@ -1,0 +1,227 @@
+{
+  "id": "1968-hey-jude",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "hey_jude_dt",
+      "match": {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "year": "1968",
+        "rs500_rank": "8",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 2",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, hey_jude_dt.har/.clt + hey_jude.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 422 s; our recording 438 s",
+      "parse_check": "expanded 132 bars; timed chord list ends in bar 131",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 1.284,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 1
+        },
+        {
+          "start": 1.284,
+          "end": 26.814,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 1,
+          "bars": 8
+        },
+        {
+          "start": 26.814,
+          "end": 52.517,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 9,
+          "bars": 8
+        },
+        {
+          "start": 52.517,
+          "end": 92.794,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 17,
+          "bars": 13
+        },
+        {
+          "start": 92.794,
+          "end": 118.636,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 30,
+          "bars": 8
+        },
+        {
+          "start": 118.636,
+          "end": 159.513,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 38,
+          "bars": 13
+        },
+        {
+          "start": 159.513,
+          "end": 185.758,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 51,
+          "bars": 8
+        },
+        {
+          "start": 185.758,
+          "end": 189.043,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 59,
+          "bars": 1
+        },
+        {
+          "start": 189.043,
+          "end": 421.907,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 60,
+          "bars": 72
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "hey_jude_tdc",
+      "match": {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "year": "1968",
+        "rs500_rank": "8",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 2",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, hey_jude_tdc.har/.clt + hey_jude.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 422 s; our recording 438 s",
+      "parse_check": "expanded 132 bars; timed chord list ends in bar 131",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 1.284,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 1
+        },
+        {
+          "start": 1.284,
+          "end": 52.517,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 1,
+          "bars": 16
+        },
+        {
+          "start": 52.517,
+          "end": 92.794,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 17,
+          "bars": 13
+        },
+        {
+          "start": 92.794,
+          "end": 118.636,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 30,
+          "bars": 8
+        },
+        {
+          "start": 118.636,
+          "end": 159.513,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 38,
+          "bars": 13
+        },
+        {
+          "start": 159.513,
+          "end": 185.758,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 51,
+          "bars": 8
+        },
+        {
+          "start": 185.758,
+          "end": 189.043,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 59,
+          "bars": 1
+        },
+        {
+          "start": 189.043,
+          "end": 421.907,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 60,
+          "bars": 72
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "verse bridge verse bridge verse outro",
+      "rolling_stone_tdc": "verse bridge verse bridge verse outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      }
+    ],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

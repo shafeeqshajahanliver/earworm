@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3711665,
+  "kind": "synced",
+  "matched": {
+    "track": "Crazy",
+    "artist": "Gnarls Barkley",
+    "album": "St. Elsewhere",
+    "duration_s": 182.0
+  },
+  "duration_matched_to": "musicbrainz recording length (182s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 182.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 182.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 178.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 0.961,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34214588 (Crazy (Single Version) / Gnarls Barkley / Crazy (12\" Version), 178.0s): live/remix/other version",
+    "lrclib 34000306 (Crazy (single version) / Gnarls Barkley / Crazy, 276.0s): duration matches no reference length",
+    "lrclib 25252436 (Crazy (single version) / Gnarls Barkley / Crazy, 379.048257s): duration matches no reference length",
+    "lrclib 11662409 (Crazy (- single version) / Gnarls Barkley / Crazy (12\" Version), 182.0s): live/remix/other version",
+    "lrclib 37310732 (Crazy / Gnarls Barkley / Mastermix Grandmaster 00's, 103.0s): duration matches no reference length",
+    "lrclib 37414369 (Crazy / Gnarls Barkley / From the basement, 315.0s): duration matches no reference length",
+    "lrclib 28949448 (Crazy / Gnarls Barkley / Aphilliates And Gnarls Barkley, 195.0s): duration matches no reference length",
+    "lrclib 22485169 (Crazy (Originally Performed by Gnarls Barkley) / Gnarls Barkley / Crazy, 181.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

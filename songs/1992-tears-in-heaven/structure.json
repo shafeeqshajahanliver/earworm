@@ -1,0 +1,315 @@
+{
+  "id": "1992-tears-in-heaven",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "tears_in_heaven_dt",
+      "match": {
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "year": "1992",
+        "rs500_rank": "353",
+        "audio_used": {
+          "artist": "Eric Clapton",
+          "album": "Rush [Soundtrack]",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, tears_in_heaven_dt.har/.clt + tears_in_heaven.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 265 s; our recording 273 s",
+      "parse_check": "expanded 84 bars; timed chord list ends in bar 83",
+      "sections": [
+        {
+          "start": 0.641,
+          "end": 13.159,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 13.159,
+          "end": 38.138,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 8
+        },
+        {
+          "start": 38.138,
+          "end": 56.881,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 12,
+          "bars": 6
+        },
+        {
+          "start": 56.881,
+          "end": 69.389,
+          "label": "Li",
+          "normalised": "other",
+          "first_bar": 18,
+          "bars": 4
+        },
+        {
+          "start": 69.389,
+          "end": 94.369,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 22,
+          "bars": 8
+        },
+        {
+          "start": 94.369,
+          "end": 113.148,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 30,
+          "bars": 6
+        },
+        {
+          "start": 113.148,
+          "end": 125.662,
+          "label": "Li",
+          "normalised": "other",
+          "first_bar": 36,
+          "bars": 4
+        },
+        {
+          "start": 125.662,
+          "end": 150.626,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 40,
+          "bars": 8
+        },
+        {
+          "start": 150.626,
+          "end": 175.647,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 175.647,
+          "end": 194.375,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 6
+        },
+        {
+          "start": 194.375,
+          "end": 206.867,
+          "label": "Li",
+          "normalised": "other",
+          "first_bar": 62,
+          "bars": 4
+        },
+        {
+          "start": 206.867,
+          "end": 231.861,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 66,
+          "bars": 8
+        },
+        {
+          "start": 231.861,
+          "end": 250.611,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 74,
+          "bars": 6
+        },
+        {
+          "start": 250.611,
+          "end": 265.415,
+          "label": "Li",
+          "normalised": "other",
+          "first_bar": 80,
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "tears_in_heaven_tdc",
+      "match": {
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "year": "1992",
+        "rs500_rank": "353",
+        "audio_used": {
+          "artist": "Eric Clapton",
+          "album": "Rush [Soundtrack]",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, tears_in_heaven_tdc.har/.clt + tears_in_heaven.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 265 s; our recording 273 s",
+      "parse_check": "expanded 84 bars; timed chord list ends in bar 83",
+      "sections": [
+        {
+          "start": 0.641,
+          "end": 13.159,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 13.159,
+          "end": 38.138,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 8
+        },
+        {
+          "start": 38.138,
+          "end": 56.881,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 12,
+          "bars": 6
+        },
+        {
+          "start": 56.881,
+          "end": 69.389,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 18,
+          "bars": 4
+        },
+        {
+          "start": 69.389,
+          "end": 94.369,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 22,
+          "bars": 8
+        },
+        {
+          "start": 94.369,
+          "end": 113.148,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 30,
+          "bars": 6
+        },
+        {
+          "start": 113.148,
+          "end": 125.662,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 36,
+          "bars": 4
+        },
+        {
+          "start": 125.662,
+          "end": 150.626,
+          "label": "BBr",
+          "normalised": "other",
+          "first_bar": 40,
+          "bars": 8
+        },
+        {
+          "start": 150.626,
+          "end": 175.647,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 175.647,
+          "end": 194.375,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 56,
+          "bars": 6
+        },
+        {
+          "start": 194.375,
+          "end": 206.867,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 62,
+          "bars": 4
+        },
+        {
+          "start": 206.867,
+          "end": 231.861,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 66,
+          "bars": 8
+        },
+        {
+          "start": 231.861,
+          "end": 250.611,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 74,
+          "bars": 6
+        },
+        {
+          "start": 250.611,
+          "end": 265.415,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 80,
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse chorus verse chorus bridge verse chorus verse chorus",
+      "rolling_stone_tdc": "verse bridge verse bridge verse bridge verse bridge"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.5
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

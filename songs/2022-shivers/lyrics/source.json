@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 31937721,
+  "kind": "synced",
+  "matched": {
+    "track": "Shivers",
+    "artist": "Ed Sheeran",
+    "album": "Shivers Feat Jessi Amp Sunmi Ed Sheeran",
+    "duration_s": 208.0
+  },
+  "duration_matched_to": "musicbrainz recording length (208s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 207.853,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 207.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 207.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36976447 (Shivers / Ed Sheeran / Sing‐A‐Long Summer Songs, 238.0s): duration matches no reference length",
+    "lrclib 36879754 (Shivers / Ed Sheeran / Shivers  - Single, 187.0s): duration matches no reference length",
+    "lrclib 34702617 (Shivers / Ed Sheeran / Unknown Album, 237.0s): duration matches no reference length",
+    "lrclib 34516289 (Shivers / Ed Sheeran / Shivers, 187.0s): duration matches no reference length",
+    "lrclib 34595098 (Shivers / Ed Sheeran / Bachata Music Remix 2025 - Top 100 Bachata Remixes of Popular Songs 2025, 225.0s): live/remix/other version",
+    "lrclib 33891928 (Shivers / Ed Sheeran / YouTube Search - Ed Sheeran Shivers, 238.0s): duration matches no reference length",
+    "lrclib 26190361 (Shivers / Ed Sheeran / Shivers Dillon Francis Remix Ed Sheeran, 207.960816s): live/remix/other version",
+    "lrclib 25517608 (Shivers / Ed Sheeran / Shivers Jax Jones Remix Ed Sheeran, 207.908571s): live/remix/other version",
+    "lrclib 6649147 (Shivers / Ed Sheeran / Ed Sheeran, 238.0s): duration matches no reference length",
+    "lrclib 23419170 (Shivers / ED SHEERAN / Ed Sheeran Essentials, 224.574975s): duration matches no reference length",
+    "lrclib 8799489 (Shivers / Ed Sheeran / Ed Sheeran Songs, 238.0s): duration matches no reference length",
+    "lrclib 8970883 (Shivers / Ed Sheeran / Ed Sheeran Videos, 238.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

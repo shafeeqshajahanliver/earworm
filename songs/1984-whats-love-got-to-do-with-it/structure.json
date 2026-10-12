@@ -1,0 +1,119 @@
+{
+  "id": "1984-whats-love-got-to-do-with-it",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "150",
+      "also_ids": [],
+      "match": {
+        "title": "What's Love Got To Do With It",
+        "artist": "Tina Turner",
+        "chart_date": "1984-09-29",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 150 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 229.052,
+      "version_check": "duration within 12 s (+0.7 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.325,
+          "end": 20.094,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 20.094,
+          "end": 37.223,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 7
+        },
+        {
+          "start": 37.223,
+          "end": 51.98,
+          "label": "pre-chorus",
+          "letter": "B",
+          "normalised": "prechorus",
+          "bars": 6
+        },
+        {
+          "start": 51.98,
+          "end": 71.548,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 71.548,
+          "end": 88.78,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 88.78,
+          "end": 103.485,
+          "label": "pre-chorus",
+          "letter": "B",
+          "normalised": "prechorus",
+          "bars": 6
+        },
+        {
+          "start": 103.485,
+          "end": 123.076,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 123.076,
+          "end": 141.476,
+          "label": "solo",
+          "letter": "D",
+          "normalised": "solo",
+          "bars": 8
+        },
+        {
+          "start": 141.476,
+          "end": 161.096,
+          "label": "bridge",
+          "letter": "E",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 161.096,
+          "end": 207.717,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 20
+        },
+        {
+          "start": 207.717,
+          "end": 226.873,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1980-magic",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3838467901,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "QZUDB2200114",
+    "title": "Magic (Remastered 2022)",
+    "artist": "Olivia Newton-John",
+    "album": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
+    "track_duration_s": 272,
+    "link": "https://www.deezer.com/track/3838467901",
+    "duration_matched_to": "wikipedia infobox length (271s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 103.9,
+    "tempo_bpm_grid": 104.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      215.3,
+      198.8
+    ],
+    "beats_detected": 48,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.832,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.57,
+    "chroma_profile": [
+      0.609,
+      0.555,
+      1.0,
+      0.743,
+      0.731,
+      0.762,
+      0.609,
+      0.745,
+      0.632,
+      0.851,
+      0.761,
+      0.528
+    ],
+    "rms_dbfs": -11.24,
+    "rms_dbfs_p95_frame": -8.12,
+    "peak_dbfs": 1.04,
+    "loudness_lufs_approx": -9.84,
+    "spectral_centroid_hz_mean": 2445.9,
+    "spectral_centroid_hz_median": 2493.7,
+    "onsets": 97,
+    "onset_density_per_s": 3.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3838467901",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3838467901",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 3836910121: version (Magic (Live))",
+    "deezer 3842217451: version (Magic (Live))"
+  ]
+}

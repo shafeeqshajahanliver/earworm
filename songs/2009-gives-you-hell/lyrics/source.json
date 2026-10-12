@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1006171,
+  "kind": "synced",
+  "matched": {
+    "track": "Gives You Hell",
+    "artist": "The All-American Rejects",
+    "album": "When The World Comes Down",
+    "duration_s": 213.0
+  },
+  "duration_matched_to": "musicbrainz recording length (213s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 213.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 213.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37419669 (gives you hell / the all american rejects / SFKK32, 222.0s): duration matches no reference length",
+    "lrclib 36181797 (Gives You Hell / The All-American Rejects / Demos for Your Memo, 213.0s): live/remix/other version",
+    "lrclib 36679018 (Gives You Hell / The All-American Rejects / Gives You Hell Remixes, 314.0s): live/remix/other version",
+    "lrclib 23578639 (Gives You Hell / The All-American Rejects / Gives You Hell Remixes, 387.709388s): live/remix/other version",
+    "lrclib 23020722 (Gives You Hell / The All-American Rejects / Gives You Hell Remixes, 212.0s): live/remix/other version",
+    "lrclib 28719349 (Gives You Hell / The All-American Rejects / Gives You Hell Remixes, 273.0s): live/remix/other version",
+    "lrclib 10620412 (Gives You Hell / The All-American Rejects / Gives You Hell: The Remixes, 212.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

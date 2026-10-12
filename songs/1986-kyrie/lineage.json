@@ -1,0 +1,42 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/10719",
+    "title": "Kyrie",
+    "performer": "Mr. Mister",
+    "is_original": true,
+    "first_release_date": "1985-06-24",
+    "releases": [
+      {
+        "title": "Welcome to the Real World",
+        "uri": "https://api.secondhandsongs.com/release/4695",
+        "performer": "Mr. Mister"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 27,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/10719",
+    "title": "Kyrie",
+    "language": "English",
+    "writers": [
+      "Steve George",
+      "John Lang",
+      "Richard Page"
+    ],
+    "original_performer": "Mr. Mister",
+    "versions": 28,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kyrie",
+        "uri": "https://api.secondhandsongs.com/work/178766"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "1966-these-boots-are-made-for-walkin",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "284",
+      "also_ids": [],
+      "match": {
+        "title": "These Boots Are Made For Walkin'",
+        "artist": "Nancy Sinatra",
+        "chart_date": "1966-02-05",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 284 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 154.175,
+      "version_check": "duration within 12 s (-8.8 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.511,
+          "end": 11.544,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 11.544,
+          "end": 32.973,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 32.973,
+          "end": 42.257,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 42.257,
+          "end": 53.174,
+          "label": "interlude",
+          "letter": "A",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 53.174,
+          "end": 74.535,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 74.535,
+          "end": 83.873,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 83.873,
+          "end": 94.698,
+          "label": "interlude",
+          "letter": "A",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 94.698,
+          "end": 115.943,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 115.943,
+          "end": 125.297,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 125.297,
+          "end": 141.414,
+          "label": "outro",
+          "letter": "A'",
+          "normalised": "outro",
+          "bars": 6
+        },
+        {
+          "start": 141.414,
+          "end": 148.654,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

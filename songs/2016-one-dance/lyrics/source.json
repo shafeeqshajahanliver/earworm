@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 23111,
+  "kind": "synced",
+  "matched": {
+    "track": "One Dance",
+    "artist": "Drake feat. Wizkid & Kyla",
+    "album": "Views",
+    "duration_s": 174.0
+  },
+  "duration_matched_to": "musicbrainz recording length (174s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 174.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 174.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 173.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 35,
+  "agreement_with_other_candidates": 0.972,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36939241 (One Dance / Drake / Views, 129.0s): duration matches no reference length",
+    "lrclib 36747916 (One Dance / Drake / Views, 209.0s): duration matches no reference length",
+    "lrclib 36506717 (One Dance / Drake / Views, 259.0s): duration matches no reference length",
+    "lrclib 34231966 (One Dance / Drake / Views, 199.0s): duration matches no reference length",
+    "lrclib 35832762 (One Dance / Drake / Views, 100.0s): duration matches no reference length",
+    "lrclib 35598429 (One Dance / Drake / Views, 219.0s): duration matches no reference length",
+    "lrclib 35492823 (One Dance / Drake / Views, 305.0s): duration matches no reference length",
+    "lrclib 18707320 (One Dance / Drake / Views, 187.08898s): duration matches no reference length",
+    "lrclib 33524642 (One Dance / Drake feat. WizKid & Kyla / Views, 132.0s): duration matches no reference length",
+    "lrclib 36636991 (One Dance / Drake feat. WizKid & Kyla / Now Thats What I Call Music! 95 (2016), 132.0s): duration matches no reference length",
+    "lrclib 21181799 (One Dance / Drake Feat. Wizkid & Kyla / Views, 187.106395s): duration matches no reference length",
+    "lrclib 20490204 (One Dance / Drake feat. Wizkid & Kyla / HT Select Mix Quick Trax Vol. 05 (DD), 165.982041s): duration matches no reference length",
+    "lrclib 21803536 (One Dance / Drake feat. Wizkid & Kyla / Mastermix: DJ Beats Chart Collection Vol. 01, 206.915918s): duration matches no reference length",
+    "lrclib 38611472 (one dance / drake / drake, 147.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

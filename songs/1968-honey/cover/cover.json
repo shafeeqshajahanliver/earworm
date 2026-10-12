@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "95dcb341-6569-4223-b10c-1f2b3e74b84d",
+      "release_title": "Honey",
+      "release_date": "1968-03",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/40fd332a-2c34-49c1-929c-019f55d37c0f/43215537327-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/40fd332a-2c34-49c1-929c-019f55d37c0f",
+      "image_id": 43215537327,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.788,
+        "saturation": 0.288,
+        "dark_share": 0.145,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.35
+          },
+          {
+            "hex": "#e9c157",
+            "share": 0.267
+          },
+          {
+            "hex": "#3e2d0f",
+            "share": 0.203
+          },
+          {
+            "hex": "#fcf8e7",
+            "share": 0.1
+          },
+          {
+            "hex": "#fefeff",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9eba18d0-a302-4815-94c4-33e8d95bd248",
+      "release_title": "Honey",
+      "release_date": "1990",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Honey",
+      "url": "http://coverartarchive.org/release/d52e88a4-0cd1-4620-98c8-de958809bc5e/12553010072-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/d52e88a4-0cd1-4620-98c8-de958809bc5e",
+      "image_id": "12553010072",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        498,
+        500
+      ],
+      "measures": {
+        "brightness": 0.636,
+        "saturation": 0.497,
+        "dark_share": 0.029,
+        "palette": [
+          {
+            "hex": "#c0394b",
+            "share": 0.325
+          },
+          {
+            "hex": "#462c35",
+            "share": 0.281
+          },
+          {
+            "hex": "#a74951",
+            "share": 0.153
+          },
+          {
+            "hex": "#eac091",
+            "share": 0.138
+          },
+          {
+            "hex": "#ba826f",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0b/55/8c/0b558ca7-960c-2357-f088-35f30f2a541f/00602577008535.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Honey",
+      "collection_id": 1436528548,
+      "track_id": 1436528556,
+      "artist_name": "Bobby Goldsboro",
+      "release_date": "1968-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.401,
+        "saturation": 0.485,
+        "dark_share": 0.459,
+        "palette": [
+          {
+            "hex": "#191611",
+            "share": 0.333
+          },
+          {
+            "hex": "#2a1b12",
+            "share": 0.214
+          },
+          {
+            "hex": "#b79b57",
+            "share": 0.19
+          },
+          {
+            "hex": "#805229",
+            "share": 0.164
+          },
+          {
+            "hex": "#ede0a8",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

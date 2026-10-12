@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "ec9149cf-a797-4614-b9be-26ea009af90f",
+      "release_title": "The Good, the Bad and the Ugly / March With Hope",
+      "release_date": "1968-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "1b7c995e-9dcf-3f0b-a43c-fb03599dfe1d",
+      "release_title": "Music From \"The Good, the Bad and the Ugly\" & \"A Fistful of Dollars\" & \"For a Few Dollars More\"",
+      "release_date": "1967",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Music from The Good, the Bad and the Ugly, A Fistful of Dollars and For a Few Dollars More",
+      "url": "http://coverartarchive.org/release/4b4ac672-398b-4239-9f22-727b975914e9/10065256548-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/4b4ac672-398b-4239-9f22-727b975914e9",
+      "image_id": "10065256548",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        494,
+        500
+      ],
+      "measures": {
+        "brightness": 0.769,
+        "saturation": 0.13,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#fdfdf7",
+            "share": 0.263
+          },
+          {
+            "hex": "#463d39",
+            "share": 0.251
+          },
+          {
+            "hex": "#d0bb95",
+            "share": 0.203
+          },
+          {
+            "hex": "#fbfdf5",
+            "share": 0.155
+          },
+          {
+            "hex": "#faf8f0",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/7d/96/1f/mzi.fwzzpfii.jpg/1200x1200bb.jpg",
+      "collection": "Music from \"The Good, the Bad and the Ugly\" & \"A Fistful of Dollars\" & \"For a Few Dollars More\"",
+      "collection_id": 254637060,
+      "track_id": 254637065,
+      "artist_name": "Hugo Montenegro and His Orchestra",
+      "release_date": "1968-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        593,
+        600
+      ],
+      "measures": {
+        "brightness": 0.768,
+        "saturation": 0.132,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#463c39",
+            "share": 0.254
+          },
+          {
+            "hex": "#fdfdf5",
+            "share": 0.215
+          },
+          {
+            "hex": "#fdfdf8",
+            "share": 0.213
+          },
+          {
+            "hex": "#cfba93",
+            "share": 0.199
+          },
+          {
+            "hex": "#faf8ef",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

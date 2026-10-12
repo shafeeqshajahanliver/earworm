@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "05921f17-5bca-44ea-accb-4b288d3fc535",
+      "release_title": "(I Can’t Get No) Satisfaction",
+      "release_date": "1965",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/5f095616-a714-4b85-a280-6dbdafef72d8/2431942074-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/5f095616-a714-4b85-a280-6dbdafef72d8",
+      "image_id": "2431942074",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.762,
+        "saturation": 0.658,
+        "dark_share": 0.05,
+        "palette": [
+          {
+            "hex": "#e14628",
+            "share": 0.39
+          },
+          {
+            "hex": "#df7861",
+            "share": 0.199
+          },
+          {
+            "hex": "#562731",
+            "share": 0.169
+          },
+          {
+            "hex": "#d65a41",
+            "share": 0.157
+          },
+          {
+            "hex": "#dea18d",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/8c/5b/6b8c5bc2-cbf3-5d48-ac10-565dd728802b/13ABKIM00023.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Out of Our Heads",
+      "collection_id": 1440743344,
+      "track_id": 1440743544,
+      "artist_name": "The Rolling Stones",
+      "release_date": "1965-06-06T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.351,
+        "saturation": 0.169,
+        "dark_share": 0.463,
+        "palette": [
+          {
+            "hex": "#c09c8e",
+            "share": 0.227
+          },
+          {
+            "hex": "#44423f",
+            "share": 0.203
+          },
+          {
+            "hex": "#2b2f2f",
+            "share": 0.202
+          },
+          {
+            "hex": "#24292a",
+            "share": 0.195
+          },
+          {
+            "hex": "#262d2d",
+            "share": 0.173
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

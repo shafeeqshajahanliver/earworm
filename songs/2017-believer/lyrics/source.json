@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3204708,
+  "kind": "synced",
+  "matched": {
+    "track": "Believer",
+    "artist": "Imagine Dragons",
+    "album": "Imagine Dragons - Believer",
+    "duration_s": 204.0
+  },
+  "duration_matched_to": "musicbrainz recording length (204s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 204.345,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 202.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 204.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 0.934,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36862049 (believer / imagine dragons / believe, 221.0s): duration matches no reference length",
+    "lrclib 34548590 (Believer / Imagine Dragons / 2,9 bi de visualizações, 217.0s): duration matches no reference length",
+    "lrclib 34708223 (believer / imagine dragons / believer  single, 220.0s): duration matches no reference length",
+    "lrclib 34751835 (Believer / Imagine Dragons / En Vrac & Youtube, 217.0s): duration matches no reference length",
+    "lrclib 35234707 (Believer / Imagine Dragons / Evolve, 167.0s): duration matches no reference length",
+    "lrclib 35005972 (Believer / Imagine Dragons / Evolve, 299.0s): duration matches no reference length",
+    "lrclib 32287144 (Believer / Imagine Dragons / Imagine Dragons - Believer, 217.0s): duration matches no reference length",
+    "lrclib 28997823 (Believer / Imagine Dragons / Imagine Dragons - Believer   .mp4, 216.0s): duration matches no reference length",
+    "lrclib 35734319 (Believer / Imagine Dragons / Imagine Dragons, 173.0s): duration matches no reference length",
+    "lrclib 19679396 (Believer / Imagine Dragons / Imagine Dragons, 76.016327s): duration matches no reference length",
+    "lrclib 14324337 (Believer / imagine dragons / Imagine Dragons, 216.5632s): duration matches no reference length",
+    "lrclib 22776714 (Believer / Imagine Dragons / Imagine Dragons Songs, 217.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

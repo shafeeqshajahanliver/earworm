@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18364423,
+  "kind": "synced",
+  "matched": {
+    "track": "We Found Love",
+    "artist": "Rihanna",
+    "album": "Talk That Talk [Deluxe Clean Version]",
+    "duration_s": 215.327347
+  },
+  "duration_matched_to": "musicbrainz recording length (215s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 215.379,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 216.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 37,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37106237 (We Found Love / Rihanna / Talk That Talk, 5.0s): duration matches no reference length",
+    "lrclib 36861615 (We Found Love / Rihanna / LOUD Tour: Live at the O2, 275.0s): live/remix/other version",
+    "lrclib 36929222 (We Found Love / Rihanna / Talk That Talk (Explicit), 202.0s): duration matches no reference length",
+    "lrclib 34739242 (We Found Love / Rihanna / LOUD Tour: Live at the O2, 215.0s): live/remix/other version",
+    "lrclib 34619550 (We Found Love / Rihanna / Talk That Talk, 162.0s): duration matches no reference length",
+    "lrclib 34914904 (We Found Love / Rihanna / Talk That Talk, 205.0s): duration matches no reference length",
+    "lrclib 36328786 (We Found Love / Rihanna / We Found Love, 357.0s): duration matches no reference length",
+    "lrclib 36650338 (We Found Love / Rihanna / music, 276.0s): duration matches no reference length",
+    "lrclib 34142141 (We Found Love / Rihanna / Fresh FM Mix KetelStraat, 205.0s): duration matches no reference length",
+    "lrclib 35563210 (We Found Love / Rihanna / Talk That Talk, 190.0s): duration matches no reference length",
+    "lrclib 20232835 (We Found Love / Rihanna / 2011, 208.8489856s): duration matches no reference length",
+    "lrclib 20946752 (We Found Love / Rihanna / DJ KAORI’S Party Mix 3, 275.568s): duration matches no reference length",
+    "lrclib 37141292 (We Found Love / Rihanna feat. Calvin Harris / Talk That Talk, 222.0s): duration matches no reference length",
+    "lrclib 33601082 (We Found Love / Rihanna feat. Calvin Harris / Officielle Dance Chart 2012, 300.0s): duration matches no reference length",
+    "lrclib 34191981 (We Found Love / Rihanna Feat. Calvin Harris / Now That's What I Call Music! 80 [Disc 1], 203.0s): duration matches no reference length",
+    "lrclib 20247407 (We Found Love / Rihanna feat. Calvin Harris / We Found Love, 209.196562s): duration matches no reference length",
+    "lrclib 32104147 (We Found Love / Rihanna / Rihanna - We Found Love, 326.0s): duration matches no reference length",
+    "lrclib 18844364 (We Found Love / Rihanna / We Found Love, 222.249796s): duration matches no reference length",
+    "lrclib 23109279 (We Found Love / Rihanna / We Found Love, 227.926375s): duration matches no reference length",
+    "lrclib 28597914 (We Found Love / Rihanna / We Found Love, 12.0s): duration matches no reference length",
+    "lrclib 25874661 (We Found Love / Rihanna / We Found Love, 275.568s): duration matches no reference length",
+    "lrclib 38047364 (We Found Love / Rihanna / We Found Love, 326.0s): duration matches no reference length",
+    "lrclib 15385934 (We Found Love / Calvin Harris & Rihanna / We Found Love, 223.0s): duration matches no reference length",
+    "lrclib 37272362 (We Found Love (extended version) / Rihanna / We Found Love, 356.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25739444,
+  "kind": "synced",
+  "matched": {
+    "track": "First Class (Paused)",
+    "artist": "Jack Harlow",
+    "album": "First Class",
+    "duration_s": 173.947
+  },
+  "duration_matched_to": "musicbrainz recording length (174s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 173.947,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 173.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 173.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35271979 (First Class / Jack Harlow / Rap Hits, 193.0s): duration matches no reference length",
+    "lrclib 36596159 (First Class / Jack Harlow / Unknown, 155.0s): duration matches no reference length",
+    "lrclib 36524271 (First Class / Jack Harlow / Come Home The Kids Miss You, 153.0s): duration matches no reference length",
+    "lrclib 6938060 (First Class / Jack Harlow / Jack Harlow, 155.0s): duration matches no reference length",
+    "lrclib 8428325 (First Class / Jack Harlow / Jack Harlow Videos, 155.0s): duration matches no reference length",
+    "lrclib 9987352 (First Class / Jack Harlow / Jack Harlow Songs, 155.0s): duration matches no reference length",
+    "lrclib 5419211 (First Class / Jack Harlow / First Class, 162.0s): duration matches no reference length",
+    "lrclib 12437334 (First Class / Jack Harlow / First Class, 155.0s): duration matches no reference length",
+    "lrclib 32388908 (First Class / Jack Harlow / First Class, 29.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5416644,
+  "kind": "synced",
+  "matched": {
+    "track": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "album": "Total Eclipse of the Heart",
+    "duration_s": 268.0
+  },
+  "duration_matched_to": "musicbrainz recording length (268s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 268.413,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 267.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 270.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 334.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 422.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 0.985,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36848136 (Total Eclipse of the Heart / Bonnie Tyler / Rocks and Honey, 328.0s): duration matches no reference length",
+    "lrclib 36907272 (Total Eclipse of the Heart / Bonnie Tyler / Faster Than the Speed of Night, 284.0s): duration matches no reference length",
+    "lrclib 37465196 (Total Eclipse of the Heart / Bonnie Tyler / Talents France Bleu 2018, 288.0s): duration matches no reference length",
+    "lrclib 37468428 (Total Eclipse of the Heart / Bonnie Tyler / Heart Rock A, 283.0s): duration matches no reference length",
+    "lrclib 37496503 (Total Eclipse Of The Heart / Bonnie Tyler / Rock Anthems, 321.0s): duration matches no reference length",
+    "lrclib 37176044 (Total Eclipse of the Heart / Bonnie Tyler / Veronica Top 1000 Aller Tijden 2007, 277.0s): duration matches no reference length",
+    "lrclib 37177368 (Total Eclipse Of The Heart / Bonnie Tyler / Internazionali Anni '80, 258.0s): duration matches no reference length",
+    "lrclib 34582242 (Total Eclipse of the Heart / Bonnie Tyler / Total Eclipse of the Heart, 283.0s): duration matches no reference length",
+    "lrclib 36235073 (Total Eclipse Of The Heart / Bonnie Tyler / Total Eclipse of the Heart, 303.0s): duration matches no reference length",
+    "lrclib 19989280 (Total Eclipse Of The Heart / Bonnie Tyler / Total Eclipse Of The Heart, 232.367125s): duration matches no reference length",
+    "lrclib 3874780 (Total Eclipse of the Heart / Bonnie Tyler / Total Eclipse of the Heart, 414.0s): duration matches no reference length",
+    "lrclib 12365121 (Total Eclipse of the Heart / Bonnie Tyler / Total Eclipse of the Heart, 276.0s): duration matches no reference length",
+    "lrclib 32719613 (Total Eclipse of the Heart / Bonnie Tyler / Total Eclipse of the Heart, 192.0s): duration matches no reference length",
+    "lrclib 32792717 (Total Eclipse of the Heart / Bonnie Tyler / Total Eclipse of the Heart, 292.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

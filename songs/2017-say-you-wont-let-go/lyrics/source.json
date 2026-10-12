@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 941620,
+  "kind": "synced",
+  "matched": {
+    "track": "Say You Won't Let Go",
+    "artist": "James Arthur",
+    "album": "Back from the Edge",
+    "duration_s": 211.0
+  },
+  "duration_matched_to": "musicbrainz recording length (211s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 211.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 211.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 211.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37156449 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 150.0s): duration matches no reference length",
+    "lrclib 34668468 (Say You Won't Let Go / James Arthur / [standalone recordings], 289.0s): duration matches no reference length",
+    "lrclib 35971381 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 200.0s): duration matches no reference length",
+    "lrclib 35971362 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 110.0s): duration matches no reference length",
+    "lrclib 36127459 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 170.0s): duration matches no reference length",
+    "lrclib 20651798 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 228.138s): duration matches no reference length",
+    "lrclib 22222241 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 176.0s): duration matches no reference length",
+    "lrclib 30176421 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 50.0s): duration matches no reference length",
+    "lrclib 30176431 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 80.0s): duration matches no reference length",
+    "lrclib 32414888 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 3.0s): duration matches no reference length",
+    "lrclib 38023384 (Say You Won't Let Go / James Arthur / Say You Won't Let Go, 185.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

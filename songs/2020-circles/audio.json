@@ -1,0 +1,70 @@
+{
+  "id": "2020-circles",
+  "preview": {
+    "service": "deezer",
+    "track_id": 742744952,
+    "matched_by": "isrc",
+    "isrc": "USUM71915699",
+    "title": "Circles",
+    "artist": "Post Malone",
+    "album": "Circles",
+    "track_duration_s": 215,
+    "link": "https://www.deezer.com/track/742744952",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.0,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      60.1,
+      117.5,
+      123.0
+    ],
+    "beats_detected": 60,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.691,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.657,
+    "chroma_profile": [
+      1.0,
+      0.66,
+      0.681,
+      0.557,
+      0.76,
+      0.899,
+      0.672,
+      0.628,
+      0.58,
+      0.668,
+      0.615,
+      0.793
+    ],
+    "rms_dbfs": -5.29,
+    "rms_dbfs_p95_frame": -2.72,
+    "peak_dbfs": 1.06,
+    "loudness_lufs_approx": -5.86,
+    "spectral_centroid_hz_mean": 1987.1,
+    "spectral_centroid_hz_median": 1865.3,
+    "onsets": 114,
+    "onset_density_per_s": 3.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 742744952",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.84,
+    "gain": -6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/742744952",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

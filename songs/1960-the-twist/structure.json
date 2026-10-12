@@ -1,0 +1,105 @@
+{
+  "id": "1960-the-twist",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "948",
+      "also_ids": [
+        "1103"
+      ],
+      "match": {
+        "title": "The Twist",
+        "artist": "Chubby Checker",
+        "chart_date": "1962-03-17",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 948 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 156.299,
+      "version_check": "duration within 12 s (-1.5 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.209,
+          "end": 6.764,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 6.764,
+          "end": 24.989,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 24.989,
+          "end": 43.208,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 43.208,
+          "end": 61.456,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 61.456,
+          "end": 79.713,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 79.713,
+          "end": 97.993,
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "bars": 12
+        },
+        {
+          "start": 97.993,
+          "end": 116.348,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 116.348,
+          "end": 134.739,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 134.739,
+          "end": 153.111,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 12
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

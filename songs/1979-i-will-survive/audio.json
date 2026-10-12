@@ -1,0 +1,72 @@
+{
+  "id": "1979-i-will-survive",
+  "preview": {
+    "service": "deezer",
+    "track_id": 725634462,
+    "matched_by": "isrc",
+    "isrc": "USUR10200634",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "album": "Love Tracks (Deluxe Edition)",
+    "track_duration_s": 296,
+    "link": "https://www.deezer.com/track/725634462",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.0,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      117.5,
+      234.9,
+      58.7
+    ],
+    "beats_detected": 57,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.719,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.551,
+    "chroma_profile": [
+      0.776,
+      0.619,
+      0.713,
+      0.705,
+      1.0,
+      0.861,
+      0.827,
+      0.91,
+      0.784,
+      0.856,
+      0.576,
+      0.772
+    ],
+    "rms_dbfs": -14.36,
+    "rms_dbfs_p95_frame": -9.89,
+    "peak_dbfs": -0.13,
+    "loudness_lufs_approx": -13.86,
+    "spectral_centroid_hz_mean": 2652.6,
+    "spectral_centroid_hz_median": 2486.1,
+    "onsets": 124,
+    "onset_density_per_s": 4.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 725634462",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 116.79,
+    "gain": -13.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/725634462",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBQRF0820407: version: I Will Survive (Rerecorded)"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 449,
+  "kind": "synced",
+  "matched": {
+    "track": "Circles",
+    "artist": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "duration_s": 215.0
+  },
+  "duration_matched_to": "musicbrainz recording length (215s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 215.093,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 215.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 215.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 14,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37091159 (Circles / Post Malone / Disco Fever: Turn the Beat Around, 295.0s): duration matches no reference length",
+    "lrclib 37263430 (Circles / Post Malone / Live From The Studio, 253.0s): live/remix/other version",
+    "lrclib 34526488 (Circles / Post Malone / Shower Karaoke, 215.0s): live/remix/other version",
+    "lrclib 35078861 (Circles / Post Malone / Hollywood's Bleeding, 3.0s): duration matches no reference length",
+    "lrclib 35174507 (Circles / Post Malone / Hollywood's Bleeding, 203.0s): duration matches no reference length",
+    "lrclib 33340758 (Circles / Post Malone / 793 M de visualizaciones, 227.0s): duration matches no reference length",
+    "lrclib 33598692 (Circles / Post Malone / Unknown Album, 226.0s): duration matches no reference length",
+    "lrclib 36246902 (Circles / Post Malone / 802 jt x ditonton, 227.0s): duration matches no reference length",
+    "lrclib 35903305 (Circles / Post Malone / Hollywood's Bleeding, 80.0s): duration matches no reference length",
+    "lrclib 9358816 (Circles / Post Malone / Post Malone, 226.0s): duration matches no reference length",
+    "lrclib 9193715 (Circles / Post Malone / Post Malone Videos, 227.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

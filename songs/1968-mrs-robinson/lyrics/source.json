@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 32979316,
+  "kind": "synced",
+  "matched": {
+    "track": "Mrs. Robinson",
+    "artist": "Simon & Garfunkel",
+    "album": "Bookends",
+    "duration_s": 238.0
+  },
+  "duration_matched_to": "musicbrainz recording length (238s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 238.333,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 242.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 242.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36953219 (Mrs. Robinson / Simon & Garfunkel / Swinging Sixties, 230.0s): duration matches no reference length",
+    "lrclib 37465298 (Mrs. Robinson / Simon & Garfunkel / Hits From 1968, 230.0s): duration matches no reference length",
+    "lrclib 37123835 (Mrs. Robinson / Simon & Garfunkel / 70er Kult, 309.0s): duration matches no reference length",
+    "lrclib 37069752 (Mrs. Robinson / Simon & Garfunkel / Forrest Gump Soundtrack (Disk 1), 231.0s): duration matches no reference length",
+    "lrclib 37287165 (Mrs. Robinson / Simon & Garfunkel / Billboard Top 100 Hits of 1968, 230.0s): duration matches no reference length",
+    "lrclib 35472146 (Mrs Robinson / Simon & Garfunkel / Mrs Robinson, 157.0s): duration matches no reference length",
+    "lrclib 3865795 (Mrs. Robinson / Simon & Garfunkel / Mrs. Robinson, 231.0s): duration matches no reference length",
+    "lrclib 37569687 (Mrs. Robinson / Simon & Garfunkel / Mrs. Robinson, 216.0s): duration matches no reference length",
+    "lrclib 1123940 (Mrs. Robinson / Simon & Garfunkel / Simon & Garfunkel, 231.0s): duration matches no reference length",
+    "lrclib 19235723 (Mrs. Robinson / Simon & Garfunkel / Simon & Garfunkel Best, 231.304s): duration matches no reference length",
+    "lrclib 19772647 (Mrs. Robinson / Simon & Garfunkel / Simon & Garfunkel Best, 223.88s): duration matches no reference length",
+    "lrclib 1278868 (Mrs. Robinson / Simon & Garfunkel / 100% Simon & Garfunkel, 231.0s): duration matches no reference length",
+    "lrclib 27243686 (Mrs. Robinson / Simon & Garfunkel / Simon & Garfunkel - Essentials, 216.346122s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

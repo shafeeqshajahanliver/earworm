@@ -1,0 +1,54 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/21300",
+    "title": "Don't You Want Me",
+    "performer": "The Human League",
+    "is_original": true,
+    "first_release_date": "1981",
+    "releases": [
+      {
+        "title": "Dare",
+        "uri": "https://api.secondhandsongs.com/release/8649",
+        "performer": "The Human League"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 85,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/21300",
+    "title": "Don't You Want Me",
+    "language": "English",
+    "writers": [
+      "Jo Callis",
+      "Phil Oakey",
+      "Adrian Wright"
+    ],
+    "original_performer": "The Human League",
+    "versions": 86,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "No fuimos héroes",
+        "uri": "https://api.secondhandsongs.com/work/205191"
+      },
+      {
+        "title": "Don't You Want the Baby",
+        "uri": "https://api.secondhandsongs.com/work/238742"
+      },
+      {
+        "title": "Vill du inte ha mig",
+        "uri": "https://api.secondhandsongs.com/work/241508"
+      },
+      {
+        "title": "No me dejes nene",
+        "uri": "https://api.secondhandsongs.com/work/262236"
+      }
+    ]
+  }
+}

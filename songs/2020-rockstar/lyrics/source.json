@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1491468,
+  "kind": "synced",
+  "matched": {
+    "track": "ROCKSTAR",
+    "artist": "DaBaby feat. Roddy Ricch",
+    "album": "BLAME IT ON BABY",
+    "duration_s": 182.0
+  },
+  "duration_matched_to": "musicbrainz recording length (182s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 181.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 182.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 181.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36268810 (ROCKSTAR / DaBaby / BLAME IT ON BABY, 140.0s): duration matches no reference length",
+    "lrclib 35915454 (ROCKSTAR / DaBaby / BLAME IT ON BABY, 204.0s): duration matches no reference length",
+    "lrclib 21249409 (Rockstar / Dababy / Eurobeat Pop Dance Music, 150.18315s): duration matches no reference length",
+    "lrclib 20352961 (Rockstar / Dababy / Nederlandse Tipparade week 2020-19, 264.333061s): duration matches no reference length",
+    "lrclib 17793026 (ROCKSTAR / DaBaby / BLAME IT ON BABY (Deluxe), 204.546667s): duration matches no reference length",
+    "lrclib 23672865 (ROCKSTAR / DaBaby / BLAME IT ON BABY (DELUXE), 264.28127s): duration matches no reference length",
+    "lrclib 23129673 (ROCKSTAR / DaBaby / BLAME IT ON BABY (DELUXE), 30.093061s): duration matches no reference length",
+    "lrclib 21006000 (Rockstar / DaBaby feat. Roddy Ricch / Mastermix: DJ Beats Chart Collection Vol. 05, 218.932245s): duration matches no reference length",
+    "lrclib 17526721 (ROCKSTAR / DaBaby feat. Roddy Ricch / BLAME IT ON BABY (DELUXE), 204.0s): duration matches no reference length",
+    "lrclib 21883502 (Rockstar / DaBaby feat. Roddy Ricch / Mastermix: DJ Beats Chart Vol. 80, 218.932245s): duration matches no reference length",
+    "lrclib 26211217 (Rockstar / Dababy Feat. Roddy Ricch / De Complete Top 40 2020, 264.28127s): duration matches no reference length",
+    "lrclib 12658026 (ROCKSTAR / DaBaby feat. Roddy Ricch / ROCKSTAR, 205.0s): duration matches no reference length",
+    "lrclib 32380860 (ROCKSTAR / DaBaby feat. Roddy Ricch / BLAME IT ON BABY, 429.0s): duration matches no reference length",
+    "lrclib 24805966 (ROCKSTAR (BLM REMIX) / DaBaby feat. Roddy Ricch / BLAME IT ON BABY, 204.69551s): live/remix/other version",
+    "lrclib 4185358 (ROCKSTAR (BLM REMIX) / DaBaby feat. Roddy Ricch / ROCKSTAR (BLM REMIX), 205.0s): live/remix/other version",
+    "lrclib 12670665 (ROCKSTAR / DaBaby / ROCKSTAR, 205.0s): duration matches no reference length",
+    "lrclib 30046637 (ROCKSTAR / DaBaby / ROCKSTAR, 253.0s): duration matches no reference length",
+    "lrclib 38656756 (ROCKSTAR / DaBaby / ROCKSTAR, 430.0s): duration matches no reference length",
+    "lrclib 14526818 (ROCKSTAR (feat. Roddy Ricch) / DaBaby / DaBaby, 429.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

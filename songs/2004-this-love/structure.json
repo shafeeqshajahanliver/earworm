@@ -1,0 +1,111 @@
+{
+  "id": "2004-this-love",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0948_thislove",
+      "match": {
+        "title": "This Love",
+        "artist": "Maroon 5",
+        "release": "The Best of Now That's What I Call Music! 10th Anniversary",
+        "musicbrainz_id": "38dc35cd-6023-43c5-a968-3a932c22517d",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0948_thislove.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0948_thislove.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 204.8,
+      "bpm": 95.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -293 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.1,
+          "end": 20.3,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 20.3,
+          "end": 40.5,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 40.5,
+          "end": 60.779,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 60.779,
+          "end": 70.8,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 3
+        },
+        {
+          "start": 70.8,
+          "end": 91.0,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 91.0,
+          "end": 111.199,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 111.199,
+          "end": 121.299,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 121.299,
+          "end": 141.499,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 141.499,
+          "end": 161.699,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 161.699,
+          "end": 181.899,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 181.899,
+          "end": 197.049,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 6
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 205 s vs 498 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

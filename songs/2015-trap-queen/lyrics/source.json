@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 424274,
+  "kind": "synced",
+  "matched": {
+    "track": "Trap Queen",
+    "artist": "Fetty Wap",
+    "album": "Fetty Wap",
+    "duration_s": 222.0
+  },
+  "duration_matched_to": "musicbrainz recording length (222s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 222.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 222.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 222.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 10,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36940309 (Trap Queen / Fetty Wap / Fetty Wap (Deluxe), Nones): duration matches no reference length",
+    "lrclib 37137288 (Trap Queen / Fetty Wap / Double Face 2015 Mixed By DJ Abdel and DJ Kost, 216.0s): duration matches no reference length",
+    "lrclib 36912380 (Trap Queen / Fetty Wap / Fetty Wap (Deluxe), Nones): duration matches no reference length",
+    "lrclib 34813907 (Trap Queen / Fetty Wap / Singles, 245.0s): duration matches no reference length",
+    "lrclib 34813914 (Trap Queen / Fetty Wap / Singles, 241.0s): duration matches no reference length",
+    "lrclib 34813911 (Trap Queen / Fetty Wap / Singles, 247.0s): duration matches no reference length",
+    "lrclib 34668004 (Trap Queen / Fetty Wap / [standalone recordings], 243.0s): duration matches no reference length",
+    "lrclib 34813909 (Trap Queen / Fetty Wap / Singles, 246.0s): duration matches no reference length",
+    "lrclib 34813910 (Trap Queen / Fetty Wap / Singles, 243.0s): duration matches no reference length",
+    "lrclib 34813913 (Trap Queen / Fetty Wap / Singles, 248.0s): duration matches no reference length",
+    "lrclib 34813912 (Trap Queen / Fetty Wap / Singles, 242.0s): duration matches no reference length",
+    "lrclib 34813916 (Trap Queen / Fetty Wap / Singles, 240.0s): duration matches no reference length",
+    "lrclib 34813917 (Trap Queen / Fetty Wap / Singles, 250.0s): duration matches no reference length",
+    "lrclib 34813908 (Trap Queen / Fetty Wap / Singles, 244.0s): duration matches no reference length",
+    "lrclib 34813915 (Trap Queen / Fetty Wap / Singles, 249.0s): duration matches no reference length",
+    "lrclib 21187452 (Trap Queen (Fetty Wap) / Fetty Wap / Fetty Wap (Explicit), 243.416937s): duration matches no reference length",
+    "lrclib 36564607 (Trap Queen / Fetty Wap / Fetty Wap, Nones): duration matches no reference length",
+    "lrclib 34322812 (Trap Queen / Fetty Wap / Fetty Wap, 213.0s): duration matches no reference length",
+    "lrclib 34335202 (Trap Queen / Fetty Wap / Fetty Wap, 211.0s): duration matches no reference length",
+    "lrclib 21388069 (Trap Queen / Fetty Wap / Fetty Wap, 244.297143s): duration matches no reference length",
+    "lrclib 24400587 (Trap Queen / Fetty Wap / Fetty Wap, 233.874286s): duration matches no reference length",
+    "lrclib 22729270 (Trap Queen (Remix) / Fetty Wap / Fetty Wap, 310.987755s): live/remix/other version",
+    "lrclib 25611185 (Trap Queen (remix) / Fetty Wap / Fetty Wap, 195.63102s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

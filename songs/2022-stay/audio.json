@@ -1,0 +1,75 @@
+{
+  "id": "2022-stay",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1425844092,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSM12103949",
+    "title": "STAY",
+    "artist": "The Kid LAROI",
+    "album": "STAY",
+    "track_duration_s": 140,
+    "link": "https://www.deezer.com/track/1425844092",
+    "duration_matched_to": "musicbrainz recording length (142s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 170.1,
+    "tempo_bpm_grid": 169.4,
+    "tempo_candidates_bpm": [
+      172.3,
+      86.1,
+      56.2
+    ],
+    "beats_detected": 86,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.6,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.564,
+    "chroma_profile": [
+      0.844,
+      0.883,
+      0.598,
+      0.616,
+      0.544,
+      0.775,
+      0.671,
+      0.743,
+      1.0,
+      0.827,
+      0.896,
+      0.649
+    ],
+    "rms_dbfs": -6.14,
+    "rms_dbfs_p95_frame": -2.6,
+    "peak_dbfs": 1.19,
+    "loudness_lufs_approx": -6.93,
+    "spectral_centroid_hz_mean": 2860.4,
+    "spectral_centroid_hz_median": 2708.6,
+    "onsets": 120,
+    "onset_density_per_s": 4.002,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1425844092",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -7.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1425844092",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer 4115973961: version (STAY)"
+  ]
+}

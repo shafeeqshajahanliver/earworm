@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1026729,
+  "kind": "synced",
+  "matched": {
+    "track": "Sunflower",
+    "artist": "Post Malone & Swae Lee",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "duration_s": 158.0
+  },
+  "duration_matched_to": "musicbrainz recording length (158s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 157.56,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 158.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 158.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33634936 (Sunflower / Post Malone & Swae Lee / Sunflower, 123.0s): duration matches no reference length",
+    "lrclib 36089181 (Sunflower (Spider-Man: Into the Spider-Verse) / Post Malone and Swae Lee / Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture), 80.0s): duration matches no reference length",
+    "lrclib 34789840 (Sunflower (Spider‐Man: Into the Spider‐Verse) / Post Malone & Swae Lee / Spider‐Man: Into the Spider‐Verse (Soundtrack From & Inspired by the Motion Picture), 168.0s): duration matches no reference length",
+    "lrclib 35376599 (Sunflower  [with Swae Lee, Nicky Jam, and Prince Royce] / Post Malone / Spider-Man: Into the Spider-Verse, 210.0s): duration matches no reference length",
+    "lrclib 34670557 (Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce] / Post Malone / Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture), 215.0s): live/remix/other version",
+    "lrclib 10015556 (Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce] / Post Malone / Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture), 210.0s): live/remix/other version",
+    "lrclib 38378465 (Sunflower (with Swae Lee, Nicky Jam, and Prince Royce) (Remix) / Post Malone / Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture), 210.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

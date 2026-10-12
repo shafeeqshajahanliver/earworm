@@ -1,0 +1,570 @@
+{
+  "id": "1985-wake-me-up-before-you-go-go",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "542",
+      "also_ids": [],
+      "match": {
+        "title": "Wake Me Up Before You Go-Go",
+        "artist": "Wham!",
+        "chart_date": "1984-10-27",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 542 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 234.423,
+      "version_check": "duration within 12 s (+3.4 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "C",
+        "tonic_pc": 0,
+        "mode": null,
+        "name": "C",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.348,
+          "end": 12.655,
+          "bars": 9,
+          "key": "C",
+          "written": [
+            "N",
+            "G7",
+            "C7",
+            "N",
+            "C7",
+            "N",
+            "C7",
+            "N",
+            "C7",
+            "N"
+          ],
+          "roman": [
+            "N",
+            "V7",
+            "I7",
+            "N",
+            "I7",
+            "N",
+            "I7",
+            "N",
+            "I7",
+            "N"
+          ],
+          "raw": [
+            "N",
+            "G:7",
+            "C:7",
+            "N",
+            "C:7",
+            "N",
+            "C:7",
+            "N",
+            "C:7",
+            "N"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 12.655,
+          "end": 24.474,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "start": 24.474,
+          "end": 37.756,
+          "bars": 9,
+          "key": "C",
+          "written": [
+            "Dm7",
+            "Em7",
+            "F",
+            "Em7",
+            "Dm7",
+            "Em7",
+            "F",
+            "G"
+          ],
+          "roman": [
+            "ii7",
+            "iii7",
+            "IV",
+            "iii7",
+            "ii7",
+            "iii7",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "D:min7",
+            "E:min7",
+            "F:maj",
+            "E:min7",
+            "D:min7",
+            "E:min7",
+            "F:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 37.756,
+          "end": 59.861,
+          "bars": 16,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Em",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "iii",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "E:min",
+            "D:min",
+            "C:maj"
+          ]
+        },
+        {
+          "label": "interlude",
+          "letter": "D",
+          "normalised": "instrumental",
+          "start": 59.861,
+          "end": 71.68,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C7",
+            "F/C",
+            "C7",
+            "F/C",
+            "C7"
+          ],
+          "roman": [
+            "I7",
+            "IV",
+            "I7",
+            "IV",
+            "I7"
+          ],
+          "raw": [
+            "C:7",
+            "F:maj/5",
+            "C:7",
+            "F:maj/5",
+            "C:7"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 71.68,
+          "end": 83.499,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "start": 83.499,
+          "end": 96.758,
+          "bars": 9,
+          "key": "C",
+          "written": [
+            "Dm7",
+            "Em7",
+            "F",
+            "Em7",
+            "Dm7",
+            "Em7",
+            "F",
+            "G"
+          ],
+          "roman": [
+            "ii7",
+            "iii7",
+            "IV",
+            "iii7",
+            "ii7",
+            "iii7",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "D:min7",
+            "E:min7",
+            "F:maj",
+            "E:min7",
+            "D:min7",
+            "E:min7",
+            "F:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 96.758,
+          "end": 118.886,
+          "bars": 15,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Em",
+            "Dm"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "iii",
+            "ii"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "E:min",
+            "D:min"
+          ]
+        },
+        {
+          "label": "interlude",
+          "letter": "D",
+          "normalised": "instrumental",
+          "start": 118.886,
+          "end": 130.728,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C7",
+            "F/C",
+            "C7",
+            "F/C",
+            "C7"
+          ],
+          "roman": [
+            "I7",
+            "IV",
+            "I7",
+            "IV",
+            "I7"
+          ],
+          "raw": [
+            "C:7",
+            "F:maj/5",
+            "C:7",
+            "F:maj/5",
+            "C:7"
+          ]
+        },
+        {
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "start": 130.728,
+          "end": 142.524,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "start": 142.524,
+          "end": 154.32,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "Dm7",
+            "Em7",
+            "F",
+            "Em7",
+            "Dm7",
+            "Em7",
+            "F",
+            "G"
+          ],
+          "roman": [
+            "ii7",
+            "iii7",
+            "IV",
+            "iii7",
+            "ii7",
+            "iii7",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "D:min7",
+            "E:min7",
+            "F:maj",
+            "E:min7",
+            "D:min7",
+            "E:min7",
+            "F:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "instrumental",
+          "letter": "B",
+          "normalised": "instrumental",
+          "start": 154.32,
+          "end": 166.139,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 166.139,
+          "end": 189.753,
+          "bars": 16,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj"
+          ]
+        },
+        {
+          "label": "outro",
+          "letter": "B",
+          "normalised": "outro",
+          "start": 189.753,
+          "end": 229.994,
+          "bars": 28,
+          "key": "C",
+          "written": [
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj",
+            "D:min",
+            "C:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

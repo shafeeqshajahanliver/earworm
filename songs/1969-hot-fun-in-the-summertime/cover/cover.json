@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "02340fc9-e612-3751-95d7-15afd08040de",
+      "release_title": "Hot Fun in the Summertime / Fun",
+      "release_date": "1969-08",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/55a14211-38c8-43bf-b9ca-c600a00c097e/22128203307-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/55a14211-38c8-43bf-b9ca-c600a00c097e",
+      "image_id": 22128203307,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        220,
+        222
+      ],
+      "measures": {
+        "brightness": 0.229,
+        "saturation": 0.548,
+        "dark_share": 0.663,
+        "palette": [
+          {
+            "hex": "#19070f",
+            "share": 0.28
+          },
+          {
+            "hex": "#0d050c",
+            "share": 0.262
+          },
+          {
+            "hex": "#2d141c",
+            "share": 0.194
+          },
+          {
+            "hex": "#703936",
+            "share": 0.155
+          },
+          {
+            "hex": "#a58c83",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "320b576b-aa9c-3c5e-8631-178e81841866",
+      "release_title": "Greatest Hits",
+      "release_date": "1970",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Greatest Hits",
+      "url": "https://coverartarchive.org/release/3f5ef113-ed23-33f3-bd6d-14ee75e15b1b/25971245897-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3f5ef113-ed23-33f3-bd6d-14ee75e15b1b",
+      "image_id": 25971245897,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.819,
+        "saturation": 0.142,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#78746d",
+            "share": 0.242
+          },
+          {
+            "hex": "#9dbfbd",
+            "share": 0.215
+          },
+          {
+            "hex": "#f8fbfa",
+            "share": 0.211
+          },
+          {
+            "hex": "#f7f9f8",
+            "share": 0.185
+          },
+          {
+            "hex": "#eef4f1",
+            "share": 0.146
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/10/25/da102506-5da5-2b7e-c4a2-7d54155c9455/828767591025.jpg/1200x1200bb.jpg",
+      "collection": "Greatest Hits",
+      "collection_id": 212579326,
+      "track_id": 212579724,
+      "artist_name": "Sly & The Family Stone",
+      "release_date": "1970-11-21T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.688,
+        "saturation": 0.196,
+        "dark_share": 0.082,
+        "palette": [
+          {
+            "hex": "#ebede8",
+            "share": 0.373
+          },
+          {
+            "hex": "#422d2f",
+            "share": 0.266
+          },
+          {
+            "hex": "#93897f",
+            "share": 0.195
+          },
+          {
+            "hex": "#dbdfd0",
+            "share": 0.133
+          },
+          {
+            "hex": "#edf0e9",
+            "share": 0.033
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

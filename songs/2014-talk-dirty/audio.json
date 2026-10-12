@@ -1,0 +1,70 @@
+{
+  "id": "2014-talk-dirty",
+  "preview": {
+    "service": "deezer",
+    "track_id": 77380958,
+    "matched_by": "isrc",
+    "isrc": "USWB11302648",
+    "title": "Talk Dirty (feat. 2 Chainz)",
+    "artist": "Jason Derulo",
+    "album": "Talk Dirty",
+    "track_duration_s": 177,
+    "link": "https://www.deezer.com/track/77380958",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 100.2,
+    "tempo_bpm_grid": 101.3,
+    "tempo_candidates_bpm": [
+      99.4,
+      103.4,
+      198.8
+    ],
+    "beats_detected": 47,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.413,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.359,
+    "chroma_profile": [
+      0.356,
+      0.396,
+      0.3,
+      0.285,
+      0.54,
+      0.912,
+      1.0,
+      0.412,
+      0.263,
+      0.295,
+      0.272,
+      0.315
+    ],
+    "rms_dbfs": -6.73,
+    "rms_dbfs_p95_frame": -3.12,
+    "peak_dbfs": 1.02,
+    "loudness_lufs_approx": -9.38,
+    "spectral_centroid_hz_mean": 2542.5,
+    "spectral_centroid_hz_median": 2491.8,
+    "onsets": 90,
+    "onset_density_per_s": 3.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 77380958",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 100.3,
+    "gain": -9.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/77380958",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

@@ -1,0 +1,111 @@
+{
+  "id": "1960-handy-man",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "250",
+      "also_ids": [],
+      "match": {
+        "title": "Handy Man",
+        "artist": "Jimmy Jones",
+        "chart_date": "1960-02-08",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 250 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 122.436,
+      "version_check": "duration within 12 s (+1.6 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.255,
+          "end": 7.973,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.973,
+          "end": 20.774,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 20.774,
+          "end": 33.635,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 33.635,
+          "end": 46.705,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 46.705,
+          "end": 59.676,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 59.676,
+          "end": 72.767,
+          "label": "solo",
+          "letter": "D",
+          "normalised": "solo",
+          "bars": 8
+        },
+        {
+          "start": 72.767,
+          "end": 86.125,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 86.125,
+          "end": 99.469,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 99.469,
+          "end": 106.073,
+          "label": "outro",
+          "letter": "A",
+          "normalised": "outro",
+          "bars": 4
+        },
+        {
+          "start": 106.073,
+          "end": 117.261,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 7
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

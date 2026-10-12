@@ -1,0 +1,41 @@
+{
+  "id": "2023-creepin",
+  "lyrics_kind": "synced",
+  "lrclib_id": 25477085,
+  "lines": 56,
+  "words": 442,
+  "unique_words": 152,
+  "type_token_ratio": 0.344,
+  "repeated_line_share": 0.304,
+  "distinct_lines": 39,
+  "zlib_compression_ratio": 0.337,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "creepin",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 45,
+    "second": 37,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.38,
+  "last_line_s": 211.52,
+  "sung_time_s": 199.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 132.6,
+  "words_per_minute_track": 119.7,
+  "longest_gap_between_lines_s": 13.34,
+  "longest_gap_starts_at_s": 45.68,
+  "first_repeated_block": {
+    "first_at_s": 27.94,
+    "recurs_at_s": 76.9,
+    "lines": [
+      "I don't wanna know, if you're playing me",
+      "Keep it on the low"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 25477085",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

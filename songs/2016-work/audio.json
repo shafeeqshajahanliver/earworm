@@ -1,0 +1,72 @@
+{
+  "id": "2016-work",
+  "preview": {
+    "service": "deezer",
+    "track_id": 118190298,
+    "matched_by": "isrc",
+    "isrc": "QM5FT1600116",
+    "title": "Work",
+    "artist": "Rihanna",
+    "album": "ANTI (Deluxe)",
+    "track_duration_s": 219,
+    "link": "https://www.deezer.com/track/118190298",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.6,
+    "tempo_bpm_grid": 123.0,
+    "tempo_candidates_bpm": [
+      184.6,
+      123.0,
+      73.8
+    ],
+    "beats_detected": 62,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.561,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.366,
+    "chroma_profile": [
+      0.526,
+      0.994,
+      0.694,
+      0.822,
+      1.0,
+      0.71,
+      0.845,
+      0.458,
+      0.51,
+      0.351,
+      0.398,
+      0.477
+    ],
+    "rms_dbfs": -7.33,
+    "rms_dbfs_p95_frame": -3.98,
+    "peak_dbfs": 1.69,
+    "loudness_lufs_approx": -8.23,
+    "spectral_centroid_hz_mean": 2652.7,
+    "spectral_centroid_hz_median": 2406.6,
+    "onsets": 138,
+    "onset_density_per_s": 4.602,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 118190298",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 183.75,
+    "gain": -8.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/118190298",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (183.8) by 31%"
+  ],
+  "rejected_candidates": []
+}

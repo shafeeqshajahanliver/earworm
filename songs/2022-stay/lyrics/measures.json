@@ -1,0 +1,41 @@
+{
+  "id": "2022-stay",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1869387,
+  "lines": 42,
+  "words": 414,
+  "unique_words": 82,
+  "type_token_ratio": 0.198,
+  "repeated_line_share": 0.524,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.216,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "stay",
+  "title_phrase_occurrences": 13,
+  "pronouns": {
+    "first_singular": 69,
+    "second": 38,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.24,
+  "last_line_s": 132.66,
+  "sung_time_s": 119.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 208.5,
+  "words_per_minute_track": 175.2,
+  "longest_gap_between_lines_s": 7.99,
+  "longest_gap_starts_at_s": 121.42,
+  "first_repeated_block": {
+    "first_at_s": 11.24,
+    "recurs_at_s": 45.14,
+    "lines": [
+      "I do the same thing I told you that I never would",
+      "I told you I'd change, even when I knew I never could"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1869387",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

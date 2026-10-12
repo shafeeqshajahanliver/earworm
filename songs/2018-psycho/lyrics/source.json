@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20205869,
+  "kind": "synced",
+  "matched": {
+    "track": "Psycho",
+    "artist": "Post Malone",
+    "album": "beerbongs and bentleys",
+    "duration_s": 221.466122
+  },
+  "duration_matched_to": "musicbrainz recording length (221s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 221.44,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 221.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 207.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 221.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 43,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 20592425 (Psycho / Post Malone Feat. Ty Dolla $ign / MF Mastermix DJ Beats Chart Volume 55, 263.709325s): duration matches no reference length",
+    "lrclib 20560860 (Psycho / Post Malone feat. Ty Dolla $ign / Full Tilt Remix Vol. 78, 303.542857s): live/remix/other version",
+    "lrclib 36670966 (Psycho / Post Malone / beerbongs & bentleys, 149.0s): duration matches no reference length",
+    "lrclib 21060708 (Psycho / Post Malone / Twelve Carat Toothache, 236.586667s): duration matches no reference length",
+    "lrclib 19168709 (Psycho / Post Malone / Psycho, 236.586667s): duration matches no reference length",
+    "lrclib 19176878 (Psycho / Post Malone / beerbongs & bentleys, 255.72s): duration matches no reference length",
+    "lrclib 9178582 (Psycho / Post Malone / Post Malone, 237.0s): duration matches no reference length",
+    "lrclib 35598564 (Psycho (feat. Ty Dolla $ign) / Post Malone / Post Malone, 237.0s): duration matches no reference length",
+    "lrclib 8944114 (Psycho (feat. Ty Dolla $ign) / Post Malone / Post Malone Videos, 237.0s): duration matches no reference length",
+    "lrclib 7852874 (Psycho (feat. Ty Dolla $ign) / Post Malone / Post Malone Songs, 237.0s): duration matches no reference length",
+    "lrclib 12313860 (Psycho (Official Music Video) (feat. Ty Dolla $ign) / Post Malone / Post Malone Videos, 237.0s): duration matches no reference length",
+    "lrclib 11563019 (Psycho (Official Music Video) (feat. Ty Dolla $ign) / Post Malone / Post Malone Songs, 237.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

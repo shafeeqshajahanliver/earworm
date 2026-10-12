@@ -1,0 +1,88 @@
+{
+  "id": "1976-50-ways-to-leave-your-lover",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "824",
+      "also_ids": [],
+      "match": {
+        "title": "50 Ways To Leave Your Lover",
+        "artist": "Paul Simon",
+        "chart_date": "1976-03-27",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 824 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 195.03,
+      "version_check": "duration differs by -20 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 195 s vs 215 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.418,
+          "end": 10.126,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 10.126,
+          "end": 52.535,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 52.535,
+          "end": 87.602,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 87.602,
+          "end": 92.332,
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "bars": 2
+        },
+        {
+          "start": 92.332,
+          "end": 135.162,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 135.162,
+          "end": 170.365,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 170.365,
+          "end": 190.729,
+          "label": "fadeout",
+          "letter": "A",
+          "normalised": "outro",
+          "bars": 9
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

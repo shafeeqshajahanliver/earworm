@@ -1,0 +1,87 @@
+{
+  "id": "1981-lady",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1258",
+      "also_ids": [],
+      "match": {
+        "title": "Lady",
+        "artist": "Kenny Rogers",
+        "chart_date": "1980-12-27",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1258 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 235.363,
+      "version_check": "duration within 12 s (+3.6 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.557,
+          "end": 7.57,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 2
+        },
+        {
+          "start": 7.57,
+          "end": 53.664,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 14
+        },
+        {
+          "start": 53.664,
+          "end": 85.61,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 85.61,
+          "end": 131.52,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 14
+        },
+        {
+          "start": 131.52,
+          "end": 163.396,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 163.396,
+          "end": 212.973,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 15
+        },
+        {
+          "start": 212.973,
+          "end": 230.713,
+          "label": "coda",
+          "letter": "A'",
+          "normalised": "outro",
+          "bars": 3
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

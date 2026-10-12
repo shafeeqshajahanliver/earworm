@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4d507176-894b-34eb-b3c5-1079550831fc",
+      "release_title": "Hey Jude / Revolution",
+      "release_date": "1968",
+      "release_country": "NZ",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3a87246e-2427-39ce-a32f-71a3d057b243/29418993942-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3a87246e-2427-39ce-a32f-71a3d057b243",
+      "image_id": 29418993942,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        599
+      ],
+      "measures": {
+        "brightness": 0.143,
+        "saturation": 0.226,
+        "dark_share": 0.73,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.322
+          },
+          {
+            "hex": "#191c13",
+            "share": 0.279
+          },
+          {
+            "hex": "#636c38",
+            "share": 0.197
+          },
+          {
+            "hex": "#070707",
+            "share": 0.138
+          },
+          {
+            "hex": "#010001",
+            "share": 0.063
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/ad/d2/f3add268-3a49-10d4-e7f7-154b9ffc9042/00602537669035.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Hey Jude",
+      "collection_id": 1468023095,
+      "track_id": 1468032748,
+      "artist_name": "The Beatles",
+      "release_date": "1968-08-26T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.492,
+        "saturation": 0.138,
+        "dark_share": 0.211,
+        "palette": [
+          {
+            "hex": "#e0d8cb",
+            "share": 0.268
+          },
+          {
+            "hex": "#2b2725",
+            "share": 0.251
+          },
+          {
+            "hex": "#958f83",
+            "share": 0.196
+          },
+          {
+            "hex": "#635b4f",
+            "share": 0.163
+          },
+          {
+            "hex": "#3f3c3a",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

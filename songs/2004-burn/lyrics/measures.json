@@ -1,0 +1,41 @@
+{
+  "id": "2004-burn",
+  "lyrics_kind": "synced",
+  "lrclib_id": 23250586,
+  "lines": 76,
+  "words": 613,
+  "unique_words": 169,
+  "type_token_ratio": 0.276,
+  "repeated_line_share": 0.289,
+  "distinct_lines": 54,
+  "zlib_compression_ratio": 0.294,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "burn",
+  "title_phrase_occurrences": 25,
+  "pronouns": {
+    "first_singular": 48,
+    "second": 35,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.03,
+  "last_line_s": 225.34,
+  "sung_time_s": 227.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 161.5,
+  "words_per_minute_track": 143.6,
+  "longest_gap_between_lines_s": 5.72,
+  "longest_gap_starts_at_s": 15.35,
+  "first_repeated_block": {
+    "first_at_s": 79.19,
+    "recurs_at_s": 95.23,
+    "lines": [
+      "Let it burn",
+      "Let it burn, gotta let it burn"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 23250586",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

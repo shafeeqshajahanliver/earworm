@@ -1,0 +1,41 @@
+{
+  "id": "2008-love-in-this-club",
+  "lyrics_kind": "synced",
+  "lrclib_id": 19985605,
+  "lines": 58,
+  "words": 598,
+  "unique_words": 194,
+  "type_token_ratio": 0.324,
+  "repeated_line_share": 0.241,
+  "distinct_lines": 44,
+  "zlib_compression_ratio": 0.354,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "love in this club",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 39,
+    "second": 44,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.48,
+  "last_line_s": 224.26,
+  "sung_time_s": 226.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 158.6,
+  "words_per_minute_track": 134.9,
+  "longest_gap_between_lines_s": 8.44,
+  "longest_gap_starts_at_s": 198.22,
+  "first_repeated_block": {
+    "first_at_s": 60.26,
+    "recurs_at_s": 67.3,
+    "lines": [
+      "I wanna make love in this club (ay)",
+      "In this club (ay), in this club (ay), in this club (ay)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 19985605",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

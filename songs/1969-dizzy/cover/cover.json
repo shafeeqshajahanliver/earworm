@@ -1,0 +1,68 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "8dfa9da3-7dc6-382b-82ca-c4df53913f41",
+      "release_title": "Dizzy",
+      "release_date": "1969",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "c23418a2-e1a9-348a-b347-1dd76ef3a22e",
+      "release_title": "Dizzy",
+      "release_date": null,
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Dizzy",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/ec/75/f4ec75f8-79f6-188d-2447-21b5dd851b9a/859744974128_cover.jpg/1200x1200bb.jpg",
+      "collection": "Dizzy (Revisited) - Single",
+      "collection_id": 6805666677,
+      "track_id": 6805666683,
+      "artist_name": "Tommy Roe",
+      "release_date": "2025-06-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.178,
+        "saturation": 0.27,
+        "dark_share": 0.708,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.591
+          },
+          {
+            "hex": "#ab6f5b",
+            "share": 0.166
+          },
+          {
+            "hex": "#3d120e",
+            "share": 0.147
+          },
+          {
+            "hex": "#130002",
+            "share": 0.06
+          },
+          {
+            "hex": "#000001",
+            "share": 0.035
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37020231,
+  "kind": "synced",
+  "matched": {
+    "track": "Disco Lady",
+    "artist": "Johnnie Taylor",
+    "album": "TOP 40 Hitdossier Disco",
+    "duration_s": 264.0
+  },
+  "duration_matched_to": "musicbrainz recording length (260s)",
+  "duration_diff_s": 4.1,
+  "reference_lengths": [
+    {
+      "seconds": 259.906,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 238.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 242.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 268.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 40,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36279524 (Disco Lady / Johnnie Taylor / 70s Dance Party 1976-1977, 185.0s): duration matches no reference length",
+    "lrclib 24103191 (Disco Lady (Single Version) / Johnnie Taylor / Disco Collection (Disc 1), 230.429325s): duration matches no reference length",
+    "lrclib 21554807 (Disco Lady (Single Version) / Johnnie Taylor / Top 40 Dossier 1976, 230.429325s): duration matches no reference length",
+    "lrclib 16879466 (Disco Lady 2000 / Johnnie Taylor / The Best of Johnnie Taylor, 247.118367s): duration matches no reference length",
+    "lrclib 31028663 (Disco Lady / Johnnie Taylor / Disco Motion, 231.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

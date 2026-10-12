@@ -1,0 +1,37 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22532499,
+  "kind": "synced",
+  "matched": {
+    "track": "Bad, Bad Leroy Brown",
+    "artist": "Jim Croce",
+    "album": "Jim Croce: Bad Bad Leroy Brown: The Definitive Collection [CD 1]",
+    "duration_s": 181.002449
+  },
+  "duration_matched_to": "musicbrainz recording length (181s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 181.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 179.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 182.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 31033134 (Bad, Bad Leroy Brown / Jim Croce / Bad, Bad Leroy Brown, 210.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

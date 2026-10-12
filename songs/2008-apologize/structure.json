@@ -1,0 +1,75 @@
+{
+  "id": "2008-apologize",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0568_apologize",
+      "match": {
+        "title": "Apologize",
+        "artist": "Timbaland feat. OneRepublic",
+        "release": "Now That's What I Call Music! 27",
+        "musicbrainz_id": "a941452d-22cc-45d4-8b0f-bc2ae86c6ffc",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0568_apologize.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0568_apologize.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 184.642,
+      "bpm": 59.0,
+      "time_signature": "4/4",
+      "version_check": "duration within 12 s (-0.4 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.148,
+          "end": 16.37,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 16.37,
+          "end": 48.912,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 48.912,
+          "end": 73.319,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 6
+        },
+        {
+          "start": 73.319,
+          "end": 105.862,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 105.862,
+          "end": 140.438,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 140.438,
+          "end": 176.53,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

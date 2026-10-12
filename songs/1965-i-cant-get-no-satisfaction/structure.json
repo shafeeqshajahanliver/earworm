@@ -1,0 +1,219 @@
+{
+  "id": "1965-i-cant-get-no-satisfaction",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "satisfaction_dt",
+      "match": {
+        "title": "Satisfaction",
+        "artist": "The Rolling Stones",
+        "year": "1965",
+        "rs500_rank": "2",
+        "audio_used": {
+          "artist": "The Rolling Stones",
+          "album": "Out of Our Heads",
+          "publication": "ABKCO [USA]"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, satisfaction_dt.har/.clt + satisfaction.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 126 bars; timed chord list ends in bar 125",
+      "sections": [
+        {
+          "start": 0.441,
+          "end": 14.614,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 14.614,
+          "end": 35.455,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 12
+        },
+        {
+          "start": 35.455,
+          "end": 74.124,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 20,
+          "bars": 22
+        },
+        {
+          "start": 74.124,
+          "end": 95.103,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 42,
+          "bars": 12
+        },
+        {
+          "start": 95.103,
+          "end": 133.886,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 54,
+          "bars": 22
+        },
+        {
+          "start": 133.886,
+          "end": 154.978,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 76,
+          "bars": 12
+        },
+        {
+          "start": 154.978,
+          "end": 193.79,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 88,
+          "bars": 22
+        },
+        {
+          "start": 193.79,
+          "end": 222.288,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 110,
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "satisfaction_tdc",
+      "match": {
+        "title": "Satisfaction",
+        "artist": "The Rolling Stones",
+        "year": "1965",
+        "rs500_rank": "2",
+        "audio_used": {
+          "artist": "The Rolling Stones",
+          "album": "Out of Our Heads",
+          "publication": "ABKCO [USA]"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, satisfaction_tdc.har/.clt + satisfaction.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 126 bars; timed chord list ends in bar 125",
+      "sections": [
+        {
+          "start": 0.441,
+          "end": 14.614,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 14.614,
+          "end": 35.455,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 12
+        },
+        {
+          "start": 35.455,
+          "end": 74.124,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 20,
+          "bars": 22
+        },
+        {
+          "start": 74.124,
+          "end": 95.103,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 42,
+          "bars": 12
+        },
+        {
+          "start": 95.103,
+          "end": 133.886,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 54,
+          "bars": 22
+        },
+        {
+          "start": 133.886,
+          "end": 154.978,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 76,
+          "bars": 12
+        },
+        {
+          "start": 154.978,
+          "end": 193.79,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 88,
+          "bars": 22
+        },
+        {
+          "start": 193.79,
+          "end": 222.288,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 110,
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse chorus verse chorus verse chorus outro",
+      "rolling_stone_tdc": "intro verse chorus verse chorus verse chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      }
+    ],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

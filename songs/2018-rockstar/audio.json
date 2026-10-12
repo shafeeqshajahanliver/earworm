@@ -1,0 +1,72 @@
+{
+  "id": "2018-rockstar",
+  "preview": {
+    "service": "deezer",
+    "track_id": 492398642,
+    "matched_by": "isrc",
+    "isrc": "USUM71710097",
+    "title": "rockstar",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "track_duration_s": 219,
+    "link": "https://www.deezer.com/track/492398642",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 160.0,
+    "tempo_bpm_grid": 161.5,
+    "tempo_candidates_bpm": [
+      161.5,
+      107.7,
+      80.7
+    ],
+    "beats_detected": 79,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.542,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.524,
+    "chroma_profile": [
+      0.33,
+      0.293,
+      0.488,
+      0.863,
+      0.724,
+      0.581,
+      0.531,
+      1.0,
+      0.589,
+      0.441,
+      0.511,
+      0.369
+    ],
+    "rms_dbfs": -5.26,
+    "rms_dbfs_p95_frame": -2.17,
+    "peak_dbfs": 0.93,
+    "loudness_lufs_approx": -8.05,
+    "spectral_centroid_hz_mean": 1811.6,
+    "spectral_centroid_hz_median": 1737.5,
+    "onsets": 123,
+    "onset_density_per_s": 4.102,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 492398642",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.25,
+    "gain": -9.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/492398642",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb major and G minor"
+  ],
+  "rejected_candidates": []
+}

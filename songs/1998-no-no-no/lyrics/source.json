@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25009437,
+  "kind": "synced",
+  "matched": {
+    "track": "No No No (Part II)",
+    "artist": "Destiny's Child Feat. Wyclef Jean",
+    "album": "No, No, No [Single]",
+    "duration_s": 212.4533329
+  },
+  "duration_matched_to": "musicbrainz recording length (213s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 212.933,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 208.0,
+      "source": "deezer preview track matched by search"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 0.761,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 18984453 (No No No (Part II) / Destinys Child / Live in Atlanta (DVD), 99.012062s): live/remix/other version",
+    "lrclib 33201621 (No, no, no  [Part II] / Destiny's Child / Billboard Hot 100 Year-End Charts of 1998, 187.0s): duration matches no reference length",
+    "lrclib 34197275 (No No No (Part II - a cappella) / Destiny's Child / No, No, No  (single), 208.0s): live/remix/other version",
+    "lrclib 21651804 (No No No (Part II - a cappella) / Destiny’s Child / No No No, 208.324s): live/remix/other version",
+    "lrclib 33440383 (No, No, No / Destiny's Child / Radio Series - March 1998, 183.0s): duration matches no reference length",
+    "lrclib 36494359 (No, No, No / Destiny’s Child / Destiny's Child, 247.0s): duration matches no reference length",
+    "lrclib 36599909 (No, No, No / Destiny's Child / The Braun MTV Eurochart '98, Volume 4, 200.0s): duration matches no reference length",
+    "lrclib 20952316 (No No No / Destiny's Child / Destiny's Child, 249.466333s): duration matches no reference length",
+    "lrclib 18856519 (No, No, No / Destiny's Child / Billboard Hot 100 Singles 1998, 246.493937s): duration matches no reference length",
+    "lrclib 20625158 (No No No / Destiny's Child / Various, 156.499592s): duration matches no reference length",
+    "lrclib 19777501 (No No No / Destiny's Child / Top Twenty 1998, 249.474917s): duration matches no reference length",
+    "lrclib 24062796 (No, No, No (Part 2) / Destiny's Child Feat. Wyclef Jean / Bravo Hits 21 - CD 2, 218.159555s): duration matches no reference length",
+    "lrclib 21589302 (No, No, No PT.2 / Destiny's Child Feat. Wyclef Jean / Magic 90s - CD2, 195.683265s): duration matches no reference length",
+    "lrclib 3635997 (No, No, No (Part 2) / Destiny’s Child feat. Wyclef Jean / DJ Mix 99, 195.0s): duration matches no reference length",
+    "lrclib 19882611 (No No No (Part 1) / Destiny's Child / No No No, 249.474917s): duration matches no reference length",
+    "lrclib 772532 (No No No (Part 1) / Destiny's Child / No No No, 247.0s): duration matches no reference length",
+    "lrclib 38927181 (No, No, No, Pt. 1 / Destiny's Child / No No No, 248.0s): duration matches no reference length",
+    "lrclib 19001759 (No No No (Part 1) / Destiny's Child / No No No (CDM), 248.5812224s): duration matches no reference length",
+    "lrclib 19792205 (No, No, No (Part 1) / Destiny's Child / No, No, No [Single], 244.306667s): duration matches no reference length",
+    "lrclib 21578880 (No No No (Part 1) / Destiny’s Child / No No No (Single), 248.533333s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

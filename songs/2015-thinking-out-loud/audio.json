@@ -1,0 +1,72 @@
+{
+  "id": "2015-thinking-out-loud",
+  "preview": {
+    "service": "deezer",
+    "track_id": 79875064,
+    "matched_by": "isrc",
+    "isrc": "GBAHS1400099",
+    "title": "Thinking out Loud",
+    "artist": "Ed Sheeran",
+    "album": "x (Deluxe Edition)",
+    "track_duration_s": 281,
+    "link": "https://www.deezer.com/track/79875064",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 157.9,
+    "tempo_bpm_grid": 159.0,
+    "tempo_candidates_bpm": [
+      78.3,
+      161.5,
+      52.7
+    ],
+    "beats_detected": 77,
+    "key": "B minor",
+    "key_tonic": "B",
+    "key_mode": "minor",
+    "key_correlation": 0.69,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.666,
+    "chroma_profile": [
+      0.731,
+      0.819,
+      0.88,
+      0.465,
+      0.932,
+      0.468,
+      0.687,
+      0.73,
+      0.59,
+      0.879,
+      0.623,
+      1.0
+    ],
+    "rms_dbfs": -8.92,
+    "rms_dbfs_p95_frame": -5.01,
+    "peak_dbfs": 0.09,
+    "loudness_lufs_approx": -9.26,
+    "spectral_centroid_hz_mean": 2003.9,
+    "spectral_centroid_hz_median": 1998.5,
+    "onsets": 72,
+    "onset_density_per_s": 2.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 79875064",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 157.8,
+    "gain": -10,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/79875064",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between B minor and A major"
+  ],
+  "rejected_candidates": []
+}

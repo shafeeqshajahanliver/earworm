@@ -1,0 +1,103 @@
+{
+  "id": "2010-love-the-way-you-lie",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0439_lovethewayyoulie",
+      "match": {
+        "title": "Love the Way You Lie",
+        "artist": "Eminem feat. Rihanna",
+        "release": "Now That's What I Call Music! 37",
+        "musicbrainz_id": "29d6a30b-b911-475c-808c-8b289844ca75",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0439_lovethewayyoulie.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0439_lovethewayyoulie.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 262.397,
+      "bpm": 87.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.638,
+          "end": 24.95,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 24.95,
+          "end": 69.057,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 69.057,
+          "end": 92.506,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 92.506,
+          "end": 102.85,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 102.85,
+          "end": 146.299,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 146.299,
+          "end": 169.747,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 169.747,
+          "end": 180.092,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 180.092,
+          "end": 226.299,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 17
+        },
+        {
+          "start": 226.299,
+          "end": 249.747,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 249.747,
+          "end": 259.402,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

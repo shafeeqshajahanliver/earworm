@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 308073,
+  "kind": "synced",
+  "matched": {
+    "track": "Sugar",
+    "artist": "Maroon 5",
+    "album": "V",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (235s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 235.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 235.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37122528 (Sugar / Maroon 5 / Sugar, 272.0s): duration matches no reference length",
+    "lrclib 37138297 (Sugar / Maroon 5 / V, Nones): duration matches no reference length",
+    "lrclib 37292092 (Sugar / Maroon 5 / V (Deluxe), 214.0s): duration matches no reference length",
+    "lrclib 34400632 (Sugar / Maroon 5 / V, 209.0s): duration matches no reference length",
+    "lrclib 34421972 (Sugar / Maroon 5 / V (Deluxe), 187.0s): duration matches no reference length",
+    "lrclib 34764404 (Sugar / Maroon 5 / V, 226.0s): duration matches no reference length",
+    "lrclib 9795897 (Sugar / Maroon 5 / Maroon 5, 301.0s): duration matches no reference length",
+    "lrclib 38083123 (Sugar / Maroon 5 / Maroon 5, 264.0s): duration matches no reference length",
+    "lrclib 8782535 (Sugar / Maroon 5 / Maroon 5 Videos, 301.0s): duration matches no reference length",
+    "lrclib 8057531 (Sugar / Maroon 5 / Maroon 5 Songs, 301.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

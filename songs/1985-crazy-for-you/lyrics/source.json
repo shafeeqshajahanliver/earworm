@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 38548322,
+  "kind": "synced",
+  "matched": {
+    "track": "Crazy For You",
+    "artist": "Madonna",
+    "album": "Crazy For You",
+    "duration_s": 238.0
+  },
+  "duration_matched_to": "musicbrainz recording length (238s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 238.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 248.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 13,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36970863 (Crazy For You / Madonna / Babies Go Madonna, 186.0s): duration matches no reference length",
+    "lrclib 37456305 (Crazy For You / Madonna / CD Single Collection, 360.0s): duration matches no reference length",
+    "lrclib 37170723 (Crazy For You / Madonna / Old Love Songs 70's-80's-90's, 226.0s): duration matches no reference length",
+    "lrclib 37104411 (Crazy for You / Madonna / The Immaculate Collection, 189.0s): duration matches no reference length",
+    "lrclib 36856293 (Crazy for you / Madonna / Best Of, 226.0s): duration matches no reference length",
+    "lrclib 34397710 (Crazy for You / Madonna / The Greatest Hits, 226.0s): duration matches no reference length",
+    "lrclib 34430343 (Crazy for You / Madonna / CD Single Collection  (single), 256.0s): duration matches no reference length",
+    "lrclib 34454769 (Crazy for You / Madonna / Vision Quest Soundtrack, 221.0s): duration matches no reference length",
+    "lrclib 34737231 (Crazy for You / Madonna / Celebration (Deluxe Version), 239.0s): live/remix/other version",
+    "lrclib 33511427 (Crazy for You / Madonna / Celebration (2xCD), 224.0s): duration matches no reference length",
+    "lrclib 33404350 (Crazy for You / Madonna / Celebration (Belgium), 224.0s): duration matches no reference length",
+    "lrclib 33586505 (Crazy For You / Madonna / Veronica's Top 100 Van Het Jaar 1985, 225.0s): duration matches no reference length",
+    "lrclib 19371437 (Crazy For You / Madonna / Crazy For You, 255.973333s): duration matches no reference length",
+    "lrclib 8589624 (Crazy for You / Madonna / Crazy for You, 224.0s): duration matches no reference length",
+    "lrclib 32000577 (Crazy For You / Madonna / Crazy For You, 273.0s): duration matches no reference length",
+    "lrclib 5023498 (Crazy For You (Remix) / Madonna / Crazy For You, 226.0s): live/remix/other version",
+    "lrclib 16305530 (Crazy For You (Remix) / Madonna / Crazy For You, 223.578448s): live/remix/other version",
+    "lrclib 18958782 (Crazy For You / Madonna / Crazy For You (Europe 12\"), 253.048163s): duration matches no reference length",
+    "lrclib 28307952 (Crazy For You [Q-Sound Remix] / Madonna / Crazy For You, 225.0s): live/remix/other version",
+    "lrclib 31801119 (Crazy for You / Madonna / Crazy for You / No More Words, 226.0s): duration matches no reference length",
+    "lrclib 13453429 (Crazy For You (Remix) / Madonna / Crazy For You (CD Single), 225.097143s): live/remix/other version",
+    "lrclib 18799884 (Crazy For You / Madonna / Madonna, 51.173878s): duration matches no reference length",
+    "lrclib 24708968 (Crazy for You / Madonna / Madonna, 225.593375s): duration matches no reference length",
+    "lrclib 30945250 (Crazy for You / Madonna / Madonna - This is Madonna, 224.0s): duration matches no reference length",
+    "lrclib 20146941 (Crazy For You (Remix) / Madonna / Crazy For You (Cd Remix Single), 224.765417s): live/remix/other version",
+    "lrclib 598561 (Crazy For You (Remix) / Madonna / Crazy For You (5'' CDS - UK), 226.0s): live/remix/other version",
+    "lrclib 29005731 (Crazy for You (Edit) / Madonna / Madonna, 226.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

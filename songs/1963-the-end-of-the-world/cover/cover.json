@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6c89afd7-1b17-4df6-ac7f-c8c0f4e1375a",
+      "release_title": "The End of the World",
+      "release_date": "1962",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/83f658f1-68f3-479f-8593-4664fb0e0eb0/33957569534-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/83f658f1-68f3-479f-8593-4664fb0e0eb0",
+      "image_id": 33957569534,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        599,
+        600
+      ],
+      "measures": {
+        "brightness": 0.435,
+        "saturation": 0.294,
+        "dark_share": 0.136,
+        "palette": [
+          {
+            "hex": "#4b4234",
+            "share": 0.274
+          },
+          {
+            "hex": "#eceae6",
+            "share": 0.22
+          },
+          {
+            "hex": "#473f31",
+            "share": 0.196
+          },
+          {
+            "hex": "#574f3e",
+            "share": 0.17
+          },
+          {
+            "hex": "#2a2216",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "00cdef03-63dc-3fbb-b484-5691127257a6",
+      "release_title": "The End of the World",
+      "release_date": "1963-03",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/18650177-22ab-470b-90d8-37fc54aae4ba/12348760656-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/18650177-22ab-470b-90d8-37fc54aae4ba",
+      "image_id": 12348760656,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        400,
+        400
+      ],
+      "measures": {
+        "brightness": 0.275,
+        "saturation": 0.291,
+        "dark_share": 0.65,
+        "palette": [
+          {
+            "hex": "#221e1b",
+            "share": 0.428
+          },
+          {
+            "hex": "#a67185",
+            "share": 0.208
+          },
+          {
+            "hex": "#21171e",
+            "share": 0.145
+          },
+          {
+            "hex": "#4e2c3f",
+            "share": 0.127
+          },
+          {
+            "hex": "#1f1e1e",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6b/09/1b/6b091b1b-b29a-7831-dc8e-dceb30100c77/Skeeter_Davis_-_The_End_of_the_World.jpg/1200x1200bb.jpg",
+      "collection": "The End of the World (Remastered) - Single",
+      "collection_id": 704932724,
+      "track_id": 704932797,
+      "artist_name": "Skeeter Davis",
+      "release_date": "1962-10-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.741,
+        "saturation": 0.081,
+        "dark_share": 0.063,
+        "palette": [
+          {
+            "hex": "#dad9da",
+            "share": 0.291
+          },
+          {
+            "hex": "#b9b9ba",
+            "share": 0.225
+          },
+          {
+            "hex": "#5e4358",
+            "share": 0.211
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.147
+          },
+          {
+            "hex": "#eaeaea",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

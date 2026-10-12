@@ -1,0 +1,65 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/24216",
+    "title": "Wake Me Up Before You Go-Go",
+    "performer": "Wham!",
+    "is_original": true,
+    "first_release_date": "1984-05",
+    "releases": [
+      {
+        "title": "Make It Big",
+        "uri": "https://api.secondhandsongs.com/release/8111",
+        "performer": "Wham!"
+      },
+      {
+        "title": "Wake Me Up Before You Go-Go",
+        "uri": "https://api.secondhandsongs.com/release/101441",
+        "performer": "Wham!"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 86,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/24216",
+    "title": "Wake Me Up Before You Go-Go",
+    "language": "English",
+    "writers": [
+      "George Michael"
+    ],
+    "original_performer": "Wham!",
+    "versions": 87,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Aamukahvi",
+        "uri": "https://api.secondhandsongs.com/work/183583"
+      },
+      {
+        "title": "Riisu pois jo arkipaita",
+        "uri": "https://api.secondhandsongs.com/work/191949"
+      },
+      {
+        "title": "Buitenspelen",
+        "uri": "https://api.secondhandsongs.com/work/217158"
+      },
+      {
+        "title": "Train Them Up Before They Grow-Grow",
+        "uri": "https://api.secondhandsongs.com/work/261660"
+      },
+      {
+        "title": "Komdu með að dansa gó gó",
+        "uri": "https://api.secondhandsongs.com/work/265539"
+      },
+      {
+        "title": "Kom nu op",
+        "uri": "https://api.secondhandsongs.com/work/266984"
+      }
+    ]
+  }
+}

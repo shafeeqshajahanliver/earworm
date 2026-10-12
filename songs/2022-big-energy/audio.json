@@ -1,0 +1,70 @@
+{
+  "id": "2022-big-energy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1491160132,
+    "matched_by": "isrc",
+    "isrc": "USRC12102454",
+    "title": "Big Energy",
+    "artist": "Latto",
+    "album": "Big Energy",
+    "track_duration_s": 173,
+    "link": "https://www.deezer.com/track/1491160132",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.0,
+    "tempo_bpm_grid": 105.5,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      52.7
+    ],
+    "beats_detected": 52,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.411,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.31,
+    "chroma_profile": [
+      0.843,
+      0.88,
+      0.981,
+      0.988,
+      1.0,
+      0.838,
+      0.873,
+      0.927,
+      0.867,
+      0.857,
+      0.923,
+      0.892
+    ],
+    "rms_dbfs": -8.04,
+    "rms_dbfs_p95_frame": -2.61,
+    "peak_dbfs": 1.94,
+    "loudness_lufs_approx": -8.52,
+    "spectral_centroid_hz_mean": 3004.7,
+    "spectral_centroid_hz_median": 2896.7,
+    "onsets": 151,
+    "onset_density_per_s": 5.035,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1491160132",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1491160132",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

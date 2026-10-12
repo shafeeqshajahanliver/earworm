@@ -1,0 +1,478 @@
+{
+  "id": "1961-crying",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "crying_dt",
+      "match": {
+        "title": "Crying",
+        "artist": "Roy Orbison",
+        "year": "1961",
+        "rs500_rank": "69",
+        "audio_used": {
+          "artist": "Roy Orbison",
+          "album": "For the Lonely: 18 Greatest Hits",
+          "publication": "Rhino 1988"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, crying_dt.har/.clt + crying.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 163 s; our recording 167 s; audio taken from compilation 'For the Lonely: 18 Greatest Hits'",
+      "parse_check": "expanded 65 bars; timed chord list ends in bar 63",
+      "key_info": {
+        "tonic": "D",
+        "tonic_pc": 2,
+        "mode": null,
+        "name": "D",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 1.183,
+          "end": 6.06,
+          "bars": 2,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 6.06,
+          "end": 25.779,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "Em7b5"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "iih65"
+          ],
+          "raw_rule": "I | | | | | Ia | IV | iih65 |"
+        },
+        {
+          "label": "Vrend1",
+          "normalised": "verse",
+          "start": 25.779,
+          "end": 33.103,
+          "bars": 3,
+          "key": "D",
+          "written": [
+            "D",
+            "A7"
+          ],
+          "roman": [
+            "I",
+            "V7"
+          ],
+          "raw_rule": "I | V7 | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 33.103,
+          "end": 67.267,
+          "bars": 14,
+          "key": "D",
+          "written": [
+            "D",
+            "F#m",
+            "D",
+            "F#m",
+            "G",
+            "A7",
+            "G",
+            "A7",
+            "D",
+            "G",
+            "Em7b5",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "iii",
+            "I",
+            "iii",
+            "IV",
+            "V7",
+            "IV",
+            "V7",
+            "I",
+            "IV",
+            "iih65",
+            "I"
+          ],
+          "raw_rule": "I | iii | I | iii | IV | V7 | IV | V7 | I | Ia | IV | iih65 | I | |"
+        },
+        {
+          "label": "Chend1",
+          "normalised": "chorus",
+          "start": 67.267,
+          "end": 77.047,
+          "bars": 4,
+          "key": "D",
+          "written": [
+            "A7",
+            "D"
+          ],
+          "roman": [
+            "V7",
+            "I"
+          ],
+          "raw_rule": "V7 | | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 77.047,
+          "end": 96.927,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "Em7b5"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "iih65"
+          ],
+          "raw_rule": "I | | | | | Ia | IV | iih65 |"
+        },
+        {
+          "label": "Vrend2",
+          "normalised": "verse",
+          "start": 96.927,
+          "end": 106.723,
+          "bars": 4,
+          "key": "D",
+          "written": [
+            "D",
+            "A7"
+          ],
+          "roman": [
+            "I",
+            "V7"
+          ],
+          "raw_rule": "I | | V7 | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 106.723,
+          "end": 142.269,
+          "bars": 14,
+          "key": "D",
+          "written": [
+            "D",
+            "F#m",
+            "D",
+            "F#m",
+            "G",
+            "A7",
+            "G",
+            "A7",
+            "D",
+            "G",
+            "Em7b5",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "iii",
+            "I",
+            "iii",
+            "IV",
+            "V7",
+            "IV",
+            "V7",
+            "I",
+            "IV",
+            "iih65",
+            "I"
+          ],
+          "raw_rule": "I | iii | I | iii | IV | V7 | IV | V7 | I | Ia | IV | iih65 | I | |"
+        },
+        {
+          "label": "Chend2",
+          "normalised": "chorus",
+          "start": 142.269,
+          "end": 163.023,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "D",
+            "Bm",
+            "G",
+            "A7",
+            "D",
+            "A7",
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V7",
+            "I",
+            "V7",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | vi | IV | V7 | I V7 | I IV | I | |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "crying_tdc",
+      "match": {
+        "title": "Crying",
+        "artist": "Roy Orbison",
+        "year": "1961",
+        "rs500_rank": "69",
+        "audio_used": {
+          "artist": "Roy Orbison",
+          "album": "For the Lonely: 18 Greatest Hits",
+          "publication": "Rhino 1988"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, crying_tdc.har/.clt + crying.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 163 s; our recording 167 s; audio taken from compilation 'For the Lonely: 18 Greatest Hits'",
+      "parse_check": "expanded 65 bars; timed chord list ends in bar 63",
+      "key_info": {
+        "tonic": "D",
+        "tonic_pc": 2,
+        "mode": null,
+        "name": "D",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 1.183,
+          "end": 6.06,
+          "bars": 2,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I | |"
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 6.06,
+          "end": 33.103,
+          "bars": 11,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw_rule": "I | | | | I | Va/IV | IV | iv | I | V | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 33.103,
+          "end": 62.397,
+          "bars": 12,
+          "key": "D",
+          "written": [
+            "D",
+            "F#m",
+            "D",
+            "F#m",
+            "G",
+            "A",
+            "G",
+            "A",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "iii",
+            "I",
+            "iii",
+            "IV",
+            "V",
+            "IV",
+            "V",
+            "I",
+            "IV"
+          ],
+          "raw_rule": "I | iii | I | iii | IV | V | IV | V | I | Va/IV | IV | iv |"
+        },
+        {
+          "label": "Ta1",
+          "normalised": "other",
+          "start": 62.397,
+          "end": 77.047,
+          "bars": 6,
+          "key": "D",
+          "written": [
+            "D",
+            "A",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | V | | I | |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 77.047,
+          "end": 106.723,
+          "bars": 12,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw_rule": "I | | | | I | Va/IV | IV | iv | I | | V | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 106.723,
+          "end": 137.057,
+          "bars": 12,
+          "key": "D",
+          "written": [
+            "D",
+            "F#m",
+            "D",
+            "F#m",
+            "G",
+            "A",
+            "G",
+            "A",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "iii",
+            "I",
+            "iii",
+            "IV",
+            "V",
+            "IV",
+            "V",
+            "I",
+            "IV"
+          ],
+          "raw_rule": "I | iii | I | iii | IV | V | IV | V | I | Va/IV | IV | iv |"
+        },
+        {
+          "label": "Ta2",
+          "normalised": "other",
+          "start": 137.057,
+          "end": 163.023,
+          "bars": 10,
+          "key": "D",
+          "written": [
+            "D",
+            "Bm",
+            "G",
+            "A",
+            "D",
+            "A",
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "V",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | | | vi | IV | V | I V | I IV | I | |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "D",
+      "rolling_stone_tdc": "D"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 0.83
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

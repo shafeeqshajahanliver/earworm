@@ -1,0 +1,56 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/24222",
+    "title": "Sweet Child o' Mine",
+    "performer": "Guns n' Roses",
+    "is_original": true,
+    "first_release_date": "1987-07-21",
+    "releases": [
+      {
+        "title": "Appetite for Destruction",
+        "uri": "https://api.secondhandsongs.com/release/5441",
+        "performer": "Guns n' Roses"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 189,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/24222",
+    "title": "Sweet Child o' Mine",
+    "language": "English",
+    "writers": [
+      "Slash",
+      "Izzy Stradlin",
+      "Duff McKagan",
+      "Axl Rose",
+      "Steven Adler"
+    ],
+    "original_performer": "Guns n' Roses",
+    "versions": 190,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Weep Jeremiah",
+        "uri": "https://api.secondhandsongs.com/work/195825"
+      },
+      {
+        "title": "Mein süßes Kind",
+        "uri": "https://api.secondhandsongs.com/work/267197"
+      },
+      {
+        "title": "Pár přátel",
+        "uri": "https://api.secondhandsongs.com/work/292157"
+      },
+      {
+        "title": "ילד מתוק",
+        "uri": "https://api.secondhandsongs.com/work/334467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/238713",
+    "title": "I'll Make Love to You",
+    "performer": "Boyz II Men",
+    "is_original": true,
+    "first_release_date": "1994",
+    "releases": [
+      {
+        "title": "II",
+        "uri": "https://api.secondhandsongs.com/release/5159",
+        "performer": "Boyz II Men"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 29,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/128110",
+    "title": "I'll Make Love to You",
+    "language": "English",
+    "writers": [
+      "Babyface"
+    ],
+    "original_performer": "Boyz II Men",
+    "versions": 30,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Yo te voy a amar",
+        "uri": "https://api.secondhandsongs.com/work/148050"
+      }
+    ]
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "id": "1964-she-loves-you",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "she_loves_you_dt",
+      "match": {
+        "title": "She Loves You",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "64",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, she_loves_you_dt.har/.clt + she_loves_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 139 s; our recording 141 s",
+      "parse_check": "expanded 87 bars; timed chord list ends in bar 85",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.0,
+          "end": 13.41,
+          "bars": 9,
+          "key": "G",
+          "written": [
+            "Em",
+            "A",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "II",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "R | vi | | II | | IV | | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 13.41,
+          "end": 38.716,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Adim",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iio6",
+            "V"
+          ],
+          "raw_rule": "I | vi | iii | V | I | vi | iii | V | I | | vi | | iio6 | | V | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 38.716,
+          "end": 64.199,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Adim",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iio6",
+            "V"
+          ],
+          "raw_rule": "I | vi | iii | V | I | vi | iii | V | I | | vi | | iio6 | | V | |"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 64.199,
+          "end": 76.715,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "Em",
+            "A",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "II",
+            "V",
+            "I"
+          ],
+          "raw_rule": "vi | | II | | iio6 | V | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 76.715,
+          "end": 102.414,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Adim",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iio6",
+            "V"
+          ],
+          "raw_rule": "I | vi | iii | V | I | vi | iii | V | I | | vi | | iio6 | | V | |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 102.414,
+          "end": 126.288,
+          "bars": 14,
+          "key": "G",
+          "written": [
+            "Em",
+            "A",
+            "D",
+            "G",
+            "Em",
+            "Adim",
+            "D",
+            "G",
+            "Em",
+            "Adim",
+            "D"
+          ],
+          "roman": [
+            "vi",
+            "II",
+            "V",
+            "I",
+            "vi",
+            "iio6",
+            "V",
+            "I",
+            "vi",
+            "iio6",
+            "V"
+          ],
+          "raw_rule": "vi | | II | | iio6 | V | I | vi | iio6 | V | I | vi | iio6 | V |"
+        },
+        {
+          "label": "Coda",
+          "normalised": "outro",
+          "start": 126.288,
+          "end": 138.832,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | | vi | | IV | | I | |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "she_loves_you_tdc",
+      "match": {
+        "title": "She Loves You",
+        "artist": "The Beatles",
+        "year": "1963",
+        "rs500_rank": "64",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Past Masters, Vol. 1",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, she_loves_you_tdc.har/.clt + she_loves_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 139 s; our recording 141 s",
+      "parse_check": "expanded 87 bars; timed chord list ends in bar 85",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 0.0,
+          "end": 1.199,
+          "bars": 1,
+          "key": "G",
+          "written": [],
+          "roman": [],
+          "raw_rule": null
+        },
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 1.199,
+          "end": 13.41,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "Em",
+            "A",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "II",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "vi | | II | | IV | | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 13.41,
+          "end": 26.034,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Bm",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iii",
+            "V"
+          ],
+          "raw_rule": "I | vi | iii | V | I | vi | iii | V |"
+        },
+        {
+          "label": "Ta",
+          "normalised": "other",
+          "start": 26.034,
+          "end": 38.716,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Cm",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iv",
+            "V"
+          ],
+          "raw_rule": "I | | vi | | iv | | V | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 38.716,
+          "end": 51.513,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Bm",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iii",
+            "V"
+          ],
+          "raw_rule": "I | vi | iii | V | I | vi | iii | V |"
+        },
+        {
+          "label": "Ta",
+          "normalised": "other",
+          "start": 51.513,
+          "end": 64.199,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Cm",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iv",
+            "V"
+          ],
+          "raw_rule": "I | | vi | | iv | | V | |"
+        },
+        {
+          "label": "Br",
+          "normalised": "bridge",
+          "start": 64.199,
+          "end": 76.715,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "Em",
+            "A",
+            "Cm",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "II",
+            "iv",
+            "V",
+            "I"
+          ],
+          "raw_rule": "vi | | II | | iv | V | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 76.715,
+          "end": 89.65,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Bm",
+            "D",
+            "G",
+            "Em",
+            "Bm",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iii",
+            "V",
+            "I",
+            "vi",
+            "iii",
+            "V"
+          ],
+          "raw_rule": "I | vi | iii | V | I | vi | iii | V |"
+        },
+        {
+          "label": "Ta",
+          "normalised": "other",
+          "start": 89.65,
+          "end": 102.414,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "Cm",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "iv",
+            "V"
+          ],
+          "raw_rule": "I | | vi | | iv | | V | |"
+        },
+        {
+          "label": "Bo",
+          "normalised": "other",
+          "start": 102.414,
+          "end": 138.832,
+          "bars": 22,
+          "key": "G",
+          "written": [
+            "Em",
+            "A",
+            "Cm",
+            "D",
+            "G",
+            "Em",
+            "Cm",
+            "D",
+            "G",
+            "Em",
+            "Cm",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "II",
+            "iv",
+            "V",
+            "I",
+            "vi",
+            "iv",
+            "V",
+            "I",
+            "vi",
+            "iv",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "vi | | II | | iv | V | I | vi | iv | V | I | vi | iv | V | I | | vi | | IV | | I | |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "G",
+      "rolling_stone_tdc": "G"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

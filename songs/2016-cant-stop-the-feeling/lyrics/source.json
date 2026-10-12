@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3724117,
+  "kind": "synced",
+  "matched": {
+    "track": "Can't Stop The Feeling!",
+    "artist": "Justin Timberlake",
+    "album": "Can't Stop The Feeling!",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (236s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 236.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 236.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 238.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36966428 (Can't Stop the Feeling! / Justin Timberlake / Singles, 286.0s): duration matches no reference length",
+    "lrclib 34798722 (Can't Stop the Feeling / Justin Timberlake / Trolls Soundtrack, 259.0s): duration matches no reference length",
+    "lrclib 34477726 (CAN’T STOP THE FEELING! / Justin Timberlake / CAN’T STOP THE FEELING!, 222.0s): duration matches no reference length",
+    "lrclib 35041259 (CAN'T STOP THE FEELING! / Justin Timberlake / 1964 M de vistas, 286.0s): duration matches no reference length",
+    "lrclib 33464212 (CAN'T STOP THE FEELING! / Justin Timberlake / Tampoco Pido Tanto, 286.0s): duration matches no reference length",
+    "lrclib 33438390 (Can't Stop The Feeling / Justin Timberlake / Trolls, 259.0s): duration matches no reference length",
+    "lrclib 36333221 (CAN'T STOP THE FEELING! / Justin Timberlake / 1972 M de vistas, 286.0s): duration matches no reference length",
+    "lrclib 36254431 (CAN'T STOP THE FEELING! / Justin Timberlake / 1971 M de visualitzacions, 286.0s): duration matches no reference length",
+    "lrclib 36360871 (Can’t Stop the Feeling! / Justin Timberlake / Darsh Fest, Vol. 2, 285.0s): duration matches no reference length",
+    "lrclib 22417855 (Can't Stop The Feeling! / Justin Timberlake / Justin Timberlake, 285.888s): duration matches no reference length",
+    "lrclib 18783347 (CAN’T STOP THE FEELING! / Justin Timberlake / CAN’T STOP THE FEELING!, 203.023673s): duration matches no reference length",
+    "lrclib 23106215 (CAN’T STOP THE FEELING! / Justin Timberlake / CAN’T STOP THE FEELING!, 103.0s): duration matches no reference length",
+    "lrclib 1019434 (Can't Stop the Feeling! / Justin Timberlake / Can't Stop the Feeling!, 144.0s): duration matches no reference length",
+    "lrclib 9084270 (CAN’T STOP THE FEELING! / Justin Timberlake / CAN’T STOP THE FEELING!, 286.0s): duration matches no reference length",
+    "lrclib 12714010 (Can't Stop The Feeling / Justin Timberlake / Can't Stop The Feeling, 259.0s): duration matches no reference length",
+    "lrclib 20031984 (CAN'T STOP THE FEELING! / Justin Timberlake / Justin Timberlake Songs, 286.0s): duration matches no reference length",
+    "lrclib 7476394 (CAN'T STOP THE FEELING! / Justin Timberlake / Justin Timberlake Videos, 286.0s): duration matches no reference length",
+    "lrclib 13616609 (Can’t Stop the Feeling / Justin Timberlake / CAN'T STOP THE FEELING - Single, 259.0s): duration matches no reference length",
+    "lrclib 22847630 (Can’t Stop The Feeling! (Album Version) / Justin Timberlake / Can’t Stop The Feeling!, 285.837646s): duration matches no reference length",
+    "lrclib 1186742 (CAN’T STOP THE FEELING! (instrumental version) / Justin Timberlake / CAN’T STOP THE FEELING!, 144.0s): live/remix/other version",
+    "lrclib 32997978 (CAN’T STOP THE FEELING! (instrumental version) / Justin Timberlake / CAN’T STOP THE FEELING!, 267.0s): live/remix/other version",
+    "lrclib 16365916 (CAN’T STOP THE FEELING! (instrumental version) / Justin Timberlake / CAN’T STOP THE FEELING!, 236.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

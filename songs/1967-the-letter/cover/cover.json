@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a17c65b1-6c84-3367-b42e-04225250f970",
+      "release_title": "The Letter / Happy Times",
+      "release_date": "1967-07",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b1a17fc6-f279-40cb-8d2a-184239c02ceb/13417464254-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/b1a17fc6-f279-40cb-8d2a-184239c02ceb",
+      "image_id": "13417464254",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.279,
+        "saturation": 0.096,
+        "dark_share": 0.294,
+        "palette": [
+          {
+            "hex": "#424146",
+            "share": 0.393
+          },
+          {
+            "hex": "#1e1e23",
+            "share": 0.274
+          },
+          {
+            "hex": "#89898f",
+            "share": 0.118
+          },
+          {
+            "hex": "#4e4e53",
+            "share": 0.114
+          },
+          {
+            "hex": "#343439",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a7f9cb97-4ee3-389c-bd2d-1c8155295383",
+      "release_title": "The Letter / Neon Rainbow",
+      "release_date": "2000",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Letter/Neon Rainbow",
+      "url": "http://coverartarchive.org/release/4b91dffa-b00c-46a8-a7c7-004db85b4e11/33303585099-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4b91dffa-b00c-46a8-a7c7-004db85b4e11",
+      "image_id": 33303585099,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.402,
+        "saturation": 0.192,
+        "dark_share": 0.462,
+        "palette": [
+          {
+            "hex": "#d6ddc6",
+            "share": 0.272
+          },
+          {
+            "hex": "#a07a5f",
+            "share": 0.226
+          },
+          {
+            "hex": "#060606",
+            "share": 0.225
+          },
+          {
+            "hex": "#040404",
+            "share": 0.221
+          },
+          {
+            "hex": "#1f1512",
+            "share": 0.056
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/68/8a/7e688af7-ff08-1715-fb29-782f9d90614e/886448193418.jpg/1200x1200bb.jpg",
+      "collection": "Dial A Hit",
+      "collection_id": 1495248695,
+      "track_id": 1495249087,
+      "artist_name": "The Box Tops",
+      "release_date": "1967-07-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.551,
+        "saturation": 0.568,
+        "dark_share": 0.319,
+        "palette": [
+          {
+            "hex": "#bd5d5a",
+            "share": 0.329
+          },
+          {
+            "hex": "#04050a",
+            "share": 0.266
+          },
+          {
+            "hex": "#ecd28d",
+            "share": 0.217
+          },
+          {
+            "hex": "#923032",
+            "share": 0.124
+          },
+          {
+            "hex": "#010207",
+            "share": 0.064
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

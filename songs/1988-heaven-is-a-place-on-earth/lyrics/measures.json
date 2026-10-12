@@ -1,0 +1,41 @@
+{
+  "id": "1988-heaven-is-a-place-on-earth",
+  "lyrics_kind": "synced",
+  "lrclib_id": 21876994,
+  "lines": 49,
+  "words": 311,
+  "unique_words": 85,
+  "type_token_ratio": 0.273,
+  "repeated_line_share": 0.571,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.247,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "heaven is a place on earth",
+  "title_phrase_occurrences": 13,
+  "pronouns": {
+    "first_singular": 13,
+    "second": 12,
+    "first_plural": 8
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.66,
+  "last_line_s": 237.24,
+  "sung_time_s": 193.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 96.2,
+  "words_per_minute_track": 76.3,
+  "longest_gap_between_lines_s": 21.61,
+  "longest_gap_starts_at_s": 15.68,
+  "first_repeated_block": {
+    "first_at_s": 0.66,
+    "recurs_at_s": 68.61,
+    "lines": [
+      "Ooh, baby, do you know what that's worth?",
+      "Ooh, Heaven is a place on Earth"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 21876994",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 14463,
+  "kind": "synced",
+  "matched": {
+    "track": "Poker Face",
+    "artist": "Lady Gaga",
+    "album": "Poker Face",
+    "duration_s": 237.0
+  },
+  "duration_matched_to": "musicbrainz recording length (237s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 237.293,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 238.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 16,
+  "agreement_with_other_candidates": 0.932,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36889106 (Poker Face / Lady Gaga / The Fame Monster (Deluxe Edition), Nones): duration matches no reference length",
+    "lrclib 36978008 (Poker Face / Lady Gaga / Lady Gaga, 216.0s): duration matches no reference length",
+    "lrclib 36939980 (Poker Face / Lady Gaga / The Fame, Nones): duration matches no reference length",
+    "lrclib 36962594 (Poker Face / Lady Gaga / Ultimate R&B 2009 (International Version), 239.0s): live/remix/other version",
+    "lrclib 36963923 (Poker face / Lady Gaga / Babies Go Lady Gaga, 211.0s): duration matches no reference length",
+    "lrclib 37497367 (Poker Face / Lady Gaga / Now That's What I Call A Weddi, 279.0s): duration matches no reference length",
+    "lrclib 37313092 (Poker Face / Lady Gaga / Mastermix Dj Edits 00S Pop 01, 146.0s): duration matches no reference length",
+    "lrclib 36023994 (Poker Face / Lady Gaga / Lady Gaga - Poker Face (DE SOFFER REMIX), 301.0s): live/remix/other version",
+    "lrclib 37384063 (Poker face / Lady Gaga / Poker Face, 435.0s): duration matches no reference length",
+    "lrclib 34413830 (Poker Face / Lady Gaga / Poker Face, 492.0s): duration matches no reference length",
+    "lrclib 34413541 (Poker Face / Lady Gaga / Poker Face, 470.0s): duration matches no reference length",
+    "lrclib 34413831 (Poker Face / Lady Gaga / Poker Face, 484.0s): duration matches no reference length",
+    "lrclib 34413546 (Poker Face / Lady Gaga / Poker Face, 390.0s): duration matches no reference length",
+    "lrclib 34413543 (Poker Face / Lady Gaga / Poker Face, 485.0s): duration matches no reference length",
+    "lrclib 34413544 (Poker Face / Lady Gaga / Poker Face, 493.0s): duration matches no reference length",
+    "lrclib 33377468 (Poker Face / Lady Gaga / Poker Face, 230.0s): duration matches no reference length",
+    "lrclib 18247158 (Poker Face / Lady Gaga / Poker Face, 215.0s): duration matches no reference length",
+    "lrclib 17378784 (Poker Face / Lady Gaga / Poker Face, 259.251275s): duration matches no reference length",
+    "lrclib 28801514 (Poker Face / Lady Gaga / Poker Face, 335.0s): duration matches no reference length",
+    "lrclib 26771224 (Poker Face / Lady Gaga / Poker Face, 294.034286s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5387614,
+  "kind": "synced",
+  "matched": {
+    "track": "SICKO MODE",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "duration_s": 323.0
+  },
+  "duration_matched_to": "musicbrainz recording length (323s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 323.0,
+      "source": "musicbrainz recording length"
+    }
+  ],
+  "matching_candidates": 3,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36968142 (SICKO MODE / Travis Scott / 2018! Songs of the Year, 313.0s): duration matches no reference length",
+    "lrclib 37070960 (Sicko Mode / Travis Scott / Billboard Hot 100 Singles Chart, 22 December 2018, 313.0s): duration matches no reference length",
+    "lrclib 37315118 (SICKO MODE / Travis Scott / unnamed, 313.0s): duration matches no reference length",
+    "lrclib 34482561 (Sicko Mode / Travis Scott / Triple J: Hottest 100, Volume 26, 312.0s): duration matches no reference length",
+    "lrclib 34549413 (SICKO MODE / Travis Scott / ASTROWORLD, 176.0s): duration matches no reference length",
+    "lrclib 34763189 (SICKO MODE / Travis Scott / Rodeo, 313.0s): duration matches no reference length",
+    "lrclib 34584315 (SICKO MODE / Travis Scott / Travis Scott, 269.0s): duration matches no reference length",
+    "lrclib 34356225 (SICKO MODE / Travis Scott / Travis Scott, 234.0s): duration matches no reference length",
+    "lrclib 35106524 (SICKO MODE / Travis Scott / ASTROWORLD, 173.0s): duration matches no reference length",
+    "lrclib 33458700 (SICKO MODE / Travis Scott / 2018-08-10, 313.0s): duration matches no reference length",
+    "lrclib 33774337 (SICKO MODE / Travis Scott / ASTROWORLD, 81.0s): duration matches no reference length",
+    "lrclib 33805128 (SICKO MODE / Travis Scott / Unknown Album, 314.0s): duration matches no reference length",
+    "lrclib 33800485 (SICKO MODE / Travis Scott / ASTROWORLD, Nones): duration matches no reference length",
+    "lrclib 36245695 (SICKO MODE / Travis Scott / ASTROWORLD, 243.0s): duration matches no reference length",
+    "lrclib 36179475 (SICKO MODE / Travis Scott / Billboard Hot 100 [2018 Aug], 312.0s): duration matches no reference length",
+    "lrclib 36209807 (SICKO MODE / Travis Scott / Travis Scott - ASTROWORLD (FULL ALBUM) OFFICIAL PLAYLIST, 315.0s): duration matches no reference length",
+    "lrclib 35934004 (SICKO MODE / Travis Scott / 2.2B plays, 307.0s): duration matches no reference length",
+    "lrclib 36132637 (SICKO MODE / Travis Scott / SICKO MODE, 229.0s): duration matches no reference length",
+    "lrclib 36651003 (Sicko Mode / Travis Scott / Billboard Top Hits 2018, 313.0s): duration matches no reference length",
+    "lrclib 36387505 (SICKO MODE / Travis Scott / ASTROWORLD, 2789.0s): duration matches no reference length",
+    "lrclib 28355536 (SICKO MODE / Travis Scott feat. Drake / ASTROWORLD, 314.0s): duration matches no reference length",
+    "lrclib 30965183 (Sicko Mode / Travis Scott feat. Drake / Shazam: World Top 100 18.09 (2018), 313.0s): duration matches no reference length",
+    "lrclib 30930575 (Sicko Mode / Travis Scott feat. Drake / Uk Top 40 Singles, 313.0s): duration matches no reference length",
+    "lrclib 38563979 (Sicko Mode (Dirty) / Travis Scott feat Drake / ASTROWORLD, 313.0s): duration matches no reference length",
+    "lrclib 12094792 (SICKO MODE / Travis Scott Feat. Drake, Swae Lee & Big Hawk / ASTROWORLD, 311.0s): duration matches no reference length",
+    "lrclib 2196699 (Sicko Mode (Advance Unofficial Remix) (Mixed) / Travis Scott feat. Drake / Introductory Class, Vol. 14 (DJ Mix), 186.0s): live/remix/other version",
+    "lrclib 19464855 (Sicko Mode (PO Clean Edit) / Travis Scott feat. Drake, Juicy J & Swae Lee / Promo Only Mainstream Radio 2018-10, 313.0s): duration matches no reference length",
+    "lrclib 17821111 (SICKO MODE / Travis Scott / SICKO MODE, 312.8685709s): duration matches no reference length",
+    "lrclib 11363643 (SICKO MODE / Travis Scott / SICKO MODE, 304.0s): duration matches no reference length",
+    "lrclib 8830852 (SICKO MODE / Travis Scott / Travis Scott, 313.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

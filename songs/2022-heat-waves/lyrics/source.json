@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 731,
+  "kind": "synced",
+  "matched": {
+    "track": "Heat Waves",
+    "artist": "Glass Animals",
+    "album": "Dreamland",
+    "duration_s": 239.0
+  },
+  "duration_matched_to": "musicbrainz recording length (239s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 238.805,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 239.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 238.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34495403 (Heat Waves / Glass Animals / Dreamland, 216.0s): duration matches no reference length",
+    "lrclib 34574482 (Heat Waves / Glass Animals / Dreamland, Nones): duration matches no reference length",
+    "lrclib 35905809 (Heat Waves / Glass Animals / Glass Animals, 218.0s): duration matches no reference length",
+    "lrclib 8829222 (Heat Waves / Glass Animals / Glass Animals, 175.0s): duration matches no reference length",
+    "lrclib 35710274 (Heat Waves / Glass Animals / Heat Waves, Nones): duration matches no reference length",
+    "lrclib 19765774 (Heat Waves / Glass Animals / Heat Waves, 262.224s): duration matches no reference length",
+    "lrclib 22099720 (Heat Waves / Glass Animals / Heat Waves, 196.837568s): duration matches no reference length",
+    "lrclib 8596271 (Heat Waves / Glass Animals / Heat Waves, 175.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2003-ignition-remix",
+  "lyrics_kind": "synced",
+  "lrclib_id": 21498542,
+  "lines": 85,
+  "words": 500,
+  "unique_words": 166,
+  "type_token_ratio": 0.332,
+  "repeated_line_share": 0.376,
+  "distinct_lines": 53,
+  "zlib_compression_ratio": 0.318,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "ignition",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 35,
+    "second": 12,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.82,
+  "last_line_s": 175.01,
+  "sung_time_s": 171.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 174.7,
+  "words_per_minute_track": 161.2,
+  "longest_gap_between_lines_s": 4.96,
+  "longest_gap_starts_at_s": 118.17,
+  "first_repeated_block": {
+    "first_at_s": 25.59,
+    "recurs_at_s": 71.25,
+    "lines": [
+      "So baby gimme that toot toot",
+      "Lemme give you that beep beep"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 21498542",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

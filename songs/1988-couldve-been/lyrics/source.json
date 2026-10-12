@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35280541,
+  "kind": "synced",
+  "matched": {
+    "track": "Could've Been",
+    "artist": "Tiffany",
+    "album": "Could've Been (Single)",
+    "duration_s": 213.0
+  },
+  "duration_matched_to": "musicbrainz recording length (213s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 213.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 212.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 212.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34454710 (Could’ve Been (7″ Version) / Tiffany / Could’ve Been, 212.0s): live/remix/other version",
+    "lrclib 9849102 (Could’ve Been (7″ Version) / Tiffany / Could’ve Been, 217.0s): live/remix/other version",
+    "lrclib 23818754 (Could’ve Been / Tiffany / Tiffany, 218.4875s): duration matches no reference length",
+    "lrclib 29310167 (Could’ve Been / Tiffany / Tiffany, 222.0s): duration matches no reference length",
+    "lrclib 38003159 (Could've Been / Tiffany / Tiffany, 228.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

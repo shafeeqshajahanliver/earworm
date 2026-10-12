@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37507015,
+  "kind": "synced",
+  "matched": {
+    "track": "Radioactive",
+    "artist": "Imagine Dragons",
+    "album": "Night Visions [2022 10th Anniversary Edition]",
+    "duration_s": 187.0
+  },
+  "duration_matched_to": "musicbrainz recording length (187s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 187.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 187.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 187.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36944184 (Radioactive / Imagine Dragons / Acoustic Version, 270.0s): live/remix/other version",
+    "lrclib 37158064 (Radioactive / Imagine Dragons / Night Visions, 123.0s): duration matches no reference length",
+    "lrclib 37068439 (Radioactive / Imagine Dragons / Best 80s Rock, 169.0s): duration matches no reference length",
+    "lrclib 36878274 (Radioactive / Imagine Dragons / Continued Silence EP, 276.0s): duration matches no reference length",
+    "lrclib 36884974 (Radioactive / Imagine Dragons / Hear Me, 194.0s): duration matches no reference length",
+    "lrclib 34518062 (Radioactive / Imagine Dragons / Imagine Dragons, 270.0s): duration matches no reference length",
+    "lrclib 34599909 (Radioactive / Imagine Dragons / Night Visions (Deluxe), 216.0s): duration matches no reference length",
+    "lrclib 34753321 (Radioactive / Imagine Dragons / En Vrac & Youtube, 261.0s): duration matches no reference length",
+    "lrclib 35881735 (Radioactive / Imagine Dragons / Imagine Dragons - Radioactive, 261.0s): duration matches no reference length",
+    "lrclib 19353587 (Radioactive / Imagine Dragons / Imagine Dragons, 201.116735s): duration matches no reference length",
+    "lrclib 8824271 (Radioactive / Imagine Dragons / Imagine Dragons, 276.0s): duration matches no reference length",
+    "lrclib 4052785 (Radioactive / Imagine Dragons / Imagine Dragons, 261.0s): duration matches no reference length",
+    "lrclib 31204930 (Radioactive / Imagine Dragons / Imagine Dragons, 245.0s): duration matches no reference length",
+    "lrclib 36961200 (Radioactive (instrumental) / Imagine Dragons / Imagine Dragons, 185.0s): live/remix/other version",
+    "lrclib 6898896 (Radioactive / Imagine Dragons / Imagine Dragons Videos, 261.0s): duration matches no reference length",
+    "lrclib 6899844 (Radioactive / Imagine Dragons / Imagine Dragons Songs, 261.0s): duration matches no reference length",
+    "lrclib 29781875 (Radioactive (Playback) / Imagine Dragons / Radioactive (In Style of Imagine Dragons) - Instrumental, 188.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

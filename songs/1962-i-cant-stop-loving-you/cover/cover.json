@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "972952c6-a890-4fc1-b20e-7d72f4ed7d96",
+      "release_title": "I Can’t Stop Loving You / Born to Lose",
+      "release_date": "1962",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/42f512ef-93b5-4684-8bb1-8e4832560ac8/23053738323-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/42f512ef-93b5-4684-8bb1-8e4832560ac8",
+      "image_id": 23053738323,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "label",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.442,
+        "saturation": 0.049,
+        "dark_share": 0.48,
+        "palette": [
+          {
+            "hex": "#f6f6f6",
+            "share": 0.337
+          },
+          {
+            "hex": "#1b1c1c",
+            "share": 0.22
+          },
+          {
+            "hex": "#272525",
+            "share": 0.188
+          },
+          {
+            "hex": "#151616",
+            "share": 0.172
+          },
+          {
+            "hex": "#86817a",
+            "share": 0.084
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "38671d62-32bd-399d-abbd-0f685c2fd4a3",
+      "release_title": "Modern Sounds in Country and Western Music",
+      "release_date": "1962-04",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Modern Sounds in Country and Western Music",
+      "url": "http://coverartarchive.org/release/ccd2e6c7-e974-4b73-a114-a7299bd76581/18249207918-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/ccd2e6c7-e974-4b73-a114-a7299bd76581",
+      "image_id": 18249207918,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        432,
+        433
+      ],
+      "measures": {
+        "brightness": 0.606,
+        "saturation": 0.617,
+        "dark_share": 0.244,
+        "palette": [
+          {
+            "hex": "#e3001b",
+            "share": 0.398
+          },
+          {
+            "hex": "#332622",
+            "share": 0.389
+          },
+          {
+            "hex": "#816f66",
+            "share": 0.119
+          },
+          {
+            "hex": "#e5021b",
+            "share": 0.059
+          },
+          {
+            "hex": "#b00819",
+            "share": 0.036
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/0b/6a/a30b6ae2-5a41-aeff-eec6-2126d7e2b80a/mzi.ussqueuw.jpg/1200x1200bb.jpg",
+      "collection": "Jazz On the Afternoon",
+      "collection_id": 369406962,
+      "track_id": 369407104,
+      "artist_name": "Ray Charles",
+      "release_date": "1962-12-31T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.85,
+        "saturation": 0.437,
+        "dark_share": 0.018,
+        "palette": [
+          {
+            "hex": "#dc9e44",
+            "share": 0.251
+          },
+          {
+            "hex": "#9d5612",
+            "share": 0.204
+          },
+          {
+            "hex": "#f9f9f9",
+            "share": 0.202
+          },
+          {
+            "hex": "#f6ebd4",
+            "share": 0.185
+          },
+          {
+            "hex": "#e7d7b5",
+            "share": 0.158
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

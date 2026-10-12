@@ -1,0 +1,348 @@
+{
+  "id": "1960-handy-man",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "250",
+      "also_ids": [],
+      "match": {
+        "title": "Handy Man",
+        "artist": "Jimmy Jones",
+        "chart_date": "1960-02-08",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 250 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 122.436,
+      "version_check": "duration within 12 s (+1.6 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "Bb",
+        "tonic_pc": 10,
+        "mode": null,
+        "name": "Bb",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.255,
+          "end": 7.973,
+          "bars": 4,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Bb",
+            "Gm"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Bb:maj",
+            "G:min"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 7.973,
+          "end": 20.774,
+          "bars": 8,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "F",
+            "Bb",
+            "F7"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "V7"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Eb:maj",
+            "F:maj",
+            "Bb:maj",
+            "F:7"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 20.774,
+          "end": 33.635,
+          "bars": 8,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "F",
+            "Bb",
+            "Bb7"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "I7"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Eb:maj",
+            "F:maj",
+            "Bb:maj",
+            "Bb:7"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "start": 33.635,
+          "end": 46.705,
+          "bars": 8,
+          "key": "Bb",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "Eb:maj",
+            "Bb:maj",
+            "Eb:maj",
+            "F:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 46.705,
+          "end": 59.676,
+          "bars": 8,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "F",
+            "Bb",
+            "F7"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "V7"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Eb:maj",
+            "F:maj",
+            "Bb:maj",
+            "F:7"
+          ]
+        },
+        {
+          "label": "solo",
+          "letter": "D",
+          "normalised": "solo",
+          "start": 59.676,
+          "end": 72.767,
+          "bars": 8,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "F",
+            "Bb",
+            "Bb7"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "I7"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Eb:maj",
+            "F:maj",
+            "Bb:maj",
+            "Bb:7"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "start": 72.767,
+          "end": 86.125,
+          "bars": 8,
+          "key": "Bb",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "Eb:maj",
+            "Bb:maj",
+            "Eb:maj",
+            "F:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 86.125,
+          "end": 99.469,
+          "bars": 8,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "F",
+            "Bb",
+            "F7"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "V7"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Eb:maj",
+            "F:maj",
+            "Bb:maj",
+            "F:7"
+          ]
+        },
+        {
+          "label": "outro",
+          "letter": "A",
+          "normalised": "outro",
+          "start": 99.469,
+          "end": 106.073,
+          "bars": 4,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Bb",
+            "Gm"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Bb:maj",
+            "G:min"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "start": 106.073,
+          "end": 117.261,
+          "bars": 7,
+          "key": "Bb",
+          "written": [
+            "Bb",
+            "Gm",
+            "Bb",
+            "Gm",
+            "Bb",
+            "Gm",
+            "Bb"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I"
+          ],
+          "raw": [
+            "Bb:maj",
+            "G:min",
+            "Bb:maj",
+            "G:min",
+            "Bb:maj",
+            "G:min",
+            "Bb:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

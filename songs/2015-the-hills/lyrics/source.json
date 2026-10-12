@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 800688,
+  "kind": "synced",
+  "matched": {
+    "track": "The Hills",
+    "artist": "The Weeknd",
+    "album": "Beauty Behind the Madness",
+    "duration_s": 242.0
+  },
+  "duration_matched_to": "musicbrainz recording length (242s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 242.28,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 242.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36894976 (The Hills / The Weeknd / The Hills (RL Grime Remix) - Single, 234.0s): live/remix/other version",
+    "lrclib 37019508 (The Hills / The Weeknd / Beauty Behind The Madness, 284.0s): duration matches no reference length",
+    "lrclib 37390518 (The Hills / The Weeknd / Beauty Behind The Madness, Nones): duration matches no reference length",
+    "lrclib 36935263 (The Hills / The Weeknd / Beauty Behind The Madness, Nones): duration matches no reference length",
+    "lrclib 36913884 (The Hills / The Weeknd / The Hills, 117.0s): duration matches no reference length",
+    "lrclib 34435484 (The Hills / The Weeknd / 2,2 Md de vues, 235.0s): duration matches no reference length",
+    "lrclib 34694214 (The Hills / The Weeknd / The Highlights, 270.0s): duration matches no reference length",
+    "lrclib 34553846 (The Hills / The Weeknd / Beauty Behind The Madness, 186.0s): duration matches no reference length",
+    "lrclib 34482036 (The Hills / The Weeknd / Beauty Behind The Madness, 191.0s): duration matches no reference length",
+    "lrclib 34731996 (The Hills / The Weeknd / 2,2 Mrd. Aufrufe, 235.0s): duration matches no reference length",
+    "lrclib 35068850 (The Hills / The Weeknd / Beauty Behind The Madness, 404.0s): duration matches no reference length",
+    "lrclib 7794316 (The Hills / The Weeknd / The Weeknd, 234.0s): duration matches no reference length",
+    "lrclib 5690407 (The Hills / The Weeknd / The Hills, 234.0s): duration matches no reference length",
+    "lrclib 8307821 (The Hills / The Weeknd / The Weeknd Songs, 234.0s): duration matches no reference length",
+    "lrclib 8304008 (The Hills / The Weeknd / The Weeknd Videos, 234.0s): duration matches no reference length",
+    "lrclib 9014883 (The Hills / The Weeknd / The Hills Remixes, 242.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

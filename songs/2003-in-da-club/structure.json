@@ -1,0 +1,83 @@
+{
+  "id": "2003-in-da-club",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0141_indaclub",
+      "match": {
+        "title": "In da Club",
+        "artist": "50 Cent",
+        "release": "You Can Dance",
+        "musicbrainz_id": "9ad7735b-140e-4b6d-b0a4-8da0076064d6",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0141_indaclub.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0141_indaclub.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 162.209,
+      "bpm": 90.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -63 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.667,
+          "end": 18.0,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 6
+        },
+        {
+          "start": 18.0,
+          "end": 28.663,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 28.663,
+          "end": 71.319,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 71.319,
+          "end": 93.318,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 93.318,
+          "end": 124.644,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 124.644,
+          "end": 146.643,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 146.643,
+          "end": 157.304,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 162 s vs 226 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

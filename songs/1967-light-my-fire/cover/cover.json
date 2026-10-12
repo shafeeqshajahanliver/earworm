@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "ca8ec68a-2893-30da-9baa-81ad0a4578e7",
+      "release_title": "Light My Fire",
+      "release_date": "1967",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/6ae15c6c-6529-4e7a-ade7-9b3acec79238/42345562633-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6ae15c6c-6529-4e7a-ade7-9b3acec79238",
+      "image_id": 42345562633,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        590
+      ],
+      "measures": {
+        "brightness": 0.614,
+        "saturation": 0.334,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#55383c",
+            "share": 0.328
+          },
+          {
+            "hex": "#d22e63",
+            "share": 0.269
+          },
+          {
+            "hex": "#d1c7c2",
+            "share": 0.167
+          },
+          {
+            "hex": "#c7bbae",
+            "share": 0.13
+          },
+          {
+            "hex": "#7c6d67",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "00a9c3d9-13c7-355b-b216-108c81ad3f78",
+      "release_title": "The Doors",
+      "release_date": null,
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Doors",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/f6/14/43f61467-931b-21af-6b22-13717edc8ed9/603497870295.jpg/1200x1200bb.jpg",
+      "collection": "The Doors (50th Anniversary Deluxe Edition)",
+      "collection_id": 1192962129,
+      "track_id": 1192962346,
+      "artist_name": "The Doors",
+      "release_date": "1967-01-04T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.22,
+        "saturation": 0.624,
+        "dark_share": 0.681,
+        "palette": [
+          {
+            "hex": "#23211b",
+            "share": 0.242
+          },
+          {
+            "hex": "#927c41",
+            "share": 0.2
+          },
+          {
+            "hex": "#011010",
+            "share": 0.199
+          },
+          {
+            "hex": "#020d0d",
+            "share": 0.182
+          },
+          {
+            "hex": "#071211",
+            "share": 0.176
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

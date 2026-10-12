@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36392585,
+  "kind": "synced",
+  "matched": {
+    "track": "Payphone",
+    "artist": "Maroon 5",
+    "album": "Payphone",
+    "duration_s": 227.0
+  },
+  "duration_matched_to": "musicbrainz recording length (232s)",
+  "duration_diff_s": 4.6,
+  "reference_lengths": [
+    {
+      "seconds": 231.64,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 222.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 227.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 231.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 49,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35909580 (Payphone / Maroon 5 feat. Wiz Khalifa / [non-album tracks], 238.0s): duration matches no reference length",
+    "lrclib 35716963 (Payphone / Maroon 5 feat Wiz Khalifa / Matoma Remix, 312.0s): live/remix/other version",
+    "lrclib 18489291 (Payphone / Maroon 5 feat. Wiz Khalifa / Bravo The Hits 2012 (CD 1), 237.443167s): duration matches no reference length",
+    "lrclib 34661489 (Payphone / Maroon 5 / 2010s Hits, 280.0s): duration matches no reference length",
+    "lrclib 33477965 (Payphone / Maroon 5 / Overexposed, 212.0s): duration matches no reference length",
+    "lrclib 36279294 (Payphone / Maroon 5 / Maroon 5, 262.0s): duration matches no reference length",
+    "lrclib 35925077 (Payphone / Maroon 5 / Overexposed, 110.0s): duration matches no reference length",
+    "lrclib 35944727 (Payphone / Maroon 5 / Overexposed, 50.0s): duration matches no reference length",
+    "lrclib 6922580 (Payphone / Maroon 5 / Maroon 5, 279.0s): duration matches no reference length",
+    "lrclib 24638850 (Payphone / Maroon 5 / Payphone, 280.905s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

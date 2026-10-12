@@ -1,0 +1,72 @@
+{
+  "id": "2013-roar",
+  "preview": {
+    "service": "deezer",
+    "track_id": 69863090,
+    "matched_by": "isrc",
+    "isrc": "USUM71308669",
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "album": "Roar",
+    "track_duration_s": 223,
+    "link": "https://www.deezer.com/track/69863090",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.0,
+    "tempo_bpm_grid": 89.9,
+    "tempo_candidates_bpm": [
+      89.1,
+      184.6,
+      60.1
+    ],
+    "beats_detected": 45,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.836,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.611,
+    "chroma_profile": [
+      0.544,
+      0.376,
+      0.46,
+      0.423,
+      0.335,
+      0.436,
+      0.414,
+      0.92,
+      0.35,
+      0.421,
+      1.0,
+      0.516
+    ],
+    "rms_dbfs": -6.37,
+    "rms_dbfs_p95_frame": -3.77,
+    "peak_dbfs": 1.71,
+    "loudness_lufs_approx": -5.99,
+    "spectral_centroid_hz_mean": 2391.8,
+    "spectral_centroid_hz_median": 2321.5,
+    "onsets": 67,
+    "onset_density_per_s": 2.234,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 69863090",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 179.76,
+    "gain": -7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/69863090",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (179.8): octave error likely"
+  ],
+  "rejected_candidates": []
+}

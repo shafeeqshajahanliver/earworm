@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1034729,
+  "kind": "synced",
+  "matched": {
+    "track": "Leave the Door Open",
+    "artist": "Silk Sonic",
+    "album": "An Evening With Silk Sonic",
+    "duration_s": 242.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (242s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 242.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 242.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 16,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (242s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 36841741 (Leave the Door Open (original) / Silk Sonic / Leave the Door Open, 260.0s): duration matches no reference length",
+    "lrclib 33440949 (Leave the Door Open / Silk Sonic / Bravo Hits 114, 248.0s): duration matches no reference length",
+    "lrclib 35538421 (Leave the Door Open / Silk Sonic / Singleton, 223.0s): duration matches no reference length",
+    "lrclib 35701176 (Leave the Door Open / Silk Sonic / Silk Sonic Intro / Leave the Door Open, 248.0s): duration matches no reference length",
+    "lrclib 20096800 (Leave the Door Open / Silk Sonic / An Evening With Silk Sonic, 272.975125s): duration matches no reference length",
+    "lrclib 22622233 (Leave The Door Open / Silk Sonic / Silk Sonic Songs, 256.0s): duration matches no reference length",
+    "lrclib 25045998 (Leave the Door Open / Silk Sonic / English Mix - Billboard 2025, 248.328s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

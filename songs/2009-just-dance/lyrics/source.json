@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 6073854,
+  "kind": "synced",
+  "matched": {
+    "track": "Just Dance",
+    "artist": "Lady Gaga featuring Colby O’Donis",
+    "album": "Just Dance",
+    "duration_s": 242.0
+  },
+  "duration_matched_to": "itunes preview track matched by search (242s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 242.0,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 241.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 35,
+  "agreement_with_other_candidates": 0.995,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (242s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 22591138 (Just Dance / Lady Gaga & Lady Gaga / Just Dance (Remixes) (The Remixes), 242.333333s): live/remix/other version",
+    "lrclib 37501914 (Just Dance / Lady Gaga / Va.-.Bravo.Black.Hits.Collection.(1999-2009), 276.0s): duration matches no reference length",
+    "lrclib 37065681 (Just Dance / Lady Gaga / Ultimix 141, 326.0s): duration matches no reference length",
+    "lrclib 37216346 (Just Dance / Lady GaGa / New Funky House 70, 267.0s): duration matches no reference length",
+    "lrclib 34413501 (Just Dance / Lady Gaga / The Cherrytree Sessions, 124.0s): duration matches no reference length",
+    "lrclib 34413787 (Just Dance / Lady Gaga / Just Dance, 374.0s): duration matches no reference length",
+    "lrclib 34413784 (Just Dance / Lady Gaga / Just Dance, 277.0s): duration matches no reference length",
+    "lrclib 34413788 (Just Dance / Lady Gaga / Just Dance, 300.0s): duration matches no reference length",
+    "lrclib 34567654 (Just Dance / Lady Gaga / Poker Face, 251.0s): duration matches no reference length",
+    "lrclib 34413680 (Just Dance / Lady Gaga / Just Dance, 432.0s): duration matches no reference length",
+    "lrclib 34413782 (Just Dance / Lady Gaga / Just Dance, 258.0s): duration matches no reference length",
+    "lrclib 22375996 (Just Dance / Lady Gaga featuring Colby O’Donis / Just Dance: The Remixes, 243.333333s): live/remix/other version",
+    "lrclib 28775069 (Just Dance / Lady Gaga featuring Colby O’Donis / Just Dance, 248.0s): duration matches no reference length",
+    "lrclib 10615404 (Just Dance / Lady Gaga featuring Colby O'Donis / Just Dance: The Remixes, 241.0s): live/remix/other version",
+    "lrclib 11470551 (Just Dance / Lady Gaga featuring Colby O’Donis / Just Dance: The Remixes, 374.0s): live/remix/other version",
+    "lrclib 10953966 (Just Dance / Lady Gaga / Lady Gaga, 248.0s): duration matches no reference length",
+    "lrclib 13590920 (Just Dance / Lady Gaga / Lady Gaga, 253.0s): duration matches no reference length",
+    "lrclib 22016898 (Just dance / Lady Gaga / Lady Gaga - Sonstiges, 259.9444899s): duration matches no reference length",
+    "lrclib 30474960 (Just Dance (Instrumental) / Lady Gaga / Lady Gaga Instrumentals, 240.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

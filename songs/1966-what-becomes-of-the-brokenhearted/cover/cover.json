@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "283ec796-cb0b-4c63-923c-0a871b80d6ad",
+      "release_title": "What Becomes of the Brokenhearted",
+      "release_date": "1966-06-03",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a3d99eec-87bc-4b60-99f2-b91ae96206bf/5981874657-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a3d99eec-87bc-4b60-99f2-b91ae96206bf",
+      "image_id": "5981874657",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "label",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.504,
+        "saturation": 0.401,
+        "dark_share": 0.21,
+        "palette": [
+          {
+            "hex": "#94467d",
+            "share": 0.343
+          },
+          {
+            "hex": "#100a10",
+            "share": 0.241
+          },
+          {
+            "hex": "#832b6f",
+            "share": 0.195
+          },
+          {
+            "hex": "#fbfaf8",
+            "share": 0.144
+          },
+          {
+            "hex": "#ae7d95",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "ddf680a9-e747-32d4-bde2-f668786aa4c6",
+      "release_title": "Sings Top Ten",
+      "release_date": "1967-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/ec0e88b7-4094-4337-b066-2c6433b5d466/4451460059-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/ec0e88b7-4094-4337-b066-2c6433b5d466",
+      "image_id": "4451460059",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.313,
+        "saturation": 0.583,
+        "dark_share": 0.511,
+        "palette": [
+          {
+            "hex": "#040117",
+            "share": 0.264
+          },
+          {
+            "hex": "#201121",
+            "share": 0.251
+          },
+          {
+            "hex": "#472c30",
+            "share": 0.241
+          },
+          {
+            "hex": "#955a43",
+            "share": 0.136
+          },
+          {
+            "hex": "#e0a97d",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/50/f4/c650f4bd-10bd-6f0b-abad-a6cab2af8077/13UMGIM28325.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Motown the Musical – 100 Originals",
+      "collection_id": 1431073076,
+      "track_id": 1431076602,
+      "artist_name": "Jimmy Ruffin",
+      "release_date": "1966-06-03T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.408,
+        "saturation": 0.647,
+        "dark_share": 0.371,
+        "palette": [
+          {
+            "hex": "#050102",
+            "share": 0.327
+          },
+          {
+            "hex": "#854651",
+            "share": 0.223
+          },
+          {
+            "hex": "#29689e",
+            "share": 0.187
+          },
+          {
+            "hex": "#3a1414",
+            "share": 0.138
+          },
+          {
+            "hex": "#b0b59e",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

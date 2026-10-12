@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a6d4ae2c-99d1-4ff4-872e-adf2cd3fb20a",
+      "release_title": "I’m Good (Blue)",
+      "release_date": "2022-08-26",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/0c602cec-9588-402c-876a-005b2f1027f4/34138758801-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0c602cec-9588-402c-876a-005b2f1027f4",
+      "image_id": 34138758801,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.757,
+        "saturation": 0.599,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#4c8ce8",
+            "share": 0.292
+          },
+          {
+            "hex": "#32496e",
+            "share": 0.211
+          },
+          {
+            "hex": "#74bcf7",
+            "share": 0.207
+          },
+          {
+            "hex": "#2f55a5",
+            "share": 0.159
+          },
+          {
+            "hex": "#405cbd",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "97e3530b-8114-4a56-8cda-09c736c8da16",
+      "release_title": "Bebe",
+      "release_date": "2023-04-28",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/4d3e923d-a902-4157-9831-e83970b16fc9/35447286011-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4d3e923d-a902-4157-9831-e83970b16fc9",
+      "image_id": 35447286011,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.805,
+        "saturation": 0.479,
+        "dark_share": 0.06,
+        "palette": [
+          {
+            "hex": "#db896c",
+            "share": 0.308
+          },
+          {
+            "hex": "#ecab8a",
+            "share": 0.235
+          },
+          {
+            "hex": "#773727",
+            "share": 0.186
+          },
+          {
+            "hex": "#f8edbf",
+            "share": 0.143
+          },
+          {
+            "hex": "#f3d3aa",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/d2/9c/32d29c8a-e0a2-a629-7889-23c12ead0595/5054197344749.jpg/1200x1200bb.jpg",
+      "collection": "I'm Good (Blue) - Single",
+      "collection_id": 1642788726,
+      "track_id": 1642788728,
+      "artist_name": "David Guetta & Bebe Rexha",
+      "release_date": "2022-08-26T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.758,
+        "saturation": 0.61,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#4a8be9",
+            "share": 0.294
+          },
+          {
+            "hex": "#31486d",
+            "share": 0.21
+          },
+          {
+            "hex": "#70bbf7",
+            "share": 0.205
+          },
+          {
+            "hex": "#2e55a4",
+            "share": 0.159
+          },
+          {
+            "hex": "#3f5bbc",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

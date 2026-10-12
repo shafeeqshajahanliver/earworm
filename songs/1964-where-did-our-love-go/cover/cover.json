@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9785d888-2f7e-3030-8a9d-0a82d7f486b7",
+      "release_title": "Where Did Our Love Go",
+      "release_date": "1964-06-17",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "87a0f11f-2c56-37af-a05b-a3efcd2f98f0",
+      "release_title": "Where Did Our Love Go",
+      "release_date": "1964-08-31",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Where Did Our Love Go",
+      "url": "http://coverartarchive.org/release/9f5a0cf6-c100-4781-a3e3-f55e97bd9761/11754670979-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/9f5a0cf6-c100-4781-a3e3-f55e97bd9761",
+      "image_id": "11754670979",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.323,
+        "saturation": 0.349,
+        "dark_share": 0.42,
+        "palette": [
+          {
+            "hex": "#030204",
+            "share": 0.283
+          },
+          {
+            "hex": "#454846",
+            "share": 0.255
+          },
+          {
+            "hex": "#251d23",
+            "share": 0.216
+          },
+          {
+            "hex": "#949460",
+            "share": 0.125
+          },
+          {
+            "hex": "#efeac6",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5d/c2/4d/5dc24de8-15d7-16e0-7585-72a2bcc721de/14UMGIM62198.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Where Did Our Love Go",
+      "collection_id": 1443150912,
+      "track_id": 1443150931,
+      "artist_name": "The Supremes",
+      "release_date": "1964-06-17T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.292,
+        "saturation": 0.423,
+        "dark_share": 0.234,
+        "palette": [
+          {
+            "hex": "#18341f",
+            "share": 0.405
+          },
+          {
+            "hex": "#213a25",
+            "share": 0.173
+          },
+          {
+            "hex": "#161813",
+            "share": 0.163
+          },
+          {
+            "hex": "#adb07d",
+            "share": 0.13
+          },
+          {
+            "hex": "#5b6248",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

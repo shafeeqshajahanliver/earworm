@@ -1,0 +1,41 @@
+{
+  "id": "2013-when-i-was-your-man",
+  "lyrics_kind": "synced",
+  "lrclib_id": 11974737,
+  "lines": 46,
+  "words": 307,
+  "unique_words": 124,
+  "type_token_ratio": 0.404,
+  "repeated_line_share": 0.261,
+  "distinct_lines": 34,
+  "zlib_compression_ratio": 0.379,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "when i was your man",
+  "title_phrase_occurrences": 2,
+  "pronouns": {
+    "first_singular": 34,
+    "second": 20,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 13.45,
+  "last_line_s": 204.13,
+  "sung_time_s": 187.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 98.3,
+  "words_per_minute_track": 86.1,
+  "longest_gap_between_lines_s": 9.5,
+  "longest_gap_starts_at_s": 150.47,
+  "first_repeated_block": {
+    "first_at_s": 37.74,
+    "recurs_at_s": 106.78,
+    "lines": [
+      "It all just sounds like ooh-ooh, ooh-ooh",
+      "Mmm, too young, too dumb to realize"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 11974737",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

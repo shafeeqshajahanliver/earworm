@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20139358,
+  "kind": "synced",
+  "matched": {
+    "track": "Congratulations",
+    "artist": "Post Malone",
+    "album": "Twelve Carat Toothache",
+    "duration_s": 220.32
+  },
+  "duration_matched_to": "musicbrainz recording length (220s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 220.285,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 221.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 220.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 38,
+  "agreement_with_other_candidates": 0.854,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36844172 (Congratulations / Post Malone Featuring Quavo / Congratulations, 227.0s): duration matches no reference length",
+    "lrclib 34570598 (Congratulations / Post Malone / Stoney (Deluxe), 200.0s): duration matches no reference length",
+    "lrclib 34570592 (Congratulations / Post Malone / Stoney (Deluxe), 198.0s): duration matches no reference length",
+    "lrclib 36333098 (Congratulations / Post Malone / Stoney (Deluxe), 166.0s): duration matches no reference length",
+    "lrclib 36544757 (Congratulations / Post Malone / Stoney (Deluxe), 212.0s): duration matches no reference length",
+    "lrclib 36606735 (Congratulations / Post Malone / Stoney (Deluxe), 213.0s): duration matches no reference length",
+    "lrclib 34177768 (Congratulations / Post Malone / Stoney (Deluxe), 204.0s): duration matches no reference length",
+    "lrclib 35801306 (Congratulations / Post Malone / Post Malone, 227.0s): duration matches no reference length",
+    "lrclib 20105951 (Congratulations / Post Malone / Stoney, 226.925714s): duration matches no reference length",
+    "lrclib 20293265 (Congratulations / Post Malone / Congratulations (Remix), 284.0s): live/remix/other version",
+    "lrclib 36781886 (Congratulations / Post Malone feat. Quavo / Hip-Hop Fever (DJ Mix), 226.0s): live/remix/other version",
+    "lrclib 3511523 (Congratulations / Post Malone feat. Quavo / UK Top 40 14th July 2017, 0.0s): duration matches no reference length",
+    "lrclib 3511521 (Congratulations / Post Malone feat. Quavo / Now Thats What I Call Music 96, 0.0s): duration matches no reference length",
+    "lrclib 2587820 (Congratulations / Post Malone feat. Quavo / Stoney (Complete Edition), 0.0s): duration matches no reference length",
+    "lrclib 35142325 (Congratulations (feat. Quavo) / Post Malone / Post Malone, 257.0s): duration matches no reference length",
+    "lrclib 14190440 (Congratulations (Official Music Video) / Post Malone / Post Malone, 227.0s): duration matches no reference length",
+    "lrclib 21940506 (Congratulations (feat. Quavo) / Post Malone / Post Malone Songs, 242.0s): duration matches no reference length",
+    "lrclib 12018259 (Congratulations (Remix) / Post Malone / Post Malone Single's & Features, 283.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 19653340,
+  "kind": "synced",
+  "matched": {
+    "track": "Crimson and Clover",
+    "artist": "Tommy James & the Shondells",
+    "album": "... Crimson and Clover...",
+    "duration_s": 204.6987
+  },
+  "duration_matched_to": "musicbrainz recording length (203s)",
+  "duration_diff_s": 1.7,
+  "reference_lengths": [
+    {
+      "seconds": 203.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 206.3,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 203.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 332.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 55,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35106651 (Crimson And Clover / Tommy James and The Shondells / Solid Gold Party Rock, 317.0s): duration matches no reference length",
+    "lrclib 33696794 (Crimson And Clover / Tommy James and The Shondells / Crimson & Clover -- Cellophane Symphony, 312.0s): duration matches no reference length",
+    "lrclib 35579337 (Crimson and Clover / Tommy James and the Shondells / Time-Life Classic Rock: 1968, 312.0s): duration matches no reference length",
+    "lrclib 21271595 (Crimson and Clover / Tommy James and the Shondells / Crimson and Clover, 279.1488s): duration matches no reference length",
+    "lrclib 19041940 (Crimson and Clover / Tommy James And The Shondells / Classic Rock 1968, 312.163265s): duration matches no reference length",
+    "lrclib 20752696 (Crimson And Clover / Tommy James and the Shondells / The Boat That Rocked OST, 324.809725s): duration matches no reference length",
+    "lrclib 17411602 (Crimson And Clover / Tommy James and the Shondells / Crimson and Clover, 325.050786s): duration matches no reference length",
+    "lrclib 21423083 (Crimson and Clover / Tommy James and the Shondells / Unknown, 325.041643s): duration matches no reference length",
+    "lrclib 36949919 (Crimson And Clover / Tommy James & The Shondells / The Boat That Rocked OST CD1, 325.0s): duration matches no reference length",
+    "lrclib 37469779 (Crimson and Clover / Tommy James & The Shondells / 60s Hits A Capella, 175.0s): duration matches no reference length",
+    "lrclib 37542010 (Crimson And Clover / Tommy James & The Shondells / Hits Of The 70's Vol.3, 285.0s): duration matches no reference length",
+    "lrclib 37192298 (Crimson and Clover / Tommy James & The Shondells / The Boat That Rocked [Soundtrack], 325.0s): duration matches no reference length",
+    "lrclib 34343620 (Crimson and Clover / Tommy James & The Shondells / Super Cool 60's, 325.0s): duration matches no reference length",
+    "lrclib 34780048 (Crimson And Clover / Tommy James & The Shondells / Classic Rock∶ 1968, 304.0s): duration matches no reference length",
+    "lrclib 35310379 (Crimson and Clover / Tommy James & the Shondells / Crimson, 323.0s): duration matches no reference length",
+    "lrclib 13395196 (Crimson And Clover (Reprise) / Tommy James and the Shondells / Crimson And Clover, 60.0s): duration matches no reference length",
+    "lrclib 34327542 (Crimson And Clover / Tommy James & The Shondells / Crimson And Clover, 309.0s): duration matches no reference length",
+    "lrclib 7813435 (Crimson and Clover / Tommy James & the Shondells / Crimson and Clover, 323.0s): duration matches no reference length",
+    "lrclib 14228476 (Crimson and Clover / Tommy James & The Shondells / Tommy James & the Shondells, 325.0507776s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

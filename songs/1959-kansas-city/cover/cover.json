@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "153f4d41-73b6-4f33-aa45-13da79eb9a24",
+      "release_title": "Kansas City / Listen, My Darling",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/c8c96d67-d724-4ed5-a145-a76c9ca0cb42/11188622147-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/c8c96d67-d724-4ed5-a145-a76c9ca0cb42",
+      "image_id": "11188622147",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        498,
+        500
+      ],
+      "measures": {
+        "brightness": 0.962,
+        "saturation": 0.499,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#fdcb37",
+            "share": 0.556
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.199
+          },
+          {
+            "hex": "#f7fffb",
+            "share": 0.14
+          },
+          {
+            "hex": "#d8ad37",
+            "share": 0.077
+          },
+          {
+            "hex": "#fbde76",
+            "share": 0.028
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/11/8d/32118d76-f10b-1539-cf91-bf2d8a87ea04/634457140141.png/1200x1200bb.jpg",
+      "collection": "Kansas City (Sped Up) - Single",
+      "collection_id": 1682119578,
+      "track_id": 1682119580,
+      "artist_name": "Wilbert Harrison",
+      "release_date": "1957-09-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.6,
+        "saturation": 0.086,
+        "dark_share": 0.044,
+        "palette": [
+          {
+            "hex": "#8c7d7d",
+            "share": 0.331
+          },
+          {
+            "hex": "#b5b3b5",
+            "share": 0.224
+          },
+          {
+            "hex": "#5d4e51",
+            "share": 0.177
+          },
+          {
+            "hex": "#a59d9c",
+            "share": 0.175
+          },
+          {
+            "hex": "#e6e5e4",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

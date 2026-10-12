@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 147446,
+  "kind": "synced",
+  "matched": {
+    "track": "Ghost",
+    "artist": "Justin Bieber",
+    "album": "Justice",
+    "duration_s": 153.0
+  },
+  "duration_matched_to": "musicbrainz recording length (153s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 153.19,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 153.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 153.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37321433 (Ghost / Justin Bieber / BRAVO Hits 116, 197.0s): duration matches no reference length",
+    "lrclib 35200506 (Ghost / Justin Bieber / Justice, 187.0s): duration matches no reference length",
+    "lrclib 34989509 (Ghost / Justin Bieber / Justice, 324.0s): duration matches no reference length",
+    "lrclib 35128509 (Ghost / Justin Bieber / 507 jt x ditonton, 212.0s): duration matches no reference length",
+    "lrclib 33838958 (Ghost / Justin Bieber / 505 jt x ditonton, 3.0s): duration matches no reference length",
+    "lrclib 33382820 (Ghost / Justin Bieber / 500 jt x ditonton, 3.0s): duration matches no reference length",
+    "lrclib 33699560 (Ghost / Justin Bieber / 504 jt x ditonton, 3.0s): duration matches no reference length",
+    "lrclib 35926838 (Ghost / Justin Bieber / Justice, 50.0s): duration matches no reference length",
+    "lrclib 35926860 (Ghost / Justin Bieber / Justice, 110.0s): duration matches no reference length",
+    "lrclib 33889860 (Ghost / Justin Bieber / YouTube Search - Justin Bieber Ghost, 212.0s): duration matches no reference length",
+    "lrclib 12210334 (Ghost / Justin Bieber / Justin Bieber, 212.0s): duration matches no reference length",
+    "lrclib 11280699 (Ghost / Justin Bieber / Justin Bieber Videos, 213.0s): duration matches no reference length",
+    "lrclib 10733167 (Ghost / Justin Bieber / Justin Bieber Songs, 213.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

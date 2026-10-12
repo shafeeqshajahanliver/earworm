@@ -1,0 +1,41 @@
+{
+  "id": "2011-fuck-you-forget-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 969412,
+  "lines": 68,
+  "words": 511,
+  "unique_words": 128,
+  "type_token_ratio": 0.25,
+  "repeated_line_share": 0.471,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.246,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "fuck you",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 58,
+    "second": 44,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.87,
+  "last_line_s": 213.82,
+  "sung_time_s": 210.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 145.8,
+  "words_per_minute_track": 137.5,
+  "longest_gap_between_lines_s": 5.81,
+  "longest_gap_starts_at_s": 152.98,
+  "first_repeated_block": {
+    "first_at_s": 7.87,
+    "recurs_at_s": 67.94,
+    "lines": [
+      "I see you driving 'round town with the girl I love",
+      "And I'm like, \"Fuck you\" (ooh-ooh-ooh)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 969412",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

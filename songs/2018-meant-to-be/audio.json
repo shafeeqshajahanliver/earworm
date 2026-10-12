@@ -1,0 +1,72 @@
+{
+  "id": "2018-meant-to-be",
+  "preview": {
+    "service": "deezer",
+    "track_id": 391786232,
+    "matched_by": "isrc",
+    "isrc": "USWB11701181",
+    "title": "Meant to Be (feat. Florida Georgia Line)",
+    "artist": "Bebe Rexha",
+    "album": "All Your Fault: Pt. 2",
+    "track_duration_s": 163,
+    "link": "https://www.deezer.com/track/391786232",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 79.4,
+    "tempo_bpm_grid": 77.1,
+    "tempo_candidates_bpm": [
+      76.0,
+      152.0,
+      51.7
+    ],
+    "beats_detected": 40,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.884,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.806,
+    "chroma_profile": [
+      0.75,
+      0.633,
+      0.835,
+      0.726,
+      0.582,
+      0.783,
+      0.707,
+      0.902,
+      0.687,
+      0.779,
+      1.0,
+      0.671
+    ],
+    "rms_dbfs": -9.7,
+    "rms_dbfs_p95_frame": -2.93,
+    "peak_dbfs": 0.67,
+    "loudness_lufs_approx": -10.37,
+    "spectral_centroid_hz_mean": 2543.2,
+    "spectral_centroid_hz_median": 2422.5,
+    "onsets": 128,
+    "onset_density_per_s": 4.268,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 391786232",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 154.27,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/391786232",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (154.3): octave error likely"
+  ],
+  "rejected_candidates": []
+}

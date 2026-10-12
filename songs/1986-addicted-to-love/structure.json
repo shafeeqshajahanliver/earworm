@@ -1,0 +1,130 @@
+{
+  "id": "1986-addicted-to-love",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "271",
+      "also_ids": [
+        "458"
+      ],
+      "match": {
+        "title": "Addicted To Love",
+        "artist": "Robert Palmer",
+        "chart_date": "1986-03-08",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 271 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 264.934,
+      "version_check": "duration differs by +27 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 265 s vs 238 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.511,
+          "end": 19.087,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 9
+        },
+        {
+          "start": 19.087,
+          "end": 53.484,
+          "label": "instrumental",
+          "letter": "B",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 53.484,
+          "end": 87.826,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 87.826,
+          "end": 104.941,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 104.941,
+          "end": 139.365,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 139.365,
+          "end": 156.594,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 156.594,
+          "end": 178.06,
+          "label": "interlude",
+          "letter": "B",
+          "normalised": "instrumental",
+          "bars": 10
+        },
+        {
+          "start": 178.06,
+          "end": 195.4,
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "bars": 8
+        },
+        {
+          "start": 195.4,
+          "end": 212.645,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 212.645,
+          "end": 229.717,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 229.717,
+          "end": 246.941,
+          "label": "interlude",
+          "letter": "B",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 246.941,
+          "end": 261.457,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

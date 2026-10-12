@@ -1,0 +1,124 @@
+{
+  "id": "2008-no-one",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0832_noone",
+      "match": {
+        "title": "No One",
+        "artist": "Alicia Keys",
+        "release": "Now That's What I Call Music! 69",
+        "musicbrainz_id": "83fa4748-2c91-4981-b480-23a764d69fc7",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0832_noone.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0832_noone.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 253.455,
+      "bpm": 90.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.083,
+          "end": 10.75,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 10.75,
+          "end": 32.083,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 32.083,
+          "end": 53.417,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 53.417,
+          "end": 74.75,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 74.75,
+          "end": 85.417,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 85.417,
+          "end": 106.75,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 106.75,
+          "end": 128.083,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 128.083,
+          "end": 149.417,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 149.417,
+          "end": 160.083,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 160.083,
+          "end": 181.417,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 181.417,
+          "end": 202.75,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 202.75,
+          "end": 224.083,
+          "label": "postchorus2",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 224.083,
+          "end": 245.601,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

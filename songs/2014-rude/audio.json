@@ -1,0 +1,70 @@
+{
+  "id": "2014-rude",
+  "preview": {
+    "service": "deezer",
+    "track_id": 71512092,
+    "matched_by": "isrc",
+    "isrc": "CAV161300016",
+    "title": "Rude",
+    "artist": "MAGIC!",
+    "album": "Rude",
+    "track_duration_s": 225,
+    "link": "https://www.deezer.com/track/71512092",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 144.0,
+    "tempo_bpm_grid": 143.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      95.7,
+      71.8
+    ],
+    "beats_detected": 66,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.847,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.552,
+    "chroma_profile": [
+      0.742,
+      1.0,
+      0.569,
+      0.597,
+      0.55,
+      0.632,
+      0.736,
+      0.668,
+      0.934,
+      0.648,
+      0.749,
+      0.628
+    ],
+    "rms_dbfs": -7.41,
+    "rms_dbfs_p95_frame": -4.2,
+    "peak_dbfs": 2.34,
+    "loudness_lufs_approx": -7.15,
+    "spectral_centroid_hz_mean": 2557.8,
+    "spectral_centroid_hz_median": 2507.4,
+    "onsets": 115,
+    "onset_density_per_s": 3.835,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 71512092",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 144.05,
+    "gain": -7.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/71512092",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

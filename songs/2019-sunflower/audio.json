@@ -1,0 +1,72 @@
+{
+  "id": "2019-sunflower",
+  "preview": {
+    "service": "deezer",
+    "track_id": 602456552,
+    "matched_by": "isrc",
+    "isrc": "USUM71814888",
+    "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+    "artist": "Post Malone",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "track_duration_s": 158,
+    "link": "https://www.deezer.com/track/602456552",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 180.0,
+    "tempo_bpm_grid": 178.2,
+    "tempo_candidates_bpm": [
+      184.6,
+      89.1,
+      172.3
+    ],
+    "beats_detected": 90,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.943,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.751,
+    "chroma_profile": [
+      0.324,
+      0.363,
+      1.0,
+      0.314,
+      0.516,
+      0.323,
+      0.598,
+      0.672,
+      0.27,
+      0.58,
+      0.294,
+      0.589
+    ],
+    "rms_dbfs": -9.94,
+    "rms_dbfs_p95_frame": -5.39,
+    "peak_dbfs": 0.66,
+    "loudness_lufs_approx": -9.55,
+    "spectral_centroid_hz_mean": 2147.1,
+    "spectral_centroid_hz_median": 2125.3,
+    "onsets": 100,
+    "onset_density_per_s": 3.335,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 602456552",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 179.76,
+    "gain": -8.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/602456552",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

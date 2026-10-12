@@ -1,0 +1,354 @@
+{
+  "id": "1968-sittin-on-the-dock-of-the-bay",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "645",
+      "also_ids": [],
+      "match": {
+        "title": "(Sittin' On) The Dock Of The Bay",
+        "artist": "Otis Redding",
+        "chart_date": "1968-03-23",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 645 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 164.78,
+      "version_check": "duration within 12 s (+2.4 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.232,
+          "end": 9.465,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 9.465,
+          "end": 28.022,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 28.022,
+          "end": 46.517,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 46.517,
+          "end": 65.277,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 65.277,
+          "end": 83.905,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 83.905,
+          "end": 102.486,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 102.486,
+          "end": 121.096,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 121.096,
+          "end": 139.613,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 139.613,
+          "end": 148.89,
+          "label": "outro",
+          "letter": "A'",
+          "normalised": "outro",
+          "bars": 4
+        },
+        {
+          "start": 148.89,
+          "end": 159.359,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "the_dock_of_the_bay_dt",
+      "match": {
+        "title": "(Sittin' on) the Dock of the Bay",
+        "artist": "Otis Redding",
+        "year": "1968",
+        "rs500_rank": "28",
+        "audio_used": {
+          "artist": "Otis Redding",
+          "album": "The Very Best of Otis Redding, Vol. 1",
+          "publication": "Rhino 1992"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, the_dock_of_the_bay_dt.har/.clt + the_dock_of_the_bay.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 149 s; our recording 162 s; audio taken from compilation 'The Very Best of Otis Redding, Vol. 1'",
+      "parse_check": "expanded 64 bars; timed chord list ends in bar 63",
+      "sections": [
+        {
+          "start": 0.299,
+          "end": 9.505,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 9.505,
+          "end": 27.991,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 8
+        },
+        {
+          "start": 27.991,
+          "end": 46.456,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 12,
+          "bars": 8
+        },
+        {
+          "start": 46.456,
+          "end": 65.198,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 65.198,
+          "end": 83.806,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 8
+        },
+        {
+          "start": 83.806,
+          "end": 102.403,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 36,
+          "bars": 8
+        },
+        {
+          "start": 102.403,
+          "end": 120.95,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 44,
+          "bars": 8
+        },
+        {
+          "start": 120.95,
+          "end": 139.52,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 52,
+          "bars": 8
+        },
+        {
+          "start": 139.52,
+          "end": 148.788,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 60,
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "the_dock_of_the_bay_tdc",
+      "match": {
+        "title": "(Sittin' on) the Dock of the Bay",
+        "artist": "Otis Redding",
+        "year": "1968",
+        "rs500_rank": "28",
+        "audio_used": {
+          "artist": "Otis Redding",
+          "album": "The Very Best of Otis Redding, Vol. 1",
+          "publication": "Rhino 1992"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, the_dock_of_the_bay_tdc.har/.clt + the_dock_of_the_bay.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 149 s; our recording 162 s; audio taken from compilation 'The Very Best of Otis Redding, Vol. 1'",
+      "parse_check": "expanded 64 bars; timed chord list ends in bar 63",
+      "sections": [
+        {
+          "start": 0.299,
+          "end": 9.505,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 9.505,
+          "end": 27.991,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 8
+        },
+        {
+          "start": 27.991,
+          "end": 46.456,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 12,
+          "bars": 8
+        },
+        {
+          "start": 46.456,
+          "end": 65.198,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 65.198,
+          "end": 83.806,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 8
+        },
+        {
+          "start": 83.806,
+          "end": 102.403,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 36,
+          "bars": 8
+        },
+        {
+          "start": 102.403,
+          "end": 120.95,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 44,
+          "bars": 8
+        },
+        {
+          "start": 120.95,
+          "end": 139.52,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 52,
+          "bars": 8
+        },
+        {
+          "start": 139.52,
+          "end": 148.788,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 60,
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "mcgill_billboard": "intro verse chorus verse chorus bridge verse chorus outro",
+      "rolling_stone_dt": "intro verse chorus verse chorus bridge verse chorus outro",
+      "rolling_stone_tdc": "intro verse chorus verse chorus bridge verse chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_dt",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      },
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      }
+    ],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "mcgill_billboard": "yes",
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

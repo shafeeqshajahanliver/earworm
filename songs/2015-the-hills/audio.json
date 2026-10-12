@@ -1,0 +1,72 @@
+{
+  "id": "2015-the-hills",
+  "preview": {
+    "service": "deezer",
+    "track_id": 106506512,
+    "matched_by": "isrc",
+    "isrc": "USUG11500737",
+    "title": "The Hills",
+    "artist": "The Weeknd",
+    "album": "Beauty Behind The Madness",
+    "track_duration_s": 242,
+    "link": "https://www.deezer.com/track/106506512",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 113.0,
+    "tempo_bpm_grid": 112.3,
+    "tempo_candidates_bpm": [
+      56.2,
+      234.9,
+      112.3
+    ],
+    "beats_detected": 57,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.792,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.692,
+    "chroma_profile": [
+      0.563,
+      0.296,
+      0.413,
+      0.469,
+      0.405,
+      0.744,
+      0.339,
+      0.556,
+      1.0,
+      0.304,
+      0.264,
+      0.263
+    ],
+    "rms_dbfs": -5.28,
+    "rms_dbfs_p95_frame": -3.51,
+    "peak_dbfs": 2.15,
+    "loudness_lufs_approx": -7.52,
+    "spectral_centroid_hz_mean": 2122.3,
+    "spectral_centroid_hz_median": 1951.4,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 106506512",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/106506512",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USUG11401323: title/artist mismatch: Often / The Weeknd"
+  ]
+}

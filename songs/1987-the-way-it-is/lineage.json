@@ -1,0 +1,57 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/18463",
+    "title": "The Way It Is",
+    "performer": "Bruce Hornsby & The Range",
+    "is_original": true,
+    "first_release_date": "1986-04-03",
+    "releases": [
+      {
+        "title": "The Way It Is",
+        "uri": "https://api.secondhandsongs.com/release/7598",
+        "performer": "Bruce Hornsby & The Range"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 39,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/18463",
+    "title": "The Way It Is",
+    "language": "English",
+    "writers": [
+      "Bruce Hornsby"
+    ],
+    "original_performer": "Bruce Hornsby & The Range",
+    "versions": 40,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Das war schon immer so",
+        "uri": "https://api.secondhandsongs.com/work/120724"
+      },
+      {
+        "title": "The Atheists",
+        "uri": "https://api.secondhandsongs.com/work/129091"
+      },
+      {
+        "title": "Never Change",
+        "uri": "https://api.secondhandsongs.com/work/136783"
+      },
+      {
+        "title": "Changes",
+        "uri": "https://api.secondhandsongs.com/work/18464"
+      }
+    ]
+  }
+}

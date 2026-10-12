@@ -1,0 +1,118 @@
+{
+  "id": "2008-lollipop",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0791_lollipop",
+      "match": {
+        "title": "Lollipop",
+        "artist": "Lil Wayne feat. Static Major",
+        "release": "Now That's What I Call Music! 28",
+        "musicbrainz_id": "6f968df7-4818-4c78-bb4d-cee33356a204",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0791_lollipop.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0791_lollipop.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 247.363,
+      "bpm": 74.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -55 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.051,
+          "end": 12.213,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 12.213,
+          "end": 25.997,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 25.997,
+          "end": 51.943,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 51.943,
+          "end": 77.078,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 77.078,
+          "end": 90.051,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 90.051,
+          "end": 116.807,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 116.807,
+          "end": 154.916,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 154.916,
+          "end": 167.889,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 167.889,
+          "end": 180.862,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 180.862,
+          "end": 194.645,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 194.645,
+          "end": 219.78,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 219.78,
+          "end": 246.537,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 247 s vs 302 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

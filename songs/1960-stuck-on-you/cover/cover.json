@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "07a62160-f736-4461-b79d-73ae566dcf20",
+      "release_title": "Stuck on You / Fame and Fortune",
+      "release_date": "1960-03-20",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e47f40e6-0026-48f4-9553-dcb0b6e44e97/29860147310-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e47f40e6-0026-48f4-9553-dcb0b6e44e97",
+      "image_id": 29860147310,
+      "types": [
+        "Front",
+        "Liner"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        613
+      ],
+      "measures": {
+        "brightness": 0.773,
+        "saturation": 0.321,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#e9e186",
+            "share": 0.279
+          },
+          {
+            "hex": "#f5f4d6",
+            "share": 0.222
+          },
+          {
+            "hex": "#53a19b",
+            "share": 0.215
+          },
+          {
+            "hex": "#67786d",
+            "share": 0.157
+          },
+          {
+            "hex": "#a0ad95",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/f2/e4/52f2e464-600b-4173-74f5-7cf6df7a2db8/8028980705526.jpg/1200x1200bb.jpg",
+      "collection": "Stuck On You",
+      "collection_id": 1880565035,
+      "track_id": 1880565036,
+      "artist_name": "Elvis Presley",
+      "release_date": "1960-03-23T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.261,
+        "saturation": 0.733,
+        "dark_share": 0.643,
+        "palette": [
+          {
+            "hex": "#000d03",
+            "share": 0.473
+          },
+          {
+            "hex": "#c1b678",
+            "share": 0.26
+          },
+          {
+            "hex": "#393e28",
+            "share": 0.114
+          },
+          {
+            "hex": "#010d03",
+            "share": 0.114
+          },
+          {
+            "hex": "#000a01",
+            "share": 0.04
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

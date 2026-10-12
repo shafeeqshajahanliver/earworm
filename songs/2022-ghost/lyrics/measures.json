@@ -1,0 +1,41 @@
+{
+  "id": "2022-ghost",
+  "lyrics_kind": "synced",
+  "lrclib_id": 147446,
+  "lines": 36,
+  "words": 233,
+  "unique_words": 63,
+  "type_token_ratio": 0.27,
+  "repeated_line_share": 0.444,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.28,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "ghost",
+  "title_phrase_occurrences": 4,
+  "pronouns": {
+    "first_singular": 29,
+    "second": 27,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.0,
+  "last_line_s": 148.25,
+  "sung_time_s": 142.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 98.2,
+  "words_per_minute_track": 91.3,
+  "longest_gap_between_lines_s": 13.69,
+  "longest_gap_starts_at_s": 0.0,
+  "first_repeated_block": {
+    "first_at_s": 31.81,
+    "recurs_at_s": 81.99,
+    "lines": [
+      "Since the love that you left is all that I get",
+      "I want you to know that"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 147446",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2019-wow",
+  "lyrics_kind": "synced",
+  "lrclib_id": 510739,
+  "lines": 48,
+  "words": 403,
+  "unique_words": 160,
+  "type_token_ratio": 0.397,
+  "repeated_line_share": 0.146,
+  "distinct_lines": 41,
+  "zlib_compression_ratio": 0.39,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "wow",
+  "title_phrase_occurrences": 18,
+  "pronouns": {
+    "first_singular": 37,
+    "second": 6,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.24,
+  "last_line_s": 143.45,
+  "sung_time_s": 122.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 197.2,
+  "words_per_minute_track": 161.7,
+  "longest_gap_between_lines_s": 10.75,
+  "longest_gap_starts_at_s": 122.38,
+  "first_repeated_block": {
+    "first_at_s": 44.01,
+    "recurs_at_s": 53.42,
+    "lines": [
+      "Get more bottles, these bottles are lonely",
+      "It's a moment when I show up, got 'em sayin', \"Wow\" (Wow, wow)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 510739",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

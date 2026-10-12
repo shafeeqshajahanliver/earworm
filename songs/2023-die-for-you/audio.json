@@ -1,0 +1,69 @@
+{
+  "id": "2023-die-for-you",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1440870395,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Die For You",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "track_duration_s": 260.3,
+    "link": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395&uo=4",
+    "duration_matched_to": "wikipedia infobox length (260s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 67.0,
+    "tempo_bpm_grid": 67.1,
+    "tempo_candidates_bpm": [
+      66.3,
+      129.2,
+      136.0
+    ],
+    "beats_detected": 30,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.521,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.488,
+    "chroma_profile": [
+      0.596,
+      0.819,
+      0.625,
+      0.595,
+      0.712,
+      0.572,
+      0.827,
+      0.818,
+      1.0,
+      0.92,
+      0.63,
+      0.578
+    ],
+    "rms_dbfs": -9.55,
+    "rms_dbfs_p95_frame": -4.48,
+    "peak_dbfs": 0.04,
+    "loudness_lufs_approx": -10.63,
+    "spectral_centroid_hz_mean": 2472.2,
+    "spectral_centroid_hz_median": 2446.0,
+    "onsets": 95,
+    "onset_density_per_s": 3.169,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1440870395",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2166068717: version (Die For You (Remix))",
+    "itunes 1673432343: version (Die For You (Remix))",
+    "itunes 1677001126: version (Die For You (Remix))",
+    "itunes 1677006441: version (Die For You (Remix))"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5392707,
+  "kind": "synced",
+  "matched": {
+    "track": "Give Me Everything",
+    "artist": "Pitbull feat. Ne‐Yo, Afrojack & Nayer",
+    "album": "Planet Pit",
+    "duration_s": 253.0
+  },
+  "duration_matched_to": "musicbrainz recording length (254s)",
+  "duration_diff_s": 1.1,
+  "reference_lengths": [
+    {
+      "seconds": 254.133,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 256.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 227.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 242.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 274.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 476.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 42,
+  "agreement_with_other_candidates": 0.967,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34703902 (Give Me Everything / Pitbull / Give Me Everything__Incl Sidney Samson Remix CDM, 256.0s): live/remix/other version",
+    "lrclib 34700971 (Give Me Everything / Pitbull / Give Me Everything__Incl Sidney Samson Remix CDM, 330.0s): live/remix/other version",
+    "lrclib 33350715 (give me everything / Pitbull / Give Me Everything: The Remixes, 331.0s): live/remix/other version",
+    "lrclib 36799956 (Give me everything / Pitbull / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 35595477 (Give Me Everything / Pitbull / Give Me Everything: The Remixes, 307.0s): live/remix/other version",
+    "lrclib 37504215 (Give Me Everything / Pitbull feat. Ne‐Yo, Afrojack & Nayer / Greatest Hits, 266.0s): duration matches no reference length",
+    "lrclib 37303835 (Give Me Everything / Pitbull feat. Ne‐Yo, Afrojack & Nayer / Bravo: The Hits 2011, 266.0s): duration matches no reference length",
+    "lrclib 20059070 (Give Me Everything / Pitbull / Give Me Everything, 266.475062s): duration matches no reference length",
+    "lrclib 18114918 (Give Me Everything (R3hab Remix) / Pitbull / Give Me Everything, 330.351725s): live/remix/other version",
+    "lrclib 19646084 (Give Me Everything (R3hab Remix) / Pitbull / Give Me Everything, 332.56s): live/remix/other version",
+    "lrclib 17535137 (Give Me Everything (Alvaro Remix) / Pitbull / Give Me Everything, 361.733333s): live/remix/other version",
+    "lrclib 21376726 (Give Me Everything (R3hab Remix) / Pitbull / Give Me Everything, 326.72s): live/remix/other version",
+    "lrclib 28586939 (Give Me Everything (Apster Remix) / Pitbull / Give Me Everything, 350.0s): live/remix/other version",
+    "lrclib 11763663 (Give+Me+Everything+(AIZZO+Remix) / Pitbull / Give+Me+Everything, 283.0s): live/remix/other version",
+    "lrclib 11763662 (Give+Me+Everything+(AIZZO+Remix) / Pitbull / Give+Me+Everything, 284.0s): live/remix/other version",
+    "lrclib 15582652 (Give Me Everything (Alvaro Remix) / Pitbull / Give Me Everything, 363.986667s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

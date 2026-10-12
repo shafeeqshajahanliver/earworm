@@ -1,0 +1,66 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11976598,
+  "kind": "synced",
+  "matched": {
+    "track": "Ring My Bell",
+    "artist": "Anita Ward",
+    "album": "Ring My Bell",
+    "duration_s": 212.009
+  },
+  "duration_matched_to": "musicbrainz recording length (213s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 213.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 212.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 210.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 491.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 15,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37475618 (Ring My Bell / Anita Ward / MM Professional - Disk C - 50s 60s 70s, 198.0s): duration matches no reference length",
+    "lrclib 37506361 (Ring my bell / Anita Ward / Disco 70 CD1, 191.0s): duration matches no reference length",
+    "lrclib 37111168 (Ring My Bell / Anita Ward / Collini Disco House Vol. 1, 203.0s): duration matches no reference length",
+    "lrclib 37116098 (Ring My Bell / Anita Ward / Classic Rare Hits of the 70's, 200.0s): duration matches no reference length",
+    "lrclib 37116186 (Ring My Bell / Anita Ward / Club 70: The Dancing Years, 248.0s): duration matches no reference length",
+    "lrclib 37172117 (Ring My Bell / Anita Ward / The Great Seventies Collection - Disc 3, 204.0s): duration matches no reference length",
+    "lrclib 37162441 (Ring My Bell / Anita Ward / Fetenhits - 70's Disco Classic, 268.0s): duration matches no reference length",
+    "lrclib 37089896 (Ring My Bell / Anita Ward / Golden Oldies Box, 198.0s): duration matches no reference length",
+    "lrclib 37063716 (Ring My Bell / Anita Ward / No. 1 Dj Collection - 70S Volume 9, 201.0s): duration matches no reference length",
+    "lrclib 37041429 (Ring My Bell / Anita Ward / Disco Heat, 384.0s): duration matches no reference length",
+    "lrclib 37291407 (Ring My Bell / Anita Ward / Discoparty, 251.0s): duration matches no reference length",
+    "lrclib 37309409 (Ring My Bell / Anita Ward / The No. 1 Dj Collection Of The 70's Vol. 9, 194.0s): duration matches no reference length",
+    "lrclib 37376168 (Ring My Bell / Anita Ward / Top 100 Anni '80, 227.0s): duration matches no reference length",
+    "lrclib 33633623 (Ring My Bell / Anita Ward / Ring My Bell: The Best of Anita Ward, 194.0s): duration matches no reference length",
+    "lrclib 26906184 (Ring My Bell / Anita Ward / Ring My Bell - The Best Of Anita Ward, 286.932993s): duration matches no reference length",
+    "lrclib 25166648 (Ring My Bell (Latin Mix) / Anita Ward / Ring My Bell - The Best Of Anita Ward, 245.506009s): live/remix/other version",
+    "lrclib 20094733 (Ring My Bell / Anita Ward / Ring My Bell, 408.9730609s): duration matches no reference length",
+    "lrclib 19239380 (Ring My Bell / Anita Ward / Ring My Bell, 268.491875s): duration matches no reference length",
+    "lrclib 19278219 (Ring My Bell / Anita Ward / Ring My Bell, 199.089333s): duration matches no reference length",
+    "lrclib 18919291 (Ring My Bell / Anita Ward / Ring My Bell, 236.773878s): duration matches no reference length",
+    "lrclib 20466463 (Ring My Bell / Anita Ward / Ring My Bell, 201.23925s): duration matches no reference length",
+    "lrclib 20753909 (Ring My Bell / Anita Ward / Ring My Bell, 250.801633s): duration matches no reference length",
+    "lrclib 19544294 (Ring My Bell / Anita Ward / Ring My Bell, 265.3333248s): duration matches no reference length",
+    "lrclib 22201613 (Ring My Bell / Anita Ward / Ring My Bell, 475.704s): duration matches no reference length",
+    "lrclib 26591326 (Ring My Bell / Anita Ward / Ring My Bell, 230.904s): duration matches no reference length",
+    "lrclib 11966320 (Ring My Bell / Anita Ward / Ring My Bell, 228.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

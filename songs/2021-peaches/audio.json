@@ -1,0 +1,70 @@
+{
+  "id": "2021-peaches",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1280165222,
+    "matched_by": "isrc",
+    "isrc": "USUM72102636",
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "album": "Justice",
+    "track_duration_s": 198,
+    "link": "https://www.deezer.com/track/1280165222",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 89.9,
+    "tempo_bpm_grid": 90.7,
+    "tempo_candidates_bpm": [
+      89.1,
+      45.3,
+      184.6
+    ],
+    "beats_detected": 42,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.712,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.47,
+    "chroma_profile": [
+      0.885,
+      0.591,
+      0.902,
+      0.688,
+      1.0,
+      0.964,
+      0.765,
+      0.897,
+      0.693,
+      0.737,
+      0.456,
+      0.565
+    ],
+    "rms_dbfs": -7.53,
+    "rms_dbfs_p95_frame": -2.62,
+    "peak_dbfs": 1.15,
+    "loudness_lufs_approx": -8.65,
+    "spectral_centroid_hz_mean": 2090.6,
+    "spectral_centroid_hz_median": 1979.4,
+    "onsets": 119,
+    "onset_density_per_s": 3.968,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1280165222",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1280165222",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

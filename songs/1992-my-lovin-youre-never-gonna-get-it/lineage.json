@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/14451",
+    "title": "My Lovin' (You're Never Gonna Get It)",
+    "performer": "En Vogue",
+    "is_original": true,
+    "first_release_date": "1992-03-24",
+    "releases": [
+      {
+        "title": "Funky Divas",
+        "uri": "https://api.secondhandsongs.com/release/6022",
+        "performer": "En Vogue"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 24,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/14451",
+    "title": "My Lovin' (You're Never Gonna Get It)",
+    "language": "English",
+    "writers": [
+      "Denzil Foster",
+      "Thomas McElroy"
+    ],
+    "original_performer": "En Vogue",
+    "versions": 25,
+    "based_on": [],
+    "derived_works": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 517917,
+  "kind": "synced",
+  "matched": {
+    "track": "Without Me",
+    "artist": "Halsey",
+    "album": "Manic",
+    "duration_s": 202.0
+  },
+  "duration_matched_to": "musicbrainz recording length (202s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 201.66,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 201.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 201.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34466851 (Without Me / Halsey / Without Me, 476.0s): duration matches no reference length",
+    "lrclib 35080591 (Without Me / Halsey / 觀看次數：11億次, 237.0s): duration matches no reference length",
+    "lrclib 34863486 (Without Me / Halsey / Manic, 270.0s): duration matches no reference length",
+    "lrclib 33438411 (Without Me / Halsey / Without Me (ILLENIUM Remix) - Single, 249.0s): live/remix/other version",
+    "lrclib 35840806 (Without Me / Halsey / 1,1 Mrd. Aufrufe, 237.0s): duration matches no reference length",
+    "lrclib 35994922 (Without Me / Halsey / Decennia, 288.0s): duration matches no reference length",
+    "lrclib 6656002 (Without Me / Halsey / Halsey, 236.0s): duration matches no reference length",
+    "lrclib 9967217 (Without Me / Halsey / Halsey, 229.0s): duration matches no reference length",
+    "lrclib 36725456 (Without Me / Halsey / Without Me, Nones): duration matches no reference length",
+    "lrclib 8989542 (Without Me / Halsey / Without Me, 235.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,405 @@
+{
+  "id": "1986-addicted-to-love",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "271",
+      "also_ids": [
+        "458"
+      ],
+      "match": {
+        "title": "Addicted To Love",
+        "artist": "Robert Palmer",
+        "chart_date": "1986-03-08",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 271 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 264.934,
+      "version_check": "duration differs by +27 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 265 s vs 238 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "key_info": {
+        "tonic": "A",
+        "tonic_pc": 9,
+        "mode": null,
+        "name": "A",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.511,
+          "end": 19.087,
+          "bars": 9,
+          "key": "A",
+          "written": [
+            "N"
+          ],
+          "roman": [
+            "N"
+          ],
+          "raw": [
+            "N"
+          ]
+        },
+        {
+          "label": "instrumental",
+          "letter": "B",
+          "normalised": "instrumental",
+          "start": 19.087,
+          "end": 53.484,
+          "bars": 16,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A",
+            "G",
+            "D",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I",
+            "bVII",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj",
+            "G:maj",
+            "D:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 53.484,
+          "end": 87.826,
+          "bars": 16,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A",
+            "G",
+            "D",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I",
+            "bVII",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj",
+            "G:maj",
+            "D:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 87.826,
+          "end": 104.941,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "F#m11",
+            "D",
+            "A",
+            "F#m11",
+            "D",
+            "Dsus4"
+          ],
+          "roman": [
+            "vi11",
+            "IV",
+            "I",
+            "vi11",
+            "IV",
+            "IVsus4"
+          ],
+          "raw": [
+            "F#:min11",
+            "D:maj",
+            "A:maj",
+            "F#:min11",
+            "D:maj",
+            "D:sus4(b7)"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 104.941,
+          "end": 139.365,
+          "bars": 16,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A",
+            "G",
+            "D/A",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I",
+            "bVII",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 139.365,
+          "end": 156.594,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "F#m11",
+            "D",
+            "A",
+            "F#m11",
+            "D",
+            "Dsus4"
+          ],
+          "roman": [
+            "vi11",
+            "IV",
+            "I",
+            "vi11",
+            "IV",
+            "IVsus4"
+          ],
+          "raw": [
+            "F#:min11",
+            "D:maj",
+            "A:maj",
+            "F#:min11",
+            "D:maj",
+            "D:sus4(b7)"
+          ]
+        },
+        {
+          "label": "interlude",
+          "letter": "B",
+          "normalised": "instrumental",
+          "start": 156.594,
+          "end": 178.06,
+          "bars": 10,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A",
+            "N"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I",
+            "N"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj",
+            "N"
+          ]
+        },
+        {
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "start": 178.06,
+          "end": 195.4,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 195.4,
+          "end": 212.645,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 212.645,
+          "end": 229.717,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "F#m11",
+            "D",
+            "A",
+            "F#m11",
+            "D",
+            "Dsus4"
+          ],
+          "roman": [
+            "vi11",
+            "IV",
+            "I",
+            "vi11",
+            "IV",
+            "IVsus4"
+          ],
+          "raw": [
+            "F#:min11",
+            "D:maj",
+            "A:maj",
+            "F#:min11",
+            "D:maj",
+            "D:sus4(b7)"
+          ]
+        },
+        {
+          "label": "interlude",
+          "letter": "B",
+          "normalised": "instrumental",
+          "start": 229.717,
+          "end": 246.941,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "start": 246.941,
+          "end": 261.457,
+          "bars": 8,
+          "key": "A",
+          "written": [
+            "A",
+            "G",
+            "D/A",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "bVII",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "G:maj",
+            "D:maj/5",
+            "A:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

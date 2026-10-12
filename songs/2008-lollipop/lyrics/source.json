@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3110694,
+  "kind": "synced",
+  "matched": {
+    "track": "Lollipop",
+    "artist": "Lil Wayne",
+    "album": "Tha Carter III",
+    "duration_s": 302.0
+  },
+  "duration_matched_to": "musicbrainz recording length (302s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 302.04,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 302.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 167.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 247.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 305.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 52,
+  "agreement_with_other_candidates": 0.82,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37291970 (Lollipop / Lil Wayne / NFERNO Instrumentals...Vol. 1 Feat. Lil Wayne, 161.0s): live/remix/other version",
+    "lrclib 37365905 (Lollipop / Lil Wayne / Angel of Death, Vol. 2 (Back to the Carter 3), 256.0s): duration matches no reference length",
+    "lrclib 34659741 (Lollipop / Lil Wayne / Tha Carter III (MTV Bonus Version), 290.0s): live/remix/other version",
+    "lrclib 34687363 (Lollipop / Lil' Wayne / MKW Presents: Bangin Blends Vol. 1, 288.0s): duration matches no reference length",
+    "lrclib 34384110 (Lollipop / Lil Wayne / Dj Kilown, 295.0s): duration matches no reference length",
+    "lrclib 34845622 (Lollipop / Lil Wayne / Singles, 295.0s): duration matches no reference length",
+    "lrclib 34845618 (Lollipop / Lil Wayne / Singles, 296.0s): duration matches no reference length",
+    "lrclib 36814609 (Lollipop / Lil Wayne featuring Static Major / Billboard Year-End Hot 100 Songs 2008, 285.0s): duration matches no reference length",
+    "lrclib 21186935 (Lollipop / Lil Wayne / Lollipop, 285.988571s): duration matches no reference length",
+    "lrclib 32693139 (Lollipop / Lil Wayne / Lollipop, 311.0s): duration matches no reference length",
+    "lrclib 38626054 (Lollipop / Lil Wayne / Lollipop, 362.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

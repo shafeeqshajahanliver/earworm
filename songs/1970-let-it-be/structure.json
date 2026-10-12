@@ -1,0 +1,455 @@
+{
+  "id": "1970-let-it-be",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "let_it_be_dt",
+      "match": {
+        "title": "Let It Be",
+        "artist": "The Beatles",
+        "year": "1970",
+        "rs500_rank": "20",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Let It Be",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, let_it_be_dt.har/.clt + let_it_be.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 238 s; our recording 243 s",
+      "parse_check": "expanded 70 bars; timed chord list ends in bar 69",
+      "sections": [
+        {
+          "start": 0.195,
+          "end": 13.428,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 13.428,
+          "end": 26.083,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 4
+        },
+        {
+          "start": 26.083,
+          "end": 38.887,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 4
+        },
+        {
+          "start": 38.887,
+          "end": 52.081,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 12,
+          "bars": 4
+        },
+        {
+          "start": 52.081,
+          "end": 65.09,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 4
+        },
+        {
+          "start": 65.09,
+          "end": 78.501,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 4
+        },
+        {
+          "start": 78.501,
+          "end": 91.867,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 4
+        },
+        {
+          "start": 91.867,
+          "end": 105.252,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 4
+        },
+        {
+          "start": 105.252,
+          "end": 112.292,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 32,
+          "bars": 2
+        },
+        {
+          "start": 112.292,
+          "end": 119.211,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 34,
+          "bars": 2
+        },
+        {
+          "start": 119.211,
+          "end": 132.945,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 36,
+          "bars": 4
+        },
+        {
+          "start": 132.945,
+          "end": 146.749,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 40,
+          "bars": 4
+        },
+        {
+          "start": 146.749,
+          "end": 160.963,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 44,
+          "bars": 4
+        },
+        {
+          "start": 160.963,
+          "end": 174.897,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 48,
+          "bars": 4
+        },
+        {
+          "start": 174.897,
+          "end": 188.705,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 52,
+          "bars": 4
+        },
+        {
+          "start": 188.705,
+          "end": 202.599,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 4
+        },
+        {
+          "start": 202.599,
+          "end": 216.526,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 60,
+          "bars": 4
+        },
+        {
+          "start": 216.526,
+          "end": 230.59,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 64,
+          "bars": 4
+        },
+        {
+          "start": 230.59,
+          "end": 238.353,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 68,
+          "bars": 2
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "let_it_be_tdc",
+      "match": {
+        "title": "Let It Be",
+        "artist": "The Beatles",
+        "year": "1970",
+        "rs500_rank": "20",
+        "audio_used": {
+          "artist": "The Beatles",
+          "album": "Let It Be",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, let_it_be_tdc.har/.clt + let_it_be.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 238 s; our recording 243 s",
+      "parse_check": "expanded 70 bars; timed chord list ends in bar 69",
+      "sections": [
+        {
+          "start": 0.195,
+          "end": 13.428,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 13.428,
+          "end": 38.887,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 8
+        },
+        {
+          "start": 38.887,
+          "end": 52.081,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 12,
+          "bars": 4
+        },
+        {
+          "start": 52.081,
+          "end": 78.501,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 8
+        },
+        {
+          "start": 78.501,
+          "end": 91.867,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 4
+        },
+        {
+          "start": 91.867,
+          "end": 105.252,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 4
+        },
+        {
+          "start": 105.252,
+          "end": 119.211,
+          "label": "Tg",
+          "normalised": "other",
+          "first_bar": 32,
+          "bars": 4
+        },
+        {
+          "start": 119.211,
+          "end": 146.749,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 36,
+          "bars": 8
+        },
+        {
+          "start": 146.749,
+          "end": 160.963,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 44,
+          "bars": 4
+        },
+        {
+          "start": 160.963,
+          "end": 188.705,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 188.705,
+          "end": 202.599,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 4
+        },
+        {
+          "start": 202.599,
+          "end": 230.59,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 60,
+          "bars": 8
+        },
+        {
+          "start": 230.59,
+          "end": 238.353,
+          "label": "Tg",
+          "normalised": "other",
+          "first_bar": 68,
+          "bars": 2
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "isophonics",
+      "dataset": "Isophonics Beatles reference annotations",
+      "source_id": "The Beatles/12_-_Let_It_Be/06_-_Let_It_Be.lab",
+      "source": "Isophonics, The Beatles annotations, The Beatles/12_-_Let_It_Be/06_-_Let_It_Be.lab",
+      "licence": "No licence stated on the Isophonics page; cite Harte (2010) / Mauch et al. (2009)",
+      "url": "https://isophonics.net/files/annotations/The%20Beatles%20Annotations.tar.gz",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 13.392,
+          "label": "intro",
+          "normalised": "intro"
+        },
+        {
+          "start": 13.392,
+          "end": 38.821,
+          "label": "verse",
+          "normalised": "verse"
+        },
+        {
+          "start": 38.821,
+          "end": 52.048,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 52.048,
+          "end": 78.485,
+          "label": "verse",
+          "normalised": "verse"
+        },
+        {
+          "start": 78.485,
+          "end": 91.942,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 91.942,
+          "end": 105.217,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 105.217,
+          "end": 119.192,
+          "label": "coda",
+          "normalised": "outro"
+        },
+        {
+          "start": 119.192,
+          "end": 146.724,
+          "label": "verse_(instrumental)",
+          "normalised": "verse"
+        },
+        {
+          "start": 146.724,
+          "end": 160.902,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 160.902,
+          "end": 188.725,
+          "label": "verse",
+          "normalised": "verse"
+        },
+        {
+          "start": 188.725,
+          "end": 202.598,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 202.598,
+          "end": 216.549,
+          "label": "refrain",
+          "normalised": "chorus"
+        },
+        {
+          "start": 216.549,
+          "end": 241.5,
+          "label": "coda/outro",
+          "normalised": "outro"
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled bridge"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "verse chorus verse chorus bridge verse chorus verse chorus bridge",
+      "rolling_stone_tdc": "verse chorus verse chorus verse chorus verse chorus",
+      "isophonics": "intro verse chorus verse chorus outro verse chorus verse chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.8
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "isophonics",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.73
+      },
+      {
+        "a": "rolling_stone_tdc",
+        "b": "isophonics",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.73
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "no",
+      "isophonics": "no"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "disputed",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

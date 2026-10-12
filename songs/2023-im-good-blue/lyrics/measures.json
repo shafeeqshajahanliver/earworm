@@ -1,0 +1,41 @@
+{
+  "id": "2023-im-good-blue",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37442262,
+  "lines": 33,
+  "words": 275,
+  "unique_words": 70,
+  "type_token_ratio": 0.255,
+  "repeated_line_share": 0.394,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.249,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i'm good",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 45,
+    "second": 8,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 14.4,
+  "last_line_s": 159.72,
+  "sung_time_s": 125.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 132.0,
+  "words_per_minute_track": 94.3,
+  "longest_gap_between_lines_s": 19.55,
+  "longest_gap_starts_at_s": 99.74,
+  "first_repeated_block": {
+    "first_at_s": 17.3,
+    "recurs_at_s": 32.19,
+    "lines": [
+      "Baby, I'ma have the best fuckin' night of my life",
+      "And wherever it takes me, I'm down for the ride"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37442262",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

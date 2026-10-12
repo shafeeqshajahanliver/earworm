@@ -1,0 +1,70 @@
+{
+  "id": "2012-call-me-maybe",
+  "preview": {
+    "service": "deezer",
+    "track_id": 16670786,
+    "matched_by": "isrc",
+    "isrc": "CAB391100615",
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "album": "Call Me Maybe",
+    "track_duration_s": 193,
+    "link": "https://www.deezer.com/track/16670786",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 121.6,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      60.1,
+      117.5,
+      234.9
+    ],
+    "beats_detected": 61,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.696,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.621,
+    "chroma_profile": [
+      0.792,
+      0.846,
+      1.0,
+      0.662,
+      0.536,
+      0.443,
+      0.763,
+      0.99,
+      0.664,
+      0.8,
+      0.687,
+      0.753
+    ],
+    "rms_dbfs": -10.42,
+    "rms_dbfs_p95_frame": -5.15,
+    "peak_dbfs": 1.52,
+    "loudness_lufs_approx": -10.5,
+    "spectral_centroid_hz_mean": 2930.6,
+    "spectral_centroid_hz_median": 2786.7,
+    "onsets": 142,
+    "onset_density_per_s": 4.735,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 16670786",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/16670786",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

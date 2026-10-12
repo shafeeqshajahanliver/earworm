@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "604b720d-81c2-4902-a311-81eaa5e250bf",
+      "release_title": "Calm Down",
+      "release_date": "2022-08-25",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9036abbe-b2d2-45d8-a8c9-dbd8eb7bc4f4/33395791375-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9036abbe-b2d2-45d8-a8c9-dbd8eb7bc4f4",
+      "image_id": 33395791375,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.669,
+        "saturation": 0.65,
+        "dark_share": 0.016,
+        "palette": [
+          {
+            "hex": "#a06130",
+            "share": 0.28
+          },
+          {
+            "hex": "#613b1c",
+            "share": 0.222
+          },
+          {
+            "hex": "#c18446",
+            "share": 0.215
+          },
+          {
+            "hex": "#dda354",
+            "share": 0.177
+          },
+          {
+            "hex": "#edcc75",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d9ce5deb-37e5-4fc6-997d-484ea4711836",
+      "release_title": "Rave & Roses (Ultra)",
+      "release_date": "2023-04-28",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rave & Roses",
+      "url": "http://coverartarchive.org/release/1226a0ce-13a2-498e-bd95-ee810995f334/32327933282-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1226a0ce-13a2-498e-bd95-ee810995f334",
+      "image_id": 32327933282,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.928,
+        "saturation": 0.189,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f6f0cc",
+            "share": 0.312
+          },
+          {
+            "hex": "#f6f1d1",
+            "share": 0.238
+          },
+          {
+            "hex": "#f7f3d5",
+            "share": 0.228
+          },
+          {
+            "hex": "#b6a983",
+            "share": 0.136
+          },
+          {
+            "hex": "#f6f1d2",
+            "share": 0.086
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/8b/d0/d58bd0e8-1641-821c-23f4-d0209739f782/25UMGIM71261.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Rave & Roses",
+      "collection_id": 1817650093,
+      "track_id": 1817650098,
+      "artist_name": "Rema",
+      "release_date": "2022-02-09T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.926,
+        "saturation": 0.189,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f6f0cc",
+            "share": 0.306
+          },
+          {
+            "hex": "#f6f1d1",
+            "share": 0.244
+          },
+          {
+            "hex": "#f7f3d5",
+            "share": 0.222
+          },
+          {
+            "hex": "#b4a781",
+            "share": 0.136
+          },
+          {
+            "hex": "#f6f1d2",
+            "share": 0.091
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2016-stressed-out",
+  "preview": {
+    "service": "deezer",
+    "track_id": 98792382,
+    "matched_by": "isrc",
+    "isrc": "USAT21500597",
+    "title": "Stressed Out",
+    "artist": "Twenty One Pilots",
+    "album": "Stressed Out",
+    "track_duration_s": 202,
+    "link": "https://www.deezer.com/track/98792382",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 170.0,
+    "tempo_bpm_grid": 169.4,
+    "tempo_candidates_bpm": [
+      172.3,
+      86.1,
+      42.4
+    ],
+    "beats_detected": 84,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.706,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.603,
+    "chroma_profile": [
+      0.676,
+      0.545,
+      0.771,
+      0.583,
+      0.725,
+      0.586,
+      0.574,
+      0.818,
+      0.705,
+      1.0,
+      0.593,
+      0.59
+    ],
+    "rms_dbfs": -7.61,
+    "rms_dbfs_p95_frame": -3.75,
+    "peak_dbfs": 2.35,
+    "loudness_lufs_approx": -7.87,
+    "spectral_centroid_hz_mean": 2680.4,
+    "spectral_centroid_hz_median": 2598.3,
+    "onsets": 116,
+    "onset_density_per_s": 3.868,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 98792382",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 170.1,
+    "gain": -8.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/98792382",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

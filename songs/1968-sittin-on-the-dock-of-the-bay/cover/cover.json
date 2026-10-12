@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b9023e0d-10e7-4f17-b416-f7ee5156ceb8",
+      "release_title": "(Sittin' on) The Dock of the Bay",
+      "release_date": "1968-01-08",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e1a6970d-1a0c-432f-ae03-15091939a78d/38100778002-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e1a6970d-1a0c-432f-ae03-15091939a78d",
+      "image_id": 38100778002,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.422,
+        "saturation": 0.712,
+        "dark_share": 0.257,
+        "palette": [
+          {
+            "hex": "#541117",
+            "share": 0.299
+          },
+          {
+            "hex": "#ad050f",
+            "share": 0.261
+          },
+          {
+            "hex": "#050508",
+            "share": 0.256
+          },
+          {
+            "hex": "#e9e7e7",
+            "share": 0.128
+          },
+          {
+            "hex": "#572127",
+            "share": 0.056
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "dbf9393e-6d37-3d09-8d15-463e869abd48",
+      "release_title": "The Dock of the Bay",
+      "release_date": "1968-02-23",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Dock of the Bay",
+      "url": "http://coverartarchive.org/release/d15d980d-eaf2-3e5d-80a5-f037138dc2e8/5547519928-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d15d980d-eaf2-3e5d-80a5-f037138dc2e8",
+      "image_id": 5547519928,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.442,
+        "saturation": 0.361,
+        "dark_share": 0.131,
+        "palette": [
+          {
+            "hex": "#856b60",
+            "share": 0.236
+          },
+          {
+            "hex": "#a78e7b",
+            "share": 0.223
+          },
+          {
+            "hex": "#333141",
+            "share": 0.197
+          },
+          {
+            "hex": "#24212c",
+            "share": 0.178
+          },
+          {
+            "hex": "#413b4e",
+            "share": 0.166
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/60/ce/2e/60ce2e6d-a43f-59a1-8429-87ad694cfbc2/603497889945.jpg/1200x1200bb.jpg",
+      "collection": "The Dock of the Bay",
+      "collection_id": 997114023,
+      "track_id": 997114692,
+      "artist_name": "Otis Redding",
+      "release_date": "1964-12-31T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.31,
+        "saturation": 0.332,
+        "dark_share": 0.379,
+        "palette": [
+          {
+            "hex": "#727656",
+            "share": 0.316
+          },
+          {
+            "hex": "#1a2222",
+            "share": 0.192
+          },
+          {
+            "hex": "#21292a",
+            "share": 0.183
+          },
+          {
+            "hex": "#2d3036",
+            "share": 0.169
+          },
+          {
+            "hex": "#53534e",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -126,7 +126,10 @@ def save(url, path):
 
 
 def main():
-    for s in load_songs():
+    songs = load_songs()
+    if os.environ.get("REVERSE"):  # a second worker can run from the other end
+        songs.reverse()
+    for s in songs:
         if os.path.exists(os.path.join(SONGS, s["id"], "cover", "cover.json")) or \
                 os.path.exists(os.path.join(SONGS, s["id"], "cover.none")):
             continue  # resumable

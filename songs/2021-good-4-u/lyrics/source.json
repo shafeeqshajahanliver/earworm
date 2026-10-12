@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1625,
+  "kind": "synced",
+  "matched": {
+    "track": "good 4 u",
+    "artist": "Olivia Rodrigo",
+    "album": "SOUR",
+    "duration_s": 178.0
+  },
+  "duration_matched_to": "musicbrainz recording length (178s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 178.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 178.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36878488 (good 4 u / Olivia Rodrigo / SOUR, 222.0s): duration matches no reference length",
+    "lrclib 36903203 (good 4 u / Olivia Rodrigo / 8.1M views, 200.0s): duration matches no reference length",
+    "lrclib 37350028 (good 4 u / Olivia Rodrigo / SOUR, 153.0s): duration matches no reference length",
+    "lrclib 36919105 (Good 4 U / Olivia Rodrigo / Face Down Ass Up, 305.0s): duration matches no reference length",
+    "lrclib 34505360 (good 4 u / Olivia Rodrigo / Soundtrack - Billy Elliot, 269.0s): duration matches no reference length",
+    "lrclib 3205077 (good 4 u / Olivia Rodrigo / Olivia Rodrigo - good 4 u, 178.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 33896342 (Good 4 U / Olivia Rodrigo / YouTube Search - Olivia Rodrigo Good 4 U, 199.0s): duration matches no reference length",
+    "lrclib 24984716 (good 4 u / Olivia Rodrigo / Olivia Rodrigo, 198.556735s): duration matches no reference length",
+    "lrclib 11297495 (good 4 u / Olivia Rodrigo / Olivia Rodrigo, 178.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 33336334 (﻿good 4 u / ﻿Olivia Rodrigo / ﻿Olivia Rodrigo, 178.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 11132250 (good 4 u / Olivia Rodrigo / Olivia Rodrigo Videos, 179.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37852039 (good 4 u / Olivia Rodrigo / Olivia Rodrigo Videos, 200.0s): duration matches no reference length",
+    "lrclib 12243253 (good 4 u (Official Video) / Olivia Rodrigo / Olivia Rodrigo, 199.0s): duration matches no reference length",
+    "lrclib 20953051 (good 4 u / Olivia Rodrigo / good 4 u, 174.1264s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 19705387 (good 4 u / Olivia Rodrigo / good 4 u, 198.582857s): duration matches no reference length",
+    "lrclib 2271336 (good 4 u / Olivia Rodrigo / good 4 u, 178.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 27486085 (good 4 u / Olivia Rodrigo / good 4 u, 204.264s): duration matches no reference length",
+    "lrclib 8811993 (good 4 u (Official Video) / Olivia Rodrigo / Olivia Rodrigo Songs, 198.0s): duration matches no reference length",
+    "lrclib 9984295 (good 4 u (Official Video) / Olivia Rodrigo / Olivia Rodrigo Videos, 199.0s): duration matches no reference length",
+    "lrclib 19258947 (Good 4 U / Olivia Rodrigo / Good 4 U (Single), 178.147982s): only 50% of title words in the lyric (wrong song?)"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

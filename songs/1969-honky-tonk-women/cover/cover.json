@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "8f05450f-784b-4e79-9c54-dc3413dcd458",
+      "release_title": "Honky Tonk Women / Under My Thumb",
+      "release_date": "1969",
+      "release_country": "BE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b720d3a1-a723-4e8d-af20-7bb04f3480ad/33995333867-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b720d3a1-a723-4e8d-af20-7bb04f3480ad",
+      "image_id": 33995333867,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        450
+      ],
+      "measures": {
+        "brightness": 0.21,
+        "saturation": 0.228,
+        "dark_share": 0.494,
+        "palette": [
+          {
+            "hex": "#10100d",
+            "share": 0.273
+          },
+          {
+            "hex": "#1c1c16",
+            "share": 0.218
+          },
+          {
+            "hex": "#343343",
+            "share": 0.216
+          },
+          {
+            "hex": "#3b3847",
+            "share": 0.189
+          },
+          {
+            "hex": "#7c7159",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/85/8b/ed/858beda4-d2f9-7afa-731a-b49d3802ad5b/16ABKIM00068.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Stray Cats",
+      "collection_id": 1440774096,
+      "track_id": 1440776034,
+      "artist_name": "The Rolling Stones",
+      "release_date": "1966-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.955,
+        "saturation": 0.022,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.865
+          },
+          {
+            "hex": "#7c7259",
+            "share": 0.062
+          },
+          {
+            "hex": "#c9c5be",
+            "share": 0.045
+          },
+          {
+            "hex": "#e5e4e3",
+            "share": 0.016
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.012
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

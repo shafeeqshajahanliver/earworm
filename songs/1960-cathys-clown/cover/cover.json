@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e4fc7420-26ab-36eb-868c-c626656a6fdf",
+      "release_title": "Cathy’s Clown",
+      "release_date": "1960",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "Cover Art Archive error: <urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "album": {
+      "release_group": "21ef891b-bc3a-3e0f-9fc2-9ca294818dbd",
+      "release_title": "A Date With The Everly Brothers",
+      "release_date": "1960",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: A Date with the Everly Brothers",
+      "url": "http://coverartarchive.org/release/fcf419e0-e367-4749-af5d-3b9e6b38ce4f/21322590012-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fcf419e0-e367-4749-af5d-3b9e6b38ce4f",
+      "image_id": 21322590012,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.682,
+        "saturation": 0.305,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#707783",
+            "share": 0.267
+          },
+          {
+            "hex": "#4d6c96",
+            "share": 0.252
+          },
+          {
+            "hex": "#aba194",
+            "share": 0.188
+          },
+          {
+            "hex": "#dbc28b",
+            "share": 0.183
+          },
+          {
+            "hex": "#e6dda2",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ed/3b/b2/ed3bb2f3-e911-ae3d-16dc-29abe64b79ef/603497972159.jpg/1200x1200bb.jpg",
+      "collection": "A Date With The Everly Brothers",
+      "collection_id": 322092870,
+      "track_id": 322092890,
+      "artist_name": "The Everly Brothers",
+      "release_date": "1960-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.682,
+        "saturation": 0.304,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#6f7682",
+            "share": 0.261
+          },
+          {
+            "hex": "#4d6c96",
+            "share": 0.253
+          },
+          {
+            "hex": "#aaa093",
+            "share": 0.191
+          },
+          {
+            "hex": "#dac28c",
+            "share": 0.184
+          },
+          {
+            "hex": "#e6dda2",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

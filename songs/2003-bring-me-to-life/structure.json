@@ -1,0 +1,117 @@
+{
+  "id": "2003-bring-me-to-life",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0038_bringmetolife",
+      "match": {
+        "title": "Bring Me to Life",
+        "artist": "Evanescence",
+        "release": "Ultimate Grammy Collection - Contemporary Rock",
+        "musicbrainz_id": "c24eb26a-04d6-4f09-9449-9bc334f78ede",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0038_bringmetolife.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0038_bringmetolife.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 236.409,
+      "bpm": 95.0,
+      "time_signature": "4/4",
+      "version_check": "duration within 12 s (+0.4 s) of our recording (Wikipedia infobox length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 10.564,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 10.564,
+          "end": 30.775,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 30.775,
+          "end": 52.235,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 9
+        },
+        {
+          "start": 52.235,
+          "end": 74.973,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 74.973,
+          "end": 97.711,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 9
+        },
+        {
+          "start": 97.711,
+          "end": 117.923,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 117.923,
+          "end": 138.134,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 138.134,
+          "end": 158.346,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 158.346,
+          "end": 178.557,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 178.557,
+          "end": 198.769,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 198.769,
+          "end": 213.928,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 6
+        },
+        {
+          "start": 213.928,
+          "end": 234.139,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

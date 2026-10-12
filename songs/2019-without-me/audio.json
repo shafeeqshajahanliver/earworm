@@ -1,0 +1,70 @@
+{
+  "id": "2019-without-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 851326502,
+    "matched_by": "isrc",
+    "isrc": "USUM71813499",
+    "title": "Without Me",
+    "artist": "Halsey",
+    "album": "Manic",
+    "track_duration_s": 201,
+    "link": "https://www.deezer.com/track/851326502",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 135.3,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      92.3
+    ],
+    "beats_detected": 67,
+    "key": "F# major",
+    "key_tonic": "F#",
+    "key_mode": "major",
+    "key_correlation": 0.855,
+    "key_runner_up": "Eb minor",
+    "key_runner_up_correlation": 0.659,
+    "chroma_profile": [
+      0.533,
+      0.836,
+      0.638,
+      0.778,
+      0.484,
+      0.504,
+      1.0,
+      0.486,
+      0.871,
+      0.442,
+      0.648,
+      0.715
+    ],
+    "rms_dbfs": -8.11,
+    "rms_dbfs_p95_frame": -3.26,
+    "peak_dbfs": 1.52,
+    "loudness_lufs_approx": -8.94,
+    "spectral_centroid_hz_mean": 2236.2,
+    "spectral_centroid_hz_median": 2154.4,
+    "onsets": 91,
+    "onset_density_per_s": 3.034,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 851326502",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 136,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/851326502",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

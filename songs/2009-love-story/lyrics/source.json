@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 8202,
+  "kind": "synced",
+  "matched": {
+    "track": "Love Story",
+    "artist": "Taylor Swift",
+    "album": "Fearless",
+    "duration_s": 235.0
+  },
+  "duration_matched_to": "musicbrainz recording length (235s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 235.266,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 233.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36974638 (Love Story / Taylor Swift / The1989 World Tour Live, 321.0s): live/remix/other version",
+    "lrclib 34516739 (Love Story / Taylor Swift / World Red Tour, 397.0s): duration matches no reference length",
+    "lrclib 34643138 (Love Story / Taylor Swift / Fearless (Taylor's Version), 240.0s): live/remix/other version",
+    "lrclib 34687690 (Love Story / Taylor Swift / Love Story, 358.0s): duration matches no reference length",
+    "lrclib 34567211 (Love Story / Taylor Swift / Love Story (Taylors Version), 238.0s): live/remix/other version",
+    "lrclib 34941509 (Love Story / Taylor Swift / [2010] Fearless Live, 297.0s): live/remix/other version",
+    "lrclib 29486563 (Love Story (Taylor 19s Version) / Taylor Swift / Love Story (Taylor 19s Version), 236.0s): live/remix/other version",
+    "lrclib 24065948 (Love Story / Taylor Swift / Taylor Swift Live, 289.412s): live/remix/other version",
+    "lrclib 6867063 (Love Story (Taylor’s Version) / Taylor Swift / Taylor Swift, 236.0s): live/remix/other version",
+    "lrclib 9117351 (Love Story / Taylor Swift / Taylor Swift Karaoke: Fearless, 235.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

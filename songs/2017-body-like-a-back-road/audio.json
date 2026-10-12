@@ -1,0 +1,70 @@
+{
+  "id": "2017-body-like-a-back-road",
+  "preview": {
+    "service": "deezer",
+    "track_id": 141160791,
+    "matched_by": "isrc",
+    "isrc": "USUM71700575",
+    "title": "Body Like A Back Road",
+    "artist": "Sam Hunt",
+    "album": "Body Like A Back Road",
+    "track_duration_s": 165,
+    "link": "https://www.deezer.com/track/141160791",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 99.1,
+    "tempo_bpm_grid": 99.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      66.3,
+      49.7
+    ],
+    "beats_detected": 48,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.879,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.699,
+    "chroma_profile": [
+      0.827,
+      0.484,
+      0.602,
+      0.421,
+      0.487,
+      1.0,
+      0.489,
+      0.644,
+      0.406,
+      0.601,
+      0.408,
+      0.439
+    ],
+    "rms_dbfs": -9.05,
+    "rms_dbfs_p95_frame": -5.38,
+    "peak_dbfs": 1.84,
+    "loudness_lufs_approx": -8.87,
+    "spectral_centroid_hz_mean": 2170.4,
+    "spectral_centroid_hz_median": 2010.0,
+    "onsets": 93,
+    "onset_density_per_s": 3.101,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 141160791",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/141160791",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

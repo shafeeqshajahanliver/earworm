@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 385930,
+  "kind": "synced",
+  "matched": {
+    "track": "Somebody That I Used To Know",
+    "artist": "Gotye feat. Kimbra",
+    "album": "Making Mirrors",
+    "duration_s": 245.0
+  },
+  "duration_matched_to": "musicbrainz recording length (245s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 244.973,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 245.0,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 244.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 42,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37106167 (Somebody That I Used to Know / Gotye / Making Mirrors, 5.0s): duration matches no reference length",
+    "lrclib 34531720 (Somebody That I Used to Know ( / Gotye / Somebody That I Used to Know (, 327.0s): duration matches no reference length",
+    "lrclib 34927862 (Somebody That I Used to Know / Gotye / Document, 238.0s): duration matches no reference length",
+    "lrclib 35193552 (Somebody That I Used to Know / Gotye feat. Kimbra / The Chillout Session, 238.0s): duration matches no reference length",
+    "lrclib 33544522 (Somebody That I Used To Know / Gotye feat. Kimbra / Music, 230.0s): duration matches no reference length",
+    "lrclib 33758095 (Somebody That I Used to Know / Gotye feat. Kimbra / Making Mirrors, 302.0s): duration matches no reference length",
+    "lrclib 36369078 (Somebody That I Used to Know / Gotye feat. Kimbra / Somebody That I Used to Know, 237.0s): duration matches no reference length",
+    "lrclib 36721410 (Somebody That I Used To Know / Gotye Feat. Kimbra / The Annual 2013 CD1, 263.0s): duration matches no reference length",
+    "lrclib 34106819 (Somebody That I Used To Know / Gotye feat. Kimbra / Somebody That I Used To Know (Remixes), 327.0s): live/remix/other version",
+    "lrclib 36634255 (somebody that i used to know / gotye / somebody that i used to know, 200.0s): duration matches no reference length",
+    "lrclib 18826464 (Somebody That I Used to Know / Gotye / Somebody That I Used to Know, 29.8579584s): duration matches no reference length",
+    "lrclib 28040143 (Somebody That I Used To Know / Gotye / Somebody That I Used To Know, 318.0s): duration matches no reference length",
+    "lrclib 29350916 (Somebody That I Used to Know / Gotye / Somebody That I Used to Know, 274.0s): duration matches no reference length",
+    "lrclib 37685860 (somebody that i used to know / gotye / somebody that i used to know, 219.0s): duration matches no reference length",
+    "lrclib 33431067 (Somebody That I Used To Know / Gotye / Somebody That I Used To Know (Remixes), 437.0s): live/remix/other version",
+    "lrclib 33578411 (Somebody That I Used To Know / Gotye / Somebody That I Used To Know (Remixes), 239.0s): live/remix/other version",
+    "lrclib 33449224 (Somebody That I Used To Know / Gotye / Somebody That I Used To Know (Remixes), 318.0s): live/remix/other version",
+    "lrclib 19605662 (Somebody That I Used to Know / Gotye / Somebody That I Used to Know (Remixes), 297.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

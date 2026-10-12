@@ -1,0 +1,288 @@
+{
+  "id": "1997-i-believe-i-can-fly",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "i_believe_i_can_fly_dt",
+      "match": {
+        "title": "I Believe I Can Fly",
+        "artist": "R. Kelly",
+        "year": "1996",
+        "rs500_rank": "406",
+        "audio_used": {
+          "artist": "R. Kelly",
+          "album": "R.",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_believe_i_can_fly_dt.har/.clt + i_believe_i_can_fly.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 318 s; our recording 284 s",
+      "parse_check": "expanded 77 bars; timed chord list ends in bar 76",
+      "version_note": "annotated audio runs to 318 s vs 284 s for our recording (R.): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.422,
+          "end": 38.188,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 38.188,
+          "end": 70.119,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 70.119,
+          "end": 86.094,
+          "label": "Prec",
+          "normalised": "prechorus",
+          "first_bar": 16,
+          "bars": 4
+        },
+        {
+          "start": 86.094,
+          "end": 118.033,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 118.033,
+          "end": 126.017,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 28,
+          "bars": 2
+        },
+        {
+          "start": 126.017,
+          "end": 157.958,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 30,
+          "bars": 8
+        },
+        {
+          "start": 157.958,
+          "end": 173.933,
+          "label": "Prec",
+          "normalised": "prechorus",
+          "first_bar": 38,
+          "bars": 4
+        },
+        {
+          "start": 173.933,
+          "end": 205.883,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 42,
+          "bars": 8
+        },
+        {
+          "start": 205.883,
+          "end": 221.857,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 50,
+          "bars": 4
+        },
+        {
+          "start": 221.857,
+          "end": 237.833,
+          "label": "Prec",
+          "normalised": "prechorus",
+          "first_bar": 54,
+          "bars": 4
+        },
+        {
+          "start": 237.833,
+          "end": 269.787,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 58,
+          "bars": 8
+        },
+        {
+          "start": 269.787,
+          "end": 318.241,
+          "label": "Coda",
+          "normalised": "outro",
+          "first_bar": 66,
+          "bars": 11
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "i_believe_i_can_fly_tdc",
+      "match": {
+        "title": "I Believe I Can Fly",
+        "artist": "R. Kelly",
+        "year": "1996",
+        "rs500_rank": "406",
+        "audio_used": {
+          "artist": "R. Kelly",
+          "album": "R.",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_believe_i_can_fly_tdc.har/.clt + i_believe_i_can_fly.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 318 s; our recording 284 s",
+      "parse_check": "expanded 77 bars; timed chord list ends in bar 76",
+      "version_note": "annotated audio runs to 318 s vs 284 s for our recording (R.): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.422,
+          "end": 38.188,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 38.188,
+          "end": 70.119,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 70.119,
+          "end": 86.094,
+          "label": "Pc",
+          "normalised": "prechorus",
+          "first_bar": 16,
+          "bars": 4
+        },
+        {
+          "start": 86.094,
+          "end": 118.033,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 118.033,
+          "end": 126.017,
+          "label": "Cad1",
+          "normalised": "other",
+          "first_bar": 28,
+          "bars": 2
+        },
+        {
+          "start": 126.017,
+          "end": 157.958,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 30,
+          "bars": 8
+        },
+        {
+          "start": 157.958,
+          "end": 173.933,
+          "label": "Pc",
+          "normalised": "prechorus",
+          "first_bar": 38,
+          "bars": 4
+        },
+        {
+          "start": 173.933,
+          "end": 205.883,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 42,
+          "bars": 8
+        },
+        {
+          "start": 205.883,
+          "end": 221.857,
+          "label": "Cad2",
+          "normalised": "other",
+          "first_bar": 50,
+          "bars": 4
+        },
+        {
+          "start": 221.857,
+          "end": 237.833,
+          "label": "Pc",
+          "normalised": "prechorus",
+          "first_bar": 54,
+          "bars": 4
+        },
+        {
+          "start": 237.833,
+          "end": 269.787,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 58,
+          "bars": 8
+        },
+        {
+          "start": 269.787,
+          "end": 318.241,
+          "label": "Cad3",
+          "normalised": "other",
+          "first_bar": 66,
+          "bars": 11
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse prechorus chorus verse prechorus chorus bridge prechorus chorus outro",
+      "rolling_stone_tdc": "intro verse prechorus chorus verse prechorus chorus prechorus chorus"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.82
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "disputed",
+    "notes": [
+      "rolling_stone_dt: annotated audio runs to 318 s vs 284 s for our recording (R.): a different version; section times do not line up with the charting recording",
+      "rolling_stone_tdc: annotated audio runs to 318 s vs 284 s for our recording (R.): a different version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,1093 @@
+{
+  "id": "1970-bridge-over-troubled-water",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "bridge_over_troubled_water_dt",
+      "match": {
+        "title": "Bridge over Troubled Water",
+        "artist": "Simon and Garfunkel",
+        "year": "1970",
+        "rs500_rank": "47",
+        "audio_used": {
+          "artist": "Simon and Garfunkel",
+          "album": "Bridge Over Troubled Water",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, bridge_over_troubled_water_dt.har/.clt + bridge_over_troubled_water.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 284 s; our recording 293 s",
+      "parse_check": "expanded 97 bars; timed chord list ends in bar 96",
+      "key_info": {
+        "tonic": "Eb",
+        "tonic_pc": 3,
+        "mode": null,
+        "name": "Eb",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.805,
+          "end": 23.854,
+          "bars": 8,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Bb",
+            "Ab",
+            "Adim7",
+            "Eb",
+            "Gm7b5",
+            "C7",
+            "Ab",
+            "Fdim",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab"
+          ],
+          "roman": [
+            "I64",
+            "V",
+            "IV",
+            "viix7/V",
+            "I64",
+            "iih65/ii",
+            "V7/ii",
+            "IV",
+            "iio6",
+            "I",
+            "IV64",
+            "I",
+            "IV64"
+          ],
+          "raw_rule": "I64 V | IV . . viix7/V | I64 . iih65/ii V7/ii | IV iio6 | $BP*2"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 23.854,
+          "end": 61.813,
+          "bars": 13,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Db",
+            "Ab",
+            "Eb",
+            "Fm7",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Bb7",
+            "Eb"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV",
+            "bVII",
+            "IV",
+            "I",
+            "ii7",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I"
+          ],
+          "raw_rule": "I | IV64 | I | IV . bVII IV | I | ii7 | I IV | I IV | I | V7 | | I | V7/IV |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 61.813,
+          "end": 84.869,
+          "bars": 8,
+          "key": "Eb",
+          "written": [
+            "Ab",
+            "F",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Adim7",
+            "Eb",
+            "C7",
+            "Ab",
+            "Bdim7",
+            "Cm",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Adim7",
+            "Eb",
+            "C7"
+          ],
+          "roman": [
+            "IV",
+            "V/V",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "viix7/V",
+            "I64",
+            "V7/ii",
+            "IV",
+            "viix7/vi",
+            "vi",
+            "I",
+            "V",
+            "IV",
+            "viix7/V",
+            "I64",
+            "V7/ii"
+          ],
+          "raw_rule": "IV V/V | V . I V | IV . . viix7/V | I64 V7/ii | IV viix7/vi | vi . I V | IV . . viix7/V | I64 V7/ii |"
+        },
+        {
+          "label": "Chend1",
+          "normalised": "chorus",
+          "start": 84.869,
+          "end": 87.752,
+          "bars": 1,
+          "key": "Eb",
+          "written": [
+            "Ab",
+            "Ddim"
+          ],
+          "roman": [
+            "IV",
+            "viix42"
+          ],
+          "raw_rule": "IV viix42 |"
+        },
+        {
+          "label": "BP",
+          "normalised": "other",
+          "start": 87.752,
+          "end": 105.398,
+          "bars": 6,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV64",
+            "I",
+            "IV64"
+          ],
+          "raw_rule": "I | IV64 |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 105.398,
+          "end": 143.564,
+          "bars": 13,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Db",
+            "Ab",
+            "Eb",
+            "Fm7",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Bb7",
+            "Eb"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV",
+            "bVII",
+            "IV",
+            "I",
+            "ii7",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I"
+          ],
+          "raw_rule": "I | IV64 | I | IV . bVII IV | I | ii7 | I IV | I IV | I | V7 | | I | V7/IV |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 143.564,
+          "end": 166.907,
+          "bars": 8,
+          "key": "Eb",
+          "written": [
+            "Ab",
+            "F",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Adim7",
+            "Eb",
+            "C7",
+            "Ab",
+            "Bdim7",
+            "Cm",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Adim7",
+            "Eb",
+            "C7"
+          ],
+          "roman": [
+            "IV",
+            "V/V",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "viix7/V",
+            "I64",
+            "V7/ii",
+            "IV",
+            "viix7/vi",
+            "vi",
+            "I",
+            "V",
+            "IV",
+            "viix7/V",
+            "I64",
+            "V7/ii"
+          ],
+          "raw_rule": "IV V/V | V . I V | IV . . viix7/V | I64 V7/ii | IV viix7/vi | vi . I V | IV . . viix7/V | I64 V7/ii |"
+        },
+        {
+          "label": "Chend2",
+          "normalised": "chorus",
+          "start": 166.907,
+          "end": 169.827,
+          "bars": 1,
+          "key": "Eb",
+          "written": [
+            "Ab",
+            "G7"
+          ],
+          "roman": [
+            "IV",
+            "V7/vi"
+          ],
+          "raw_rule": "IV V7/vi |"
+        },
+        {
+          "label": "Inst",
+          "normalised": "instrumental",
+          "start": 169.827,
+          "end": 184.168,
+          "bars": 5,
+          "key": "Eb",
+          "written": [
+            "Cm",
+            "F7",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Cm",
+            "Ab"
+          ],
+          "roman": [
+            "vi",
+            "V7/V",
+            "I64",
+            "V",
+            "IV",
+            "vi",
+            "IV"
+          ],
+          "raw_rule": "vi | V7/V | I64 V | IV vi | IV iv |"
+        },
+        {
+          "label": "BP",
+          "normalised": "other",
+          "start": 184.168,
+          "end": 201.676,
+          "bars": 6,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV64",
+            "I",
+            "IV64"
+          ],
+          "raw_rule": "I | IV64 |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 201.676,
+          "end": 239.076,
+          "bars": 13,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Db",
+            "Ab",
+            "Eb",
+            "Fm7",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Bb7",
+            "Eb"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV",
+            "bVII",
+            "IV",
+            "I",
+            "ii7",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "V7",
+            "I"
+          ],
+          "raw_rule": "I | IV64 | I | IV . bVII IV | I | ii7 | I IV | I IV | I | V7 | | I | V7/IV |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 239.076,
+          "end": 262.119,
+          "bars": 8,
+          "key": "Eb",
+          "written": [
+            "Ab",
+            "F",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Adim7",
+            "Eb",
+            "C7",
+            "Ab",
+            "Bdim7",
+            "Cm",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Adim7",
+            "Eb",
+            "C7"
+          ],
+          "roman": [
+            "IV",
+            "V/V",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "viix7/V",
+            "I64",
+            "V7/ii",
+            "IV",
+            "viix7/vi",
+            "vi",
+            "I",
+            "V",
+            "IV",
+            "viix7/V",
+            "I64",
+            "V7/ii"
+          ],
+          "raw_rule": "IV V/V | V . I V | IV . . viix7/V | I64 V7/ii | IV viix7/vi | vi . I V | IV . . viix7/V | I64 V7/ii |"
+        },
+        {
+          "label": "Chend2",
+          "normalised": "chorus",
+          "start": 262.119,
+          "end": 265.043,
+          "bars": 1,
+          "key": "Eb",
+          "written": [
+            "Ab",
+            "G7"
+          ],
+          "roman": [
+            "IV",
+            "V7/vi"
+          ],
+          "raw_rule": "IV V7/vi |"
+        },
+        {
+          "label": "Inst",
+          "normalised": "instrumental",
+          "start": 265.043,
+          "end": 279.809,
+          "bars": 5,
+          "key": "Eb",
+          "written": [
+            "Cm",
+            "F7",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Cm",
+            "Ab"
+          ],
+          "roman": [
+            "vi",
+            "V7/V",
+            "I64",
+            "V",
+            "IV",
+            "vi",
+            "IV"
+          ],
+          "raw_rule": "vi | V7/V | I64 V | IV vi | IV iv |"
+        },
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 279.809,
+          "end": 283.628,
+          "bars": 1,
+          "key": "Eb",
+          "written": [
+            "Eb"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": null
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "bridge_over_troubled_water_tdc",
+      "match": {
+        "title": "Bridge over Troubled Water",
+        "artist": "Simon and Garfunkel",
+        "year": "1970",
+        "rs500_rank": "47",
+        "audio_used": {
+          "artist": "Simon and Garfunkel",
+          "album": "Bridge Over Troubled Water",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, bridge_over_troubled_water_tdc.har/.clt + bridge_over_troubled_water.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 284 s; our recording 293 s",
+      "parse_check": "expanded 97 bars; timed chord list ends in bar 96",
+      "key_info": {
+        "tonic": "Eb",
+        "tonic_pc": 3,
+        "mode": null,
+        "name": "Eb",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.805,
+          "end": 12.212,
+          "bars": 4,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Bb",
+            "Ab",
+            "Dm",
+            "Adim7",
+            "Eb",
+            "Cmaj7",
+            "Ab"
+          ],
+          "roman": [
+            "I64",
+            "V",
+            "IV",
+            "vii64",
+            "viix7/V",
+            "I64",
+            "VI7",
+            "IV"
+          ],
+          "raw_rule": "I64 V | IV . vii64 viix7/V | I64 VI7 | IV iv |"
+        },
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 12.212,
+          "end": 23.854,
+          "bars": 4,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV64"
+          ],
+          "raw_rule": "I | IV64 | I | IV64 |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 23.854,
+          "end": 50.231,
+          "bars": 9,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Db",
+            "Ab",
+            "Ebmaj7",
+            "Fm",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV",
+            "bVII",
+            "IV",
+            "I7",
+            "ii",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | IV64 | I | IV . bVII IV | I7 | ii | I IV | I IV | I |"
+        },
+        {
+          "label": "Ch1a",
+          "normalised": "chorus",
+          "start": 50.231,
+          "end": 76.235,
+          "bars": 9,
+          "key": "Eb",
+          "written": [
+            "Bb",
+            "Eb",
+            "Ab",
+            "F",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Dm",
+            "Adim7",
+            "Eb",
+            "Cmaj7",
+            "Ab",
+            "Bdim7"
+          ],
+          "roman": [
+            "V",
+            "I",
+            "IV",
+            "V/V",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "vii64",
+            "viix7/V",
+            "I64",
+            "VI7",
+            "IV",
+            "viix7/vi"
+          ],
+          "raw_rule": "V | | I I42 | V42/IV V7/IV | IV V/V | V . I V | IV . vii64 viix7/V | I64 VI7 | IV viix7/vi |"
+        },
+        {
+          "label": "Ch1b",
+          "normalised": "chorus",
+          "start": 76.235,
+          "end": 87.752,
+          "bars": 4,
+          "key": "Eb",
+          "written": [
+            "Cm",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Dm",
+            "Adim7",
+            "Eb",
+            "Cmaj7",
+            "Ab",
+            "Ddim"
+          ],
+          "roman": [
+            "vi",
+            "I",
+            "V",
+            "IV",
+            "vii64",
+            "viix7/V",
+            "I64",
+            "VI7",
+            "IV",
+            "viix42"
+          ],
+          "raw_rule": "vi . I V | IV . vii64 viix7/V | I64 VI7 | IV viix42 |"
+        },
+        {
+          "label": "Ln2",
+          "normalised": "other",
+          "start": 87.752,
+          "end": 105.398,
+          "bars": 6,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV64",
+            "I",
+            "IV64"
+          ],
+          "raw_rule": "I | IV64 | I | IV64 | I | IV64 |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 105.398,
+          "end": 131.878,
+          "bars": 9,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Db",
+            "Ab",
+            "Ebmaj7",
+            "Fm",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV",
+            "bVII",
+            "IV",
+            "I7",
+            "ii",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | IV64 | I | IV . bVII IV | I7 | ii | I IV | I IV | I |"
+        },
+        {
+          "label": "Ch1a",
+          "normalised": "chorus",
+          "start": 131.878,
+          "end": 158.135,
+          "bars": 9,
+          "key": "Eb",
+          "written": [
+            "Bb",
+            "Eb",
+            "Ab",
+            "F",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Dm",
+            "Adim7",
+            "Eb",
+            "Cmaj7",
+            "Ab",
+            "Bdim7"
+          ],
+          "roman": [
+            "V",
+            "I",
+            "IV",
+            "V/V",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "vii64",
+            "viix7/V",
+            "I64",
+            "VI7",
+            "IV",
+            "viix7/vi"
+          ],
+          "raw_rule": "V | | I I42 | V42/IV V7/IV | IV V/V | V . I V | IV . vii64 viix7/V | I64 VI7 | IV viix7/vi |"
+        },
+        {
+          "label": "Ch2b",
+          "normalised": "chorus",
+          "start": 158.135,
+          "end": 175.515,
+          "bars": 6,
+          "key": "Eb",
+          "written": [
+            "Cm",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Dm",
+            "Adim7",
+            "Eb",
+            "Cm7",
+            "Ab",
+            "G",
+            "Cm",
+            "F",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "I",
+            "V",
+            "IV",
+            "vii64",
+            "viix7/V",
+            "I64",
+            "vi7",
+            "IV",
+            "V/vi",
+            "vi",
+            "II",
+            "bII"
+          ],
+          "raw_rule": "vi . I V | IV . vii64 viix7/V | I64 vi7 | IV V/vi | vi vi42 | II bII |"
+        },
+        {
+          "label": "In2",
+          "normalised": "intro",
+          "start": 175.515,
+          "end": 184.168,
+          "bars": 3,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Bb",
+            "Ab",
+            "Cm",
+            "Ab"
+          ],
+          "roman": [
+            "I64",
+            "V",
+            "IV",
+            "vi",
+            "IV"
+          ],
+          "raw_rule": "I64 V | IV vi | IV iv |"
+        },
+        {
+          "label": "Ln2",
+          "normalised": "other",
+          "start": 184.168,
+          "end": 201.676,
+          "bars": 6,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV64",
+            "I",
+            "IV64"
+          ],
+          "raw_rule": "I | IV64 | I | IV64 | I | IV64 |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 201.676,
+          "end": 227.725,
+          "bars": 9,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Db",
+            "Ab",
+            "Ebmaj7",
+            "Fm",
+            "Eb",
+            "Ab",
+            "Eb",
+            "Ab",
+            "Eb"
+          ],
+          "roman": [
+            "I",
+            "IV64",
+            "I",
+            "IV",
+            "bVII",
+            "IV",
+            "I7",
+            "ii",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | IV64 | I | IV . bVII IV | I7 | ii | I IV | I IV | I |"
+        },
+        {
+          "label": "Ch3a",
+          "normalised": "chorus",
+          "start": 227.725,
+          "end": 253.507,
+          "bars": 9,
+          "key": "Eb",
+          "written": [
+            "Bb",
+            "Eb",
+            "Ab",
+            "F",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Dm",
+            "Adim7",
+            "Eb",
+            "Cm7",
+            "Ab",
+            "Bdim7"
+          ],
+          "roman": [
+            "V",
+            "I",
+            "IV",
+            "V/V",
+            "V",
+            "I",
+            "V",
+            "IV",
+            "vii64",
+            "viix7/V",
+            "I64",
+            "vi7",
+            "IV",
+            "viix7/vi"
+          ],
+          "raw_rule": "V | | I I42 | V42/IV V7/IV | IV V/V | V . I V | IV . vii64 viix7/V | I64 vi7 | IV viix7/vi |"
+        },
+        {
+          "label": "Ch2b",
+          "normalised": "chorus",
+          "start": 253.507,
+          "end": 270.643,
+          "bars": 6,
+          "key": "Eb",
+          "written": [
+            "Cm",
+            "Eb",
+            "Bb",
+            "Ab",
+            "Dm",
+            "Adim7",
+            "Eb",
+            "Cm7",
+            "Ab",
+            "G",
+            "Cm",
+            "F",
+            "E"
+          ],
+          "roman": [
+            "vi",
+            "I",
+            "V",
+            "IV",
+            "vii64",
+            "viix7/V",
+            "I64",
+            "vi7",
+            "IV",
+            "V/vi",
+            "vi",
+            "II",
+            "bII"
+          ],
+          "raw_rule": "vi . I V | IV . vii64 viix7/V | I64 vi7 | IV V/vi | vi vi42 | II bII |"
+        },
+        {
+          "label": "In2",
+          "normalised": "intro",
+          "start": 270.643,
+          "end": 279.809,
+          "bars": 3,
+          "key": "Eb",
+          "written": [
+            "Eb",
+            "Bb",
+            "Ab",
+            "Cm",
+            "Ab"
+          ],
+          "roman": [
+            "I64",
+            "V",
+            "IV",
+            "vi",
+            "IV"
+          ],
+          "raw_rule": "I64 V | IV vi | IV iv |"
+        },
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 279.809,
+          "end": 283.628,
+          "bars": 1,
+          "key": "Eb",
+          "written": [
+            "Eb"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": null
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "Eb",
+      "rolling_stone_tdc": "Eb"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 0.88
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

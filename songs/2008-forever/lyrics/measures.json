@@ -1,0 +1,41 @@
+{
+  "id": "2008-forever",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1144257,
+  "lines": 77,
+  "words": 470,
+  "unique_words": 139,
+  "type_token_ratio": 0.296,
+  "repeated_line_share": 0.312,
+  "distinct_lines": 53,
+  "zlib_compression_ratio": 0.31,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "forever",
+  "title_phrase_occurrences": 29,
+  "pronouns": {
+    "first_singular": 34,
+    "second": 30,
+    "first_plural": 8
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 6.01,
+  "last_line_s": 270.85,
+  "sung_time_s": 270.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 104.3,
+  "words_per_minute_track": 101.5,
+  "longest_gap_between_lines_s": 8.09,
+  "longest_gap_starts_at_s": 262.76,
+  "first_repeated_block": {
+    "first_at_s": 71.63,
+    "recurs_at_s": 135.47,
+    "lines": [
+      "'Cause we only got one night",
+      "Double your pleasure, double your fun"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1144257",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

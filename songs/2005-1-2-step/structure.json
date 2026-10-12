@@ -1,0 +1,97 @@
+{
+  "id": "2005-1-2-step",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0001_12step",
+      "match": {
+        "title": "1, 2 Step",
+        "artist": "Ciara",
+        "release": "Goodies",
+        "musicbrainz_id": "0408655f-189f-371b-9c41-ec861e1a7810",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0001_12step.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0001_12step.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 142.47,
+      "bpm": 113.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -60 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 8.496,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 8.496,
+          "end": 25.487,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 25.487,
+          "end": 42.475,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 42.475,
+          "end": 59.47,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 59.47,
+          "end": 78.595,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 78.595,
+          "end": 95.586,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 95.586,
+          "end": 112.579,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 112.579,
+          "end": 129.566,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 129.566,
+          "end": 138.062,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 142 s vs 203 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

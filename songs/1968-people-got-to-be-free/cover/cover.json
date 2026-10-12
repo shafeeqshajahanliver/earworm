@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "2e6b642f-c299-3d68-8a5d-1eb609c6e4be",
+      "release_title": "Freedom Suite",
+      "release_date": "1969-03-17",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Freedom Suite",
+      "url": "http://coverartarchive.org/release/32e5188a-529b-4507-8c97-5d158254436d/2328933245-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/32e5188a-529b-4507-8c97-5d158254436d",
+      "image_id": "2328933245",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        248,
+        256
+      ],
+      "measures": {
+        "brightness": 0.552,
+        "saturation": 0.244,
+        "dark_share": 0.033,
+        "palette": [
+          {
+            "hex": "#a28c79",
+            "share": 0.264
+          },
+          {
+            "hex": "#4a3c30",
+            "share": 0.228
+          },
+          {
+            "hex": "#c8c1b7",
+            "share": 0.215
+          },
+          {
+            "hex": "#655c52",
+            "share": 0.157
+          },
+          {
+            "hex": "#936651",
+            "share": 0.136
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/f9/f9/42f9f97a-e1a8-2768-a1d5-e0dfc232940a/603497925032.jpg/1200x1200bb.jpg",
+      "collection": "Freedom Suite",
+      "collection_id": 629957326,
+      "track_id": 629957348,
+      "artist_name": "The Rascals",
+      "release_date": "1968-07-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.716,
+        "saturation": 0.224,
+        "dark_share": 0.175,
+        "palette": [
+          {
+            "hex": "#f1f0eb",
+            "share": 0.289
+          },
+          {
+            "hex": "#241413",
+            "share": 0.237
+          },
+          {
+            "hex": "#c9af97",
+            "share": 0.178
+          },
+          {
+            "hex": "#f5f4ef",
+            "share": 0.165
+          },
+          {
+            "hex": "#f3f2ed",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

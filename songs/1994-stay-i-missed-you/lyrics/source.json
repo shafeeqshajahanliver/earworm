@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5880521,
+  "kind": "synced",
+  "matched": {
+    "track": "Stay (I Missed You)",
+    "artist": "Lisa Loeb & Nine Stories",
+    "album": "Reality Bites: Original Motion Picture Soundtrack",
+    "duration_s": 184.0
+  },
+  "duration_matched_to": "musicbrainz recording length (184s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 183.76,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 184.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 184.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 0.952,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 24718776 (Stay (I Missed You) / Lisa Loeb and Nine Stories / Natural Acoustic, 185.1566s): live/remix/other version",
+    "lrclib 36974093 (Stay (I Missed You) / Lisa Loeb & Nine Stories / Pub CD 1, 177.0s): duration matches no reference length",
+    "lrclib 20894547 (Stay (I Missed You) / Lisa Loeb & Nine Stories / HT 90s Essentials Vol. 11 (DD), 235.990204s): duration matches no reference length",
+    "lrclib 19723459 (Stay (I Missed You) / Lisa Loeb & Nine Stories / Tails, 190.774795s): duration matches no reference length",
+    "lrclib 37314626 (Stay / Lisa Loeb and Nine Stories / Tails, 198.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

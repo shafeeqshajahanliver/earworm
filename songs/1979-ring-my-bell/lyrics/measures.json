@@ -1,0 +1,41 @@
+{
+  "id": "1979-ring-my-bell",
+  "lyrics_kind": "synced",
+  "lrclib_id": 11976598,
+  "lines": 33,
+  "words": 316,
+  "unique_words": 64,
+  "type_token_ratio": 0.203,
+  "repeated_line_share": 0.394,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.21,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "ring my bell",
+  "title_phrase_occurrences": 41,
+  "pronouns": {
+    "first_singular": 49,
+    "second": 31,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 15.18,
+  "last_line_s": 208.99,
+  "sung_time_s": 175.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 107.8,
+  "words_per_minute_track": 89.0,
+  "longest_gap_between_lines_s": 24.83,
+  "longest_gap_starts_at_s": 128.81,
+  "first_repeated_block": {
+    "first_at_s": 105.5,
+    "recurs_at_s": 121.23,
+    "lines": [
+      "You can ring my bell, ring my bell (Ring my bell, ding-dong-ding)",
+      "You can ring my bell, ring my bell (Ring my bell, ring-a-ling-a-ling)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 11976598",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

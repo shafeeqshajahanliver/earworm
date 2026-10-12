@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1036552,
+  "kind": "synced",
+  "matched": {
+    "track": "All of Me",
+    "artist": "John Legend",
+    "album": "Love In the Future",
+    "duration_s": 270.0
+  },
+  "duration_matched_to": "musicbrainz recording length (270s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 270.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 269.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 177.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 270.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36845281 (All of Me / John Legend / John Legend, 254.0s): duration matches no reference length",
+    "lrclib 37380361 (All Of Me / John Legend / R&B Collection 2014, 213.0s): duration matches no reference length",
+    "lrclib 37201829 (All of Me / John Legend / Love In The Future (Expanded Edition), 280.0s): duration matches no reference length",
+    "lrclib 37264719 (All of Me / John Legend / All of Me, 263.0s): duration matches no reference length",
+    "lrclib 34358159 (All of Me / John Legend / 9.9M views, 295.0s): duration matches no reference length",
+    "lrclib 34751728 (All of Me / John Legend / En Vrac & Youtube, 307.0s): duration matches no reference length",
+    "lrclib 22517354 (All of Me / John Legend / John Legend, 307.226112s): duration matches no reference length",
+    "lrclib 34232285 (All of Me / John Legend / John Legend Songs, 308.0s): duration matches no reference length",
+    "lrclib 38332965 (All of Me / John Legend / John Legend Videos, 308.0s): duration matches no reference length",
+    "lrclib 16658707 (All of Me (Official Video) / John Legend / John Legend, 307.24644s): duration matches no reference length",
+    "lrclib 18950674 (All of Me / John Legend / All of Me, 259.160816s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

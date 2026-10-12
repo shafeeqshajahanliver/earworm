@@ -1,0 +1,65 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/282",
+    "title": "Abracadabra",
+    "performer": "The Steve Miller Band",
+    "is_original": true,
+    "first_release_date": "1982-06",
+    "releases": [
+      {
+        "title": "Abracadabra",
+        "uri": "https://api.secondhandsongs.com/release/179",
+        "performer": "The Steve Miller Band"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 32,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/282",
+    "title": "Abracadabra",
+    "language": "English",
+    "writers": [
+      "Steve Miller"
+    ],
+    "original_performer": "The Steve Miller Band",
+    "versions": 33,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Barak & Deborah",
+        "uri": "https://api.secondhandsongs.com/work/195102"
+      },
+      {
+        "title": "(Sie Sagte) Abracadabra",
+        "uri": "https://api.secondhandsongs.com/work/189532"
+      },
+      {
+        "title": "Abracadabra",
+        "uri": "https://api.secondhandsongs.com/work/174622"
+      },
+      {
+        "title": "Abrakadabra",
+        "uri": "https://api.secondhandsongs.com/work/175285"
+      },
+      {
+        "title": "Abbeör te knea",
+        "uri": "https://api.secondhandsongs.com/work/302188"
+      },
+      {
+        "title": "Άμπρα Κατάμπρα",
+        "uri": "https://api.secondhandsongs.com/work/314636"
+      }
+    ]
+  }
+}

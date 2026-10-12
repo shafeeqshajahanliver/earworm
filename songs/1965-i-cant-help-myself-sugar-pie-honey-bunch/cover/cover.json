@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "41886e26-65a5-3eee-9684-ee01a9f69a84",
+      "release_title": "I Can't Help Myself (Sugar Pie, Honey Bunch) / Sad Souvenirs",
+      "release_date": "1965-04",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "0e952711-4b2d-355b-ae63-c1de6b34b584",
+      "release_title": "Four Tops / Second Album",
+      "release_date": "2001-11-05",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Four Tops Second Album",
+      "url": "http://coverartarchive.org/release/32867272-71c3-464c-ab1b-5b7f53bbad09/20401979170-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/32867272-71c3-464c-ab1b-5b7f53bbad09",
+      "image_id": 20401979170,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1055
+      ],
+      "measures": {
+        "brightness": 0.821,
+        "saturation": 0.305,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#df9c77",
+            "share": 0.295
+          },
+          {
+            "hex": "#78493b",
+            "share": 0.207
+          },
+          {
+            "hex": "#f1d4b5",
+            "share": 0.201
+          },
+          {
+            "hex": "#f8f6e6",
+            "share": 0.158
+          },
+          {
+            "hex": "#fefefd",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/14/ef/5814ef0b-2110-d9a9-33a4-a319d9d6be3f/08UMGIM16418.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Definitive Collection: Four Tops",
+      "collection_id": 1440779792,
+      "track_id": 1440780512,
+      "artist_name": "Four Tops",
+      "release_date": "1965-04-23T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.498,
+        "saturation": 0.481,
+        "dark_share": 0.043,
+        "palette": [
+          {
+            "hex": "#70584b",
+            "share": 0.344
+          },
+          {
+            "hex": "#28546a",
+            "share": 0.205
+          },
+          {
+            "hex": "#596b78",
+            "share": 0.176
+          },
+          {
+            "hex": "#7290a5",
+            "share": 0.17
+          },
+          {
+            "hex": "#353d3c",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

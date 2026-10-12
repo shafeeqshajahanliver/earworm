@@ -1,0 +1,112 @@
+{
+  "id": "1989-giving-you-the-best-that-i-got",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "578",
+      "also_ids": [],
+      "match": {
+        "title": "Giving You The Best That I Got",
+        "artist": "Anita Baker",
+        "chart_date": "1989-01-21",
+        "peak_rank": "3"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 578 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 260.545,
+      "version_check": "duration differs by +27 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 261 s vs 234 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.232,
+          "end": 17.052,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 7
+        },
+        {
+          "start": 17.052,
+          "end": 54.086,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 54.086,
+          "end": 81.53,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 81.53,
+          "end": 99.896,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 99.896,
+          "end": 127.295,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 127.295,
+          "end": 145.61,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 145.61,
+          "end": 163.922,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 163.922,
+          "end": 191.388,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 191.388,
+          "end": 227.627,
+          "label": "outro",
+          "letter": "C",
+          "normalised": "outro",
+          "bars": 16
+        },
+        {
+          "start": 227.627,
+          "end": 254.607,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

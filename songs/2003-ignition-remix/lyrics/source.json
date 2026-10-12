@@ -1,0 +1,69 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21498542,
+  "kind": "synced",
+  "matched": {
+    "track": "Ignition",
+    "artist": "R. Kelly",
+    "album": "The Essential R. Kelly",
+    "duration_s": 186.04
+  },
+  "duration_matched_to": "musicbrainz recording length (186s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 186.131,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 199.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 189.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 196.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 385.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 2,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37496827 (Ignition (Remix) / R. Kelly / 100 Hits The Best R&B Album - Disc 4, 185.0s): live/remix/other version",
+    "lrclib 37141328 (Ignition (Remix) / R. Kelly / Pure...party Disc 2, 188.0s): live/remix/other version",
+    "lrclib 37290314 (Ignition (Remix) / R Kelly / Massive R&B Volume 3 - Spring Collection 2006, 187.0s): live/remix/other version",
+    "lrclib 37298291 (Ignition (Remix) / R Kelly / The R&B Yearbook, 186.0s): live/remix/other version",
+    "lrclib 37441067 (Ignition (Remix) / R. Kelly / Various R&B, 189.0s): live/remix/other version",
+    "lrclib 37252886 (Ignition (remix) / R. Kelly / Ultimate R&B, 190.0s): live/remix/other version",
+    "lrclib 37254458 (Ignition (remix) / R. Kelly / Smooth: Essential Soul & R&B Classics, 183.0s): live/remix/other version",
+    "lrclib 36891533 (Ignition (Remix) / R. Kelly / [Unknown Album], 189.0s): live/remix/other version",
+    "lrclib 34340371 (Ignition (Remix) / R. Kelly / R. Kelly Songs, 187.0s): live/remix/other version",
+    "lrclib 34754326 (Ignition [Remix] / R Kelly / The R. in R, 191.0s): live/remix/other version",
+    "lrclib 34414963 (Ignition [Remix] / R. Kelly / Pure... R&B-Disc 1, 189.0s): live/remix/other version",
+    "lrclib 34466514 (Ignition (remix) / R. Kelly / The World's Greatest, 192.0s): live/remix/other version",
+    "lrclib 34909546 (Ignition (remix) / R․ Kelly / Ultimate Party Anthems, 188.0s): live/remix/other version",
+    "lrclib 34914127 (Ignition (Remix) / R․ Kelly / The Essential R. Kelly, 186.0s): live/remix/other version",
+    "lrclib 33340533 (Ignition (remix) / R. Kelly / Anthems: R&B II, 187.0s): live/remix/other version",
+    "lrclib 33346856 (Ignition (remix) / R. Kelly / Yorin FM Presents Hitzone 23: Today’s Hottest Tracks, 184.0s): live/remix/other version",
+    "lrclib 33616936 (Ignition (Remix) / R. Kelly / Misc R & B, 191.0s): live/remix/other version",
+    "lrclib 33443448 (Ignition (Remix) / R. Kelly / Chocolate Factory, plus Loveland Bonus CD, 183.0s): live/remix/other version",
+    "lrclib 33419665 (Ignition (remix) / R. Kelly / The R In R&B Collection, 188.0s): live/remix/other version",
+    "lrclib 12294129 (Ignition (Remix) / R.Kelly / R.Kelly, 186.0s): live/remix/other version",
+    "lrclib 11729646 (Ignition (Remix) / R.Kelly / Milestones - R. Kelly, 187.0s): live/remix/other version",
+    "lrclib 29572208 (Ignition (Remix) / R. Kelly / Other R. Kelly, 189.0s): live/remix/other version",
+    "lrclib 38183101 (Ignition (Remix) / R. Kelly / R. Kelly - Essentials, 188.0s): live/remix/other version",
+    "lrclib 4179789 (Ignition (remix) / R. Kelly / The Essential R. Kelly, 189.0s): live/remix/other version",
+    "lrclib 5422831 (Ignition (remix) / R. Kelly / The Essential R. Kelly, 184.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

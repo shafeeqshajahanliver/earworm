@@ -1,0 +1,57 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/32133",
+    "title": "Got My Mind Set on You",
+    "performer": "George Harrison",
+    "is_original": false,
+    "first_release_date": "1987-11-02",
+    "releases": [
+      {
+        "title": "Cloud Nine",
+        "uri": "https://api.secondhandsongs.com/release/4524",
+        "performer": "George Harrison"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "I've Got My Mind Set on You",
+      "uri": "https://api.secondhandsongs.com/work/10137"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/10137",
+    "title": "I've Got My Mind Set on You",
+    "language": "English",
+    "writers": [
+      "Rudy Clark"
+    ],
+    "original_performer": "James Ray with Hutch Davie Orch. & Chorus",
+    "versions": 23,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Blondi",
+        "uri": "https://api.secondhandsongs.com/work/183530"
+      },
+      {
+        "title": "(This Song's Just) Six Words Long",
+        "uri": "https://api.secondhandsongs.com/work/10138"
+      },
+      {
+        "title": "Got My Mindset from You",
+        "uri": "https://api.secondhandsongs.com/work/309723"
+      },
+      {
+        "title": "Mi mente esta puesta en ti",
+        "uri": "https://api.secondhandsongs.com/work/316654"
+      }
+    ]
+  }
+}

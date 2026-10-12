@@ -1,0 +1,111 @@
+{
+  "id": "1974-come-and-get-your-love",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "315",
+      "also_ids": [],
+      "match": {
+        "title": "Come And Get Your Love",
+        "artist": "Redbone",
+        "chart_date": "1974-02-16",
+        "peak_rank": "5"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 315 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 214.345,
+      "version_check": "duration within 12 s (+2.3 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.348,
+          "end": 10.606,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 10.606,
+          "end": 47.058,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 47.058,
+          "end": 67.493,
+          "label": "chorus",
+          "letter": "B'",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 67.493,
+          "end": 103.788,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 103.788,
+          "end": 124.027,
+          "label": "chorus",
+          "letter": "B'",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 124.027,
+          "end": 142.109,
+          "label": "bridge",
+          "letter": "B''",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 142.109,
+          "end": 162.228,
+          "label": "chorus",
+          "letter": "B'",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 162.228,
+          "end": 186.753,
+          "label": "verse",
+          "letter": "B'''",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 186.753,
+          "end": 195.688,
+          "label": "outro",
+          "letter": "B'",
+          "normalised": "outro",
+          "bars": 4
+        },
+        {
+          "start": 195.688,
+          "end": 210.852,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator; note: the annotator's letter for it (B'') marks it as a variant of the chorus material, not new music"
+    }
+  ],
+  "comparison": "only one source"
+}

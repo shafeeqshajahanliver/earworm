@@ -1,0 +1,108 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "ee24e299-2c25-4a40-b962-72d6d493fe2b",
+      "release_title": "Teen Angel / Bye Now Baby",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/957548e2-c400-468b-a7f0-ca4630a1cb50/12663719125-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/957548e2-c400-468b-a7f0-ca4630a1cb50",
+      "image_id": 12663719125,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        599
+      ],
+      "measures": {
+        "brightness": 0.436,
+        "saturation": 0.303,
+        "dark_share": 0.521,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.329
+          },
+          {
+            "hex": "#060603",
+            "share": 0.294
+          },
+          {
+            "hex": "#110e09",
+            "share": 0.256
+          },
+          {
+            "hex": "#746b56",
+            "share": 0.093
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.027
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e6a3d91a-440b-4dac-b80d-6e0b13417f1d",
+      "release_title": "Teen Angel",
+      "release_date": "1995",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Teen Angel",
+      "missing": "Cover Art Archive error: <urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/c3/e2/c4/mzi.lupuiojf.jpg/1200x1200bb.jpg",
+      "collection": "Teen Angel (Remastered) - Single",
+      "collection_id": 414786745,
+      "track_id": 414786749,
+      "artist_name": "Mark Dinning",
+      "release_date": "1959-12-31T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        800,
+        800
+      ],
+      "measures": {
+        "brightness": 0.544,
+        "saturation": 0.302,
+        "dark_share": 0.365,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.282
+          },
+          {
+            "hex": "#f8e8e9",
+            "share": 0.269
+          },
+          {
+            "hex": "#c46f6d",
+            "share": 0.218
+          },
+          {
+            "hex": "#6b1415",
+            "share": 0.134
+          },
+          {
+            "hex": "#000101",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

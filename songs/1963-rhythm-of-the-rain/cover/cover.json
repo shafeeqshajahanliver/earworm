@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "cff19720-2c98-4bad-996a-808fb403e500",
+      "release_title": "Rhythm of the Rain",
+      "release_date": "1962-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "a4cf668c-9d2c-3e8e-81b0-aac1c8b5b829",
+      "release_title": "Rhythm of the Rain",
+      "release_date": "1963",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rhythm of the Rain",
+      "url": "http://coverartarchive.org/release/74c26c4e-171e-4d31-8cab-c5827a89e451/33153796024-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/74c26c4e-171e-4d31-8cab-c5827a89e451",
+      "image_id": 33153796024,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        592,
+        600
+      ],
+      "measures": {
+        "brightness": 0.308,
+        "saturation": 0.277,
+        "dark_share": 0.616,
+        "palette": [
+          {
+            "hex": "#1c1f1f",
+            "share": 0.273
+          },
+          {
+            "hex": "#78b6a8",
+            "share": 0.269
+          },
+          {
+            "hex": "#171c1d",
+            "share": 0.174
+          },
+          {
+            "hex": "#121718",
+            "share": 0.167
+          },
+          {
+            "hex": "#3a393f",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/08/32/4508325a-6e59-3a4e-8074-e5cf6c889bca/s05.svcwqodm.jpg/1200x1200bb.jpg",
+      "collection": "Rhythm of the Rain",
+      "collection_id": 68165044,
+      "track_id": 68164953,
+      "artist_name": "The Cascades",
+      "release_date": "1962-11-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.271,
+        "saturation": 0.524,
+        "dark_share": 0.654,
+        "palette": [
+          {
+            "hex": "#070402",
+            "share": 0.424
+          },
+          {
+            "hex": "#757fa7",
+            "share": 0.239
+          },
+          {
+            "hex": "#040302",
+            "share": 0.172
+          },
+          {
+            "hex": "#201c1c",
+            "share": 0.095
+          },
+          {
+            "hex": "#88a7d0",
+            "share": 0.069
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

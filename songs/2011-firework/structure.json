@@ -1,0 +1,83 @@
+{
+  "id": "2011-firework",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0095_firework",
+      "match": {
+        "title": "Firework",
+        "artist": "Katy Perry",
+        "release": "NRJ Music Awards 2011",
+        "musicbrainz_id": "0a22af63-1fe3-3345-97a7-04d3606f663b",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0095_firework.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0095_firework.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 166.654,
+      "bpm": 124.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -97 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 7.741,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.741,
+          "end": 37.257,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 37.257,
+          "end": 53.225,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 53.225,
+          "end": 85.161,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 85.161,
+          "end": 115.161,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 115.161,
+          "end": 147.096,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 147.096,
+          "end": 162.58,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 167 s vs 264 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

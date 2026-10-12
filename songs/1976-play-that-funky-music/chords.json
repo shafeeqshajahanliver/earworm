@@ -1,0 +1,240 @@
+{
+  "id": "1976-play-that-funky-music",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1014",
+      "also_ids": [],
+      "match": {
+        "title": "Play That Funky Music",
+        "artist": "Wild Cherry",
+        "chart_date": "1976-07-24",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1014 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 198.635,
+      "version_check": "duration within 12 s (+6.6 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "E",
+        "tonic_pc": 4,
+        "mode": null,
+        "name": "E",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.232,
+          "end": 17.907,
+          "bars": 8,
+          "key": "E",
+          "written": [
+            "E5",
+            "E9"
+          ],
+          "roman": [
+            "I5",
+            "I9"
+          ],
+          "raw": [
+            "E:1",
+            "E:9"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 17.907,
+          "end": 53.453,
+          "bars": 16,
+          "key": "E",
+          "written": [
+            "E9"
+          ],
+          "roman": [
+            "I9"
+          ],
+          "raw": [
+            "E:9"
+          ]
+        },
+        {
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "start": 53.453,
+          "end": 62.11,
+          "bars": 4,
+          "key": "E",
+          "written": [
+            "E7"
+          ],
+          "roman": [
+            "I7"
+          ],
+          "raw": [
+            "E:7"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "start": 62.11,
+          "end": 88.378,
+          "bars": 12,
+          "key": "E",
+          "written": [
+            "G9",
+            "Bb9",
+            "B7",
+            "E9"
+          ],
+          "roman": [
+            "bIII9",
+            "#IV9",
+            "V7",
+            "I9"
+          ],
+          "raw": [
+            "G:9",
+            "Bb:9",
+            "B:7(#9)",
+            "E:9"
+          ]
+        },
+        {
+          "label": "solo",
+          "letter": "A",
+          "normalised": "solo",
+          "start": 88.378,
+          "end": 105.86,
+          "bars": 8,
+          "key": "E",
+          "written": [
+            "E9"
+          ],
+          "roman": [
+            "I9"
+          ],
+          "raw": [
+            "E:9"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 105.86,
+          "end": 141.133,
+          "bars": 16,
+          "key": "E",
+          "written": [
+            "E9"
+          ],
+          "roman": [
+            "I9"
+          ],
+          "raw": [
+            "E:9"
+          ]
+        },
+        {
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "start": 141.133,
+          "end": 149.807,
+          "bars": 4,
+          "key": "E",
+          "written": [
+            "E7"
+          ],
+          "roman": [
+            "I7"
+          ],
+          "raw": [
+            "E:7"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "start": 149.807,
+          "end": 176.152,
+          "bars": 12,
+          "key": "E",
+          "written": [
+            "G9",
+            "Bb9",
+            "B7",
+            "E9"
+          ],
+          "roman": [
+            "bIII9",
+            "#IV9",
+            "V7",
+            "I9"
+          ],
+          "raw": [
+            "G:9",
+            "Bb:9",
+            "B:7(#9)",
+            "E:9"
+          ]
+        },
+        {
+          "label": "outro",
+          "letter": "D'",
+          "normalised": "outro",
+          "start": 176.152,
+          "end": 184.714,
+          "bars": 4,
+          "key": "E",
+          "written": [
+            "G9"
+          ],
+          "roman": [
+            "bIII9"
+          ],
+          "raw": [
+            "G:9"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "start": 184.714,
+          "end": 194.188,
+          "bars": 4,
+          "key": "E",
+          "written": [
+            "G9"
+          ],
+          "roman": [
+            "bIII9"
+          ],
+          "raw": [
+            "G:9"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

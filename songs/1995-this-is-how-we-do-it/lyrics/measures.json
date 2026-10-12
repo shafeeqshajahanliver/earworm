@@ -1,0 +1,41 @@
+{
+  "id": "1995-this-is-how-we-do-it",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3814631,
+  "lines": 96,
+  "words": 697,
+  "unique_words": 226,
+  "type_token_ratio": 0.324,
+  "repeated_line_share": 0.375,
+  "distinct_lines": 60,
+  "zlib_compression_ratio": 0.343,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "this is how we do it",
+  "title_phrase_occurrences": 29,
+  "pronouns": {
+    "first_singular": 30,
+    "second": 23,
+    "first_plural": 32
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 13.76,
+  "last_line_s": 229.02,
+  "sung_time_s": 214.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 194.7,
+  "words_per_minute_track": 177.1,
+  "longest_gap_between_lines_s": 9.09,
+  "longest_gap_starts_at_s": 17.88,
+  "first_repeated_block": {
+    "first_at_s": 66.23,
+    "recurs_at_s": 121.88,
+    "lines": [
+      "So tip up your cup and throw your hands up",
+      "And let me hear the party say"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3814631",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

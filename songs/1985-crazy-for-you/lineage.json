@@ -1,0 +1,48 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/62163",
+    "title": "Crazy for You",
+    "performer": "Madonna",
+    "is_original": true,
+    "first_release_date": "1985-02-12",
+    "releases": [
+      {
+        "title": "Vision Quest - Original Motion Picture Sound Track",
+        "uri": "https://api.secondhandsongs.com/release/24947"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 63,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/62163",
+    "title": "Crazy for You",
+    "language": "English",
+    "writers": [
+      "John Bettis",
+      "Jon Lind"
+    ],
+    "original_performer": "Madonna",
+    "versions": 64,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Poco a poco",
+        "uri": "https://api.secondhandsongs.com/work/242247"
+      },
+      {
+        "title": "Crazy for You",
+        "uri": "https://api.secondhandsongs.com/work/321275"
+      },
+      {
+        "title": "抱你十個世紀",
+        "uri": "https://api.secondhandsongs.com/work/332705"
+      }
+    ]
+  }
+}

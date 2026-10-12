@@ -1,0 +1,145 @@
+{
+  "id": "1978-shadow-dancing",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "193",
+      "also_ids": [
+        "737"
+      ],
+      "match": {
+        "title": "Shadow Dancing",
+        "artist": "Andy Gibb",
+        "chart_date": "1978-09-30",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 193 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 273.711,
+      "version_check": "duration within 12 s (-0.3 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.441,
+          "end": 23.135,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 11
+        },
+        {
+          "start": 23.135,
+          "end": 42.081,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 42.081,
+          "end": 61.146,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 61.146,
+          "end": 78.685,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 78.685,
+          "end": 101.44,
+          "label": "interlude",
+          "letter": "A",
+          "normalised": "instrumental",
+          "bars": 11
+        },
+        {
+          "start": 101.44,
+          "end": 120.35,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 120.35,
+          "end": 139.433,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 139.433,
+          "end": 158.322,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 158.322,
+          "end": 179.407,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 9
+        },
+        {
+          "start": 179.407,
+          "end": 198.16,
+          "label": "chorus",
+          "letter": "D'",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 198.16,
+          "end": 216.855,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 216.855,
+          "end": 235.502,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 235.502,
+          "end": 254.235,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 254.235,
+          "end": 271.929,
+          "label": "fadeout",
+          "letter": "D",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

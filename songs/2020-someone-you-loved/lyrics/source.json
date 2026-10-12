@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36990133,
+  "kind": "synced",
+  "matched": {
+    "track": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "album": "BRAVO-Hits 105 (2019) (CD 2)",
+    "duration_s": 182.0
+  },
+  "duration_matched_to": "musicbrainz recording length (182s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 182.173,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 182.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 182.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37287646 (Someone You Loved / Lewis Capaldi / Billboard Top 100 Hits of 2020, 209.0s): duration matches no reference length",
+    "lrclib 37205709 (Someone You Loved / Lewis Capaldi / German Top 100 Jahrescharts 2019, 157.0s): duration matches no reference length",
+    "lrclib 27564454 (Someone You Loved / Lewis Capaldi / Lewis Capaldi, 232.96s): duration matches no reference length",
+    "lrclib 31118225 (someone you loved / Lewis Capaldi / Lewis Capaldi, 229.0s): duration matches no reference length",
+    "lrclib 34113942 (Someone You Loved / Lewis Capaldi / Someone You Loved, 157.0s): duration matches no reference length",
+    "lrclib 12525122 (Someone You Loved / Lewis Capaldi / Someone You Loved, 232.96s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

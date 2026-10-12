@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "0b35e3c5-f1fe-4140-a122-2b0fc360c384",
+      "release_title": "Starboy",
+      "release_date": "2014-10-27",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Starboy",
+      "url": "http://coverartarchive.org/release/2c4a4f94-db01-4c19-98f6-f3d149a2e0a8/12092475686-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/2c4a4f94-db01-4c19-98f6-f3d149a2e0a8",
+      "image_id": "12092475686",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.126,
+        "saturation": 0.285,
+        "dark_share": 0.874,
+        "palette": [
+          {
+            "hex": "#130e14",
+            "share": 0.539
+          },
+          {
+            "hex": "#120c13",
+            "share": 0.163
+          },
+          {
+            "hex": "#433933",
+            "share": 0.149
+          },
+          {
+            "hex": "#050305",
+            "share": 0.131
+          },
+          {
+            "hex": "#110e13",
+            "share": 0.018
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/c0/1d/b2c01d38-2798-1bce-e6f3-8d0959ca51dd/23UMGIM22528.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Starboy (Deluxe)",
+      "collection_id": 1677005169,
+      "track_id": 1677006158,
+      "artist_name": "The Weeknd",
+      "release_date": "2016-11-25T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.21,
+        "saturation": 0.602,
+        "dark_share": 0.708,
+        "palette": [
+          {
+            "hex": "#09040a",
+            "share": 0.305
+          },
+          {
+            "hex": "#060516",
+            "share": 0.248
+          },
+          {
+            "hex": "#0d0c12",
+            "share": 0.235
+          },
+          {
+            "hex": "#651323",
+            "share": 0.109
+          },
+          {
+            "hex": "#492c65",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

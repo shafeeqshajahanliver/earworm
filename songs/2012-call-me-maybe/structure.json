@@ -1,0 +1,103 @@
+{
+  "id": "2012-call-me-maybe",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0043_callmemaybe",
+      "match": {
+        "title": "Call Me Maybe",
+        "artist": "Carly Rae Jepsen",
+        "release": "Beach Party 2012",
+        "musicbrainz_id": "0109494f-27f0-3c93-ab22-0f11f32bf81e",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0043_callmemaybe.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0043_callmemaybe.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 196.224,
+      "bpm": 120.0,
+      "time_signature": "4/4",
+      "version_check": "duration within 12 s (+2.5 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 4.0,
+          "end": 24.0,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 10
+        },
+        {
+          "start": 24.0,
+          "end": 32.0,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 32.0,
+          "end": 64.0,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 64.0,
+          "end": 84.0,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 10
+        },
+        {
+          "start": 84.0,
+          "end": 92.0,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 92.0,
+          "end": 124.0,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 124.0,
+          "end": 140.0,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 140.0,
+          "end": 172.0,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 172.0,
+          "end": 188.0,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 188.0,
+          "end": 195.051,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 3
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2013-harlem-shake",
+  "preview": {
+    "service": "deezer",
+    "track_id": 64734097,
+    "matched_by": "isrc",
+    "isrc": "USZ4V1200043",
+    "title": "Harlem Shake",
+    "artist": "Baauer",
+    "album": "Harlem Shake",
+    "track_duration_s": 196,
+    "link": "https://www.deezer.com/track/64734097",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 139.9,
+    "tempo_bpm_grid": 139.7,
+    "tempo_candidates_bpm": [
+      92.3,
+      143.6,
+      69.8
+    ],
+    "beats_detected": 67,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.642,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.545,
+    "chroma_profile": [
+      0.45,
+      0.414,
+      0.408,
+      0.421,
+      0.556,
+      0.638,
+      0.448,
+      0.56,
+      0.485,
+      0.466,
+      1.0,
+      0.619
+    ],
+    "rms_dbfs": -7.63,
+    "rms_dbfs_p95_frame": -4.3,
+    "peak_dbfs": 2.87,
+    "loudness_lufs_approx": -8.63,
+    "spectral_centroid_hz_mean": 3397.8,
+    "spectral_centroid_hz_median": 3438.4,
+    "onsets": 154,
+    "onset_density_per_s": 5.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 64734097",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/64734097",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USZUV1200043: matched but no preview available (readable=False)"
+  ]
+}

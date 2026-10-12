@@ -1,0 +1,90 @@
+{
+  "id": "2003-right-thurr",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0231_rightthurr",
+      "match": {
+        "title": "Right Thurr",
+        "artist": "Chingy",
+        "release": "101 R&B Hits",
+        "musicbrainz_id": "cb9cb988-a3fb-4ed7-8c3f-2c7d29a5e177",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0231_rightthurr.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0231_rightthurr.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 159.334,
+      "bpm": 92.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -58 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.609,
+          "end": 13.035,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 13.035,
+          "end": 23.458,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 23.458,
+          "end": 54.728,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 54.728,
+          "end": 75.575,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 75.575,
+          "end": 96.414,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 96.414,
+          "end": 117.259,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 117.259,
+          "end": 138.104,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 138.104,
+          "end": 148.525,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 159 s vs 218 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

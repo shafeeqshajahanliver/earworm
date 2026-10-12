@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 7567973,
+  "kind": "synced",
+  "matched": {
+    "track": "Butter",
+    "artist": "BTS",
+    "album": "Butter - Single",
+    "duration_s": 164.0
+  },
+  "duration_matched_to": "musicbrainz recording length (164s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 164.441,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 164.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 164.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37310537 (Butter / Bts / Mastermix Dj Beats Chart 93, 195.0s): duration matches no reference length",
+    "lrclib 36132946 (Butter / BTS / Demos for Your Memo, 164.0s): live/remix/other version",
+    "lrclib 33895714 (Butter / BTS / YouTube Search - BTS Butter, 183.0s): duration matches no reference length",
+    "lrclib 35800306 (Butter / BTS / BTS, 183.0s): duration matches no reference length",
+    "lrclib 20308044 (Butter / BTS / HT Select Mix Select Essentials 188 (DD), 230.19102s): duration matches no reference length",
+    "lrclib 22540712 (Butter / BTS / Mastermix: DJ Beats Chart Vol. 93, 194.586122s): duration matches no reference length",
+    "lrclib 6186739 (Butter / BTS / Butter, 183.0s): duration matches no reference length",
+    "lrclib 10477103 (Butter / BTS / BTS Songs, 183.0s): duration matches no reference length",
+    "lrclib 9827820 (Butter / BTS / BTS Videos, 183.0s): duration matches no reference length",
+    "lrclib 4775857 (Butter (Instrumental) / BTS / Butter, 162.0s): live/remix/other version",
+    "lrclib 9505744 (Butter (Instrumental) / BTS / Butter, 165.0s): live/remix/other version",
+    "lrclib 30208850 (Butter (Megan Thee Stallion Remix) / BTS / BTS: Butter (Megan Thee Stallion Remix), 164.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

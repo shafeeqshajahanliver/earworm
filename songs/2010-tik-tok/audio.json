@@ -1,0 +1,81 @@
+{
+  "id": "2010-tik-tok",
+  "preview": {
+    "service": "itunes",
+    "track_id": 372646697,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "TiK ToK",
+    "artist": "Kesha",
+    "album": "Totally Pop",
+    "track_duration_s": 199.9,
+    "link": "https://music.apple.com/us/album/tik-tok/372646422?i=372646697&uo=4",
+    "duration_matched_to": "musicbrainz recording length (201s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 120.0,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      234.9,
+      60.1,
+      117.5
+    ],
+    "beats_detected": 57,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.47,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.462,
+    "chroma_profile": [
+      0.888,
+      0.787,
+      0.994,
+      0.75,
+      0.694,
+      0.721,
+      0.733,
+      0.832,
+      0.804,
+      0.996,
+      1.0,
+      0.852
+    ],
+    "rms_dbfs": -7.78,
+    "rms_dbfs_p95_frame": -4.56,
+    "peak_dbfs": -0.31,
+    "loudness_lufs_approx": -8.19,
+    "spectral_centroid_hz_mean": 2531.1,
+    "spectral_centroid_hz_median": 2504.4,
+    "onsets": 111,
+    "onset_density_per_s": 3.703,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 372646697",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between D minor and G minor"
+  ],
+  "rejected_candidates": [
+    "itunes 339972792: version (TiK ToK)",
+    "itunes 531249602: version (Tik Tok (Fred Falke Club Remix))",
+    "itunes 339972804: version (TiK ToK (Untold Remix))",
+    "itunes 339972793: version (TiK ToK (Fred Falke Club Remix))",
+    "itunes 381237349: version (TiK ToK (Fred Falke Club Remix))",
+    "itunes 381237344: version (TiK ToK (Wolfedelic Club Mix))",
+    "itunes 425119824: version (TiK ToK (Untold Remix))",
+    "itunes 356287833: version (TiK ToK (Trey Told 'Em Remix))",
+    "itunes 425119852: version (TiK ToK (Chuck Buckett's Veruca Salt Remix))",
+    "itunes 531249601: version (Tik Tok (Tom Neville's Crunk & Med Mix))",
+    "itunes 356287831: version (TiK ToK (Joe Bermudez Club Mix))",
+    "itunes 339972801: version (TiK ToK (Chuck Buckett's Veruca Salt Remix))",
+    "itunes 1714497432: duration 208s matches no reference length",
+    "itunes 339972803: version (TiK ToK (Tom Neville's Crunk & Med Mix))"
+  ]
+}

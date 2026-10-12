@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 510739,
+  "kind": "synced",
+  "matched": {
+    "track": "Wow.",
+    "artist": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "duration_s": 150.0
+  },
+  "duration_matched_to": "musicbrainz recording length (150s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 149.52,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 150.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 149.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33473081 (Wow. / Post Malone / Bravo Hits 104\u0000Wow., 158.0s): duration matches no reference length",
+    "lrclib 36631513 (Wow. / Post Malone / Wow. (Remix), 140.0s): live/remix/other version",
+    "lrclib 36778637 (Wow / Post Malone / Hollywood’s Bleeding, 40.0s): duration matches no reference length",
+    "lrclib 36741870 (Wow. / Post Malone / Hollywood's Bleeding, 317.0s): duration matches no reference length",
+    "lrclib 34199488 (Wow. / Post Malone / Wow. (Remix), 169.0s): live/remix/other version",
+    "lrclib 34041588 (Wow. / Post Malone / Hollywood's Bleeding, 137.0s): duration matches no reference length",
+    "lrclib 6666868 (Wow. / Post Malone / Post Malone, 157.0s): duration matches no reference length",
+    "lrclib 16243107 (Wow. (Remix) / Post Malone / Post Malone, 169.0s): live/remix/other version",
+    "lrclib 11482558 (Wow. / Post Malone / Post Malone Songs, 158.0s): duration matches no reference length",
+    "lrclib 9551970 (Wow. / Post Malone / Post Malone Videos, 158.0s): duration matches no reference length",
+    "lrclib 9551952 (Wow. (Remix) / Post Malone / Post Malone Videos, 169.0s): live/remix/other version",
+    "lrclib 16021153 (Wow. (Remix) / Post Malone / Post Malone Songs, 169.0s): live/remix/other version",
+    "lrclib 16327124 (Wow (OG) / Post Malone / OG's: Post Malone, 97.021975s): marked instrumental"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

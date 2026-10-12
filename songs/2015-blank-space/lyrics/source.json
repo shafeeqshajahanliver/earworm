@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 45,
+  "kind": "synced",
+  "matched": {
+    "track": "Blank Space",
+    "artist": "Taylor Swift",
+    "album": "1989",
+    "duration_s": 232.0
+  },
+  "duration_matched_to": "musicbrainz recording length (232s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 231.826,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 232.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 232.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36890728 (Blank Space / Taylor Swift / 1989 (Deluxe), 253.0s): duration matches no reference length",
+    "lrclib 34702659 (Blank Space / Taylor Swift / Unknown Album, 272.0s): duration matches no reference length",
+    "lrclib 34730938 (Blank Space / Taylor Swift / The 1989 World Tour, 350.0s): duration matches no reference length",
+    "lrclib 35010606 (Blank Space / Taylor Swift / 3,8 Mrd. Aufrufe, 273.0s): duration matches no reference length",
+    "lrclib 35147425 (Blank Space / Taylor Swift / Video Songs, 273.0s): duration matches no reference length",
+    "lrclib 33832250 (Blank Space / Taylor Swift / Taylor Swift Videos, 357.0s): duration matches no reference length",
+    "lrclib 36311992 (Blank Space / Taylor Swift / 1989 (Deluxe), 30.0s): duration matches no reference length",
+    "lrclib 36312028 (Blank Space / Taylor Swift / 1989 (Deluxe), 220.0s): duration matches no reference length",
+    "lrclib 3656841 (Blank Space / Taylor Swift / Taylor Swift, 272.0s): duration matches no reference length",
+    "lrclib 23410850 (Blank Space / Taylor Swift / Blank Space, 256.078367s): duration matches no reference length",
+    "lrclib 10726111 (Blank Space / Taylor Swift / Blank Space, 272.0s): duration matches no reference length",
+    "lrclib 13139525 (Blank Space / Taylor Swift / Blank Space, 237.087347s): duration matches no reference length",
+    "lrclib 6861764 (Blank Space / Taylor Swift / Taylor Swift Videos, 272.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

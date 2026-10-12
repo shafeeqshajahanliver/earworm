@@ -1,0 +1,104 @@
+{
+  "id": "1991-gonna-make-you-sweat-everybody-dance-now",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0115_gonnamakeyousweat",
+      "match": {
+        "title": "Gonna Make You Sweat (Everybody dance Now)",
+        "artist": "C+C Music Factory",
+        "release": "Le 100 canzoni di sempre internazionali",
+        "musicbrainz_id": "31a3aea5-5f92-3a98-aa59-1b7f0b08e916",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0115_gonnamakeyousweat.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0115_gonnamakeyousweat.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 162.0,
+      "bpm": 114.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -84 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 6.274,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 3
+        },
+        {
+          "start": 6.274,
+          "end": 14.64,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 14.64,
+          "end": 31.391,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 31.391,
+          "end": 69.074,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 69.074,
+          "end": 85.822,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 85.822,
+          "end": 94.205,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 94.205,
+          "end": 119.335,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 12
+        },
+        {
+          "start": 119.335,
+          "end": 136.089,
+          "label": "breakdown",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 136.089,
+          "end": 152.842,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 152.842,
+          "end": 159.125,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 3
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 162 s vs 246 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

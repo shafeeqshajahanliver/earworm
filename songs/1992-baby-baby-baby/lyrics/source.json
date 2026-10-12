@@ -1,0 +1,61 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 32875120,
+  "kind": "synced",
+  "matched": {
+    "track": "Baby-Baby-Baby",
+    "artist": "TLC",
+    "album": "Ooooooohhh... On The TLC Tip",
+    "duration_s": 253.0
+  },
+  "duration_matched_to": "musicbrainz recording length (255s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 255.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 315.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 239.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 258.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 312.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37330211 (Baby-Baby-Baby / TLC / MTV Party To Go Volume 4, 297.0s): duration matches no reference length",
+    "lrclib 20132994 (Baby-Baby-Baby / Tlc / Tlc 20 - 20Th Anniversary Hits, 300.643265s): duration matches no reference length",
+    "lrclib 21124288 (Baby-Baby-Baby / TLC / TLC - 20 [24Bit-44.1kHz], 805.4334689s): duration matches no reference length",
+    "lrclib 28839381 (Baby-Baby-Baby  (Extended Remix) / TLC / TLC: Baby-Baby-Baby, 381.0s): live/remix/other version",
+    "lrclib 29303271 (Baby-Baby-Baby  (Remix Rap Version) / TLC / TLC: Baby-Baby-Baby, 339.0s): live/remix/other version",
+    "lrclib 30759663 (Baby-Baby-Baby  (Remix Radio Edit) / TLC / TLC: Baby-Baby-Baby, 257.0s): live/remix/other version",
+    "lrclib 38844643 (Baby-Baby-Baby / TLC / Baby-Baby-Baby, 361.0s): duration matches no reference length",
+    "lrclib 29598052 (Baby-Baby-Baby / TLC / Baby-Baby-Baby (Remixes), 239.0s): live/remix/other version",
+    "lrclib 37615676 (Baby-Baby-Baby / TLC / Baby-Baby-Baby (Remixes), 361.0s): live/remix/other version",
+    "lrclib 20379228 (Baby-Baby-Baby  (Extended Remix) / TLC / TLC - Baby-Baby-Baby  (Remixes) [16Bit-44.1kHz], 485.256s): live/remix/other version",
+    "lrclib 14621558 (Baby-Baby-Baby  (Remix Instrumental) / TLC / Baby-Baby-Baby, 336.826667s): live/remix/other version",
+    "lrclib 16870316 (Baby-Baby-Baby (Extended Remix) / TLC / Baby-Baby-Baby, 381.44s): live/remix/other version",
+    "lrclib 16761793 (Baby-Baby-Baby (Remix Radio Edit) / TLC / Baby-Baby-Baby, 257.1755099s): live/remix/other version",
+    "lrclib 16761791 (Baby-Baby-Baby (Remix Rap Version) / TLC / Baby-Baby-Baby, 339.513469s): live/remix/other version",
+    "lrclib 5016831 (Baby-Baby-Baby (Extended Remix) / TLC / Baby-Baby-Baby (Remixes), 381.0s): live/remix/other version",
+    "lrclib 5016833 (Baby-Baby-Baby (Remix Instrumental) / TLC / Baby-Baby-Baby (Remixes), 337.0s): live/remix/other version",
+    "lrclib 5016834 (Baby-Baby-Baby (Remix Radio Edit) / TLC / Baby-Baby-Baby (Remixes), 257.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

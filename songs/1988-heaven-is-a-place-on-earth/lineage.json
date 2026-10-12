@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/26856",
+    "title": "Heaven Is a Place on Earth",
+    "performer": "Belinda Carlisle",
+    "is_original": true,
+    "first_release_date": "1987-10-05",
+    "releases": [
+      {
+        "title": "Heaven on Earth",
+        "uri": "https://api.secondhandsongs.com/release/10753",
+        "performer": "Belinda Carlisle"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 49,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/26856",
+    "title": "Heaven Is a Place on Earth",
+    "language": "English",
+    "writers": [
+      "Ellen Shipley",
+      "Rick Nowels"
+    ],
+    "original_performer": "Belinda Carlisle",
+    "versions": 50,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Himmel ist der Platz bei dir",
+        "uri": "https://api.secondhandsongs.com/work/233506"
+      },
+      {
+        "title": "蠢東西",
+        "uri": "https://api.secondhandsongs.com/work/304146"
+      },
+      {
+        "title": "Η νύχτα κρύβει μυστικά",
+        "uri": "https://api.secondhandsongs.com/work/362837"
+      }
+    ]
+  }
+}

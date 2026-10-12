@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3204788,
+  "kind": "synced",
+  "matched": {
+    "track": "Flowers",
+    "artist": "Miley Cyrus",
+    "album": "Miley Cyrus - Flowers",
+    "duration_s": 201.0
+  },
+  "duration_matched_to": "musicbrainz recording length (201s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 201.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 200.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 200.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 0.906,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37184340 (Flowers / Miley Cyrus / Miley Cyrus, 107.0s): duration matches no reference length",
+    "lrclib 37200828 (Flowers / Miley Cyrus / Miley Cyrus, 10.0s): duration matches no reference length",
+    "lrclib 33518133 (Flowers / Miley Cyrus / NRJ Music Awards 2024 Version Deluxe, 219.0s): duration matches no reference length",
+    "lrclib 33546166 (Flowers / Miley Cyrus / NOW That's What I Call Music! - Girl Power, 194.0s): duration matches no reference length",
+    "lrclib 35964775 (Flowers / Miley Cyrus / Flowers, 211.0s): duration matches no reference length",
+    "lrclib 36274414 (Flowers / Miley Cyrus / Endless Summer Vacation, 222.0s): duration matches no reference length",
+    "lrclib 36556330 (Flowers / Miley Cyrus / Backyard Sessions, 194.0s): duration matches no reference length",
+    "lrclib 36771657 (Flowers / Miley Cyrus / Endless Summer Vacation, 178.0s): duration matches no reference length",
+    "lrclib 8828930 (Flowers (Demo) / Miley Cyrus / Miley Cyrus, 211.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

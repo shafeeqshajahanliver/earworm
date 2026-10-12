@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 927,
+  "kind": "synced",
+  "matched": {
+    "track": "Levitating",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "duration_s": 204.0
+  },
+  "duration_matched_to": "musicbrainz recording length (203s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 203.064,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 203.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 203.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 37,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37483036 (Levitating / Dua Lipa / Future Nostalgia, 266.0s): duration matches no reference length",
+    "lrclib 34399836 (Levitating / Dua Lipa / Dua Lipa - Live From Mexico, 257.0s): live/remix/other version",
+    "lrclib 34359854 (Levitating / Dua Lipa / Live from Mexico, 258.0s): live/remix/other version",
+    "lrclib 34531021 (Levitating / Dua Lipa / Radical Optimism Tour – Deutschland, 265.0s): duration matches no reference length",
+    "lrclib 33655373 (Levitating / Dua Lipa feat. DaBaby / The Dome: Summer 2021, 221.0s): duration matches no reference length",
+    "lrclib 21005070 (Levitating / Dua Lipa feat. DaBaby / Mastermix: DJ Beats Chart Vol. 87 (FC), 240.43102s): duration matches no reference length",
+    "lrclib 20486745 (Levitating / Dua Lipa feat. DaBaby / HT Select Mix Select Essentials 182 (DD), 271.386122s): duration matches no reference length",
+    "lrclib 21852203 (Levitating / Dua Lipa feat. DaBaby / Radical Optimism Tour - Kuala Lumpur, 230.0s): duration matches no reference length",
+    "lrclib 21762534 (Levitating / Dua Lipa feat. DaBaby / HT Select Mix Quick Trax Vol. 20 (DD), 215.536327s): duration matches no reference length",
+    "lrclib 33899627 (Levitating / Dua Lipa / YouTube Search - Dua Lipa Levitating, 230.0s): duration matches no reference length",
+    "lrclib 9126115 (Levitating / Dua Lipa / Dua Lipa, 221.0s): duration matches no reference length",
+    "lrclib 7135902 (Levitating / Dua Lipa / Dua Lipa, 230.0s): duration matches no reference length",
+    "lrclib 31566860 (Levitating / Dua Lipa / Dua Lipa - Levitating Featuring DaBaby (Official Music Video), 230.0s): duration matches no reference length",
+    "lrclib 9050830 (Levitating / Dua Lipa / Dua Lipa Songs, 220.84s): duration matches no reference length",
+    "lrclib 9598178 (Levitating / Dua Lipa / Dua Lipa Videos, 221.0s): duration matches no reference length",
+    "lrclib 36705322 (Levitating (feat. DaBaby) / Dua Lipa / Dua Lipa, 324.0s): duration matches no reference length",
+    "lrclib 35774489 (Levitating (feat. DaBaby) / Dua Lipa / Dua Lipa, 264.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

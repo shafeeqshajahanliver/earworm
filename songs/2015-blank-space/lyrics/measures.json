@@ -1,0 +1,41 @@
+{
+  "id": "2015-blank-space",
+  "lyrics_kind": "synced",
+  "lrclib_id": 45,
+  "lines": 82,
+  "words": 518,
+  "unique_words": 184,
+  "type_token_ratio": 0.355,
+  "repeated_line_share": 0.366,
+  "distinct_lines": 52,
+  "zlib_compression_ratio": 0.313,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "blank space",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 39,
+    "second": 38,
+    "first_plural": 9
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 5.58,
+  "last_line_s": 229.09,
+  "sung_time_s": 218.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 142.3,
+  "words_per_minute_track": 134.1,
+  "longest_gap_between_lines_s": 6.78,
+  "longest_gap_starts_at_s": 83.99,
+  "first_repeated_block": {
+    "first_at_s": 55.32,
+    "recurs_at_s": 75.35,
+    "lines": [
+      "Got a long list of ex-lovers",
+      "They'll tell you I'm insane"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 45",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

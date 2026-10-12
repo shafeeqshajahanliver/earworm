@@ -1,0 +1,70 @@
+{
+  "id": "2018-i-like-it",
+  "preview": {
+    "service": "deezer",
+    "track_id": 482986982,
+    "matched_by": "isrc",
+    "isrc": "USAT21801442",
+    "title": "I Like It",
+    "artist": "Cardi B",
+    "album": "Invasion of Privacy",
+    "track_duration_s": 253,
+    "link": "https://www.deezer.com/track/482986982",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 136.4,
+    "tempo_bpm_grid": 136.0,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      143.6
+    ],
+    "beats_detected": 65,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.788,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.562,
+    "chroma_profile": [
+      0.867,
+      0.74,
+      0.627,
+      0.583,
+      0.709,
+      1.0,
+      0.75,
+      0.891,
+      0.894,
+      0.763,
+      0.671,
+      0.587
+    ],
+    "rms_dbfs": -7.23,
+    "rms_dbfs_p95_frame": -2.58,
+    "peak_dbfs": 0.95,
+    "loudness_lufs_approx": -7.98,
+    "spectral_centroid_hz_mean": 2665.0,
+    "spectral_centroid_hz_median": 2622.8,
+    "onsets": 119,
+    "onset_density_per_s": 3.968,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 482986982",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 136,
+    "gain": -8.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/482986982",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

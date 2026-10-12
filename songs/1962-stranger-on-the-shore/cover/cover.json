@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6a25af23-67e6-4831-8cfe-fc4fed2f6acd",
+      "release_title": "Stranger on the Shore",
+      "release_date": "1962-02",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "5125b0cd-19ce-3370-b8f2-cabacab7ec71",
+      "release_title": "Stranger on the Shore",
+      "release_date": "1961",
+      "release_country": "NZ",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/05aafc11-3da4-4b18-94cb-073d8739db5f/28888676103-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/05aafc11-3da4-4b18-94cb-073d8739db5f",
+      "image_id": 28888676103,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1165,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.666,
+        "saturation": 0.217,
+        "dark_share": 0.038,
+        "palette": [
+          {
+            "hex": "#9d9277",
+            "share": 0.338
+          },
+          {
+            "hex": "#e1d9b9",
+            "share": 0.251
+          },
+          {
+            "hex": "#564f41",
+            "share": 0.219
+          },
+          {
+            "hex": "#e9e1be",
+            "share": 0.127
+          },
+          {
+            "hex": "#c9c1a5",
+            "share": 0.065
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4b/de/d6/4bded661-798f-b1ec-71f3-0df6ad52b6c7/cover.jpg/1200x1200bb.jpg",
+      "collection": "Stranger On the Shore",
+      "collection_id": 857636175,
+      "track_id": 857636189,
+      "artist_name": "Acker Bilk",
+      "release_date": "1961-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.913,
+        "saturation": 0.153,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#fff7f5",
+            "share": 0.467
+          },
+          {
+            "hex": "#cd93a0",
+            "share": 0.34
+          },
+          {
+            "hex": "#fef7f5",
+            "share": 0.109
+          },
+          {
+            "hex": "#fffbf9",
+            "share": 0.048
+          },
+          {
+            "hex": "#fff7f6",
+            "share": 0.037
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3204932,
+  "kind": "synced",
+  "matched": {
+    "track": "Old Town Road",
+    "artist": "Lil Nas X",
+    "album": "Lil Nas X - Old Town Road",
+    "duration_s": 113.0
+  },
+  "duration_matched_to": "musicbrainz recording length (114s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 113.513,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 113.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 113.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 157.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34713175 (Old Town Road / Lil Nas X / Old Town Road, 84.0s): duration matches no reference length",
+    "lrclib 33809624 (Old Town Road / Lil Nas X / Aleatorio, 308.0s): duration matches no reference length",
+    "lrclib 36171546 (Old Town Road / Lil Nas X / 7, 273.0s): duration matches no reference length",
+    "lrclib 36266735 (Old Town Road / Lil Nas X / 7, Nones): duration matches no reference length",
+    "lrclib 36424042 (Old Town Road / Lil Nas X / Old Town Road (feat. Billy Ray Cyrus, Young Thug & Mason Ramsey) (Remix), 157.0s): live/remix/other version",
+    "lrclib 36733203 (Old Town Road / Lil Nas X / 7, 308.0s): duration matches no reference length",
+    "lrclib 34003110 (Old Town Road / Lil Nas X / M6 Hits 2020, 148.0s): duration matches no reference length",
+    "lrclib 27698574 (Old town road [Remix] / Lil Nas X featuring Billy Ray Cyrus / Let's Sing, 157.0s): live/remix/other version",
+    "lrclib 29631698 (Old Town Road (Remix) / Lil Nas X / Lil Nas X, 158.0s): live/remix/other version",
+    "lrclib 20141488 (Old Town Road / Lil Nas X / Old Town Road, 308.736s): duration matches no reference length",
+    "lrclib 19131235 (Old Town Road / Lil Nas X / Old Town Road, 171.389388s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

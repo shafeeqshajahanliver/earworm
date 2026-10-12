@@ -1,0 +1,76 @@
+{
+  "id": "2005-dont-cha",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0075_dontcha",
+      "match": {
+        "title": "Don’t Cha",
+        "artist": "The Pussycat Dolls",
+        "release": "R&B Summertime",
+        "musicbrainz_id": "17750854-cb74-46ce-b949-c5a5ca344281",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0075_dontcha.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0075_dontcha.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 148.196,
+      "bpm": 120.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -352 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.0,
+          "end": 16.985,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 16.985,
+          "end": 49.946,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 49.946,
+          "end": 81.9,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 81.9,
+          "end": 97.903,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 97.903,
+          "end": 129.908,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 129.908,
+          "end": 137.906,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 148 s vs 500 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

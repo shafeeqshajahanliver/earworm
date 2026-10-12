@@ -1,0 +1,135 @@
+{
+  "id": "1981-i-love-a-rainy-night",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1143",
+      "also_ids": [],
+      "match": {
+        "title": "I Love A Rainy Night",
+        "artist": "Eddie Rabbitt",
+        "chart_date": "1981-03-21",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1143 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 190.433,
+      "version_check": "duration within 12 s (-0.2 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.348,
+          "end": 7.714,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.714,
+          "end": 36.993,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 36.993,
+          "end": 44.362,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 44.362,
+          "end": 58.913,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 58.913,
+          "end": 88.394,
+          "label": "verse",
+          "letter": "B'",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 88.394,
+          "end": 95.787,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 95.787,
+          "end": 110.45,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 110.45,
+          "end": 125.1,
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "bars": 8
+        },
+        {
+          "start": 125.1,
+          "end": 132.404,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 132.404,
+          "end": 146.951,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 146.951,
+          "end": 161.433,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 161.433,
+          "end": 175.626,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 175.626,
+          "end": 187.06,
+          "label": "fadeout",
+          "letter": "D",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,251 @@
+{
+  "id": "2009-i-gotta-feeling",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0135_igottafeeling",
+      "match": {
+        "title": "I Gotta Feeling",
+        "artist": "The Black Eyed Peas",
+        "release": "Absolute Music 62",
+        "musicbrainz_id": "2b8534d6-0441-4aff-b54e-a124851c54a6",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0135_igottafeeling.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0135_igottafeeling.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 195.597,
+      "bpm": 128.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -50 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 3.75,
+          "end": 17.812,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 17.812,
+          "end": 32.812,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 32.812,
+          "end": 48.75,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 48.75,
+          "end": 63.75,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 63.75,
+          "end": 78.75,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 78.75,
+          "end": 93.75,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 93.75,
+          "end": 107.812,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 107.812,
+          "end": 123.75,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 123.75,
+          "end": 138.75,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 138.75,
+          "end": 153.75,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 153.75,
+          "end": 167.812,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 167.812,
+          "end": 183.75,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 196 s vs 246 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0736_igotafeeling",
+      "match": {
+        "title": "I Gotta Feeling",
+        "artist": "Black Eyed Peas",
+        "release": "Now That's What I Call Music! 32",
+        "musicbrainz_id": "6f064a31-16fd-4a4d-be45-95c229f44770",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0736_igotafeeling.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0736_igotafeeling.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 243.991,
+      "bpm": 128.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.037,
+          "end": 14.1,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 14.1,
+          "end": 45.038,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 45.038,
+          "end": 60.038,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 60.038,
+          "end": 75.037,
+          "label": "verse2",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 75.037,
+          "end": 90.037,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 90.037,
+          "end": 104.1,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 104.1,
+          "end": 135.037,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 135.037,
+          "end": 150.037,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 150.037,
+          "end": 165.037,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 165.037,
+          "end": 180.037,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 180.037,
+          "end": 195.037,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 195.037,
+          "end": 209.1,
+          "label": "bridge2",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 209.1,
+          "end": 240.037,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro chorus verse prechorus chorus verse prechorus bridge chorus"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [
+      "harmonix: annotated audio is 196 s vs 246 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

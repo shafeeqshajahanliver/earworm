@@ -1,0 +1,61 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 23689469,
+  "kind": "synced",
+  "matched": {
+    "track": "I'm Yours",
+    "artist": "Jason Mraz",
+    "album": "We Sing. We Dance. We Steal Things.",
+    "duration_s": 214.2691869
+  },
+  "duration_matched_to": "musicbrainz recording length (213s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 213.226,
+      "source": "musicbrainz recording length"
+    }
+  ],
+  "matching_candidates": 3,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37018082 (I'm Yours / Jason Mraz / Live at Backyard Dagmaron, 427.0s): live/remix/other version",
+    "lrclib 36979828 (I’m Yours / Jason Mraz / Chill Restaurant Music 2023, 242.0s): duration matches no reference length",
+    "lrclib 36965996 (I'm Yours / Jason Mraz / Titres likés, 243.0s): duration matches no reference length",
+    "lrclib 36967912 (I’m Yours / Jason Mraz / 00s Huge Hits, 242.0s): duration matches no reference length",
+    "lrclib 37528321 (I'm Yours / Jason Mraz / We Sing. We Dance. We Steal Things. (International Version), 244.0s): live/remix/other version",
+    "lrclib 37486643 (I’m Yours / Jason Mraz / GOOD MORNING - POSITIVE VIBES - 2025, 242.0s): duration matches no reference length",
+    "lrclib 37126804 (I’m Yours / Jason Mraz / On the Radio - 00s, 242.0s): duration matches no reference length",
+    "lrclib 37027157 (I'm Yours / Jason Mraz / The Brit Awards Album 2010 (Plus Bonus Classic BRITs Tracks), 243.0s): duration matches no reference length",
+    "lrclib 37067543 (I'm Yours / Jason Mraz / VA - Hit Music All Day (2023), 242.0s): duration matches no reference length",
+    "lrclib 37286129 (I'm Yours / Jason Mraz / Billboard Top 100 Hits Of 2009, 244.0s): duration matches no reference length",
+    "lrclib 37292395 (I'm Yours / Jason Mraz / Fetenhits - Grillparty, 244.0s): duration matches no reference length",
+    "lrclib 37332937 (I’m Yours / Jason Mraz / hits that stay forever, 242.0s): duration matches no reference length",
+    "lrclib 37353867 (I’m Yours / Jason Mraz / Don’t Worry Be Happy: 46 Feelgood Songs, 222.0s): duration matches no reference length",
+    "lrclib 37355159 (I'm Yours / Jason Mraz / Keep Calm & Relax, 244.0s): duration matches no reference length",
+    "lrclib 37371338 (I'm Yours / Jason Mraz / [2009] UK_TOP40_Charts_20091012, 242.0s): duration matches no reference length",
+    "lrclib 37445390 (I’m Yours / Jason Mraz / 2000s Throwbacks - Top 100, 242.0s): duration matches no reference length",
+    "lrclib 37231389 (I'm Yours / Jason Mraz / Bob Spotify - Happy songs for the office 2024.09.26, 244.0s): duration matches no reference length",
+    "lrclib 36874467 (I'm Yours / Jason Mraz / [Unknown Album], 243.0s): duration matches no reference length",
+    "lrclib 34470767 (I'm Yours / Jason Mraz / Now That's What I Call a Wedding!, 221.0s): duration matches no reference length",
+    "lrclib 33038117 (I'm Yours / Jason Mraz / YouTube Search - Jason Mraz I'm Yours, 243.0s): duration matches no reference length",
+    "lrclib 34375010 (I'm yours / Jason Mraz / Jason Mraz, 231.0s): duration matches no reference length",
+    "lrclib 33520968 (I'm Yours / Jason Mraz / Jason Mraz, 258.0s): duration matches no reference length",
+    "lrclib 1122983 (I'm Yours / Jason Mraz / Jason Mraz, 243.0s): duration matches no reference length",
+    "lrclib 29174190 (I'm Yours / Jason Mraz / Jason Mraz, 221.0s): duration matches no reference length",
+    "lrclib 34867792 (I'm Yours / Jason Mraz / Jason Mraz Songs, 222.0s): duration matches no reference length",
+    "lrclib 25287282 (I'm Yours / Jason Mraz / Jason Mraz - Lalalalovesongs, 242.946667s): duration matches no reference length",
+    "lrclib 20595292 (I'm Yours / Jason Mraz / Mraz: Yours Truly: The I'm Yours Collection, 242.99102s): duration matches no reference length",
+    "lrclib 8296451 (I'm Yours (4K Remaster) / Jason Mraz / Jason Mraz, 222.0s): duration matches no reference length",
+    "lrclib 32502734 (I'm Yours (Official Video) [4K Remaster] / Jason Mraz / Jason Mraz, 222.0s): duration matches no reference length",
+    "lrclib 8076748 (I'm Yours (4K Remaster) / Jason Mraz / Jason Mraz Songs, 222.0s): duration matches no reference length",
+    "lrclib 9428097 (I'm Yours (4K Remaster) / Jason Mraz / Jason Mraz Videos, 222.0s): duration matches no reference length",
+    "lrclib 34450499 (I'm Yours / Jason Mraz / I'm Yours, 161.0s): duration matches no reference length",
+    "lrclib 35910987 (I'm Yours / Jason Mraz / I'm Yours, 200.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

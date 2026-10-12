@@ -1,0 +1,70 @@
+{
+  "id": "2014-dark-horse",
+  "preview": {
+    "service": "deezer",
+    "track_id": 71645391,
+    "matched_by": "isrc",
+    "isrc": "USUM71311296",
+    "title": "Dark Horse",
+    "artist": "Katy Perry",
+    "album": "PRISM",
+    "track_duration_s": 215,
+    "link": "https://www.deezer.com/track/71645391",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 132.1,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      66.3,
+      136.0
+    ],
+    "beats_detected": 66,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.817,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.6,
+    "chroma_profile": [
+      0.494,
+      0.728,
+      0.413,
+      0.416,
+      0.374,
+      0.486,
+      0.648,
+      0.483,
+      0.689,
+      0.485,
+      1.0,
+      0.505
+    ],
+    "rms_dbfs": -9.12,
+    "rms_dbfs_p95_frame": -5.56,
+    "peak_dbfs": 1.74,
+    "loudness_lufs_approx": -9.07,
+    "spectral_centroid_hz_mean": 2094.4,
+    "spectral_centroid_hz_median": 2068.2,
+    "onsets": 51,
+    "onset_density_per_s": 1.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 71645391",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/71645391",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

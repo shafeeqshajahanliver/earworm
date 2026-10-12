@@ -1,0 +1,50 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/14196",
+    "title": "How Will I Know",
+    "performer": "Whitney Houston",
+    "is_original": true,
+    "first_release_date": "1985-02-14",
+    "releases": [
+      {
+        "title": "Whitney Houston",
+        "uri": "https://api.secondhandsongs.com/release/5900",
+        "performer": "Whitney Houston"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 61,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/14196",
+    "title": "How Will I Know",
+    "language": "English",
+    "writers": [
+      "George Merrill",
+      "Shannon Rubicam",
+      "Narada Michael Walden"
+    ],
+    "original_performer": "Whitney Houston",
+    "versions": 62,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "心願",
+        "uri": "https://api.secondhandsongs.com/work/217303"
+      },
+      {
+        "title": "Take Me to the Clouds Above",
+        "uri": "https://api.secondhandsongs.com/work/248211"
+      },
+      {
+        "title": "If You Really Love Me (How Will I Know)",
+        "uri": "https://api.secondhandsongs.com/work/270208"
+      }
+    ]
+  }
+}

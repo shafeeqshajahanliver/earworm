@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "bec847b1-b3c5-47e9-b496-a03a85610a6c",
+      "release_title": "My Girl / (Talking ’Bout) Nobody but My Baby",
+      "release_date": "1964-12-21",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/32a1993d-1460-4c3f-af9d-607ccd715053/17305108552-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/32a1993d-1460-4c3f-af9d-607ccd715053",
+      "image_id": 17305108552,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        716,
+        720
+      ],
+      "measures": {
+        "brightness": 0.532,
+        "saturation": 0.0,
+        "dark_share": 0.334,
+        "palette": [
+          {
+            "hex": "#060606",
+            "share": 0.327
+          },
+          {
+            "hex": "#cbcbcb",
+            "share": 0.267
+          },
+          {
+            "hex": "#fbfbfb",
+            "share": 0.168
+          },
+          {
+            "hex": "#545454",
+            "share": 0.129
+          },
+          {
+            "hex": "#f4f4f4",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d4953cfc-beef-30dc-aa79-4152b518cc4d",
+      "release_title": "The Temptations Sing Smokey",
+      "release_date": "1965-03-22",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Temptations Sing Smokey",
+      "url": "http://coverartarchive.org/release/86ecf40c-535d-47b7-a34a-37dc8bfdf361/36728577539-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/86ecf40c-535d-47b7-a34a-37dc8bfdf361",
+      "image_id": 36728577539,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.281,
+        "saturation": 0.152,
+        "dark_share": 0.617,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.49
+          },
+          {
+            "hex": "#dbd3ab",
+            "share": 0.247
+          },
+          {
+            "hex": "#40322b",
+            "share": 0.166
+          },
+          {
+            "hex": "#010002",
+            "share": 0.09
+          },
+          {
+            "hex": "#000001",
+            "share": 0.007
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/84/2d/f1/842df19d-e5f4-3b9f-9405-6779bbc43fe0/06UMGIM07353.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Temptations Sing Smokey",
+      "collection_id": 1423301162,
+      "track_id": 1423301921,
+      "artist_name": "The Temptations",
+      "release_date": "1964-12-21T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.29,
+        "saturation": 0.354,
+        "dark_share": 0.626,
+        "palette": [
+          {
+            "hex": "#07080a",
+            "share": 0.352
+          },
+          {
+            "hex": "#020305",
+            "share": 0.246
+          },
+          {
+            "hex": "#b4a270",
+            "share": 0.171
+          },
+          {
+            "hex": "#f5ebda",
+            "share": 0.116
+          },
+          {
+            "hex": "#382b29",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

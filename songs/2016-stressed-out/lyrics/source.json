@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1357,
+  "kind": "synced",
+  "matched": {
+    "track": "Stressed Out",
+    "artist": "Twenty One Pilots",
+    "album": "Blurryface",
+    "duration_s": 202.0
+  },
+  "duration_matched_to": "musicbrainz recording length (202s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 202.333,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 202.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 202.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 0.979,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37399221 (Stressed Out / Twenty One Pilots / Blurryface, Nones): duration matches no reference length",
+    "lrclib 34753605 (Stressed out / Twenty one pilots / En Vrac & Youtube, 225.0s): duration matches no reference length",
+    "lrclib 34344838 (Stressed Out / twenty one pilots / 3213 M de vistas, 226.0s): duration matches no reference length",
+    "lrclib 34385516 (Stressed Out / Twenty One Pilots / Blurryface, Nones): duration matches no reference length",
+    "lrclib 34482550 (Stressed Out / Twenty One Pilots / Blurryface, 12.0s): duration matches no reference length",
+    "lrclib 33568913 (Stressed Out / twenty one pilots / twenty one pilots, 235.0s): duration matches no reference length",
+    "lrclib 3693592 (Stressed Out / Twenty One Pilots / Twenty One Pilots, 224.0s): duration matches no reference length",
+    "lrclib 13515698 (Stressed Out / Twenty One Pilots / Twenty One Pilots, 212.0s): duration matches no reference length",
+    "lrclib 8798839 (Stressed Out / Twenty One Pilots / Twenty One Pilots Videos, 225.0s): duration matches no reference length",
+    "lrclib 7980727 (Stressed Out / twenty one pilots / twenty one pilots Songs, 225.0s): duration matches no reference length",
+    "lrclib 36652852 (Stressed Out / Twenty One Pilots / Stressed Out, 216.0s): duration matches no reference length",
+    "lrclib 17438031 (Stressed Out / Twenty One Pilots / Stressed Out, 225.264s): duration matches no reference length",
+    "lrclib 22175492 (Stressed Out / Twenty One Pilots / Stressed Out, 209.136327s): duration matches no reference length",
+    "lrclib 25530700 (Stressed Out / Twenty One Pilots / Stressed Out, 218.346s): duration matches no reference length",
+    "lrclib 37781034 (Stressed Out / Twenty One Pilots / Stressed Out, 1.0s): duration matches no reference length",
+    "lrclib 26942408 (Stressed Out (Tomsize Remix) / Twenty One Pilots / Twenty One Pilots, 224.417959s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

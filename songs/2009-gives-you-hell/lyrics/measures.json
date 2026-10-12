@@ -1,0 +1,41 @@
+{
+  "id": "2009-gives-you-hell",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1006171,
+  "lines": 46,
+  "words": 474,
+  "unique_words": 124,
+  "type_token_ratio": 0.262,
+  "repeated_line_share": 0.217,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.256,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "gives you hell",
+  "title_phrase_occurrences": 29,
+  "pronouns": {
+    "first_singular": 25,
+    "second": 77,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 14.31,
+  "last_line_s": 202.98,
+  "sung_time_s": 184.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 153.8,
+  "words_per_minute_track": 133.5,
+  "longest_gap_between_lines_s": 10.58,
+  "longest_gap_starts_at_s": 89.91,
+  "first_repeated_block": {
+    "first_at_s": 32.11,
+    "recurs_at_s": 71.05,
+    "lines": [
+      "When you see my face, hope it gives you hell, hope it gives you hell",
+      "When you walk my way, hope it gives you hell, hope it gives you hell"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1006171",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

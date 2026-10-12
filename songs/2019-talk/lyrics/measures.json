@@ -1,0 +1,41 @@
+{
+  "id": "2019-talk",
+  "lyrics_kind": "synced",
+  "lrclib_id": 27555332,
+  "lines": 47,
+  "words": 273,
+  "unique_words": 95,
+  "type_token_ratio": 0.348,
+  "repeated_line_share": 0.383,
+  "distinct_lines": 29,
+  "zlib_compression_ratio": 0.314,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "talk",
+  "title_phrase_occurrences": 15,
+  "pronouns": {
+    "first_singular": 25,
+    "second": 8,
+    "first_plural": 26
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 27.52,
+  "last_line_s": 180.61,
+  "sung_time_s": 144.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 113.4,
+  "words_per_minute_track": 82.9,
+  "longest_gap_between_lines_s": 14.49,
+  "longest_gap_starts_at_s": 166.12,
+  "first_repeated_block": {
+    "first_at_s": 41.74,
+    "recurs_at_s": 98.24,
+    "lines": [
+      "I've never felt like this before",
+      "I apologize if I'm moving too far"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 27555332",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

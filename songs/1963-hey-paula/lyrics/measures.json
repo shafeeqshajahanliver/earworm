@@ -1,0 +1,41 @@
+{
+  "id": "1963-hey-paula",
+  "lyrics_kind": "synced",
+  "lrclib_id": 10559724,
+  "lines": 22,
+  "words": 155,
+  "unique_words": 58,
+  "type_token_ratio": 0.374,
+  "repeated_line_share": 0.273,
+  "distinct_lines": 16,
+  "zlib_compression_ratio": 0.341,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "hey paula",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 17,
+    "second": 8,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.3,
+  "last_line_s": 138.01,
+  "sung_time_s": 144.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 64.4,
+  "words_per_minute_track": 62.0,
+  "longest_gap_between_lines_s": 8.78,
+  "longest_gap_starts_at_s": 64.73,
+  "first_repeated_block": {
+    "first_at_s": 73.51,
+    "recurs_at_s": 119.04,
+    "lines": [
+      "Being together the whole day through",
+      "True love means waiting and hoping that soon"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 10559724",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

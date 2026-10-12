@@ -1,0 +1,72 @@
+{
+  "id": "1988-couldve-been",
+  "preview": {
+    "service": "deezer",
+    "track_id": 65121043,
+    "matched_by": "isrc",
+    "isrc": "USMC10000688",
+    "title": "Could've Been",
+    "artist": "Tiffany",
+    "album": "Tiffany",
+    "track_duration_s": 212,
+    "link": "https://www.deezer.com/track/65121043",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 198.0,
+    "tempo_bpm_grid": 202.7,
+    "tempo_candidates_bpm": [
+      198.8,
+      215.3,
+      184.6
+    ],
+    "beats_detected": 91,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.849,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.76,
+    "chroma_profile": [
+      0.802,
+      0.988,
+      0.399,
+      0.649,
+      0.395,
+      0.72,
+      0.674,
+      0.649,
+      1.0,
+      0.48,
+      0.533,
+      0.369
+    ],
+    "rms_dbfs": -22.61,
+    "rms_dbfs_p95_frame": -17.61,
+    "peak_dbfs": -8.43,
+    "loudness_lufs_approx": -20.75,
+    "spectral_centroid_hz_mean": 2249.4,
+    "spectral_centroid_hz_median": 2200.4,
+    "onsets": 36,
+    "onset_density_per_s": 1.2,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 65121043",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -18.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/65121043",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

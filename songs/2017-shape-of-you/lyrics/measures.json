@@ -1,0 +1,41 @@
+{
+  "id": "2017-shape-of-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3204999,
+  "lines": 92,
+  "words": 704,
+  "unique_words": 145,
+  "type_token_ratio": 0.206,
+  "repeated_line_share": 0.587,
+  "distinct_lines": 38,
+  "zlib_compression_ratio": 0.217,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "shape of you",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 97,
+    "second": 38,
+    "first_plural": 9
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.64,
+  "last_line_s": 228.12,
+  "sung_time_s": 220.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 191.5,
+  "words_per_minute_track": 180.7,
+  "longest_gap_between_lines_s": 3.27,
+  "longest_gap_starts_at_s": 85.09,
+  "first_repeated_block": {
+    "first_at_s": 68.07,
+    "recurs_at_s": 73.13,
+    "lines": [
+      "Oh, I'm in love with your body",
+      "Oh I, oh I, oh I, oh I"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3204999",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

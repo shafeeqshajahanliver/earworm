@@ -1,0 +1,70 @@
+{
+  "id": "2016-panda",
+  "preview": {
+    "service": "deezer",
+    "track_id": 120026876,
+    "matched_by": "isrc",
+    "isrc": "USUM71601094",
+    "title": "Panda",
+    "artist": "Desiigner",
+    "album": "Panda",
+    "track_duration_s": 247,
+    "link": "https://www.deezer.com/track/120026876",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 145.2,
+    "tempo_bpm_grid": 145.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      71.8,
+      152.0
+    ],
+    "beats_detected": 73,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.69,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.426,
+    "chroma_profile": [
+      0.475,
+      0.445,
+      0.42,
+      1.0,
+      0.767,
+      0.525,
+      0.498,
+      0.688,
+      0.723,
+      0.677,
+      0.724,
+      0.507
+    ],
+    "rms_dbfs": -6.3,
+    "rms_dbfs_p95_frame": -0.97,
+    "peak_dbfs": 0.95,
+    "loudness_lufs_approx": -8.23,
+    "spectral_centroid_hz_mean": 2545.4,
+    "spectral_centroid_hz_median": 2386.0,
+    "onsets": 150,
+    "onset_density_per_s": 5.002,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 120026876",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 145.1,
+    "gain": -8.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/120026876",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

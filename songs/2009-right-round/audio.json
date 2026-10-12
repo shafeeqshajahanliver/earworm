@@ -1,0 +1,74 @@
+{
+  "id": "2009-right-round",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4162065,
+    "matched_by": "isrc",
+    "isrc": "USAT20900156",
+    "title": "Right Round",
+    "artist": "Flo Rida",
+    "album": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+    "track_duration_s": 204,
+    "link": "https://www.deezer.com/track/4162065",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.8,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      63.0,
+      129.2
+    ],
+    "beats_detected": 57,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.361,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.337,
+    "chroma_profile": [
+      0.375,
+      0.346,
+      0.437,
+      0.445,
+      0.412,
+      0.215,
+      0.309,
+      0.636,
+      0.745,
+      1.0,
+      0.65,
+      0.364
+    ],
+    "rms_dbfs": -10.08,
+    "rms_dbfs_p95_frame": -6.65,
+    "peak_dbfs": -0.73,
+    "loudness_lufs_approx": -10.19,
+    "spectral_centroid_hz_mean": 3188.7,
+    "spectral_centroid_hz_median": 3087.4,
+    "onsets": 97,
+    "onset_density_per_s": 3.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4162065",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.9,
+    "gain": -10.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4162065",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between A minor and A major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAT21205792: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "1966-kicks",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1181",
+      "also_ids": [],
+      "match": {
+        "title": "Kicks",
+        "artist": "Paul Revere & The Raiders",
+        "chart_date": "1966-06-04",
+        "peak_rank": "4"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1181 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 149.316,
+      "version_check": "duration within 12 s (+3.3 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.418,
+          "end": 7.717,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.717,
+          "end": 36.679,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 36.679,
+          "end": 51.192,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 51.192,
+          "end": 58.498,
+          "label": "trans",
+          "letter": "A",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 58.498,
+          "end": 87.505,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 87.505,
+          "end": 102.146,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 102.146,
+          "end": 117.356,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 117.356,
+          "end": 132.044,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 132.044,
+          "end": 145.566,
+          "label": "fadeout",
+          "letter": "C",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

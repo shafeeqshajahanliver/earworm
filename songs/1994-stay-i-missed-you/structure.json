@@ -1,0 +1,96 @@
+{
+  "id": "1994-stay-i-missed-you",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0500_stay",
+      "match": {
+        "title": "Stay (I Missed You)",
+        "artist": "Lisa Loeb",
+        "release": "Now That's What I Call the 1990s",
+        "musicbrainz_id": "cf4f2106-63f0-4504-bc55-5a1543ff70f7",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0500_stay.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0500_stay.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 185.217,
+      "bpm": 80.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.316,
+          "end": 12.251,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 12.251,
+          "end": 36.155,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 36.155,
+          "end": 60.065,
+          "label": "verse2",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 60.065,
+          "end": 80.961,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 7
+        },
+        {
+          "start": 80.961,
+          "end": 116.8,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 12
+        },
+        {
+          "start": 116.8,
+          "end": 140.711,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 140.711,
+          "end": 152.666,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 152.666,
+          "end": 164.595,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 164.595,
+          "end": 175.056,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

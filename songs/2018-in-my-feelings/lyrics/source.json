@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22909,
+  "kind": "synced",
+  "matched": {
+    "track": "In My Feelings",
+    "artist": "Drake",
+    "album": "Scorpion",
+    "duration_s": 218.0
+  },
+  "duration_matched_to": "musicbrainz recording length (217s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 217.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 218.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 217.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 16,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37381471 (In My Feelings / Drake / In My Feelings, 141.0s): duration matches no reference length",
+    "lrclib 36914240 (In My Feelings / Drake / Scorpion, 198.0s): duration matches no reference length",
+    "lrclib 34639939 (In My Feelings / Drake / Scorpion, 173.0s): duration matches no reference length",
+    "lrclib 35111658 (In My Feelings / Drake / Scorpion, Nones): duration matches no reference length",
+    "lrclib 35119680 (In My Feelings / Drake / Drake Songs, 480.0s): duration matches no reference length",
+    "lrclib 33558193 (in my feelings / drake / scorpion, 207.0s): duration matches no reference length",
+    "lrclib 33352135 (In My Feelings / Drake / The Hits: '10s, 479.0s): duration matches no reference length",
+    "lrclib 36187548 (In My Feelings / Drake / Scorpion, Nones): duration matches no reference length",
+    "lrclib 35938348 (In My Feelings / Drake / Scorpion, Nones): duration matches no reference length",
+    "lrclib 36679433 (In My Feelings / Drake / Scorpion, 255.0s): duration matches no reference length",
+    "lrclib 36831436 (In My Feelings / Drake / Scorpion, Nones): duration matches no reference length",
+    "lrclib 23148836 (In My Feelings / Drake / In My Feelings, 479.0s): duration matches no reference length",
+    "lrclib 21981030 (In My Feelings / Drake / Drake Videos, 480.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

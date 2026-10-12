@@ -1,0 +1,70 @@
+{
+  "id": "2023-fast-car",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2194033397,
+    "matched_by": "isrc",
+    "isrc": "US6XF2200436",
+    "title": "Fast Car",
+    "artist": "Luke Combs",
+    "album": "Gettin' Old",
+    "track_duration_s": 265,
+    "link": "https://www.deezer.com/track/2194033397",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.0,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      48.8,
+      198.8
+    ],
+    "beats_detected": 41,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.87,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.583,
+    "chroma_profile": [
+      0.638,
+      0.744,
+      0.573,
+      1.0,
+      0.474,
+      0.72,
+      0.398,
+      0.458,
+      0.874,
+      0.324,
+      0.422,
+      0.323
+    ],
+    "rms_dbfs": -9.37,
+    "rms_dbfs_p95_frame": -5.8,
+    "peak_dbfs": 0.26,
+    "loudness_lufs_approx": -9.77,
+    "spectral_centroid_hz_mean": 2425.6,
+    "spectral_centroid_hz_median": 2206.0,
+    "onsets": 130,
+    "onset_density_per_s": 4.335,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2194033397",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2194033397",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

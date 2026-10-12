@@ -1,0 +1,41 @@
+{
+  "id": "2019-happier",
+  "lyrics_kind": "synced",
+  "lrclib_id": 29309770,
+  "lines": 61,
+  "words": 388,
+  "unique_words": 114,
+  "type_token_ratio": 0.294,
+  "repeated_line_share": 0.508,
+  "distinct_lines": 30,
+  "zlib_compression_ratio": 0.261,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "happier",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 57,
+    "second": 20,
+    "first_plural": 13
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.07,
+  "last_line_s": 205.96,
+  "sung_time_s": 192.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 121.2,
+  "words_per_minute_track": 108.6,
+  "longest_gap_between_lines_s": 9.55,
+  "longest_gap_starts_at_s": 44.47,
+  "first_repeated_block": {
+    "first_at_s": 0.07,
+    "recurs_at_s": 57.66,
+    "lines": [
+      "Lately, I've been, I've been thinking",
+      "I want you to be happier"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 29309770",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

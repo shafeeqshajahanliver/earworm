@@ -1,0 +1,124 @@
+{
+  "id": "2008-forever",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0682_forever",
+      "match": {
+        "title": "Forever",
+        "artist": "Chris Brown",
+        "release": "Now That's What I Call Music! 29",
+        "musicbrainz_id": "0b17aff1-0446-4a8e-b437-76c6bd1b43c0",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0682_forever.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0682_forever.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 276.437,
+      "bpm": 120.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.09,
+          "end": 22.591,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 11
+        },
+        {
+          "start": 22.591,
+          "end": 47.091,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 47.091,
+          "end": 63.091,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 63.091,
+          "end": 79.091,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 79.091,
+          "end": 95.091,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 95.091,
+          "end": 127.091,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 127.091,
+          "end": 143.091,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 143.091,
+          "end": 159.091,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 159.091,
+          "end": 191.091,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 16
+        },
+        {
+          "start": 191.091,
+          "end": 223.091,
+          "label": "breakdown",
+          "normalised": "other",
+          "bars": 16
+        },
+        {
+          "start": 223.091,
+          "end": 239.091,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 239.091,
+          "end": 255.091,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 255.091,
+          "end": 269.091,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 7
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

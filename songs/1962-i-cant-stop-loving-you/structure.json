@@ -1,0 +1,232 @@
+{
+  "id": "1962-i-cant-stop-loving-you",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "i_cant_stop_loving_you_dt",
+      "match": {
+        "title": "I Can't Stop Loving You",
+        "artist": "Ray Charles",
+        "year": "1962",
+        "rs500_rank": "161",
+        "audio_used": {
+          "artist": "Ray Charles",
+          "album": "The Very Best of Ray Charles",
+          "publication": "Rhino 2000"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_cant_stop_loving_you_dt.har/.clt + i_cant_stop_loving_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 249 s; our recording 158 s; audio taken from compilation 'The Very Best of Ray Charles'",
+      "parse_check": "expanded 81 bars; timed chord list ends in bar 80",
+      "version_note": "annotated audio runs to 249 s vs 158 s for our recording (The Very Best of Ray Charles): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.558,
+          "end": 3.598,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 1
+        },
+        {
+          "start": 3.598,
+          "end": 51.454,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 1,
+          "bars": 16
+        },
+        {
+          "start": 51.454,
+          "end": 99.389,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 17,
+          "bars": 16
+        },
+        {
+          "start": 99.389,
+          "end": 147.63,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 33,
+          "bars": 16
+        },
+        {
+          "start": 147.63,
+          "end": 195.551,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 49,
+          "bars": 16
+        },
+        {
+          "start": 195.551,
+          "end": 249.054,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 65,
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "i_cant_stop_loving_you_tdc",
+      "match": {
+        "title": "I Can't Stop Loving You",
+        "artist": "Ray Charles",
+        "year": "1962",
+        "rs500_rank": "161",
+        "audio_used": {
+          "artist": "Ray Charles",
+          "album": "The Very Best of Ray Charles",
+          "publication": "Rhino 2000"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, i_cant_stop_loving_you_tdc.har/.clt + i_cant_stop_loving_you.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 249 s; our recording 158 s; audio taken from compilation 'The Very Best of Ray Charles'",
+      "parse_check": "expanded 81 bars; timed chord list ends in bar 80",
+      "version_note": "annotated audio runs to 249 s vs 158 s for our recording (The Very Best of Ray Charles): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.558,
+          "end": 3.598,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 1
+        },
+        {
+          "start": 3.598,
+          "end": 27.483,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 1,
+          "bars": 8
+        },
+        {
+          "start": 27.483,
+          "end": 51.454,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 9,
+          "bars": 8
+        },
+        {
+          "start": 51.454,
+          "end": 75.357,
+          "label": "Vr1",
+          "normalised": "verse",
+          "first_bar": 17,
+          "bars": 8
+        },
+        {
+          "start": 75.357,
+          "end": 99.389,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 25,
+          "bars": 8
+        },
+        {
+          "start": 99.389,
+          "end": 123.522,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 33,
+          "bars": 8
+        },
+        {
+          "start": 123.522,
+          "end": 147.63,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 41,
+          "bars": 8
+        },
+        {
+          "start": 147.63,
+          "end": 171.614,
+          "label": "Vr1",
+          "normalised": "verse",
+          "first_bar": 49,
+          "bars": 8
+        },
+        {
+          "start": 171.614,
+          "end": 195.551,
+          "label": "Vr2",
+          "normalised": "verse",
+          "first_bar": 57,
+          "bars": 8
+        },
+        {
+          "start": 195.551,
+          "end": 219.43,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 65,
+          "bars": 8
+        },
+        {
+          "start": 219.43,
+          "end": 249.054,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 73,
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "chorus verse chorus verse chorus",
+      "rolling_stone_tdc": "intro chorus verse chorus verse chorus"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.83
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [
+      "rolling_stone_dt: annotated audio runs to 249 s vs 158 s for our recording (The Very Best of Ray Charles): a different version; section times do not line up with the charting recording",
+      "rolling_stone_tdc: annotated audio runs to 249 s vs 158 s for our recording (The Very Best of Ray Charles): a different version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

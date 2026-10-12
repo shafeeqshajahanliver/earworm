@@ -1,0 +1,103 @@
+{
+  "id": "2008-bleeding-love",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0594_bleedinglove",
+      "match": {
+        "title": "Bleeding Love",
+        "artist": "Leona Lewis",
+        "release": "Now That's What I Call Music! 28",
+        "musicbrainz_id": "9f887927-d49b-4740-bde0-ca52209c1609",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0594_bleedinglove.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0594_bleedinglove.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 238.004,
+      "bpm": 104.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 39.299,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 17
+        },
+        {
+          "start": 39.299,
+          "end": 56.03,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 56.03,
+          "end": 80.838,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 80.838,
+          "end": 117.761,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 117.761,
+          "end": 134.492,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 134.492,
+          "end": 154.684,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 154.684,
+          "end": 173.145,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 173.145,
+          "end": 189.876,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 189.876,
+          "end": 208.338,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 208.338,
+          "end": 233.145,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 10
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

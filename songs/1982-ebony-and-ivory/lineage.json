@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/11371",
+    "title": "Ebony and Ivory",
+    "performer": "Paul McCartney with Stevie Wonder",
+    "is_original": true,
+    "first_release_date": "1982-03-29",
+    "releases": [
+      {
+        "title": "Tug of War",
+        "uri": "https://api.secondhandsongs.com/release/4894",
+        "performer": "Paul McCartney"
+      },
+      {
+        "title": "Ebony and Ivory",
+        "uri": "https://api.secondhandsongs.com/release/27851",
+        "performer": "Paul McCartney with Stevie Wonder"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 57,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/11371",
+    "title": "Ebony and Ivory",
+    "language": "English",
+    "writers": [
+      "Paul McCartney"
+    ],
+    "original_performer": "Paul McCartney with Stevie Wonder",
+    "versions": 58,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Feketén a hófehér",
+        "uri": "https://api.secondhandsongs.com/work/148092"
+      },
+      {
+        "title": "Ibenholt og elfenben",
+        "uri": "https://api.secondhandsongs.com/work/222317"
+      }
+    ]
+  }
+}

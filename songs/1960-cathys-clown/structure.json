@@ -1,0 +1,211 @@
+{
+  "id": "1960-cathys-clown",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "cathys_clown_dt",
+      "match": {
+        "title": "Cathy's Clown",
+        "artist": "The Everly Brothers",
+        "year": "1960",
+        "rs500_rank": "149",
+        "audio_used": {
+          "artist": "The Everly Brothers",
+          "album": "The Very Best of the Everly Brothers",
+          "publication": "Warner Bros. 1964"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, cathys_clown_dt.har/.clt + cathys_clown.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 141 s; our recording 145 s; audio taken from compilation 'The Very Best of the Everly Brothers'",
+      "parse_check": "expanded 70 bars; timed chord list ends in bar 69",
+      "sections": [
+        {
+          "start": 0.253,
+          "end": 8.361,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 8.361,
+          "end": 38.812,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 4,
+          "bars": 15
+        },
+        {
+          "start": 38.812,
+          "end": 40.938,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 19,
+          "bars": 1
+        },
+        {
+          "start": 40.938,
+          "end": 56.418,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 56.418,
+          "end": 86.568,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 15
+        },
+        {
+          "start": 86.568,
+          "end": 88.667,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 43,
+          "bars": 1
+        },
+        {
+          "start": 88.667,
+          "end": 104.201,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 44,
+          "bars": 8
+        },
+        {
+          "start": 104.201,
+          "end": 134.467,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 52,
+          "bars": 15
+        },
+        {
+          "start": 134.467,
+          "end": 140.618,
+          "label": "BP",
+          "normalised": "other",
+          "first_bar": 67,
+          "bars": 3
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "cathys_clown_tdc",
+      "match": {
+        "title": "Cathy's Clown",
+        "artist": "The Everly Brothers",
+        "year": "1960",
+        "rs500_rank": "149",
+        "audio_used": {
+          "artist": "The Everly Brothers",
+          "album": "The Very Best of the Everly Brothers",
+          "publication": "Warner Bros. 1964"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, cathys_clown_tdc.har/.clt + cathys_clown.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 141 s; our recording 145 s; audio taken from compilation 'The Very Best of the Everly Brothers'",
+      "parse_check": "expanded 70 bars; timed chord list ends in bar 69",
+      "sections": [
+        {
+          "start": 0.253,
+          "end": 8.361,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 4
+        },
+        {
+          "start": 8.361,
+          "end": 40.938,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 4,
+          "bars": 16
+        },
+        {
+          "start": 40.938,
+          "end": 56.418,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 56.418,
+          "end": 88.667,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 28,
+          "bars": 16
+        },
+        {
+          "start": 88.667,
+          "end": 104.201,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 44,
+          "bars": 8
+        },
+        {
+          "start": 104.201,
+          "end": 140.618,
+          "label": "Vr3",
+          "normalised": "verse",
+          "first_bar": 52,
+          "bars": 18
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro chorus verse chorus verse chorus",
+      "rolling_stone_tdc": "intro verse bridge verse bridge verse"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.33
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "disputed",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

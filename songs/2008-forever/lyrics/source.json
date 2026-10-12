@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1144257,
+  "kind": "synced",
+  "matched": {
+    "track": "Forever",
+    "artist": "Chris Brown",
+    "album": "Exclusive - The Forever Edition",
+    "duration_s": 278.0
+  },
+  "duration_matched_to": "musicbrainz recording length (278s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 277.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 278.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 278.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37348761 (Forever / Chris Brown / Forever, Nones): duration matches no reference length",
+    "lrclib 34466806 (Forever / Chris Brown / Forever, 188.0s): duration matches no reference length",
+    "lrclib 35215419 (forever / chris brown / forever, 367.0s): duration matches no reference length",
+    "lrclib 35888077 (Forever / Chris Brown / Forever, Nones): duration matches no reference length",
+    "lrclib 22615831 (Forever / Chris Brown / Chris Brown - Forever [16Bit-44.1kHz], 3.63102s): duration matches no reference length",
+    "lrclib 21006095 (Forever  (Cahill Club Mix) / Chris Brown / Chris Brown - Forever [16Bit-44.1kHz], 1574.844082s): live/remix/other version",
+    "lrclib 34230719 (Forever (Cahill Club Mix) / Chris Brown / Chris Brown Videos, 390.0s): live/remix/other version",
+    "lrclib 31804406 (Forever / Chris Brown / The Best of Chris Brown, 173.0s): duration matches no reference length",
+    "lrclib 19528728 (Forever  (BobbyBass & J Remy Club Mix) / Chris Brown / Chris Brown - Forever [16Bit-44.1kHz], 1283.265306s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "1964-everybody-loves-somebody",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "618",
+      "also_ids": [],
+      "match": {
+        "title": "Everybody Loves Somebody",
+        "artist": "Dean Martin",
+        "chart_date": "1964-07-04",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 618 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 161.776,
+      "version_check": "duration within 12 s (-3.3 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.302,
+          "end": 6.851,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 2
+        },
+        {
+          "start": 6.851,
+          "end": 32.044,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 32.044,
+          "end": 55.668,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 55.668,
+          "end": 79.48,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 79.48,
+          "end": 103.328,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 103.328,
+          "end": 127.105,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 127.105,
+          "end": 160.938,
+          "label": "chorus",
+          "letter": "B'",
+          "normalised": "chorus",
+          "bars": 10
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

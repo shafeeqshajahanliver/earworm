@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 571903,
+  "kind": "synced",
+  "matched": {
+    "track": "Heartless",
+    "artist": "Kanye West",
+    "album": "808s & Heartbreak",
+    "duration_s": 211.0
+  },
+  "duration_matched_to": "musicbrainz recording length (211s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 211.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 210.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 211.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 13,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36980052 (Heartless / Kanye West / DJ Rockstar & DJ Ill Will Present - We Run Rap Vol. 2, 203.0s): duration matches no reference length",
+    "lrclib 37467380 (Heartless / Kanye West / 808s & Heartbreak, Nones): duration matches no reference length",
+    "lrclib 36918704 (Heartless / Kanye West / Only One Shot 〤, 132.0s): duration matches no reference length",
+    "lrclib 34609785 (Heartless / Kanye West / 808s & Heartbreak, 2055.0s): duration matches no reference length",
+    "lrclib 34609834 (Heartless / Kanye West / 808s & Heartbreak, 2067.0s): duration matches no reference length",
+    "lrclib 34610165 (Heartless / Kanye West / 808s & Heartbreak, 2083.0s): duration matches no reference length",
+    "lrclib 34609831 (Heartless / Kanye West / 808s & Heartbreak, 2065.0s): duration matches no reference length",
+    "lrclib 34609579 (Heartless / Kanye West / 808s & Heartbreak, 1885.0s): duration matches no reference length",
+    "lrclib 34609618 (Heartless / Kanye West / 808s & Heartbreak, 1935.0s): duration matches no reference length",
+    "lrclib 34706516 (Heartless / Kanye West / 808s & Heartbreak (Softback), 193.0s): duration matches no reference length",
+    "lrclib 34609583 (Heartless / Kanye West / 808s & Heartbreak, 1905.0s): duration matches no reference length",
+    "lrclib 34609659 (Heartless / Kanye West / 808s & Heartbreak, 1965.0s): duration matches no reference length",
+    "lrclib 34609722 (Heartless / Kanye West / 808s & Heartbreak, 1995.0s): duration matches no reference length",
+    "lrclib 34609753 (Heartless / Kanye West / 808s & Heartbreak, 2025.0s): duration matches no reference length",
+    "lrclib 32778564 (Heartless / Kanye West / Kanye West - Heartless, 221.0s): duration matches no reference length",
+    "lrclib 12104361 (Heartless / Kanye West / Kanye West, 221.0s): duration matches no reference length",
+    "lrclib 38638449 (Heartless / Kanye West / Kanye West, 236.0s): duration matches no reference length",
+    "lrclib 11413516 (Heartless / Kanye West / Kanye West Videos, 220.687s): duration matches no reference length",
+    "lrclib 13420226 (Heartless / Kanye West / Kanye West Songs, 221.0s): duration matches no reference length",
+    "lrclib 33836154 (Heartless / Kanye West / Heartless, 221.0s): duration matches no reference length",
+    "lrclib 32243970 (Heartless / Kanye West / Heartless, 227.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

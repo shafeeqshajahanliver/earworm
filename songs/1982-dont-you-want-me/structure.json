@@ -1,0 +1,104 @@
+{
+  "id": "1982-dont-you-want-me",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0079_dontyouwantme",
+      "match": {
+        "title": "Don't You Want Me",
+        "artist": "The Human League",
+        "release": "Dare",
+        "musicbrainz_id": "88b8d585-02c6-4ac7-b1ee-f160f83afa78",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0079_dontyouwantme.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0079_dontyouwantme.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 223.258,
+      "bpm": 117.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -14 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 4.088,
+          "end": 24.012,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 10
+        },
+        {
+          "start": 24.012,
+          "end": 57.212,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 57.212,
+          "end": 81.727,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 12
+        },
+        {
+          "start": 81.727,
+          "end": 97.561,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 97.561,
+          "end": 130.751,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 130.751,
+          "end": 155.259,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 12
+        },
+        {
+          "start": 155.259,
+          "end": 171.596,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 171.596,
+          "end": 187.929,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 187.929,
+          "end": 204.262,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 204.262,
+          "end": 220.597,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 223 s vs 237 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

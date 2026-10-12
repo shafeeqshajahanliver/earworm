@@ -1,0 +1,96 @@
+{
+  "id": "2009-im-yours",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0748_imyours",
+      "match": {
+        "title": "I'm Yours",
+        "artist": "Jason Mraz",
+        "release": "Now That's What I Call Music! 30",
+        "musicbrainz_id": "0ffd92aa-a52b-4f13-9324-12f1056e823d",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0748_imyours.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0748_imyours.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 212.172,
+      "bpm": 151.0,
+      "time_signature": "4/4",
+      "version_check": "duration within 12 s (-1.1 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.236,
+          "end": 12.947,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 12.947,
+          "end": 38.774,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 38.774,
+          "end": 64.205,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 64.205,
+          "end": 92.814,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 92.814,
+          "end": 118.245,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 118.245,
+          "end": 143.278,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 16
+        },
+        {
+          "start": 143.278,
+          "end": 169.106,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 169.106,
+          "end": 181.821,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 181.821,
+          "end": 207.251,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 16
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

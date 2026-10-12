@@ -1,0 +1,72 @@
+{
+  "id": "2008-with-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15042720,
+    "matched_by": "isrc",
+    "isrc": "USJI10700711",
+    "title": "With You",
+    "artist": "Chris Brown",
+    "album": "With You",
+    "track_duration_s": 252,
+    "link": "https://www.deezer.com/track/15042720",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 110.8,
+    "tempo_bpm_grid": 113.6,
+    "tempo_candidates_bpm": [
+      43.1,
+      172.3,
+      86.1
+    ],
+    "beats_detected": 51,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.658,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.533,
+    "chroma_profile": [
+      0.524,
+      0.427,
+      0.502,
+      0.642,
+      0.332,
+      0.51,
+      0.425,
+      0.907,
+      1.0,
+      0.582,
+      0.874,
+      0.484
+    ],
+    "rms_dbfs": -8.55,
+    "rms_dbfs_p95_frame": -4.89,
+    "peak_dbfs": 1.48,
+    "loudness_lufs_approx": -8.35,
+    "spectral_centroid_hz_mean": 3068.8,
+    "spectral_centroid_hz_median": 3016.3,
+    "onsets": 137,
+    "onset_density_per_s": 4.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15042720",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 172.3,
+    "gain": -8.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15042720",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (172.3) by 36%"
+  ],
+  "rejected_candidates": []
+}

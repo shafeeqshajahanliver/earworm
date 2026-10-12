@@ -1,0 +1,127 @@
+{
+  "id": "1983-maneater",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "633",
+      "also_ids": [],
+      "match": {
+        "title": "Maneater",
+        "artist": "Daryl Hall & John Oates",
+        "chart_date": "1983-03-05",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 633 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 274.207,
+      "version_check": "duration within 12 s (+2.3 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.232,
+          "end": 43.506,
+          "label": "intro",
+          "letter": "A'",
+          "normalised": "intro",
+          "bars": 32
+        },
+        {
+          "start": 43.506,
+          "end": 65.091,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 65.091,
+          "end": 86.711,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 86.711,
+          "end": 108.325,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 108.325,
+          "end": 113.726,
+          "label": "interlude",
+          "letter": "C",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 113.726,
+          "end": 135.344,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 135.344,
+          "end": 156.899,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 156.899,
+          "end": 162.326,
+          "label": "interlude",
+          "letter": "C",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 162.326,
+          "end": 205.5,
+          "label": "solo",
+          "letter": "A'",
+          "normalised": "solo",
+          "bars": 32
+        },
+        {
+          "start": 205.5,
+          "end": 227.178,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 227.178,
+          "end": 248.765,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 248.765,
+          "end": 270.961,
+          "label": "outro",
+          "letter": "A",
+          "normalised": "outro",
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

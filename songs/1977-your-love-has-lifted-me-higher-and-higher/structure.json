@@ -1,0 +1,104 @@
+{
+  "id": "1977-your-love-has-lifted-me-higher-and-higher",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "336",
+      "also_ids": [],
+      "match": {
+        "title": "(Your Love Has Lifted Me) Higher And Higher",
+        "artist": "Rita Coolidge",
+        "chart_date": "1977-08-13",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 336 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 242.913,
+      "version_check": "duration differs by +33 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 243 s vs 210 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.418,
+          "end": 18.967,
+          "label": "intro",
+          "letter": "A'",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 18.967,
+          "end": 27.309,
+          "label": "trans",
+          "letter": "B",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 27.309,
+          "end": 60.118,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 60.118,
+          "end": 92.85,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 92.85,
+          "end": 125.342,
+          "label": "solo",
+          "letter": "A",
+          "normalised": "solo",
+          "bars": 16
+        },
+        {
+          "start": 125.342,
+          "end": 157.716,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 157.716,
+          "end": 190.216,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 190.216,
+          "end": 222.572,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 222.572,
+          "end": 239.096,
+          "label": "fadeout",
+          "letter": "A",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

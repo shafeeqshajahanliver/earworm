@@ -1,0 +1,41 @@
+{
+  "id": "2019-sucker",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3629810,
+  "lines": 46,
+  "words": 380,
+  "unique_words": 83,
+  "type_token_ratio": 0.218,
+  "repeated_line_share": 0.543,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.218,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "sucker",
+  "title_phrase_occurrences": 14,
+  "pronouns": {
+    "first_singular": 43,
+    "second": 49,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.25,
+  "last_line_s": 176.92,
+  "sung_time_s": 168.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 135.3,
+  "words_per_minute_track": 125.9,
+  "longest_gap_between_lines_s": 7.84,
+  "longest_gap_starts_at_s": 113.57,
+  "first_repeated_block": {
+    "first_at_s": 14.11,
+    "recurs_at_s": 73.37,
+    "lines": [
+      "I've been dancing on top of cars and stumbling out of bars",
+      "I follow you through the dark, can't get enough"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3629810",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

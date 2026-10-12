@@ -1,0 +1,72 @@
+{
+  "id": "2014-stay-with-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 77834704,
+    "matched_by": "isrc",
+    "isrc": "GBUM71308833",
+    "title": "Stay With Me",
+    "artist": "Sam Smith",
+    "album": "Stay With Me",
+    "track_duration_s": 172,
+    "link": "https://www.deezer.com/track/77834704",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 85.5,
+    "tempo_bpm_grid": 85.4,
+    "tempo_candidates_bpm": [
+      86.1,
+      42.4,
+      161.5
+    ],
+    "beats_detected": 44,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.822,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.65,
+    "chroma_profile": [
+      1.0,
+      0.406,
+      0.452,
+      0.468,
+      0.504,
+      0.601,
+      0.508,
+      0.509,
+      0.374,
+      0.585,
+      0.29,
+      0.425
+    ],
+    "rms_dbfs": -7.08,
+    "rms_dbfs_p95_frame": -4.33,
+    "peak_dbfs": 0.77,
+    "loudness_lufs_approx": -8.78,
+    "spectral_centroid_hz_mean": 1150.3,
+    "spectral_centroid_hz_median": 1022.2,
+    "onsets": 77,
+    "onset_density_per_s": 2.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 77834704",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 84.89,
+    "gain": -7.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/77834704",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBUM71401517: version: Stay with Me (Darkchild Version)"
+  ]
+}

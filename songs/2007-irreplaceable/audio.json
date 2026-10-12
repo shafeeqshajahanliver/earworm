@@ -1,0 +1,72 @@
+{
+  "id": "2007-irreplaceable",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2169153,
+    "matched_by": "isrc",
+    "isrc": "USSM10603620",
+    "title": "Irreplaceable",
+    "artist": "Beyoncé",
+    "album": "B'Day",
+    "track_duration_s": 227,
+    "link": "https://www.deezer.com/track/2169153",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.6,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      117.5,
+      172.3,
+      43.8
+    ],
+    "beats_detected": 62,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.621,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.575,
+    "chroma_profile": [
+      0.698,
+      0.436,
+      0.413,
+      0.643,
+      0.374,
+      0.624,
+      0.418,
+      1.0,
+      0.85,
+      0.64,
+      0.697,
+      0.439
+    ],
+    "rms_dbfs": -8.62,
+    "rms_dbfs_p95_frame": -3.77,
+    "peak_dbfs": 2.52,
+    "loudness_lufs_approx": -9.28,
+    "spectral_centroid_hz_mean": 3284.0,
+    "spectral_centroid_hz_median": 3165.5,
+    "onsets": 118,
+    "onset_density_per_s": 3.935,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2169153",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 88,
+    "gain": -8.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2169153",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (88.0) by 42%"
+  ],
+  "rejected_candidates": []
+}

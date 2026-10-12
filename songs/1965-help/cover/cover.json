@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3e953cf0-3b12-32e5-a9aa-d46c067bb567",
+      "release_title": "Help!",
+      "release_date": "1965",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/0a5c6fda-9c42-4cdd-827d-e43896e87d9b/21968704014-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0a5c6fda-9c42-4cdd-827d-e43896e87d9b",
+      "image_id": 21968704014,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        798,
+        792
+      ],
+      "measures": {
+        "brightness": 0.186,
+        "saturation": 0.118,
+        "dark_share": 0.792,
+        "palette": [
+          {
+            "hex": "#2b262b",
+            "share": 0.403
+          },
+          {
+            "hex": "#121011",
+            "share": 0.24
+          },
+          {
+            "hex": "#322d32",
+            "share": 0.153
+          },
+          {
+            "hex": "#242024",
+            "share": 0.11
+          },
+          {
+            "hex": "#6c686e",
+            "share": 0.094
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0d44e1cb-c6e0-3453-8b68-4d2082f05421",
+      "release_title": "Help!",
+      "release_date": "1965-08-06",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Help!",
+      "url": "http://coverartarchive.org/release/40825ca0-0568-3de0-bbe7-d5e07ed9a191/4924232519-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/40825ca0-0568-3de0-bbe7-d5e07ed9a191",
+      "image_id": 4924232519,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.916,
+        "saturation": 0.122,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.752
+          },
+          {
+            "hex": "#0f4b73",
+            "share": 0.136
+          },
+          {
+            "hex": "#b4c3cc",
+            "share": 0.055
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.05
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.008
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/56/b7/1956b7b5-dc9d-fe0d-3357-701ed3730603/13UMGIM63886.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Help! (Remastered 2009)",
+      "collection_id": 6818180566,
+      "track_id": 6818180595,
+      "artist_name": "The Beatles",
+      "release_date": "1965-07-19T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.918,
+        "saturation": 0.121,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.761
+          },
+          {
+            "hex": "#114b73",
+            "share": 0.137
+          },
+          {
+            "hex": "#b1c2cd",
+            "share": 0.052
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.046
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.004
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

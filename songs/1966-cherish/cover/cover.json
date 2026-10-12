@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "67325fe5-b657-4616-928a-296481ddcb5c",
+      "release_title": "Cherish",
+      "release_date": "1966-08",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "beb35a57-ab3b-3ff8-ac2e-f2dc4600fd3e",
+      "release_title": "And Then… Along Comes the Association",
+      "release_date": "2011-05-03",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: And Then... Along Comes the Association",
+      "url": "http://coverartarchive.org/release/b98de64e-5d1c-4dac-b657-db716073f2c0/10192386959-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b98de64e-5d1c-4dac-b657-db716073f2c0",
+      "image_id": "10192386959",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        227,
+        222
+      ],
+      "measures": {
+        "brightness": 0.267,
+        "saturation": 0.702,
+        "dark_share": 0.371,
+        "palette": [
+          {
+            "hex": "#28310c",
+            "share": 0.261
+          },
+          {
+            "hex": "#354410",
+            "share": 0.254
+          },
+          {
+            "hex": "#161908",
+            "share": 0.236
+          },
+          {
+            "hex": "#425a18",
+            "share": 0.164
+          },
+          {
+            "hex": "#8ca465",
+            "share": 0.084
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/20/fe/3e20fea9-7c27-ae6c-9907-239b30c1c560/603497867608.jpg/1200x1200bb.jpg",
+      "collection": "And Then... Along Comes The Association (Remastered)",
+      "collection_id": 1232668050,
+      "track_id": 1232668097,
+      "artist_name": "The Association",
+      "release_date": "1966-07-19T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.422,
+        "saturation": 0.272,
+        "dark_share": 0.009,
+        "palette": [
+          {
+            "hex": "#4d6249",
+            "share": 0.274
+          },
+          {
+            "hex": "#576d4e",
+            "share": 0.257
+          },
+          {
+            "hex": "#5e7653",
+            "share": 0.205
+          },
+          {
+            "hex": "#3d4e3d",
+            "share": 0.197
+          },
+          {
+            "hex": "#8da57e",
+            "share": 0.067
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

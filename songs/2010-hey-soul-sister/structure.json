@@ -1,0 +1,89 @@
+{
+  "id": "2010-hey-soul-sister",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0717_heysoulsister",
+      "match": {
+        "title": "Hey, Soul Sister",
+        "artist": "Train",
+        "release": "Now That's What I Call Music! 33",
+        "musicbrainz_id": "f939409f-c292-4a8f-ad18-3d8d4cc07376",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0717_heysoulsister.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0717_heysoulsister.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 214.159,
+      "bpm": 97.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.602,
+          "end": 11.702,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 11.702,
+          "end": 51.29,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 51.29,
+          "end": 80.981,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 80.981,
+          "end": 120.568,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 120.568,
+          "end": 140.362,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 140.362,
+          "end": 160.156,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 160.156,
+          "end": 189.847,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 189.847,
+          "end": 209.641,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

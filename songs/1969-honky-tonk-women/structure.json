@@ -1,0 +1,324 @@
+{
+  "id": "1969-honky-tonk-women",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "229",
+      "also_ids": [
+        "1266"
+      ],
+      "match": {
+        "title": "Honky Tonk Women",
+        "artist": "The Rolling Stones",
+        "chart_date": "1969-07-19",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 229 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 182.282,
+      "version_check": "duration within 12 s (-1.7 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.424,
+          "end": 17.69,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 17.69,
+          "end": 50.669,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 50.669,
+          "end": 66.62,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 66.62,
+          "end": 98.49,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 98.49,
+          "end": 114.189,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 114.189,
+          "end": 145.256,
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "bars": 16
+        },
+        {
+          "start": 145.256,
+          "end": 160.718,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 160.718,
+          "end": 179.119,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "honky_tonk_women_dt",
+      "match": {
+        "title": "Honky Tonk Women",
+        "artist": "The Rolling Stones",
+        "year": "1969",
+        "rs500_rank": "116",
+        "audio_used": {
+          "artist": "The Rolling Stones",
+          "album": "Through the Past, Darkly (Big Hits Vol. 2)",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, honky_tonk_women_dt.har/.clt + honky_tonk_women.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 176 s; our recording 184 s; audio taken from compilation 'Through the Past, Darkly (Big Hits Vol. 2)'",
+      "parse_check": "expanded 88 bars; timed chord list ends in bar 86",
+      "sections": [
+        {
+          "start": 0.39,
+          "end": 17.573,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 17.573,
+          "end": 50.563,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 16
+        },
+        {
+          "start": 50.563,
+          "end": 66.508,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 66.508,
+          "end": 98.365,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 32,
+          "bars": 16
+        },
+        {
+          "start": 98.365,
+          "end": 114.039,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 114.039,
+          "end": 145.144,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 56,
+          "bars": 16
+        },
+        {
+          "start": 145.144,
+          "end": 160.601,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 72,
+          "bars": 8
+        },
+        {
+          "start": 160.601,
+          "end": 175.976,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 80,
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "honky_tonk_women_tdc",
+      "match": {
+        "title": "Honky Tonk Women",
+        "artist": "The Rolling Stones",
+        "year": "1969",
+        "rs500_rank": "116",
+        "audio_used": {
+          "artist": "The Rolling Stones",
+          "album": "Through the Past, Darkly (Big Hits Vol. 2)",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, honky_tonk_women_tdc.har/.clt + honky_tonk_women.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 176 s; our recording 184 s; audio taken from compilation 'Through the Past, Darkly (Big Hits Vol. 2)'",
+      "parse_check": "expanded 88 bars; timed chord list ends in bar 86",
+      "sections": [
+        {
+          "start": 0.39,
+          "end": 17.573,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 17.573,
+          "end": 50.563,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 16
+        },
+        {
+          "start": 50.563,
+          "end": 66.508,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 66.508,
+          "end": 98.365,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 32,
+          "bars": 16
+        },
+        {
+          "start": 98.365,
+          "end": 114.039,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 114.039,
+          "end": 145.144,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 56,
+          "bars": 16
+        },
+        {
+          "start": 145.144,
+          "end": 160.601,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 72,
+          "bars": 8
+        },
+        {
+          "start": 160.601,
+          "end": 175.976,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 80,
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "mcgill_billboard": "intro verse chorus verse chorus solo chorus",
+      "rolling_stone_dt": "intro verse chorus verse chorus verse chorus",
+      "rolling_stone_tdc": "intro verse chorus verse chorus verse chorus"
+    },
+    "section_order": [
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_dt",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.86
+      },
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.86
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "mcgill_billboard": "no",
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

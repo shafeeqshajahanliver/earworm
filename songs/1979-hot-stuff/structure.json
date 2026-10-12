@@ -1,0 +1,458 @@
+{
+  "id": "1979-hot-stuff",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0130_hotstuff",
+      "match": {
+        "title": "Hot Stuff",
+        "artist": "Donna Summer",
+        "release": "Disco Divas, 20 Dance Classics",
+        "musicbrainz_id": "0160e225-e9e4-445e-a0ad-938f4f6c9e36",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0130_hotstuff.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0130_hotstuff.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 144.483,
+      "bpm": 120.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -85 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.069,
+          "end": 18.03,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 18.03,
+          "end": 33.978,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 33.978,
+          "end": 48.931,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 48.931,
+          "end": 65.871,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 65.871,
+          "end": 81.802,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 81.802,
+          "end": 97.739,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 97.739,
+          "end": 112.687,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 112.687,
+          "end": 129.649,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 129.649,
+          "end": 141.606,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 6
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 144 s vs 229 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "hot_stuff_dt",
+      "match": {
+        "title": "Hot Stuff",
+        "artist": "Donna Summer",
+        "year": "1979",
+        "rs500_rank": "103",
+        "audio_used": {
+          "artist": "Donna Summer",
+          "album": "Casablanca Greatest Hits",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, hot_stuff_dt.har/.clt + hot_stuff.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 315 s; our recording 229 s; audio taken from compilation 'Casablanca Greatest Hits'",
+      "parse_check": "expanded 158 bars; timed chord list ends in bar 156",
+      "version_note": "annotated audio runs to 315 s vs 229 s for our recording (Casablanca Greatest Hits): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.438,
+          "end": 32.348,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 16
+        },
+        {
+          "start": 32.348,
+          "end": 48.283,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 8
+        },
+        {
+          "start": 48.283,
+          "end": 80.169,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 16
+        },
+        {
+          "start": 80.169,
+          "end": 96.113,
+          "label": "Li",
+          "normalised": "other",
+          "first_bar": 40,
+          "bars": 8
+        },
+        {
+          "start": 96.113,
+          "end": 112.034,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 112.034,
+          "end": 143.927,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 16
+        },
+        {
+          "start": 143.927,
+          "end": 191.725,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 72,
+          "bars": 24
+        },
+        {
+          "start": 191.725,
+          "end": 223.582,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 96,
+          "bars": 16
+        },
+        {
+          "start": 223.582,
+          "end": 239.541,
+          "label": "Li",
+          "normalised": "other",
+          "first_bar": 112,
+          "bars": 8
+        },
+        {
+          "start": 239.541,
+          "end": 255.438,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 120,
+          "bars": 8
+        },
+        {
+          "start": 255.438,
+          "end": 275.404,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 128,
+          "bars": 10
+        },
+        {
+          "start": 275.404,
+          "end": 315.279,
+          "label": "Coda",
+          "normalised": "outro",
+          "first_bar": 138,
+          "bars": 20
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "hot_stuff_tdc",
+      "match": {
+        "title": "Hot Stuff",
+        "artist": "Donna Summer",
+        "year": "1979",
+        "rs500_rank": "103",
+        "audio_used": {
+          "artist": "Donna Summer",
+          "album": "Casablanca Greatest Hits",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, hot_stuff_tdc.har/.clt + hot_stuff.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 315 s; our recording 229 s; audio taken from compilation 'Casablanca Greatest Hits'",
+      "parse_check": "expanded 158 bars; timed chord list ends in bar 156",
+      "version_note": "annotated audio runs to 315 s vs 229 s for our recording (Casablanca Greatest Hits): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.438,
+          "end": 16.399,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 16.399,
+          "end": 32.348,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 8,
+          "bars": 8
+        },
+        {
+          "start": 32.348,
+          "end": 48.283,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 16,
+          "bars": 8
+        },
+        {
+          "start": 48.283,
+          "end": 64.242,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 64.242,
+          "end": 80.169,
+          "label": "Tg",
+          "normalised": "other",
+          "first_bar": 32,
+          "bars": 8
+        },
+        {
+          "start": 80.169,
+          "end": 96.113,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 40,
+          "bars": 8
+        },
+        {
+          "start": 96.113,
+          "end": 112.034,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 48,
+          "bars": 8
+        },
+        {
+          "start": 112.034,
+          "end": 128.014,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 56,
+          "bars": 8
+        },
+        {
+          "start": 128.014,
+          "end": 143.927,
+          "label": "Tg",
+          "normalised": "other",
+          "first_bar": 64,
+          "bars": 8
+        },
+        {
+          "start": 143.927,
+          "end": 175.778,
+          "label": "So",
+          "normalised": "solo",
+          "first_bar": 72,
+          "bars": 16
+        },
+        {
+          "start": 175.778,
+          "end": 191.725,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 88,
+          "bars": 8
+        },
+        {
+          "start": 191.725,
+          "end": 207.686,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 96,
+          "bars": 8
+        },
+        {
+          "start": 207.686,
+          "end": 223.582,
+          "label": "Tg",
+          "normalised": "other",
+          "first_bar": 104,
+          "bars": 8
+        },
+        {
+          "start": 223.582,
+          "end": 239.541,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 112,
+          "bars": 8
+        },
+        {
+          "start": 239.541,
+          "end": 255.438,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 120,
+          "bars": 8
+        },
+        {
+          "start": 255.438,
+          "end": 271.445,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 128,
+          "bars": 8
+        },
+        {
+          "start": 271.445,
+          "end": 275.404,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 136,
+          "bars": 2
+        },
+        {
+          "start": 275.404,
+          "end": 291.34,
+          "label": "B",
+          "normalised": "other",
+          "first_bar": 138,
+          "bars": 8
+        },
+        {
+          "start": 291.34,
+          "end": 307.281,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 146,
+          "bars": 8
+        },
+        {
+          "start": 307.281,
+          "end": 315.279,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 154,
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro instrumental verse chorus instrumental verse chorus",
+      "rolling_stone_dt": "intro verse chorus verse chorus bridge chorus verse chorus outro",
+      "rolling_stone_tdc": "verse chorus verse chorus solo chorus verse chorus"
+    },
+    "section_order": [
+      {
+        "a": "harmonix",
+        "b": "rolling_stone_dt",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.5
+      },
+      {
+        "a": "harmonix",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.5
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.7
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "harmonix": "unknown",
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "disputed",
+    "notes": [
+      "harmonix: annotated audio is 144 s vs 229 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "rolling_stone_dt: annotated audio runs to 315 s vs 229 s for our recording (Casablanca Greatest Hits): a different version; section times do not line up with the charting recording",
+      "rolling_stone_tdc: annotated audio runs to 315 s vs 229 s for our recording (Casablanca Greatest Hits): a different version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

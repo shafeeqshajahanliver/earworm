@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 19372567,
+  "kind": "synced",
+  "matched": {
+    "track": "Meant To Be",
+    "artist": "Bebe Rexha Feat. Florida Georgia Line",
+    "album": "538 Hitzone 86 (2018) [CD1]",
+    "duration_s": 164.571429
+  },
+  "duration_matched_to": "musicbrainz recording length (165s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 164.533,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 163.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 163.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 42,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 19987531 (Meant To Be / Bebe Rexha feat. Florida Georgia Line / HT Select Mix Quick Trax Vol. 10 (DD), 193.4106119s): duration matches no reference length",
+    "lrclib 20205399 (Meant To Be / Bebe Rexha feat. Florida Georgia Line / U Vol. 248, 296.228571s): duration matches no reference length",
+    "lrclib 20405910 (Meant To Be / Bebe Rexha feat. Florida Georgia Line / Full Tilt Remix Vol. 77, 215.562449s): live/remix/other version",
+    "lrclib 22280641 (Meant To Be / Bebe Rexha Feat. Florida Georgia Line / MF Mastermix DJ Beats Chart Volume 55, 209.9493249s): duration matches no reference length",
+    "lrclib 37214494 (Meant to Be / Bebe Rexha / All Your Fault, Pt. 2, 170.0s): duration matches no reference length",
+    "lrclib 33374762 (Meant to Be / Bebe Rexha / Now That’s What I Call Music! 100, 197.0s): duration matches no reference length",
+    "lrclib 35866818 (Meant to Be / Bebe Rexha / Meant to Be (acoustic), 163.0s): live/remix/other version",
+    "lrclib 36786821 (Meant to Be / Bebe Rexha / Acoustic Throwback, 158.0s): live/remix/other version",
+    "lrclib 25516268 (Meant to Be (acoustic) / Bebe Rexha / Bebe Rexha - Singles, 163.918367s): live/remix/other version",
+    "lrclib 5815516 (Meant to Be (Acoustic) / Bebe Rexha / Meant to Be, 158.0s): live/remix/other version",
+    "lrclib 8085165 (Meant to Be (feat. Florida Georgia Line) / Bebe Rexha / Bebe Rexha, 178.0s): duration matches no reference length",
+    "lrclib 31414910 (Meant to Be / Bebe Rexha / Meant to Be (Acoustic) - Single, 158.0s): live/remix/other version",
+    "lrclib 18326515 (Meant to Be (acoustic) / Bebe Rexha / Meant to Be (acoustic), 163.918367s): live/remix/other version",
+    "lrclib 2210387 (Meant to Be (acoustic) / Bebe Rexha / Meant to Be (acoustic), 158.0s): live/remix/other version",
+    "lrclib 7889610 (Meant to Be (feat. Florida Georgia Line) / Bebe Rexha / Bebe Rexha Songs, 178.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

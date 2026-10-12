@@ -1,0 +1,58 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2f6d5019-47f5-445b-bd05-e9f8b521589f",
+      "release_title": "Personality / Have You Ever Had the Blues",
+      "release_date": "1959",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "Cover Art Archive error: <urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/bc/ee/cebcee9d-aac8-1fe7-c1ce-396891f74d8f/22UMGIM86993.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Mr. Personality",
+      "collection_id": 1640762247,
+      "track_id": 1640762254,
+      "artist_name": "Lloyd Price",
+      "release_date": "1959-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.463,
+        "saturation": 0.343,
+        "dark_share": 0.307,
+        "palette": [
+          {
+            "hex": "#edd9c2",
+            "share": 0.258
+          },
+          {
+            "hex": "#181218",
+            "share": 0.252
+          },
+          {
+            "hex": "#312126",
+            "share": 0.22
+          },
+          {
+            "hex": "#722a2a",
+            "share": 0.139
+          },
+          {
+            "hex": "#7d5142",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

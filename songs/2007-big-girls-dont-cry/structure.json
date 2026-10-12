@@ -1,0 +1,97 @@
+{
+  "id": "2007-big-girls-dont-cry",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0591_biggirlsdontcry",
+      "match": {
+        "title": "Big Girls Don't Cry (Personal)",
+        "artist": "Fergie",
+        "release": "Now That's What I Call Music! 26",
+        "musicbrainz_id": "fde39e80-92dc-4244-a8a6-32567fec0ccc",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0591_biggirlsdontcry.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0591_biggirlsdontcry.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 254.553,
+      "bpm": 113.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -14 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.353,
+          "end": 8.841,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 8.841,
+          "end": 44.915,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 17
+        },
+        {
+          "start": 44.915,
+          "end": 78.868,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 78.868,
+          "end": 87.356,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 87.356,
+          "end": 121.308,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 121.308,
+          "end": 155.26,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 155.26,
+          "end": 210.433,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 26
+        },
+        {
+          "start": 210.433,
+          "end": 244.385,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 244.385,
+          "end": 250.751,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 3
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 255 s vs 269 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

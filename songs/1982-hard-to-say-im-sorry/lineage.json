@@ -1,0 +1,61 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/65523",
+    "title": "Hard to Say I'm Sorry",
+    "performer": "Chicago",
+    "is_original": true,
+    "first_release_date": "1982-05",
+    "releases": [
+      {
+        "title": "Hard to Say I'm Sorry",
+        "uri": "https://api.secondhandsongs.com/release/26267",
+        "performer": "Chicago"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 75,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/65523",
+    "title": "Hard to Say I'm Sorry",
+    "language": "English",
+    "writers": [
+      "Peter Cetera",
+      "David Foster [CA]"
+    ],
+    "original_performer": "Chicago",
+    "versions": 76,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Es sagt sich nicht so leicht, verzeih' mir",
+        "uri": "https://api.secondhandsongs.com/work/140871"
+      },
+      {
+        "title": "Černý páv",
+        "uri": "https://api.secondhandsongs.com/work/176318"
+      },
+      {
+        "title": "Óh, hol jársz",
+        "uri": "https://api.secondhandsongs.com/work/222972"
+      },
+      {
+        "title": "Vzkaz",
+        "uri": "https://api.secondhandsongs.com/work/287584"
+      },
+      {
+        "title": "難以再說對不起",
+        "uri": "https://api.secondhandsongs.com/work/302482"
+      },
+      {
+        "title": "素直になれなくて",
+        "uri": "https://api.secondhandsongs.com/work/316840"
+      }
+    ]
+  }
+}

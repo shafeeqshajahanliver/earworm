@@ -1,0 +1,41 @@
+{
+  "id": "2013-blurred-lines",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3727161,
+  "lines": 114,
+  "words": 777,
+  "unique_words": 205,
+  "type_token_ratio": 0.264,
+  "repeated_line_share": 0.263,
+  "distinct_lines": 84,
+  "zlib_compression_ratio": 0.308,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "blurred lines",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 59,
+    "second": 65,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.62,
+  "last_line_s": 253.68,
+  "sung_time_s": 247.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 188.2,
+  "words_per_minute_track": 177.3,
+  "longest_gap_between_lines_s": 7.55,
+  "longest_gap_starts_at_s": 1.62,
+  "first_repeated_block": {
+    "first_at_s": 34.23,
+    "recurs_at_s": 98.91,
+    "lines": [
+      "Okay, now he was close",
+      "Tried to domesticate you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3727161",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "2010-omg",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0843_omgalmighty",
+      "match": {
+        "title": "OMG (Almighty mix)",
+        "artist": "Usher feat. will.i.am",
+        "release": "OMG - The Remixes",
+        "musicbrainz_id": "ea6a52bb-9326-4d63-85c2-206eb94b4367",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0843_omgalmighty.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0843_omgalmighty.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 358.636,
+      "bpm": 130.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +90 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.044,
+          "end": 29.583,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 16
+        },
+        {
+          "start": 29.583,
+          "end": 44.352,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 44.352,
+          "end": 59.121,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 59.121,
+          "end": 72.967,
+          "label": "breakdown",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 72.967,
+          "end": 88.659,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 88.659,
+          "end": 103.429,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 103.429,
+          "end": 118.198,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 118.198,
+          "end": 147.736,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 147.736,
+          "end": 161.582,
+          "label": "break2",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 161.582,
+          "end": 177.275,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 177.275,
+          "end": 192.044,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 192.044,
+          "end": 206.813,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 206.813,
+          "end": 221.582,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 221.582,
+          "end": 236.352,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 236.352,
+          "end": 250.198,
+          "label": "break2",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 250.198,
+          "end": 265.89,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 265.89,
+          "end": 282.505,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 282.505,
+          "end": 312.044,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 312.044,
+          "end": 356.351,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 24
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 359 s vs 269 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

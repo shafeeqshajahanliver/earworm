@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1207689,
+  "kind": "synced",
+  "matched": {
+    "track": "Mood",
+    "artist": "24kGoldn feat. iann dior",
+    "album": "El Dorado",
+    "duration_s": 141.0
+  },
+  "duration_matched_to": "musicbrainz recording length (141s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 140.878,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 140.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 140.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33897551 (Mood / 24kGoldn featuring Iann Dior / YouTube Search - 24kGoldn featuring Iann Dior Mood, 150.0s): duration matches no reference length",
+    "lrclib 36863920 (Mood / 24kGoldn feat. iann dior / El Dorado, 197.0s): duration matches no reference length",
+    "lrclib 20410759 (Mood / 24kGoldn feat. Iann Dior / Full Tilt Remix Vol. 93, 216.42449s): live/remix/other version",
+    "lrclib 20558959 (Mood / 24kGoldn feat. iann-dior / HT Select Mix Quick Trax Vol. 19 (DD), 148.192653s): duration matches no reference length",
+    "lrclib 21802359 (Mood / 24kGoldn feat. iann-dior / HT Select Mix Select Essentials 181 (DD), 190.275918s): duration matches no reference length",
+    "lrclib 35306518 (Mood / 24kGoldn / Mood (Lil Ghost Remix) [Explicit], 197.0s): live/remix/other version",
+    "lrclib 36613589 (Mood / 24kGoldn / El Dorado, 130.0s): duration matches no reference length",
+    "lrclib 34248351 (Mood / 24kGoldn / Mood (Remix), 193.0s): live/remix/other version",
+    "lrclib 34168987 (Mood / 24kgoldn / Mood (Lil Ghost Remix), 197.0s): live/remix/other version",
+    "lrclib 24788900 (Mood / 24kGoldn / Now That’s What I Call Music! 107, 150.772875s): duration matches no reference length",
+    "lrclib 9271954 (Mood / 24kGoldn / Mood (Official), 150.0s): duration matches no reference length",
+    "lrclib 6710554 (Mood (Official Video) / 24kGoldn / 24kGoldn, 150.0s): duration matches no reference length",
+    "lrclib 34034392 (Mood (Live) (feat. iann dior) / 24kGoldn / 24kGoldn, 141.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1973-youre-so-vain",
+  "lyrics_kind": "synced",
+  "lrclib_id": 22042722,
+  "lines": 45,
+  "words": 335,
+  "unique_words": 111,
+  "type_token_ratio": 0.331,
+  "repeated_line_share": 0.4,
+  "distinct_lines": 27,
+  "zlib_compression_ratio": 0.306,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "you're so vain",
+  "title_phrase_occurrences": 14,
+  "pronouns": {
+    "first_singular": 14,
+    "second": 65,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.3,
+  "last_line_s": 249.76,
+  "sung_time_s": 202.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 99.5,
+  "words_per_minute_track": 77.8,
+  "longest_gap_between_lines_s": 29.37,
+  "longest_gap_starts_at_s": 117.61,
+  "first_repeated_block": {
+    "first_at_s": 52.42,
+    "recurs_at_s": 103.74,
+    "lines": [
+      "You're so vain",
+      "You probably think this song is about you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 22042722",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

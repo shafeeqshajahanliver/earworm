@@ -1,6 +1,6 @@
 {
   "id": "2004-yeah",
-  "updated": "2026-10-06",
+  "updated": "2026-10-12",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -17,7 +17,7 @@
       "source": "Harmonix Set, dataset/segments/0323_yeah.txt (Nieto et al. 2019)",
       "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0323_yeah.txt",
       "licence": "MIT licence (repository LICENSE); annotations only, no audio",
-      "retrieved": "2026-10-06",
+      "retrieved": "2026-10-12",
       "confidence": "expert",
       "annotated_duration": 135.045,
       "bpm": 104.0,

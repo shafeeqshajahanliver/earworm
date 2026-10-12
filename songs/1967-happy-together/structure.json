@@ -1,0 +1,111 @@
+{
+  "id": "1967-happy-together",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1290",
+      "also_ids": [],
+      "match": {
+        "title": "Happy Together",
+        "artist": "The Turtles",
+        "chart_date": "1967-04-22",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1290 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 174.864,
+      "version_check": "duration within 12 s (+0.0 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.441,
+          "end": 8.764,
+          "label": "intro",
+          "letter": "A'",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 8.764,
+          "end": 24.55,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 24.55,
+          "end": 40.325,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 40.325,
+          "end": 56.115,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 56.115,
+          "end": 72.156,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 72.156,
+          "end": 88.015,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 88.015,
+          "end": 104.214,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 104.214,
+          "end": 122.173,
+          "label": "interlude",
+          "letter": "B",
+          "normalised": "instrumental",
+          "bars": 9
+        },
+        {
+          "start": 122.173,
+          "end": 138.487,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 138.487,
+          "end": 172.455,
+          "label": "outro",
+          "letter": "A'",
+          "normalised": "outro",
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

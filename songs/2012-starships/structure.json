@@ -1,0 +1,111 @@
+{
+  "id": "2012-starships",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0261_starships",
+      "match": {
+        "title": "Starships",
+        "artist": "Nicki Minaj",
+        "release": "Pink Friday: Roman Reloaded",
+        "musicbrainz_id": "01c18059-51b5-3f5a-b555-24c22e980369",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0261_starships.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0261_starships.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 163.412,
+      "bpm": 125.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -81 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 7.192,
+          "end": 22.552,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 22.552,
+          "end": 38.392,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 38.392,
+          "end": 53.752,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 53.752,
+          "end": 69.112,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 69.112,
+          "end": 84.472,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 84.472,
+          "end": 98.872,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 98.872,
+          "end": 107.512,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 4
+        },
+        {
+          "start": 107.512,
+          "end": 115.192,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 115.192,
+          "end": 130.552,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 130.552,
+          "end": 145.912,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 145.912,
+          "end": 161.272,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 8
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 163 s vs 244 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

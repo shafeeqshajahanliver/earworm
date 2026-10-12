@@ -1,0 +1,119 @@
+{
+  "id": "1973-my-love",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1163",
+      "also_ids": [],
+      "match": {
+        "title": "My Love",
+        "artist": "Paul McCartney",
+        "chart_date": "1973-04-14",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1163 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 247.771,
+      "version_check": "duration within 12 s (-0.9 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.534,
+          "end": 6.13,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 1
+        },
+        {
+          "start": 6.13,
+          "end": 33.692,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 7
+        },
+        {
+          "start": 33.692,
+          "end": 49.621,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 49.621,
+          "end": 77.628,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 7
+        },
+        {
+          "start": 77.628,
+          "end": 93.832,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 93.832,
+          "end": 126.131,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 126.131,
+          "end": 153.693,
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "bars": 7
+        },
+        {
+          "start": 153.693,
+          "end": 169.854,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 169.854,
+          "end": 197.579,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 7
+        },
+        {
+          "start": 197.579,
+          "end": 213.74,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 213.74,
+          "end": 245.899,
+          "label": "coda",
+          "letter": "D'",
+          "normalised": "outro",
+          "bars": 7
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "1983-maniac",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "553",
+      "also_ids": [],
+      "match": {
+        "title": "Maniac",
+        "artist": "Michael Sembello",
+        "chart_date": "1983-06-25",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 553 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 252.682,
+      "version_check": "duration within 12 s (+8.7 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.319,
+          "end": 12.699,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 12.699,
+          "end": 24.895,
+          "label": "intro",
+          "letter": "B",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 24.895,
+          "end": 49.272,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 49.272,
+          "end": 61.528,
+          "label": "pre-chorus",
+          "letter": "D",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 61.528,
+          "end": 88.991,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 18
+        },
+        {
+          "start": 88.991,
+          "end": 113.48,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 113.48,
+          "end": 125.646,
+          "label": "pre-chorus",
+          "letter": "D",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 125.646,
+          "end": 150.147,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 150.147,
+          "end": 174.614,
+          "label": "interlude",
+          "letter": "E",
+          "normalised": "instrumental",
+          "bars": 20
+        },
+        {
+          "start": 174.614,
+          "end": 199.064,
+          "label": "solo",
+          "letter": "C",
+          "normalised": "solo",
+          "bars": 16
+        },
+        {
+          "start": 199.064,
+          "end": 211.355,
+          "label": "pre-chorus",
+          "letter": "D",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 211.355,
+          "end": 235.725,
+          "label": "outro",
+          "letter": "B",
+          "normalised": "outro",
+          "bars": 16
+        },
+        {
+          "start": 235.725,
+          "end": 250.193,
+          "label": "outro",
+          "letter": "B",
+          "normalised": "outro",
+          "bars": 12
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

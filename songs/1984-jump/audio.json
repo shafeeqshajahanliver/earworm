@@ -1,0 +1,70 @@
+{
+  "id": "1984-jump",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3819057,
+    "matched_by": "isrc",
+    "isrc": "USWB10808443",
+    "title": "Jump (45 Version)",
+    "artist": "Van Halen",
+    "album": "Jump / House of Pain (Digital 45)",
+    "track_duration_s": 243,
+    "link": "https://www.deezer.com/track/3819057",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 128.7,
+    "tempo_bpm_grid": 129.2,
+    "tempo_candidates_bpm": [
+      129.2,
+      86.1,
+      64.6
+    ],
+    "beats_detected": 65,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.876,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.774,
+    "chroma_profile": [
+      0.901,
+      0.474,
+      0.675,
+      0.513,
+      0.675,
+      0.662,
+      0.533,
+      1.0,
+      0.634,
+      0.747,
+      0.535,
+      0.682
+    ],
+    "rms_dbfs": -18.17,
+    "rms_dbfs_p95_frame": -15.17,
+    "peak_dbfs": -3.55,
+    "loudness_lufs_approx": -16.94,
+    "spectral_centroid_hz_mean": 3308.1,
+    "spectral_centroid_hz_median": 3242.2,
+    "onsets": 85,
+    "onset_density_per_s": 2.834,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3819057",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 130,
+    "gain": -17.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3819057",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

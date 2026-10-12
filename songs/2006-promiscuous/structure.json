@@ -1,0 +1,76 @@
+{
+  "id": "2006-promiscuous",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0220_promiscuous",
+      "match": {
+        "title": "Promiscuous",
+        "artist": "Nelly Furtado",
+        "release": "Loose",
+        "musicbrainz_id": "0361dc7f-571b-4519-9e90-f28d648e3684",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0220_promiscuous.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0220_promiscuous.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 161.87,
+      "bpm": 114.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -189 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.1,
+          "end": 6.299,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 2
+        },
+        {
+          "start": 6.299,
+          "end": 39.887,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 39.887,
+          "end": 73.482,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 73.482,
+          "end": 107.087,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 107.087,
+          "end": 140.674,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 140.674,
+          "end": 157.467,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 162 s vs 351 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

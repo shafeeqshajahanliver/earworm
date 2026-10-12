@@ -1,0 +1,83 @@
+{
+  "id": "1972-american-pie",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3156285,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USEM38600088",
+    "title": "American Pie",
+    "artist": "Don McLean",
+    "album": "American Pie (Expanded Edition)",
+    "track_duration_s": 517,
+    "link": "https://www.deezer.com/track/3156285",
+    "duration_matched_to": "wikipedia infobox length (522s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 100.3,
+    "tempo_bpm_grid": 99.4,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      215.3
+    ],
+    "beats_detected": 49,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.911,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.746,
+    "chroma_profile": [
+      0.678,
+      0.399,
+      0.967,
+      0.323,
+      0.49,
+      0.338,
+      0.544,
+      1.0,
+      0.409,
+      0.646,
+      0.517,
+      0.987
+    ],
+    "rms_dbfs": -24.13,
+    "rms_dbfs_p95_frame": -18.86,
+    "peak_dbfs": -4.93,
+    "loudness_lufs_approx": -22.78,
+    "spectral_centroid_hz_mean": 2524.3,
+    "spectral_centroid_hz_median": 2275.0,
+    "onsets": 78,
+    "onset_density_per_s": 2.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3156285",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 138.7,
+    "gain": -12.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3156285",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (138.7) by 28%"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USEM39000209: matched but no preview available (readable=False)",
+    "deezer isrc USEM39500088: matched but no preview available (readable=False)",
+    "deezer 1794277377: version (American Pie (L'Tric Remix))",
+    "deezer 1114794832: version (American Pie (Live))",
+    "deezer 943724282: version (American Pie (Live))",
+    "deezer 75782129: version (American Pie (Extended Version))",
+    "deezer 1877577477: version (American Pie (Live/1973))",
+    "deezer 58492461: version (American Pie (Live))",
+    "deezer 3483086581: version (American Pie (Live))"
+  ]
+}

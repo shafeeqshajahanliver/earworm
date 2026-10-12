@@ -1,0 +1,59 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/3964",
+    "title": "Under the Bridge",
+    "performer": "Red Hot Chili Peppers",
+    "is_original": true,
+    "first_release_date": "1991-09-24",
+    "releases": [
+      {
+        "title": "Blood Sugar Sex Magik",
+        "uri": "https://api.secondhandsongs.com/release/2144",
+        "performer": "Red Hot Chili Peppers"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 93,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/3964",
+    "title": "Under the Bridge",
+    "language": "English",
+    "writers": [
+      "Flea",
+      "John Frusciante",
+      "Anthony Kiedis",
+      "Chad Smith"
+    ],
+    "original_performer": "Red Hot Chili Peppers",
+    "versions": 94,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Humpan alla",
+        "uri": "https://api.secondhandsongs.com/work/191857"
+      },
+      {
+        "title": "Under the Breath",
+        "uri": "https://api.secondhandsongs.com/work/196010"
+      },
+      {
+        "title": "Bedrock Anthem",
+        "uri": "https://api.secondhandsongs.com/work/5935"
+      },
+      {
+        "title": "The Place I Love",
+        "uri": "https://api.secondhandsongs.com/work/313826"
+      },
+      {
+        "title": "Lévame",
+        "uri": "https://api.secondhandsongs.com/work/363156"
+      }
+    ]
+  }
+}

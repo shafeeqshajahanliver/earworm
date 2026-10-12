@@ -1,0 +1,65 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 28134986,
+  "kind": "synced",
+  "matched": {
+    "track": "The Way You Move",
+    "artist": "OutKast featuring Sleepy Brown",
+    "album": "Speakerboxxx / The Love Below",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (235s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 235.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 235.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 48,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37083731 (The Way You Move / Outkast / speakerboxxx/the love below, 222.0s): duration matches no reference length",
+    "lrclib 37349018 (The Way You Move / OutKast / R&B Lovesongs Disc 1, 277.0s): duration matches no reference length",
+    "lrclib 33793230 (The Way You Move / Outkast / DJ Arson-Where The Party At?, 147.0s): duration matches no reference length",
+    "lrclib 36111637 (The Way You Move - / OutKast / Speakerboxxx, 241.0s): duration matches no reference length",
+    "lrclib 20035562 (The Way You Move / Outkast / Dance Dance Revolution Universe 2, 96.02608s): duration matches no reference length",
+    "lrclib 33509140 (The Way You Move / Outkast Feat. Sleepy Brown / Hip Hop IV [Disc 2], 212.0s): duration matches no reference length",
+    "lrclib 33350620 (The Way You Move / OutKast feat. Sleepy Brown / Ministry of Sound: I Love R&B: Mix Two, 228.0s): duration matches no reference length",
+    "lrclib 20545011 (The Way You Move / Outkast Feat. Sleepy Brown / Grammy Nominees 2004, 205.040417s): duration matches no reference length",
+    "lrclib 24846935 (The Way You Move / OutKast feat. Sleepy Brown / 2004 GRAMMY Nominees, 204.956075s): duration matches no reference length",
+    "lrclib 26580310 (The Way You Move / OutKast feat. Sleepy Brown / hiphop groove, 289.608s): duration matches no reference length",
+    "lrclib 28867686 (The Way You Move / OutKast feat. Sleepy Brown / Throwback: Summer Jamz, 195.0s): duration matches no reference length",
+    "lrclib 28201843 (The Way You Move / OutKast feat. Sleepy Brown / M.O.S. - I Love R&B - CD2, 228.0s): duration matches no reference length",
+    "lrclib 29127183 (The Way You Move / Outkast Featuring Sleepy Brown / Grammy Nominees 2004, 207.0s): duration matches no reference length",
+    "lrclib 37366824 (The Way You Move (Instrumental) / OutKast Featuring Sleepy Brown / The Way You Move / Hey Ya!, 237.0s): live/remix/other version",
+    "lrclib 37714555 (The Way You Move (Radio Mix) -  (EP: The Way You Move / Hey Ya!) / OutKast Featuring Sleepy Brown / EP Collection, 236.0s): live/remix/other version",
+    "lrclib 37519743 (The Way You Move (Radio Mix) / OutKast Featuring Sleepy Brown / The Way You Move / Hey Ya! CDS, 236.0s): live/remix/other version",
+    "lrclib 11272505 (The Way You Move (Radio Mix) / OutKast Featuring Sleepy Brown / The Way You Move / Hey Ya!, 235.0s): live/remix/other version",
+    "lrclib 33241271 (The Way You Move (Radio Mix) / OutKast Featuring Sleepy Brown / Speakerboxxx/The Love Below, 234.0s): live/remix/other version",
+    "lrclib 27608447 (The Way You Move (Instrumental) / OutKast / The Way You Move, 237.0s): live/remix/other version",
+    "lrclib 9843094 (The Way You Move (radio mix) / OutKast / The Way You Move, 236.0s): live/remix/other version",
+    "lrclib 29640862 (The Way You Move (club mix) / OutKast / The Way You Move, 236.0s): live/remix/other version",
+    "lrclib 26148676 (The Way You Move / Outkast / The Way You Move / Hey Ya! - EP, 180.0s): duration matches no reference length",
+    "lrclib 33178553 (The Way You Move (Full Phatt radio mix) / OutKast / The Way You Move, 211.0s): live/remix/other version",
+    "lrclib 15609950 (The Way You Move (Full Phat radio mix) / OutKast / The Way You Move, 213.0s): live/remix/other version",
+    "lrclib 38335250 (The Way You Move (Full Phatt radio mix) / OutKast / The Way You Move, 215.0s): live/remix/other version",
+    "lrclib 25871015 (The Way You Move (Instrumental) / OutKast / The Way You Move / Hey Ya!, 237.0s): live/remix/other version",
+    "lrclib 25938840 (The Way You Move (Instrumental) / OutKast / The Way You Move / Hey Ya!, 237.146009s): live/remix/other version",
+    "lrclib 9843100 (The Way You Move (Johnny Too Bad radio mix) / OutKast / The Way You Move, 234.0s): live/remix/other version",
+    "lrclib 15609944 (The Way You Move (Johnny Toobad full length vocal) / OutKast / The Way You Move, 416.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

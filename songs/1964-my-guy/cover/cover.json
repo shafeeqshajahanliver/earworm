@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "11c4c3f5-c506-3b6f-9df3-7071b7ae6902",
+      "release_title": "My Guy / Oh Little Boy (What Did You Do to Me)",
+      "release_date": "1964-03-13",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/bcb10785-21c3-432c-bda6-95c906f65dd4/4392036913-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/bcb10785-21c3-432c-bda6-95c906f65dd4",
+      "image_id": 4392036913,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        799,
+        799
+      ],
+      "measures": {
+        "brightness": 0.729,
+        "saturation": 0.311,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#fefefe",
+            "share": 0.343
+          },
+          {
+            "hex": "#334c90",
+            "share": 0.207
+          },
+          {
+            "hex": "#334486",
+            "share": 0.18
+          },
+          {
+            "hex": "#626c90",
+            "share": 0.148
+          },
+          {
+            "hex": "#c4c5c3",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b8c0b9fd-e5e3-3e70-b23e-4e562b1bf676",
+      "release_title": "Mary Wells Sings My Guy",
+      "release_date": "1964",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mary Wells Sings My Guy",
+      "url": "https://coverartarchive.org/release/5cea87db-65c0-47cc-980e-0a61c3c07096/7326571150-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5cea87db-65c0-47cc-980e-0a61c3c07096",
+      "image_id": 7326571150,
+      "types": [
+        "Front"
+      ],
+      "comment": "http://upload.wikimedia.org/wikipedia/en/2/22/Myguycover.jpg",
+      "file": "cover/album.jpg",
+      "original_size": [
+        250,
+        248
+      ],
+      "measures": {
+        "brightness": 0.589,
+        "saturation": 0.587,
+        "dark_share": 0.075,
+        "palette": [
+          {
+            "hex": "#8a3e19",
+            "share": 0.343
+          },
+          {
+            "hex": "#43261a",
+            "share": 0.213
+          },
+          {
+            "hex": "#a1603c",
+            "share": 0.182
+          },
+          {
+            "hex": "#eddabd",
+            "share": 0.15
+          },
+          {
+            "hex": "#d7aa83",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/05/15/cb0515b8-0f1c-3973-13d8-faa5191b7024/00602537840236.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Mary Wells Sings My Guy",
+      "collection_id": 1442911976,
+      "track_id": 1442912087,
+      "artist_name": "Mary Wells",
+      "release_date": "1964-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.571,
+        "saturation": 0.41,
+        "dark_share": 0.017,
+        "palette": [
+          {
+            "hex": "#804242",
+            "share": 0.357
+          },
+          {
+            "hex": "#8a515f",
+            "share": 0.213
+          },
+          {
+            "hex": "#483240",
+            "share": 0.184
+          },
+          {
+            "hex": "#dce5de",
+            "share": 0.124
+          },
+          {
+            "hex": "#ae839d",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "2008-no-air",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0831_noair",
+      "match": {
+        "title": "No Air",
+        "artist": "Jordin Sparks feat. Chris Brown",
+        "release": "Now That's What I Call Music! 28",
+        "musicbrainz_id": "8c84090c-36b3-4fa2-a613-478bf59a7265",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0831_noair.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0831_noair.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 261.586,
+      "bpm": 80.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.38,
+          "end": 16.899,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 5
+        },
+        {
+          "start": 16.899,
+          "end": 40.899,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 40.899,
+          "end": 52.899,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 52.899,
+          "end": 76.899,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 76.899,
+          "end": 88.899,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 88.899,
+          "end": 112.899,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 112.899,
+          "end": 124.899,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 124.899,
+          "end": 148.899,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 148.899,
+          "end": 160.899,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 160.899,
+          "end": 184.899,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 184.899,
+          "end": 208.899,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 208.899,
+          "end": 220.899,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 220.899,
+          "end": 232.899,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 232.899,
+          "end": 256.899,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

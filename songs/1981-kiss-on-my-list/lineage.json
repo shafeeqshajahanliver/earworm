@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/264631",
+    "title": "Kiss on My List",
+    "performer": "Daryl Hall & John Oates",
+    "is_original": true,
+    "first_release_date": "1980-07-29",
+    "releases": [
+      {
+        "title": "Voices",
+        "uri": "https://api.secondhandsongs.com/release/5435",
+        "performer": "Daryl Hall & John Oates"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 26,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/131657",
+    "title": "Kiss on My List",
+    "language": "English",
+    "writers": [
+      "Janna Allen",
+      "Daryl Hall"
+    ],
+    "original_performer": "Daryl Hall & John Oates",
+    "versions": 27,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Ti bacerò",
+        "uri": "https://api.secondhandsongs.com/work/146205"
+      },
+      {
+        "title": "Tu es sur ma liste",
+        "uri": "https://api.secondhandsongs.com/work/147217"
+      },
+      {
+        "title": "Non farti triste",
+        "uri": "https://api.secondhandsongs.com/work/362537"
+      }
+    ]
+  }
+}

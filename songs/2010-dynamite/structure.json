@@ -1,0 +1,369 @@
+{
+  "id": "2010-dynamite",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0375_dynamite",
+      "match": {
+        "title": "Dynamite (Promo Only clean edit)",
+        "artist": "Taio Cruz",
+        "release": "Promo Only: Mainstream Radio, July 2010",
+        "musicbrainz_id": "947f15d9-6958-4e87-802b-fdadf89be7c2",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0375_dynamite.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0375_dynamite.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 217.166,
+      "bpm": 120.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +14 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.046,
+          "end": 8.087,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 8.087,
+          "end": 23.587,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 23.587,
+          "end": 48.087,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 48.087,
+          "end": 63.587,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 63.587,
+          "end": 79.587,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 79.587,
+          "end": 104.087,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 104.087,
+          "end": 119.587,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 119.587,
+          "end": 136.087,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 136.087,
+          "end": 172.087,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 18
+        },
+        {
+          "start": 172.087,
+          "end": 180.087,
+          "label": "instchorus",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 180.087,
+          "end": 195.587,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 195.587,
+          "end": 212.087,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 217 s vs 203 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0653_dynamite",
+      "match": {
+        "title": "Dynamite (Stonebridge Extended Remix)",
+        "artist": "Taio Cruz",
+        "release": "Dynamite (The Remixes)",
+        "musicbrainz_id": "825ade50-1d82-4366-93d3-39c2461b1e75",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0653_dynamite.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0653_dynamite.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 354.401,
+      "bpm": 123.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +151 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.097,
+          "end": 23.083,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 12
+        },
+        {
+          "start": 23.083,
+          "end": 38.724,
+          "label": "preverse",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 38.724,
+          "end": 62.669,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 62.669,
+          "end": 85.637,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 85.637,
+          "end": 101.241,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 101.241,
+          "end": 116.846,
+          "label": "preverse",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 116.846,
+          "end": 140.769,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 140.769,
+          "end": 155.897,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 155.897,
+          "end": 171.507,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 171.507,
+          "end": 187.604,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 187.604,
+          "end": 222.639,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 18
+        },
+        {
+          "start": 222.639,
+          "end": 246.035,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 246.035,
+          "end": 261.117,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 261.117,
+          "end": 276.69,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 276.69,
+          "end": 292.262,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 292.262,
+          "end": 308.306,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 354 s vs 203 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0654_dynamitemixinmarc",
+      "match": {
+        "title": "Dynamite",
+        "artist": "Taio Cruz",
+        "release": "Now That's What I Call 21st Century",
+        "musicbrainz_id": "1c72a1d0-433a-4e23-9e1b-409e298cb9d7",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0654_dynamitemixinmarc.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0654_dynamitemixinmarc.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 198.289,
+      "bpm": 120.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.04,
+          "end": 7.543,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.543,
+          "end": 32.043,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 32.043,
+          "end": 47.543,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 47.543,
+          "end": 63.543,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 63.543,
+          "end": 88.043,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 88.043,
+          "end": 103.543,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 103.543,
+          "end": 120.043,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 120.043,
+          "end": 164.043,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 22
+        },
+        {
+          "start": 164.043,
+          "end": 179.543,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 179.543,
+          "end": 196.043,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro verse chorus verse chorus bridge chorus"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [
+      "harmonix: annotated audio is 217 s vs 203 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "harmonix: annotated audio is 354 s vs 203 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

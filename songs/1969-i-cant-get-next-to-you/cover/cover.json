@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a55b9b53-bcdc-3015-9700-115ba1990d50",
+      "release_title": "I Can't Get Next to You",
+      "release_date": "1969",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/193467ca-956d-498e-874a-0e487ae68c24/41691549354-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/193467ca-956d-498e-874a-0e487ae68c24",
+      "image_id": 41691549354,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        592
+      ],
+      "measures": {
+        "brightness": 0.646,
+        "saturation": 0.477,
+        "dark_share": 0.159,
+        "palette": [
+          {
+            "hex": "#aa7a2d",
+            "share": 0.351
+          },
+          {
+            "hex": "#b48638",
+            "share": 0.261
+          },
+          {
+            "hex": "#504028",
+            "share": 0.165
+          },
+          {
+            "hex": "#efecd9",
+            "share": 0.159
+          },
+          {
+            "hex": "#d2ba8a",
+            "share": 0.064
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "51b23028-77b3-3e17-bbf0-da14a7a94a8b",
+      "release_title": "Puzzle People",
+      "release_date": "1969-09-23",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Puzzle People",
+      "url": "http://coverartarchive.org/release/7b122237-bfe4-400e-9832-cf1ba1891242/12741494548-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/7b122237-bfe4-400e-9832-cf1ba1891242",
+      "image_id": "12741494548",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        499,
+        500
+      ],
+      "measures": {
+        "brightness": 0.689,
+        "saturation": 0.151,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#9a908a",
+            "share": 0.264
+          },
+          {
+            "hex": "#b9b7ac",
+            "share": 0.225
+          },
+          {
+            "hex": "#855b5f",
+            "share": 0.22
+          },
+          {
+            "hex": "#d2cec1",
+            "share": 0.175
+          },
+          {
+            "hex": "#dae2db",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/32/39/59323930-a314-66b3-1efa-d310ddf10a77/00602547013712.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Puzzle People",
+      "collection_id": 1443901035,
+      "track_id": 1443901051,
+      "artist_name": "The Temptations",
+      "release_date": "1969-07-30T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.613,
+        "saturation": 0.185,
+        "dark_share": 0.039,
+        "palette": [
+          {
+            "hex": "#958177",
+            "share": 0.28
+          },
+          {
+            "hex": "#ada699",
+            "share": 0.227
+          },
+          {
+            "hex": "#654347",
+            "share": 0.198
+          },
+          {
+            "hex": "#c1b8a8",
+            "share": 0.174
+          },
+          {
+            "hex": "#c5c6b9",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "2010-california-gurls",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0356_californiagurls",
+      "match": {
+        "title": "California Gurls",
+        "artist": "Katy Perry",
+        "release": "Now That's What I Call Music! 35",
+        "musicbrainz_id": "44e88237-bdb1-4176-9687-714f0d9f6f76",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0356_californiagurls.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0356_californiagurls.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 232.827,
+      "bpm": 124.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -114 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 1.967,
+          "end": 7.727,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 3
+        },
+        {
+          "start": 7.727,
+          "end": 23.087,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 23.087,
+          "end": 38.447,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 38.447,
+          "end": 53.807,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 53.807,
+          "end": 84.527,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 84.527,
+          "end": 99.887,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 99.887,
+          "end": 115.247,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 115.247,
+          "end": 145.967,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 145.967,
+          "end": 184.367,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 20
+        },
+        {
+          "start": 184.367,
+          "end": 215.087,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 215.087,
+          "end": 230.447,
+          "label": "chorusinst",
+          "normalised": "other",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 233 s vs 347 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

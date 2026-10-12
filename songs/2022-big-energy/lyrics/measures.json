@@ -1,0 +1,41 @@
+{
+  "id": "2022-big-energy",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1017277,
+  "lines": 66,
+  "words": 592,
+  "unique_words": 163,
+  "type_token_ratio": 0.275,
+  "repeated_line_share": 0.303,
+  "distinct_lines": 46,
+  "zlib_compression_ratio": 0.285,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "big energy",
+  "title_phrase_occurrences": 17,
+  "pronouns": {
+    "first_singular": 36,
+    "second": 23,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.97,
+  "last_line_s": 159.25,
+  "sung_time_s": 161.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 219.8,
+  "words_per_minute_track": 205.9,
+  "longest_gap_between_lines_s": 4.68,
+  "longest_gap_starts_at_s": 154.57,
+  "first_repeated_block": {
+    "first_at_s": 9.94,
+    "recurs_at_s": 64.13,
+    "lines": [
+      "Bad chick, I could be your fantasy (yeah)",
+      "I can tell you got big, big energy (uh-huh)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1017277",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2016-cant-stop-the-feeling",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3724117,
+  "lines": 61,
+  "words": 547,
+  "unique_words": 109,
+  "type_token_ratio": 0.199,
+  "repeated_line_share": 0.295,
+  "distinct_lines": 43,
+  "zlib_compression_ratio": 0.23,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "can't stop the feeling",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 56,
+    "second": 18,
+    "first_plural": 7
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.78,
+  "last_line_s": 227.91,
+  "sung_time_s": 223.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 146.7,
+  "words_per_minute_track": 139.1,
+  "longest_gap_between_lines_s": 5.63,
+  "longest_gap_starts_at_s": 167.48,
+  "first_repeated_block": {
+    "first_at_s": 29.16,
+    "recurs_at_s": 105.81,
+    "lines": [
+      "I feel that hot blood in my body when it drops (ooh)",
+      "I can't take my eyes up off it, movin' so phenomenally"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3724117",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

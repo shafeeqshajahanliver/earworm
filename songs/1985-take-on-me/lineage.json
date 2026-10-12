@@ -1,0 +1,72 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/26",
+    "title": "Take on Me [1984]",
+    "performer": "a-ha",
+    "is_original": false,
+    "first_release_date": "1984-10-19",
+    "releases": [
+      {
+        "title": "Take on Me",
+        "uri": "https://api.secondhandsongs.com/release/60065",
+        "performer": "a-ha"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Lesson One",
+      "uri": "https://api.secondhandsongs.com/work/241237"
+    },
+    {
+      "title": "Miss Eerie",
+      "uri": "https://api.secondhandsongs.com/work/241236"
+    }
+  ],
+  "covers_of_this_recording": 242,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/26",
+    "title": "Take on Me",
+    "language": "English",
+    "writers": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Pål Waaktaar"
+    ],
+    "original_performer": "a-ha",
+    "versions": 243,
+    "based_on": [
+      {
+        "title": "Lesson One",
+        "uri": "https://api.secondhandsongs.com/work/241237"
+      }
+    ],
+    "derived_works": [
+      {
+        "title": "Feel This Moment",
+        "uri": "https://api.secondhandsongs.com/work/132723"
+      },
+      {
+        "title": "Dej si říct",
+        "uri": "https://api.secondhandsongs.com/work/200581"
+      },
+      {
+        "title": "Ota mut",
+        "uri": "https://api.secondhandsongs.com/work/200582"
+      },
+      {
+        "title": "James 1:3",
+        "uri": "https://api.secondhandsongs.com/work/129094"
+      },
+      {
+        "title": "Halt mich fest",
+        "uri": "https://api.secondhandsongs.com/work/267193"
+      }
+    ]
+  }
+}

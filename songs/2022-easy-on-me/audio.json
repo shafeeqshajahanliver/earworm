@@ -1,0 +1,70 @@
+{
+  "id": "2022-easy-on-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1522223672,
+    "matched_by": "isrc",
+    "isrc": "USSM12105970",
+    "title": "Easy On Me",
+    "artist": "Adele",
+    "album": "Easy On Me",
+    "track_duration_s": 224,
+    "link": "https://www.deezer.com/track/1522223672",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 75.5,
+    "tempo_bpm_grid": 71.3,
+    "tempo_candidates_bpm": [
+      71.8,
+      143.6,
+      152.0
+    ],
+    "beats_detected": 37,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.911,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.645,
+    "chroma_profile": [
+      0.837,
+      0.25,
+      0.394,
+      0.21,
+      0.328,
+      1.0,
+      0.329,
+      0.747,
+      0.315,
+      0.64,
+      0.83,
+      0.317
+    ],
+    "rms_dbfs": -9.59,
+    "rms_dbfs_p95_frame": -7.13,
+    "peak_dbfs": 0.07,
+    "loudness_lufs_approx": -9.98,
+    "spectral_centroid_hz_mean": 2298.6,
+    "spectral_centroid_hz_median": 2291.4,
+    "onsets": 92,
+    "onset_density_per_s": 3.068,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1522223672",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1522223672",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

@@ -1,0 +1,48 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/22193",
+    "title": "Baby, Come to Me",
+    "performer": "Patti Austin with James Ingram",
+    "is_original": true,
+    "first_release_date": "1981-09-14",
+    "releases": [
+      {
+        "title": "Every Home Should Have One",
+        "uri": "https://api.secondhandsongs.com/release/8932",
+        "performer": "Quincy Jones presents Patti Austin"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 19,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/22193",
+    "title": "Baby, Come to Me",
+    "language": "English",
+    "writers": [
+      "Rod Temperton"
+    ],
+    "original_performer": "Patti Austin with James Ingram",
+    "versions": 20,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "C'était mon ami",
+        "uri": "https://api.secondhandsongs.com/work/148472"
+      },
+      {
+        "title": "La plus grande bêtise de ma vie",
+        "uri": "https://api.secondhandsongs.com/work/153245"
+      },
+      {
+        "title": "שני אוהבים",
+        "uri": "https://api.secondhandsongs.com/work/322447"
+      }
+    ]
+  }
+}

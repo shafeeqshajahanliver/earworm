@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a911132b-1588-3d3c-91ab-04fb7a202976",
+      "release_title": "Reach Out I'll Be There / Until You Love Someone",
+      "release_date": "1966-08-18",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "6a6cd6a0-ecb2-4bce-958b-265ffb7a268c",
+      "release_title": "Reach Out I’ll Be There",
+      "release_date": "2002",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Reach Out",
+      "url": "http://coverartarchive.org/release/adc1557b-780d-496a-b37f-9eeeb673acea/5485482452-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/adc1557b-780d-496a-b37f-9eeeb673acea",
+      "image_id": 5485482452,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        492
+      ],
+      "measures": {
+        "brightness": 0.657,
+        "saturation": 0.214,
+        "dark_share": 0.013,
+        "palette": [
+          {
+            "hex": "#a4c1c2",
+            "share": 0.253
+          },
+          {
+            "hex": "#375249",
+            "share": 0.237
+          },
+          {
+            "hex": "#779c93",
+            "share": 0.228
+          },
+          {
+            "hex": "#c7dce2",
+            "share": 0.143
+          },
+          {
+            "hex": "#d7e9ef",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/97/4c/58/974c5833-8190-ced8-f2d0-3ca9bd270248/14UMGIM28821.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Reach Out",
+      "collection_id": 1443092485,
+      "track_id": 1443092687,
+      "artist_name": "Four Tops",
+      "release_date": "1967-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.728,
+        "saturation": 0.334,
+        "dark_share": 0.037,
+        "palette": [
+          {
+            "hex": "#c25055",
+            "share": 0.279
+          },
+          {
+            "hex": "#5d424d",
+            "share": 0.222
+          },
+          {
+            "hex": "#ddcacf",
+            "share": 0.213
+          },
+          {
+            "hex": "#cfaab3",
+            "share": 0.181
+          },
+          {
+            "hex": "#e3dddd",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

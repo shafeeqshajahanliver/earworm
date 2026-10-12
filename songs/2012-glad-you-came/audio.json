@@ -1,0 +1,81 @@
+{
+  "id": "2012-glad-you-came",
+  "preview": {
+    "service": "deezer",
+    "track_id": 14348462,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBUM71104495",
+    "title": "Glad You Came",
+    "artist": "The Wanted",
+    "album": "Battleground (Deluxe Edition)",
+    "track_duration_s": 198,
+    "link": "https://www.deezer.com/track/14348462",
+    "duration_matched_to": "wikipedia infobox length (198s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 127.0,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      63.0,
+      129.2,
+      83.4
+    ],
+    "beats_detected": 64,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.706,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.409,
+    "chroma_profile": [
+      0.442,
+      0.417,
+      0.599,
+      0.558,
+      0.4,
+      0.505,
+      0.677,
+      1.0,
+      0.744,
+      0.524,
+      0.653,
+      0.434
+    ],
+    "rms_dbfs": -6.58,
+    "rms_dbfs_p95_frame": -3.6,
+    "peak_dbfs": 1.29,
+    "loudness_lufs_approx": -7.35,
+    "spectral_centroid_hz_mean": 2917.6,
+    "spectral_centroid_hz_median": 2722.6,
+    "onsets": 105,
+    "onset_density_per_s": 3.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 14348462",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126.8,
+    "gain": -7.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/14348462",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 12620318: duration 182s matches no reference length",
+    "deezer 1543605412: version (Glad You Came (Acoustic))",
+    "deezer 19004881: version (Glad You Came (Live At The O2 Arena/2012))",
+    "deezer 12620319: version (Glad You Came (Alex Gaudino Remix))",
+    "deezer 390683401: version (Glad You Came (Bassjackers Remix Edit))",
+    "deezer 390683391: version (Glad You Came (Mixin Marc & Tony Svejda Peak Hour Dub))",
+    "deezer 390683381: version (Glad You Came (Mixin Marc & Tony Svejda Remix))",
+    "deezer 390683411: version (Glad You Came (Bassjackers Extended Club))",
+    "deezer 390683371: version (Glad You Came (Mixin Marc & Tony Svejda Radio Remix))"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1996-i-love-you-always-forever",
+  "lyrics_kind": "synced",
+  "lrclib_id": 17882183,
+  "lines": 60,
+  "words": 350,
+  "unique_words": 96,
+  "type_token_ratio": 0.274,
+  "repeated_line_share": 0.6,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.229,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i love you always forever",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 31,
+    "second": 29,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.5,
+  "last_line_s": 232.83,
+  "sung_time_s": 206.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 101.6,
+  "words_per_minute_track": 87.6,
+  "longest_gap_between_lines_s": 18.54,
+  "longest_gap_starts_at_s": 29.2,
+  "first_repeated_block": {
+    "first_at_s": 83.43,
+    "recurs_at_s": 93.88,
+    "lines": [
+      "Say it, say it again",
+      "I love you always forever"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 17882183",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 15064980,
+  "kind": "synced",
+  "matched": {
+    "track": "Hello",
+    "artist": "Adele",
+    "album": "Adele-Hello",
+    "duration_s": 295.5022
+  },
+  "duration_matched_to": "itunes preview track matched by search (296s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 277.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 295.5,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 255.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 296.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 0.654,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (296s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37502276 (Hello / Adele / Adele - Greatest Hits, 367.0s): duration matches no reference length",
+    "lrclib 34628325 (Hello / Adele / 25, 838.0s): duration matches no reference length",
+    "lrclib 34679538 (Hello / Adele / SAD SONGS 2025 - Sad Love Songs Playlist, 367.0s): duration matches no reference length",
+    "lrclib 34981713 (Hello / Adele / 25, 1.0s): duration matches no reference length",
+    "lrclib 34981832 (Hello / Adele / 25, 285.0s): duration matches no reference length",
+    "lrclib 34981915 (Hello / Adele / 25, 305.0s): duration matches no reference length",
+    "lrclib 33186230 (Hello / Adele / Adele, 367.0s): duration matches no reference length",
+    "lrclib 37546595 (Hello(Karaoke tribute version originally performed by Adele) / Adele / Hello(Karaoke tribute version originally performed by Adele), 298.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

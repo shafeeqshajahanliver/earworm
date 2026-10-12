@@ -1,0 +1,70 @@
+{
+  "id": "2018-the-middle",
+  "preview": {
+    "service": "deezer",
+    "track_id": 451254022,
+    "matched_by": "isrc",
+    "isrc": "USUM71800463",
+    "title": "The Middle",
+    "artist": "Zedd",
+    "album": "The Middle",
+    "track_duration_s": 184,
+    "link": "https://www.deezer.com/track/451254022",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.9,
+    "tempo_bpm_grid": 106.6,
+    "tempo_candidates_bpm": [
+      107.7,
+      53.8,
+      215.3
+    ],
+    "beats_detected": 53,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.632,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.532,
+    "chroma_profile": [
+      0.911,
+      0.818,
+      0.879,
+      0.703,
+      0.716,
+      0.697,
+      0.886,
+      1.0,
+      0.666,
+      0.658,
+      0.549,
+      0.644
+    ],
+    "rms_dbfs": -6.11,
+    "rms_dbfs_p95_frame": -2.03,
+    "peak_dbfs": 2.28,
+    "loudness_lufs_approx": -6.86,
+    "spectral_centroid_hz_mean": 2672.3,
+    "spectral_centroid_hz_median": 2511.6,
+    "onsets": 92,
+    "onset_density_per_s": 3.068,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 451254022",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 106.83,
+    "gain": -7.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/451254022",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

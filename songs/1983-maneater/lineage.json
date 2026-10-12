@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/130787",
+    "title": "Maneater",
+    "performer": "Daryl Hall & John Oates",
+    "is_original": true,
+    "first_release_date": "1982-10",
+    "releases": [
+      {
+        "title": "H2O",
+        "uri": "https://api.secondhandsongs.com/release/6506",
+        "performer": "Daryl Hall & John Oates"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 48,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/114601",
+    "title": "Maneater",
+    "language": "English",
+    "writers": [
+      "Sara Allen",
+      "Daryl Hall",
+      "John Oates"
+    ],
+    "original_performer": "Daryl Hall & John Oates",
+    "versions": 49,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Anteater",
+        "uri": "https://api.secondhandsongs.com/work/204245"
+      },
+      {
+        "title": "Dangerous",
+        "uri": "https://api.secondhandsongs.com/work/316462"
+      }
+    ]
+  }
+}

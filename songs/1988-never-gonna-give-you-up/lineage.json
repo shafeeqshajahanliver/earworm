@@ -1,0 +1,62 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/35854",
+    "title": "Never Gonna Give You Up",
+    "performer": "Rick Astley",
+    "is_original": true,
+    "first_release_date": "1987",
+    "releases": [
+      {
+        "title": "Whenever You Need Somebody",
+        "uri": "https://api.secondhandsongs.com/release/14052",
+        "performer": "Rick Astley"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 89,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/35854",
+    "title": "Never Gonna Give You Up",
+    "language": "English",
+    "writers": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ],
+    "original_performer": "Rick Astley",
+    "versions": 90,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Toujours là pour toi",
+        "uri": "https://api.secondhandsongs.com/work/61049"
+      },
+      {
+        "title": "Non ti lascerò",
+        "uri": "https://api.secondhandsongs.com/work/140297"
+      },
+      {
+        "title": "Betty (Get Money)",
+        "uri": "https://api.secondhandsongs.com/work/293818"
+      },
+      {
+        "title": "Heaven's Gonna Lift You Up",
+        "uri": "https://api.secondhandsongs.com/work/307563"
+      },
+      {
+        "title": "Numai tu",
+        "uri": "https://api.secondhandsongs.com/work/313813"
+      },
+      {
+        "title": "一廂情願",
+        "uri": "https://api.secondhandsongs.com/work/345996"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 294230,
+  "kind": "synced",
+  "matched": {
+    "track": "It's Too Late",
+    "artist": "Carole King",
+    "album": "Tapestry",
+    "duration_s": 233.0
+  },
+  "duration_matched_to": "musicbrainz recording length (233s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 233.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 233.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 231.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36987354 (It's Too Late / Carole King / The Living Room Tour  -  Set Two, 322.0s): duration matches no reference length",
+    "lrclib 37347004 (It's Too Late / Carole King / Tapestry, 245.0s): duration matches no reference length",
+    "lrclib 37232604 (It's Too Late / Carole King / Carnegie Hall Concert: June 18 1971, 262.0s): duration matches no reference length",
+    "lrclib 34595767 (It's Too Late / Carole King / Beautiful: The Carole King Musical, 167.0s): duration matches no reference length",
+    "lrclib 34610263 (It's Too Late / Carole King / Tapestry, 323.0s): duration matches no reference length",
+    "lrclib 34367659 (It's Too Late / Carole King / The Carnegie Hall Concert 1971, 262.0s): duration matches no reference length",
+    "lrclib 34637650 (It's Too Late / Carole King / In Intimate Performance, 287.0s): duration matches no reference length",
+    "lrclib 33714215 (It's Too Late / Carole King / Her Greatest Hits (Songs Of Lo, 258.0s): duration matches no reference length",
+    "lrclib 33401691 (It's Too Late / Carole King / The Carnegie Hall Concert - June 18, 1971  {MFSL SACD}, 243.0s): duration matches no reference length",
+    "lrclib 19058156 (It's too late / Carole King / Colección 5 estrellas: Carole King, 160.333333s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

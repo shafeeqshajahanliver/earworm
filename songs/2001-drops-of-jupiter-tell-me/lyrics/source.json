@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1005228,
+  "kind": "synced",
+  "matched": {
+    "track": "Drops of Jupiter (Tell Me)",
+    "artist": "Train",
+    "album": "Drops Of Jupiter",
+    "duration_s": 260.0
+  },
+  "duration_matched_to": "musicbrainz recording length (260s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 260.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 260.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 40,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36905370 (Drops of Jupiter (Tell Me) / Train / Drops of Jupiter, 271.0s): duration matches no reference length",
+    "lrclib 36742056 (Drops of Jupiter (Tell Me) / Train / Drops of Jupiter, 266.0s): duration matches no reference length",
+    "lrclib 34134369 (Drops of Jupiter (Tell Me) / Train / Drops Of Jupiter, 245.0s): duration matches no reference length",
+    "lrclib 36979769 (Drops Of Jupiter / Train / Mix 94.1 Underground Lounge 2, 240.0s): duration matches no reference length",
+    "lrclib 36930401 (Drops of Jupiter / Train / Live from the Mountain Music Lounge, Volume 18, 268.0s): live/remix/other version",
+    "lrclib 35211986 (Drops of Jupiter / Train / 99X Live X 7: Black and White World, 260.0s): live/remix/other version",
+    "lrclib 20117465 (Drops of Jupiter / Train / Drops of Jupiter, 37.049687s): duration matches no reference length",
+    "lrclib 20887953 (Drops of Jupiter / Train / Drops of Jupiter, 265.056s): duration matches no reference length",
+    "lrclib 20609326 (Drops of Jupiter / Train / Drops of Jupiter, 283.0s): duration matches no reference length",
+    "lrclib 19640058 (Drops Of Jupiter / Train / Drops Of Jupiter, 303.785762s): duration matches no reference length",
+    "lrclib 21414397 (Drops Of Jupiter / Train / Drops Of Jupiter, 252.786937s): duration matches no reference length",
+    "lrclib 24825487 (Drops of Jupiter / Train / Drops of Jupiter, 228.649796s): duration matches no reference length",
+    "lrclib 23510315 (Drops Of Jupiter / Train / Drops of Jupiter, 368.282978s): duration matches no reference length",
+    "lrclib 27335477 (Drops of Jupiter / Train / Drops of Jupiter, 271.7667328s): duration matches no reference length",
+    "lrclib 29838809 (Drops of Jupiter / Train / Drops of Jupiter, 276.0s): duration matches no reference length",
+    "lrclib 31889563 (Drops of Jupiter / Train / Drops of Jupiter, 226.0s): duration matches no reference length",
+    "lrclib 31891423 (Drops of Jupiter / Train / Drops of Jupiter, 1068.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

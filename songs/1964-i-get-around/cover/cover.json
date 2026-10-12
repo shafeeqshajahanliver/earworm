@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c21963af-e5a5-43ed-8dd4-974947639bcd",
+      "release_title": "Don't Worry Baby / I Get Around",
+      "release_date": "1964",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/cba471f4-26c1-4ef8-b00c-e583dc4bfc05/14385420933-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cba471f4-26c1-4ef8-b00c-e583dc4bfc05",
+      "image_id": 14385420933,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        389,
+        389
+      ],
+      "measures": {
+        "brightness": 0.648,
+        "saturation": 0.18,
+        "dark_share": 0.003,
+        "palette": [
+          {
+            "hex": "#cbc4b1",
+            "share": 0.306
+          },
+          {
+            "hex": "#473f33",
+            "share": 0.291
+          },
+          {
+            "hex": "#fcfcf9",
+            "share": 0.182
+          },
+          {
+            "hex": "#867e66",
+            "share": 0.173
+          },
+          {
+            "hex": "#e9e6dd",
+            "share": 0.049
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f272e835-9250-329a-b8f6-d3376e3230b3",
+      "release_title": "All Summer Long",
+      "release_date": "1997",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: All Summer Long",
+      "url": "http://coverartarchive.org/release/08c58e6a-1857-4851-99aa-3ebb844a7c14/14712750167-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/08c58e6a-1857-4851-99aa-3ebb844a7c14",
+      "image_id": "14712750167",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        494
+      ],
+      "measures": {
+        "brightness": 0.806,
+        "saturation": 0.257,
+        "dark_share": 0.042,
+        "palette": [
+          {
+            "hex": "#a6aaaf",
+            "share": 0.297
+          },
+          {
+            "hex": "#f6fcfd",
+            "share": 0.223
+          },
+          {
+            "hex": "#5a4858",
+            "share": 0.197
+          },
+          {
+            "hex": "#f4f6f5",
+            "share": 0.152
+          },
+          {
+            "hex": "#e2ebef",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/f1/32/21f13205-b60b-9afa-742e-4b15dc1dd767/13UMGIM24815.rgb.jpg/1200x1200bb.jpg",
+      "collection": "All Summer Long",
+      "collection_id": 1443160899,
+      "track_id": 1443161018,
+      "artist_name": "The Beach Boys",
+      "release_date": "1964-05-11T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.741,
+        "saturation": 0.291,
+        "dark_share": 0.054,
+        "palette": [
+          {
+            "hex": "#8e9296",
+            "share": 0.316
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.229
+          },
+          {
+            "hex": "#494155",
+            "share": 0.214
+          },
+          {
+            "hex": "#bcccc9",
+            "share": 0.167
+          },
+          {
+            "hex": "#f8e7ce",
+            "share": 0.075
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

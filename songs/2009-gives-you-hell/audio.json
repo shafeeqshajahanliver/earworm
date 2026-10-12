@@ -1,0 +1,70 @@
+{
+  "id": "2009-gives-you-hell",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2800862,
+    "matched_by": "isrc",
+    "isrc": "USUM70837368",
+    "title": "Gives You Hell",
+    "artist": "The All-American Rejects",
+    "album": "When The World Comes Down (International Version)",
+    "track_duration_s": 213,
+    "link": "https://www.deezer.com/track/2800862",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.6,
+    "tempo_bpm_grid": 100.3,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      49.7
+    ],
+    "beats_detected": 50,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.825,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.679,
+    "chroma_profile": [
+      0.573,
+      0.773,
+      0.495,
+      0.599,
+      0.914,
+      0.664,
+      0.739,
+      0.581,
+      0.774,
+      1.0,
+      0.7,
+      0.926
+    ],
+    "rms_dbfs": -10.92,
+    "rms_dbfs_p95_frame": -6.56,
+    "peak_dbfs": 1.14,
+    "loudness_lufs_approx": -11.16,
+    "spectral_centroid_hz_mean": 2621.4,
+    "spectral_centroid_hz_median": 2601.5,
+    "onsets": 115,
+    "onset_density_per_s": 3.835,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2800862",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 99.9,
+    "gain": -9.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2800862",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

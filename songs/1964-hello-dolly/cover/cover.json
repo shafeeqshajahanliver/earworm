@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b67e87bb-8a82-4928-ad8e-0859730ac748",
+      "release_title": "Hello, Dolly!",
+      "release_date": "1964-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "0435d127-cf55-3c6e-b487-e764ebd8cc24",
+      "release_title": "Hello, Dolly!",
+      "release_date": "1964",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Hello, Dolly!",
+      "url": "http://coverartarchive.org/release/062261f4-f110-3325-bd80-c76b803a32e0/17680557738-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/062261f4-f110-3325-bd80-c76b803a32e0",
+      "image_id": 17680557738,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        496
+      ],
+      "measures": {
+        "brightness": 0.508,
+        "saturation": 0.218,
+        "dark_share": 0.4,
+        "palette": [
+          {
+            "hex": "#e7d9c0",
+            "share": 0.279
+          },
+          {
+            "hex": "#171615",
+            "share": 0.245
+          },
+          {
+            "hex": "#1e1c19",
+            "share": 0.191
+          },
+          {
+            "hex": "#a98471",
+            "share": 0.168
+          },
+          {
+            "hex": "#9c3632",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/7d/40/087d4000-5a0f-2803-61d6-4adfc9401ff8/06UMGIM02668.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Hello, Dolly! (Remastered)",
+      "collection_id": 1422000964,
+      "track_id": 1422000970,
+      "artist_name": "Louis Armstrong",
+      "release_date": "1964-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.542,
+        "saturation": 0.189,
+        "dark_share": 0.374,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.356
+          },
+          {
+            "hex": "#fff5e3",
+            "share": 0.323
+          },
+          {
+            "hex": "#b62028",
+            "share": 0.148
+          },
+          {
+            "hex": "#c1a091",
+            "share": 0.134
+          },
+          {
+            "hex": "#000001",
+            "share": 0.039
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

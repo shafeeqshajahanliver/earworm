@@ -1,0 +1,99 @@
+{
+  "id": "1990-hold-on",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "385",
+      "also_ids": [
+        "628",
+        "911"
+      ],
+      "match": {
+        "title": "Hold On",
+        "artist": "Wilson Phillips",
+        "chart_date": "1990-04-14",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 385 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 221.362,
+      "version_check": "duration differs by -43 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 221 s vs 264 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.395,
+          "end": 15.14,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 6
+        },
+        {
+          "start": 15.14,
+          "end": 47.002,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 13
+        },
+        {
+          "start": 47.002,
+          "end": 76.478,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 76.478,
+          "end": 86.28,
+          "label": "interlude",
+          "letter": "D",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 86.28,
+          "end": 118.208,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 13
+        },
+        {
+          "start": 118.208,
+          "end": 147.689,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 12
+        },
+        {
+          "start": 147.689,
+          "end": 167.347,
+          "label": "bridge",
+          "letter": "E",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 167.347,
+          "end": 218.105,
+          "label": "outro",
+          "letter": "F",
+          "normalised": "outro",
+          "bars": 20
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2010-hey-soul-sister",
+  "lyrics_kind": "synced",
+  "lrclib_id": 20078228,
+  "lines": 52,
+  "words": 318,
+  "unique_words": 112,
+  "type_token_ratio": 0.352,
+  "repeated_line_share": 0.423,
+  "distinct_lines": 30,
+  "zlib_compression_ratio": 0.349,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "hey soul sister",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 29,
+    "second": 26,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.08,
+  "last_line_s": 206.32,
+  "sung_time_s": 194.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 98.0,
+  "words_per_minute_track": 88.0,
+  "longest_gap_between_lines_s": 9.48,
+  "longest_gap_starts_at_s": 63.74,
+  "first_repeated_block": {
+    "first_at_s": 4.08,
+    "recurs_at_s": 73.22,
+    "lines": [
+      "Hey, hey",
+      "Hey-hey, hey-hey"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 20078228",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

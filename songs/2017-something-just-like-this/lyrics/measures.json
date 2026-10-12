@@ -1,0 +1,41 @@
+{
+  "id": "2017-something-just-like-this",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37302024,
+  "lines": 58,
+  "words": 332,
+  "unique_words": 80,
+  "type_token_ratio": 0.241,
+  "repeated_line_share": 0.552,
+  "distinct_lines": 26,
+  "zlib_compression_ratio": 0.221,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "something just like this",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 26,
+    "second": 6,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.74,
+  "last_line_s": 231.38,
+  "sung_time_s": 158.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 126.0,
+  "words_per_minute_track": 80.6,
+  "longest_gap_between_lines_s": 18.99,
+  "longest_gap_starts_at_s": 193.85,
+  "first_repeated_block": {
+    "first_at_s": 7.74,
+    "recurs_at_s": 82.42,
+    "lines": [
+      "I've been reading books of old",
+      "The legends and the myths"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37302024",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

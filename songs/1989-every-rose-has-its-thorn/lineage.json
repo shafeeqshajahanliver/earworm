@@ -1,0 +1,51 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/130836",
+    "title": "Every Rose Has Its Thorn",
+    "performer": "Poison",
+    "is_original": true,
+    "first_release_date": "1988-04-27",
+    "releases": [
+      {
+        "title": "Open Up and Say...Ahh!",
+        "uri": "https://api.secondhandsongs.com/release/6500",
+        "performer": "Poison"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 29,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/114609",
+    "title": "Every Rose Has Its Thorn",
+    "language": "English",
+    "writers": [
+      "C.C. DeVille",
+      "Bobby Dall",
+      "Rikki Rockett",
+      "Bret Michaels"
+    ],
+    "original_performer": "Poison",
+    "versions": 30,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Every Crown Has Its Thorns",
+        "uri": "https://api.secondhandsongs.com/work/128564"
+      },
+      {
+        "title": "Todo Amor Tem Um Fim",
+        "uri": "https://api.secondhandsongs.com/work/232076"
+      },
+      {
+        "title": "Toda Noite Tem Seu Fim",
+        "uri": "https://api.secondhandsongs.com/work/286921"
+      }
+    ]
+  }
+}

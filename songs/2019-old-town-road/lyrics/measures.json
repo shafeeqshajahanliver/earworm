@@ -1,0 +1,41 @@
+{
+  "id": "2019-old-town-road",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3204932,
+  "lines": 44,
+  "words": 307,
+  "unique_words": 105,
+  "type_token_ratio": 0.342,
+  "repeated_line_share": 0.318,
+  "distinct_lines": 30,
+  "zlib_compression_ratio": 0.323,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "old town road",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 46,
+    "second": 8,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 13.1,
+  "last_line_s": 137.08,
+  "sung_time_s": 125.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 146.6,
+  "words_per_minute_track": 162.3,
+  "longest_gap_between_lines_s": 4.4,
+  "longest_gap_starts_at_s": 77.17,
+  "first_repeated_block": {
+    "first_at_s": 42.56,
+    "recurs_at_s": 49.31,
+    "lines": [
+      "Can't nobody tell me nothing",
+      "You can't tell me nothing"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3204932",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1988-roll-with-it",
+  "lyrics_kind": "synced",
+  "lrclib_id": 20270717,
+  "lines": 68,
+  "words": 321,
+  "unique_words": 103,
+  "type_token_ratio": 0.321,
+  "repeated_line_share": 0.426,
+  "distinct_lines": 39,
+  "zlib_compression_ratio": 0.328,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "roll with it",
+  "title_phrase_occurrences": 20,
+  "pronouns": {
+    "first_singular": 9,
+    "second": 26,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 17.4,
+  "last_line_s": 269.69,
+  "sung_time_s": 223.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 86.2,
+  "words_per_minute_track": 71.3,
+  "longest_gap_between_lines_s": 20.66,
+  "longest_gap_starts_at_s": 127.94,
+  "first_repeated_block": {
+    "first_at_s": 58.19,
+    "recurs_at_s": 119.36,
+    "lines": [
+      "You just roll with it, baby",
+      "Come on and just roll with it, baby"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 20270717",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

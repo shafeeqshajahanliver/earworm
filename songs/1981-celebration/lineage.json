@@ -1,0 +1,69 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/55955",
+    "title": "Celebration",
+    "performer": "Kool & The Gang",
+    "is_original": true,
+    "first_release_date": "1980",
+    "releases": [
+      {
+        "title": "Celebrate!",
+        "uri": "https://api.secondhandsongs.com/release/22628",
+        "performer": "Kool & The Gang"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 65,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/55955",
+    "title": "Celebration",
+    "language": "English",
+    "writers": [
+      "Robert \"Kool\" Bell",
+      "Ronald Bell",
+      "George Brown [US1]",
+      "Eumir Deodato",
+      "Robert Mickens",
+      "Claydes Smith",
+      "J.T. Taylor",
+      "Dennis Thomas",
+      "Earl Toon"
+    ],
+    "original_performer": "Kool & The Gang",
+    "versions": 66,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Feest!",
+        "uri": "https://api.secondhandsongs.com/work/151970"
+      },
+      {
+        "title": "Wij gaan op vakantie!",
+        "uri": "https://api.secondhandsongs.com/work/217130"
+      },
+      {
+        "title": "Zelebration",
+        "uri": "https://api.secondhandsongs.com/work/259591"
+      },
+      {
+        "title": "Celebremos",
+        "uri": "https://api.secondhandsongs.com/work/315853"
+      },
+      {
+        "title": "Höldum hátíð",
+        "uri": "https://api.secondhandsongs.com/work/350385"
+      }
+    ]
+  }
+}

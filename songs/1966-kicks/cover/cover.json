@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "62f66af5-3f0e-4bee-8726-488158fc6c30",
+      "release_title": "Kicks",
+      "release_date": "1966",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/25f2b13a-736c-47e9-992a-404f98c57f03/44418180551-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/25f2b13a-736c-47e9-992a-404f98c57f03",
+      "image_id": 44418180551,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        597
+      ],
+      "measures": {
+        "brightness": 0.861,
+        "saturation": 0.176,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#f6ecde",
+            "share": 0.272
+          },
+          {
+            "hex": "#95494f",
+            "share": 0.235
+          },
+          {
+            "hex": "#fefcf5",
+            "share": 0.185
+          },
+          {
+            "hex": "#e2bab5",
+            "share": 0.179
+          },
+          {
+            "hex": "#fdfaef",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "dee8221e-7d95-3927-a800-a44fdf1755cf",
+      "release_title": "Midnight Ride",
+      "release_date": "1966",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Midnight Ride",
+      "url": "http://coverartarchive.org/release/61d080a2-1c5d-4002-8069-18f209254991/16561333340-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/61d080a2-1c5d-4002-8069-18f209254991",
+      "image_id": 16561333340,
+      "types": [
+        "Front"
+      ],
+      "comment": "Discogs",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        299
+      ],
+      "measures": {
+        "brightness": 0.434,
+        "saturation": 0.416,
+        "dark_share": 0.108,
+        "palette": [
+          {
+            "hex": "#a89570",
+            "share": 0.232
+          },
+          {
+            "hex": "#895d3f",
+            "share": 0.22
+          },
+          {
+            "hex": "#312a20",
+            "share": 0.209
+          },
+          {
+            "hex": "#61412a",
+            "share": 0.169
+          },
+          {
+            "hex": "#433729",
+            "share": 0.169
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/19/cd/02/19cd02c5-1c51-9255-ecb1-99bf791400ac/886444329668.jpg/1200x1200bb.jpg",
+      "collection": "Midnight Ride",
+      "collection_id": 771271444,
+      "track_id": 771271508,
+      "artist_name": "Paul Revere & The Raiders",
+      "release_date": "1966-05-09T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.255,
+        "saturation": 0.585,
+        "dark_share": 0.472,
+        "palette": [
+          {
+            "hex": "#502d2d",
+            "share": 0.254
+          },
+          {
+            "hex": "#070202",
+            "share": 0.238
+          },
+          {
+            "hex": "#8e5d4f",
+            "share": 0.222
+          },
+          {
+            "hex": "#100406",
+            "share": 0.145
+          },
+          {
+            "hex": "#281317",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

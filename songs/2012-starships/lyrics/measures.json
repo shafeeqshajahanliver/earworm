@@ -1,0 +1,41 @@
+{
+  "id": "2012-starships",
+  "lyrics_kind": "synced",
+  "lrclib_id": 22725817,
+  "lines": 64,
+  "words": 378,
+  "unique_words": 129,
+  "type_token_ratio": 0.341,
+  "repeated_line_share": 0.438,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.294,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "starships",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 17,
+    "second": 12,
+    "first_plural": 12
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 6.71,
+  "last_line_s": 204.94,
+  "sung_time_s": 175.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 129.0,
+  "words_per_minute_track": 107.5,
+  "longest_gap_between_lines_s": 7.88,
+  "longest_gap_starts_at_s": 66.94,
+  "first_repeated_block": {
+    "first_at_s": 38.78,
+    "recurs_at_s": 54.24,
+    "lines": [
+      "Starships were meant to fly",
+      "Hands up and touch the sky"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 22725817",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

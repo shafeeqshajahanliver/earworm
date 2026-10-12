@@ -1,0 +1,41 @@
+{
+  "id": "2012-payphone",
+  "lyrics_kind": "synced",
+  "lrclib_id": 36392585,
+  "lines": 77,
+  "words": 556,
+  "unique_words": 188,
+  "type_token_ratio": 0.338,
+  "repeated_line_share": 0.338,
+  "distinct_lines": 51,
+  "zlib_compression_ratio": 0.327,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "payphone",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 46,
+    "second": 33,
+    "first_plural": 10
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.04,
+  "last_line_s": 226.8,
+  "sung_time_s": 229.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 145.4,
+  "words_per_minute_track": 144.0,
+  "longest_gap_between_lines_s": 5.85,
+  "longest_gap_starts_at_s": 82.91,
+  "first_repeated_block": {
+    "first_at_s": 0.04,
+    "recurs_at_s": 52.48,
+    "lines": [
+      "I'm at a payphone trying to call home",
+      "All of my change I spent on you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 36392585",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

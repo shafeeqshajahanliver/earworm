@@ -1,0 +1,78 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/20845",
+    "title": "I Swear",
+    "performer": "All-4-One",
+    "is_original": false,
+    "first_release_date": "1994",
+    "releases": [
+      {
+        "title": "All-4-One",
+        "uri": "https://api.secondhandsongs.com/release/8442",
+        "performer": "All-4-One"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "I Swear",
+      "uri": "https://api.secondhandsongs.com/work/20843"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/20843",
+    "title": "I Swear",
+    "language": "English",
+    "writers": [
+      "Gary Baker [US]",
+      "Frank J. Myers"
+    ],
+    "original_performer": "John Michael Montgomery",
+    "versions": 59,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Door jou",
+        "uri": "https://api.secondhandsongs.com/work/197300"
+      },
+      {
+        "title": "Niin myötä - kuin vastamäessäkin",
+        "uri": "https://api.secondhandsongs.com/work/118642"
+      },
+      {
+        "title": "Eu Juro",
+        "uri": "https://api.secondhandsongs.com/work/135496"
+      },
+      {
+        "title": "Voor jou",
+        "uri": "https://api.secondhandsongs.com/work/154376"
+      },
+      {
+        "title": "Idag",
+        "uri": "https://api.secondhandsongs.com/work/155600"
+      },
+      {
+        "title": "I Swear",
+        "uri": "https://api.secondhandsongs.com/work/234363"
+      },
+      {
+        "title": "Vais Ver",
+        "uri": "https://api.secondhandsongs.com/work/246853"
+      },
+      {
+        "title": "Jag svär",
+        "uri": "https://api.secondhandsongs.com/work/257937"
+      },
+      {
+        "title": "I dag",
+        "uri": "https://api.secondhandsongs.com/work/345438"
+      }
+    ]
+  }
+}

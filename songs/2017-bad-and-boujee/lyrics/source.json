@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20199299,
+  "kind": "synced",
+  "matched": {
+    "track": "Bad and Boujee",
+    "artist": "Migos",
+    "album": "Bad and Boujee",
+    "duration_s": 332.690249
+  },
+  "duration_matched_to": "musicbrainz recording length (333s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 332.69,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 332.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 207.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 334.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 343.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 37,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 38631787 (Bad and Boujee / Migos featuring Lil Uzi Vert / Culture, 335.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34738505 (Bad And Boujee / Migos Feat․ Lil Uzi Vert / Culture, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 2702697 (Bad and Boujee / Migos feat. Lil Uzi Vert / Culture, 128.0s): duration matches no reference length",
+    "lrclib 9639536 (Bad and Boujee / Migos feat. Lil Uzi Vert / Culture, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 16373551 (Bad and Boujee / Migos feat. Lil Uzi Vert / Bad and Boujee, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 38137059 (Bad and Boujee / Migos featuring Lil Uzi Vert / Billboard Hot 100: 2017 Year-End Chart, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 20666255 (Bad and Boujee / Migos / Migology Mixed By DJ Smoke, 241.4791s): duration matches no reference length",
+    "lrclib 2530125 (Bad And Boujee / Migos / Essential Hits 142, 128.0s): duration matches no reference length",
+    "lrclib 3155751 (Bad and Boujee / Migos / Culture, 128.0s): duration matches no reference length",
+    "lrclib 25720934 (Bad and Boujee / Migos / Culture, 318.0s): duration matches no reference length",
+    "lrclib 9478223 (Bad and Boujee / Migos / Culture, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 38728184 (Bad and Boujee / Migos / Bad and Boujee, 195.0s): duration matches no reference length",
+    "lrclib 11119293 (Bad and Boujee (feat. Lil Uzi Vert) / Migos / Bad and Boujee (feat. Lil Uzi Vert), 343.0s): only 50% of title words in the lyric (wrong song?)"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

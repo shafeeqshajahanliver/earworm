@@ -1,0 +1,73 @@
+{
+  "id": "2012-payphone",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1394186132,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM71203844",
+    "title": "Payphone",
+    "artist": "Maroon 5",
+    "album": "Sing Along Bangers",
+    "track_duration_s": 222,
+    "link": "https://www.deezer.com/track/1394186132",
+    "duration_matched_to": "wikipedia infobox length (227s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 111.7,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      112.3
+    ],
+    "beats_detected": 55,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.518,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.486,
+    "chroma_profile": [
+      0.403,
+      0.451,
+      0.386,
+      0.478,
+      0.642,
+      0.592,
+      1.0,
+      0.793,
+      0.996,
+      0.702,
+      0.676,
+      0.852
+    ],
+    "rms_dbfs": -6.94,
+    "rms_dbfs_p95_frame": -3.59,
+    "peak_dbfs": 2.15,
+    "loudness_lufs_approx": -6.94,
+    "spectral_centroid_hz_mean": 3071.4,
+    "spectral_centroid_hz_median": 3031.8,
+    "onsets": 90,
+    "onset_density_per_s": 3.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1394186132",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1394186132",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USUM71203347: version: Payphone (Explicit Version)"
+  ]
+}

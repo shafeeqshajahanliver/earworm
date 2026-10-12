@@ -1,0 +1,41 @@
+{
+  "id": "2015-the-hills",
+  "lyrics_kind": "synced",
+  "lrclib_id": 800688,
+  "lines": 53,
+  "words": 435,
+  "unique_words": 117,
+  "type_token_ratio": 0.269,
+  "repeated_line_share": 0.472,
+  "distinct_lines": 28,
+  "zlib_compression_ratio": 0.252,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "the hills",
+  "title_phrase_occurrences": 1,
+  "pronouns": {
+    "first_singular": 66,
+    "second": 34,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.66,
+  "last_line_s": 212.25,
+  "sung_time_s": 207.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 125.5,
+  "words_per_minute_track": 107.7,
+  "longest_gap_between_lines_s": 10.36,
+  "longest_gap_starts_at_s": 156.68,
+  "first_repeated_block": {
+    "first_at_s": 51.3,
+    "recurs_at_s": 68.33,
+    "lines": [
+      "I only love it when you touch me, not feel me",
+      "When I'm fucked up, that's the real me"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 800688",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

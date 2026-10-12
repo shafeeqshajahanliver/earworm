@@ -1,0 +1,97 @@
+{
+  "id": "2005-hollaback-girl",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0127_hollabackgirl",
+      "match": {
+        "title": "Hollaback Girl",
+        "artist": "Gwen Stefani",
+        "release": "Dance 2005, Volume 2",
+        "musicbrainz_id": "04af5a43-6c05-4e25-9329-19e880c10c22",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0127_hollabackgirl.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0127_hollabackgirl.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 150.732,
+      "bpm": 110.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -49 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 6.544,
+          "end": 10.907,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 2
+        },
+        {
+          "start": 10.907,
+          "end": 28.362,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 28.362,
+          "end": 45.817,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 45.817,
+          "end": 63.271,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 63.271,
+          "end": 80.726,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 80.726,
+          "end": 98.18,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 98.18,
+          "end": 115.635,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 115.635,
+          "end": 133.089,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 133.089,
+          "end": 141.816,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 151 s vs 200 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

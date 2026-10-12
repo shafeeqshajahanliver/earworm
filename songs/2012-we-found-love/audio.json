@@ -1,0 +1,74 @@
+{
+  "id": "2012-we-found-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 14519026,
+    "matched_by": "isrc",
+    "isrc": "USUM71115507",
+    "title": "We Found Love",
+    "artist": "Rihanna",
+    "album": "Talk That Talk",
+    "track_duration_s": 216,
+    "link": "https://www.deezer.com/track/14519026",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 85.4,
+    "tempo_bpm_grid": 85.4,
+    "tempo_candidates_bpm": [
+      64.6,
+      172.3,
+      86.1
+    ],
+    "beats_detected": 46,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.565,
+    "key_runner_up": "Eb minor",
+    "key_runner_up_correlation": 0.54,
+    "chroma_profile": [
+      0.528,
+      0.736,
+      0.809,
+      0.93,
+      0.623,
+      0.751,
+      0.798,
+      0.736,
+      1.0,
+      0.768,
+      0.941,
+      0.628
+    ],
+    "rms_dbfs": -8.69,
+    "rms_dbfs_p95_frame": -5.37,
+    "peak_dbfs": 1.11,
+    "loudness_lufs_approx": -8.56,
+    "spectral_centroid_hz_mean": 3482.1,
+    "spectral_centroid_hz_median": 3517.7,
+    "onsets": 108,
+    "onset_density_per_s": 3.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 14519026",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/14519026",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb major and Eb minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBARL1201387: matched but no preview available (readable=False)"
+  ]
+}

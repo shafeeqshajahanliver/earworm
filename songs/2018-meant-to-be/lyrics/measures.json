@@ -1,0 +1,41 @@
+{
+  "id": "2018-meant-to-be",
+  "lyrics_kind": "synced",
+  "lrclib_id": 19372567,
+  "lines": 53,
+  "words": 368,
+  "unique_words": 105,
+  "type_token_ratio": 0.285,
+  "repeated_line_share": 0.377,
+  "distinct_lines": 33,
+  "zlib_compression_ratio": 0.278,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "meant to be",
+  "title_phrase_occurrences": 17,
+  "pronouns": {
+    "first_singular": 19,
+    "second": 8,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 5.8,
+  "last_line_s": 158.86,
+  "sung_time_s": 154.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 142.6,
+  "words_per_minute_track": 134.2,
+  "longest_gap_between_lines_s": 4.03,
+  "longest_gap_starts_at_s": 130.27,
+  "first_repeated_block": {
+    "first_at_s": 30.36,
+    "recurs_at_s": 36.66,
+    "lines": [
+      "If it's meant to be, it'll be, it'll be",
+      "Baby, just let it be"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 19372567",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

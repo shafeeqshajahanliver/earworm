@@ -1,0 +1,74 @@
+{
+  "id": "2008-forever",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13129389,
+    "matched_by": "isrc",
+    "isrc": "USJI10800113",
+    "title": "Forever",
+    "artist": "Chris Brown",
+    "album": "NRJ Hits 11",
+    "track_duration_s": 278,
+    "link": "https://www.deezer.com/track/13129389",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 60.2,
+    "tempo_bpm_grid": 60.1,
+    "tempo_candidates_bpm": [
+      60.1,
+      117.5,
+      123.0
+    ],
+    "beats_detected": 18,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.355,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.353,
+    "chroma_profile": [
+      0.525,
+      0.694,
+      0.503,
+      0.654,
+      0.873,
+      0.936,
+      1.0,
+      0.685,
+      0.574,
+      0.436,
+      0.482,
+      0.601
+    ],
+    "rms_dbfs": -7.22,
+    "rms_dbfs_p95_frame": -4.09,
+    "peak_dbfs": 0.93,
+    "loudness_lufs_approx": -8.0,
+    "spectral_centroid_hz_mean": 2248.1,
+    "spectral_centroid_hz_median": 2214.3,
+    "onsets": 84,
+    "onset_density_per_s": 2.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13129389",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.8,
+    "gain": -8.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13129389",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (119.8): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading",
+    "key is close between B major and F# major"
+  ],
+  "rejected_candidates": []
+}

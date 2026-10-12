@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "181a7ada-0271-416d-a40c-13207bd1bce6",
+      "release_title": "My True Story / When I Was Single",
+      "release_date": "1961",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a50d9a91-3594-4547-9b81-84de5c77b6fb/21508935463-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a50d9a91-3594-4547-9b81-84de5c77b6fb",
+      "image_id": 21508935463,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "label",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        598
+      ],
+      "measures": {
+        "brightness": 0.673,
+        "saturation": 0.512,
+        "dark_share": 0.142,
+        "palette": [
+          {
+            "hex": "#e77037",
+            "share": 0.357
+          },
+          {
+            "hex": "#2d2316",
+            "share": 0.285
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.21
+          },
+          {
+            "hex": "#9a5635",
+            "share": 0.139
+          },
+          {
+            "hex": "#eba17b",
+            "share": 0.01
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/25/5f/1d/255f1df3-e8b9-bc42-06a7-eddec2dfd1fc/The_Jive_Five_with_Joe_Rene_Orchestra-_My_True_Story.jpg/1200x1200bb.jpg",
+      "collection": "My True Story (Remastered) - Single",
+      "collection_id": 537588818,
+      "track_id": 537589056,
+      "artist_name": "The Jive Five & Joe Rene Orchestra",
+      "release_date": "1961-12-31T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.642,
+        "saturation": 0.049,
+        "dark_share": 0.262,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.337
+          },
+          {
+            "hex": "#080808",
+            "share": 0.289
+          },
+          {
+            "hex": "#888485",
+            "share": 0.163
+          },
+          {
+            "hex": "#eeeeee",
+            "share": 0.154
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.056
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

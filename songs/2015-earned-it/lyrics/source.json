@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5052416,
+  "kind": "synced",
+  "matched": {
+    "track": "Earned It  (From The \"Fifty Shades Of Grey\" Soundtrack)",
+    "artist": "The Weeknd",
+    "album": "Earned It",
+    "duration_s": 252.0
+  },
+  "duration_matched_to": "musicbrainz recording length (251s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 250.973,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 250.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 277.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 38,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36799228 (Earned it / The Weeknd / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 18780500 (Earned It / THE WEEKND / Welcome To The Weeknd, 214.80775s): duration matches no reference length",
+    "lrclib 20284464 (Earned It / The Weeknd / Welcome to the Weeknd, 212.5061248s): duration matches no reference length",
+    "lrclib 20163425 (Earned It / The Weeknd / Live at Lollapalooza Brasil 2017, 192.809796s): live/remix/other version",
+    "lrclib 37352891 (Earned It (Fifty Shades Of Grey) / The Weeknd / The Highlights, Nones): duration matches no reference length",
+    "lrclib 36925143 (Earned It (Fifty Shades Of Grey) / The Weeknd / Beauty Behind The Madness, Nones): duration matches no reference length",
+    "lrclib 34751519 (Earned It (Fifty Shades of Grey) / The Weeknd / The Highlights, 407.0s): duration matches no reference length",
+    "lrclib 36019399 (Earned It (Fifty Shades Of Grey) / The Weeknd / Beauty Behind The Madness, 110.0s): duration matches no reference length",
+    "lrclib 36398916 (Earned It (Fifty Shades Of Grey) / The Weeknd / Beauty Behind The Madness, 200.0s): duration matches no reference length",
+    "lrclib 36390670 (Earned It (Fifty Shades Of Grey) / The Weeknd / The Highlights, Nones): duration matches no reference length",
+    "lrclib 33840116 (Earned It (Fifty Shades Of Grey) / The Weeknd / 825 jt x ditonton, 4.0s): duration matches no reference length",
+    "lrclib 34068974 (Earned It (Fifty Shades Of Grey) / The Weeknd / The Highlights, 4.0s): duration matches no reference length",
+    "lrclib 34193703 (Earned It (Fifty Shades Of Grey) / The Weeknd / The Highlights, Nones): duration matches no reference length",
+    "lrclib 34136958 (Earned It (Fifty Shades Of Grey) / The Weeknd / Beauty Behind The Madness (Explicit Version), 30.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

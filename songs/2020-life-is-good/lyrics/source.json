@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 9595046,
+  "kind": "synced",
+  "matched": {
+    "track": "Life Is Good",
+    "artist": "Future feat. Drake",
+    "album": "Life Is Good [Explicit]",
+    "duration_s": 237.767
+  },
+  "duration_matched_to": "musicbrainz recording length (238s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 237.735,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 237.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 237.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 0.989,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 11040529 (Life Is Good / Future feat. Drake / High Off Life, 335.0s): duration matches no reference length",
+    "lrclib 36350248 (Life Is Good / Future feat. Drake, DaBaby, Lil Baby / High Off Life, 315.0s): duration matches no reference length",
+    "lrclib 25258606 (Life Is Good (Remix) / Future feat. Drake, DaBaby & Lil Baby / Life Is Good (Remix), 315.376327s): live/remix/other version",
+    "lrclib 4861195 (Life Is Good (Remix) / Future feat. Drake, DaBaby & Lil Baby / High Off Life, 315.0s): live/remix/other version",
+    "lrclib 30495145 (Life Is Good (remix) / Future Feat․ Drake, DaBaby & Lil Baby / High Off Life, 315.0s): live/remix/other version",
+    "lrclib 3106164 (Life Is Good (Remix) [feat. Drake, DaBaby & Lil Baby] / Future feat. Drake, DaBaby & Lil Baby / High Off Life, 315.0s): live/remix/other version",
+    "lrclib 34349610 (Life Is Good / Future / Future, 335.0s): duration matches no reference length",
+    "lrclib 33655294 (Life Is Good / Future / High Off Life, 94.0s): duration matches no reference length",
+    "lrclib 33953912 (Life Is Good / Future / High Off Life, 275.0s): duration matches no reference length",
+    "lrclib 21548683 (Life Is Good / Future / High Off Life, 314.7605s): duration matches no reference length",
+    "lrclib 24378384 (Life Is Good / Future / Life Is Good (feat. Drake), 178.2s): duration matches no reference length",
+    "lrclib 23008691 (Life Is Good / Future / Life Is Good, 315.0s): duration matches no reference length",
+    "lrclib 6669808 (Life Is Good (Remix) / Future / Life Is Good (Remix), 315.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

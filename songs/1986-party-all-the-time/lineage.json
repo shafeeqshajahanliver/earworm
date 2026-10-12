@@ -1,0 +1,44 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/46036",
+    "title": "Party All the Time",
+    "performer": "Eddie Murphy",
+    "is_original": true,
+    "first_release_date": "1985-09",
+    "releases": [
+      {
+        "title": "How Could It Be",
+        "uri": "https://api.secondhandsongs.com/release/18206",
+        "performer": "Eddie Murphy"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 7,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/46036",
+    "title": "Party All the Time",
+    "language": "English",
+    "writers": [
+      "Rick James"
+    ],
+    "original_performer": "Eddie Murphy",
+    "versions": 8,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Polka Party!",
+        "uri": "https://api.secondhandsongs.com/work/46035"
+      },
+      {
+        "title": "Sorry All the Time",
+        "uri": "https://api.secondhandsongs.com/work/307396"
+      }
+    ]
+  }
+}

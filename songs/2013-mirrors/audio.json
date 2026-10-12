@@ -1,0 +1,70 @@
+{
+  "id": "2013-mirrors",
+  "preview": {
+    "service": "deezer",
+    "track_id": 65372358,
+    "matched_by": "isrc",
+    "isrc": "USRC11300246",
+    "title": "Mirrors (Radio Edit)",
+    "artist": "Justin Timberlake",
+    "album": "Mirrors (Radio Edit)",
+    "track_duration_s": 277,
+    "link": "https://www.deezer.com/track/65372358",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 153.9,
+    "tempo_bpm_grid": 152.0,
+    "tempo_candidates_bpm": [
+      152.0,
+      161.5,
+      76.0
+    ],
+    "beats_detected": 76,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.747,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.63,
+    "chroma_profile": [
+      0.962,
+      0.931,
+      0.874,
+      1.0,
+      0.596,
+      0.681,
+      0.462,
+      0.666,
+      0.926,
+      0.549,
+      0.967,
+      0.527
+    ],
+    "rms_dbfs": -8.4,
+    "rms_dbfs_p95_frame": -4.93,
+    "peak_dbfs": 1.0,
+    "loudness_lufs_approx": -8.61,
+    "spectral_centroid_hz_mean": 2264.0,
+    "spectral_centroid_hz_median": 2205.0,
+    "onsets": 52,
+    "onset_density_per_s": 1.734,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 65372358",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 153.7,
+    "gain": -9.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/65372358",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

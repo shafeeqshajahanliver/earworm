@@ -1,0 +1,434 @@
+{
+  "id": "1971-maggie-may",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "100",
+      "also_ids": [],
+      "match": {
+        "title": "Maggie May",
+        "artist": "Rod Stewart",
+        "chart_date": "1971-11-27",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 100 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 350.198,
+      "version_check": "duration within 12 s (+3.1 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.444,
+          "end": 27.319,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 12
+        },
+        {
+          "start": 27.319,
+          "end": 31.846,
+          "label": "",
+          "letter": "Z",
+          "normalised": "other",
+          "bars": 0
+        },
+        {
+          "start": 31.846,
+          "end": 46.488,
+          "label": "intro",
+          "letter": "B",
+          "normalised": "intro",
+          "bars": 10
+        },
+        {
+          "start": 46.488,
+          "end": 61.163,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 61.163,
+          "end": 75.991,
+          "label": "pre-chorus",
+          "letter": "D",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 75.991,
+          "end": 90.875,
+          "label": "chorus",
+          "letter": "E",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 90.875,
+          "end": 105.742,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 105.742,
+          "end": 120.656,
+          "label": "pre-chorus",
+          "letter": "D",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 120.656,
+          "end": 135.599,
+          "label": "chorus",
+          "letter": "E",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 135.599,
+          "end": 150.482,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 150.482,
+          "end": 165.013,
+          "label": "pre-chorus",
+          "letter": "D",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 165.013,
+          "end": 180.383,
+          "label": "chorus",
+          "letter": "E",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 180.383,
+          "end": 195.221,
+          "label": "solo",
+          "letter": "F",
+          "normalised": "solo",
+          "bars": 8
+        },
+        {
+          "start": 195.221,
+          "end": 210.117,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 210.117,
+          "end": 225.179,
+          "label": "pre-chorus",
+          "letter": "D",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 225.179,
+          "end": 240.091,
+          "label": "chorus",
+          "letter": "E",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 240.091,
+          "end": 266.245,
+          "label": "solo",
+          "letter": "F",
+          "normalised": "solo",
+          "bars": 14
+        },
+        {
+          "start": 266.245,
+          "end": 303.34,
+          "label": "interlude",
+          "letter": "G",
+          "normalised": "instrumental",
+          "bars": 25
+        },
+        {
+          "start": 303.34,
+          "end": 345.561,
+          "label": "outro",
+          "letter": "G",
+          "normalised": "outro",
+          "bars": 30
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "maggie_may_dt",
+      "match": {
+        "title": "Maggie May",
+        "artist": "Rod Stewart",
+        "year": "1971",
+        "rs500_rank": "130",
+        "audio_used": {
+          "artist": "Rod Stewart",
+          "album": "Every Picture Tells a Story",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, maggie_may_dt.har/.clt + maggie_may.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 340 s; our recording 347 s",
+      "parse_check": "expanded 166 bars; timed chord list ends in bar 165",
+      "sections": [
+        {
+          "start": 31.591,
+          "end": 46.279,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 46.279,
+          "end": 90.662,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 24
+        },
+        {
+          "start": 90.662,
+          "end": 135.416,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 32,
+          "bars": 24
+        },
+        {
+          "start": 135.416,
+          "end": 180.259,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 56,
+          "bars": 24
+        },
+        {
+          "start": 180.259,
+          "end": 195.1,
+          "label": "Inst",
+          "normalised": "instrumental",
+          "first_bar": 80,
+          "bars": 8
+        },
+        {
+          "start": 195.1,
+          "end": 239.952,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 88,
+          "bars": 24
+        },
+        {
+          "start": 239.952,
+          "end": 339.769,
+          "label": "Co",
+          "normalised": "outro",
+          "first_bar": 112,
+          "bars": 54
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "maggie_may_tdc",
+      "match": {
+        "title": "Maggie May",
+        "artist": "Rod Stewart",
+        "year": "1971",
+        "rs500_rank": "130",
+        "audio_used": {
+          "artist": "Rod Stewart",
+          "album": "Every Picture Tells a Story",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, maggie_may_tdc.har/.clt + maggie_may.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 340 s; our recording 347 s",
+      "parse_check": "expanded 166 bars; timed chord list ends in bar 165",
+      "sections": [
+        {
+          "start": 31.591,
+          "end": 46.279,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 46.279,
+          "end": 73.961,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 15
+        },
+        {
+          "start": 73.961,
+          "end": 90.662,
+          "label": "Bld1",
+          "normalised": "other",
+          "first_bar": 23,
+          "bars": 9
+        },
+        {
+          "start": 90.662,
+          "end": 118.641,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 32,
+          "bars": 15
+        },
+        {
+          "start": 118.641,
+          "end": 135.416,
+          "label": "Bld2",
+          "normalised": "other",
+          "first_bar": 47,
+          "bars": 9
+        },
+        {
+          "start": 135.416,
+          "end": 163.368,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 56,
+          "bars": 15
+        },
+        {
+          "start": 163.368,
+          "end": 180.259,
+          "label": "Bld2",
+          "normalised": "other",
+          "first_bar": 71,
+          "bars": 9
+        },
+        {
+          "start": 180.259,
+          "end": 195.1,
+          "label": "So",
+          "normalised": "solo",
+          "first_bar": 80,
+          "bars": 8
+        },
+        {
+          "start": 195.1,
+          "end": 223.138,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 88,
+          "bars": 15
+        },
+        {
+          "start": 223.138,
+          "end": 239.952,
+          "label": "Bld3",
+          "normalised": "other",
+          "first_bar": 103,
+          "bars": 9
+        },
+        {
+          "start": 239.952,
+          "end": 266.132,
+          "label": "So2",
+          "normalised": "solo",
+          "first_bar": 112,
+          "bars": 14
+        },
+        {
+          "start": 266.132,
+          "end": 339.769,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 126,
+          "bars": 40
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "mcgill_billboard": "intro verse prechorus chorus verse prechorus chorus verse prechorus chorus solo verse prechorus chorus solo instrumental outro",
+      "rolling_stone_dt": "intro verse instrumental verse outro",
+      "rolling_stone_tdc": "intro verse solo verse solo outro"
+    },
+    "section_order": [
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_dt",
+        "same_order": false,
+        "edit_distance": 13,
+        "similarity": 0.24
+      },
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 11,
+        "similarity": 0.35
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.67
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "mcgill_billboard": "no",
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

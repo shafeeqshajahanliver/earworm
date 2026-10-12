@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33820361,
+  "kind": "synced",
+  "matched": {
+    "track": "Undercover Angel",
+    "artist": "Alan O’day",
+    "album": "The Sound of the 70s",
+    "duration_s": 203.0
+  },
+  "duration_matched_to": "musicbrainz recording length (204s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 204.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 250.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 204.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 12,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37175481 (Undercover Angel / Alan O'Day / One Hit Wonders - Vol. 2, 217.0s): duration matches no reference length",
+    "lrclib 37271352 (Undercover Angel / Alan O'Day / Undercover Angel: 70's Nostalgia, 211.0s): duration matches no reference length",
+    "lrclib 35171152 (Undercover Angel / Alan O'Day / AM Gold: 1977  (Compilation), 214.0s): duration matches no reference length",
+    "lrclib 33768612 (Undercover Angel / Alan O'Day / 70's Flashback, 211.0s): duration matches no reference length",
+    "lrclib 33621190 (Undercover Angel / Alan O'Day / Seventies Nr. 1 Hits, 210.0s): duration matches no reference length",
+    "lrclib 33749473 (Undercover Angel / Alan O'Day / One Hit Wonders, 217.0s): duration matches no reference length",
+    "lrclib 33642421 (Undercover Angel / Alan O'Day / 70s Rewind, 211.0s): duration matches no reference length",
+    "lrclib 36045858 (Undercover Angel / Alan O'Day / Barbeque Summer, 211.0s): duration matches no reference length",
+    "lrclib 36775506 (Undercover Angel / Alan O'Day / Golden 70s Pop, 211.0s): duration matches no reference length",
+    "lrclib 36433047 (Undercover Angel / Alan O'Day / Grew Up In The 70s (2025), 211.0s): duration matches no reference length",
+    "lrclib 36402115 (Undercover Angel / Alan O'Day / Billboard Year-End Hot 100 singles of 1977, 211.0s): duration matches no reference length",
+    "lrclib 34326370 (Undercover Angel / Alan O'Day / songs to play on my boat, 211.0s): duration matches no reference length",
+    "lrclib 35509458 (Undercover Angel / Alan O'Day / Precious and Few, 220.0s): duration matches no reference length",
+    "lrclib 37794927 (Undercover Angel / Alan O'Day / Alan O'Day, 211.0s): duration matches no reference length",
+    "lrclib 16137421 (Undercover Angel / Alan O'Day / Undercover Angel, 213.0s): duration matches no reference length",
+    "lrclib 19065476 (Undercover Angel / Alan O'Day / Appetizers Featuring Undercover Angel, 214.2824369s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

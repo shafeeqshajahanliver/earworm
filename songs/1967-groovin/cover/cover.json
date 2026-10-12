@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "ef6021ef-d46b-4624-aea9-0a1997e0aa37",
+      "release_title": "Groovin' / Sueño",
+      "release_date": "1967-04-10",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "56829851-672a-3921-827f-23252811f0e6",
+      "release_title": "Groovin’",
+      "release_date": "1967-07-31",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Groovin'",
+      "url": "http://coverartarchive.org/release/4c18b6bd-603d-30bc-8152-92b7123c264a/33874047782-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4c18b6bd-603d-30bc-8152-92b7123c264a",
+      "image_id": 33874047782,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1000,
+        999
+      ],
+      "measures": {
+        "brightness": 0.749,
+        "saturation": 0.34,
+        "dark_share": 0.107,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.388
+          },
+          {
+            "hex": "#471513",
+            "share": 0.282
+          },
+          {
+            "hex": "#6b856f",
+            "share": 0.196
+          },
+          {
+            "hex": "#eef8f4",
+            "share": 0.103
+          },
+          {
+            "hex": "#fffdfc",
+            "share": 0.031
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/58/82/c85882ed-ae85-365e-5d5a-3a07a3653c7f/mzi.jdbjetwe.jpg/1200x1200bb.jpg",
+      "collection": "Groovin'",
+      "collection_id": 140781811,
+      "track_id": 140781316,
+      "artist_name": "The Young Rascals",
+      "release_date": "1966-03-28T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.848,
+        "saturation": 0.126,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.454
+          },
+          {
+            "hex": "#7f606a",
+            "share": 0.261
+          },
+          {
+            "hex": "#d1bfba",
+            "share": 0.21
+          },
+          {
+            "hex": "#fcfbf7",
+            "share": 0.058
+          },
+          {
+            "hex": "#fefeff",
+            "share": 0.017
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

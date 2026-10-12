@@ -1,0 +1,41 @@
+{
+  "id": "2011-moves-like-jagger",
+  "lyrics_kind": "synced",
+  "lrclib_id": 27966160,
+  "lines": 64,
+  "words": 462,
+  "unique_words": 124,
+  "type_token_ratio": 0.268,
+  "repeated_line_share": 0.266,
+  "distinct_lines": 47,
+  "zlib_compression_ratio": 0.277,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "moves like jagger",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 55,
+    "second": 29,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.07,
+  "last_line_s": 193.19,
+  "sung_time_s": 189.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 146.4,
+  "words_per_minute_track": 137.2,
+  "longest_gap_between_lines_s": 6.98,
+  "longest_gap_starts_at_s": 7.07,
+  "first_repeated_block": {
+    "first_at_s": 53.53,
+    "recurs_at_s": 69.09,
+    "lines": [
+      "I've got the moves like Jagger",
+      "I've got the moo-oo-oo-ooves like Jagger"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 27966160",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

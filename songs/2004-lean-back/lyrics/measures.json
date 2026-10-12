@@ -1,0 +1,41 @@
+{
+  "id": "2004-lean-back",
+  "lyrics_kind": "synced",
+  "lrclib_id": 9595782,
+  "lines": 88,
+  "words": 716,
+  "unique_words": 305,
+  "type_token_ratio": 0.426,
+  "repeated_line_share": 0.193,
+  "distinct_lines": 71,
+  "zlib_compression_ratio": 0.398,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "lean back",
+  "title_phrase_occurrences": 24,
+  "pronouns": {
+    "first_singular": 42,
+    "second": 17,
+    "first_plural": 22
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 10.19,
+  "last_line_s": 237.25,
+  "sung_time_s": 234.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 183.5,
+  "words_per_minute_track": 171.2,
+  "longest_gap_between_lines_s": 5.65,
+  "longest_gap_starts_at_s": 211.53,
+  "first_repeated_block": {
+    "first_at_s": 70.72,
+    "recurs_at_s": 131.14,
+    "lines": [
+      "Said my niggas don't dance, we just pull up our pants and",
+      "Do the rock away (can you hear me?)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 9595782",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

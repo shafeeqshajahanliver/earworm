@@ -1,0 +1,41 @@
+{
+  "id": "2008-love-song",
+  "lyrics_kind": "synced",
+  "lrclib_id": 6853291,
+  "lines": 68,
+  "words": 419,
+  "unique_words": 127,
+  "type_token_ratio": 0.303,
+  "repeated_line_share": 0.25,
+  "distinct_lines": 51,
+  "zlib_compression_ratio": 0.319,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "love song",
+  "title_phrase_occurrences": 11,
+  "pronouns": {
+    "first_singular": 38,
+    "second": 52,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.79,
+  "last_line_s": 214.15,
+  "sung_time_s": 208.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 120.7,
+  "words_per_minute_track": 107.5,
+  "longest_gap_between_lines_s": 9.73,
+  "longest_gap_starts_at_s": 75.51,
+  "first_repeated_block": {
+    "first_at_s": 53.35,
+    "recurs_at_s": 135.39,
+    "lines": [
+      "I'm not gonna write you a love song 'cause you asked for it",
+      "'Cause you need one, you see"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 6853291",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

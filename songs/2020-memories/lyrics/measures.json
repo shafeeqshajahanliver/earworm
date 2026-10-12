@@ -1,0 +1,41 @@
+{
+  "id": "2020-memories",
+  "lyrics_kind": "synced",
+  "lrclib_id": 303149,
+  "lines": 55,
+  "words": 428,
+  "unique_words": 101,
+  "type_token_ratio": 0.236,
+  "repeated_line_share": 0.473,
+  "distinct_lines": 29,
+  "zlib_compression_ratio": 0.224,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "memories",
+  "title_phrase_occurrences": 20,
+  "pronouns": {
+    "first_singular": 13,
+    "second": 17,
+    "first_plural": 9
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 10.24,
+  "last_line_s": 179.24,
+  "sung_time_s": 170.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 151.1,
+  "words_per_minute_track": 135.5,
+  "longest_gap_between_lines_s": 6.31,
+  "longest_gap_starts_at_s": 48.03,
+  "first_repeated_block": {
+    "first_at_s": 10.24,
+    "recurs_at_s": 64.5,
+    "lines": [
+      "Here's to the ones that we got",
+      "Cheers to the wish you were here, but you're not"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 303149",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

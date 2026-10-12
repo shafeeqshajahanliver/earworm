@@ -1,0 +1,255 @@
+{
+  "id": "1963-hes-so-fine",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1292",
+      "also_ids": [],
+      "match": {
+        "title": "He's So Fine",
+        "artist": "The Chiffons",
+        "chart_date": "1963-03-09",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1292 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 115.644,
+      "version_check": "duration within 12 s (+2.6 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A'",
+          "normalised": "intro",
+          "start": 0.395,
+          "end": 6.78,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "Am7",
+            "D",
+            "Am7",
+            "D"
+          ],
+          "roman": [
+            "ii7",
+            "V",
+            "ii7",
+            "V"
+          ],
+          "raw": [
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 6.78,
+          "end": 33.483,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 33.483,
+          "end": 59.913,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "bridge",
+          "letter": "B",
+          "normalised": "bridge",
+          "start": 59.913,
+          "end": 86.393,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "C",
+            "G",
+            "C",
+            "D7"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "IV",
+            "V7"
+          ],
+          "raw": [
+            "C:maj",
+            "G:maj",
+            "C:maj",
+            "D:7"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 86.393,
+          "end": 99.58,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "Am7",
+            "D",
+            "Am7",
+            "D"
+          ],
+          "roman": [
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "ii7",
+            "V",
+            "ii7",
+            "V"
+          ],
+          "raw": [
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj",
+            "A:min7",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "start": 99.58,
+          "end": 110.643,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "Em",
+            "G",
+            "Em"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "vi",
+            "I",
+            "vi"
+          ],
+          "raw": [
+            "G:maj",
+            "E:min",
+            "G:maj",
+            "E:min",
+            "G:maj",
+            "E:min",
+            "G:maj",
+            "E:min"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2019-wow",
+  "preview": {
+    "service": "deezer",
+    "track_id": 607391612,
+    "matched_by": "isrc",
+    "isrc": "USUM71822643",
+    "title": "Wow.",
+    "artist": "Post Malone",
+    "album": "Wow.",
+    "track_duration_s": 150,
+    "link": "https://www.deezer.com/track/607391612",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 99.8,
+    "tempo_bpm_grid": 100.3,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      66.3
+    ],
+    "beats_detected": 50,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.694,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.655,
+    "chroma_profile": [
+      0.555,
+      1.0,
+      0.76,
+      0.588,
+      0.503,
+      0.531,
+      0.945,
+      0.585,
+      0.586,
+      0.558,
+      0.495,
+      0.533
+    ],
+    "rms_dbfs": -4.8,
+    "rms_dbfs_p95_frame": -1.39,
+    "peak_dbfs": 2.04,
+    "loudness_lufs_approx": -7.53,
+    "spectral_centroid_hz_mean": 1902.6,
+    "spectral_centroid_hz_median": 1628.5,
+    "onsets": 124,
+    "onset_density_per_s": 4.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 607391612",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 99.86,
+    "gain": -7.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/607391612",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

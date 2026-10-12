@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37072762,
+  "kind": "synced",
+  "matched": {
+    "track": "Havana",
+    "artist": "Camila Cabello feat. Young Thug",
+    "album": "Havana (Single)",
+    "duration_s": 178.0
+  },
+  "duration_matched_to": "musicbrainz recording length (177s)",
+  "duration_diff_s": 1.5,
+  "reference_lengths": [
+    {
+      "seconds": 176.547,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 175.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 173.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 217.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 42,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33579836 (Havana / Camila Cabello feat. Young Thug / Havana, 199.0s): duration matches no reference length",
+    "lrclib 20562387 (Havana / Camila Cabello feat. Young Thug / HT Select Mix Quick Trax Vol. 10 (DD), 190.302041s): duration matches no reference length",
+    "lrclib 20838260 (Havana / Camila Cabello feat. Young Thug / Full Tilt Remix Vol. 75, 257.828571s): live/remix/other version",
+    "lrclib 22330855 (Havana / Camila Cabello feat. Young Thug / Mastermix: DJ Beats Chart Collection Vol. 03, 244.297143s): duration matches no reference length",
+    "lrclib 34438590 (Havana / Camila Cabello / Havana, 248.0s): duration matches no reference length",
+    "lrclib 34438586 (Havana / Camila Cabello / Havana, 198.0s): duration matches no reference length",
+    "lrclib 34726096 (Havana / Camila Cabello / Sync List, 198.0s): duration matches no reference length",
+    "lrclib 33651500 (Havana / Camila Cabello / NoTech, 195.0s): duration matches no reference length",
+    "lrclib 36176387 (Havana / Camila Cabello / Havana, 229.0s): duration matches no reference length",
+    "lrclib 32857857 (Havana / Camila Cabello / Camila Cabello, 1291.0s): duration matches no reference length",
+    "lrclib 29312130 (Havana (Remix) / Camila Cabello / Camila Cabello, 199.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

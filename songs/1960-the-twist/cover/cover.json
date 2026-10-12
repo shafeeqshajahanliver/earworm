@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3387f618-0f1a-3aa7-8192-fb6b65a6d9d5",
+      "release_title": "The Twist",
+      "release_date": "1960-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ad2da333-aeaa-44a0-b10e-fce0b09b7c63/38007589994-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ad2da333-aeaa-44a0-b10e-fce0b09b7c63",
+      "image_id": 38007589994,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        595,
+        600
+      ],
+      "measures": {
+        "brightness": 0.558,
+        "saturation": 0.17,
+        "dark_share": 0.22,
+        "palette": [
+          {
+            "hex": "#101514",
+            "share": 0.25
+          },
+          {
+            "hex": "#9a9589",
+            "share": 0.226
+          },
+          {
+            "hex": "#b5b0a5",
+            "share": 0.225
+          },
+          {
+            "hex": "#c4c0b8",
+            "share": 0.176
+          },
+          {
+            "hex": "#ccc9c5",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a587f870-e923-356e-bbb8-dacde1dc608e",
+      "release_title": "Twist With Chubby Checker",
+      "release_date": "1960",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Twist with Chubby Checker",
+      "url": "http://coverartarchive.org/release/eee5f99d-0ba7-4e5e-836c-8a023b63e90b/9820017818-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/eee5f99d-0ba7-4e5e-836c-8a023b63e90b",
+      "image_id": "9820017818",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        492,
+        500
+      ],
+      "measures": {
+        "brightness": 0.501,
+        "saturation": 0.506,
+        "dark_share": 0.344,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.375
+          },
+          {
+            "hex": "#9d1b04",
+            "share": 0.219
+          },
+          {
+            "hex": "#ae874d",
+            "share": 0.16
+          },
+          {
+            "hex": "#984520",
+            "share": 0.141
+          },
+          {
+            "hex": "#ded8b2",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/d9/0b/58d90b11-3609-824a-da0b-64598d0694ef/20UMGIM70154.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Twist - Single",
+      "collection_id": 1531774089,
+      "track_id": 1531774328,
+      "artist_name": "Chubby Checker",
+      "release_date": "1960-06-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.839,
+        "saturation": 0.615,
+        "dark_share": 0.049,
+        "palette": [
+          {
+            "hex": "#f61f27",
+            "share": 0.3
+          },
+          {
+            "hex": "#e8d0ca",
+            "share": 0.226
+          },
+          {
+            "hex": "#f6191c",
+            "share": 0.208
+          },
+          {
+            "hex": "#921920",
+            "share": 0.144
+          },
+          {
+            "hex": "#cd3d3e",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

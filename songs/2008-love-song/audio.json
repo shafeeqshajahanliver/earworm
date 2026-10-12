@@ -1,0 +1,70 @@
+{
+  "id": "2008-love-song",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2847547,
+    "matched_by": "isrc",
+    "isrc": "USSM10700383",
+    "title": "Love Song (Radio Edit)",
+    "artist": "Sara Bareilles",
+    "album": "LOVE",
+    "track_duration_s": 233,
+    "link": "https://www.deezer.com/track/2847547",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 123.0,
+    "tempo_bpm_grid": 123.0,
+    "tempo_candidates_bpm": [
+      123.0,
+      61.5,
+      117.5
+    ],
+    "beats_detected": 61,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.694,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.581,
+    "chroma_profile": [
+      0.816,
+      0.509,
+      0.795,
+      0.551,
+      0.764,
+      0.851,
+      0.525,
+      0.85,
+      0.662,
+      1.0,
+      0.999,
+      0.724
+    ],
+    "rms_dbfs": -7.88,
+    "rms_dbfs_p95_frame": -6.22,
+    "peak_dbfs": 1.51,
+    "loudness_lufs_approx": -7.26,
+    "spectral_centroid_hz_mean": 2913.4,
+    "spectral_centroid_hz_median": 2867.2,
+    "onsets": 102,
+    "onset_density_per_s": 3.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2847547",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 123,
+    "gain": -8.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2847547",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

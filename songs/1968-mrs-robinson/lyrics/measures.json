@@ -1,0 +1,41 @@
+{
+  "id": "1968-mrs-robinson",
+  "lyrics_kind": "synced",
+  "lrclib_id": 32979316,
+  "lines": 40,
+  "words": 291,
+  "unique_words": 110,
+  "type_token_ratio": 0.378,
+  "repeated_line_share": 0.325,
+  "distinct_lines": 27,
+  "zlib_compression_ratio": 0.346,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "mrs robinson",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 0,
+    "second": 26,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.44,
+  "last_line_s": 200.86,
+  "sung_time_s": 171.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 101.8,
+  "words_per_minute_track": 73.3,
+  "longest_gap_between_lines_s": 10.96,
+  "longest_gap_starts_at_s": 22.09,
+  "first_repeated_block": {
+    "first_at_s": 33.05,
+    "recurs_at_s": 82.39,
+    "lines": [
+      "And here's to you, Mrs. Robinson",
+      "Jesus loves you more than you will know"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 32979316",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

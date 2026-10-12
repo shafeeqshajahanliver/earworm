@@ -1,0 +1,79 @@
+{
+  "id": "1978-three-times-a-lady",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "1201",
+      "also_ids": [],
+      "match": {
+        "title": "Three Times A Lady",
+        "artist": "Commodores",
+        "chart_date": "1978-09-02",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 1201 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 219.716,
+      "version_check": "duration within 12 s (+1.7 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.511,
+          "end": 5.603,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 2
+        },
+        {
+          "start": 5.603,
+          "end": 47.229,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 17
+        },
+        {
+          "start": 47.229,
+          "end": 100.194,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 23
+        },
+        {
+          "start": 100.194,
+          "end": 138.333,
+          "label": "verse",
+          "letter": "D",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 138.333,
+          "end": 178.83,
+          "label": "instrumental",
+          "letter": "D'",
+          "normalised": "instrumental",
+          "bars": 17
+        },
+        {
+          "start": 178.83,
+          "end": 216.22,
+          "label": "chorus",
+          "letter": "C'",
+          "normalised": "chorus",
+          "bars": 12
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,44 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/295449",
+    "title": "Could've Been",
+    "performer": "Tiffany",
+    "is_original": true,
+    "first_release_date": "1987",
+    "releases": [
+      {
+        "title": "Tiffany",
+        "uri": "https://api.secondhandsongs.com/release/18857",
+        "performer": "Tiffany"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 3,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/135488",
+    "title": "Could've Been",
+    "language": "English",
+    "writers": [
+      "Lois Blaisch"
+    ],
+    "original_performer": "Tiffany",
+    "versions": 4,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Sonhando Acordada",
+        "uri": "https://api.secondhandsongs.com/work/208488"
+      },
+      {
+        "title": "我已經不懂得戀愛",
+        "uri": "https://api.secondhandsongs.com/work/305646"
+      }
+    ]
+  }
+}

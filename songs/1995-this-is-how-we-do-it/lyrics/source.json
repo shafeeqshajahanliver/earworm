@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3814631,
+  "kind": "synced",
+  "matched": {
+    "track": "This Is How We Do It",
+    "artist": "Montell Jordan",
+    "album": "This Is How We Do It",
+    "duration_s": 235.0
+  },
+  "duration_matched_to": "musicbrainz recording length (236s)",
+  "duration_diff_s": 1.1,
+  "reference_lengths": [
+    {
+      "seconds": 236.133,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 239.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 219.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 239.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 277.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37082877 (This Is How We Do It / Montell Jordan / Vol 11, 169.0s): duration matches no reference length",
+    "lrclib 37312572 (This Is How We Do It / Montell Jordan / Now That's What I Call Old Skool [Disc 1], 213.0s): duration matches no reference length",
+    "lrclib 37423646 (This Is How We Do It / Montell Jordan / La Plus Grande Discotheque Du Monde Volume 11, 169.0s): duration matches no reference length",
+    "lrclib 37440720 (This Is How We Do It / Montell Jordan / Massive R&B: Winter 2008, 210.0s): duration matches no reference length",
+    "lrclib 37441585 (This Is How We Do It / Montell Jordan / Dmc Commercial Collection 225, 321.0s): duration matches no reference length",
+    "lrclib 34511097 (This Is How We Do It / Montell Jordan / 101 90s Hits, 225.0s): duration matches no reference length",
+    "lrclib 19069396 (This is how we do it / Montell Jordan / This Is How We Do It, 230.199s): duration matches no reference length",
+    "lrclib 20698517 (This Is How We Do It / Montell Jordan / This Is How We Do It, 246.176s): duration matches no reference length",
+    "lrclib 22162321 (This Is How We Do It / Montell Jordan / This Is How We Do It, 213.585125s): duration matches no reference length",
+    "lrclib 25662706 (This Is How We Do It / Montell Jordan / This Is How We Do It, 208.666122s): duration matches no reference length",
+    "lrclib 31991820 (This Is How We Do It / Montell Jordan / This Is How We Do It, 149.0s): duration matches no reference length",
+    "lrclib 31640697 (This Is How We Do It / Montell Jordan / This Is How We Do It, 200.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

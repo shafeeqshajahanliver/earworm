@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d6516b74-0e53-3efa-b572-ff957555b4c4",
+      "release_title": "Can’t Take My Eyes Off You",
+      "release_date": "1967-05",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/01dcde50-e678-41f5-8ce8-c3a746071aff/11763302980-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/01dcde50-e678-41f5-8ce8-c3a746071aff",
+      "image_id": 11763302980,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        250,
+        250
+      ],
+      "measures": {
+        "brightness": 0.683,
+        "saturation": 0.638,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#5b3c27",
+            "share": 0.269
+          },
+          {
+            "hex": "#a05632",
+            "share": 0.255
+          },
+          {
+            "hex": "#f5ba24",
+            "share": 0.181
+          },
+          {
+            "hex": "#cb843d",
+            "share": 0.16
+          },
+          {
+            "hex": "#e7d183",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/b6/98/a0b6983b-3e5b-0a42-3d04-308425815922/s06.tapekocb.jpg/1200x1200bb.jpg",
+      "collection": "The Very Best of Frankie Valli and the Four Seasons",
+      "collection_id": 40454248,
+      "track_id": 40454283,
+      "artist_name": "Frankie Valli",
+      "release_date": "1967-05-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.601,
+        "saturation": 0.427,
+        "dark_share": 0.302,
+        "palette": [
+          {
+            "hex": "#7eb3f3",
+            "share": 0.359
+          },
+          {
+            "hex": "#161620",
+            "share": 0.304
+          },
+          {
+            "hex": "#7594be",
+            "share": 0.164
+          },
+          {
+            "hex": "#9d5a6b",
+            "share": 0.127
+          },
+          {
+            "hex": "#30334f",
+            "share": 0.045
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

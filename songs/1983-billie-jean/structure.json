@@ -1,0 +1,275 @@
+{
+  "id": "1983-billie-jean",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "billie_jean_dt",
+      "match": {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": "1983",
+        "rs500_rank": "58",
+        "audio_used": {
+          "artist": "Michael Jackson",
+          "album": "Thriller",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, billie_jean_dt.har/.clt + billie_jean.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 291 s; our recording 295 s",
+      "parse_check": "expanded 142 bars; timed chord list ends in bar 124",
+      "sections": [
+        {
+          "start": 0.057,
+          "end": 28.774,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 14
+        },
+        {
+          "start": 28.774,
+          "end": 69.768,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 14,
+          "bars": 20
+        },
+        {
+          "start": 69.768,
+          "end": 86.168,
+          "label": "Prec",
+          "normalised": "prechorus",
+          "first_bar": 34,
+          "bars": 8
+        },
+        {
+          "start": 86.168,
+          "end": 110.741,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 42,
+          "bars": 12
+        },
+        {
+          "start": 110.741,
+          "end": 151.674,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 54,
+          "bars": 20
+        },
+        {
+          "start": 151.674,
+          "end": 168.068,
+          "label": "Prec",
+          "normalised": "prechorus",
+          "first_bar": 74,
+          "bars": 8
+        },
+        {
+          "start": 168.068,
+          "end": 184.418,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 82,
+          "bars": 8
+        },
+        {
+          "start": 184.418,
+          "end": 208.961,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 90,
+          "bars": 12
+        },
+        {
+          "start": 208.961,
+          "end": 225.353,
+          "label": "Solo",
+          "normalised": "solo",
+          "first_bar": 102,
+          "bars": 8
+        },
+        {
+          "start": 225.353,
+          "end": 233.534,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 110,
+          "bars": 4
+        },
+        {
+          "start": 233.534,
+          "end": 258.086,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 114,
+          "bars": 12
+        },
+        {
+          "start": 258.086,
+          "end": 290.8,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 126,
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "billie_jean_tdc",
+      "match": {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": "1983",
+        "rs500_rank": "58",
+        "audio_used": {
+          "artist": "Michael Jackson",
+          "album": "Thriller",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, billie_jean_tdc.har/.clt + billie_jean.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 291 s; our recording 295 s",
+      "parse_check": "expanded 142 bars; timed chord list ends in bar 124",
+      "sections": [
+        {
+          "start": 0.057,
+          "end": 28.774,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 14
+        },
+        {
+          "start": 28.774,
+          "end": 69.768,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 14,
+          "bars": 20
+        },
+        {
+          "start": 69.768,
+          "end": 86.168,
+          "label": "Pc",
+          "normalised": "prechorus",
+          "first_bar": 34,
+          "bars": 8
+        },
+        {
+          "start": 86.168,
+          "end": 110.741,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 42,
+          "bars": 12
+        },
+        {
+          "start": 110.741,
+          "end": 151.674,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 54,
+          "bars": 20
+        },
+        {
+          "start": 151.674,
+          "end": 168.068,
+          "label": "Pc",
+          "normalised": "prechorus",
+          "first_bar": 74,
+          "bars": 8
+        },
+        {
+          "start": 168.068,
+          "end": 184.418,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 82,
+          "bars": 8
+        },
+        {
+          "start": 184.418,
+          "end": 208.961,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 90,
+          "bars": 12
+        },
+        {
+          "start": 208.961,
+          "end": 233.534,
+          "label": "So",
+          "normalised": "solo",
+          "first_bar": 102,
+          "bars": 12
+        },
+        {
+          "start": 233.534,
+          "end": 258.086,
+          "label": "Ch1",
+          "normalised": "chorus",
+          "first_bar": 114,
+          "bars": 12
+        },
+        {
+          "start": 258.086,
+          "end": 290.8,
+          "label": "Ou",
+          "normalised": "outro",
+          "first_bar": 126,
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse prechorus chorus verse prechorus chorus solo chorus outro",
+      "rolling_stone_tdc": "intro verse prechorus chorus verse prechorus chorus solo chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": true,
+        "edit_distance": 0,
+        "similarity": 1.0
+      }
+    ],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 27966160,
+  "kind": "synced",
+  "matched": {
+    "track": "Moves Like Jagger",
+    "artist": "Maroon 5 featuring Christina Aguilera",
+    "album": "Moves Like Jagger -Single",
+    "duration_s": 202.0
+  },
+  "duration_matched_to": "musicbrainz recording length (202s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 202.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 201.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 201.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 34,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36408349 (Moves Like Jagger / Maroon 5 Featuring Christina Aguilera / Moves Like Jagger (Special China Edition), 226.0s): duration matches no reference length",
+    "lrclib 33981088 (Moves Like Jagger / Maroon 5 Featuring Christina Aguilera / Hands All Over (2011 Version), 201.0s): live/remix/other version",
+    "lrclib 35546465 (Moves like Jagger / Maroon 5 featuring Christina Aguilera / Hands All Over, 40.0s): duration matches no reference length",
+    "lrclib 24908893 (Moves Like Jagger / Maroon 5 featuring Christina Aguilera / Hands All Over, 190.0s): duration matches no reference length",
+    "lrclib 12320770 (Moves Like Jagger / Maroon 5 Featuring Christina Aguilera / Grand Theft Auto V; Non-Stop-Pop FM, 214.0s): duration matches no reference length",
+    "lrclib 35184448 (Moves Like Jagger / Maroon 5 / Hands All Over, 64.0s): duration matches no reference length",
+    "lrclib 36279414 (Moves Like Jagger / Maroon 5 / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 34182752 (Moves Like Jagger / Maroon 5 / Singles, 191.0s): duration matches no reference length",
+    "lrclib 34103895 (Moves Like Jagger / Maroon 5 / Holiday Gift - Single, 97.0s): duration matches no reference length",
+    "lrclib 35502132 (Moves like Jagger / Maroon 5 / Hands All Over (Revised International Standard version), 202.0s): live/remix/other version",
+    "lrclib 20276050 (Moves Like Jagger / Maroon 5 / Moves Like Jagger, 224.186667s): duration matches no reference length",
+    "lrclib 22807511 (Moves Like Jagger / Maroon 5 / Moves Like Jagger, 213.744s): duration matches no reference length",
+    "lrclib 22634224 (Moves Like Jagger / Maroon 5 / Moves Like Jagger, 189.178776s): duration matches no reference length",
+    "lrclib 2215280 (Moves Like Jagger / Maroon 5 / Moves Like Jagger, 300.0s): duration matches no reference length",
+    "lrclib 14296823 (Moves Like Jagger / Maroon 5 / Moves Like Jagger, 279.0s): duration matches no reference length",
+    "lrclib 17822965 (Moves Like Jagger / Maroon 5 / Moves Like Jagger - Maroon 5 (Feat. Christina Aguilera) (Lyrics) 🎵, 213.4319999s): duration matches no reference length",
+    "lrclib 20248402 (Moves Like Jagger (Remix) / Maroon 5 / Moves Like Jagger, 182.566896s): live/remix/other version",
+    "lrclib 20219328 (Moves Like Jagger (Remix) / Maroon 5 / Moves Like Jagger, 226.146667s): live/remix/other version",
+    "lrclib 16789452 (Moves Like Jagger (Remix) / Maroon 5 / Moves Like Jagger, 201.0s): live/remix/other version",
+    "lrclib 32287283 (Moves Like Jagger / Maroon 5 ft. Christina Aguilera / Maroon 5 ft. Christina Aguilera - Moves Like Jagger, 279.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

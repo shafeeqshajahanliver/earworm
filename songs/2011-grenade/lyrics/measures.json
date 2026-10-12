@@ -1,0 +1,41 @@
+{
+  "id": "2011-grenade",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37210489,
+  "lines": 49,
+  "words": 438,
+  "unique_words": 123,
+  "type_token_ratio": 0.281,
+  "repeated_line_share": 0.347,
+  "distinct_lines": 32,
+  "zlib_compression_ratio": 0.284,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "grenade",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 35,
+    "second": 49,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.72,
+  "last_line_s": 213.17,
+  "sung_time_s": 207.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 126.7,
+  "words_per_minute_track": 118.4,
+  "longest_gap_between_lines_s": 10.96,
+  "longest_gap_starts_at_s": 155.06,
+  "first_repeated_block": {
+    "first_at_s": 29.76,
+    "recurs_at_s": 103.19,
+    "lines": [
+      "To give me all your love is all I ever asked",
+      "'Cause what you don't understand is"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37210489",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

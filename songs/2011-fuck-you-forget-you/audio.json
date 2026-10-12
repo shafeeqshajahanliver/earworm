@@ -1,0 +1,78 @@
+{
+  "id": "2011-fuck-you-forget-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7303269,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAT21001785",
+    "title": "Fuck You",
+    "artist": "CeeLo Green",
+    "album": "Fuck You",
+    "track_duration_s": 223,
+    "link": "https://www.deezer.com/track/7303269",
+    "duration_matched_to": "wikipedia infobox length (222s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 175.6,
+    "tempo_bpm_grid": 169.4,
+    "tempo_candidates_bpm": [
+      172.3,
+      63.0,
+      86.1
+    ],
+    "beats_detected": 84,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.477,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.426,
+    "chroma_profile": [
+      0.787,
+      0.513,
+      0.599,
+      0.474,
+      0.56,
+      0.626,
+      0.769,
+      1.0,
+      0.859,
+      0.742,
+      0.564,
+      0.532
+    ],
+    "rms_dbfs": -9.19,
+    "rms_dbfs_p95_frame": -6.16,
+    "peak_dbfs": -0.84,
+    "loudness_lufs_approx": -9.49,
+    "spectral_centroid_hz_mean": 2408.4,
+    "spectral_centroid_hz_median": 2348.3,
+    "onsets": 119,
+    "onset_density_per_s": 3.968,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7303269",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 127.6,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7303269",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (127.6) by 38%",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer 7303271: version (Fuck You (Le Castle Vania Remix))",
+    "deezer 14615952: version (Fuck You (Official Karaoke Version))",
+    "deezer 647371032: version (Fuck You (Bart B More Mix))"
+  ]
+}

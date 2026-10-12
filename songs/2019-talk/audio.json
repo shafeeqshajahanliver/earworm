@@ -1,0 +1,72 @@
+{
+  "id": "2019-talk",
+  "preview": {
+    "service": "deezer",
+    "track_id": 626612382,
+    "matched_by": "isrc",
+    "isrc": "USRC11900004",
+    "title": "Talk (feat. Disclosure)",
+    "artist": "Khalid",
+    "album": "Talk (feat. Disclosure)",
+    "track_duration_s": 197,
+    "link": "https://www.deezer.com/track/626612382",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 136.0,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      129.2
+    ],
+    "beats_detected": 66,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.358,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.347,
+    "chroma_profile": [
+      0.462,
+      0.583,
+      0.892,
+      0.846,
+      1.0,
+      0.688,
+      0.474,
+      0.58,
+      0.372,
+      0.45,
+      0.317,
+      0.352
+    ],
+    "rms_dbfs": -8.54,
+    "rms_dbfs_p95_frame": -1.95,
+    "peak_dbfs": 0.97,
+    "loudness_lufs_approx": -10.34,
+    "spectral_centroid_hz_mean": 2632.1,
+    "spectral_centroid_hz_median": 2369.1,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 626612382",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 136,
+    "gain": -10.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/626612382",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between D minor and E minor"
+  ],
+  "rejected_candidates": []
+}

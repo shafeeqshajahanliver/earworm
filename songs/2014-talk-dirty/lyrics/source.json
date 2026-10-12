@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1017849,
+  "kind": "synced",
+  "matched": {
+    "track": "Talk Dirty",
+    "artist": "Jason Derulo feat. 2 Chainz",
+    "album": "Tattoos",
+    "duration_s": 178.0
+  },
+  "duration_matched_to": "musicbrainz recording length (178s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 177.68,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 177.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 178.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 42,
+  "agreement_with_other_candidates": 0.908,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36991755 (Talk Dirty / Jason Derülo / Now That’s What I Call Music! 86, 195.0s): duration matches no reference length",
+    "lrclib 36270170 (Talk Dirty / Jason Derulo / Talk Dirty, 170.0s): duration matches no reference length",
+    "lrclib 35900364 (Talk Dirty / Jason Derulo / Talk Dirty, 80.0s): duration matches no reference length",
+    "lrclib 21230015 (Talk Dirty / Jason Derulo / Talk Dirty, 187.115102s): duration matches no reference length",
+    "lrclib 20906754 (Talk Dirty / Jason Derulo / BBC Radio 1's Live Lounge 2013, 170.713107s): live/remix/other version",
+    "lrclib 36932944 (Talk Dirty / Jason Derulo feat. 2 Chainz / Platinum Hits, 196.0s): duration matches no reference length",
+    "lrclib 15229226 (Talk Dirty (feat. 2 Chainz) / Jason Derulo / Jason Derulo, 187.0s): duration matches no reference length",
+    "lrclib 22531143 (Talk Dirty / Jason Derulo / Talk Dirty, 226.986893s): duration matches no reference length",
+    "lrclib 30567016 (Talk Dirty / Jason Derulo / Talk Dirty, 165.0s): duration matches no reference length",
+    "lrclib 18564437 (Talk Dirty (feat. 2 Chainz) / Jason Derulo / Jason Derulo Songs, 188.0s): duration matches no reference length",
+    "lrclib 12139420 (Talk Dirty (feat. 2 Chainz) / Jason Derulo / Jason Derulo Videos, 188.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

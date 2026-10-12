@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/126412",
+    "title": "Keep On Loving You",
+    "performer": "REO Speedwagon",
+    "is_original": true,
+    "first_release_date": "1980",
+    "releases": [
+      {
+        "title": "Hi Infidelity",
+        "uri": "https://api.secondhandsongs.com/release/28750",
+        "performer": "REO Speedwagon"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 19,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/113845",
+    "title": "Keep On Loving You",
+    "language": "English",
+    "writers": [
+      "Kevin Cronin"
+    ],
+    "original_performer": "REO Speedwagon",
+    "versions": 20,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Keep On Loving Ruth",
+        "uri": "https://api.secondhandsongs.com/work/204251"
+      }
+    ]
+  }
+}

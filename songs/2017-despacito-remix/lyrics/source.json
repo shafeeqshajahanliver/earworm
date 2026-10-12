@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 29166263,
+  "kind": "synced",
+  "matched": {
+    "track": "Despacito",
+    "artist": "Luis Fonsi and Daddy Yankee",
+    "album": "Despacito",
+    "duration_s": 229.0
+  },
+  "duration_matched_to": "musicbrainz recording length (230s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 230.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 228.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 227.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 2,
+  "agreement_with_other_candidates": 0.944,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 3724295 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / VIDA, 231.0s): live/remix/other version",
+    "lrclib 37386549 (Despacito (Remix) / Luis Fonsi & Daddy Yankee Feat. Justin Bieber / Despacito & Mis Grandes Éxitos, 231.0s): live/remix/other version",
+    "lrclib 33793325 (Despacito (Remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / NOW That's What I Call Music! 97 (CD1), 231.0s): live/remix/other version",
+    "lrclib 36827182 (Despacito (Remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): live/remix/other version",
+    "lrclib 36636322 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Bilboard Top Hit: 2017, 228.0s): live/remix/other version",
+    "lrclib 33967887 (Despacito (Remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Bailar Y Gozar, 231.0s): live/remix/other version",
+    "lrclib 19986474 (Despacito (Remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Mastermix: DJ Beats Chart Collection Vol. 01, 265.717551s): live/remix/other version",
+    "lrclib 22061689 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Despacito (remix), 281.544s): live/remix/other version",
+    "lrclib 24744432 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Luis Fonsi & Daddy Yankee feat. Justin Bieber - Singles, 281.592s): live/remix/other version",
+    "lrclib 22686547 (Despacito (Remix) / Luis Fonsi & Daddy Yankee Feat. Justin Bieber / 2018 Grammy Nominees, 229.626667s): live/remix/other version",
+    "lrclib 25096192 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Now That’s What I Call Music! 97, 228.984s): live/remix/other version",
+    "lrclib 3650836 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Now That’s What I Call Music! 97 (disc 1), 231.0s): live/remix/other version",
+    "lrclib 3572454 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / NOW That's What I Call Music! 64, 231.0s): live/remix/other version",
+    "lrclib 5539992 (Despacito (Remix) / Luis Fonsi & Daddy Yankee Feat. Justin Bieber / Now That's What I Call Music! 97, 231.0s): live/remix/other version",
+    "lrclib 1186878 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / Despacito (remix), 231.0s): live/remix/other version",
+    "lrclib 8182311 (Despacito (Remix) / Luis Fonsi & Daddy Yankee Feat. Justin Bieber / Now That's What I Call Music! 97 - CD 1, 231.0s): live/remix/other version",
+    "lrclib 28668005 (Despacito (Remix) / Luis Fonsi & Daddy Yankee Feat. Justin Bieber / Mastermix Classic Cuts 164 (Reggaeton Party) [2019], 229.0s): live/remix/other version",
+    "lrclib 28602096 (Despacito (Remix) / Luis Fonsi & Daddy Yankee Feat. Justin Bieber / NOW 64, 228.0s): live/remix/other version",
+    "lrclib 26383611 (Despacito (remix) / Luis Fonsi & Daddy Yankee feat. Justin Bieber / 2018 GRAMMY® Nominees, 250.8675s): live/remix/other version",
+    "lrclib 13085447 (Despacito (Remix) (Feat. Daddy Yankee And Justin Bieber) / Luis Fonsi / Vida, 230.413333s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

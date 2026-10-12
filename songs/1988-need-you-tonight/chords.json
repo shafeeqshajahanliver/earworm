@@ -1,0 +1,526 @@
+{
+  "id": "1988-need-you-tonight",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "687",
+      "also_ids": [],
+      "match": {
+        "title": "Need You Tonight",
+        "artist": "INXS",
+        "chart_date": "1988-01-23",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 687 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 190.276,
+      "version_check": "duration within 12 s (+7.1 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "C",
+        "tonic_pc": 0,
+        "mode": null,
+        "name": "C",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.31,
+          "end": 9.172,
+          "bars": 6,
+          "key": "C",
+          "written": [
+            "N"
+          ],
+          "roman": [
+            "N"
+          ],
+          "raw": [
+            "N"
+          ]
+        },
+        {
+          "label": "intro",
+          "letter": "B",
+          "normalised": "intro",
+          "start": 9.172,
+          "end": 17.998,
+          "bars": 4,
+          "key": "C",
+          "written": [
+            "C",
+            "Eb",
+            "Gm/D",
+            "Cm",
+            "C",
+            "Eb",
+            "Gm/D",
+            "Cm"
+          ],
+          "roman": [
+            "I",
+            "bIII",
+            "v",
+            "i",
+            "I",
+            "bIII",
+            "v",
+            "i"
+          ],
+          "raw": [
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:min",
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:min"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "start": 17.998,
+          "end": 40.081,
+          "bars": 10,
+          "key": "C",
+          "written": [
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5"
+          ],
+          "roman": [
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5"
+          ],
+          "raw": [
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 40.081,
+          "end": 57.745,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C",
+            "Eb",
+            "Gm/D",
+            "C",
+            "Eb",
+            "Gm/D",
+            "C",
+            "Eb",
+            "Gm/D",
+            "C",
+            "Eb",
+            "Gm/D",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "bIII",
+            "v",
+            "I",
+            "bIII",
+            "v",
+            "I",
+            "bIII",
+            "v",
+            "I",
+            "bIII",
+            "v",
+            "I"
+          ],
+          "raw": [
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "start": 57.745,
+          "end": 79.833,
+          "bars": 10,
+          "key": "C",
+          "written": [
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5"
+          ],
+          "roman": [
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5"
+          ],
+          "raw": [
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C'",
+          "normalised": "verse",
+          "start": 79.833,
+          "end": 93.078,
+          "bars": 6,
+          "key": "C",
+          "written": [
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5"
+          ],
+          "roman": [
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5"
+          ],
+          "raw": [
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 93.078,
+          "end": 110.753,
+          "bars": 8,
+          "key": "C",
+          "written": [
+            "C",
+            "Eb",
+            "Gm/D",
+            "Cm",
+            "C",
+            "Eb",
+            "Gm/D",
+            "Cm",
+            "C",
+            "Eb",
+            "Gm/D",
+            "Cm",
+            "C",
+            "Eb",
+            "Gm/D",
+            "Cm"
+          ],
+          "roman": [
+            "I",
+            "bIII",
+            "v",
+            "i",
+            "I",
+            "bIII",
+            "v",
+            "i",
+            "I",
+            "bIII",
+            "v",
+            "i",
+            "I",
+            "bIII",
+            "v",
+            "i"
+          ],
+          "raw": [
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:min",
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:min",
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:min",
+            "C:maj",
+            "Eb:maj",
+            "G:min/5",
+            "C:min"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "start": 110.753,
+          "end": 132.841,
+          "bars": 10,
+          "key": "C",
+          "written": [
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5"
+          ],
+          "roman": [
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5"
+          ],
+          "raw": [
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C'",
+          "normalised": "verse",
+          "start": 132.841,
+          "end": 146.088,
+          "bars": 6,
+          "key": "C",
+          "written": [
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5"
+          ],
+          "roman": [
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5"
+          ],
+          "raw": [
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C'",
+          "normalised": "verse",
+          "start": 146.088,
+          "end": 159.347,
+          "bars": 6,
+          "key": "C",
+          "written": [
+            "C",
+            "F5",
+            "C",
+            "F5",
+            "C",
+            "F5"
+          ],
+          "roman": [
+            "I",
+            "IV5",
+            "I",
+            "IV5",
+            "I",
+            "IV5"
+          ],
+          "raw": [
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 159.347,
+          "end": 168.208,
+          "bars": 4,
+          "key": "C",
+          "written": [
+            "C",
+            "F5",
+            "C",
+            "F5"
+          ],
+          "roman": [
+            "I",
+            "IV5",
+            "I",
+            "IV5"
+          ],
+          "raw": [
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "F:5(b7)"
+          ]
+        },
+        {
+          "label": "ending",
+          "letter": "D",
+          "normalised": "outro",
+          "start": 168.208,
+          "end": 181.438,
+          "bars": 6,
+          "key": "C",
+          "written": [
+            "Eb",
+            "Gm/D",
+            "C",
+            "F5",
+            "C",
+            "N"
+          ],
+          "roman": [
+            "bIII",
+            "v",
+            "I",
+            "IV5",
+            "I",
+            "N"
+          ],
+          "raw": [
+            "Eb:maj",
+            "G:min/5",
+            "C:maj",
+            "F:5(b7)",
+            "C:maj",
+            "N",
+            "&pause"
+          ]
+        },
+        {
+          "label": "outro",
+          "letter": "A",
+          "normalised": "outro",
+          "start": 181.438,
+          "end": 188.473,
+          "bars": 2,
+          "key": "C",
+          "written": [
+            "N"
+          ],
+          "roman": [
+            "N"
+          ],
+          "raw": [
+            "N"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

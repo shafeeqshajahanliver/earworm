@@ -1,0 +1,70 @@
+{
+  "id": "2011-e-t",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15696868,
+    "matched_by": "isrc",
+    "isrc": "USCA21001256",
+    "title": "E.T.",
+    "artist": "Katy Perry",
+    "album": "Teenage Dream",
+    "track_duration_s": 206,
+    "link": "https://www.deezer.com/track/15696868",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 150.0,
+    "tempo_bpm_grid": 149.8,
+    "tempo_candidates_bpm": [
+      76.0,
+      152.0,
+      143.6
+    ],
+    "beats_detected": 75,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.522,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.432,
+    "chroma_profile": [
+      0.48,
+      0.663,
+      0.45,
+      0.592,
+      0.582,
+      0.861,
+      0.586,
+      0.754,
+      1.0,
+      0.846,
+      0.76,
+      0.534
+    ],
+    "rms_dbfs": -8.18,
+    "rms_dbfs_p95_frame": -4.95,
+    "peak_dbfs": 1.31,
+    "loudness_lufs_approx": -7.87,
+    "spectral_centroid_hz_mean": 2976.6,
+    "spectral_centroid_hz_median": 2894.3,
+    "onsets": 60,
+    "onset_density_per_s": 2.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15696868",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 149.8,
+    "gain": -8.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15696868",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

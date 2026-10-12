@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "071e4e23-28ed-4f62-85ab-de2a73ff8407",
+      "release_title": "The Hits Re-Recorded",
+      "release_date": "1984",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "https://coverartarchive.org/release/d6f945a1-9450-40f3-b85c-8c8259f0c3f7/43544181284-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d6f945a1-9450-40f3-b85c-8c8259f0c3f7",
+      "image_id": 43544181284,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.443,
+        "saturation": 0.059,
+        "dark_share": 0.468,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.431
+          },
+          {
+            "hex": "#eaeaeb",
+            "share": 0.191
+          },
+          {
+            "hex": "#999aa8",
+            "share": 0.152
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.139
+          },
+          {
+            "hex": "#2d0f12",
+            "share": 0.088
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/ef/70/1fef7049-b9a0-5809-f434-2bd8e47228d3/2620ABK00843.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Herman's Hermits On Tour (Mono)",
+      "collection_id": 6775569943,
+      "track_id": 6775569947,
+      "artist_name": "Herman's Hermits",
+      "release_date": "1965-02-12T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.675,
+        "saturation": 0.055,
+        "dark_share": 0.036,
+        "palette": [
+          {
+            "hex": "#888584",
+            "share": 0.357
+          },
+          {
+            "hex": "#665654",
+            "share": 0.201
+          },
+          {
+            "hex": "#efefef",
+            "share": 0.198
+          },
+          {
+            "hex": "#f4f4f4",
+            "share": 0.162
+          },
+          {
+            "hex": "#c8c4c3",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

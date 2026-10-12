@@ -1,0 +1,47 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/77475",
+    "title": "The Sign",
+    "performer": "Ace of Base",
+    "is_original": true,
+    "first_release_date": "1993",
+    "releases": [
+      {
+        "title": "Happy Nation U.S. Version",
+        "uri": "https://api.secondhandsongs.com/release/16184",
+        "performer": "Ace of Base"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 26,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/77475",
+    "title": "The Sign",
+    "language": "English",
+    "writers": [
+      "Joker [SE]",
+      "Linn Berggren",
+      "Buddha [SE]",
+      "Jenny Berggren"
+    ],
+    "original_performer": "Ace of Base",
+    "versions": 27,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "La señal",
+        "uri": "https://api.secondhandsongs.com/work/215154"
+      },
+      {
+        "title": "Leb den Moment",
+        "uri": "https://api.secondhandsongs.com/work/311766"
+      }
+    ]
+  }
+}

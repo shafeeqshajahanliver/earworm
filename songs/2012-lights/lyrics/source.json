@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18304218,
+  "kind": "synced",
+  "matched": {
+    "track": "Lights (single version)",
+    "artist": "Ellie Goulding",
+    "album": "Goulding: Lights",
+    "duration_s": 211.285333
+  },
+  "duration_matched_to": "musicbrainz recording length (211s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 211.24,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 210.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 212.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 245.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 0.917,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34467338 (Lights / Ellie Goulding / An Introduction To Ellie Goulding EP, 299.0s): duration matches no reference length",
+    "lrclib 35260063 (Lights / Ellie Goulding / De Afrekening 53: Best of 2012, 229.0s): duration matches no reference length",
+    "lrclib 35322745 (Lights / Ellie Goulding / Lights (Amazon MP3 Exclusive Version), 211.0s): live/remix/other version",
+    "lrclib 35047723 (Lights / Ellie Goulding / 🚴‍♀️😁, 127.0s): duration matches no reference length",
+    "lrclib 3657254 (Lights / Ellie Goulding / Ellie Goulding, 220.0s): duration matches no reference length",
+    "lrclib 8829835 (Lights (Sped Up Version) / Ellie Goulding / Ellie Goulding, 190.0s): live/remix/other version",
+    "lrclib 33684456 (Lights / Ellie Goulding / An Introduction to Ellie Goulding, 220.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

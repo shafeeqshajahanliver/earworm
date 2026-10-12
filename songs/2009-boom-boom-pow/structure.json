@@ -1,0 +1,117 @@
+{
+  "id": "2009-boom-boom-pow",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0598_boomboompow",
+      "match": {
+        "title": "Boom Boom Pow (radio edit)",
+        "artist": "The Black Eyed Peas",
+        "release": "Now That's What I Call Music! 31",
+        "musicbrainz_id": "319e6295-7ba1-4d0a-b9a4-00de8a16b4dc",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0598_boomboompow.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0598_boomboompow.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 217.035,
+      "bpm": 130.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 1.603,
+          "end": 14.526,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 7
+        },
+        {
+          "start": 14.526,
+          "end": 28.834,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 28.834,
+          "end": 58.834,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 58.834,
+          "end": 73.141,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 73.141,
+          "end": 103.141,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 103.141,
+          "end": 117.911,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 117.911,
+          "end": 132.68,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 132.68,
+          "end": 147.449,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 147.449,
+          "end": 169.141,
+          "label": "instrumental",
+          "normalised": "instrumental",
+          "bars": 12
+        },
+        {
+          "start": 169.141,
+          "end": 184.372,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 184.372,
+          "end": 199.141,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 199.141,
+          "end": 213.911,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2016-sorry",
+  "preview": {
+    "service": "deezer",
+    "track_id": 112662270,
+    "matched_by": "isrc",
+    "isrc": "USUM71516760",
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "album": "Purpose",
+    "track_duration_s": 201,
+    "link": "https://www.deezer.com/track/112662270",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 142.2,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      49.7,
+      136.0,
+      198.8
+    ],
+    "beats_detected": 72,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.582,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.555,
+    "chroma_profile": [
+      0.866,
+      0.618,
+      0.562,
+      0.634,
+      0.478,
+      0.697,
+      0.468,
+      0.683,
+      0.906,
+      0.67,
+      1.0,
+      0.592
+    ],
+    "rms_dbfs": -6.09,
+    "rms_dbfs_p95_frame": -3.96,
+    "peak_dbfs": 2.81,
+    "loudness_lufs_approx": -6.83,
+    "spectral_centroid_hz_mean": 2545.7,
+    "spectral_centroid_hz_median": 2409.8,
+    "onsets": 122,
+    "onset_density_per_s": 4.068,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 112662270",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 99.86,
+    "gain": -7.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/112662270",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (99.9) by 42%",
+    "key is close between Ab major and Eb major"
+  ],
+  "rejected_candidates": []
+}

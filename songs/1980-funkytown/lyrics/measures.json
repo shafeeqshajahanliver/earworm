@@ -1,0 +1,41 @@
+{
+  "id": "1980-funkytown",
+  "lyrics_kind": "synced",
+  "lrclib_id": 36995774,
+  "lines": 28,
+  "words": 189,
+  "unique_words": 27,
+  "type_token_ratio": 0.143,
+  "repeated_line_share": 0.679,
+  "distinct_lines": 9,
+  "zlib_compression_ratio": 0.162,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "funkytown",
+  "title_phrase_occurrences": 13,
+  "pronouns": {
+    "first_singular": 22,
+    "second": 14,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.56,
+  "last_line_s": 232.48,
+  "sung_time_s": 114.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 98.9,
+  "words_per_minute_track": 24.2,
+  "longest_gap_between_lines_s": 35.47,
+  "longest_gap_starts_at_s": 79.48,
+  "first_repeated_block": {
+    "first_at_s": 11.56,
+    "recurs_at_s": 141.46,
+    "lines": [
+      "Gotta make a move to a town that's right for me",
+      "Town to keep me movin', keep me groovin' with some energy"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 36995774",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

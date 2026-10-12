@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/276",
+    "title": "Unbelievable",
+    "performer": "EMF",
+    "is_original": true,
+    "first_release_date": "1990-10-22",
+    "releases": [
+      {
+        "title": "Schubert Dip",
+        "uri": "https://api.secondhandsongs.com/release/175",
+        "performer": "EMF"
+      },
+      {
+        "title": "Unbelievable",
+        "uri": "https://api.secondhandsongs.com/release/208542",
+        "performer": "EMF"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 23,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/276",
+    "title": "Unbelievable",
+    "language": "English",
+    "writers": [
+      "James Atkin",
+      "Derry Brownson",
+      "Mark Decloedt",
+      "Ian Dench",
+      "Zac Foley"
+    ],
+    "original_performer": "EMF",
+    "versions": 24,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Unbelievable",
+        "uri": "https://api.secondhandsongs.com/work/197209"
+      }
+    ]
+  }
+}

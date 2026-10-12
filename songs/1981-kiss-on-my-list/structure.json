@@ -1,0 +1,111 @@
+{
+  "id": "1981-kiss-on-my-list",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "18",
+      "also_ids": [],
+      "match": {
+        "title": "Kiss On My List",
+        "artist": "Daryl Hall & John Oates",
+        "chart_date": "1981-01-31",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 18 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 231.34,
+      "version_check": "duration within 12 s (+0.3 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.443,
+          "end": 17.081,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 17.081,
+          "end": 48.636,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 48.636,
+          "end": 64.37,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 64.37,
+          "end": 80.189,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 80.189,
+          "end": 95.983,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 95.983,
+          "end": 127.535,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 127.535,
+          "end": 143.334,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 143.334,
+          "end": 159.12,
+          "label": "chorus",
+          "letter": "D",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 159.12,
+          "end": 174.9,
+          "label": "solo",
+          "letter": "E",
+          "normalised": "solo",
+          "bars": 8
+        },
+        {
+          "start": 174.9,
+          "end": 228.392,
+          "label": "outro",
+          "letter": "D",
+          "normalised": "outro",
+          "bars": 29
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

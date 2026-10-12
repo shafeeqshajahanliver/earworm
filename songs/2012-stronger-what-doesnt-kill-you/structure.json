@@ -1,0 +1,104 @@
+{
+  "id": "2012-stronger-what-doesnt-kill-you",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0307_whatdoesntkillyou",
+      "match": {
+        "title": "Stronger (What Doesn't Kill You)",
+        "artist": "Kelly Clarkson",
+        "release": "So Fresh: The Hits of Summer 2013 + The Best of 2012",
+        "musicbrainz_id": "5e89cda2-94ab-4f90-bb40-241e61cdd247",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0307_whatdoesntkillyou.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0307_whatdoesntkillyou.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 198.838,
+      "bpm": 115.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -37 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 8.28,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 8.28,
+          "end": 24.832,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 24.832,
+          "end": 41.383,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 41.383,
+          "end": 76.556,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 17
+        },
+        {
+          "start": 76.556,
+          "end": 93.108,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 93.108,
+          "end": 99.314,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 3
+        },
+        {
+          "start": 99.314,
+          "end": 134.487,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 17
+        },
+        {
+          "start": 134.487,
+          "end": 157.245,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 11
+        },
+        {
+          "start": 157.245,
+          "end": 184.142,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 13
+        },
+        {
+          "start": 184.142,
+          "end": 192.418,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 199 s vs 236 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9260c3b4-d67b-4454-9974-68918103646b",
+      "release_title": "Wooden Heart",
+      "release_date": "1961-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/eeef814a-d45c-4f5e-9432-c698489fcd44/30861152396-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/eeef814a-d45c-4f5e-9432-c698489fcd44",
+      "image_id": 30861152396,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        596,
+        598
+      ],
+      "measures": {
+        "brightness": 0.664,
+        "saturation": 0.083,
+        "dark_share": 0.006,
+        "palette": [
+          {
+            "hex": "#faf7df",
+            "share": 0.28
+          },
+          {
+            "hex": "#666c65",
+            "share": 0.26
+          },
+          {
+            "hex": "#d3d3c3",
+            "share": 0.216
+          },
+          {
+            "hex": "#545a53",
+            "share": 0.149
+          },
+          {
+            "hex": "#868a7f",
+            "share": 0.094
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/ee/10/b1/mzi.utkospsv.jpg/1200x1200bb.jpg",
+      "collection": "Wooden Heart - Single",
+      "collection_id": 489455610,
+      "track_id": 489455613,
+      "artist_name": "Joe Dowell",
+      "release_date": "1961-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        800,
+        800
+      ],
+      "measures": {
+        "brightness": 0.771,
+        "saturation": 0.099,
+        "dark_share": 0.193,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.632
+          },
+          {
+            "hex": "#0e0e11",
+            "share": 0.223
+          },
+          {
+            "hex": "#948676",
+            "share": 0.099
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.039
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.007
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

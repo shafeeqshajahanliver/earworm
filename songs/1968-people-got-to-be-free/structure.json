@@ -1,0 +1,135 @@
+{
+  "id": "1968-people-got-to-be-free",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "191",
+      "also_ids": [],
+      "match": {
+        "title": "People Got To Be Free",
+        "artist": "The Rascals",
+        "chart_date": "1968-07-20",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 191 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 181.682,
+      "version_check": "duration within 12 s (+0.1 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.255,
+          "end": 14.526,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 14.526,
+          "end": 22.211,
+          "label": "trans",
+          "letter": "B",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 22.211,
+          "end": 52.205,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 52.205,
+          "end": 66.572,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 66.572,
+          "end": 74.179,
+          "label": "trans",
+          "letter": "B",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 74.179,
+          "end": 104.073,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 104.073,
+          "end": 118.45,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 118.45,
+          "end": 126.013,
+          "label": "trans",
+          "letter": "B",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 126.013,
+          "end": 133.543,
+          "label": "bridge",
+          "letter": "D",
+          "normalised": "bridge",
+          "bars": 4
+        },
+        {
+          "start": 133.543,
+          "end": 147.815,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 147.815,
+          "end": 155.498,
+          "label": "trans",
+          "letter": "B",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 155.498,
+          "end": 170.642,
+          "label": "outro",
+          "letter": "B'",
+          "normalised": "outro",
+          "bars": 8
+        },
+        {
+          "start": 170.642,
+          "end": 177.609,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 6
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

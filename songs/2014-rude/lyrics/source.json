@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21376930,
+  "kind": "synced",
+  "matched": {
+    "track": "Rude (Paused)",
+    "artist": "MAGIC!",
+    "album": "Rude",
+    "duration_s": 224.773
+  },
+  "duration_matched_to": "musicbrainz recording length (225s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 224.84,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 225.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 224.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 0.947,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36999734 (Rude / MAGIC! / Don't Kill The Magic, 179.0s): duration matches no reference length",
+    "lrclib 37125583 (Rude / MAGIC! / Magic: The Collection, 233.0s): duration matches no reference length",
+    "lrclib 37326330 (Rude / MAGIC! / Don't Kill the Magic, Nones): duration matches no reference length",
+    "lrclib 36882075 (Rude / Magic! / Don't Kill the Magic, 297.0s): duration matches no reference length",
+    "lrclib 35148461 (Rude / MAGIC! / CD1, 273.0s): duration matches no reference length",
+    "lrclib 36648570 (Rude / MAGIC! / Rude, Nones): duration matches no reference length",
+    "lrclib 35772174 (Rude / MAGIC! / Rude, 26.0s): duration matches no reference length",
+    "lrclib 35772178 (Rude / MAGIC! / Rude, 25.0s): duration matches no reference length",
+    "lrclib 35772180 (Rude / MAGIC! / Rude, 35.0s): duration matches no reference length",
+    "lrclib 34066268 (Rude / MAGIC! / Rude - Single, 192.0s): duration matches no reference length",
+    "lrclib 23417693 (Rude / Magic! / Rude (Acoustic), 224.0s): live/remix/other version",
+    "lrclib 2774945 (Rude (acoustic) / MAGIC! / Rude, 224.0s): live/remix/other version",
+    "lrclib 36722283 (Rude / Magic! / Rude (Zedd Remix), 273.0s): live/remix/other version",
+    "lrclib 23712078 (Rude (Zedd Remix) / MAGIC! / Rude, 328.0457139s): live/remix/other version",
+    "lrclib 23261688 (Rude (sped up) / MAGIC! / Rude, 186.0s): live/remix/other version",
+    "lrclib 12205547 (Rude (Zedd Remix) / MAGIC! / Rude, 273.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

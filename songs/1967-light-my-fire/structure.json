@@ -1,0 +1,288 @@
+{
+  "id": "1967-light-my-fire",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "light_my_fire_dt",
+      "match": {
+        "title": "Light My Fire",
+        "artist": "The Doors",
+        "year": "1967",
+        "rs500_rank": "35",
+        "audio_used": {
+          "artist": "The Doors",
+          "album": "The Doors",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, light_my_fire_dt.har/.clt + light_my_fire.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 426 s; our recording 172 s",
+      "parse_check": "expanded 220 bars; timed chord list ends in bar 218",
+      "version_note": "annotated audio runs to 426 s vs 172 s for our recording (The Doors): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 1.179,
+          "end": 10.482,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 5
+        },
+        {
+          "start": 10.482,
+          "end": 25.647,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 5,
+          "bars": 8
+        },
+        {
+          "start": 25.647,
+          "end": 38.852,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 13,
+          "bars": 7
+        },
+        {
+          "start": 38.852,
+          "end": 54.129,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 54.129,
+          "end": 67.269,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 7
+        },
+        {
+          "start": 67.269,
+          "end": 334.133,
+          "label": "So",
+          "normalised": "solo",
+          "first_bar": 35,
+          "bars": 140
+        },
+        {
+          "start": 334.133,
+          "end": 343.721,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 175,
+          "bars": 5
+        },
+        {
+          "start": 343.721,
+          "end": 359.257,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 180,
+          "bars": 8
+        },
+        {
+          "start": 359.257,
+          "end": 372.697,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 188,
+          "bars": 7
+        },
+        {
+          "start": 372.697,
+          "end": 387.972,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 195,
+          "bars": 8
+        },
+        {
+          "start": 387.972,
+          "end": 412.115,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 203,
+          "bars": 12
+        },
+        {
+          "start": 412.115,
+          "end": 425.966,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 215,
+          "bars": 5
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "light_my_fire_tdc",
+      "match": {
+        "title": "Light My Fire",
+        "artist": "The Doors",
+        "year": "1967",
+        "rs500_rank": "35",
+        "audio_used": {
+          "artist": "The Doors",
+          "album": "The Doors",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, light_my_fire_tdc.har/.clt + light_my_fire.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 426 s; our recording 172 s",
+      "parse_check": "expanded 220 bars; timed chord list ends in bar 218",
+      "version_note": "annotated audio runs to 426 s vs 172 s for our recording (The Doors): a different version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 1.179,
+          "end": 10.482,
+          "label": "Rf",
+          "normalised": "chorus",
+          "first_bar": 0,
+          "bars": 5
+        },
+        {
+          "start": 10.482,
+          "end": 25.647,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 5,
+          "bars": 8
+        },
+        {
+          "start": 25.647,
+          "end": 38.852,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 13,
+          "bars": 7
+        },
+        {
+          "start": 38.852,
+          "end": 54.129,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 20,
+          "bars": 8
+        },
+        {
+          "start": 54.129,
+          "end": 67.269,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 28,
+          "bars": 7
+        },
+        {
+          "start": 67.269,
+          "end": 334.133,
+          "label": "So",
+          "normalised": "solo",
+          "first_bar": 35,
+          "bars": 140
+        },
+        {
+          "start": 334.133,
+          "end": 343.721,
+          "label": "Rf",
+          "normalised": "chorus",
+          "first_bar": 175,
+          "bars": 5
+        },
+        {
+          "start": 343.721,
+          "end": 359.257,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 180,
+          "bars": 8
+        },
+        {
+          "start": 359.257,
+          "end": 372.697,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 188,
+          "bars": 7
+        },
+        {
+          "start": 372.697,
+          "end": 387.972,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 195,
+          "bars": 8
+        },
+        {
+          "start": 387.972,
+          "end": 412.115,
+          "label": "Ch4",
+          "normalised": "chorus",
+          "first_bar": 203,
+          "bars": 12
+        },
+        {
+          "start": 412.115,
+          "end": 425.966,
+          "label": "Rf",
+          "normalised": "chorus",
+          "first_bar": 215,
+          "bars": 5
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "intro verse chorus verse chorus solo intro verse chorus verse chorus intro",
+      "rolling_stone_tdc": "chorus verse chorus verse chorus solo chorus verse chorus verse chorus"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.75
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [
+      "rolling_stone_dt: annotated audio runs to 426 s vs 172 s for our recording (The Doors): a different version; section times do not line up with the charting recording",
+      "rolling_stone_tdc: annotated audio runs to 426 s vs 172 s for our recording (The Doors): a different version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

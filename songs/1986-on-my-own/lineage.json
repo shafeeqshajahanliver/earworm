@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/44504",
+    "title": "On My Own",
+    "performer": "Patti La Belle and Michael McDonald",
+    "is_original": true,
+    "first_release_date": "1986-03",
+    "releases": [
+      {
+        "title": "Winner in You",
+        "uri": "https://api.secondhandsongs.com/release/17545",
+        "performer": "Patti LaBelle"
+      },
+      {
+        "title": "On My Own",
+        "uri": "https://api.secondhandsongs.com/release/127712",
+        "performer": "Patti La Belle and Michael McDonald"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 22,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/44504",
+    "title": "On My Own",
+    "language": "English",
+    "writers": [
+      "Burt Bacharach",
+      "Carole Bayer Sager"
+    ],
+    "original_performer": "Patti La Belle and Michael McDonald",
+    "versions": 23,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Solo io",
+        "uri": "https://api.secondhandsongs.com/work/146212"
+      }
+    ]
+  }
+}

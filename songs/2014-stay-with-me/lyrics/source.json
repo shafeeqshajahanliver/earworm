@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1049247,
+  "kind": "synced",
+  "matched": {
+    "track": "Stay with Me",
+    "artist": "Sam Smith",
+    "album": "In the Lonely Hour",
+    "duration_s": 173.0
+  },
+  "duration_matched_to": "musicbrainz recording length (173s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 172.724,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 172.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 172.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36991749 (Stay With Me / Sam Smith / Now That’s What I Call Music! 88, 194.0s): duration matches no reference length",
+    "lrclib 36931010 (Stay With Me / Sam Smith / 7-16-23 Youtube Playlist, 210.0s): duration matches no reference length",
+    "lrclib 33615419 (Stay With Me / SAM SMITH / SAM SMITH, 210.0s): duration matches no reference length",
+    "lrclib 36080953 (Stay With Me / Sam Smith / Stay With Me, 317.0s): duration matches no reference length",
+    "lrclib 36567182 (Stay With Me / Sam Smith / Stay With Me, 324.0s): duration matches no reference length",
+    "lrclib 14822345 (Stay With Me / Sam Smith / Stay With Me, 210.0s): duration matches no reference length",
+    "lrclib 10139575 (Stay With Me / Sam Smith / Sam Smith Videos, 210.0s): duration matches no reference length",
+    "lrclib 10280730 (Stay With Me / Sam Smith / Sam Smith Songs, 210.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2013-cant-hold-us",
+  "preview": {
+    "service": "deezer",
+    "track_id": 61424044,
+    "matched_by": "isrc",
+    "isrc": "GMM881200002",
+    "title": "Can't Hold Us (feat. Ray Dalton)",
+    "artist": "Macklemore",
+    "album": "The Heist",
+    "track_duration_s": 258,
+    "link": "https://www.deezer.com/track/61424044",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 145.9,
+    "tempo_bpm_grid": 145.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      152.0,
+      73.8
+    ],
+    "beats_detected": 70,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.604,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.561,
+    "chroma_profile": [
+      0.616,
+      0.667,
+      0.968,
+      0.69,
+      0.971,
+      0.638,
+      0.812,
+      1.0,
+      0.899,
+      0.781,
+      0.625,
+      0.689
+    ],
+    "rms_dbfs": -7.6,
+    "rms_dbfs_p95_frame": -4.88,
+    "peak_dbfs": 1.72,
+    "loudness_lufs_approx": -8.0,
+    "spectral_centroid_hz_mean": 2738.6,
+    "spectral_centroid_hz_median": 2482.7,
+    "onsets": 120,
+    "onset_density_per_s": 4.002,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 61424044",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 146.09,
+    "gain": -8.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/61424044",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

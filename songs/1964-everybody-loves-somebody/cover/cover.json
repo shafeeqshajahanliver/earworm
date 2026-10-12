@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "18381971-ea52-4e56-bf22-c12f114084ae",
+      "release_title": "Everybody Loves Somebody / A Little Voice",
+      "release_date": "1964-05-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "fb28897a-f7b9-41e7-bddc-15738bef2992",
+      "release_title": "Everybody Loves Somebody",
+      "release_date": "1964-08-04",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Everybody Loves Somebody",
+      "url": "http://coverartarchive.org/release/888313d6-5de3-4360-b29c-d6a35874b46e/13860746293-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/888313d6-5de3-4360-b29c-d6a35874b46e",
+      "image_id": "13860746293",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.47,
+        "saturation": 0.23,
+        "dark_share": 0.052,
+        "palette": [
+          {
+            "hex": "#b5a996",
+            "share": 0.239
+          },
+          {
+            "hex": "#847866",
+            "share": 0.221
+          },
+          {
+            "hex": "#504d44",
+            "share": 0.212
+          },
+          {
+            "hex": "#343b3d",
+            "share": 0.177
+          },
+          {
+            "hex": "#625348",
+            "share": 0.15
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/02/27/d30227e9-3ce3-4ba4-8e20-cbef48a9d6a6/886444435710.jpg/1200x1200bb.jpg",
+      "collection": "Everybody Loves Somebody",
+      "collection_id": 806447968,
+      "track_id": 806447979,
+      "artist_name": "Dean Martin",
+      "release_date": "1964-08-04T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.629,
+        "saturation": 0.342,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#a49375",
+            "share": 0.289
+          },
+          {
+            "hex": "#7c7057",
+            "share": 0.237
+          },
+          {
+            "hex": "#d4c297",
+            "share": 0.2
+          },
+          {
+            "hex": "#785946",
+            "share": 0.142
+          },
+          {
+            "hex": "#907659",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

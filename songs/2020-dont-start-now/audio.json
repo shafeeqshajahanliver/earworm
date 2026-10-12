@@ -1,0 +1,70 @@
+{
+  "id": "2020-dont-start-now",
+  "preview": {
+    "service": "deezer",
+    "track_id": 793163542,
+    "matched_by": "isrc",
+    "isrc": "GBAHT1901121",
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "album": "Don't Start Now",
+    "track_duration_s": 183,
+    "link": "https://www.deezer.com/track/793163542",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.0,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      234.9,
+      61.5
+    ],
+    "beats_detected": 60,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.57,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.353,
+    "chroma_profile": [
+      0.511,
+      0.56,
+      0.726,
+      0.756,
+      0.932,
+      0.783,
+      0.888,
+      1.0,
+      0.724,
+      0.659,
+      0.615,
+      0.694
+    ],
+    "rms_dbfs": -7.43,
+    "rms_dbfs_p95_frame": -3.11,
+    "peak_dbfs": 2.26,
+    "loudness_lufs_approx": -8.37,
+    "spectral_centroid_hz_mean": 2742.1,
+    "spectral_centroid_hz_median": 2796.7,
+    "onsets": 112,
+    "onset_density_per_s": 3.735,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 793163542",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.16,
+    "gain": -8.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/793163542",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

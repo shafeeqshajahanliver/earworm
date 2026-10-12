@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3328919,
+  "kind": "synced",
+  "matched": {
+    "track": "Happy",
+    "artist": "Pharrell Williams",
+    "album": "Girl",
+    "duration_s": 233.0
+  },
+  "duration_matched_to": "musicbrainz recording length (233s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 232.72,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 233.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 0.848,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37049798 (Happy / Pharrell Williams / Until the morning 2, 213.0s): duration matches no reference length",
+    "lrclib 37410901 (Happy / Pharrell Williams / Despicable Me 2: Original Motion Picture Soundtrack, 251.0s): duration matches no reference length",
+    "lrclib 37257542 (Happy / Pharrell Williams / One Love Manchester, 203.0s): duration matches no reference length",
+    "lrclib 23645577 (Happy / Pharrell Williams / Pharrell Williams, 247.013878s): duration matches no reference length",
+    "lrclib 37592801 (Happy / Pharrell Williams / Pharrell Williams, 241.0s): duration matches no reference length",
+    "lrclib 11784410 (Happy (Video) / Pharrell Williams / Pharrell Williams, 241.0s): duration matches no reference length",
+    "lrclib 9813182 (Happy / Pharrell Williams / Pharrell Williams Videos, 240.607s): duration matches no reference length",
+    "lrclib 10020728 (Happy (Video) / Pharrell Williams / Pharrell Williams Songs, 241.0s): duration matches no reference length",
+    "lrclib 9593987 (Happy (Video) / Pharrell Williams / Pharrell Williams Videos, 241.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

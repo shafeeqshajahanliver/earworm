@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/99453",
+    "title": "(Just Like) Starting Over",
+    "performer": "John Lennon",
+    "is_original": true,
+    "first_release_date": "1980-10-20",
+    "releases": [
+      {
+        "title": "Double Fantasy",
+        "uri": "https://api.secondhandsongs.com/release/4893",
+        "performer": "John Lennon & Yoko Ono"
+      },
+      {
+        "title": "(Just Like) Starting Over",
+        "uri": "https://api.secondhandsongs.com/release/122789",
+        "performer": "John Lennon, Yoko Ono"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 54,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/99453",
+    "title": "(Just Like) Starting Over",
+    "language": "English",
+    "writers": [
+      "John Lennon"
+    ],
+    "original_performer": "John Lennon",
+    "versions": 55,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Enamorandonos",
+        "uri": "https://api.secondhandsongs.com/work/317690"
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "id": "1968-sunshine-of-your-love",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "114",
+      "also_ids": [],
+      "match": {
+        "title": "Sunshine Of Your Love",
+        "artist": "Cream",
+        "chart_date": "1968-03-30",
+        "peak_rank": "5"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 114 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 253.237,
+      "version_check": "duration not comparable (missing length)",
+      "sections": [
+        {
+          "start": 0.384,
+          "end": 17.257,
+          "label": "intro",
+          "letter": "C",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 17.257,
+          "end": 50.376,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 50.376,
+          "end": 71.275,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 71.275,
+          "end": 104.58,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 104.58,
+          "end": 121.212,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 121.212,
+          "end": 179.22,
+          "label": "instrumental",
+          "letter": "D",
+          "normalised": "instrumental",
+          "bars": 28
+        },
+        {
+          "start": 179.22,
+          "end": 212.461,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 212.461,
+          "end": 245.604,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 18
+        },
+        {
+          "start": 245.604,
+          "end": 250.119,
+          "label": "fadeout",
+          "letter": "E",
+          "normalised": "outro",
+          "bars": 1
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "sunshine_of_your_love_dt",
+      "match": {
+        "title": "Sunshine of Your Love",
+        "artist": "Cream",
+        "year": "1968",
+        "rs500_rank": "65",
+        "audio_used": {
+          "artist": "Cream",
+          "album": "Disraeli Gears",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, sunshine_of_your_love_dt.har/.clt + sunshine_of_your_love.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 115 bars; timed chord list ends in bar 112",
+      "sections": [
+        {
+          "start": 0.333,
+          "end": 17.163,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 17.163,
+          "end": 50.316,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 16
+        },
+        {
+          "start": 50.316,
+          "end": 67.004,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 67.004,
+          "end": 71.213,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 32,
+          "bars": 2
+        },
+        {
+          "start": 71.213,
+          "end": 104.513,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 34,
+          "bars": 16
+        },
+        {
+          "start": 104.513,
+          "end": 121.135,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 50,
+          "bars": 8
+        },
+        {
+          "start": 121.135,
+          "end": 154.229,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 58,
+          "bars": 16
+        },
+        {
+          "start": 154.229,
+          "end": 170.745,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 74,
+          "bars": 8
+        },
+        {
+          "start": 170.745,
+          "end": 179.16,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 82,
+          "bars": 4
+        },
+        {
+          "start": 179.16,
+          "end": 212.385,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 86,
+          "bars": 16
+        },
+        {
+          "start": 212.385,
+          "end": 237.399,
+          "label": "Ch2",
+          "normalised": "chorus",
+          "first_bar": 102,
+          "bars": 12
+        },
+        {
+          "start": 237.399,
+          "end": 239.515,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 114,
+          "bars": 1
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "sunshine_of_your_love_tdc",
+      "match": {
+        "title": "Sunshine of Your Love",
+        "artist": "Cream",
+        "year": "1968",
+        "rs500_rank": "65",
+        "audio_used": {
+          "artist": "Cream",
+          "album": "Disraeli Gears",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, sunshine_of_your_love_tdc.har/.clt + sunshine_of_your_love.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 115 bars; timed chord list ends in bar 112",
+      "sections": [
+        {
+          "start": 0.333,
+          "end": 17.163,
+          "label": "In",
+          "normalised": "intro",
+          "first_bar": 0,
+          "bars": 8
+        },
+        {
+          "start": 17.163,
+          "end": 50.316,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 8,
+          "bars": 16
+        },
+        {
+          "start": 50.316,
+          "end": 67.004,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 24,
+          "bars": 8
+        },
+        {
+          "start": 67.004,
+          "end": 71.213,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 32,
+          "bars": 2
+        },
+        {
+          "start": 71.213,
+          "end": 104.513,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 34,
+          "bars": 16
+        },
+        {
+          "start": 104.513,
+          "end": 121.135,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 50,
+          "bars": 8
+        },
+        {
+          "start": 121.135,
+          "end": 170.745,
+          "label": "So",
+          "normalised": "solo",
+          "first_bar": 58,
+          "bars": 24
+        },
+        {
+          "start": 170.745,
+          "end": 179.16,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 82,
+          "bars": 4
+        },
+        {
+          "start": 179.16,
+          "end": 212.385,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 86,
+          "bars": 16
+        },
+        {
+          "start": 212.385,
+          "end": 239.515,
+          "label": "Ch3",
+          "normalised": "chorus",
+          "first_bar": 102,
+          "bars": 13
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "mcgill_billboard": "intro verse chorus verse chorus instrumental verse chorus outro",
+      "rolling_stone_dt": "intro verse chorus verse chorus verse chorus verse chorus outro",
+      "rolling_stone_tdc": "intro verse chorus verse chorus solo verse chorus"
+    },
+    "section_order": [
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_dt",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.8
+      },
+      {
+        "a": "mcgill_billboard",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.78
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.7
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "mcgill_billboard": "no",
+      "rolling_stone_dt": "no",
+      "rolling_stone_tdc": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1018989,
+  "kind": "synced",
+  "matched": {
+    "track": "Shut Up and Dance",
+    "artist": "Walk The Moon",
+    "album": "Talking Is Hard",
+    "duration_s": 199.0
+  },
+  "duration_matched_to": "musicbrainz recording length (198s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 198.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 197.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 197.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36968360 (Shut Up and Dance / WALK THE MOON / Singles, 246.0s): duration matches no reference length",
+    "lrclib 37053432 (Shut Up and Dance / WALK THE MOON / You Are Not Alone (Live At The Greek), 246.0s): live/remix/other version",
+    "lrclib 34997747 (Shut Up and Dance / WALK THE MOON / You Are Not Alone (Live At The Greek), 199.0s): live/remix/other version",
+    "lrclib 34861766 (Shut Up and Dance / WALK THE MOON / Sonne & Gute Laune, 247.0s): duration matches no reference length",
+    "lrclib 32040682 (Shut Up and Dance / WALK THE MOON / Shut Up And Dance, 246.0s): duration matches no reference length",
+    "lrclib 18850192 (Shut Up and Dance / WALK THE MOON / Shut Up + Dance, 221.0s): duration matches no reference length",
+    "lrclib 9810534 (Shut Up and Dance (Intro) / WALK THE MOON / Shut Up and Dance, 246.0s): duration matches no reference length",
+    "lrclib 25222811 (Shut up and Dance / WALK THE MOON / Shut Up And Dance (Acoustic), 194.037551s): live/remix/other version",
+    "lrclib 24722384 (Shut Up and Dance (acoustic) / WALK THE MOON / Shut Up + Dance, 193.986667s): live/remix/other version",
+    "lrclib 4932952 (Shut up and Dance / WALK THE MOON / Shut Up and Dance (Acoustic) - Single, 199.0s): live/remix/other version",
+    "lrclib 2775865 (Shut up and Dance (Acoustic) / Walk The Moon / Shut Up and Dance (Acoustic), 194.0s): live/remix/other version",
+    "lrclib 9500169 (Shut Up and Dance (White Panda Remix) / WALK THE MOON / Shut Up and Dance, 222.0s): live/remix/other version",
+    "lrclib 14352799 (Shut Up and Dance  (Live Acoustic - 2015) / Walk The Moon / Shut Up And Dance, 194.0s): live/remix/other version",
+    "lrclib 32959969 (Shut Up and Dance / WALK THE MOON / WALK THE MOON, 246.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

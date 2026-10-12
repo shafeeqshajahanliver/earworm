@@ -1,0 +1,59 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/125594",
+    "title": "Here I Go Again",
+    "performer": "Whitesnake",
+    "is_original": true,
+    "first_release_date": "1982-10-22",
+    "releases": [
+      {
+        "title": "Here I Go Again",
+        "uri": "https://api.secondhandsongs.com/release/49394",
+        "performer": "Whitesnake"
+      },
+      {
+        "title": "Saints & Sinners",
+        "uri": "https://api.secondhandsongs.com/release/64677",
+        "performer": "Whitesnake"
+      },
+      {
+        "title": "1987",
+        "uri": "https://api.secondhandsongs.com/release/64682",
+        "performer": "Whitesnake"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 77,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/113700",
+    "title": "Here I Go Again",
+    "language": "English",
+    "writers": [
+      "David Coverdale",
+      "Bernie Marsden"
+    ],
+    "original_performer": "Whitesnake",
+    "versions": 78,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Here I Go (Against All I've Known)",
+        "uri": "https://api.secondhandsongs.com/work/128742"
+      },
+      {
+        "title": "Vanhaan taloon takaisin",
+        "uri": "https://api.secondhandsongs.com/work/176080"
+      },
+      {
+        "title": "一聲唏噓",
+        "uri": "https://api.secondhandsongs.com/work/314087"
+      }
+    ]
+  }
+}

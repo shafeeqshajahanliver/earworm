@@ -1,0 +1,70 @@
+{
+  "id": "2009-love-story",
+  "preview": {
+    "service": "deezer",
+    "track_id": 602091402,
+    "matched_by": "isrc",
+    "isrc": "USCJY0803275",
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Big Machine Radio Release Special)",
+    "track_duration_s": 233,
+    "link": "https://www.deezer.com/track/602091402",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 118.9,
+    "tempo_bpm_grid": 118.8,
+    "tempo_candidates_bpm": [
+      117.5,
+      60.1,
+      123.0
+    ],
+    "beats_detected": 55,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.895,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.772,
+    "chroma_profile": [
+      0.403,
+      0.53,
+      0.825,
+      0.419,
+      0.687,
+      0.449,
+      0.696,
+      0.685,
+      0.49,
+      1.0,
+      0.446,
+      0.752
+    ],
+    "rms_dbfs": -8.57,
+    "rms_dbfs_p95_frame": -6.49,
+    "peak_dbfs": 0.86,
+    "loudness_lufs_approx": -7.91,
+    "spectral_centroid_hz_mean": 2862.1,
+    "spectral_centroid_hz_median": 2863.4,
+    "onsets": 78,
+    "onset_density_per_s": 2.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 602091402",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.15,
+    "gain": -7.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/602091402",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

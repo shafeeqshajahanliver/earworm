@@ -1,0 +1,73 @@
+{
+  "id": "2021-save-your-tears",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1505683980,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "album": "After Hours (Deluxe)",
+    "track_duration_s": 215.6,
+    "link": "https://music.apple.com/us/album/save-your-tears/1505683624?i=1505683980&uo=4",
+    "duration_matched_to": "wikipedia infobox length (217s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 118.0,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      117.5,
+      234.9,
+      78.3
+    ],
+    "beats_detected": 58,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.847,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.732,
+    "chroma_profile": [
+      1.0,
+      0.558,
+      0.536,
+      0.504,
+      0.907,
+      0.618,
+      0.612,
+      0.968,
+      0.574,
+      0.872,
+      0.572,
+      0.731
+    ],
+    "rms_dbfs": -7.88,
+    "rms_dbfs_p95_frame": -4.03,
+    "peak_dbfs": -0.81,
+    "loudness_lufs_approx": -8.88,
+    "spectral_centroid_hz_mean": 2128.8,
+    "spectral_centroid_hz_median": 2043.2,
+    "onsets": 126,
+    "onset_density_per_s": 4.203,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1505683980",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1352360622: version (Save Your Tears (Remix))",
+    "deezer 2166259417: version (Save Your Tears (Live))",
+    "itunes 1563812775: version (Save Your Tears (Remix))",
+    "itunes 1615103357: version (Save Your Tears (Remix) [Bonus Track])",
+    "itunes 1676308317: version (Save Your Tears (Live))",
+    "itunes 1505665145: version (Save Your Tears (OPN Remix))",
+    "itunes 1615102912: version (Save Your Tears (Remix) [Bonus Track])",
+    "itunes 1505683448: version (Save Your Tears (OPN Remix))"
+  ]
+}

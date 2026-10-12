@@ -1,0 +1,41 @@
+{
+  "id": "1986-on-my-own",
+  "lyrics_kind": "synced",
+  "lrclib_id": 34935588,
+  "lines": 69,
+  "words": 311,
+  "unique_words": 114,
+  "type_token_ratio": 0.367,
+  "repeated_line_share": 0.348,
+  "distinct_lines": 45,
+  "zlib_compression_ratio": 0.391,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "on my own",
+  "title_phrase_occurrences": 17,
+  "pronouns": {
+    "first_singular": 54,
+    "second": 6,
+    "first_plural": 5
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 3.79,
+  "last_line_s": 280.11,
+  "sung_time_s": 267.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 69.8,
+  "words_per_minute_track": 65.5,
+  "longest_gap_between_lines_s": 11.65,
+  "longest_gap_starts_at_s": 166.04,
+  "first_repeated_block": {
+    "first_at_s": 161.3,
+    "recurs_at_s": 203.47,
+    "lines": [
+      "(On my own)",
+      "I wish that we could do it all again"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 34935588",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

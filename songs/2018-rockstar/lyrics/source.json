@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18952691,
+  "kind": "synced",
+  "matched": {
+    "track": "rockstar",
+    "artist": "Post Malone",
+    "album": "beerbongs and bentleys",
+    "duration_s": 218.174694
+  },
+  "duration_matched_to": "musicbrainz recording length (218s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 218.146,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 219.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 192.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 218.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 46,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36491455 (Rockstar / Post Malone / JUKEBOX, 208.0s): duration matches no reference length",
+    "lrclib 36670410 (rockstar / Post Malone / beerbongs & bentleys, 157.0s): duration matches no reference length",
+    "lrclib 34295107 (rockstar / Post Malone / rockstar, 112.0s): duration matches no reference length",
+    "lrclib 20907323 (rockstar / Post Malone / rockstar, 241.866s): duration matches no reference length",
+    "lrclib 36778934 (Rockstar / Post Malone feat. 21 Savage / Beerbongs & Bentleys, 40.0s): duration matches no reference length",
+    "lrclib 35500309 (rockstar / Post Malone feat. 21 Savage / rockstar, 241.0s): duration matches no reference length",
+    "lrclib 24826115 (Rockstar / Post Malone Feat. 21 Savage / 2019 Grammy Nominees, 197.8745s): duration matches no reference length",
+    "lrclib 38709060 (rockstar (feat. 21 Savage) / Post Malone / Post Malone, 242.0s): duration matches no reference length",
+    "lrclib 35633431 (rockstar (Remix) (con Nicky Jam e Ozuna) / Post Malone / Post Malone Songs, 246.0s): live/remix/other version",
+    "lrclib 29605108 (rockstar (Official Music Video) (feat. 21 Savage) / Post Malone / Post Malone Videos, 242.0s): duration matches no reference length",
+    "lrclib 32133407 (rockstar (Official Music Video) (feat. 21 Savage) / Post Malone / Post Malone Songs, 242.0s): duration matches no reference length",
+    "lrclib 30877162 (rockstar / Post Malone / rockstar, 245.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e0fde7f5-8302-41f4-844c-004f1090b60f",
+      "release_title": "Mashed Potato Time / Set My Heart At Ease",
+      "release_date": "1962",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "a7b026bf-640c-3c40-b707-ecff6f4db2ce",
+      "release_title": "It's Mashed Potato Time",
+      "release_date": "1962",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: It's Mashed Potato Time",
+      "url": "http://coverartarchive.org/release/35aee29f-a58a-44e8-ad85-cda2b7636d39/30594041430-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/35aee29f-a58a-44e8-ad85-cda2b7636d39",
+      "image_id": 30594041430,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        576,
+        616
+      ],
+      "measures": {
+        "brightness": 0.743,
+        "saturation": 0.276,
+        "dark_share": 0.01,
+        "palette": [
+          {
+            "hex": "#842639",
+            "share": 0.238
+          },
+          {
+            "hex": "#dbdccb",
+            "share": 0.228
+          },
+          {
+            "hex": "#91a78f",
+            "share": 0.196
+          },
+          {
+            "hex": "#e3e3d2",
+            "share": 0.169
+          },
+          {
+            "hex": "#e1decc",
+            "share": 0.169
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/ab/7d/75ab7dbf-3d4c-6724-02c0-84045c28f5d5/00018771923725.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Cameo Parkway: 25 Original Hits",
+      "collection_id": 1443883692,
+      "track_id": 1443884065,
+      "artist_name": "Dee Dee Sharp",
+      "release_date": "1962-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.294,
+        "saturation": 0.073,
+        "dark_share": 0.588,
+        "palette": [
+          {
+            "hex": "#1d1d1c",
+            "share": 0.441
+          },
+          {
+            "hex": "#b5ac94",
+            "share": 0.228
+          },
+          {
+            "hex": "#3f3e3a",
+            "share": 0.2
+          },
+          {
+            "hex": "#151617",
+            "share": 0.08
+          },
+          {
+            "hex": "#1b1c1d",
+            "share": 0.051
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

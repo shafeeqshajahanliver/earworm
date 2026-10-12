@@ -1,0 +1,41 @@
+{
+  "id": "2017-despacito-remix",
+  "lyrics_kind": "synced",
+  "lrclib_id": 29166263,
+  "lines": 75,
+  "words": 526,
+  "unique_words": 192,
+  "type_token_ratio": 0.365,
+  "repeated_line_share": 0.187,
+  "distinct_lines": 61,
+  "zlib_compression_ratio": 0.336,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "despacito",
+  "title_phrase_occurrences": 10,
+  "pronouns": {
+    "first_singular": 4,
+    "second": 4,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 6.37,
+  "last_line_s": 225.42,
+  "sung_time_s": 221.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 142.6,
+  "words_per_minute_track": 137.2,
+  "longest_gap_between_lines_s": 5.54,
+  "longest_gap_starts_at_s": 19.77,
+  "first_repeated_block": {
+    "first_at_s": 69.6,
+    "recurs_at_s": 157.52,
+    "lines": [
+      "Para que te acuerdes si no estás conmigo (¡plo, plo!)",
+      "Despacito (¡plo!)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 29166263",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

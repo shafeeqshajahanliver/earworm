@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "56ef202e-456d-4139-b705-18438607d908",
+      "release_title": "That's All You Gotta Do / I'm Sorry",
+      "release_date": "1960-05-30",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/4741a2b4-c027-4143-84fa-c30d85b0ef22/20323370407-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4741a2b4-c027-4143-84fa-c30d85b0ef22",
+      "image_id": 20323370407,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.51,
+        "saturation": 0.38,
+        "dark_share": 0.247,
+        "palette": [
+          {
+            "hex": "#0c0605",
+            "share": 0.278
+          },
+          {
+            "hex": "#938184",
+            "share": 0.266
+          },
+          {
+            "hex": "#654b48",
+            "share": 0.167
+          },
+          {
+            "hex": "#c9a397",
+            "share": 0.164
+          },
+          {
+            "hex": "#e5d2b3",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "932c68f8-19aa-4866-bd72-022299b1cce0",
+      "release_title": "Brenda Lee",
+      "release_date": "1960",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Brenda Lee",
+      "missing": "Cover Art Archive error: HTTP Error 500: Internal Server Error"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/c6/bd/5bc6bdbd-cec9-abbd-14ce-5d544ea1d379/00602567713753.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Brenda Lee",
+      "collection_id": 1391378779,
+      "track_id": 1391379299,
+      "artist_name": "Brenda Lee",
+      "release_date": "1960-05-16T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.781,
+        "saturation": 0.299,
+        "dark_share": 0.103,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.444
+          },
+          {
+            "hex": "#c0865d",
+            "share": 0.255
+          },
+          {
+            "hex": "#621d1a",
+            "share": 0.242
+          },
+          {
+            "hex": "#efe0c8",
+            "share": 0.041
+          },
+          {
+            "hex": "#fffffc",
+            "share": 0.018
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

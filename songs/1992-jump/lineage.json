@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/89939",
+    "title": "Jump",
+    "performer": "Kris Kross",
+    "is_original": true,
+    "first_release_date": "1992-03",
+    "releases": [
+      {
+        "title": "Totally Krossed Out",
+        "uri": "https://api.secondhandsongs.com/release/36369",
+        "performer": "Kris Kross"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 8,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/89939",
+    "title": "Jump",
+    "language": "English",
+    "writers": [
+      "Jermaine Dupri"
+    ],
+    "original_performer": "Kris Kross",
+    "versions": 9,
+    "based_on": [],
+    "derived_works": []
+  }
+}

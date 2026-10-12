@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33103294,
+  "kind": "synced",
+  "matched": {
+    "track": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "album": "HUMBLE.",
+    "duration_s": 182.0
+  },
+  "duration_matched_to": "musicbrainz recording length (185s)",
+  "duration_diff_s": 2.6,
+  "reference_lengths": [
+    {
+      "seconds": 184.601,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 177.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 177.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37100311 (Humble / Kendrick Lamar / NRJ Music Awards 2017, 201.0s): duration matches no reference length",
+    "lrclib 37425581 (HUMBLE. / Kendrick Lamar / Now That’s What I Call Music! 97, 202.0s): duration matches no reference length",
+    "lrclib 36858707 (HUMBLE. / Kendrick Lamar / DAMN. COLLECTORS EDITION., 3.0s): duration matches no reference length",
+    "lrclib 36853436 (HUMBLE. / Kendrick Lamar / DAMN., Nones): duration matches no reference length",
+    "lrclib 36895643 (HUMBLE. / Kendrick Lamar / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 34380789 (HUMBLE. / Kendrick Lamar / DAMN., Nones): duration matches no reference length",
+    "lrclib 34468409 (HUMBLE. / Kendrick Lamar / DAMN., 203.0s): duration matches no reference length",
+    "lrclib 19991080 (HUMBLE. / Kendrick Lamar / HUMBLE., 9.68s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

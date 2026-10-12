@@ -1,0 +1,70 @@
+{
+  "id": "2018-psycho",
+  "preview": {
+    "service": "deezer",
+    "track_id": 492398662,
+    "matched_by": "isrc",
+    "isrc": "USUM71802176",
+    "title": "Psycho",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "track_duration_s": 221,
+    "link": "https://www.deezer.com/track/492398662",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 140.1,
+    "tempo_bpm_grid": 139.7,
+    "tempo_candidates_bpm": [
+      143.6,
+      92.3,
+      136.0
+    ],
+    "beats_detected": 70,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.842,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.597,
+    "chroma_profile": [
+      0.671,
+      0.437,
+      0.468,
+      1.0,
+      0.576,
+      0.868,
+      0.473,
+      0.714,
+      0.683,
+      0.544,
+      0.708,
+      0.398
+    ],
+    "rms_dbfs": -6.43,
+    "rms_dbfs_p95_frame": -2.36,
+    "peak_dbfs": 0.67,
+    "loudness_lufs_approx": -9.31,
+    "spectral_centroid_hz_mean": 2206.7,
+    "spectral_centroid_hz_median": 1947.8,
+    "onsets": 133,
+    "onset_density_per_s": 4.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 492398662",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 140.15,
+    "gain": -9.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/492398662",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

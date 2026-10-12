@@ -1,0 +1,72 @@
+{
+  "id": "2021-montero-call-me-by-your-name",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1283196002,
+    "matched_by": "isrc",
+    "isrc": "USSM12100532",
+    "title": "MONTERO (Call Me By Your Name)",
+    "artist": "Lil Nas X",
+    "album": "MONTERO (Call Me By Your Name)",
+    "track_duration_s": 137,
+    "link": "https://www.deezer.com/track/1283196002",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.4,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      117.5,
+      71.8,
+      123.0
+    ],
+    "beats_detected": 64,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.396,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.385,
+    "chroma_profile": [
+      0.321,
+      0.414,
+      0.439,
+      1.0,
+      1.0,
+      0.507,
+      0.424,
+      0.516,
+      0.54,
+      0.408,
+      0.547,
+      0.484
+    ],
+    "rms_dbfs": -8.23,
+    "rms_dbfs_p95_frame": -3.44,
+    "peak_dbfs": 2.09,
+    "loudness_lufs_approx": -9.33,
+    "spectral_centroid_hz_mean": 2873.4,
+    "spectral_centroid_hz_median": 2827.7,
+    "onsets": 113,
+    "onset_density_per_s": 3.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1283196002",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1283196002",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between E major and Eb major"
+  ],
+  "rejected_candidates": []
+}

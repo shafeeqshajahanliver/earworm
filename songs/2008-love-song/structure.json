@@ -1,0 +1,118 @@
+{
+  "id": "2008-love-song",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0801_lovesong",
+      "match": {
+        "title": "Love Song",
+        "artist": "Sara Bareilles",
+        "release": "Now That's What I Call Music! 27",
+        "musicbrainz_id": "68538f2a-9f40-4ef0-9a92-7f6cf36bf3ce",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0801_lovesong.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0801_lovesong.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 257.272,
+      "bpm": 123.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +23 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.068,
+          "end": 7.873,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.873,
+          "end": 39.093,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 39.093,
+          "end": 52.751,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 7
+        },
+        {
+          "start": 52.751,
+          "end": 82.019,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 82.019,
+          "end": 89.824,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 89.824,
+          "end": 121.044,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 121.044,
+          "end": 134.702,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 7
+        },
+        {
+          "start": 134.702,
+          "end": 163.971,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 15
+        },
+        {
+          "start": 163.971,
+          "end": 189.337,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 13
+        },
+        {
+          "start": 189.337,
+          "end": 202.995,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 7
+        },
+        {
+          "start": 202.995,
+          "end": 236.166,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 17
+        },
+        {
+          "start": 236.166,
+          "end": 249.824,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 7
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 257 s vs 234 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

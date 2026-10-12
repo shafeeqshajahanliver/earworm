@@ -1,0 +1,72 @@
+{
+  "id": "2023-kill-bill",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2055292027,
+    "matched_by": "isrc",
+    "isrc": "USRC12204584",
+    "title": "Kill Bill",
+    "artist": "SZA",
+    "album": "SOS",
+    "track_duration_s": 153,
+    "link": "https://www.deezer.com/track/2055292027",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 178.1,
+    "tempo_bpm_grid": 178.2,
+    "tempo_candidates_bpm": [
+      184.6,
+      172.3,
+      89.1
+    ],
+    "beats_detected": 89,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.848,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.634,
+    "chroma_profile": [
+      0.81,
+      0.648,
+      0.739,
+      0.937,
+      0.696,
+      0.764,
+      0.732,
+      0.897,
+      1.0,
+      0.744,
+      0.99,
+      0.59
+    ],
+    "rms_dbfs": -8.11,
+    "rms_dbfs_p95_frame": -2.89,
+    "peak_dbfs": 0.07,
+    "loudness_lufs_approx": -9.25,
+    "spectral_centroid_hz_mean": 1722.1,
+    "spectral_centroid_hz_median": 1559.6,
+    "onsets": 106,
+    "onset_density_per_s": 3.535,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2055292027",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2055292027",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

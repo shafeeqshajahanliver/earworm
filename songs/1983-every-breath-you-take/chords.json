@@ -1,6 +1,6 @@
 {
   "id": "1983-every-breath-you-take",
-  "updated": "2026-10-06",
+  "updated": "2026-10-12",
   "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
   "sources": [
     {
@@ -22,7 +22,7 @@
       "source": "de Clercq & Temperley rock corpus v2.1, every_breath_you_take_dt.har/.clt + every_breath_you_take.tim",
       "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
       "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
-      "retrieved": "2026-10-06",
+      "retrieved": "2026-10-12",
       "confidence": "expert",
       "version_check": "last barline at 246 s; our recording 253 s",
       "parse_check": "expanded 120 bars; timed chord list ends in bar 119",
@@ -363,7 +363,7 @@
       "source": "de Clercq & Temperley rock corpus v2.1, every_breath_you_take_tdc.har/.clt + every_breath_you_take.tim",
       "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
       "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
-      "retrieved": "2026-10-06",
+      "retrieved": "2026-10-12",
       "confidence": "expert",
       "version_check": "last barline at 246 s; our recording 253 s",
       "parse_check": "expanded 120 bars; timed chord list ends in bar 119",
@@ -706,7 +706,7 @@
       }
     ],
     "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
-    "computed": "2026-10-06",
+    "computed": "2026-10-12",
     "confidence": "computed"
   }
 }

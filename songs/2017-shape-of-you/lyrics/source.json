@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3204999,
+  "kind": "synced",
+  "matched": {
+    "track": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "Ed Sheeran - Shape of You",
+    "duration_s": 234.0
+  },
+  "duration_matched_to": "musicbrainz recording length (234s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 233.713,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 233.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 234.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36863082 (Shape Of You / Ed Sheeran / Divide, 260.0s): duration matches no reference length",
+    "lrclib 36994275 (Shape of You / Ed Sheeran / +-=÷× (Tour Collection), 30.0s): duration matches no reference length",
+    "lrclib 37478220 (Shape of You / Ed Sheeran / Spotify Songs, 263.0s): duration matches no reference length",
+    "lrclib 37145280 (Shape of You / Ed Sheeran / Best 10s Songs, 263.0s): duration matches no reference length",
+    "lrclib 37093943 (Shape of You / Ed Sheeran / +-=÷× (TOUR COLLECTION: LIVE), 242.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

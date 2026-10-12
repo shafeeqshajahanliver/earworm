@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "0da536ee-9cfe-4338-98e7-1d1a68a9b54b",
+      "release_title": "L'amour est bleu / Love Is Blue",
+      "release_date": "1968",
+      "release_country": "BR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "40e33d11-32b2-4b67-87c7-e6f705a2cd02",
+      "release_title": "Le Grand Orchestre de Paul Mauriat - Volume 5 & Viva Mauriat",
+      "release_date": "2014",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Le Grand Orchestre de Paul Mauriat – Volume 5",
+      "url": "http://coverartarchive.org/release/51414be2-53c8-4874-8de7-cd45c3989fe3/15090924935-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/51414be2-53c8-4874-8de7-cd45c3989fe3",
+      "image_id": 15090924935,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.534,
+        "saturation": 0.484,
+        "dark_share": 0.154,
+        "palette": [
+          {
+            "hex": "#8d8f51",
+            "share": 0.29
+          },
+          {
+            "hex": "#321917",
+            "share": 0.263
+          },
+          {
+            "hex": "#66603b",
+            "share": 0.219
+          },
+          {
+            "hex": "#6dadb9",
+            "share": 0.157
+          },
+          {
+            "hex": "#c1cf86",
+            "share": 0.071
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/1b/f5/4c1bf5a9-37e1-7c9c-c590-ded0e9d62d8a/00602567781820.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Love Is Blue (Anniversary Collection)",
+      "collection_id": 1399547716,
+      "track_id": 1399547786,
+      "artist_name": "Paul Mauriat",
+      "release_date": "1967-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.553,
+        "saturation": 0.582,
+        "dark_share": 0.081,
+        "palette": [
+          {
+            "hex": "#401977",
+            "share": 0.29
+          },
+          {
+            "hex": "#e1afa4",
+            "share": 0.259
+          },
+          {
+            "hex": "#3c1874",
+            "share": 0.223
+          },
+          {
+            "hex": "#271145",
+            "share": 0.121
+          },
+          {
+            "hex": "#6a3466",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

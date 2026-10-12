@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34935588,
+  "kind": "synced",
+  "matched": {
+    "track": "On My Own",
+    "artist": "Patti LaBelle & Michael McDonald",
+    "album": "On My Own",
+    "duration_s": 285.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (290s)",
+  "duration_diff_s": 5.0,
+  "reference_lengths": [
+    {
+      "seconds": 273.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 290.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 290.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (290s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 34148731 (On My Own / Patti LaBelle & Michael McDonald / The Look of Love: The Burt Bacharach Collection, 280.0s): duration matches no reference length",
+    "lrclib 35605613 (On My Own / Patti LaBelle & Michael McDonald / Now That's What I Call Music! 07, 280.0s): duration matches no reference length",
+    "lrclib 20072901 (On My Own / Patti LaBelle & Michael McDonald / Pure 80's Love, 279.066667s): duration matches no reference length",
+    "lrclib 25157545 (On My Own / Patti Labelle and Michael McDonald / Burt Bacharach Anyone Who had a Heart, 281.333333s): duration matches no reference length",
+    "lrclib 32418121 (On My Own / Patti Labelle And Michael Mcdonald / Time Life - Classic Soul Ballads, 280.0s): duration matches no reference length",
+    "lrclib 30663306 (On my own / Patti LaBelle and Michael McDonald / The Burt Bacharach Collection - The Look Of Love, 281.0s): duration matches no reference length",
+    "lrclib 37875473 (On My Own / Patti LaBelle And Michael McDonald / Now That's What I Call Music UK '86, 282.0s): duration matches no reference length",
+    "lrclib 34413438 (On My Own (Patti LaBelle and Michael McDonald) / Michael McDonald / The Ultimate Collection, 280.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

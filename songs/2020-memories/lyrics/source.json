@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 303149,
+  "kind": "synced",
+  "matched": {
+    "track": "Memories",
+    "artist": "Maroon 5",
+    "album": "JORDI",
+    "duration_s": 189.0
+  },
+  "duration_matched_to": "musicbrainz recording length (189s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 189.486,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 189.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 189.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37149634 (Memories / Maroon 5 / NRJ Hits 2020, 195.0s): duration matches no reference length",
+    "lrclib 37279135 (Memories / Maroon 5 / Memories - Single, 545.0s): duration matches no reference length",
+    "lrclib 36934733 (Memories / Maroon 5 / So Fresh: The Hits of Summer 2020 + the Best of 2019, 180.0s): duration matches no reference length",
+    "lrclib 34672243 (Memories / Maroon 5 / Memories - Single, 195.0s): duration matches no reference length",
+    "lrclib 34616614 (Memories / Maroon 5 / JORDI (Deluxe), 207.0s): duration matches no reference length",
+    "lrclib 33892001 (Memories / Maroon 5 / YouTube Search - Maroon 5 Memories, 195.0s): duration matches no reference length",
+    "lrclib 35734291 (Memories / Maroon 5 / Maroon 5, 163.0s): duration matches no reference length",
+    "lrclib 33326038 (Memories / Maroon 5 / Maroon 5, 195.0s): duration matches no reference length",
+    "lrclib 38865243 (Memories / Maroon 5 / Maroon 5, 321.0s): duration matches no reference length",
+    "lrclib 20717162 (Memories / Maroon 5 / Maroon 5 Songs, 196.0s): duration matches no reference length",
+    "lrclib 9813064 (Memories / Maroon 5 / Maroon 5 Videos, 195.111s): duration matches no reference length",
+    "lrclib 9630206 (Memories (Official Video) / Maroon 5 / Maroon 5, 195.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

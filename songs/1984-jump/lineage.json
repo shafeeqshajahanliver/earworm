@@ -1,0 +1,55 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/6315",
+    "title": "Jump",
+    "performer": "Van Halen",
+    "is_original": true,
+    "first_release_date": "1984-01-09",
+    "releases": [
+      {
+        "title": "1984",
+        "uri": "https://api.secondhandsongs.com/release/3158",
+        "performer": "Van Halen"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 91,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/6315",
+    "title": "Jump",
+    "language": "English",
+    "writers": [
+      "David Lee Roth",
+      "Michael Anthony",
+      "Alex Van Halen",
+      "Eddie Van Halen"
+    ],
+    "original_performer": "Van Halen",
+    "versions": 92,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Hump",
+        "uri": "https://api.secondhandsongs.com/work/191856"
+      },
+      {
+        "title": "Judge",
+        "uri": "https://api.secondhandsongs.com/work/129080"
+      },
+      {
+        "title": "Jump",
+        "uri": "https://api.secondhandsongs.com/work/260038"
+      },
+      {
+        "title": "Spring",
+        "uri": "https://api.secondhandsongs.com/work/267198"
+      }
+    ]
+  }
+}

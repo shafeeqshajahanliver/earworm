@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "57bba850-6301-4224-b15b-29efad874d45",
+      "release_title": "Pony Time / Oh Susannah",
+      "release_date": "1961-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "51c23508-1c46-3f34-9778-50351808aea1",
+      "release_title": "It’s Pony Time",
+      "release_date": "1961",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "https://coverartarchive.org/release/83fc604f-d26f-4c55-a294-d6e9be6cc7ab/2071658994-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/83fc604f-d26f-4c55-a294-d6e9be6cc7ab",
+      "image_id": 2071658994,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        432,
+        432
+      ],
+      "measures": {
+        "brightness": 0.371,
+        "saturation": 0.289,
+        "dark_share": 0.497,
+        "palette": [
+          {
+            "hex": "#181715",
+            "share": 0.322
+          },
+          {
+            "hex": "#38201c",
+            "share": 0.242
+          },
+          {
+            "hex": "#b9aa7e",
+            "share": 0.16
+          },
+          {
+            "hex": "#cebf8f",
+            "share": 0.139
+          },
+          {
+            "hex": "#5f4a36",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/ab/7d/75ab7dbf-3d4c-6724-02c0-84045c28f5d5/00018771923725.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Cameo Parkway: 25 Original Hits",
+      "collection_id": 1443883692,
+      "track_id": 1443885194,
+      "artist_name": "Chubby Checker",
+      "release_date": "1961-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.294,
+        "saturation": 0.073,
+        "dark_share": 0.588,
+        "palette": [
+          {
+            "hex": "#1d1d1c",
+            "share": 0.441
+          },
+          {
+            "hex": "#b5ac94",
+            "share": 0.228
+          },
+          {
+            "hex": "#3f3e3a",
+            "share": 0.2
+          },
+          {
+            "hex": "#151617",
+            "share": 0.08
+          },
+          {
+            "hex": "#1b1c1d",
+            "share": 0.051
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

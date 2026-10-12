@@ -1,0 +1,74 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37871704,
+  "kind": "synced",
+  "matched": {
+    "track": "Don't Cha",
+    "artist": "The Pussycat Dolls",
+    "album": "Don't Cha",
+    "duration_s": 242.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (242s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 500.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 242.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 243.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 272.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 287.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (242s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 22785312 (Don't Cha (DJ Dan's Sqweegee Dub) / The Pussycat Dolls / Don't Cha (Remix) (DJ Dan's Sqweegee Dub Mix - Intl), 501.681633s): live/remix/other version",
+    "lrclib 765714 (Don't Cha (DJ Dan's Sqweegee Dub) / The Pussycat Dolls / Don't Cha (Remixes) (US Maxi Single), 502.0s): live/remix/other version",
+    "lrclib 38074126 (Don't Cha (DJ Dan's Sqweegee dub mix) / The Pussycat Dolls / Don’t Cha, 503.0s): live/remix/other version",
+    "lrclib 19726539 (Don't Cha (DJ Dan's Sqweegee dub) (feat. Busta Rhymes) / The Pussycat Dolls / Don't Cha (Remixes) (feat. Busta Rhymes) EP, 501.72s): live/remix/other version",
+    "lrclib 37498783 (. Don't Cha / The Pussycat Dolls featuring Busta Rhymes / Don't Cha (Remixes), 408.0s): live/remix/other version",
+    "lrclib 37542335 (Don't Cha / The Pussycat Dolls featuring Busta Rhymes / Easy A Soundtrack, 220.0s): duration matches no reference length",
+    "lrclib 37333361 (. Don't Cha / The Pussycat Dolls featuring Busta Rhymes / Don't Cha (Remixes), 593.0s): live/remix/other version",
+    "lrclib 12151688 (Don't Cha / The Pussycat Dolls featuring Busta Rhymes / Don't Cha (Remixes), 215.0s): live/remix/other version",
+    "lrclib 37062025 (Don't Cha (radio edit) / The Pussycat Dolls featuring Busta Rhymes / Don't Cha, 217.0s): duration matches no reference length",
+    "lrclib 18428726 (Don't Cha (radio edit) / The Pussycat Dolls featuring Busta Rhymes / Don't Cha, 219.145786s): duration matches no reference length",
+    "lrclib 21059273 (Don't Cha (radio edit) / The Pussycat Dolls featuring Busta Rhymes / Don't Cha, 223.007347s): duration matches no reference length",
+    "lrclib 36997137 (Don't Cha (Kaskade club mix) / The Pussycat Dolls featuring Busta Rhymes / Don't Cha (Remixes), 410.0s): live/remix/other version",
+    "lrclib 33653849 (Don't Cha (Ralphi's Hot Freak radio mix) / The Pussycat Dolls featuring Busta Rhymes / Don't Cha (Remixes), 258.0s): live/remix/other version",
+    "lrclib 31372875 (Don't Cha (radio edit Feat. Busta Rhymes) / The Pussycat Dolls Featuring Busta Rhymes / Don't Cha (Remixes), 219.0s): live/remix/other version",
+    "lrclib 37101645 (Don't Cha / The Pussycat Dolls / The Playlist – Dancefloor Anthems [Explicit], 218.0s): duration matches no reference length",
+    "lrclib 37297532 (Don't Cha / The Pussycat Dolls / Pop Party 3, 220.0s): duration matches no reference length",
+    "lrclib 37237656 (Don't Cha / The Pussycat Dolls / Bravo Hits 51, 220.0s): duration matches no reference length",
+    "lrclib 34565391 (Don’t Cha / The Pussycat Dolls / PCD Forever, 174.0s): duration matches no reference length",
+    "lrclib 34798275 (Don't Cha / The Pussycat Dolls / PCD Forever (Deluxe Edition), 138.0s): duration matches no reference length",
+    "lrclib 34725341 (Don't Cha / The Pussycat Dolls / PCD (Remixed), 288.0s): live/remix/other version",
+    "lrclib 34565546 (Don’t Cha / The Pussycat Dolls / PCD Forever, 138.0s): duration matches no reference length",
+    "lrclib 34565448 (Don’t Cha / The Pussycat Dolls / PCD Forever, 169.0s): duration matches no reference length",
+    "lrclib 36167001 (Don't Cha / The Pussycat Dolls / Tapemasters Inc.-The Future Of RnB Pt. 3-(Bootleg), 216.0s): duration matches no reference length",
+    "lrclib 32336288 (Don't Cha / The Pussycat Dolls / Pussycat Dolls, 219.0s): duration matches no reference length",
+    "lrclib 21273875 (Don't Cha / The PussyCat Dolls / Don't Cha, 219.4259s): duration matches no reference length",
+    "lrclib 30270069 (Don't Cha / The Pussycat Dolls / Don't Cha, 174.0s): duration matches no reference length",
+    "lrclib 37958978 (Don't Cha / The Pussycat Dolls / Don't Cha, 257.0s): duration matches no reference length",
+    "lrclib 38046624 (Don't Cha (instrumental) / The Pussycat Dolls / Don’t Cha, 282.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

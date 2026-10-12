@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 23250586,
+  "kind": "synced",
+  "matched": {
+    "track": "Burn",
+    "artist": "Usher",
+    "album": "Burn",
+    "duration_s": 256.09288
+  },
+  "duration_matched_to": "musicbrainz recording length (256s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 256.133,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 255.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34533817 (Burn / Usher / Burn, 232.0s): duration matches no reference length",
+    "lrclib 34407475 (Burn / Usher / Confessions (disc 1), 231.0s): duration matches no reference length",
+    "lrclib 34457060 (Burn / USHER / Confessions, 270.0s): duration matches no reference length",
+    "lrclib 34473631 (Burn / Usher / Now That’s What I Call Music! 9, 240.0s): duration matches no reference length",
+    "lrclib 34473629 (Burn / Usher / Now That’s What I Call Music! 9, 275.0s): duration matches no reference length",
+    "lrclib 35276112 (Burn / USHER / R&B Lovesongs, 248.0s): duration matches no reference length",
+    "lrclib 33856932 (Burn / Usher / Usher, 237.0s): duration matches no reference length",
+    "lrclib 33963811 (Burn / Usher / Usher: Rarities!, 209.0s): duration matches no reference length",
+    "lrclib 35554092 (Burn / Usher / Burn, 213.0s): duration matches no reference length",
+    "lrclib 35400307 (Burn / Usher / Burn, 244.0s): duration matches no reference length",
+    "lrclib 32497452 (Burn / USHER / Burn, 269.0s): duration matches no reference length",
+    "lrclib 36788593 (Burn / Usher / The Usher Collection, 232.0s): duration matches no reference length",
+    "lrclib 32067729 (Burn / Usher / Best Of Usher, 232.0s): duration matches no reference length",
+    "lrclib 36205733 (Burn (Official Video) / Usher / Usher Songs, 268.0s): duration matches no reference length",
+    "lrclib 31092996 (Burn (Official Video) / Usher / Usher Videos, 268.0s): duration matches no reference length",
+    "lrclib 24768930 (Burn / Usher / The Ultimate Usher Collection, 231.549388s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

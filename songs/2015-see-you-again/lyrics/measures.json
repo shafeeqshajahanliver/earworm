@@ -1,0 +1,41 @@
+{
+  "id": "2015-see-you-again",
+  "lyrics_kind": "synced",
+  "lrclib_id": 18015266,
+  "lines": 51,
+  "words": 457,
+  "unique_words": 149,
+  "type_token_ratio": 0.326,
+  "repeated_line_share": 0.216,
+  "distinct_lines": 40,
+  "zlib_compression_ratio": 0.326,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "see you again",
+  "title_phrase_occurrences": 13,
+  "pronouns": {
+    "first_singular": 36,
+    "second": 37,
+    "first_plural": 17
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 10.72,
+  "last_line_s": 221.39,
+  "sung_time_s": 210.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 130.4,
+  "words_per_minute_track": 119.5,
+  "longest_gap_between_lines_s": 9.13,
+  "longest_gap_starts_at_s": 107.19,
+  "first_repeated_block": {
+    "first_at_s": 65.38,
+    "recurs_at_s": 140.35,
+    "lines": [
+      "How can we not talk about family when family's all that we got?",
+      "Everythin' I went through, you were standin' there by my side"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 18015266",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

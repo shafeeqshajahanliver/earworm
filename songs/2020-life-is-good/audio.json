@@ -1,0 +1,73 @@
+{
+  "id": "2020-life-is-good",
+  "preview": {
+    "service": "deezer",
+    "track_id": 847699482,
+    "matched_by": "isrc",
+    "isrc": "USSM11914962",
+    "title": "Life Is Good (feat. Drake)",
+    "artist": "Future",
+    "album": "Life Is Good (feat. Drake)",
+    "track_duration_s": 237,
+    "link": "https://www.deezer.com/track/847699482",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 0.99,
+    "tempo_bpm": 0.0,
+    "tempo_bpm_grid": 0.0,
+    "tempo_candidates_bpm": [
+      234.9,
+      215.3,
+      161.5
+    ],
+    "beats_detected": 0,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.782,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.513,
+    "chroma_profile": [
+      0.288,
+      0.26,
+      0.972,
+      0.326,
+      0.326,
+      0.329,
+      0.387,
+      0.904,
+      0.532,
+      0.375,
+      1.0,
+      0.549
+    ],
+    "rms_dbfs": -29.28,
+    "rms_dbfs_p95_frame": -26.1,
+    "peak_dbfs": -16.38,
+    "loudness_lufs_approx": -28.33,
+    "spectral_centroid_hz_mean": 1736.1,
+    "spectral_centroid_hz_median": 603.6,
+    "onsets": 2,
+    "onset_density_per_s": 2.015,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 847699482",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 142.07,
+    "gain": -8.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/847699482",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (142.1) by 100%",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

@@ -1,0 +1,118 @@
+{
+  "id": "1983-down-under",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0371_downunder",
+      "match": {
+        "title": "Down Under",
+        "artist": "Men at Work",
+        "release": "NOW That's What I Call the 80s Hits",
+        "musicbrainz_id": "78c2a211-1c63-48f1-ad20-28b70eb98491",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0371_downunder.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0371_downunder.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 218.421,
+      "bpm": 105.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +13 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.375,
+          "end": 11.891,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 5
+        },
+        {
+          "start": 11.891,
+          "end": 30.031,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 30.031,
+          "end": 48.091,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 48.091,
+          "end": 57.105,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 57.105,
+          "end": 74.936,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 74.936,
+          "end": 92.88,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 92.88,
+          "end": 119.433,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 12
+        },
+        {
+          "start": 119.433,
+          "end": 137.441,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 137.441,
+          "end": 155.406,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 155.406,
+          "end": 173.269,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 173.269,
+          "end": 191.215,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 191.215,
+          "end": 209.014,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 218 s vs 206 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

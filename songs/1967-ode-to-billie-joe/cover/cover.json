@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e6c48da4-6ff9-336b-8f03-5d4c99362269",
+      "release_title": "Ode to Billie Joe",
+      "release_date": "1967",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "7b747806-2720-318f-b984-3d72d04a6504",
+      "release_title": "Ode to Billie Joe",
+      "release_date": "1967-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Ode to Billie Joe",
+      "url": "http://coverartarchive.org/release/3ebef4e2-ebe8-4e4c-b962-b7b9ca992b13/17730655654-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/3ebef4e2-ebe8-4e4c-b962-b7b9ca992b13",
+      "image_id": 17730655654,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.388,
+        "saturation": 0.29,
+        "dark_share": 0.354,
+        "palette": [
+          {
+            "hex": "#c5c0b9",
+            "share": 0.244
+          },
+          {
+            "hex": "#0c1212",
+            "share": 0.228
+          },
+          {
+            "hex": "#5b6868",
+            "share": 0.208
+          },
+          {
+            "hex": "#343737",
+            "share": 0.167
+          },
+          {
+            "hex": "#172c2c",
+            "share": 0.153
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/61/72/5c617270-8904-3c70-0566-0bbb7b3cba6e/00094638630050.jpg/1200x1200bb.jpg",
+      "collection": "Ode to Billie Joe",
+      "collection_id": 714615100,
+      "track_id": 714615292,
+      "artist_name": "Bobbie Gentry",
+      "release_date": "1967-07-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.387,
+        "saturation": 0.25,
+        "dark_share": 0.36,
+        "palette": [
+          {
+            "hex": "#101414",
+            "share": 0.274
+          },
+          {
+            "hex": "#263031",
+            "share": 0.257
+          },
+          {
+            "hex": "#596566",
+            "share": 0.19
+          },
+          {
+            "hex": "#b0a496",
+            "share": 0.164
+          },
+          {
+            "hex": "#d9dada",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

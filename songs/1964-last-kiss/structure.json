@@ -1,0 +1,138 @@
+{
+  "id": "1964-last-kiss",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "54",
+      "also_ids": [
+        "247",
+        "402"
+      ],
+      "match": {
+        "title": "Last Kiss",
+        "artist": "J. Frank Wilson & The Cavaliers",
+        "chart_date": "1964-09-05",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 54 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 147.696,
+      "version_check": "duration within 12 s (-0.0 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.139,
+          "end": 10.588,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 6
+        },
+        {
+          "start": 10.588,
+          "end": 24.827,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 24.827,
+          "end": 28.338,
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "bars": 2
+        },
+        {
+          "start": 28.338,
+          "end": 56.768,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 56.768,
+          "end": 60.284,
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "bars": 2
+        },
+        {
+          "start": 60.284,
+          "end": 74.424,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 74.424,
+          "end": 77.921,
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "bars": 2
+        },
+        {
+          "start": 77.921,
+          "end": 113.641,
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "bars": 20
+        },
+        {
+          "start": 113.641,
+          "end": 117.119,
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "bars": 2
+        },
+        {
+          "start": 117.119,
+          "end": 131.353,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 131.353,
+          "end": 134.731,
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "bars": 2
+        },
+        {
+          "start": 134.731,
+          "end": 141.831,
+          "label": "outro",
+          "letter": "C'",
+          "normalised": "outro",
+          "bars": 4
+        },
+        {
+          "start": 141.831,
+          "end": 144.567,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1620544,
+  "kind": "synced",
+  "matched": {
+    "track": "Right Round",
+    "artist": "Flo Rida",
+    "album": "R.O.O.T.S.",
+    "duration_s": 205.0
+  },
+  "duration_matched_to": "musicbrainz recording length (205s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 205.44,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 204.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 207.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 46,
+  "agreement_with_other_candidates": 0.604,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37327581 (Right Round / Flo Rida Feat. Ke$ha / R.O.O.T.S. [Advance Promo], 240.0s): duration matches no reference length",
+    "lrclib 36991738 (Right Round / Flo Rida / Now That’s What I Call Music! 72, 233.0s): duration matches no reference length",
+    "lrclib 34845330 (Right Round / Flo Rida / Singles, 198.0s): duration matches no reference length",
+    "lrclib 34845346 (Right Round / Flo Rida / Singles, 197.0s): duration matches no reference length",
+    "lrclib 34864444 (Right Round / Flo Rida / Document, 198.0s): duration matches no reference length",
+    "lrclib 29271267 (Right round / Flo rida / Flo rida, 224.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

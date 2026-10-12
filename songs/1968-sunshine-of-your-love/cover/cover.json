@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "bad514db-88ca-398b-996b-f31cce289a51",
+      "release_title": "Sunshine of Your Love",
+      "release_date": "1967",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/77c9ca4f-962c-4f2e-81e1-1f3b705cfbdb/1239826752-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/77c9ca4f-962c-4f2e-81e1-1f3b705cfbdb",
+      "image_id": "1239826752",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        245,
+        247
+      ],
+      "measures": {
+        "brightness": 0.702,
+        "saturation": 0.489,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#b26444",
+            "share": 0.278
+          },
+          {
+            "hex": "#4f4122",
+            "share": 0.255
+          },
+          {
+            "hex": "#f3e7cf",
+            "share": 0.202
+          },
+          {
+            "hex": "#d5ad60",
+            "share": 0.19
+          },
+          {
+            "hex": "#eed598",
+            "share": 0.075
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "bbd66e31-ac27-3432-81a7-0d4b4b4c5de5",
+      "release_title": "Disraeli Gears",
+      "release_date": "1967-11-02",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Disraeli Gears",
+      "url": "http://coverartarchive.org/release/2cd2d18a-b1e4-3d7f-b9e2-d6bb4976ec24/7616204941-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/2cd2d18a-b1e4-3d7f-b9e2-d6bb4976ec24",
+      "image_id": "7616204941",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        499,
+        500
+      ],
+      "measures": {
+        "brightness": 0.651,
+        "saturation": 0.62,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#d5446a",
+            "share": 0.33
+          },
+          {
+            "hex": "#51233b",
+            "share": 0.285
+          },
+          {
+            "hex": "#af3659",
+            "share": 0.228
+          },
+          {
+            "hex": "#939a65",
+            "share": 0.114
+          },
+          {
+            "hex": "#ba545d",
+            "share": 0.043
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/1a/47/411a478e-bbf0-473d-46b9-b1d8235d5e73/06UMGIM19593.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Disraeli Gears (Deluxe Edition)",
+      "collection_id": 1489665029,
+      "track_id": 1489665757,
+      "artist_name": "Cream",
+      "release_date": "1967-11-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.612,
+        "saturation": 0.713,
+        "dark_share": 0.04,
+        "palette": [
+          {
+            "hex": "#be274e",
+            "share": 0.303
+          },
+          {
+            "hex": "#5d1e24",
+            "share": 0.265
+          },
+          {
+            "hex": "#a4b038",
+            "share": 0.202
+          },
+          {
+            "hex": "#9e4a35",
+            "share": 0.155
+          },
+          {
+            "hex": "#9f893c",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

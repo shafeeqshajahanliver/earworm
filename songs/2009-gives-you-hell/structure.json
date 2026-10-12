@@ -1,0 +1,124 @@
+{
+  "id": "2009-gives-you-hell",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0691_givesyouhell",
+      "match": {
+        "title": "Gives You Hell",
+        "artist": "The All-American Rejects",
+        "release": "Now That's What I Call Music! 30",
+        "musicbrainz_id": "6a334e04-e8f2-4411-bf1d-a0acbffc55d9",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0691_givesyouhell.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0691_givesyouhell.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 211.911,
+      "bpm": 100.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.125,
+          "end": 14.526,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 6
+        },
+        {
+          "start": 14.526,
+          "end": 33.126,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 33.126,
+          "end": 43.326,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 43.326,
+          "end": 62.526,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 62.526,
+          "end": 71.526,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 71.526,
+          "end": 91.326,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 91.326,
+          "end": 100.926,
+          "label": "solo",
+          "normalised": "solo",
+          "bars": 4
+        },
+        {
+          "start": 100.926,
+          "end": 110.526,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 4
+        },
+        {
+          "start": 110.526,
+          "end": 119.526,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 119.526,
+          "end": 139.326,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 139.326,
+          "end": 160.326,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 160.326,
+          "end": 179.526,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 179.526,
+          "end": 206.526,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 11
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": "only one source"
+}

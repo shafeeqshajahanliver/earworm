@@ -1,0 +1,694 @@
+{
+  "id": "1990-nothing-compares-2-u",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "nothing_compares_2_u_dt",
+      "match": {
+        "title": "Nothing Compares 2 U",
+        "artist": "Sinead O'Connor",
+        "year": "1990",
+        "rs500_rank": "162",
+        "audio_used": {
+          "artist": "Sinead O'Connor",
+          "album": "I Do Not Want What I Haven't Got",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, nothing_compares_2_u_dt.har/.clt + nothing_compares_2_u.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 304 s; our recording 308 s",
+      "parse_check": "expanded 76 bars; timed chord list ends in bar 74",
+      "key_info": {
+        "tonic": "F",
+        "tonic_pc": 5,
+        "mode": null,
+        "name": "F",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.382,
+          "end": 8.411,
+          "bars": 2,
+          "key": "F",
+          "written": [
+            "F"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I |*2"
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 8.411,
+          "end": 72.34,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "A7"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "V7/vi"
+          ],
+          "raw_rule": "$VP $VP $VP $VP2"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 72.34,
+          "end": 88.387,
+          "bars": 4,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "bVII IV | bVII IV | V | |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 88.387,
+          "end": 152.379,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "Bb",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "A7"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "IV",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "V7/vi"
+          ],
+          "raw_rule": "$VP $VP3 $VP $VP2"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 152.379,
+          "end": 164.379,
+          "bars": 3,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "bVII IV | vi V | |"
+        },
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 164.379,
+          "end": 168.389,
+          "bars": 1,
+          "key": "F",
+          "written": [
+            "C"
+          ],
+          "roman": [
+            "V"
+          ],
+          "raw_rule": null
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 168.389,
+          "end": 232.371,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C",
+            "F",
+            "C",
+            "Dm7",
+            "A7"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V11",
+            "I",
+            "V6",
+            "vi7",
+            "V7/vi"
+          ],
+          "raw_rule": "$VP $VP $VP $VP2"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 232.371,
+          "end": 268.385,
+          "bars": 9,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "bVII IV | vi V | |"
+        },
+        {
+          "label": "Fadeout",
+          "normalised": "outro",
+          "start": 268.385,
+          "end": 304.397,
+          "bars": 9,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "$Ch2*3"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "nothing_compares_2_u_tdc",
+      "match": {
+        "title": "Nothing Compares 2 U",
+        "artist": "Sinead O'Connor",
+        "year": "1990",
+        "rs500_rank": "162",
+        "audio_used": {
+          "artist": "Sinead O'Connor",
+          "album": "I Do Not Want What I Haven't Got",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, nothing_compares_2_u_tdc.har/.clt + nothing_compares_2_u.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 304 s; our recording 308 s",
+      "parse_check": "expanded 76 bars; timed chord list ends in bar 74",
+      "key_info": {
+        "tonic": "F",
+        "tonic_pc": 5,
+        "mode": null,
+        "name": "F",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 0.382,
+          "end": 8.411,
+          "bars": 2,
+          "key": "F",
+          "written": [
+            "F"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": null
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 8.411,
+          "end": 72.34,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "V/vi"
+          ],
+          "raw_rule": "$A*3 I | V6 | vi7 | V/vi |"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 72.34,
+          "end": 88.387,
+          "bars": 4,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "bVII IV | bVII IV | V | |"
+        },
+        {
+          "label": "Vr2",
+          "normalised": "verse",
+          "start": 88.387,
+          "end": 152.379,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "Bb",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "IV",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "V/vi"
+          ],
+          "raw_rule": "$A I | V6 | vi7 | IV | $A I | V6 | vi7 | V/vi |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 152.379,
+          "end": 164.379,
+          "bars": 3,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "bVII IV | vi V | |"
+        },
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 164.379,
+          "end": 168.389,
+          "bars": 1,
+          "key": "F",
+          "written": [
+            "C"
+          ],
+          "roman": [
+            "V"
+          ],
+          "raw_rule": null
+        },
+        {
+          "label": "Vr1",
+          "normalised": "verse",
+          "start": 168.389,
+          "end": 232.371,
+          "bars": 16,
+          "key": "F",
+          "written": [
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "F",
+            "C9",
+            "F",
+            "C",
+            "Dm7",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "I",
+            "V9",
+            "I",
+            "V6",
+            "vi7",
+            "V/vi"
+          ],
+          "raw_rule": "$A*3 I | V6 | vi7 | V/vi |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 232.371,
+          "end": 268.385,
+          "bars": 9,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "bVII IV | vi V | |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 268.385,
+          "end": 304.397,
+          "bars": 9,
+          "key": "F",
+          "written": [
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C",
+            "Eb",
+            "Bb",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V",
+            "bVII",
+            "IV",
+            "vi",
+            "V"
+          ],
+          "raw_rule": "bVII IV | vi V | |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "F",
+      "rolling_stone_tdc": "F"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

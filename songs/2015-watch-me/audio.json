@@ -1,0 +1,72 @@
+{
+  "id": "2015-watch-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 100614636,
+    "matched_by": "isrc",
+    "isrc": "USUM71506622",
+    "title": "Watch Me (Whip / Nae Nae)",
+    "artist": "Silentó",
+    "album": "Watch Me (Whip / Nae Nae)",
+    "track_duration_s": 185,
+    "link": "https://www.deezer.com/track/100614636",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 140.0,
+    "tempo_bpm_grid": 139.7,
+    "tempo_candidates_bpm": [
+      143.6,
+      92.3,
+      69.8
+    ],
+    "beats_detected": 69,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.465,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.465,
+    "chroma_profile": [
+      0.561,
+      0.453,
+      0.574,
+      1.0,
+      0.765,
+      0.923,
+      0.706,
+      0.666,
+      0.805,
+      0.459,
+      0.467,
+      0.353
+    ],
+    "rms_dbfs": -9.9,
+    "rms_dbfs_p95_frame": -5.51,
+    "peak_dbfs": 0.43,
+    "loudness_lufs_approx": -12.37,
+    "spectral_centroid_hz_mean": 2829.3,
+    "spectral_centroid_hz_median": 2456.3,
+    "onsets": 154,
+    "onset_density_per_s": 5.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 100614636",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 140.1,
+    "gain": -12.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/100614636",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb major and F minor"
+  ],
+  "rejected_candidates": []
+}

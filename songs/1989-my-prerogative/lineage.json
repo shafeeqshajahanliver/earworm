@@ -1,0 +1,42 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/26614",
+    "title": "My Prerogative",
+    "performer": "Bobby Brown [US1]",
+    "is_original": true,
+    "first_release_date": "1988",
+    "releases": [
+      {
+        "title": "Don't Be Cruel",
+        "uri": "https://api.secondhandsongs.com/release/10684",
+        "performer": "Bobby Brown [US1]"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 9,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/26614",
+    "title": "My Prerogative",
+    "language": "English",
+    "writers": [
+      "Bobby Brown [US1]",
+      "Gene Griffin",
+      "Teddy Riley [US1]"
+    ],
+    "original_performer": "Bobby Brown [US1]",
+    "versions": 10,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Like Piranha Fish",
+        "uri": "https://api.secondhandsongs.com/work/307456"
+      }
+    ]
+  }
+}

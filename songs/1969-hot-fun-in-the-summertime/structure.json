@@ -1,0 +1,79 @@
+{
+  "id": "1969-hot-fun-in-the-summertime",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "70",
+      "also_ids": [],
+      "match": {
+        "title": "Hot Fun In The Summertime",
+        "artist": "Sly & The Family Stone",
+        "chart_date": "1969-11-15",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 70 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 158.276,
+      "version_check": "duration within 12 s (+1.3 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.464,
+          "end": 10.378,
+          "label": "intro",
+          "letter": "C",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 10.378,
+          "end": 59.904,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 20
+        },
+        {
+          "start": 59.904,
+          "end": 99.553,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 99.553,
+          "end": 124.182,
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "bars": 10
+        },
+        {
+          "start": 124.182,
+          "end": 134.096,
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 134.096,
+          "end": 155.295,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 9
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

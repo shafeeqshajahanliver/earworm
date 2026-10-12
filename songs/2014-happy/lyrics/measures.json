@@ -1,0 +1,41 @@
+{
+  "id": "2014-happy",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3328919,
+  "lines": 72,
+  "words": 497,
+  "unique_words": 92,
+  "type_token_ratio": 0.185,
+  "repeated_line_share": 0.597,
+  "distinct_lines": 29,
+  "zlib_compression_ratio": 0.168,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "happy",
+  "title_phrase_occurrences": 40,
+  "pronouns": {
+    "first_singular": 48,
+    "second": 41,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 2.12,
+  "last_line_s": 228.81,
+  "sung_time_s": 225.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 132.4,
+  "words_per_minute_track": 128.1,
+  "longest_gap_between_lines_s": 7.34,
+  "longest_gap_starts_at_s": 48.97,
+  "first_repeated_block": {
+    "first_at_s": 26.43,
+    "recurs_at_s": 74.5,
+    "lines": [
+      "Clap along if you feel like a room without a roof",
+      "(Because I'm happy)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3328919",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37418482,
+  "kind": "synced",
+  "matched": {
+    "track": "Adore You",
+    "artist": "Harry Styles",
+    "album": "NOW That's What I Call Music! 105 [Clean]",
+    "duration_s": 207.0
+  },
+  "duration_matched_to": "musicbrainz recording length (207s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 207.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 207.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 207.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37473480 (Adore You / Harry Styles / Mastermix - Dj Beats Chart 76, 236.0s): duration matches no reference length",
+    "lrclib 34518925 (Adore You / Harry Styles / Harry Styles, 236.0s): duration matches no reference length",
+    "lrclib 34459694 (Adore You / Harry Styles / Harry's House, 174.0s): duration matches no reference length",
+    "lrclib 33525174 (Adore You / Harry Styles / QMusic * Top 40 * 2020 * Week 15 *, 214.0s): duration matches no reference length",
+    "lrclib 33537167 (Adore You / Harry Styles / Now That’s What I Call Music! 105, 219.0s): duration matches no reference length",
+    "lrclib 33890171 (Adore You / Harry Styles / YouTube Search - Harry Styles Adore You, 219.0s): duration matches no reference length",
+    "lrclib 33980531 (Adore You / Harry Styles / Adore You, 218.0s): duration matches no reference length",
+    "lrclib 35615355 (Adore You / Harry Styles / Adore You, 464.0s): duration matches no reference length",
+    "lrclib 23093019 (Adore You (Official Video) / Harry Styles / Harry Styles Videos, 219.0s): duration matches no reference length",
+    "lrclib 8135422 (Adore You (Official Video) / Harry Styles / Harry Styles Songs, 219.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

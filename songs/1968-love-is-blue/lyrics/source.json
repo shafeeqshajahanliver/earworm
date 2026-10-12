@@ -1,0 +1,68 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 9613580,
+  "kind": "plain",
+  "matched": {
+    "track": "Love Is Blue",
+    "artist": "Paul Mauriat",
+    "album": "Presenting Paul Mauriat",
+    "duration_s": 156.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (153s)",
+  "duration_diff_s": 3.0,
+  "reference_lengths": [
+    {
+      "seconds": 153.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 151.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 1,
+  "agreement_with_other_candidates": null,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (153s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37004594 (Love Is Blue / Paul Mauriat / Billboard 100 Hits-1968, 158.0s): marked instrumental",
+    "lrclib 37283768 (Love Is Blue / Paul Mauriat / Billboard Top 100 Hits of 1968, 155.0s): marked instrumental",
+    "lrclib 37290652 (Love Is Blue / Paul Mauriat / Instrumental Moods, 152.0s): live/remix/other version",
+    "lrclib 37385330 (Love Is Blue / Paul Mauriat / Music From The Wonder Years (Disc 1∶ First Love), 155.0s): marked instrumental",
+    "lrclib 37453161 (Love Is Blue / Paul Mauriat / Penelope—Paul Mauriat Digital Best, 160.0s): marked instrumental",
+    "lrclib 36866425 (Love is blue / Paul Mauriat / Grandes Orquestas, 158.0s): marked instrumental",
+    "lrclib 34697174 (Love Is Blue / Paul Mauriat / Compact Disc Sampler, 158.0s): marked instrumental",
+    "lrclib 34693528 (love is blue / paul mauriat / de pre historie 60-1968, 153.0s): marked instrumental",
+    "lrclib 34878581 (Love Is Blue / Paul Mauriat / Volume 5 - le grand orchestre de Paul Mauriat, 158.0s): marked instrumental",
+    "lrclib 34878574 (Love Is Blue / Paul Mauriat / Volume 5 - le grand orchestre de Paul Mauriat, 152.0s): marked instrumental",
+    "lrclib 34878582 (Love Is Blue / Paul Mauriat / Volume 5 - le grand orchestre de Paul Mauriat, 159.0s): marked instrumental",
+    "lrclib 34878573 (Love Is Blue / Paul Mauriat / Volume 5 - le grand orchestre de Paul Mauriat, 154.0s): marked instrumental",
+    "lrclib 34878578 (Love Is Blue / Paul Mauriat / Volume 5 - le grand orchestre de Paul Mauriat, 156.0s): marked instrumental",
+    "lrclib 34878580 (Love Is Blue / Paul Mauriat / Volume 5 - le grand orchestre de Paul Mauriat, 150.0s): marked instrumental",
+    "lrclib 33369957 (Love Is Blue / Paul Mauriat / The Ultimate Paul Mauriat, 152.0s): marked instrumental",
+    "lrclib 33382582 (Love Is Blue / Paul Mauriat / 100 Instrumentale Klassiekers, 155.0s): live/remix/other version",
+    "lrclib 33665423 (Love is Blue / Paul Mauriat / Dimond Collections, 157.0s): marked instrumental",
+    "lrclib 33396956 (Love Is Blue / Paul Mauriat / Great Original Hits Of The 50's And 60's, 153.0s): marked instrumental",
+    "lrclib 33421368 (Love Is Blue / Paul Mauriat / Cool Cats & Diamond Dolls, 153.0s): marked instrumental",
+    "lrclib 33503417 (Love Is Blue / Paul Mauriat / Instrumental Legends, 160.0s): live/remix/other version",
+    "lrclib 20501193 (Love is blue / Paul Mauriat / Paul Mauriat: Love is Blue, 155.7159179s): marked instrumental",
+    "lrclib 18089023 (Love Is Blue / Paul Mauriat / Love Is Blue: The Best of Paul Mauriat, 154.1810999s): marked instrumental",
+    "lrclib 9590978 (Love is blue / Paul Mauriat / Love is Blue The very best of Paul Mauriat, 156.0s): marked instrumental",
+    "lrclib 38536524 (Love Is Blue / Paul Mauriat / Paul Mauriat: Reflection, 155.0s): marked instrumental",
+    "lrclib 26383397 (Love Is Blue / Paul Mauriat / Best of Paul Mauriat, 153.066667s): marked instrumental",
+    "lrclib 12011575 (Love Is Blue / Paul Mauriat / Best of Paul Mauriat, 151.0s): marked instrumental",
+    "lrclib 16075905 (Love is Blue / Paul Mauriat / Paul Mauriat. Grandes Exitos, 157.0s): marked instrumental",
+    "lrclib 16061061 (Love is Blue / Paul Mauriat / Paul Mauriat. Grandes Exitos, 156.551837s): marked instrumental",
+    "lrclib 19650133 (Love Is Blue / Paul Mauriat / I Love Breeze: Paul Mauriat on Stage, 209.886687s): live/remix/other version",
+    "lrclib 32368444 (Love is blue / Paul Mauriat / Lo mejor de Paul Mauriat, 158.0s): marked instrumental",
+    "lrclib 18616405 (Love is Blue / Paul Mauriat / Love is Blue, 151.0s): marked instrumental",
+    "lrclib 19180835 (Love Is Blue / Paul Mauriat / Love Is Blue, 153.155918s): marked instrumental",
+    "lrclib 10000711 (Love is blue / Paul Mauriat / Love is Blue, 156.0s): marked instrumental",
+    "lrclib 14755451 (Love Is Blue / Paul Mauriat / Love Is Blue, 159.0s): marked instrumental"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

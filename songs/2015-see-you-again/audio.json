@@ -1,0 +1,72 @@
+{
+  "id": "2015-see-you-again",
+  "preview": {
+    "service": "deezer",
+    "track_id": 95813354,
+    "matched_by": "isrc",
+    "isrc": "USAT21500313",
+    "title": "See You Again (feat. Charlie Puth)",
+    "artist": "Wiz Khalifa",
+    "album": "See You Again (feat. Charlie Puth)",
+    "track_duration_s": 229,
+    "link": "https://www.deezer.com/track/95813354",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 159.9,
+    "tempo_bpm_grid": 161.5,
+    "tempo_candidates_bpm": [
+      161.5,
+      80.7,
+      53.8
+    ],
+    "beats_detected": 71,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.887,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.632,
+    "chroma_profile": [
+      0.4,
+      0.332,
+      0.452,
+      0.622,
+      0.426,
+      0.748,
+      0.457,
+      0.639,
+      0.399,
+      0.484,
+      1.0,
+      0.427
+    ],
+    "rms_dbfs": -7.44,
+    "rms_dbfs_p95_frame": -4.27,
+    "peak_dbfs": 1.34,
+    "loudness_lufs_approx": -8.83,
+    "spectral_centroid_hz_mean": 2232.6,
+    "spectral_centroid_hz_median": 2092.2,
+    "onsets": 105,
+    "onset_density_per_s": 3.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 95813354",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.2,
+    "gain": -10,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/95813354",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USAT21501111: matched but no preview available (readable=False)"
+  ]
+}

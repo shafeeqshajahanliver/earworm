@@ -1,0 +1,143 @@
+{
+  "id": "1968-mrs-robinson",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "616",
+      "also_ids": [],
+      "match": {
+        "title": "Mrs. Robinson",
+        "artist": "Simon & Garfunkel",
+        "chart_date": "1968-06-01",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 616 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 245.002,
+      "version_check": "duration within 12 s (+6.7 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.673,
+          "end": 11.165,
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 11.165,
+          "end": 34.509,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 34.509,
+          "end": 55.552,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 55.552,
+          "end": 60.814,
+          "label": "trans",
+          "letter": "A",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 60.814,
+          "end": 84.196,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 84.196,
+          "end": 105.209,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 105.209,
+          "end": 110.514,
+          "label": "trans",
+          "letter": "A",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 110.514,
+          "end": 133.922,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 133.922,
+          "end": 155.038,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 155.038,
+          "end": 160.303,
+          "label": "trans",
+          "letter": "A",
+          "normalised": "other",
+          "bars": 4
+        },
+        {
+          "start": 160.303,
+          "end": 183.766,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 18
+        },
+        {
+          "start": 183.766,
+          "end": 204.939,
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 204.939,
+          "end": 220.6,
+          "label": "outro",
+          "letter": "A",
+          "normalised": "outro",
+          "bars": 12
+        },
+        {
+          "start": 220.6,
+          "end": 240.698,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 16
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

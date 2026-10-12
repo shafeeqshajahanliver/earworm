@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 24900531,
+  "kind": "synced",
+  "matched": {
+    "track": "The Bones",
+    "artist": "Maren Morris",
+    "album": "The Bones - Single",
+    "duration_s": 196.623673
+  },
+  "duration_matched_to": "musicbrainz recording length (196s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 196.229,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 197.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 197.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 21802572 (The Bones / Maren Morris / Full Tilt Remix Vol. 91, 232.306939s): live/remix/other version",
+    "lrclib 11367679 (The Bones (acoustic) / Maren Morris / Maren Morris: Reimagined, 217.0s): live/remix/other version",
+    "lrclib 23855849 (The Bones (Acoustic) / Maren Morris / Maren Morris: Reimagined (Acoustic), 217.093333s): live/remix/other version",
+    "lrclib 3107811 (The Bones (Acoustic) / Maren Morris / Maren Morris: Reimagined - Single, 217.0s): live/remix/other version",
+    "lrclib 14356655 (The Bones  (Dave Audé Remix) / Maren Morris / The Bones, 288.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

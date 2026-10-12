@@ -1,0 +1,112 @@
+{
+  "id": "1989-girl-you-know-its-true",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "913",
+      "also_ids": [],
+      "match": {
+        "title": "Girl You Know It's True",
+        "artist": "Milli Vanilli",
+        "chart_date": "1989-04-22",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 913 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 252.996,
+      "version_check": "duration differs by +21 s from our recording (MusicBrainz recording length)",
+      "version_note": "annotated audio is 253 s vs 232 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "sections": [
+        {
+          "start": 0.255,
+          "end": 14.211,
+          "label": "noise",
+          "letter": "Z",
+          "normalised": "other",
+          "bars": 0
+        },
+        {
+          "start": 14.211,
+          "end": 44.907,
+          "label": "intro",
+          "letter": "A'",
+          "normalised": "intro",
+          "bars": 13
+        },
+        {
+          "start": 44.907,
+          "end": 74.421,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 14
+        },
+        {
+          "start": 74.421,
+          "end": 84.289,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 84.289,
+          "end": 123.579,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 123.579,
+          "end": 153.061,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 14
+        },
+        {
+          "start": 153.061,
+          "end": 162.881,
+          "label": "pre-chorus",
+          "letter": "C",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 162.881,
+          "end": 202.199,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 202.199,
+          "end": 217.548,
+          "label": "bridge",
+          "letter": "E",
+          "normalised": "bridge",
+          "bars": 7
+        },
+        {
+          "start": 217.548,
+          "end": 251.286,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 13
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

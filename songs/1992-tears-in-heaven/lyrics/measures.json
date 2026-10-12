@@ -1,0 +1,41 @@
+{
+  "id": "1992-tears-in-heaven",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3798274,
+  "lines": 33,
+  "words": 154,
+  "unique_words": 59,
+  "type_token_ratio": 0.383,
+  "repeated_line_share": 0.333,
+  "distinct_lines": 22,
+  "zlib_compression_ratio": 0.362,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "tears in heaven",
+  "title_phrase_occurrences": 1,
+  "pronouns": {
+    "first_singular": 22,
+    "second": 15,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 13.76,
+  "last_line_s": 249.38,
+  "sung_time_s": 171.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 54.0,
+  "words_per_minute_track": 33.8,
+  "longest_gap_between_lines_s": 30.07,
+  "longest_gap_starts_at_s": 146.08,
+  "first_repeated_block": {
+    "first_at_s": 13.76,
+    "recurs_at_s": 207.59,
+    "lines": [
+      "Would you know my name?",
+      "If I saw you in heaven"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3798274",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

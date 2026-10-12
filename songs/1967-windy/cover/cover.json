@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "62cd3f0a-bdfb-4516-a2e0-416d6df6896c",
+      "release_title": "Windy",
+      "release_date": "1967-05-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "d53b0e6d-5591-37c1-aa95-4811bfbc61ce",
+      "release_title": "Insight Out",
+      "release_date": "1967-06-08",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Insight Out",
+      "url": "http://coverartarchive.org/release/81629bda-f23a-4c61-81e9-de94c0ab900c/9269811331-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/81629bda-f23a-4c61-81e9-de94c0ab900c",
+      "image_id": "9269811331",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.653,
+        "saturation": 0.286,
+        "dark_share": 0.155,
+        "palette": [
+          {
+            "hex": "#302826",
+            "share": 0.289
+          },
+          {
+            "hex": "#96593f",
+            "share": 0.224
+          },
+          {
+            "hex": "#cdbf8e",
+            "share": 0.174
+          },
+          {
+            "hex": "#f8faed",
+            "share": 0.173
+          },
+          {
+            "hex": "#f9fbf3",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8b/e7/4a/8be74a10-caa9-b63e-30fe-3b9d3a725531/603497895533.jpg/1200x1200bb.jpg",
+      "collection": "Insight Out (Mono)",
+      "collection_id": 943108295,
+      "track_id": 943108301,
+      "artist_name": "The Association",
+      "release_date": "1967-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.723,
+        "saturation": 0.199,
+        "dark_share": 0.158,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.388
+          },
+          {
+            "hex": "#37232a",
+            "share": 0.266
+          },
+          {
+            "hex": "#af7667",
+            "share": 0.216
+          },
+          {
+            "hex": "#ebdfca",
+            "share": 0.085
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.045
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

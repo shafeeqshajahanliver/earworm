@@ -1,0 +1,35 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 14372489,
+  "kind": "synced",
+  "matched": {
+    "track": "The First Time",
+    "artist": "Surface",
+    "album": "The Best of Surface… A Nice Time 4 Lovin’",
+    "duration_s": 257.651042
+  },
+  "duration_matched_to": "musicbrainz recording length (257s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 257.426,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 256.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 256.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

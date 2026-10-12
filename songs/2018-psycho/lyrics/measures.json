@@ -1,0 +1,41 @@
+{
+  "id": "2018-psycho",
+  "lyrics_kind": "synced",
+  "lrclib_id": 20205869,
+  "lines": 55,
+  "words": 535,
+  "unique_words": 189,
+  "type_token_ratio": 0.353,
+  "repeated_line_share": 0.327,
+  "distinct_lines": 37,
+  "zlib_compression_ratio": 0.313,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "psycho",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 42,
+    "second": 17,
+    "first_plural": 5
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 12.4,
+  "last_line_s": 201.28,
+  "sung_time_s": 189.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 169.6,
+  "words_per_minute_track": 145.0,
+  "longest_gap_between_lines_s": 6.54,
+  "longest_gap_starts_at_s": 77.58,
+  "first_repeated_block": {
+    "first_at_s": 16.15,
+    "recurs_at_s": 29.76,
+    "lines": [
+      "Can't really trust nobody with all this jewelry on you",
+      "My roof look like a no-show, got diamonds by the boatload"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 20205869",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

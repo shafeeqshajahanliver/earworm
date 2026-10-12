@@ -1,0 +1,471 @@
+{
+  "id": "1964-last-kiss",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "54",
+      "also_ids": [
+        "247",
+        "402"
+      ],
+      "match": {
+        "title": "Last Kiss",
+        "artist": "J. Frank Wilson & The Cavaliers",
+        "chart_date": "1964-09-05",
+        "peak_rank": "2"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 54 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 147.696,
+      "version_check": "duration within 12 s (-0.0 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "E",
+        "tonic_pc": 4,
+        "mode": null,
+        "name": "E",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.139,
+          "end": 10.588,
+          "bars": 6,
+          "key": "E",
+          "written": [
+            "N",
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "N",
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "N",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 10.588,
+          "end": 24.827,
+          "bars": 8,
+          "key": "E",
+          "written": [
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        },
+        {
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "start": 24.827,
+          "end": 28.338,
+          "bars": 2,
+          "key": "E",
+          "written": [
+            "E"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "E:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "start": 28.338,
+          "end": 56.768,
+          "bars": 16,
+          "key": "E",
+          "written": [
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        },
+        {
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "start": 56.768,
+          "end": 60.284,
+          "bars": 2,
+          "key": "E",
+          "written": [
+            "E"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "E:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 60.284,
+          "end": 74.424,
+          "bars": 8,
+          "key": "E",
+          "written": [
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        },
+        {
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "start": 74.424,
+          "end": 77.921,
+          "bars": 2,
+          "key": "E",
+          "written": [
+            "E"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "E:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "C",
+          "normalised": "verse",
+          "start": 77.921,
+          "end": 113.641,
+          "bars": 20,
+          "key": "E",
+          "written": [
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        },
+        {
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "start": 113.641,
+          "end": 117.119,
+          "bars": 2,
+          "key": "E",
+          "written": [
+            "E"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "E:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 117.119,
+          "end": 131.353,
+          "bars": 8,
+          "key": "E",
+          "written": [
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj",
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        },
+        {
+          "label": "trans",
+          "letter": "A'",
+          "normalised": "other",
+          "start": 131.353,
+          "end": 134.731,
+          "bars": 2,
+          "key": "E",
+          "written": [
+            "E"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "E:maj"
+          ]
+        },
+        {
+          "label": "outro",
+          "letter": "C'",
+          "normalised": "outro",
+          "start": 134.731,
+          "end": 141.831,
+          "bars": 4,
+          "key": "E",
+          "written": [
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "start": 141.831,
+          "end": 144.567,
+          "bars": 4,
+          "key": "E",
+          "written": [
+            "E",
+            "C#m",
+            "A",
+            "B"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "E:maj",
+            "C#:min",
+            "A:maj",
+            "B:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "2011-e-t",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0379_et",
+      "match": {
+        "title": "E.T.",
+        "artist": "Katy Perry feat. Kanye West",
+        "release": "Now That's What I Call Music! 38",
+        "musicbrainz_id": "a53fe01d-5c2d-4c71-9684-9ef814df9c9b",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0379_et.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0379_et.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 229.114,
+      "bpm": 75.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +23 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 6.398,
+          "end": 31.745,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 31.745,
+          "end": 56.299,
+          "label": "verse2",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 56.299,
+          "end": 69.765,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 4
+        },
+        {
+          "start": 69.765,
+          "end": 98.28,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 9
+        },
+        {
+          "start": 98.28,
+          "end": 123.626,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 123.626,
+          "end": 148.973,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 148.973,
+          "end": 177.488,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 177.488,
+          "end": 202.834,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 202.834,
+          "end": 228.181,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 229 s vs 206 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,37 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25468027,
+  "kind": "synced",
+  "matched": {
+    "track": "Just Give Me A Reason",
+    "artist": "Pink",
+    "album": "The Truth About Love (Full Deluxe)",
+    "duration_s": 242.782041
+  },
+  "duration_matched_to": "wikipedia infobox length (242s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 242.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched wikipedia infobox length (242s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 14998720 (Just Give Me a Reason / Pink featuring Nate Ruess / The Truth About Love, 241.0s): marked instrumental",
+    "lrclib 18013445 (Just Give Me A Reason / Pink / The Truth About Love [+digital booklet], 242.782041s): marked instrumental",
+    "lrclib 17963632 (Just Give Me A Reason / Pink / That Hits 2014, 244.8272s): marked instrumental",
+    "lrclib 17950166 (Just Give Me a Reason / Pink / The Truth About Love [Explicit], 242.782041s): marked instrumental",
+    "lrclib 17643099 (Just Give Me a Reason / Pink / The Truth About Love (Deluxe Version), 242.755918s): live/remix/other version",
+    "lrclib 14242235 (Just Give Me A Reason / Pink - / 01 Pink - Discography, 242.0s): marked instrumental",
+    "lrclib 17965147 (Just Give Me A Reason / Pink & Nate Ruess / Pink & Nate Ruess, 244.0s): marked instrumental"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

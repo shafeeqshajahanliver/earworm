@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9d4e3477-49bf-42a1-87af-374804301db8",
+      "release_title": "Mrs. Robinson",
+      "release_date": "1968",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "Cover Art Archive error: HTTP Error 503: Service Unavailable"
+    },
+    "album": {
+      "release_group": "f4a26672-dcd8-342d-ad09-2b612d91c9fb",
+      "release_title": "Bookends",
+      "release_date": "1968",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Bookends",
+      "url": "https://coverartarchive.org/release/67504c57-fa57-48ea-adb8-aaf4264c9256/44099937412-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/67504c57-fa57-48ea-adb8-aaf4264c9256",
+      "image_id": 44099937412,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.368,
+        "saturation": 0.034,
+        "dark_share": 0.395,
+        "palette": [
+          {
+            "hex": "#646663",
+            "share": 0.317
+          },
+          {
+            "hex": "#b8b8b7",
+            "share": 0.206
+          },
+          {
+            "hex": "#232321",
+            "share": 0.2
+          },
+          {
+            "hex": "#262624",
+            "share": 0.192
+          },
+          {
+            "hex": "#3a3a38",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1c/3c/09/1c3c0934-8ae5-fc87-2647-e104057d41f4/074640952920.jpg/1200x1200bb.jpg",
+      "collection": "Bookends",
+      "collection_id": 203303421,
+      "track_id": 203304387,
+      "artist_name": "Simon & Garfunkel",
+      "release_date": "1968-04-03T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.369,
+        "saturation": 0.039,
+        "dark_share": 0.396,
+        "palette": [
+          {
+            "hex": "#646564",
+            "share": 0.314
+          },
+          {
+            "hex": "#b8b8b8",
+            "share": 0.206
+          },
+          {
+            "hex": "#232321",
+            "share": 0.199
+          },
+          {
+            "hex": "#272624",
+            "share": 0.197
+          },
+          {
+            "hex": "#3c3c3a",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2016-stressed-out",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1357,
+  "lines": 47,
+  "words": 526,
+  "unique_words": 145,
+  "type_token_ratio": 0.276,
+  "repeated_line_share": 0.383,
+  "distinct_lines": 29,
+  "zlib_compression_ratio": 0.259,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "stressed out",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 29,
+    "second": 9,
+    "first_plural": 42
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.96,
+  "last_line_s": 196.12,
+  "sung_time_s": 180.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 174.9,
+  "words_per_minute_track": 156.0,
+  "longest_gap_between_lines_s": 9.19,
+  "longest_gap_starts_at_s": 57.89,
+  "first_repeated_block": {
+    "first_at_s": 33.41,
+    "recurs_at_s": 102.79,
+    "lines": [
+      "My name's Blurryface, and I care what you think",
+      "Wish we could turn back time to the good old days"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1357",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

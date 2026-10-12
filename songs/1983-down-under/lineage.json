@@ -1,0 +1,58 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/60901",
+    "title": "Down Under",
+    "performer": "Men at Work",
+    "is_original": true,
+    "first_release_date": "1980",
+    "releases": [
+      {
+        "title": "Down Under",
+        "uri": "https://api.secondhandsongs.com/release/24506",
+        "performer": "Men at Work"
+      },
+      {
+        "title": "Keypunch Operator",
+        "uri": "https://api.secondhandsongs.com/release/335252",
+        "performer": "Men at Work"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 72,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/60901",
+    "title": "Down Under",
+    "language": "English",
+    "writers": [
+      "Colin Hay",
+      "Ron Strykert"
+    ],
+    "original_performer": "Men at Work",
+    "versions": 73,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Onder onder",
+        "uri": "https://api.secondhandsongs.com/work/120839"
+      },
+      {
+        "title": "Tervetuloa länteen Andrej",
+        "uri": "https://api.secondhandsongs.com/work/128052"
+      },
+      {
+        "title": "Outnumbered",
+        "uri": "https://api.secondhandsongs.com/work/204156"
+      },
+      {
+        "title": "Tirol",
+        "uri": "https://api.secondhandsongs.com/work/216080"
+      }
+    ]
+  }
+}

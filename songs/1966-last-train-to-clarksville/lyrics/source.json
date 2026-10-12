@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 38977829,
+  "kind": "synced",
+  "matched": {
+    "track": "Last Train To Clarksville",
+    "artist": "The Monkees",
+    "album": "The Last Train To Clarksville / Take A Giant Step - Single",
+    "duration_s": 162.0
+  },
+  "duration_matched_to": "musicbrainz recording length (160s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 160.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 162.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 166.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37522750 (Last Train to Clarksville / The Monkees / EoH Reference Series DTS CD 23, 191.0s): duration matches no reference length",
+    "lrclib 37138272 (Last Train To Clarksville / The Monkees / The Best Of - In Concert, 378.0s): live/remix/other version",
+    "lrclib 34935811 (Last Train to Clarksville / The Monkees / The Monkees Extended Versions: The Encore Collection, 248.0s): duration matches no reference length",
+    "lrclib 24964875 (Last Train to Clarksville / The Monkees / Last Train to Clarksville ⁄ Take a Giant Step, 151.745306s): duration matches no reference length",
+    "lrclib 19278271 (Last Train To Clarksville / The Monkees / The Monkees, 172.730625s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

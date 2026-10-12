@@ -1,0 +1,72 @@
+{
+  "id": "2016-dont-let-me-down",
+  "preview": {
+    "service": "deezer",
+    "track_id": 119302924,
+    "matched_by": "isrc",
+    "isrc": "USQX91600011",
+    "title": "Don't Let Me Down",
+    "artist": "The Chainsmokers",
+    "album": "Don't Let Me Down",
+    "track_duration_s": 208,
+    "link": "https://www.deezer.com/track/119302924",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 108.4,
+    "tempo_bpm_grid": 106.6,
+    "tempo_candidates_bpm": [
+      161.5,
+      107.7,
+      80.7
+    ],
+    "beats_detected": 52,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.527,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.316,
+    "chroma_profile": [
+      0.404,
+      0.394,
+      0.355,
+      0.393,
+      0.465,
+      0.537,
+      0.688,
+      0.74,
+      1.0,
+      0.517,
+      0.551,
+      0.542
+    ],
+    "rms_dbfs": -6.12,
+    "rms_dbfs_p95_frame": -2.85,
+    "peak_dbfs": 1.18,
+    "loudness_lufs_approx": -7.57,
+    "spectral_centroid_hz_mean": 2250.6,
+    "spectral_centroid_hz_median": 2197.7,
+    "onsets": 99,
+    "onset_density_per_s": 3.301,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 119302924",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.2,
+    "gain": -8.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/119302924",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (160.2) by 32%"
+  ],
+  "rejected_candidates": []
+}

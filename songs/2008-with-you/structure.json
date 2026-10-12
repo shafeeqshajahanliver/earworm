@@ -1,0 +1,314 @@
+{
+  "id": "2008-with-you",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0987_withyou",
+      "match": {
+        "title": "With You",
+        "artist": "Chris Brown",
+        "release": "Now That's What I Call Music! 28",
+        "musicbrainz_id": "ddca5a69-f6ac-4eaf-827a-d084746b79d2",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0987_withyou.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0987_withyou.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 252.043,
+      "bpm": 86.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.214,
+          "end": 22.54,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 22.54,
+          "end": 45.04,
+          "label": "verse1",
+          "normalised": "verse",
+          "bars": 9
+        },
+        {
+          "start": 45.04,
+          "end": 64.575,
+          "label": "verse2",
+          "normalised": "verse",
+          "bars": 7
+        },
+        {
+          "start": 64.575,
+          "end": 86.9,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 86.9,
+          "end": 97.889,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 3
+        },
+        {
+          "start": 97.889,
+          "end": 120.214,
+          "label": "verse3",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 120.214,
+          "end": 128.761,
+          "label": "verse4",
+          "normalised": "verse",
+          "bars": 4
+        },
+        {
+          "start": 128.761,
+          "end": 151.086,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 151.086,
+          "end": 162.075,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 3
+        },
+        {
+          "start": 162.075,
+          "end": 184.4,
+          "label": "verse5",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 184.4,
+          "end": 206.726,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 206.726,
+          "end": 229.226,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 9
+        },
+        {
+          "start": 229.226,
+          "end": 240.214,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 3
+        },
+        {
+          "start": 240.214,
+          "end": 250.156,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0988_withyoukovas",
+      "match": {
+        "title": "With You (Kovas Ghetto Beat extended remix)",
+        "artist": "Chris Brown",
+        "release": "Ultra Dance 10",
+        "musicbrainz_id": "54aceaae-709e-4c7e-8871-f70b3ff2b54b",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0988_withyoukovas.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0988_withyoukovas.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 311.497,
+      "bpm": 129.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +59 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.065,
+          "end": 14.955,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 14.955,
+          "end": 29.844,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 29.844,
+          "end": 44.734,
+          "label": "intro3",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 44.734,
+          "end": 59.623,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 59.623,
+          "end": 74.513,
+          "label": "verse2",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 74.513,
+          "end": 96.847,
+          "label": "verse3",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 96.847,
+          "end": 115.459,
+          "label": "verse5",
+          "normalised": "verse",
+          "bars": 10
+        },
+        {
+          "start": 115.459,
+          "end": 122.904,
+          "label": "break",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 122.904,
+          "end": 130.348,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 130.348,
+          "end": 139.713,
+          "label": "break2",
+          "normalised": "instrumental",
+          "bars": 6
+        },
+        {
+          "start": 139.713,
+          "end": 145.244,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 2
+        },
+        {
+          "start": 145.244,
+          "end": 167.605,
+          "label": "verse6",
+          "normalised": "verse",
+          "bars": 12
+        },
+        {
+          "start": 167.605,
+          "end": 193.692,
+          "label": "verse7",
+          "normalised": "verse",
+          "bars": 14
+        },
+        {
+          "start": 193.692,
+          "end": 210.52,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 10
+        },
+        {
+          "start": 210.52,
+          "end": 225.38,
+          "label": "verse8",
+          "normalised": "verse",
+          "bars": 7
+        },
+        {
+          "start": 225.38,
+          "end": 240.357,
+          "label": "verse9",
+          "normalised": "verse",
+          "bars": 9
+        },
+        {
+          "start": 240.357,
+          "end": 255.275,
+          "label": "verse10",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 255.275,
+          "end": 266.464,
+          "label": "verse11",
+          "normalised": "verse",
+          "bars": 6
+        },
+        {
+          "start": 266.464,
+          "end": 281.383,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 281.383,
+          "end": 309.296,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 14
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 311 s vs 252 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro chorus intro verse instrumental chorus instrumental verse chorus verse chorus outro"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "unknown"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "no",
+    "notes": [
+      "harmonix: annotated audio is 311 s vs 252 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

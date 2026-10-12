@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/477216",
+    "title": "Just Another Day",
+    "performer": "Jon Secada",
+    "is_original": true,
+    "first_release_date": "1992-03-24",
+    "releases": [
+      {
+        "title": "Just Another Day",
+        "uri": "https://api.secondhandsongs.com/release/149483",
+        "performer": "Jon Secada"
+      },
+      {
+        "title": "Jon Secada",
+        "uri": "https://api.secondhandsongs.com/release/353466",
+        "performer": "Jon Secada"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 7,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/156123",
+    "title": "Just Another Day",
+    "language": "English",
+    "writers": [
+      "Miguel Morejon",
+      "Jon Secada"
+    ],
+    "original_performer": "Jon Secada",
+    "versions": 8,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Otro día más sin verte",
+        "uri": "https://api.secondhandsongs.com/work/159872"
+      }
+    ]
+  }
+}

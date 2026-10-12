@@ -1,0 +1,71 @@
+{
+  "id": "2018-girls-like-you",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1381582728,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Girls Like You (feat. Cardi B)",
+    "artist": "Maroon 5",
+    "album": "Girls Like You (feat. Cardi B) - Single",
+    "track_duration_s": 235.5,
+    "link": "https://music.apple.com/us/album/girls-like-you-feat-cardi-b/1381582726?i=1381582728&uo=4",
+    "duration_matched_to": "musicbrainz recording length (236s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 125.1,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      123.0,
+      129.2,
+      161.5
+    ],
+    "beats_detected": 62,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.926,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.663,
+    "chroma_profile": [
+      1.0,
+      0.497,
+      0.53,
+      0.393,
+      0.71,
+      0.869,
+      0.449,
+      0.991,
+      0.407,
+      0.785,
+      0.346,
+      0.436
+    ],
+    "rms_dbfs": -8.76,
+    "rms_dbfs_p95_frame": -5.04,
+    "peak_dbfs": -0.34,
+    "loudness_lufs_approx": -9.7,
+    "spectral_centroid_hz_mean": 2054.3,
+    "spectral_centroid_hz_median": 2106.3,
+    "onsets": 165,
+    "onset_density_per_s": 5.504,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1381582728",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USUM71805272: version: Girls Like You (Cardi B Version)",
+    "deezer 498130042: version (Girls Like You (Cardi B Version))",
+    "deezer 534175092: version (Girls Like You (WondaGurl Remix))",
+    "deezer 536689772: version (Girls Like You (CRAY Remix))",
+    "deezer 537431602: version (Girls Like You (St. Vincent Remix))",
+    "deezer 534175312: version (Girls Like You (TOKiMONSTA Remix))"
+  ]
+}

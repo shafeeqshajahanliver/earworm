@@ -1,0 +1,72 @@
+{
+  "id": "2021-mood",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1283264132,
+    "matched_by": "isrc",
+    "isrc": "USQX92003031",
+    "title": "Mood (feat. iann dior)",
+    "artist": "24kGoldn",
+    "album": "El Dorado",
+    "track_duration_s": 140,
+    "link": "https://www.deezer.com/track/1283264132",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 94.4,
+    "tempo_bpm_grid": 91.5,
+    "tempo_candidates_bpm": [
+      184.6,
+      92.3,
+      60.1
+    ],
+    "beats_detected": 44,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.786,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.765,
+    "chroma_profile": [
+      0.812,
+      0.525,
+      0.661,
+      0.673,
+      0.496,
+      0.885,
+      0.575,
+      1.0,
+      0.595,
+      0.552,
+      0.948,
+      0.564
+    ],
+    "rms_dbfs": -5.88,
+    "rms_dbfs_p95_frame": -3.46,
+    "peak_dbfs": 1.64,
+    "loudness_lufs_approx": -7.54,
+    "spectral_centroid_hz_mean": 2136.2,
+    "spectral_centroid_hz_median": 2020.0,
+    "onsets": 151,
+    "onset_density_per_s": 5.035,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1283264132",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1283264132",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between G minor and Bb major"
+  ],
+  "rejected_candidates": []
+}

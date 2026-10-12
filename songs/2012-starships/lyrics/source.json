@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22725817,
+  "kind": "synced",
+  "matched": {
+    "track": "Starships",
+    "artist": "Nicki Minaj",
+    "album": "Starships [Single] [Explicit]",
+    "duration_s": 210.912653
+  },
+  "duration_matched_to": "deezer preview track matched by search (210s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 244.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 210.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 211.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (210s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 34404402 (Starships / Nicki Minaj / Pink Friday ... Roman Reloaded, 200.0s): duration matches no reference length",
+    "lrclib 34619587 (Starships / Nicki Minaj / Pink Friday: Roman Reloaded The Re-Up (Explicit Version), 158.0s): live/remix/other version",
+    "lrclib 35304871 (Starships / Nicki Minaj / Pink Friday ... Roman Reloaded, 196.0s): duration matches no reference length",
+    "lrclib 18848090 (Starships / Nicki Minaj / Starships, 216.920816s): duration matches no reference length",
+    "lrclib 32742996 (Starships / Nicki Minaj / Starships, 261.0s): duration matches no reference length",
+    "lrclib 28114516 (Starships (Explicit) / Nicki Minaj / Starships, 261.0s): duration matches no reference length",
+    "lrclib 27450900 (Starships / Nicki Minaj / Starships (Explicit Version), 210.860408s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

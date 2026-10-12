@@ -1,0 +1,390 @@
+{
+  "id": "2009-poker-face",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0217_pokerface",
+      "match": {
+        "title": "Poker Face",
+        "artist": "Lady Gaga",
+        "release": "Poker Face",
+        "musicbrainz_id": "018b399d-4bb7-36f4-9305-43b084dc2ec8",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0217_pokerface.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0217_pokerface.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 143.437,
+      "bpm": 119.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by -94 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.0,
+          "end": 16.135,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 8
+        },
+        {
+          "start": 16.135,
+          "end": 24.202,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 24.202,
+          "end": 40.336,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 40.336,
+          "end": 56.471,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 56.471,
+          "end": 72.605,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 72.605,
+          "end": 88.74,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 88.74,
+          "end": 104.875,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 104.875,
+          "end": 121.009,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 121.009,
+          "end": 137.143,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "no segment labelled 'bridge'; annotated audio is a shorter edit, so a bridge may have been cut",
+      "version_note": "annotated audio is 143 s vs 237 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0866_pokerfacedave",
+      "match": {
+        "title": "Poker Face (Dave Audé mix)",
+        "artist": "Lady Gaga",
+        "release": "Ultra Dance 11",
+        "musicbrainz_id": "076d8b92-54c8-4c65-9580-b217b22fa13a",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0866_pokerfacedave.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0866_pokerfacedave.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 439.241,
+      "bpm": 128.0,
+      "time_signature": "4/4",
+      "version_check": "duration differs by +202 s from our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 0.1,
+          "end": 60.1,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 32
+        },
+        {
+          "start": 60.1,
+          "end": 75.1,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 75.1,
+          "end": 90.1,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 90.1,
+          "end": 105.1,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 105.1,
+          "end": 150.1,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 24
+        },
+        {
+          "start": 150.1,
+          "end": 165.1,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 165.1,
+          "end": 180.1,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 180.1,
+          "end": 195.1,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 195.1,
+          "end": 225.1,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 16
+        },
+        {
+          "start": 225.1,
+          "end": 240.1,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 240.1,
+          "end": 255.1,
+          "label": "break",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 255.1,
+          "end": 270.1,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 270.1,
+          "end": 303.85,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 18
+        },
+        {
+          "start": 303.85,
+          "end": 333.85,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 333.85,
+          "end": 348.85,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 348.85,
+          "end": 378.85,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 378.85,
+          "end": 423.85,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 24
+        },
+        {
+          "start": 423.85,
+          "end": 438.85,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'",
+      "version_note": "annotated audio is 439 s vs 237 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0867_pokerfacedos",
+      "match": {
+        "title": "Poker Face",
+        "artist": "Lady Gaga",
+        "release": "Now That's What I Call Music! 31",
+        "musicbrainz_id": "ce3a5a96-e755-4742-9f20-2578600daa4c",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0867_pokerfacedos.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0867_pokerfacedos.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 236.356,
+      "bpm": 119.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.05,
+          "end": 24.252,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 12
+        },
+        {
+          "start": 24.252,
+          "end": 40.386,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 40.386,
+          "end": 56.521,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 56.521,
+          "end": 72.655,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 72.655,
+          "end": 80.722,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 80.722,
+          "end": 96.857,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 96.857,
+          "end": 112.991,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 112.991,
+          "end": 129.126,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 129.126,
+          "end": 137.193,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 137.193,
+          "end": 161.395,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 12
+        },
+        {
+          "start": 161.395,
+          "end": 177.529,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 177.529,
+          "end": 193.664,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 193.664,
+          "end": 209.798,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 209.798,
+          "end": 234.0,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro verse prechorus chorus verse prechorus chorus bridge chorus"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [
+      "harmonix: annotated audio is 143 s vs 237 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
+      "harmonix: annotated audio is 439 s vs 237 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

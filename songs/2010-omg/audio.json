@@ -1,0 +1,76 @@
+{
+  "id": "2010-omg",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15597227,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USLF20900103",
+    "title": "OMG (feat. will.i.am)",
+    "artist": "USHER",
+    "album": "Raymond v Raymond (Expanded Edition)",
+    "track_duration_s": 268,
+    "link": "https://www.deezer.com/track/15597227",
+    "duration_matched_to": "musicbrainz recording length (269s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 130.1,
+    "tempo_bpm_grid": 129.2,
+    "tempo_candidates_bpm": [
+      129.2,
+      64.6,
+      86.1
+    ],
+    "beats_detected": 66,
+    "key": "B minor",
+    "key_tonic": "B",
+    "key_mode": "minor",
+    "key_correlation": 0.503,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.352,
+    "chroma_profile": [
+      0.813,
+      0.821,
+      1.0,
+      0.93,
+      0.946,
+      0.857,
+      0.936,
+      0.774,
+      0.639,
+      0.751,
+      0.794,
+      0.907
+    ],
+    "rms_dbfs": -10.1,
+    "rms_dbfs_p95_frame": -5.53,
+    "peak_dbfs": 1.16,
+    "loudness_lufs_approx": -10.89,
+    "spectral_centroid_hz_mean": 2476.9,
+    "spectral_centroid_hz_median": 2252.4,
+    "onsets": 79,
+    "onset_density_per_s": 2.634,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15597227",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 130,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15597227",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 6270374: version (OMG (feat. will.i.am) (Disco Fries Extended Mix))",
+    "deezer 6270372: version (OMG (feat. will.i.am) (Kovas Ghetto Beat Mix))",
+    "deezer 6270371: version (OMG (Cory Enemy Dub Mix))",
+    "deezer 6270373: version (OMG (feat. will.i.am) (Don Vito 2 The Left Mix))"
+  ]
+}

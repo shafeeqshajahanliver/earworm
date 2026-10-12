@@ -1,0 +1,988 @@
+{
+  "id": "1968-sunshine-of-your-love",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "114",
+      "also_ids": [],
+      "match": {
+        "title": "Sunshine Of Your Love",
+        "artist": "Cream",
+        "chart_date": "1968-03-30",
+        "peak_rank": "5"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 114 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 253.237,
+      "version_check": "duration not comparable (missing length)",
+      "key_info": {
+        "tonic": "D",
+        "tonic_pc": 2,
+        "mode": null,
+        "name": "D",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "C",
+          "normalised": "intro",
+          "start": 0.384,
+          "end": 17.257,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw": [
+            "D:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 17.257,
+          "end": 50.376,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "D:maj",
+            "G:maj",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 50.376,
+          "end": 71.275,
+          "bars": 10,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "D"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 71.275,
+          "end": 104.58,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "D:maj",
+            "G:maj",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 104.58,
+          "end": 121.212,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "instrumental",
+          "letter": "D",
+          "normalised": "instrumental",
+          "start": 121.212,
+          "end": 179.22,
+          "bars": 28,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "A",
+          "normalised": "verse",
+          "start": 179.22,
+          "end": 212.461,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "D:maj",
+            "G:maj",
+            "D:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "B",
+          "normalised": "chorus",
+          "start": 212.461,
+          "end": 245.604,
+          "bars": 18,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw": [
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "C:maj",
+            "G:maj",
+            "A:maj"
+          ]
+        },
+        {
+          "label": "fadeout",
+          "letter": "E",
+          "normalised": "outro",
+          "start": 245.604,
+          "end": 250.119,
+          "bars": 1,
+          "key": "D",
+          "written": [
+            "A"
+          ],
+          "roman": [
+            "V"
+          ],
+          "raw": [
+            "A:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "sunshine_of_your_love_dt",
+      "match": {
+        "title": "Sunshine of Your Love",
+        "artist": "Cream",
+        "year": "1968",
+        "rs500_rank": "65",
+        "audio_used": {
+          "artist": "Cream",
+          "album": "Disraeli Gears",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, sunshine_of_your_love_dt.har/.clt + sunshine_of_your_love.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 115 bars; timed chord list ends in bar 112",
+      "key_info": {
+        "tonic": "D",
+        "tonic_pc": 2,
+        "mode": null,
+        "name": "D",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.333,
+          "end": 17.163,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I |*8"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 17.163,
+          "end": 50.316,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I |*8 IV |*4 I |*4"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 50.316,
+          "end": 67.004,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$CP*3 V |*2"
+        },
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 67.004,
+          "end": 71.213,
+          "bars": 2,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": null
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 71.213,
+          "end": 104.513,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I |*8 IV |*4 I |*4"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 104.513,
+          "end": 121.135,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$CP*3 V |*2"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 121.135,
+          "end": 154.229,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I |*8 IV |*4 I |*4"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 154.229,
+          "end": 170.745,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$CP*3 V |*2"
+        },
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 170.745,
+          "end": 179.16,
+          "bars": 4,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": null
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 179.16,
+          "end": 212.385,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I |*8 IV |*4 I |*4"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 212.385,
+          "end": 237.399,
+          "bars": 12,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$CP*5 V |*2"
+        },
+        {
+          "label": "Fadeout",
+          "normalised": "outro",
+          "start": 237.399,
+          "end": 239.515,
+          "bars": 1,
+          "key": "D",
+          "written": [
+            "A"
+          ],
+          "roman": [
+            "V"
+          ],
+          "raw_rule": "V |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "sunshine_of_your_love_tdc",
+      "match": {
+        "title": "Sunshine of Your Love",
+        "artist": "Cream",
+        "year": "1968",
+        "rs500_rank": "65",
+        "audio_used": {
+          "artist": "Cream",
+          "album": "Disraeli Gears",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, sunshine_of_your_love_tdc.har/.clt + sunshine_of_your_love.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 115 bars; timed chord list ends in bar 112",
+      "key_info": {
+        "tonic": "D",
+        "tonic_pc": 2,
+        "mode": null,
+        "name": "D",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.333,
+          "end": 17.163,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I | | | | | | | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 17.163,
+          "end": 50.316,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | | | | | | | | IV | | | | I | | | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 50.316,
+          "end": 67.004,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$A*3 V | |"
+        },
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 67.004,
+          "end": 71.213,
+          "bars": 2,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 71.213,
+          "end": 104.513,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | | | | | | | | IV | | | | I | | | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 104.513,
+          "end": 121.135,
+          "bars": 8,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$A*3 V | |"
+        },
+        {
+          "label": "So",
+          "normalised": "solo",
+          "start": 121.135,
+          "end": 170.745,
+          "bars": 24,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$Vr $Ch"
+        },
+        {
+          "label": "Ln",
+          "normalised": "other",
+          "start": 170.745,
+          "end": 179.16,
+          "bars": 4,
+          "key": "D",
+          "written": [
+            "D"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 179.16,
+          "end": 212.385,
+          "bars": 16,
+          "key": "D",
+          "written": [
+            "D",
+            "G",
+            "D"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I"
+          ],
+          "raw_rule": "I | | | | | | | | IV | | | | I | | | |"
+        },
+        {
+          "label": "Ch3",
+          "normalised": "chorus",
+          "start": 212.385,
+          "end": 239.515,
+          "bars": 13,
+          "key": "D",
+          "written": [
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "roman": [
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V",
+            "bVII",
+            "IV",
+            "V"
+          ],
+          "raw_rule": "$A*5 V |*3"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "mcgill_billboard": "D",
+      "rolling_stone_dt": "D",
+      "rolling_stone_tdc": "D"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "mcgill_billboard",
+        "other": "rolling_stone_dt",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      },
+      {
+        "reference": "mcgill_billboard",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

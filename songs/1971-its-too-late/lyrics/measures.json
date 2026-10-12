@@ -1,0 +1,41 @@
+{
+  "id": "1971-its-too-late",
+  "lyrics_kind": "synced",
+  "lrclib_id": 294230,
+  "lines": 27,
+  "words": 227,
+  "unique_words": 87,
+  "type_token_ratio": 0.383,
+  "repeated_line_share": 0.185,
+  "distinct_lines": 22,
+  "zlib_compression_ratio": 0.358,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "it's too late",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 11,
+    "second": 6,
+    "first_plural": 9
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.48,
+  "last_line_s": 219.5,
+  "sung_time_s": 135.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 100.8,
+  "words_per_minute_track": 58.5,
+  "longest_gap_between_lines_s": 65.4,
+  "longest_gap_starts_at_s": 92.85,
+  "first_repeated_block": {
+    "first_at_s": 37.94,
+    "recurs_at_s": 84.75,
+    "lines": [
+      "Something inside has died, and I can't hide it",
+      "And I just can't fake it"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 294230",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

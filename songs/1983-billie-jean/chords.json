@@ -1,0 +1,607 @@
+{
+  "id": "1983-billie-jean",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "billie_jean_dt",
+      "match": {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": "1983",
+        "rs500_rank": "58",
+        "audio_used": {
+          "artist": "Michael Jackson",
+          "album": "Thriller",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, billie_jean_dt.har/.clt + billie_jean.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 291 s; our recording 295 s",
+      "parse_check": "expanded 142 bars; timed chord list ends in bar 124",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.057,
+          "end": 28.774,
+          "bars": 14,
+          "key": "G",
+          "written": [
+            "Gm"
+          ],
+          "roman": [
+            "i"
+          ],
+          "raw_rule": "R |*2 i |*12"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 28.774,
+          "end": 69.768,
+          "bars": 20,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$BP $BP2"
+        },
+        {
+          "label": "Prec",
+          "normalised": "prechorus",
+          "start": 69.768,
+          "end": 86.168,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "D"
+          ],
+          "roman": [
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "V"
+          ],
+          "raw_rule": "bVI | i | bVI | i | bVI | i | bVI | V |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 86.168,
+          "end": 110.741,
+          "bars": 12,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$BP"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 110.741,
+          "end": 151.674,
+          "bars": 20,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$BP $BP2"
+        },
+        {
+          "label": "Prec",
+          "normalised": "prechorus",
+          "start": 151.674,
+          "end": 168.068,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "D"
+          ],
+          "roman": [
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "V"
+          ],
+          "raw_rule": "bVI | i | bVI | i | bVI | i | bVI | V |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 168.068,
+          "end": 184.418,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$BP2"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 184.418,
+          "end": 208.961,
+          "bars": 12,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$BP"
+        },
+        {
+          "label": "Solo",
+          "normalised": "solo",
+          "start": 208.961,
+          "end": 225.353,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "Gm"
+          ],
+          "roman": [
+            "i"
+          ],
+          "raw_rule": "i |*8"
+        },
+        {
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "start": 225.353,
+          "end": 233.534,
+          "bars": 4,
+          "key": "G",
+          "written": [
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "iv",
+            "i"
+          ],
+          "raw_rule": null
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 233.534,
+          "end": 258.086,
+          "bars": 12,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$BP"
+        },
+        {
+          "label": "Fadeout",
+          "normalised": "outro",
+          "start": 258.086,
+          "end": 290.8,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "Gm"
+          ],
+          "roman": [
+            "i"
+          ],
+          "raw_rule": "i |*16"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "billie_jean_tdc",
+      "match": {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": "1983",
+        "rs500_rank": "58",
+        "audio_used": {
+          "artist": "Michael Jackson",
+          "album": "Thriller",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, billie_jean_tdc.har/.clt + billie_jean.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 291 s; our recording 295 s",
+      "parse_check": "expanded 142 bars; timed chord list ends in bar 124",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.057,
+          "end": 28.774,
+          "bars": 14,
+          "key": "G",
+          "written": [
+            "Gm"
+          ],
+          "roman": [
+            "i"
+          ],
+          "raw_rule": "R | | i |*12"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 28.774,
+          "end": 69.768,
+          "bars": 20,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$A $B"
+        },
+        {
+          "label": "Pc",
+          "normalised": "prechorus",
+          "start": 69.768,
+          "end": 86.168,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "D"
+          ],
+          "roman": [
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "V"
+          ],
+          "raw_rule": "bVI | i | bVI | i | bVI | i | bVI | V |"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 86.168,
+          "end": 110.741,
+          "bars": 12,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$A"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 110.741,
+          "end": 151.674,
+          "bars": 20,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$A $B"
+        },
+        {
+          "label": "Pc",
+          "normalised": "prechorus",
+          "start": 151.674,
+          "end": 168.068,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "Gm",
+            "D#",
+            "D"
+          ],
+          "roman": [
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "i",
+            "bVI",
+            "V"
+          ],
+          "raw_rule": "bVI | i | bVI | i | bVI | i | bVI | V |"
+        },
+        {
+          "label": "Ch2",
+          "normalised": "chorus",
+          "start": 168.068,
+          "end": 184.418,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$B"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 184.418,
+          "end": 208.961,
+          "bars": 12,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$A"
+        },
+        {
+          "label": "So",
+          "normalised": "solo",
+          "start": 208.961,
+          "end": 233.534,
+          "bars": 12,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "i |*4 $B"
+        },
+        {
+          "label": "Ch1",
+          "normalised": "chorus",
+          "start": 233.534,
+          "end": 258.086,
+          "bars": 12,
+          "key": "G",
+          "written": [
+            "Gm",
+            "Cm",
+            "Gm",
+            "Cm",
+            "Gm"
+          ],
+          "roman": [
+            "i",
+            "iv",
+            "i",
+            "iv",
+            "i"
+          ],
+          "raw_rule": "$A"
+        },
+        {
+          "label": "Ou",
+          "normalised": "outro",
+          "start": 258.086,
+          "end": 290.8,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "Gm"
+          ],
+          "roman": [
+            "i"
+          ],
+          "raw_rule": "i |*16"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "rolling_stone_dt": "G",
+      "rolling_stone_tdc": "G"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "rolling_stone_dt",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "bd916f5c-f3cb-45cc-a3c7-83668e33dde1",
+      "release_title": "Mack the Knife / Was There a Call for Me",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "Cover Art Archive error: <urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "album": {
+      "release_group": "b647afe5-5bcd-3ba0-bcb0-793ebcb87dae",
+      "release_title": "That's All",
+      "release_date": "1959-03",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: That's All",
+      "missing": "Cover Art Archive error: <urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d17/h18/s06.tysgshrt.jpg/1200x1200bb.jpg",
+      "collection": "That's All",
+      "collection_id": 30393091,
+      "track_id": 30393093,
+      "artist_name": "Bobby Darin",
+      "release_date": "1959-03-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1192,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.464,
+        "saturation": 0.226,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#7f6360",
+            "share": 0.27
+          },
+          {
+            "hex": "#3c4056",
+            "share": 0.232
+          },
+          {
+            "hex": "#bba09a",
+            "share": 0.199
+          },
+          {
+            "hex": "#343843",
+            "share": 0.192
+          },
+          {
+            "hex": "#474450",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11974737,
+  "kind": "synced",
+  "matched": {
+    "track": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "album": "When I Was Your Man - Single",
+    "duration_s": 213.893824
+  },
+  "duration_matched_to": "musicbrainz recording length (214s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 213.826,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 213.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 214.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34482381 (When I Was Your Man / Bruno Mars / null, 180.0s): duration matches no reference length",
+    "lrclib 34533506 (When I Was Your Man / Bruno Mars / Unknown, 235.0s): duration matches no reference length",
+    "lrclib 34719918 (When I Was Your Man / Bruno Mars / Bruno Mars, 164.0s): duration matches no reference length",
+    "lrclib 22809142 (When I Was Your Man / Bruno Mars / When I Was Your Man, 234.0s): duration matches no reference length",
+    "lrclib 28570680 (When I Was Your Man / Bruno Mars / When I Was Your Man, 196.0s): duration matches no reference length",
+    "lrclib 26614056 (When I Was Your Man / Bruno Mars / When I Was Your Man, 237.374694s): duration matches no reference length",
+    "lrclib 18442040 (When I Was Your Man / Bruno Mars / When I Was Your Man - Single, 237.426939s): duration matches no reference length",
+    "lrclib 27814721 (When I Was Your Man (album version) / Bruno Mars / When I Was Your Man, 207.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

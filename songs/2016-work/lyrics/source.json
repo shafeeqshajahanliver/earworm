@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1048422,
+  "kind": "synced",
+  "matched": {
+    "track": "Work",
+    "artist": "Rihanna",
+    "album": "ANTI",
+    "duration_s": 219.0
+  },
+  "duration_matched_to": "musicbrainz recording length (219s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 219.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 219.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 219.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 39,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34753932 (Work / Rihanna / En Vrac & Youtube, 2725.0s): duration matches no reference length",
+    "lrclib 36739538 (Work / Rihanna / ANTI (Deluxe), 201.0s): duration matches no reference length",
+    "lrclib 34337141 (Work / Rihanna / ANTI (Deluxe), 190.0s): duration matches no reference length",
+    "lrclib 35618291 (Work / Rihanna / ANTI (Deluxe), 127.0s): duration matches no reference length",
+    "lrclib 35387972 (Work / Rihanna / ANTI (Deluxe), 194.0s): duration matches no reference length",
+    "lrclib 20279108 (Work / Rihanna / Work (Remixes), 289.0s): live/remix/other version",
+    "lrclib 20109304 (Work / Rihanna / Work, 454.034286s): duration matches no reference length",
+    "lrclib 37442932 (Work / Rihanna Feat. Drake / Mastermix - Dj Beats Chart The Collection Vol 2, 260.0s): duration matches no reference length",
+    "lrclib 33381987 (Work / Rihanna feat. Drake / Work (Remixes), 290.0s): live/remix/other version",
+    "lrclib 36585020 (Work / Rihanna feat. Drake / Work (Remixes), 239.0s): live/remix/other version",
+    "lrclib 18634420 (Work / Rihanna Feat. Drake / UK Top 40 Singles Chart Week 09 2016 (26.02.2016), 213.786122s): duration matches no reference length",
+    "lrclib 19291001 (Work / Rihanna feat. Drake / Work (Remixes), 259.0s): live/remix/other version",
+    "lrclib 24908158 (Work / Rihanna feat. Drake / Work, 230.298725s): duration matches no reference length",
+    "lrclib 23122029 (Work / Rihanna Feat. Drake / UK Top 40 Singles Chart, 213.8672s): duration matches no reference length",
+    "lrclib 39061935 (Work / Rihanna featuring Drake / Work (feat. Drake) [Remixes], 286.0s): live/remix/other version",
+    "lrclib 9823855 (Work / Rihanna / Rihanna, 454.0s): duration matches no reference length",
+    "lrclib 35601979 (Work (feat. Drake) / Rihanna / Rihanna, 454.0s): duration matches no reference length",
+    "lrclib 8827163 (Work (R3hab Remix) / Rihanna / Rihanna, 219.0s): live/remix/other version",
+    "lrclib 31355968 (Work (feat. Drake) / Rihanna / Rihanna, 200.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

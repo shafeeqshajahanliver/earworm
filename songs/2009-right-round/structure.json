@@ -1,0 +1,220 @@
+{
+  "id": "2009-right-round",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0881_rightround",
+      "match": {
+        "title": "Right Round",
+        "artist": "Flo Rida",
+        "release": "Now That's What I Call Music! 31",
+        "musicbrainz_id": "e7ea6192-8ffe-4734-a913-dc5ce6c7122c",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0881_rightround.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0881_rightround.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 204.904,
+      "bpm": 125.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.05,
+          "end": 7.425,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.425,
+          "end": 22.785,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 22.785,
+          "end": 53.505,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 53.505,
+          "end": 68.865,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 68.865,
+          "end": 84.225,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 84.225,
+          "end": 114.945,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 114.945,
+          "end": 130.305,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 130.305,
+          "end": 145.665,
+          "label": "postchorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 145.665,
+          "end": 168.705,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 12
+        },
+        {
+          "start": 168.705,
+          "end": 184.065,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 184.065,
+          "end": 199.425,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0882_rightroundbenny",
+      "match": {
+        "title": "Right Round (Benny Benassi remix edit)",
+        "artist": "Flo Rida",
+        "release": "Now That's What I Call Club Hits",
+        "musicbrainz_id": "c11c66de-d109-43e6-a840-bfc60265ce6e",
+        "same_recording_as_ours": false
+      },
+      "source": "Harmonix Set, dataset/segments/0882_rightroundbenny.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0882_rightroundbenny.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 202.263,
+      "bpm": 129.0,
+      "time_signature": "4/4",
+      "version_check": "duration within 12 s (-3.2 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 1.615,
+          "end": 16.499,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 16.499,
+          "end": 31.383,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 31.383,
+          "end": 46.267,
+          "label": "stutter",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 46.267,
+          "end": 76.034,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 76.034,
+          "end": 94.639,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 10
+        },
+        {
+          "start": 94.639,
+          "end": 124.406,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 124.406,
+          "end": 139.29,
+          "label": "break",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 139.29,
+          "end": 154.173,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 154.173,
+          "end": 183.941,
+          "label": "inst",
+          "normalised": "instrumental",
+          "bars": 16
+        },
+        {
+          "start": 183.941,
+          "end": 198.825,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "chorus instrumental verse instrumental chorus instrumental chorus"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "disputed",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

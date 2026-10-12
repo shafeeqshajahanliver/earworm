@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "343601c2-b2eb-4c15-851c-ed0b0a71d8bb",
+      "release_title": "You Were on My Mind",
+      "release_date": "1965-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "17a780f1-2e9d-3744-ad2f-9f251cf80fca",
+      "release_title": "You Were on My Mind",
+      "release_date": "1965",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: You Were on My Mind",
+      "url": "http://coverartarchive.org/release/0addbbaa-d3cd-455e-bc15-32b90b8a0bfd/1178117326-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0addbbaa-d3cd-455e-bc15-32b90b8a0bfd",
+      "image_id": 1178117326,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        336,
+        340
+      ],
+      "measures": {
+        "brightness": 0.667,
+        "saturation": 0.211,
+        "dark_share": 0.057,
+        "palette": [
+          {
+            "hex": "#ab977f",
+            "share": 0.349
+          },
+          {
+            "hex": "#cac8b3",
+            "share": 0.222
+          },
+          {
+            "hex": "#695045",
+            "share": 0.179
+          },
+          {
+            "hex": "#d1ccb8",
+            "share": 0.14
+          },
+          {
+            "hex": "#c1baa5",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/40/56/b9/4056b923-601e-ac91-88f5-bad4a1edd6e5/00602527350059.rgb.jpg/1200x1200bb.jpg",
+      "collection": "You Were On My Mind",
+      "collection_id": 1443780050,
+      "track_id": 1443780062,
+      "artist_name": "We Five",
+      "release_date": "1966-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.708,
+        "saturation": 0.283,
+        "dark_share": 0.093,
+        "palette": [
+          {
+            "hex": "#b2a680",
+            "share": 0.289
+          },
+          {
+            "hex": "#d9e3dd",
+            "share": 0.218
+          },
+          {
+            "hex": "#5a3b18",
+            "share": 0.204
+          },
+          {
+            "hex": "#d1d7d3",
+            "share": 0.182
+          },
+          {
+            "hex": "#e2ece3",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

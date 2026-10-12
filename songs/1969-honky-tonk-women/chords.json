@@ -1,0 +1,894 @@
+{
+  "id": "1969-honky-tonk-women",
+  "updated": "2026-10-12",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "229",
+      "also_ids": [
+        "1266"
+      ],
+      "match": {
+        "title": "Honky Tonk Women",
+        "artist": "The Rolling Stones",
+        "chart_date": "1969-07-19",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 229 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 182.282,
+      "version_check": "duration within 12 s (-1.7 s) of our recording (MusicBrainz recording length)",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated tonic (McGill gives tonic only, not mode)",
+        "confidence": "expert"
+      },
+      "key_changes": [],
+      "sections": [
+        {
+          "label": "intro",
+          "letter": "A",
+          "normalised": "intro",
+          "start": 0.424,
+          "end": 17.69,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "N",
+            "G"
+          ],
+          "roman": [
+            "N",
+            "I"
+          ],
+          "raw": [
+            "N",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 17.69,
+          "end": 50.669,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "Csus4",
+            "C",
+            "G",
+            "A",
+            "D",
+            "Dsus4",
+            "D",
+            "G",
+            "C",
+            "Csus4",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "IVsus4",
+            "IV",
+            "I",
+            "II",
+            "V",
+            "Vsus4",
+            "V",
+            "I",
+            "IV",
+            "IVsus4",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "G:maj",
+            "C:maj",
+            "C:sus4",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "D:maj",
+            "D:sus4",
+            "D:maj",
+            "G:maj",
+            "C:maj",
+            "C:sus4",
+            "C:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 50.669,
+          "end": 66.62,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "start": 66.62,
+          "end": 98.49,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "Csus4",
+            "C",
+            "G",
+            "A",
+            "D",
+            "Dsus4",
+            "D",
+            "G",
+            "C",
+            "Csus4",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "IVsus4",
+            "IV",
+            "I",
+            "II",
+            "V",
+            "Vsus4",
+            "V",
+            "I",
+            "IV",
+            "IVsus4",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "G:maj",
+            "C:maj",
+            "C:sus4",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "D:maj",
+            "D:sus4",
+            "D:maj",
+            "G:maj",
+            "C:maj",
+            "C:sus4",
+            "C:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 98.49,
+          "end": 114.189,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "solo",
+          "letter": "B",
+          "normalised": "solo",
+          "start": 114.189,
+          "end": 145.256,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "Csus4",
+            "C",
+            "G",
+            "A",
+            "D",
+            "Dsus4",
+            "D",
+            "G",
+            "C",
+            "Csus4",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "IVsus4",
+            "IV",
+            "I",
+            "II",
+            "V",
+            "Vsus4",
+            "V",
+            "I",
+            "IV",
+            "IVsus4",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "G:maj",
+            "C:maj",
+            "C:sus4",
+            "C:maj",
+            "G:maj",
+            "A:maj",
+            "D:maj",
+            "D:sus4",
+            "D:maj",
+            "G:maj",
+            "C:maj",
+            "C:sus4",
+            "C:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 145.256,
+          "end": 160.718,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj"
+          ]
+        },
+        {
+          "label": "chorus",
+          "letter": "C",
+          "normalised": "chorus",
+          "start": 160.718,
+          "end": 179.119,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G",
+            "G/B",
+            "G",
+            "G",
+            "G/D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I",
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+          ],
+          "raw": [
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "D:maj",
+            "G:maj",
+            "G:maj/3",
+            "G:maj/11",
+            "G:maj/#11",
+            "G:maj/5",
+            "G:maj"
+          ]
+        }
+      ],
+      "chord_syntax": "Harte (root:quality); raw tokens kept under 'raw'"
+    },
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "honky_tonk_women_dt",
+      "match": {
+        "title": "Honky Tonk Women",
+        "artist": "The Rolling Stones",
+        "year": "1969",
+        "rs500_rank": "116",
+        "audio_used": {
+          "artist": "The Rolling Stones",
+          "album": "Through the Past, Darkly (Big Hits Vol. 2)",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, honky_tonk_women_dt.har/.clt + honky_tonk_women.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 176 s; our recording 184 s; audio taken from compilation 'Through the Past, Darkly (Big Hits Vol. 2)'",
+      "parse_check": "expanded 88 bars; timed chord list ends in bar 86",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.39,
+          "end": 17.573,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "R |*4 I |*4"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 17.573,
+          "end": 50.563,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "G",
+            "A",
+            "D",
+            "G",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V/V",
+            "V",
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | IV | | I | V/V | V | | I | | IV | | I | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 50.563,
+          "end": 66.508,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | | V | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 66.508,
+          "end": 98.365,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "G",
+            "A",
+            "D",
+            "G",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V/V",
+            "V",
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | IV | | I | V/V | V | | I | | IV | | I | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 98.365,
+          "end": 114.039,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | | V | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 114.039,
+          "end": 145.144,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "G",
+            "A",
+            "D",
+            "G",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V/V",
+            "V",
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | IV | | I | V/V | V | | I | | IV | | I | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 145.144,
+          "end": 160.601,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 160.601,
+          "end": 175.976,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | | V | I | |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "honky_tonk_women_tdc",
+      "match": {
+        "title": "Honky Tonk Women",
+        "artist": "The Rolling Stones",
+        "year": "1969",
+        "rs500_rank": "116",
+        "audio_used": {
+          "artist": "The Rolling Stones",
+          "album": "Through the Past, Darkly (Big Hits Vol. 2)",
+          "publication": ""
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, honky_tonk_women_tdc.har/.clt + honky_tonk_women.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "last barline at 176 s; our recording 184 s; audio taken from compilation 'Through the Past, Darkly (Big Hits Vol. 2)'",
+      "parse_check": "expanded 88 bars; timed chord list ends in bar 86",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": null,
+        "name": "G",
+        "basis": "annotated key symbol (RS marks tonic only; numerals show mode)",
+        "confidence": "expert"
+      },
+      "sections": [
+        {
+          "label": "In",
+          "normalised": "intro",
+          "start": 0.39,
+          "end": 17.573,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G"
+          ],
+          "roman": [
+            "I"
+          ],
+          "raw_rule": "R |*4 I |*4"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 17.573,
+          "end": 50.563,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "G",
+            "A",
+            "D",
+            "G",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V/V",
+            "V",
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | IV | | I | V/V | V | | I | | IV | | I | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 50.563,
+          "end": 66.508,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | I | V | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 66.508,
+          "end": 98.365,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "G",
+            "A",
+            "D",
+            "G",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V/V",
+            "V",
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | IV | | I | V/V | V | | I | | IV | | I | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 98.365,
+          "end": 114.039,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | I | V | I | |"
+        },
+        {
+          "label": "Vr",
+          "normalised": "verse",
+          "start": 114.039,
+          "end": 145.144,
+          "bars": 16,
+          "key": "G",
+          "written": [
+            "G",
+            "C",
+            "G",
+            "A",
+            "D",
+            "G",
+            "C",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "IV",
+            "I",
+            "V/V",
+            "V",
+            "I",
+            "IV",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | | IV | | I | V/V | V | | I | | IV | | I | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 145.144,
+          "end": 160.601,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | I | V | I | |"
+        },
+        {
+          "label": "Ch",
+          "normalised": "chorus",
+          "start": 160.601,
+          "end": 175.976,
+          "bars": 8,
+          "key": "G",
+          "written": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+          ],
+          "roman": [
+            "I",
+            "V",
+            "I",
+            "V",
+            "I"
+          ],
+          "raw_rule": "I | V | I | | I | V | I | |"
+        }
+      ],
+      "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "mcgill_billboard": "G",
+      "rolling_stone_dt": "G",
+      "rolling_stone_tdc": "G"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "mcgill_billboard",
+        "other": "rolling_stone_dt",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 0.75
+      },
+      {
+        "reference": "mcgill_billboard",
+        "other": "rolling_stone_tdc",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 0.75
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

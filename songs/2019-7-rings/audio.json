@@ -1,0 +1,77 @@
+{
+  "id": "2019-7-rings",
+  "preview": {
+    "service": "deezer",
+    "track_id": 629899842,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM71900110",
+    "title": "7 rings",
+    "artist": "Ariana Grande",
+    "album": "thank u, next",
+    "track_duration_s": 178,
+    "link": "https://www.deezer.com/track/629899842",
+    "duration_matched_to": "wikipedia infobox length (178s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 69.6,
+    "tempo_bpm_grid": 69.8,
+    "tempo_candidates_bpm": [
+      69.8,
+      143.6,
+      136.0
+    ],
+    "beats_detected": 33,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.589,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.567,
+    "chroma_profile": [
+      0.581,
+      0.942,
+      0.565,
+      0.547,
+      0.57,
+      0.529,
+      0.929,
+      0.81,
+      1.0,
+      0.771,
+      0.513,
+      0.461
+    ],
+    "rms_dbfs": -8.94,
+    "rms_dbfs_p95_frame": -3.71,
+    "peak_dbfs": 2.29,
+    "loudness_lufs_approx": -11.12,
+    "spectral_centroid_hz_mean": 2415.6,
+    "spectral_centroid_hz_median": 2336.6,
+    "onsets": 112,
+    "onset_density_per_s": 3.735,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 629899842",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 140.15,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/629899842",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (140.2): octave error likely",
+    "key is close between C# major and F# minor"
+  ],
+  "rejected_candidates": [
+    "deezer 841310222: version (7 rings (live))",
+    "deezer 626284232: version (7 rings (Remix))"
+  ]
+}

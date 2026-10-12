@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c00c62e8-d857-4a19-9b54-6033926b05fa",
+      "release_title": "Hey Paula / Bobby Is the One",
+      "release_date": "1962",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/df2f18fd-e74b-4398-913a-4bfb9426db96/30647156856-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/df2f18fd-e74b-4398-913a-4bfb9426db96",
+      "image_id": 30647156856,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.754,
+        "saturation": 0.586,
+        "dark_share": 0.003,
+        "palette": [
+          {
+            "hex": "#e56a41",
+            "share": 0.435
+          },
+          {
+            "hex": "#5f392a",
+            "share": 0.24
+          },
+          {
+            "hex": "#d05d39",
+            "share": 0.136
+          },
+          {
+            "hex": "#e8dbca",
+            "share": 0.129
+          },
+          {
+            "hex": "#e0724b",
+            "share": 0.06
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/87/0f/e8/870fe8b2-34aa-49b9-c2ee-c2cad1b9231d/Paul_Paula_-_Hey_Paula.jpg/1200x1200bb.jpg",
+      "collection": "Hey Paula (Remastered) - Single",
+      "collection_id": 704844856,
+      "track_id": 704845008,
+      "artist_name": "Paul & Paula",
+      "release_date": "1963-11-28T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.405,
+        "saturation": 0.062,
+        "dark_share": 0.493,
+        "palette": [
+          {
+            "hex": "#f3f3f3",
+            "share": 0.313
+          },
+          {
+            "hex": "#060606",
+            "share": 0.238
+          },
+          {
+            "hex": "#010101",
+            "share": 0.169
+          },
+          {
+            "hex": "#789181",
+            "share": 0.145
+          },
+          {
+            "hex": "#111211",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

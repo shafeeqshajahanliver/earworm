@@ -1,0 +1,283 @@
+{
+  "id": "1965-youve-lost-that-lovin-feelin",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "rolling_stone_dt",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "David Temperley",
+      "source_id": "youve_lost_that_lovin_feelin_dt",
+      "match": {
+        "title": "You've Lost That Lovin' Feelin'",
+        "artist": "The Righteous Brothers",
+        "year": "1964",
+        "rs500_rank": "34",
+        "audio_used": {
+          "artist": "The Righteous Brothers",
+          "album": "Anthology: 1962 - 1974",
+          "publication": "Rhino 1989"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, youve_lost_that_lovin_feelin_dt.har/.clt + youve_lost_that_lovin_feelin.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 89 bars; timed chord list ends in bar 88",
+      "sections": [
+        {
+          "start": null,
+          "end": null,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 1
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 1,
+          "bars": 12
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 13,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 21,
+          "bars": 2
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 23,
+          "bars": 12
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 35,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 43,
+          "bars": 26
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 69,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 77,
+          "bars": 2
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "BrP",
+          "normalised": "bridge",
+          "first_bar": 79,
+          "bars": 2
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Fadeout",
+          "normalised": "outro",
+          "first_bar": 81,
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "rolling_stone_tdc",
+      "dataset": "Rolling Stone corpus (RS 200)",
+      "analyst": "Trevor de Clercq",
+      "source_id": "youve_lost_that_lovin_feelin_tdc",
+      "match": {
+        "title": "You've Lost That Lovin' Feelin'",
+        "artist": "The Righteous Brothers",
+        "year": "1964",
+        "rs500_rank": "34",
+        "audio_used": {
+          "artist": "The Righteous Brothers",
+          "album": "Anthology: 1962 - 1974",
+          "publication": "Rhino 1989"
+        }
+      },
+      "source": "de Clercq & Temperley rock corpus v2.1, youve_lost_that_lovin_feelin_tdc.har/.clt + youve_lost_that_lovin_feelin.tim",
+      "url": "https://rockcorpus.midside.com/harmonic_analyses.html",
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "version_check": "duration not comparable (missing length)",
+      "parse_check": "expanded 89 bars; timed chord list ends in bar 87",
+      "sections": [
+        {
+          "start": null,
+          "end": null,
+          "label": "(unnamed bars in S)",
+          "normalised": "other",
+          "first_bar": 0,
+          "bars": 1
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 1,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Pc",
+          "normalised": "prechorus",
+          "first_bar": 9,
+          "bars": 4
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 13,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ln",
+          "normalised": "other",
+          "first_bar": 21,
+          "bars": 2
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Vr",
+          "normalised": "verse",
+          "first_bar": 23,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Pc",
+          "normalised": "prechorus",
+          "first_bar": 31,
+          "bars": 4
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 35,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Br",
+          "normalised": "bridge",
+          "first_bar": 43,
+          "bars": 26
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 69,
+          "bars": 8
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "ChX",
+          "normalised": "chorus",
+          "first_bar": 77,
+          "bars": 2
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "B",
+          "normalised": "other",
+          "first_bar": 79,
+          "bars": 2
+        },
+        {
+          "start": null,
+          "end": null,
+          "label": "Ch",
+          "normalised": "chorus",
+          "first_bar": 81,
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section the analyst named Br (bridge)",
+      "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "rolling_stone_dt": "verse chorus verse chorus bridge chorus bridge outro",
+      "rolling_stone_tdc": "verse prechorus chorus verse prechorus chorus bridge chorus"
+    },
+    "section_order": [
+      {
+        "a": "rolling_stone_dt",
+        "b": "rolling_stone_tdc",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.5
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "rolling_stone_dt": "yes",
+      "rolling_stone_tdc": "yes"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "yes",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-12",
+    "confidence": "computed"
+  }
+}

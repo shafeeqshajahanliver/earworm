@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36872186,
+  "kind": "synced",
+  "matched": {
+    "track": "Stronger (What Doesn't Kill You)",
+    "artist": "Kelly Clarkson",
+    "album": "Stronger (Deluxe)",
+    "duration_s": 222.0
+  },
+  "duration_matched_to": "itunes preview track matched by search (222s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 235.56,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 221.9,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 222.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (222s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 25314697 (Stronger (What Doesn't Kill You) (7th Heaven Radio Mix) / Kelly Clarkson / Club Sounds Vol.60 Disc 2, 236.8s): live/remix/other version",
+    "lrclib 28772283 (Stronger (What Doesn't Kill You) (7th Heaven Radio Mix) / Kelly Clarkson / Club Sounds Vol. 60, 237.0s): live/remix/other version",
+    "lrclib 27135406 (Stronger (What Doesn't Kill You) (7th Heaven radio mix) / Kelly Clarkson / Club Sounds: The Ultimate Club Dance Collection, Vol. 60, 236.8s): live/remix/other version",
+    "lrclib 11473697 (Stronger (What Doesn't Kill You) [7th Heaven Radio Mix] / Kelly Clarkson / Now That's What I Call Club Hits, 200.0s): duration matches no reference length",
+    "lrclib 31097225 (Stronger (What Doesn’t Kill You) (7th Heaven Radio Mix) / Kelly Clarkson / Club Sounds The Ultimate Club Dance Collection Vol. 60 (CD2), 237.0s): live/remix/other version",
+    "lrclib 33490508 (Stronger (What Doesn't Kill You) / Kelly Clarkson / Greatest Hits - Chapter One (AU Deluxe Version), 222.0s): live/remix/other version",
+    "lrclib 34024974 (Stronger (What Doesn't Kill You) / Kelly Clarkson / Stronger (Deluxe Version), 211.0s): live/remix/other version",
+    "lrclib 35761654 (Stronger (What Doesn't Kill You) / Kelly Clarkson / Stronger (Deluxe Version), 31.0s): live/remix/other version",
+    "lrclib 29654342 (Stronger / Kelly Clarkson / Stronger, 180.0s): duration matches no reference length",
+    "lrclib 32193399 (Stronger / Kelly Clarkson / Stronger, 213.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

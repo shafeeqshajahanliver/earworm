@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "dc094c4f-1ae3-4e3f-bf02-3adb0b4d5de9",
+      "release_title": "Michael / Santiano",
+      "release_date": "1960-09",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "59ac923e-3c51-4a1c-9df3-dc4ce04331a4",
+      "release_title": "The Highwaymen",
+      "release_date": "1960",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Highwaymen",
+      "url": "http://coverartarchive.org/release/554980c9-760d-44cb-aa2e-47d47faf29f6/30587481832-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/554980c9-760d-44cb-aa2e-47d47faf29f6",
+      "image_id": 30587481832,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.602,
+        "saturation": 0.457,
+        "dark_share": 0.189,
+        "palette": [
+          {
+            "hex": "#caa26d",
+            "share": 0.26
+          },
+          {
+            "hex": "#241e18",
+            "share": 0.252
+          },
+          {
+            "hex": "#6ea7bb",
+            "share": 0.213
+          },
+          {
+            "hex": "#80775e",
+            "share": 0.149
+          },
+          {
+            "hex": "#dcc197",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/9a/3c/c8/mzi.asrhvtsp.jpg/1200x1200bb.jpg",
+      "collection": "Michael - Single",
+      "collection_id": 489489499,
+      "track_id": 489489504,
+      "artist_name": "The Highwaymen",
+      "release_date": "1961-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        800,
+        800
+      ],
+      "measures": {
+        "brightness": 0.603,
+        "saturation": 0.156,
+        "dark_share": 0.165,
+        "palette": [
+          {
+            "hex": "#272929",
+            "share": 0.286
+          },
+          {
+            "hex": "#e3e3e8",
+            "share": 0.214
+          },
+          {
+            "hex": "#87d1d0",
+            "share": 0.195
+          },
+          {
+            "hex": "#667072",
+            "share": 0.185
+          },
+          {
+            "hex": "#f3f4f6",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5809b960-4a95-47b8-bf7e-56865062bc06",
+      "release_title": "Crimson and Clover",
+      "release_date": "1968-12",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/7ace5b51-c6d1-4a1f-bbe3-609f1bc89216/35082715498-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/7ace5b51-c6d1-4a1f-bbe3-609f1bc89216",
+      "image_id": 35082715498,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.58,
+        "saturation": 0.416,
+        "dark_share": 0.279,
+        "palette": [
+          {
+            "hex": "#db8147",
+            "share": 0.31
+          },
+          {
+            "hex": "#030303",
+            "share": 0.281
+          },
+          {
+            "hex": "#e3bd5d",
+            "share": 0.153
+          },
+          {
+            "hex": "#d1b172",
+            "share": 0.146
+          },
+          {
+            "hex": "#885338",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a4de9d7e-c420-3a7e-924a-af78f094fb9b",
+      "release_title": "Crimson and Clover",
+      "release_date": "2005",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Crimson & Clover",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/b5/5a/b8b55a4f-f4e6-61fd-5981-a4a7f1117d46/s06.hqqscnyv.jpg/1200x1200bb.jpg",
+      "collection": "Crimson & Clover",
+      "collection_id": 59412520,
+      "track_id": 59412471,
+      "artist_name": "Tommy James & The Shondells",
+      "release_date": "1968-12-10T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.628,
+        "saturation": 0.546,
+        "dark_share": 0.113,
+        "palette": [
+          {
+            "hex": "#35202a",
+            "share": 0.328
+          },
+          {
+            "hex": "#ca4646",
+            "share": 0.305
+          },
+          {
+            "hex": "#a42d3e",
+            "share": 0.147
+          },
+          {
+            "hex": "#ecc78a",
+            "share": 0.112
+          },
+          {
+            "hex": "#c66b58",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

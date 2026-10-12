@@ -1,0 +1,41 @@
+{
+  "id": "2016-work",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1048422,
+  "lines": 95,
+  "words": 579,
+  "unique_words": 179,
+  "type_token_ratio": 0.309,
+  "repeated_line_share": 0.358,
+  "distinct_lines": 61,
+  "zlib_compression_ratio": 0.32,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "work",
+  "title_phrase_occurrences": 79,
+  "pronouns": {
+    "first_singular": 52,
+    "second": 33,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.49,
+  "last_line_s": 208.62,
+  "sung_time_s": 199.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 174.5,
+  "words_per_minute_track": 158.6,
+  "longest_gap_between_lines_s": 5.59,
+  "longest_gap_starts_at_s": 131.08,
+  "first_repeated_block": {
+    "first_at_s": 11.49,
+    "recurs_at_s": 68.57,
+    "lines": [
+      "Work, work, work, work, work, work",
+      "He said me haffi"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1048422",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

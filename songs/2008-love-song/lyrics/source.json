@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 6853291,
+  "kind": "synced",
+  "matched": {
+    "track": "Love Song",
+    "artist": "Sara Bareilles",
+    "album": "Love Song",
+    "duration_s": 233.0
+  },
+  "duration_matched_to": "musicbrainz recording length (234s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 233.92,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 233.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 233.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36930616 (Love Song / Sara Bareilles / Live from The Mountain Music Lounge, Volume 14, 252.0s): live/remix/other version",
+    "lrclib 37461864 (Love Song / Sara Bareilles / Ultimate Rock Ballads - Love Hurts, 324.0s): duration matches no reference length",
+    "lrclib 37535283 (Love Song / Sara Bareilles / Love Song - Single, 316.0s): duration matches no reference length",
+    "lrclib 37088033 (Love Song / Sara Bareilles / Rock You Like a Hurricane, 325.0s): duration matches no reference length",
+    "lrclib 37234499 (Love Song / Sara Bareilles / Now That's What I Call Music! 27, 103.0s): duration matches no reference length",
+    "lrclib 34385891 (Love Song / Sara Bareilles / Little Voice, Nones): duration matches no reference length",
+    "lrclib 23051606 (Love Song / Sara Bareilles / Between the Lines: Sara Bareilles Live at the Fillmore, 259.0s): live/remix/other version",
+    "lrclib 9481684 (Love Song / Sara Bareilles / Between The Lines: Sara Bareilles Live At The Fillmore, 273.0s): live/remix/other version",
+    "lrclib 25748577 (Love Song (Live) / Sara Bareilles / Between the Lines: Sara Bareilles Live at The Fillmore, 274.018688s): live/remix/other version",
+    "lrclib 35856609 (Love Song / Sara Bareilles / Between the Line: Sara Bareilles Live at Fillmore [DVD] Disc 2, 233.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

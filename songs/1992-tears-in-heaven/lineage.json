@@ -1,0 +1,61 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/13127",
+    "title": "Tears in Heaven",
+    "performer": "Eric Clapton",
+    "is_original": true,
+    "first_release_date": "1992-01",
+    "releases": [
+      {
+        "title": "Rush",
+        "uri": "https://api.secondhandsongs.com/release/5531",
+        "performer": "Eric Clapton"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 242,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/13127",
+    "title": "Tears in Heaven",
+    "language": "English",
+    "writers": [
+      "Eric Clapton",
+      "Will Jennings"
+    ],
+    "original_performer": "Eric Clapton",
+    "versions": 243,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kuusessa hevon",
+        "uri": "https://api.secondhandsongs.com/work/191864"
+      },
+      {
+        "title": "Já se vrátím",
+        "uri": "https://api.secondhandsongs.com/work/276720"
+      },
+      {
+        "title": "Když andělé pláčou",
+        "uri": "https://api.secondhandsongs.com/work/292093"
+      },
+      {
+        "title": "愛過的夢",
+        "uri": "https://api.secondhandsongs.com/work/305595"
+      },
+      {
+        "title": "Slzy v nebi",
+        "uri": "https://api.secondhandsongs.com/work/316461"
+      },
+      {
+        "title": "Tears in Heaven",
+        "uri": "https://api.secondhandsongs.com/work/316542"
+      }
+    ]
+  }
+}

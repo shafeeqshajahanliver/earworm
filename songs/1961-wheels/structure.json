@@ -1,0 +1,90 @@
+{
+  "id": "1961-wheels",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "147",
+      "also_ids": [
+        "318",
+        "863"
+      ],
+      "match": {
+        "title": "Wheels",
+        "artist": "The String-A-Longs",
+        "chart_date": "1961-02-06",
+        "peak_rank": "3"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 147 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 124.082,
+      "version_check": "duration within 12 s (+6.2 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 2.995,
+          "end": 18.53,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 18.53,
+          "end": 33.995,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 33.995,
+          "end": 49.571,
+          "label": "bridge",
+          "letter": "B",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 49.571,
+          "end": 64.7,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 64.7,
+          "end": 79.714,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 79.714,
+          "end": 94.866,
+          "label": "bridge",
+          "letter": "B",
+          "normalised": "bridge",
+          "bars": 8
+        },
+        {
+          "start": 94.866,
+          "end": 117.656,
+          "label": "chorus",
+          "letter": "A'",
+          "normalised": "chorus",
+          "bars": 12
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

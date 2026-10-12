@@ -1,0 +1,75 @@
+{
+  "id": "2008-no-air",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10101576,
+    "matched_by": "isrc",
+    "isrc": "GBCTA0700277",
+    "title": "No Air (feat. Chris Brown)",
+    "artist": "Jordin Sparks",
+    "album": "10th Anniversary - The Hits - Volume 1",
+    "track_duration_s": 264,
+    "link": "https://www.deezer.com/track/10101576",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 80.0,
+    "tempo_bpm_grid": 80.1,
+    "tempo_candidates_bpm": [
+      161.5,
+      80.7,
+      152.0
+    ],
+    "beats_detected": 41,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.564,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.563,
+    "chroma_profile": [
+      0.866,
+      1.0,
+      0.78,
+      0.742,
+      0.776,
+      0.667,
+      0.905,
+      0.722,
+      0.95,
+      0.573,
+      0.622,
+      0.811
+    ],
+    "rms_dbfs": -9.33,
+    "rms_dbfs_p95_frame": -5.48,
+    "peak_dbfs": 1.89,
+    "loudness_lufs_approx": -8.98,
+    "spectral_centroid_hz_mean": 3366.3,
+    "spectral_centroid_hz_median": 3360.4,
+    "onsets": 70,
+    "onset_density_per_s": 2.334,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10101576",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.2,
+    "gain": -8.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10101576",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (160.2): octave error likely",
+    "key is close between C# major and C# minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBCTA0700271: title/artist mismatch: No Air duet with Chris Brown / Jordin Sparks"
+  ]
+}

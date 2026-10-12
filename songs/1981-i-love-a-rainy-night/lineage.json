@@ -1,0 +1,63 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/290035",
+    "title": "I Love a Rainy Night",
+    "performer": "Eddie Rabbitt",
+    "is_original": true,
+    "first_release_date": "1980-06-20",
+    "releases": [
+      {
+        "title": "Horizon",
+        "uri": "https://api.secondhandsongs.com/release/99863",
+        "performer": "Eddie Rabbitt"
+      },
+      {
+        "title": "I Love a Rainy Night",
+        "uri": "https://api.secondhandsongs.com/release/356796",
+        "performer": "Eddie Rabbitt"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 20,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/134836",
+    "title": "I Love a Rainy Night",
+    "language": "English",
+    "writers": [
+      "David Malloy",
+      "Eddie Rabbitt",
+      "Even Stevens"
+    ],
+    "original_performer": "Eddie Rabbitt",
+    "versions": 21,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Ditt horn är min passion",
+        "uri": "https://api.secondhandsongs.com/work/190605"
+      },
+      {
+        "title": "Lad det vælte ned med regn",
+        "uri": "https://api.secondhandsongs.com/work/153692"
+      },
+      {
+        "title": "Ja' kan li en regnig kväll",
+        "uri": "https://api.secondhandsongs.com/work/205303"
+      },
+      {
+        "title": "Drømmer lidt om dig",
+        "uri": "https://api.secondhandsongs.com/work/271856"
+      },
+      {
+        "title": "Mulle meeldib öine vihm",
+        "uri": "https://api.secondhandsongs.com/work/288881"
+      }
+    ]
+  }
+}

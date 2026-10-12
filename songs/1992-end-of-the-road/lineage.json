@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/12150",
+    "title": "End of the Road",
+    "performer": "Boyz II Men",
+    "is_original": true,
+    "first_release_date": "1992",
+    "releases": [
+      {
+        "title": "Boomerang - Original Soundtrack Album",
+        "uri": "https://api.secondhandsongs.com/release/5160"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 42,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/12150",
+    "title": "End of the Road",
+    "language": "English",
+    "writers": [
+      "Babyface",
+      "L.A. Reid",
+      "Daryl Simmons"
+    ],
+    "original_performer": "Boyz II Men",
+    "versions": 43,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Al final del camino",
+        "uri": "https://api.secondhandsongs.com/work/239703"
+      },
+      {
+        "title": "Hosszú az út",
+        "uri": "https://api.secondhandsongs.com/work/295532"
+      }
+    ]
+  }
+}

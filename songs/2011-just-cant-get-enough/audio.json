@@ -1,0 +1,70 @@
+{
+  "id": "2011-just-cant-get-enough",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7705895,
+    "matched_by": "isrc",
+    "isrc": "USUM71026671",
+    "title": "Just Can’t Get Enough",
+    "artist": "The Black Eyed Peas",
+    "album": "The Beginning",
+    "track_duration_s": 219,
+    "link": "https://www.deezer.com/track/7705895",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 94.8,
+    "tempo_bpm_grid": 94.0,
+    "tempo_candidates_bpm": [
+      184.6,
+      92.3,
+      198.8
+    ],
+    "beats_detected": 37,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.822,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.782,
+    "chroma_profile": [
+      0.938,
+      0.604,
+      0.749,
+      0.906,
+      0.654,
+      0.803,
+      0.635,
+      1.0,
+      0.902,
+      0.718,
+      0.943,
+      0.706
+    ],
+    "rms_dbfs": -10.3,
+    "rms_dbfs_p95_frame": -4.94,
+    "peak_dbfs": 0.82,
+    "loudness_lufs_approx": -11.14,
+    "spectral_centroid_hz_mean": 2509.9,
+    "spectral_centroid_hz_median": 2375.3,
+    "onsets": 94,
+    "onset_density_per_s": 3.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7705895",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 94,
+    "gain": -12.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7705895",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

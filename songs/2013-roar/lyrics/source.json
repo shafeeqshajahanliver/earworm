@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 700307,
+  "kind": "synced",
+  "matched": {
+    "track": "Roar",
+    "artist": "Katy Perry",
+    "album": "PRISM",
+    "duration_s": 224.0
+  },
+  "duration_matched_to": "musicbrainz recording length (223s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 223.067,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 223.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 223.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36846200 (Roar / Katy Perry / Katy Perry, 242.0s): duration matches no reference length",
+    "lrclib 37119720 (Roar / Katy Perry / Family Friendly Party Anthems, 200.0s): duration matches no reference length",
+    "lrclib 37425406 (Roar / Katy Perry / Road Trippin, 233.0s): duration matches no reference length",
+    "lrclib 36853596 (Roar / Katy Perry / PRISM, 949.0s): duration matches no reference length",
+    "lrclib 34374674 (Roar / Katy Perry / Top 50 Pop Music Videos United States, 270.0s): duration matches no reference length",
+    "lrclib 34450225 (Roar / Katy Perry / Happy Pop, 270.0s): duration matches no reference length",
+    "lrclib 11225150 (Roar / Katy Perry / Katy Perry, 249.0s): duration matches no reference length",
+    "lrclib 9672092 (Roar / Katy Perry / Katy Perry, 269.0s): duration matches no reference length",
+    "lrclib 7356993 (Roar / Katy Perry / Katy Perry Videos, 269.0s): duration matches no reference length",
+    "lrclib 7951758 (Roar / Katy Perry / Katy Perry Songs, 269.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

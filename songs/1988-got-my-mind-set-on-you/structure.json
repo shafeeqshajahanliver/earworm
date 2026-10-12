@@ -1,0 +1,143 @@
+{
+  "id": "1988-got-my-mind-set-on-you",
+  "updated": "2026-10-12",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "mcgill_billboard",
+      "dataset": "McGill Billboard 2.0",
+      "source_id": "845",
+      "also_ids": [],
+      "match": {
+        "title": "Got My Mind Set On You",
+        "artist": "George Harrison",
+        "chart_date": "1988-01-23",
+        "peak_rank": "1"
+      },
+      "source": "McGill Billboard Project 2.0, salami_chords.txt id 845 (Burgoyne, Wild & Fujinaga 2011)",
+      "url": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)",
+      "retrieved": "2026-10-12",
+      "confidence": "expert",
+      "annotated_duration": 234.684,
+      "version_check": "duration within 12 s (+3.7 s) of our recording (MusicBrainz recording length)",
+      "sections": [
+        {
+          "start": 6.888,
+          "end": 19.714,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 19.714,
+          "end": 50.305,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 19
+        },
+        {
+          "start": 50.305,
+          "end": 63.143,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 63.143,
+          "end": 77.603,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 77.603,
+          "end": 90.516,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 90.516,
+          "end": 121.089,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 19
+        },
+        {
+          "start": 121.089,
+          "end": 133.924,
+          "label": "instrumental",
+          "letter": "A",
+          "normalised": "instrumental",
+          "bars": 8
+        },
+        {
+          "start": 133.924,
+          "end": 146.848,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 146.848,
+          "end": 161.312,
+          "label": "bridge",
+          "letter": "C",
+          "normalised": "bridge",
+          "bars": 9
+        },
+        {
+          "start": 161.312,
+          "end": 191.882,
+          "label": "verse",
+          "letter": "B",
+          "normalised": "verse",
+          "bars": 19
+        },
+        {
+          "start": 191.882,
+          "end": 198.331,
+          "label": "chorus",
+          "letter": "A",
+          "normalised": "chorus",
+          "bars": 4
+        },
+        {
+          "start": 198.331,
+          "end": 204.768,
+          "label": "instrumental",
+          "letter": "A",
+          "normalised": "instrumental",
+          "bars": 4
+        },
+        {
+          "start": 204.768,
+          "end": 217.662,
+          "label": "outro",
+          "letter": "A",
+          "normalised": "outro",
+          "bars": 8
+        },
+        {
+          "start": 217.662,
+          "end": 229.747,
+          "label": "fadeout",
+          "letter": null,
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a section labelled 'bridge' by the annotator"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 90621,
+  "kind": "synced",
+  "matched": {
+    "track": "Super Bass",
+    "artist": "Nicki Minaj",
+    "album": "Pink Friday",
+    "duration_s": 200.0
+  },
+  "duration_matched_to": "musicbrainz recording length (200s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 200.013,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 201.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 200.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34643461 (Super Bass / Nicki Minaj / Pink Friday: Roman Reloaded, 219.0s): duration matches no reference length",
+    "lrclib 33384971 (Super Bass / Nicki Minaj / The Pinkprint: Live from Brooklyn, 200.0s): live/remix/other version",
+    "lrclib 36037744 (Super Bass / Nicki Minaj / The Best of Summer 2011, 218.0s): duration matches no reference length",
+    "lrclib 36784557 (Super Bass / Nicki Minaj / NOW That's What I Call Music! 25th Anniversary, Volume 2, 226.0s): duration matches no reference length",
+    "lrclib 34221654 (Super Bass / Nicki Minaj / Pink Friday (Complete Edition), 3.0s): duration matches no reference length",
+    "lrclib 35599886 (Super Bass / Nicki Minaj / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 35546784 (Super Bass / Nicki Minaj / Pink Friday, 40.0s): duration matches no reference length",
+    "lrclib 9671967 (Super Bass / Nicki Minaj / Nicki Minaj, 218.0s): duration matches no reference length",
+    "lrclib 8307551 (Super Bass / Nicki Minaj / Nicki Minaj Videos, 218.0s): duration matches no reference length",
+    "lrclib 10228635 (Super Bass / Nicki Minaj / Nicki Minaj Songs, 219.0s): duration matches no reference length",
+    "lrclib 5161255 (Super Bass / Nicki Minaj / Super Bass, 218.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,58 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "eecc0636-9539-424e-ac7e-c8e99686f69c",
+      "release_title": "Dream Lover",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "Cover Art Archive error: <urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6c/30/1f/6c301fdc-f3a4-0907-29d4-255abd68398b/842474173534.jpg/1200x1200bb.jpg",
+      "collection": "Dream Lover",
+      "collection_id": 1380623259,
+      "track_id": 1380623449,
+      "artist_name": "Bobby Darin",
+      "release_date": "1959-04-20T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.689,
+        "saturation": 0.281,
+        "dark_share": 0.164,
+        "palette": [
+          {
+            "hex": "#f4f4f4",
+            "share": 0.38
+          },
+          {
+            "hex": "#252012",
+            "share": 0.257
+          },
+          {
+            "hex": "#bb9f33",
+            "share": 0.229
+          },
+          {
+            "hex": "#e2ddca",
+            "share": 0.101
+          },
+          {
+            "hex": "#fafafa",
+            "share": 0.033
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

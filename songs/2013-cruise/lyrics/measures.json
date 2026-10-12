@@ -1,0 +1,41 @@
+{
+  "id": "2013-cruise",
+  "lyrics_kind": "synced",
+  "lrclib_id": 19540781,
+  "lines": 52,
+  "words": 409,
+  "unique_words": 134,
+  "type_token_ratio": 0.328,
+  "repeated_line_share": 0.442,
+  "distinct_lines": 29,
+  "zlib_compression_ratio": 0.299,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "cruise",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 29,
+    "second": 25,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.57,
+  "last_line_s": 197.02,
+  "sung_time_s": 170.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 143.9,
+  "words_per_minute_track": 116.5,
+  "longest_gap_between_lines_s": 17.75,
+  "longest_gap_starts_at_s": 99.82,
+  "first_repeated_block": {
+    "first_at_s": 0.57,
+    "recurs_at_s": 33.21,
+    "lines": [
+      "Baby you're a song",
+      "You make me wanna roll my windows down and cruise"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 19540781",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

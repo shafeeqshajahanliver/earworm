@@ -1,0 +1,41 @@
+{
+  "id": "2018-havana",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37072762,
+  "lines": 68,
+  "words": 536,
+  "unique_words": 122,
+  "type_token_ratio": 0.228,
+  "repeated_line_share": 0.206,
+  "distinct_lines": 54,
+  "zlib_compression_ratio": 0.296,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "havana",
+  "title_phrase_occurrences": 21,
+  "pronouns": {
+    "first_singular": 46,
+    "second": 3,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.7,
+  "last_line_s": 208.98,
+  "sung_time_s": 204.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 157.7,
+  "words_per_minute_track": 182.2,
+  "longest_gap_between_lines_s": 7.47,
+  "longest_gap_starts_at_s": 1.7,
+  "first_repeated_block": {
+    "first_at_s": 75.75,
+    "recurs_at_s": 130.66,
+    "lines": [
+      "Oh, but my heart is in Havana (ayy)",
+      "My heart is in Havana (ayy)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37072762",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}
