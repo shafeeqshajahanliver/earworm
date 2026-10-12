@@ -1,0 +1,41 @@
+{
+  "id": "1964-everybody-loves-somebody",
+  "lyrics_kind": "synced",
+  "lrclib_id": 134398,
+  "lines": 25,
+  "words": 150,
+  "unique_words": 63,
+  "type_token_ratio": 0.42,
+  "repeated_line_share": 0.36,
+  "distinct_lines": 16,
+  "zlib_compression_ratio": 0.328,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "everybody loves somebody",
+  "title_phrase_occurrences": 4,
+  "pronouns": {
+    "first_singular": 14,
+    "second": 9,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 6.46,
+  "last_line_s": 154.29,
+  "sung_time_s": 152.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 59.2,
+  "words_per_minute_track": 54.5,
+  "longest_gap_between_lines_s": 7.49,
+  "longest_gap_starts_at_s": 6.46,
+  "first_repeated_block": {
+    "first_at_s": 67.95,
+    "recurs_at_s": 116.42,
+    "lines": [
+      "Then every minute, every hour",
+      "Every boy would find what I found in your arms"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 134398",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

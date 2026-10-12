@@ -1,0 +1,79 @@
+{
+  "id": "1969-i-cant-get-next-to-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4243636,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMO16900541",
+    "title": "I Can't Get Next To You",
+    "artist": "The Temptations",
+    "album": "Psychedelic Soul",
+    "track_duration_s": 172,
+    "link": "https://www.deezer.com/track/4243636",
+    "duration_matched_to": "wikipedia infobox length (171s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 109.2,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      112.3
+    ],
+    "beats_detected": 49,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.515,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.501,
+    "chroma_profile": [
+      1.0,
+      0.731,
+      0.671,
+      0.862,
+      0.919,
+      0.78,
+      0.569,
+      0.641,
+      0.493,
+      0.497,
+      0.639,
+      0.645
+    ],
+    "rms_dbfs": -13.2,
+    "rms_dbfs_p95_frame": -9.72,
+    "peak_dbfs": -0.29,
+    "loudness_lufs_approx": -12.4,
+    "spectral_centroid_hz_mean": 2557.4,
+    "spectral_centroid_hz_median": 2562.7,
+    "onsets": 174,
+    "onset_density_per_s": 5.802,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4243636",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4243636",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C major and C minor"
+  ],
+  "rejected_candidates": [
+    "deezer 3697758882: version (I Can't Get Next To You)",
+    "deezer 1147527: version (I Can't Get Next To You (Live In Japan))",
+    "deezer 985719152: version (I Can't Get Next To You (Live On The Ed Sullivan Show, September 28, 1969))",
+    "deezer 2603244: version (I Can't Get Next To You (Randy Cantor Mix))",
+    "deezer 538637002: version (I Can't Get Next To You (Live))"
+  ]
+}

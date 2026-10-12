@@ -1,0 +1,75 @@
+{
+  "id": "1962-i-cant-stop-loving-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1693037137,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "DEZ922200415",
+    "title": "I Can't Stop Loving You",
+    "artist": "Ray Charles",
+    "album": "America's Top Hits",
+    "track_duration_s": 152,
+    "link": "https://www.deezer.com/track/1693037137",
+    "duration_matched_to": "wikipedia infobox length (157s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 30.01,
+    "tempo_bpm": 81.0,
+    "tempo_bpm_grid": 80.7,
+    "tempo_candidates_bpm": [
+      215.3,
+      80.7,
+      234.9
+    ],
+    "beats_detected": 40,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.906,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.538,
+    "chroma_profile": [
+      0.976,
+      0.61,
+      0.606,
+      0.478,
+      0.535,
+      1.0,
+      0.589,
+      0.499,
+      0.491,
+      0.715,
+      0.776,
+      0.522
+    ],
+    "rms_dbfs": -10.22,
+    "rms_dbfs_p95_frame": -8.24,
+    "peak_dbfs": 0.05,
+    "loudness_lufs_approx": -8.41,
+    "spectral_centroid_hz_mean": 1841.2,
+    "spectral_centroid_hz_median": 1798.2,
+    "onsets": 4,
+    "onset_density_per_s": 0.133,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1693037137",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1693037137",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 3878892041: duration 243s matches no reference length",
+    "deezer 3877670771: version (I Can't Stop Loving You (Live))",
+    "deezer 699954572: duration 181s matches no reference length"
+  ]
+}

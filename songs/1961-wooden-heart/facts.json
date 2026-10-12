@@ -1,0 +1,135 @@
+{
+  "id": "1961-wooden-heart",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Wooden Heart",
+  "wikidata": {
+    "qid": "Q1710303",
+    "label": "Wooden Heart",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q303",
+          "label": "Elvis Presley"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q5496584",
+          "label": "Fred Wise"
+        },
+        {
+          "qid": "Q816633",
+          "label": "Ben Weisman"
+        },
+        {
+          "qid": "Q506360",
+          "label": "Bert Kaempfert"
+        },
+        {
+          "qid": "Q6380303",
+          "label": "Kay Twomey"
+        },
+        {
+          "qid": "Q19652",
+          "label": "public domain"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q19652",
+          "label": "public domain"
+        },
+        {
+          "qid": "Q506360",
+          "label": "Bert Kaempfert"
+        },
+        {
+          "qid": "Q6380303",
+          "label": "Kay Twomey"
+        },
+        {
+          "qid": "Q816633",
+          "label": "Ben Weisman"
+        },
+        {
+          "qid": "Q5496584",
+          "label": "Fred Wise"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1960-00-00"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "based_on": [
+        {
+          "qid": "Q1580011",
+          "label": "Muss i denn"
+        }
+      ],
+      "modified_version_of": [
+        {
+          "qid": "Q1580011",
+          "label": "Muss i denn"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "7560e628-63b0-357e-a7cb-a2701073ef53"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 9260c3b4-d67b-4454-9974-68918103646b (1961-06)",
+  "musicbrainz": {
+    "recording_id": "bf373df5-a6fc-4785-8118-674c5c0adc9d",
+    "title": "Wooden Heart",
+    "length_ms": 120000,
+    "first_release_date": "1961-06",
+    "artist_credit": "Joe Dowell",
+    "artists": [
+      {
+        "name": "Joe Dowell",
+        "mbid": "30d81ee0-33b3-4eba-a8e5-5fca51655461"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "eeef814a-d45c-4f5e-9432-c698489fcd44",
+        "title": "Wooden Heart",
+        "date": "1961-06",
+        "country": "US",
+        "status": "Official",
+        "release_group": "9260c3b4-d67b-4454-9974-68918103646b",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Joe Dowell",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Bloomington"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "1960-teen-angel",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Teen Angel (song)",
+  "wikidata": {
+    "qid": "Q3982548",
+    "label": "Teen Angel",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q330466",
+          "label": "Mark Dinning"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q20984475",
+          "label": "Jim Vienneau"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1881437",
+          "label": "MGM Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1959-12-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "e7380938-5862-4cab-83d0-9f7a93a44c91"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group ee24e299-2c25-4a40-b962-72d6d493fe2b (1959)",
+  "musicbrainz": {
+    "recording_id": "217c7221-d905-49f5-aca2-8d2a5c22513d",
+    "title": "Teen Angel",
+    "length_ms": 161346,
+    "first_release_date": "1959",
+    "artist_credit": "Mark Dinning",
+    "artists": [
+      {
+        "name": "Mark Dinning",
+        "mbid": "4d6512f3-fdc4-4995-9f3b-2fd77d247ea2"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "957548e2-c400-468b-a7f0-ca4630a1cb50",
+        "title": "Teen Angel / Bye Now Baby",
+        "date": "1959",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ee24e299-2c25-4a40-b962-72d6d493fe2b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "bca01698-b44f-434f-94fe-ea056e39360b",
+        "title": "Rock Around the Clock Early Rock & Roll",
+        "date": "2006",
+        "country": "US",
+        "status": null,
+        "release_group": "61cc22b8-8e28-483d-a2ec-b043a04414dd",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e6473d35-e570-4a3e-a2fd-8839bac88150",
+        "title": "Rock Around the Clock",
+        "date": "2010",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "425dbf3b-e807-4269-b481-3fe5261a984d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "main_artist": {
+      "name": "Mark Dinning",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Grant County"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

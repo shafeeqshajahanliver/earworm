@@ -1,0 +1,34 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25874732,
+  "kind": "synced",
+  "matched": {
+    "track": "The Ballad of the Green Berets",
+    "artist": "Barry Sadler",
+    "album": "The Ballad of the Green Berets / Letter From Vietnam",
+    "duration_s": 148.406958
+  },
+  "duration_matched_to": "musicbrainz recording length (149s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 148.973,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 147.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 28870074 (the ballad of the green berets / barry sadler / 1966 - Volume 2, 154.0s): duration matches no reference length",
+    "lrclib 27901037 (The Ballad Of The Green Berets / Barry Sadler / The Best of Jukebox Rock: 1966 Volume 2, 154.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

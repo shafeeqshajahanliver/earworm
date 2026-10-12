@@ -1,0 +1,136 @@
+{
+  "id": "1975-one-of-these-nights",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "One of These Nights (Eagles song)",
+  "wikidata": {
+    "qid": "Q3808739",
+    "label": "One of These Nights",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q189635",
+          "label": "Eagles"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q316454",
+          "label": "Don Henley"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q4911099",
+          "label": "Bill Szymczyk"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1998195",
+          "label": "Asylum Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1975-05-19"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q484641",
+          "label": "pop rock"
+        },
+        {
+          "qid": "Q217191",
+          "label": "soft rock"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q3808735",
+          "label": "Best of My Love"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q2782977",
+          "label": "Lyin' Eyes"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "f091c365-4b88-4c84-b1d1-ff46e161acfa"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group d9a51a3f-cea4-45ca-b72c-5c8add870279 (1975-05-19)",
+  "musicbrainz": {
+    "recording_id": "d6af2df3-6a35-4359-ab36-e878cca9675a",
+    "title": "One of These Nights",
+    "length_ms": 208000,
+    "first_release_date": "1975",
+    "artist_credit": "Eagles",
+    "artists": [
+      {
+        "name": "Eagles",
+        "mbid": "f46bd570-5768-462e-b84c-c7c993bbf47e"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "36b7d2bd-ee78-4b02-9fed-7a25c66f340f",
+        "title": "One of These Nights / Visions",
+        "date": "1975",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "d9a51a3f-cea4-45ca-b72c-5c8add870279",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "f091c365-4b88-4c84-b1d1-ff46e161acfa",
+      "title": "One of These Nights",
+      "iswcs": [
+        "T-070.249.345-5"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Glenn Frey",
+          "mbid": "a717be4f-8b3d-4355-b33c-2b84f88fe40d"
+        },
+        {
+          "role": "writer",
+          "name": "Don Henley",
+          "mbid": "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/113996",
+        "https://www.wikidata.org/wiki/Q3808739"
+      ]
+    },
+    "main_artist": {
+      "name": "Eagles",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Los Angeles"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

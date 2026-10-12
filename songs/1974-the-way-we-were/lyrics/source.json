@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25063290,
+  "kind": "synced",
+  "matched": {
+    "track": "The Way We Were",
+    "artist": "Barbra Streisand",
+    "album": "The Way We Were",
+    "duration_s": 208.697542
+  },
+  "duration_matched_to": "musicbrainz recording length (209s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 209.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 210.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 209.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36958694 (The Way We Were / Barbra Streisand / Barbra Streisand’s Greatest Hits, Volume 2, 216.0s): duration matches no reference length",
+    "lrclib 34925519 (The Way We Were / Barbra Streisand / Just for the Record, 231.0s): duration matches no reference length",
+    "lrclib 35196640 (The Way We Were / Barbra Streisand / Barbra: The Music … The Mem’ries … The Magic!, 235.0s): duration matches no reference length",
+    "lrclib 33748113 (The Way We Were / Barbra Streisand / The Way We Were, 37.0s): duration matches no reference length",
+    "lrclib 36331755 (The Way We Were / Barbra Streisand / The Essential Barbra Streisand, 3.0s): duration matches no reference length",
+    "lrclib 34062919 (The Way We Were / Barbra Streisand / The Event of the Decade - A Retrospective, 233.0s): duration matches no reference length",
+    "lrclib 29747251 (The Way We Were (Soundtrack Version) / Barbra Streisand / The Way We Were   Barbra Streisand, 232.0s): live/remix/other version",
+    "lrclib 20329781 (The Way We Were / Barbra Streisand / The Way We Were, 215.826875s): duration matches no reference length",
+    "lrclib 20546931 (The Way We Were / Barbra Streisand / The Way We Were, 164.341625s): duration matches no reference length",
+    "lrclib 19816525 (The Way We Were / Barbra Streisand / The Way We Were, 267.82s): duration matches no reference length",
+    "lrclib 22750042 (The Way We Were / Barbra Streisand / The Way We Were, 231.733333s): duration matches no reference length",
+    "lrclib 38367669 (The Way We Were / Barbra Streisand / The Way We Were, 180.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

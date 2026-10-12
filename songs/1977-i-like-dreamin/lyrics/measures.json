@@ -1,0 +1,41 @@
+{
+  "id": "1977-i-like-dreamin",
+  "lyrics_kind": "synced",
+  "lrclib_id": 35570019,
+  "lines": 25,
+  "words": 216,
+  "unique_words": 107,
+  "type_token_ratio": 0.495,
+  "repeated_line_share": 0.16,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.401,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i like dreamin",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 24,
+    "second": 15,
+    "first_plural": 8
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.75,
+  "last_line_s": 168.97,
+  "sung_time_s": 155.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 83.3,
+  "words_per_minute_track": 61.5,
+  "longest_gap_between_lines_s": 14.52,
+  "longest_gap_starts_at_s": 9.75,
+  "first_repeated_block": {
+    "first_at_s": 9.75,
+    "recurs_at_s": 80.36,
+    "lines": [
+      "I like dreamin' cause dreamin' can make you mine.",
+      "I like dreamin', closing my eyes and feeling fine."
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 35570019",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

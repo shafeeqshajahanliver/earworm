@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 15371859,
+  "kind": "synced",
+  "matched": {
+    "track": "Help!",
+    "artist": "The Beatles",
+    "album": "Help! (The Beatles In Mono)",
+    "duration_s": 138.48381
+  },
+  "duration_matched_to": "deezer preview track matched by search (137s)",
+  "duration_diff_s": 1.5,
+  "reference_lengths": [
+    {
+      "seconds": 150.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 137.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 138.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 0.987,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (137s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37469425 (Help / The Beatles / 45 giri, 127.0s): duration matches no reference length",
+    "lrclib 37168670 (Help! / The Beatles / The Ultimate Live Collection Vol. 15, 172.0s): live/remix/other version",
+    "lrclib 37129720 (Help! / The Beatles / The Beatkes Gold, 210.0s): duration matches no reference length",
+    "lrclib 37322605 (Help! / The Beatles / 1962–1966, 301.0s): duration matches no reference length",
+    "lrclib 37420655 (Help! / The Beatles / Help!, 317.0s): duration matches no reference length",
+    "lrclib 34661063 (Help / The Beatles / Hollywood Bowl Disc 2, 190.0s): duration matches no reference length",
+    "lrclib 34661192 (Help! / The Beatles / Help! (The Original Soundtrack) (US Mono LP - Capitol) (2005 Upgrade) Dr. Ebbetts MAS 2386, 160.0s): duration matches no reference length",
+    "lrclib 30320899 (Help / The Beatles / Beatles - Help!, 144.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

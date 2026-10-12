@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33286841,
+  "kind": "synced",
+  "matched": {
+    "track": "Get Ready",
+    "artist": "Rare Earth",
+    "album": "Get Ready / Bonuses",
+    "duration_s": 167.0
+  },
+  "duration_matched_to": "musicbrainz recording length (170s)",
+  "duration_diff_s": 2.6,
+  "reference_lengths": [
+    {
+      "seconds": 169.6,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 169.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 166.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 1292.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37304785 (Get Ready / Rare Earth / Veronica 70's top 770, 231.0s): duration matches no reference length",
+    "lrclib 34383385 (Get Ready / Rare Earth / Ridin' the Hits of the '60s & '70s Vol. 1, 230.0s): duration matches no reference length",
+    "lrclib 34383376 (Get Ready / Rare Earth / Golden Legends: 70s Legends, 229.0s): duration matches no reference length",
+    "lrclib 36485148 (Get Ready / Rare Earth / Get Ready, 1285.0s): duration matches no reference length",
+    "lrclib 18709496 (Get Ready / Rare Earth / Get Ready, 230.669187s): duration matches no reference length",
+    "lrclib 19196766 (Get Ready / Rare Earth / Get Ready, 155.0s): duration matches no reference length",
+    "lrclib 21781101 (Get Ready / Rare Earth / Get Ready, 1276.400469s): duration matches no reference length",
+    "lrclib 33189110 (Get Ready / Rare Earth / Get Ready, 1317.0s): duration matches no reference length",
+    "lrclib 25660897 (Get Ready / Rare Earth / Rare Earth, 811.272s): duration matches no reference length",
+    "lrclib 20116412 (Get Ready              LIVE / Rare Earth / Get Ready, 1206.51245s): live/remix/other version",
+    "lrclib 30772167 (Get Ready / Rare Earth / Get Ready / Ecology, 1208.0s): duration matches no reference length",
+    "lrclib 20445425 (Get Ready ( Single Version) / Rare Earth / Get Ready, 198.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

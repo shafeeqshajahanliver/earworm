@@ -1,0 +1,72 @@
+{
+  "id": "1960-its-now-or-never",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7675099,
+    "matched_by": "isrc",
+    "isrc": "USRC10200339",
+    "title": "It's Now or Never",
+    "artist": "Elvis Presley",
+    "album": "Elvis 30 #1 Hits",
+    "track_duration_s": 195,
+    "link": "https://www.deezer.com/track/7675099",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.0,
+    "tempo_bpm_grid": 84.7,
+    "tempo_candidates_bpm": [
+      83.4,
+      63.0,
+      234.9
+    ],
+    "beats_detected": 44,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.855,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.639,
+    "chroma_profile": [
+      0.516,
+      0.52,
+      0.515,
+      0.752,
+      1.0,
+      0.616,
+      0.659,
+      0.639,
+      0.827,
+      0.711,
+      0.524,
+      0.85
+    ],
+    "rms_dbfs": -10.34,
+    "rms_dbfs_p95_frame": -6.54,
+    "peak_dbfs": 0.05,
+    "loudness_lufs_approx": -11.23,
+    "spectral_centroid_hz_mean": 1553.7,
+    "spectral_centroid_hz_median": 1416.0,
+    "onsets": 123,
+    "onset_density_per_s": 4.102,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7675099",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -11,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7675099",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBZTD1105512: matched but no preview available (readable=False)"
+  ]
+}

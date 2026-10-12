@@ -1,0 +1,76 @@
+{
+  "id": "1978-how-deep-is-your-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 350027751,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "NLF057790012",
+    "title": "How Deep Is Your Love",
+    "artist": "Bee Gees",
+    "album": "Timeless - The All-Time Greatest Hits",
+    "track_duration_s": 245,
+    "link": "https://www.deezer.com/track/350027751",
+    "duration_matched_to": "wikipedia infobox length (242s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 105.3,
+    "tempo_bpm_grid": 104.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      215.3,
+      198.8
+    ],
+    "beats_detected": 53,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.906,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.655,
+    "chroma_profile": [
+      0.77,
+      0.559,
+      0.567,
+      0.926,
+      0.548,
+      0.826,
+      0.515,
+      0.798,
+      0.877,
+      0.553,
+      1.0,
+      0.611
+    ],
+    "rms_dbfs": -11.87,
+    "rms_dbfs_p95_frame": -9.36,
+    "peak_dbfs": -0.75,
+    "loudness_lufs_approx": -11.72,
+    "spectral_centroid_hz_mean": 2180.2,
+    "spectral_centroid_hz_median": 2220.2,
+    "onsets": 60,
+    "onset_density_per_s": 2.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 350027751",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 104.93,
+    "gain": -11.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/350027751",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 427219352: version (How Deep Is Your Love (Serban Mix))",
+    "deezer 7509486: version (How Deep Is Your Love (Live At The MGM Grand))",
+    "deezer 139138667: version (How Deep Is Your Love (Supreme Beings Of Leisure Remix))",
+    "deezer 1763205807: duration 150s matches no reference length"
+  ]
+}

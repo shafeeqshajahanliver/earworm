@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 402793,
+  "kind": "synced",
+  "matched": {
+    "track": "Shining Star",
+    "artist": "Earth, Wind & Fire",
+    "album": "That's The Way Of The World",
+    "duration_s": 170.0
+  },
+  "duration_matched_to": "musicbrainz recording length (172s)",
+  "duration_diff_s": 1.6,
+  "reference_lengths": [
+    {
+      "seconds": 171.573,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 170.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37154488 (Shining Star / Earth, Wind & Fire / DISCO HITS - The BEST Late 70's early 80's disco/dance/funk, 295.0s): duration matches no reference length",
+    "lrclib 37375590 (Shining star / Earth, Wind & Fire / Disco Essentials by Xandão, 295.0s): duration matches no reference length",
+    "lrclib 37226531 (Shining Star / Earth, Wind & Fire / Veronica's Album Top 1000 Allertijden (Editie 2011), 267.0s): duration matches no reference length",
+    "lrclib 34830415 (Shining Star / Earth, Wind & Fire / Rock and Roll Hall of Fame, Volume 6: 2000–2001, 247.0s): duration matches no reference length",
+    "lrclib 34531749 (Shining Star / Earth, Wind & Fire / Top 2000 (Radio 2), 295.0s): duration matches no reference length",
+    "lrclib 21169727 (Shining Star / Earth Wind & Fire / Earth, Wind & Fire - Essentials, 698.731s): duration matches no reference length",
+    "lrclib 25160020 (Shining Star / Earth, Wind & Fire / Earth, Wind & Fire Grestest Hits, 294.243265s): duration matches no reference length",
+    "lrclib 24880484 (Shining Star / Earth, Wind & Fire / The Essential Earth, Wind & Fire, 294.164898s): duration matches no reference length",
+    "lrclib 25519098 (Shining Star\u0000 / Earth, Wind & Fire / Earth, Wind & Fire - Live USA, 138.855329s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "1967-to-sir-with-love",
+  "preview": {
+    "service": "itunes",
+    "track_id": 313382209,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "To Sir With Love",
+    "artist": "Lulu",
+    "album": "To Sir With Love",
+    "track_duration_s": 166.7,
+    "link": "https://music.apple.com/us/album/to-sir-with-love/313381910?i=313382209&uo=4",
+    "duration_matched_to": "musicbrainz recording length (164s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 98.5,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      198.8,
+      184.6
+    ],
+    "beats_detected": 41,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.755,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.647,
+    "chroma_profile": [
+      0.448,
+      0.546,
+      0.316,
+      0.459,
+      0.65,
+      0.47,
+      0.913,
+      0.483,
+      0.698,
+      0.746,
+      0.583,
+      1.0
+    ],
+    "rms_dbfs": -12.75,
+    "rms_dbfs_p95_frame": -9.62,
+    "peak_dbfs": -0.46,
+    "loudness_lufs_approx": -11.69,
+    "spectral_centroid_hz_mean": 2082.6,
+    "spectral_centroid_hz_median": 2042.0,
+    "onsets": 114,
+    "onset_density_per_s": 3.803,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 313382209",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 439049552: version (To Sir With Love (2002 Remastered Version))",
+    "deezer 830636322: version (To Sir With Love (Live: 28 Jul 1967))",
+    "deezer 2526973: duration 176s matches no reference length",
+    "deezer 1917237587: version (To Sir With Love (Performed live on The Ed Sullivan Show 10/22/67))",
+    "itunes 1442846134: duration 177s matches no reference length",
+    "itunes 1491385428: version (To Sir With Love (Live: 28 Jul 1967))"
+  ]
+}

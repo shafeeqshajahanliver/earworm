@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1006915,
+  "kind": "synced",
+  "matched": {
+    "track": "How Can You Mend a Broken Heart",
+    "artist": "Bee Gees",
+    "album": "Trafalgar",
+    "duration_s": 238.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (237s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 237.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 237.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (237s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37016385 (How Can You Mend A Broken Heart / Bee Gees / Here At Last... Bee Gees... Live (Disc 1), 226.0s): live/remix/other version",
+    "lrclib 36853410 (How Can You Mend a Broken Heart / Bee Gees / One Night Only, 214.0s): duration matches no reference length",
+    "lrclib 33393534 (How Can You Mend a Broken Heart / Bee Gees / Party Megamix, 219.0s): duration matches no reference length",
+    "lrclib 35947391 (How Can You Mend A Broken Heart / Bee Gees / Trafalgar, 80.0s): duration matches no reference length",
+    "lrclib 36152239 (How can you mend a broken heart / Bee Gees / Tú y yo - Las más bellas canciones de amor, 222.0s): duration matches no reference length",
+    "lrclib 36729521 (How Can You Mend a Broken Heart / Bee Gees / 1998-11-28: Wal-Mart, Pretoria, South Africa: Live! From Pretoria, South Africa, 239.0s): live/remix/other version",
+    "lrclib 25794455 (How Can You Mend a Broken Heart / Bee Gees / Bee Gees, 204.7838s): duration matches no reference length",
+    "lrclib 22046614 (How Can You Mend a Broken Heart  (Live) / Bee Gees / Bee Gees, 199.68s): live/remix/other version",
+    "lrclib 30898799 (How Can You Mend A Broken Heart / Bee Gees / Bee Gees The Many Faces of Bee Gees: The Bee Gees Live, 210.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

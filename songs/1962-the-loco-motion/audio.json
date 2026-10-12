@@ -1,0 +1,74 @@
+{
+  "id": "1962-the-loco-motion",
+  "preview": {
+    "service": "deezer",
+    "track_id": 120080938,
+    "matched_by": "isrc",
+    "isrc": "GBAYE6200144",
+    "title": "The Locomotion",
+    "artist": "Little Eva",
+    "album": "Llllloco-Motion",
+    "track_duration_s": 139,
+    "link": "https://www.deezer.com/track/120080938",
+    "duration_note": "Deezer track (ISRC match) is 139s; MusicBrainz length is 145s. ISRC match kept; one of the two lengths may refer to another edit.",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 129.0,
+    "tempo_bpm_grid": 129.2,
+    "tempo_candidates_bpm": [
+      129.2,
+      86.1,
+      64.6
+    ],
+    "beats_detected": 62,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.56,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.529,
+    "chroma_profile": [
+      0.861,
+      0.752,
+      0.814,
+      1.0,
+      0.813,
+      0.766,
+      0.545,
+      0.736,
+      0.588,
+      0.589,
+      0.859,
+      0.765
+    ],
+    "rms_dbfs": -15.22,
+    "rms_dbfs_p95_frame": -12.41,
+    "peak_dbfs": -1.85,
+    "loudness_lufs_approx": -15.07,
+    "spectral_centroid_hz_mean": 2638.1,
+    "spectral_centroid_hz_median": 2650.2,
+    "onsets": 115,
+    "onset_density_per_s": 3.835,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 120080938",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 128.8,
+    "gain": -15.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/120080938",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBAYE0400286: matched but no preview available (readable=False)",
+    "deezer isrc ITCF41804669: matched but no preview available (readable=False)"
+  ]
+}

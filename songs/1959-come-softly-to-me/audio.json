@@ -1,0 +1,74 @@
+{
+  "id": "1959-come-softly-to-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3122819,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USEM39100178",
+    "title": "Come Softly To Me",
+    "artist": "The Fleetwoods",
+    "album": "Come Softly To Me: The Very Best Of The Fleetwoods",
+    "track_duration_s": 143,
+    "link": "https://www.deezer.com/track/3122819",
+    "duration_matched_to": "musicbrainz recording length (140s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 123.9,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      129.2,
+      63.0
+    ],
+    "beats_detected": 62,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.933,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.735,
+    "chroma_profile": [
+      0.559,
+      1.0,
+      0.363,
+      0.477,
+      0.324,
+      0.804,
+      0.444,
+      0.31,
+      0.814,
+      0.338,
+      0.538,
+      0.276
+    ],
+    "rms_dbfs": -16.31,
+    "rms_dbfs_p95_frame": -12.49,
+    "peak_dbfs": -3.41,
+    "loudness_lufs_approx": -16.93,
+    "spectral_centroid_hz_mean": 1570.4,
+    "spectral_centroid_hz_median": 1320.8,
+    "onsets": 103,
+    "onset_density_per_s": 3.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3122819",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 122.3,
+    "gain": -17.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3122819",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 3232043431: duration 134s matches no reference length",
+    "deezer 1749541137: version (Come Softly to Me (Early Version))"
+  ]
+}

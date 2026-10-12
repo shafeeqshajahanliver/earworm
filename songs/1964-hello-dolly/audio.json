@@ -1,0 +1,70 @@
+{
+  "id": "1964-hello-dolly",
+  "preview": {
+    "service": "deezer",
+    "track_id": 537106922,
+    "matched_by": "isrc",
+    "isrc": "USMC16356894",
+    "title": "Hello, Dolly!",
+    "artist": "Louis Armstrong",
+    "album": "Hello, Dolly! (Remastered)",
+    "track_duration_s": 144,
+    "link": "https://www.deezer.com/track/537106922",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 154.1,
+    "tempo_bpm_grid": 154.3,
+    "tempo_candidates_bpm": [
+      76.0,
+      152.0,
+      161.5
+    ],
+    "beats_detected": 76,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.743,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.632,
+    "chroma_profile": [
+      0.807,
+      0.676,
+      0.819,
+      0.594,
+      1.0,
+      0.6,
+      0.552,
+      0.742,
+      0.458,
+      0.74,
+      0.536,
+      0.666
+    ],
+    "rms_dbfs": -14.08,
+    "rms_dbfs_p95_frame": -9.93,
+    "peak_dbfs": -0.05,
+    "loudness_lufs_approx": -12.65,
+    "spectral_centroid_hz_mean": 1753.4,
+    "spectral_centroid_hz_median": 1720.7,
+    "onsets": 76,
+    "onset_density_per_s": 2.534,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 537106922",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/537106922",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

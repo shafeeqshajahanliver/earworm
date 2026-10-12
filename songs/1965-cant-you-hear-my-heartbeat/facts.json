@@ -1,0 +1,119 @@
+{
+  "id": "1965-cant-you-hear-my-heartbeat",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Can't You Hear My Heartbeat",
+  "wikidata": {
+    "qid": "Q16851314",
+    "label": "Can't You Hear My Heartbeat",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q693597",
+          "label": "Herman's Hermits"
+        },
+        {
+          "qid": "Q48280",
+          "label": "Marianne Faithfull"
+        },
+        {
+          "qid": "Q385620",
+          "label": "Goldie and the Gingerbreads"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q1699561",
+          "label": "John Carter"
+        },
+        {
+          "qid": "Q3814487",
+          "label": "Ken Lewis"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q1699561",
+          "label": "John Carter"
+        },
+        {
+          "qid": "Q3814487",
+          "label": "Ken Lewis"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1964-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q484641",
+          "label": "pop rock"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q13569737",
+          "label": "Their Second Album! Herman's Hermits on Tour"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "393f5efb-917c-3762-8242-ac3a2400a815"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "42f4f00c-fb2f-4d41-a374-a8f32d64aa3e",
+    "title": "Can’t You Hear My Heartbeat",
+    "length_ms": 147024,
+    "first_release_date": "1984",
+    "artist_credit": "Herman’s Hermits",
+    "artists": [
+      {
+        "name": "Herman’s Hermits",
+        "mbid": "fc9ec2b3-b44a-4dad-8bc3-ff3738ee02ae"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "d6f945a1-9450-40f3-b85c-8c8259f0c3f7",
+        "title": "The Hits Re-Recorded",
+        "date": "1984",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "071e4e23-28ed-4f62-85ab-de2a73ff8407",
+        "primary_type": "Album",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Herman’s Hermits",
+      "type": "Group",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": "Manchester"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

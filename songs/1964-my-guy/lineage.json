@@ -1,0 +1,53 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/48770",
+    "title": "My Guy",
+    "performer": "Mary Wells",
+    "is_original": true,
+    "first_release_date": "1964-03-13",
+    "releases": [
+      {
+        "title": "My Guy",
+        "uri": "https://api.secondhandsongs.com/release/19418",
+        "performer": "Mary Wells"
+      },
+      {
+        "title": "Mary Wells Sings My Guy",
+        "uri": "https://api.secondhandsongs.com/release/24370",
+        "performer": "Mary Wells"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 51,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/48770",
+    "title": "My Guy",
+    "language": "English",
+    "writers": [
+      "Smokey Robinson"
+    ],
+    "original_performer": "Mary Wells",
+    "versions": 52,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Ma fille",
+        "uri": "https://api.secondhandsongs.com/work/70134"
+      },
+      {
+        "title": "Bye bye",
+        "uri": "https://api.secondhandsongs.com/work/152914"
+      },
+      {
+        "title": "Mi chico",
+        "uri": "https://api.secondhandsongs.com/work/221607"
+      }
+    ]
+  }
+}

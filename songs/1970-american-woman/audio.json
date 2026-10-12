@@ -1,0 +1,74 @@
+{
+  "id": "1970-american-woman",
+  "preview": {
+    "service": "deezer",
+    "track_id": 5404511,
+    "matched_by": "isrc",
+    "isrc": "USRC16908370",
+    "title": "American Woman (7\" Single Version)",
+    "artist": "The Guess Who",
+    "album": "70s 100 Hits",
+    "track_duration_s": 230,
+    "link": "https://www.deezer.com/track/5404511",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 183.8,
+    "tempo_bpm_grid": 184.6,
+    "tempo_candidates_bpm": [
+      184.6,
+      92.3,
+      198.8
+    ],
+    "beats_detected": 91,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.689,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.606,
+    "chroma_profile": [
+      0.315,
+      0.326,
+      0.515,
+      0.454,
+      1.0,
+      0.361,
+      0.303,
+      0.286,
+      0.389,
+      0.385,
+      0.347,
+      0.451
+    ],
+    "rms_dbfs": -14.03,
+    "rms_dbfs_p95_frame": -12.17,
+    "peak_dbfs": -4.28,
+    "loudness_lufs_approx": -14.09,
+    "spectral_centroid_hz_mean": 1869.8,
+    "spectral_centroid_hz_median": 1839.8,
+    "onsets": 114,
+    "onset_density_per_s": 3.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 5404511",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 186.23,
+    "gain": -14.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/5404511",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USMV29900150: matched but no preview available (readable=False)"
+  ]
+}

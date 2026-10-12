@@ -1,0 +1,101 @@
+{
+  "id": "1968-the-good-the-bad-and-the-ugly",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "The Good, the Bad and the Ugly (theme)",
+  "wikidata": {
+    "qid": "Q7737171",
+    "label": "Il buono, il brutto, il cattivo",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q23848",
+          "label": "Ennio Morricone"
+        },
+        {
+          "qid": "Q1387009",
+          "label": "Hugo Montenegro"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q23848",
+          "label": "Ennio Morricone"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1968-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q639197",
+          "label": "instrumental music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q113481755",
+          "label": "Il buono, il brutto, il cattivo"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q22282939",
+          "label": "no linguistic content"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "cdc85e24-66a1-3fcb-8bc9-129bddbae4b2"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q24887304",
+          "label": "instrumental composition"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group ec9149cf-a797-4614-b9be-26ea009af90f (1968-01)",
+  "musicbrainz": {
+    "recording_id": "ab6a03a1-04ea-47a8-a82f-4e7b091cc1b2",
+    "title": "The Good, the Bad and the Ugly",
+    "length_ms": 163000,
+    "first_release_date": "1968-01",
+    "artist_credit": "Hugo Montenegro, His Orchestra And Chorus",
+    "artists": [
+      {
+        "name": "Hugo Montenegro and His Orchestra",
+        "mbid": "7dce8e46-63c0-46b5-b7fa-dfc84ed8727e"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "cee4e385-7aa8-4e18-8fb1-8eb4aaa05490",
+        "title": "The Good, the Bad and the Ugly / March With Hope",
+        "date": "1968-01",
+        "country": "US",
+        "status": null,
+        "release_group": "ec9149cf-a797-4614-b9be-26ea009af90f",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Hugo Montenegro and His Orchestra",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": null
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

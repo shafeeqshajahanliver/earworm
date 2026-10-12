@@ -1,0 +1,72 @@
+{
+  "id": "1979-reunited",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1758939297,
+    "matched_by": "isrc",
+    "isrc": "USPR37802453",
+    "title": "Reunited (Single Version)",
+    "artist": "Peaches & Herb",
+    "album": "70's Pop Number 1's",
+    "track_duration_s": 237,
+    "link": "https://www.deezer.com/track/1758939297",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 78.6,
+    "tempo_bpm_grid": 75.4,
+    "tempo_candidates_bpm": [
+      76.0,
+      152.0,
+      143.6
+    ],
+    "beats_detected": 37,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.735,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.711,
+    "chroma_profile": [
+      0.631,
+      1.0,
+      0.692,
+      0.919,
+      0.663,
+      0.837,
+      0.659,
+      0.486,
+      0.737,
+      0.537,
+      0.855,
+      0.525
+    ],
+    "rms_dbfs": -13.99,
+    "rms_dbfs_p95_frame": -9.74,
+    "peak_dbfs": -0.11,
+    "loudness_lufs_approx": -14.17,
+    "spectral_centroid_hz_mean": 2228.7,
+    "spectral_centroid_hz_median": 1929.3,
+    "onsets": 72,
+    "onset_density_per_s": 2.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1758939297",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -13.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1758939297",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C# major and Bb minor"
+  ],
+  "rejected_candidates": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1965-cant-you-hear-my-heartbeat",
+  "preview": {
+    "service": "deezer",
+    "track_id": 16289959,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "NLEM80803115",
+    "title": "Can't You Hear My Heartbeat",
+    "artist": "Herman's Hermits",
+    "album": "No Milk Today",
+    "track_duration_s": 135,
+    "link": "https://www.deezer.com/track/16289959",
+    "duration_matched_to": "wikipedia infobox length (135s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 147.5,
+    "tempo_bpm_grid": 147.7,
+    "tempo_candidates_bpm": [
+      152.0,
+      143.6,
+      73.8
+    ],
+    "beats_detected": 74,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.717,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.56,
+    "chroma_profile": [
+      0.499,
+      0.677,
+      1.0,
+      0.764,
+      0.942,
+      0.633,
+      0.557,
+      0.497,
+      0.547,
+      0.93,
+      0.667,
+      0.648
+    ],
+    "rms_dbfs": -12.08,
+    "rms_dbfs_p95_frame": -7.97,
+    "peak_dbfs": 0.52,
+    "loudness_lufs_approx": -12.32,
+    "spectral_centroid_hz_mean": 2406.4,
+    "spectral_centroid_hz_median": 2369.1,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 16289959",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 147.7,
+    "gain": -12.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/16289959",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2008243257: version (Can’t You Hear My Heartbeat)",
+    "deezer 61009918: version (Can't You Hear My Heartbeat (Live))",
+    "deezer 1900313: version (Can't You Hear My Heartbeat - Live)",
+    "deezer 112112300: duration 128s matches no reference length",
+    "deezer 387017961: version (Can't You Hear My Heartbeat (Live))"
+  ]
+}

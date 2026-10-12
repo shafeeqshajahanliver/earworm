@@ -1,0 +1,70 @@
+{
+  "id": "1966-reach-out-ill-be-there",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2526052,
+    "matched_by": "isrc",
+    "isrc": "USMO16700445",
+    "title": "Reach Out I'll Be There (Single Version / Mono)",
+    "artist": "Four Tops",
+    "album": "The Ultimate Collection: Four Tops",
+    "track_duration_s": 179,
+    "link": "https://www.deezer.com/track/2526052",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.2,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      117.5,
+      123.0,
+      234.9
+    ],
+    "beats_detected": 59,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.843,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.559,
+    "chroma_profile": [
+      0.482,
+      0.702,
+      0.538,
+      0.649,
+      0.545,
+      0.645,
+      0.593,
+      0.511,
+      0.701,
+      0.572,
+      1.0,
+      0.501
+    ],
+    "rms_dbfs": -7.77,
+    "rms_dbfs_p95_frame": -5.87,
+    "peak_dbfs": -0.52,
+    "loudness_lufs_approx": -8.0,
+    "spectral_centroid_hz_mean": 2365.8,
+    "spectral_centroid_hz_median": 2329.3,
+    "onsets": 88,
+    "onset_density_per_s": 2.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2526052",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2526052",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

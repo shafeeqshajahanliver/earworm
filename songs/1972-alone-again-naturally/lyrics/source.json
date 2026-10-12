@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 17541950,
+  "kind": "synced",
+  "matched": {
+    "track": "alone again",
+    "artist": "gilbert osullivan",
+    "album": "the best of gilbert osullivan",
+    "duration_s": 221.0
+  },
+  "duration_matched_to": "musicbrainz recording length (219s)",
+  "duration_diff_s": 2.2,
+  "reference_lengths": [
+    {
+      "seconds": 218.773,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 222.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 216.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 0.989,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34341765 (Alone Again (Naturally) / Gilbert O'Sullivan / Back to Front (Deluxe Edition), 3.0s): duration matches no reference length",
+    "lrclib 34552062 (Alone Again (Naturally) / Gilbert O'Sullivan / 19 jt x ditonton, 3.0s): duration matches no reference length",
+    "lrclib 34666515 (alone again (naturally) / gilbert o'sullivan / best of gilbert o'sullivan, 1021.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

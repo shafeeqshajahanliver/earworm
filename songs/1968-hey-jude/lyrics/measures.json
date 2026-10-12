@@ -1,0 +1,41 @@
+{
+  "id": "1968-hey-jude",
+  "lyrics_kind": "synced",
+  "lrclib_id": 18452993,
+  "lines": 67,
+  "words": 522,
+  "unique_words": 90,
+  "type_token_ratio": 0.172,
+  "repeated_line_share": 0.388,
+  "distinct_lines": 41,
+  "zlib_compression_ratio": 0.235,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "hey jude",
+  "title_phrase_occurrences": 27,
+  "pronouns": {
+    "first_singular": 1,
+    "second": 24,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 2.98,
+  "last_line_s": 418.93,
+  "sung_time_s": 416.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 75.2,
+  "words_per_minute_track": 71.5,
+  "longest_gap_between_lines_s": 9.62,
+  "longest_gap_starts_at_s": 128.79,
+  "first_repeated_block": {
+    "first_at_s": 2.98,
+    "recurs_at_s": 161.66,
+    "lines": [
+      "Hey Jude, don't make it bad",
+      "Take a sad song and make it better"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 18452993",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

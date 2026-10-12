@@ -1,0 +1,207 @@
+{
+  "id": "1993-informer",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Informer (song)",
+  "wikidata": {
+    "qid": "Q3798619",
+    "label": "Informer",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q94708",
+          "label": null
+        },
+        {
+          "qid": "Q281396",
+          "label": "MC Shan"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q94708",
+          "label": null
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q281396",
+          "label": "MC Shan"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q2576206",
+          "label": "East West Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1992-08-20"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q6010",
+          "label": "rapping"
+        },
+        {
+          "qid": "Q9794",
+          "label": "reggae"
+        },
+        {
+          "qid": "Q1606591",
+          "label": "reggae fusion"
+        },
+        {
+          "qid": "Q11401",
+          "label": "hip-hop"
+        },
+        {
+          "qid": "Q474027",
+          "label": "dancehall"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "268",
+          "unit": "Q11574"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q5564392",
+          "label": "Girl I've Been Hurt"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "48a5f6f3-8e81-4e31-b575-ba4ea4c7dfae"
+      ],
+      "musicbrainz_release_group_id": [
+        "e996bf9e-1262-3206-af5b-8d0dad2f12e7"
+      ],
+      "youtube_video_id": [
+        "TSffz_bl6zo"
+      ],
+      "has_quality": [
+        {
+          "qid": "Q66624698",
+          "label": "debut single"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group e996bf9e-1262-3206-af5b-8d0dad2f12e7 (1992)",
+  "musicbrainz": {
+    "recording_id": "550b7cb2-9f7a-45d3-93ba-41dca0ae77bc",
+    "title": "Informer",
+    "length_ms": 217506,
+    "first_release_date": "1992",
+    "artist_credit": "Snow",
+    "artists": [
+      {
+        "name": "Snow",
+        "mbid": "70cb4669-ad7a-4d5c-b99e-7582df393cc7"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [
+      "dancehall reggae"
+    ],
+    "releases": [
+      {
+        "id": "7a1e8490-f120-4604-b846-67da3b37595f",
+        "title": "Informer",
+        "date": "1992",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e996bf9e-1262-3206-af5b-8d0dad2f12e7",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "1c99a7a4-8ebe-37fa-ac05-4716b341cea7",
+        "title": "Informer",
+        "date": "1992",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e996bf9e-1262-3206-af5b-8d0dad2f12e7",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "e6910593-1fb1-4866-a3d1-c581024181e1",
+        "title": "90 Hits of the… 90s",
+        "date": "2013-10-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "08eb5d27-1f1e-4f6f-8cfb-603f39f056f8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "48a5f6f3-8e81-4e31-b575-ba4ea4c7dfae",
+      "title": "Informer",
+      "iswcs": [
+        "T-070.085.470-1"
+      ],
+      "credits": [
+        {
+          "role": "lyricist",
+          "name": "Edmond Leary",
+          "mbid": "7373a26d-b171-414a-91d4-957f056a5fc8"
+        },
+        {
+          "role": "lyricist",
+          "name": "MC Shan",
+          "mbid": "5da8de99-cd3a-4da9-9801-04305865b129"
+        },
+        {
+          "role": "lyricist",
+          "name": "Snow",
+          "mbid": "70cb4669-ad7a-4d5c-b99e-7582df393cc7"
+        },
+        {
+          "role": "writer",
+          "name": "Edmond Leary",
+          "mbid": "7373a26d-b171-414a-91d4-957f056a5fc8"
+        },
+        {
+          "role": "writer",
+          "name": "MC Shan",
+          "mbid": "5da8de99-cd3a-4da9-9801-04305865b129"
+        },
+        {
+          "role": "writer",
+          "name": "Snow",
+          "mbid": "70cb4669-ad7a-4d5c-b99e-7582df393cc7"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q3798619"
+      ]
+    },
+    "main_artist": {
+      "name": "Snow",
+      "type": "Person",
+      "country": "CA",
+      "area": "Canada",
+      "begin_area": "North York"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1977-undercover-angel",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3025605911,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USL4R2443437",
+    "title": "Undercover Angel (2001)",
+    "artist": "Alan O'Day",
+    "album": "Undercover Angel",
+    "track_duration_s": 250,
+    "link": "https://www.deezer.com/track/3025605911",
+    "duration_matched_to": "wikipedia infobox length (252s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 99.1,
+    "tempo_bpm_grid": 96.6,
+    "tempo_candidates_bpm": [
+      198.8,
+      95.7,
+      64.6
+    ],
+    "beats_detected": 50,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.474,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.36,
+    "chroma_profile": [
+      0.778,
+      0.75,
+      0.762,
+      0.625,
+      0.483,
+      0.885,
+      0.838,
+      1.0,
+      0.996,
+      0.929,
+      1.0,
+      0.66
+    ],
+    "rms_dbfs": -12.92,
+    "rms_dbfs_p95_frame": -8.63,
+    "peak_dbfs": -1.21,
+    "loudness_lufs_approx": -13.85,
+    "spectral_centroid_hz_mean": 2541.7,
+    "spectral_centroid_hz_median": 2505.2,
+    "onsets": 133,
+    "onset_density_per_s": 4.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3025605911",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -13.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3025605911",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 3619982992: version (Undercover Angel (Rerecorded))"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "1993-if-i-ever-fall-in-love",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "If I Ever Fall in Love",
+  "wikidata": {
+    "qid": "Q5990430",
+    "label": "If I Ever Fall in Love",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q7462374",
+          "label": "Shai"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q19768394",
+          "label": "Gasoline Alley"
+        },
+        {
+          "qid": "Q2338889",
+          "label": "MCA Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1992-09-28"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q185298",
+          "label": "a cappella"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q17986610",
+          "label": "Comforter"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "47a1fff9-1b35-46cb-a9c3-faadb6289a89"
+      ],
+      "musicbrainz_release_group_id": [
+        "c27392a6-1ef2-31ce-a107-3f038c0bbb73"
+      ],
+      "has_quality": [
+        {
+          "qid": "Q66624698",
+          "label": "debut single"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "3f776090-637d-4000-a79e-c9004e699aff",
+    "title": "If I Ever Fall in Love",
+    "length_ms": 191000,
+    "first_release_date": "1992",
+    "artist_credit": "Shai",
+    "artists": [
+      {
+        "name": "Shai",
+        "mbid": "00b41159-d8c8-4c5d-9ce4-804e67050825"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "1a18f44b-7784-4187-97f2-e2c8af0950e7",
+        "title": "Sweet Dreams: 36 traumhafte Popsongs",
+        "date": "1992",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "d49f58c2-7cef-403c-8f7f-0f475c64530a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "96e49ea7-568a-4b53-a73a-8e6edcb33ff8",
+        "title": "The Love Connection Volume 3",
+        "date": "1993",
+        "country": "NZ",
+        "status": null,
+        "release_group": "1ff1ce6a-a7b6-4604-b743-4ac7608e3fcb",
+        "primary_type": null,
+        "secondary_types": []
+      },
+      {
+        "id": "bd780f55-29aa-4dbe-84f8-e3cbcb42c331",
+        "title": "“It’s 4 Love”",
+        "date": "",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "e9e56906-4f7c-4b98-87ba-1d8adee097fe",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "main_artist": {
+      "name": "Shai",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": null
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

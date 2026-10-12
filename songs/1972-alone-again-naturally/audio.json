@@ -1,0 +1,74 @@
+{
+  "id": "1972-alone-again-naturally",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3782948092,
+    "matched_by": "isrc",
+    "isrc": "GBEQJ0400002",
+    "title": "Alone Again (Naturally)",
+    "artist": "Gilbert O'Sullivan",
+    "album": "Alone Again (Naturally)",
+    "track_duration_s": 222,
+    "link": "https://www.deezer.com/track/3782948092",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 173.7,
+    "tempo_bpm_grid": 175.2,
+    "tempo_candidates_bpm": [
+      172.3,
+      86.1,
+      184.6
+    ],
+    "beats_detected": 85,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.888,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.775,
+    "chroma_profile": [
+      0.62,
+      1.0,
+      0.658,
+      0.71,
+      0.511,
+      0.656,
+      0.821,
+      0.585,
+      0.817,
+      0.537,
+      0.8,
+      0.605
+    ],
+    "rms_dbfs": -17.33,
+    "rms_dbfs_p95_frame": -13.36,
+    "peak_dbfs": -4.17,
+    "loudness_lufs_approx": -16.78,
+    "spectral_centroid_hz_mean": 1926.6,
+    "spectral_centroid_hz_median": 1761.8,
+    "onsets": 124,
+    "onset_density_per_s": 4.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3782948092",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -16.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3782948092",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBEQJ0400020: title/artist mismatch: What’s It All Supposed to Mean? / Gilbert O'Sullivan"
+  ]
+}

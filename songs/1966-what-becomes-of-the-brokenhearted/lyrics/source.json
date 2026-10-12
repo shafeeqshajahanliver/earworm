@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18148274,
+  "kind": "synced",
+  "matched": {
+    "track": "What Becomes of the Brokenhearted",
+    "artist": "Jimmy Ruffin",
+    "album": "Jimmy Ruffin Sings Top Ten",
+    "duration_s": 178.0
+  },
+  "duration_matched_to": "musicbrainz recording length (179s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 179.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 178.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 180.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 49,
+  "agreement_with_other_candidates": 0.877,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37380122 (What Becomes Of The Brokenhearted / Jimmy Ruffin / Billboard Top 100 Of 1966, 191.0s): duration matches no reference length",
+    "lrclib 37401217 (What Becomes Of The Brokenhearted / Jimmy Ruffin / Sensational Soul, 186.0s): duration matches no reference length",
+    "lrclib 37250755 (What Becomes Of The Brokenhearted / Jimmy Ruffin / The Heart Of Rock 'N' Roll∶ 1965-1966, 188.0s): duration matches no reference length",
+    "lrclib 34677295 (What Becomes of the Brokenhearted / Jimmy Ruffin / There Will Never Be Another You, 194.0s): duration matches no reference length",
+    "lrclib 33520303 (What Becomes of the Brokenhearted / Jimmy Ruffin / What Becomes of the Brokenhearted, 188.0s): duration matches no reference length",
+    "lrclib 37342580 (What Becomes Of The Broken Hearted / Jimmy Ruffin / Blues Brother Soul Sister (Volume Two), 171.0s): duration matches no reference length",
+    "lrclib 33395528 (What Becomes Of The Broken Hearted / Jimmy Ruffin / SFMW916, 221.0s): duration matches no reference length",
+    "lrclib 15184602 (What Becomes of the Brokenhearted / Jimmy Ruffin / Jimmy Ruffin - There Will Never Be Another You (MP3 Album), 193.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36069813,
+  "kind": "synced",
+  "matched": {
+    "track": "I'll Never Fall in Love Again",
+    "artist": "Tom Jones",
+    "album": "I'll Never Fall in Love Again / Things I Wanna Do",
+    "duration_s": 254.0
+  },
+  "duration_matched_to": "musicbrainz recording length (254s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 254.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 255.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 175.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 254.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 46,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36877428 (I'll Never Fall in Love Again / Tom Jones / I'll Never Fall in Love Again / Things I Wanna Do, 282.0s): duration matches no reference length",
+    "lrclib 35292690 (I'll Never Fall In Love Again / Tom Jones / Tom Jones - The Decca Years, 247.0s): duration matches no reference length",
+    "lrclib 35538927 (Ill Never Fall in Love Again / Tom Jones / Billboard Top 100 Hits of 1969, 245.0s): duration matches no reference length",
+    "lrclib 20154616 (I'll Never Fall In Love Again / Tom Jones / Tom Jones Greatest Hits, 191.100227s): duration matches no reference length",
+    "lrclib 34587546 ((It Looks Like) I'll Never Fall In Love Again / Tom Jones / 13 Smash Hits, Nones): duration matches no reference length",
+    "lrclib 19269150 ((It Looks Like) I'll Never Fall in Love Again / Tom Jones / Live in Las Vegas, 252.452667s): live/remix/other version",
+    "lrclib 22052338 (I'll Never Fall In Love Again / Tom Jones / Tom Jones [Live], 290.0933329s): live/remix/other version",
+    "lrclib 22427870 (I'll never fall in love again / Tom Jones / The Best Of Tom Jones, 290.0933329s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

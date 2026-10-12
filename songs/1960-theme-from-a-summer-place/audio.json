@@ -1,0 +1,75 @@
+{
+  "id": "1960-theme-from-a-summer-place",
+  "preview": {
+    "service": "deezer",
+    "track_id": 5495927,
+    "matched_by": "isrc",
+    "isrc": "USSM19500340",
+    "title": "Theme from \"A Summer Place\"",
+    "artist": "Percy Faith & His Orchestra",
+    "album": "Down Memory Lane",
+    "track_duration_s": 143,
+    "link": "https://www.deezer.com/track/5495927",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.9,
+    "tempo_bpm_grid": 93.1,
+    "tempo_candidates_bpm": [
+      184.6,
+      61.5,
+      92.3
+    ],
+    "beats_detected": 46,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.8,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.774,
+    "chroma_profile": [
+      1.0,
+      0.413,
+      0.828,
+      0.299,
+      0.553,
+      0.752,
+      0.325,
+      0.668,
+      0.414,
+      0.725,
+      0.617,
+      0.569
+    ],
+    "rms_dbfs": -13.7,
+    "rms_dbfs_p95_frame": -11.0,
+    "peak_dbfs": -0.8,
+    "loudness_lufs_approx": -11.28,
+    "spectral_centroid_hz_mean": 2331.0,
+    "spectral_centroid_hz_median": 2474.5,
+    "onsets": 78,
+    "onset_density_per_s": 2.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 5495927",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 186.2,
+    "gain": -11.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/5495927",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (186.2): octave error likely",
+    "key is close between F major and C major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc ITCF41702213: matched but no preview available (readable=False)"
+  ]
+}

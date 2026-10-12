@@ -1,0 +1,116 @@
+{
+  "id": "1976-a-fifth-of-beethoven",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "A Fifth of Beethoven",
+  "wikidata": {
+    "qid": "Q4656737",
+    "label": "A Fifth of Beethoven",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q534419",
+          "label": "Walter Murphy"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1240415",
+          "label": "Private Stock Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1976-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q58339",
+          "label": "disco"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "based_on": [
+        {
+          "qid": "Q188709",
+          "label": "Symphony No. 5"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "c5336b3f-cc5d-3ed7-b0f4-6754b78f920f"
+      ],
+      "musicbrainz_release_group_id": [
+        "5b0cc1f1-6a32-4398-92fe-50931418d3bb"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "74b037d4-882d-4388-8575-3ec5fda0958d",
+    "title": "A Fifth of Beethoven",
+    "length_ms": 182000,
+    "first_release_date": "1976",
+    "artist_credit": "Walter Murphy and The Big Apple Band",
+    "artists": [
+      {
+        "name": "Walter Murphy",
+        "mbid": "c48af196-bab1-4505-9256-0922adac0fe2"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "2cf35b79-bcb8-45af-8d23-83a5254ec364",
+        "title": "Disco Jet",
+        "date": "1976",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "46c42af5-5844-40fd-be86-0c9ef775ac6a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "c5336b3f-cc5d-3ed7-b0f4-6754b78f920f",
+      "title": "A Fifth of Beethoven",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "arranger",
+          "name": "Walter Murphy",
+          "mbid": "c48af196-bab1-4505-9256-0922adac0fe2"
+        },
+        {
+          "role": "composer",
+          "name": "Ludwig van Beethoven",
+          "mbid": "1f9df192-a621-4f54-8850-2c5373b7eac9"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q4656737"
+      ]
+    },
+    "main_artist": {
+      "name": "Walter Murphy",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "New York"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

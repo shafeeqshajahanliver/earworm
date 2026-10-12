@@ -1,0 +1,41 @@
+{
+  "id": "1974-seasons-in-the-sun",
+  "lyrics_kind": "synced",
+  "lrclib_id": 17928573,
+  "lines": 58,
+  "words": 373,
+  "unique_words": 116,
+  "type_token_ratio": 0.311,
+  "repeated_line_share": 0.397,
+  "distinct_lines": 35,
+  "zlib_compression_ratio": 0.301,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "seasons in the sun",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 15,
+    "second": 5,
+    "first_plural": 31
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 6.73,
+  "last_line_s": 200.87,
+  "sung_time_s": 195.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 114.3,
+  "words_per_minute_track": 108.1,
+  "longest_gap_between_lines_s": 5.59,
+  "longest_gap_starts_at_s": 193.33,
+  "first_repeated_block": {
+    "first_at_s": 48.45,
+    "recurs_at_s": 101.64,
+    "lines": [
+      "We had joy, we had fun",
+      "We had seasons in the sun"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 17928573",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

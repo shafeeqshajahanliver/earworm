@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34656782,
+  "kind": "synced",
+  "matched": {
+    "track": "Before the Next Teardrop Falls",
+    "artist": "Freddy Fender",
+    "album": "Wasted Days & Wasted Nights",
+    "duration_s": 137.0
+  },
+  "duration_matched_to": "musicbrainz recording length (136s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 136.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 134.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 153.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33654250 (Before the Next Teardrop Falls / Freddy Fender / It’s Country Time: 500 Miles From Home, 142.0s): duration matches no reference length",
+    "lrclib 20865217 (Before The Next Teardrop Falls / Freddy Fender / Before The Next Teardrop Falls, 145.0931s): duration matches no reference length",
+    "lrclib 20812323 (Before the Next Teardrop Falls / Freddy Fender / Before the Next Teardrop Falls, 147.861063s): duration matches no reference length",
+    "lrclib 21325772 (Before the Next Teardrop Falls / Freddy Fender / Freddy Fender Greatest Hits, 182.832s): duration matches no reference length",
+    "lrclib 2216230 (Before the Next Teardrop Falls / Freddy Fender / Essential Country - Freddy Fender, 164.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

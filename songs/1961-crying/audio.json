@@ -1,0 +1,73 @@
+{
+  "id": "1961-crying",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10434339,
+    "matched_by": "isrc",
+    "isrc": "USSM10700298",
+    "title": "Crying (Album Version)",
+    "artist": "Roy Orbison",
+    "album": "The Monument Singles Collection",
+    "track_duration_s": 165,
+    "link": "https://www.deezer.com/track/10434339",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 197.0,
+    "tempo_bpm_grid": 191.4,
+    "tempo_candidates_bpm": [
+      198.8,
+      184.6,
+      99.4
+    ],
+    "beats_detected": 99,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.86,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.568,
+    "chroma_profile": [
+      0.279,
+      0.666,
+      1.0,
+      0.404,
+      0.421,
+      0.255,
+      0.494,
+      0.665,
+      0.428,
+      0.834,
+      0.393,
+      0.385
+    ],
+    "rms_dbfs": -15.73,
+    "rms_dbfs_p95_frame": -12.46,
+    "peak_dbfs": -2.05,
+    "loudness_lufs_approx": -16.72,
+    "spectral_centroid_hz_mean": 1381.3,
+    "spectral_centroid_hz_median": 1344.1,
+    "onsets": 65,
+    "onset_density_per_s": 2.167,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10434339",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 98.2,
+    "gain": -13,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10434339",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about double Deezer's bpm (98.2): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

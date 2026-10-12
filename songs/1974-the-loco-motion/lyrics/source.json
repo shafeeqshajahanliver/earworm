@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18613532,
+  "kind": "synced",
+  "matched": {
+    "track": "The Loco-Motion",
+    "artist": "Grand Funk Railroad",
+    "album": "Thirty Years of Funk 1969-1999: The Anthology",
+    "duration_s": 167.133333
+  },
+  "duration_matched_to": "musicbrainz recording length (167s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 167.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 165.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 166.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37345464 (The Loco Motion / Grand Funk railroad / Essential Seventies (CD3), 179.0s): duration matches no reference length",
+    "lrclib 37210995 (The Loco-Motion / Grand Funk Railroad / New York Collection, 1974, 179.0s): duration matches no reference length",
+    "lrclib 36910389 (The Loco-motion / Grand Funk Railroad / In The Groove (Live Tokyo '82), 175.0s): live/remix/other version",
+    "lrclib 34710609 (The Loco-Motion / Grand Funk Railroad / Caught In The Act (Live/Remastered), 201.0s): live/remix/other version",
+    "lrclib 36060887 (The Loco-Motion / Grand Funk Railroad / Bosnia ~ FLAC, 220.0s): duration matches no reference length",
+    "lrclib 36605317 (The Loco‐Motion / Grand Funk Railroad / The Greatest Hits of the 70’s, Volume 2, 179.0s): duration matches no reference length",
+    "lrclib 18762215 (The Loco-Motion / Grand Funk Railroad / Caught In The Act, 202.0081s): duration matches no reference length",
+    "lrclib 18373043 (The Loco-Motion / Grand Funk Railroad / Wayne's World The Basement Tapes, 178.483667s): duration matches no reference length",
+    "lrclib 20007406 (The Loco-Motion / Grand Funk Railroad / Shinin' On, 156.290625s): duration matches no reference length",
+    "lrclib 20218137 (The Loco-Motion / Grand Funk Railroad / Beacon Theater, New York City, Ny (25.04.1997), 221.1632s): duration matches no reference length",
+    "lrclib 20162681 (The Loco-Motion / Grand Funk Railroad / Caught In The Act, 215.0912s): duration matches no reference length",
+    "lrclib 20966399 (The Loco-Motion / Grand Funk Railroad / Live In L.A.Forum (01.06.1974), 192.5072s): live/remix/other version",
+    "lrclib 21235852 (The Loco-Motion / Grand Funk Railroad / Capitol Collectors Series∶ Grand Funk Railroad, 178.96s): duration matches no reference length",
+    "lrclib 21217185 (The Loco-Motion / Grand Funk Railroad / Caught In The Act (Live), 202.0081s): live/remix/other version",
+    "lrclib 27747562 (The Loco-Motion / Grand Funk Railroad / Collectors Series: Grand Funk Railroad, 179.0s): duration matches no reference length",
+    "lrclib 9555338 (The Loco-Motion / Grand Funk Railroad / Capitol Collectors Series: Grand Funk Railroad, 179.0s): duration matches no reference length",
+    "lrclib 9155306 (The Loco‐Motion / Grand Funk Railroad / The Very Best Grand Funk Railroad Album Ever, 177.0s): duration matches no reference length",
+    "lrclib 10609313 (The Loco-Motion / Grand Funk Railroad / The Loco-Motion, 179.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

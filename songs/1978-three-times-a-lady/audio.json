@@ -1,0 +1,73 @@
+{
+  "id": "1978-three-times-a-lady",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2177903,
+    "matched_by": "isrc",
+    "isrc": "USMO17800521",
+    "title": "Three Times A Lady (Single Version)",
+    "artist": "Commodores",
+    "album": "Anthology: The Commodores",
+    "track_duration_s": 217,
+    "link": "https://www.deezer.com/track/2177903",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 74.7,
+    "tempo_bpm_grid": 74.4,
+    "tempo_candidates_bpm": [
+      73.8,
+      152.0,
+      78.3
+    ],
+    "beats_detected": 37,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.707,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.673,
+    "chroma_profile": [
+      0.535,
+      0.691,
+      0.377,
+      0.793,
+      0.385,
+      0.763,
+      0.641,
+      0.827,
+      1.0,
+      0.414,
+      0.886,
+      0.37
+    ],
+    "rms_dbfs": -19.9,
+    "rms_dbfs_p95_frame": -16.07,
+    "peak_dbfs": -4.44,
+    "loudness_lufs_approx": -20.55,
+    "spectral_centroid_hz_mean": 1228.5,
+    "spectral_centroid_hz_median": 999.3,
+    "onsets": 67,
+    "onset_density_per_s": 2.234,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2177903",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -19.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2177903",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USMO17800028: matched but no preview available (readable=False)",
+    "deezer isrc USMOI7800521: matched but no preview available (readable=False)"
+  ]
+}

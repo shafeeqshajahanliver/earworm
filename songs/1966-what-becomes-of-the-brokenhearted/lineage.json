@@ -1,0 +1,60 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/405",
+    "title": "What Becomes of the Brokenhearted",
+    "performer": "Jimmy Ruffin",
+    "is_original": true,
+    "first_release_date": "1966-06-03",
+    "releases": [
+      {
+        "title": "Top Ten",
+        "uri": "https://api.secondhandsongs.com/release/256",
+        "performer": "Jimmy Ruffin"
+      },
+      {
+        "title": "What Becomes of the Brokenhearted",
+        "uri": "https://api.secondhandsongs.com/release/36585",
+        "performer": "Jimmy Ruffin"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "What Becomes of the Brokenhearted",
+      "uri": "https://api.secondhandsongs.com/work/405"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/405",
+    "title": "What Becomes of the Brokenhearted",
+    "language": "English",
+    "writers": [
+      "James A. Dean",
+      "Paul Riser",
+      "William Weatherspoon"
+    ],
+    "original_performer": "The Isley Brothers",
+    "versions": 89,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Se decidi così",
+        "uri": "https://api.secondhandsongs.com/work/196488"
+      },
+      {
+        "title": "Oikotie harhaan",
+        "uri": "https://api.secondhandsongs.com/work/171134"
+      },
+      {
+        "title": "Miten käy miehen pirstaleisen",
+        "uri": "https://api.secondhandsongs.com/work/228095"
+      }
+    ]
+  }
+}

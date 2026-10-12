@@ -1,0 +1,72 @@
+{
+  "id": "1963-rhythm-of-the-rain",
+  "preview": {
+    "service": "deezer",
+    "track_id": 742211,
+    "matched_by": "isrc",
+    "isrc": "USWB10103605",
+    "title": "Rhythm of the Rain",
+    "artist": "The Cascades",
+    "album": "Rhythm Of The Rain",
+    "track_duration_s": 153,
+    "link": "https://www.deezer.com/track/742211",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.0,
+    "tempo_bpm_grid": 116.1,
+    "tempo_candidates_bpm": [
+      234.9,
+      117.5,
+      76.0
+    ],
+    "beats_detected": 58,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.64,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.542,
+    "chroma_profile": [
+      0.646,
+      0.54,
+      0.538,
+      0.717,
+      1.0,
+      0.699,
+      0.484,
+      0.44,
+      0.56,
+      0.538,
+      0.397,
+      0.757
+    ],
+    "rms_dbfs": -12.03,
+    "rms_dbfs_p95_frame": -9.66,
+    "peak_dbfs": -0.08,
+    "loudness_lufs_approx": -12.06,
+    "spectral_centroid_hz_mean": 1657.2,
+    "spectral_centroid_hz_median": 1600.0,
+    "onsets": 80,
+    "onset_density_per_s": 2.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 742211",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 115.5,
+    "gain": -12.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/742211",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc BRWMB9705433: matched but no preview available (readable=False)"
+  ]
+}

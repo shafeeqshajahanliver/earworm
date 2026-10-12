@@ -1,0 +1,41 @@
+{
+  "id": "1975-one-of-these-nights",
+  "lyrics_kind": "synced",
+  "lrclib_id": 19054537,
+  "lines": 49,
+  "words": 314,
+  "unique_words": 102,
+  "type_token_ratio": 0.325,
+  "repeated_line_share": 0.327,
+  "distinct_lines": 33,
+  "zlib_compression_ratio": 0.303,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "one of these nights",
+  "title_phrase_occurrences": 16,
+  "pronouns": {
+    "first_singular": 15,
+    "second": 18,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 34.86,
+  "last_line_s": 279.52,
+  "sung_time_s": 212.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 88.8,
+  "words_per_minute_track": 88.0,
+  "longest_gap_between_lines_s": 36.96,
+  "longest_gap_starts_at_s": 138.0,
+  "first_repeated_block": {
+    "first_at_s": 79.92,
+    "recurs_at_s": 132.24,
+    "lines": [
+      "Ooh, coming right behind you, swear I'm gonna find you",
+      "One of these nights"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 19054537",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1970-aint-no-mountain-high-enough",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37078735,
+  "lines": 72,
+  "words": 432,
+  "unique_words": 139,
+  "type_token_ratio": 0.322,
+  "repeated_line_share": 0.208,
+  "distinct_lines": 57,
+  "zlib_compression_ratio": 0.319,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "ain't no mountain high enough",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 37,
+    "second": 29,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 80.98,
+  "last_line_s": 374.57,
+  "sung_time_s": 218.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 118.8,
+  "words_per_minute_track": 118.1,
+  "longest_gap_between_lines_s": 30.22,
+  "longest_gap_starts_at_s": 116.53,
+  "first_repeated_block": {
+    "first_at_s": 164.59,
+    "recurs_at_s": 184.08,
+    "lines": [
+      "No wind (no wind)",
+      "No rain (no rain)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37078735",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

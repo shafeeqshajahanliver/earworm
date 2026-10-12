@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36956373,
+  "kind": "plain",
+  "matched": {
+    "track": "Kansas City",
+    "artist": "Wilbert Harrison",
+    "album": "The Great Tomato Blues Package",
+    "duration_s": 146.0
+  },
+  "duration_matched_to": "musicbrainz recording length (147s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 146.573,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 144.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 142.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37156997 (Kansas City / Wilbert Harrison / Peepin' And Hidin', 163.0s): duration matches no reference length",
+    "lrclib 37330835 (Kansas City / Wilbert Harrison / The Beach Music Anthology Box Set, 152.0s): duration matches no reference length",
+    "lrclib 37232156 (Kansas City / Wilbert Harrison / Bob Spotify - Rock'n Roll Medley - Vol 3 2024.09.26, 150.0s): live/remix/other version",
+    "lrclib 36934751 (Kansas City / Wilbert Harrison / American Heartbeat: 1959  (Compilation) [HD], 154.0s): duration matches no reference length",
+    "lrclib 36869420 (Kansas City / Wilbert Harrison / American Heartbeat 1959, 154.0s): duration matches no reference length",
+    "lrclib 34699380 (Kansas City / Wilbert Harrison / One Hit Wonderland (Re-Recorded Versions), 141.0s): live/remix/other version",
+    "lrclib 20475565 (Kansas City / Wilbert Harrison / Wilbert Harrison - Platinum Selection, 10.866939s): duration matches no reference length",
+    "lrclib 29553543 (Kansas City / Wilbert Harrison / Kansas City, 152.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

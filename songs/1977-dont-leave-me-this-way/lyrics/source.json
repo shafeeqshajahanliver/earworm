@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11818545,
+  "kind": "synced",
+  "matched": {
+    "track": "Don’t Leave Me This Way",
+    "artist": "Thelma Houston",
+    "album": "Any Way You Like It",
+    "duration_s": 217.0
+  },
+  "duration_matched_to": "musicbrainz recording length (218s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 218.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 342.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 215.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 342.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 0.701,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37051934 (Don't Leave Me This Way / Thelma Houston / 70's Best of (Disc 2), 254.0s): duration matches no reference length",
+    "lrclib 37039659 (Don't Leave Me This Way / Thelma Houston / Dance The Night Away, 248.0s): duration matches no reference length",
+    "lrclib 37285760 (Don't Leave Me This Way / Thelma Houston / 100 Hits 12'' Remixed (2021), 214.0s): live/remix/other version",
+    "lrclib 37304530 (Don't Leave Me This Way / Thelma Houston / Ultimix 54, 394.0s): duration matches no reference length",
+    "lrclib 37394305 (Don't Leave Me This Way / Thelma Houston / The Hot Classics Box Set, 563.0s): duration matches no reference length",
+    "lrclib 35979543 (Don't Leave Me This Way / Thelma Houston / Don't Leave Me This Way, 335.0s): duration matches no reference length",
+    "lrclib 36775016 (Don't Leave Me this Way / Thelma Houston / Don't Leave Me this Way, 253.0s): duration matches no reference length",
+    "lrclib 34209716 (Don't Leave Me This Way / Thelma Houston / Don't Leave Me This Way, 225.0s): duration matches no reference length",
+    "lrclib 19280136 (Don’t Leave Me This Way / Thelma Houston / Don’t Leave Me This Way, 280.8371869s): duration matches no reference length",
+    "lrclib 3009037 (Don't Leave Me This Way / Thelma Houston / Don't Leave Me This Way, 247.0s): duration matches no reference length",
+    "lrclib 38669763 (Don't Leave Me This Way / Thelma Houston / Don't Leave Me This Way, 302.0s): duration matches no reference length",
+    "lrclib 9410846 (Don't Leave Me This Way / Thelma Houston / Thelma Houston, 248.0s): duration matches no reference length",
+    "lrclib 4180981 (Don't Leave Me This Way / Thelma Houston / Don't Leave Me This Way - Single, 249.0s): duration matches no reference length",
+    "lrclib 20901558 (Don't Leave Me This Way (Rerecorded) / Thelma Houston / Don't Leave Me This Way (Ep), 249.338776s): live/remix/other version",
+    "lrclib 30910063 (Don’t Leave Me This Way / Thelma Houston / Best of Thelma Houston, 333.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13373857,
+  "kind": "synced",
+  "matched": {
+    "track": "Da Ya Think I'm Sexy",
+    "artist": "Rod Stewart",
+    "album": "Da Ya Think I'm Sexy",
+    "duration_s": 331.0
+  },
+  "duration_matched_to": "musicbrainz recording length (330s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 330.4,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 330.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 259.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 331.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 389.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 0.962,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37001797 (Da Ya Think I'm Sexy / Rod Stewart / Red Light District, 278.0s): duration matches no reference length",
+    "lrclib 37179678 (Da Ya Think I’m Sexy? / Rod Stewart / Live 1976–1998: Tonight’s the Night, 252.0s): live/remix/other version",
+    "lrclib 34764208 (Da Ya Think I’m Sexy? / Rod Stewart / Rod Stewart Videos, 279.0s): duration matches no reference length",
+    "lrclib 34360194 (Da Ya Think I'm Sexy? / Rod Stewart / Greatest Hits, 323.0s): duration matches no reference length",
+    "lrclib 21170430 (Da Ya Think I'm Sexy? / Rod Stewart / Da Ya Think I'm Sexy?, 193.548005s): duration matches no reference length",
+    "lrclib 20503747 (Da Ya Think I'm Sexy / Rod Stewart / Da Ya Think I'm Sexy?, 221.0s): duration matches no reference length",
+    "lrclib 23662439 (Da Ya Think I'm Sexy? / Rod Stewart / Da Ya Think I'm Sexy?, 277.0s): duration matches no reference length",
+    "lrclib 10069675 (Da Ya Think I'm Sexy? / Rod Stewart feat. DNCE / Da Ya Think I'm Sexy?, 221.0s): duration matches no reference length",
+    "lrclib 35947830 (Da Ya Think I'm Sexy / Rod Stewart / Do Ya Think I'm Sexy?, 221.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

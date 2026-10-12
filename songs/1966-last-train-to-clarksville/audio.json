@@ -1,0 +1,78 @@
+{
+  "id": "1966-last-train-to-clarksville",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3604221242,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "FRX872201780",
+    "title": "Last Train To Clarksville",
+    "artist": "The Monkees",
+    "album": "The Last Train To Clarksville / Take A Giant Step",
+    "track_duration_s": 162,
+    "link": "https://www.deezer.com/track/3604221242",
+    "duration_matched_to": "musicbrainz recording length (160s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 96.5,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      198.8,
+      184.6,
+      99.4
+    ],
+    "beats_detected": 47,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.729,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.587,
+    "chroma_profile": [
+      0.566,
+      0.373,
+      0.564,
+      0.479,
+      0.527,
+      0.568,
+      0.437,
+      1.0,
+      0.553,
+      0.366,
+      0.325,
+      0.507
+    ],
+    "rms_dbfs": -11.88,
+    "rms_dbfs_p95_frame": -9.72,
+    "peak_dbfs": 1.59,
+    "loudness_lufs_approx": -9.9,
+    "spectral_centroid_hz_mean": 2962.8,
+    "spectral_centroid_hz_median": 2879.8,
+    "onsets": 21,
+    "onset_density_per_s": 0.7,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3604221242",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3604221242",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 917556062: version (Last Train To Clarksville (Live))",
+    "deezer 14618558: version (Last Train to Clarksville (Live))",
+    "deezer 737103: version (Last Train to Clarksville (Live at Municipal Auditorium, Mobile, AL, 8/12/1967))",
+    "deezer 737307: version (Last Train to Clarksville (Live at Memorial Coliseum Portland, OR, 8/26/1967))",
+    "deezer 737413: version (Last Train to Clarksville (Live at Spokane Coliseum, Spokane, WA, 8/27/1967))",
+    "deezer 737202: version (Last Train to Clarksville (Live at Seattle Center Coliseum, 8/25/1967))"
+  ]
+}

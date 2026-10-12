@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 16889272,
+  "kind": "synced",
+  "matched": {
+    "track": "Runaway (Remastered)",
+    "artist": "Del Shannon",
+    "album": "Runaway With Del Shannon",
+    "duration_s": 140.0
+  },
+  "duration_matched_to": "musicbrainz recording length (140s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 140.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 139.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 140.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 0.906,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37159865 (Runaway / Del Shannon / Rock Around The Clock - CD 1, 150.0s): duration matches no reference length",
+    "lrclib 37151671 (Runaway / Del Shannon / Solid Gold - Volume 3 - CD 2, 170.0s): duration matches no reference length",
+    "lrclib 37151670 (Runaway / Del Shannon / Golden Oldies - CD 2, 158.0s): duration matches no reference length",
+    "lrclib 37104848 (Runaway / Del Shannon / Summer Hits Vol 2, 146.0s): duration matches no reference length",
+    "lrclib 17703340 (Runaway / Del Shannon / Runaway With Del Shannon, 157.0s): duration matches no reference length",
+    "lrclib 31066784 (Runaway / Del Shannon / Runaway with Del Shannon, 148.0s): duration matches no reference length",
+    "lrclib 9044565 (Runaway (1967 Version) / Del Shannon / Runaway With Del Shannon, 139.0s): live/remix/other version",
+    "lrclib 32647373 (Runaway / Del Shannon / Del Shannon, 151.0s): duration matches no reference length",
+    "lrclib 38582387 (runaway / Del Shannon / Del Shannon, 155.0s): duration matches no reference length",
+    "lrclib 1131041 (Runaway / Del Shannon / Del Shannon Live, 246.0s): live/remix/other version",
+    "lrclib 31411419 (Runaway ’67 / Del Shannon / Runaway: The Very Best of Del Shannon, 225.0s): duration matches no reference length",
+    "lrclib 34829828 (Runaway / Del Shannon / The Del Shannon Collection, 146.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

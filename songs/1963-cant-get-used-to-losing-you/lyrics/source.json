@@ -1,0 +1,37 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 7175487,
+  "kind": "synced",
+  "matched": {
+    "track": "Can't Get Used to Losing You",
+    "artist": "Andy Williams",
+    "album": "Can't Get Used To Losing You / Love, Andy",
+    "duration_s": 142.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (141s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 141.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 140.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 34,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (141s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37032399 (Can't Get Used To Losing You / Andy Williams / Warren recommended..., 147.0s): duration matches no reference length",
+    "lrclib 38514751 (Can't Get Used To Losing You / Andy Williams / Can't Get Used To Losing You, 154.0s): duration matches no reference length",
+    "lrclib 17386673 (Can't Get Used To Losing You / Andy Williams / The Best Of Andy Williams, 146.889433s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

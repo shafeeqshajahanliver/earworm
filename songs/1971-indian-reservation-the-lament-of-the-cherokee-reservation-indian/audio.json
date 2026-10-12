@@ -1,0 +1,68 @@
+{
+  "id": "1971-indian-reservation-the-lament-of-the-cherokee-reservation-indian",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1475043515,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Indian Reservation (The Lament of the Cherokee Reservation Indian)",
+    "artist": "The Raiders",
+    "album": "The Complete Columbia Singles",
+    "track_duration_s": 176.6,
+    "link": "https://music.apple.com/us/album/indian-reservation-the-lament-of-the/1475043177?i=1475043515&uo=4",
+    "duration_matched_to": "musicbrainz recording length (175s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.93,
+    "tempo_bpm": 130.7,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      136.0,
+      129.2,
+      66.3
+    ],
+    "beats_detected": 60,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.466,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.441,
+    "chroma_profile": [
+      0.61,
+      1.0,
+      0.871,
+      0.736,
+      0.679,
+      0.634,
+      0.756,
+      0.596,
+      0.594,
+      0.574,
+      0.562,
+      0.584
+    ],
+    "rms_dbfs": -15.19,
+    "rms_dbfs_p95_frame": -10.8,
+    "peak_dbfs": -0.07,
+    "loudness_lufs_approx": -16.04,
+    "spectral_centroid_hz_mean": 1725.0,
+    "spectral_centroid_hz_median": 1680.2,
+    "onsets": 109,
+    "onset_density_per_s": 3.642,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1475043515",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between C# minor and C# major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USSM17100970: title/artist mismatch: Indian Reservation (The Lament of the Cherokee Reservation Indian) / Paul Revere & The Raiders"
+  ]
+}

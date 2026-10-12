@@ -1,0 +1,41 @@
+{
+  "id": "1966-what-becomes-of-the-brokenhearted",
+  "lyrics_kind": "synced",
+  "lrclib_id": 18148274,
+  "lines": 34,
+  "words": 211,
+  "unique_words": 105,
+  "type_token_ratio": 0.498,
+  "repeated_line_share": 0.147,
+  "distinct_lines": 29,
+  "zlib_compression_ratio": 0.407,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "what becomes of the brokenhearted",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 20,
+    "second": 0,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 28.19,
+  "last_line_s": 173.24,
+  "sung_time_s": 147.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 86.0,
+  "words_per_minute_track": 70.7,
+  "longest_gap_between_lines_s": 7.86,
+  "longest_gap_starts_at_s": 59.84,
+  "first_repeated_block": {
+    "first_at_s": 48.29,
+    "recurs_at_s": 107.3,
+    "lines": [
+      "What becomes of the brokenhearted",
+      "Who has love that's now departed?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 18148274",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

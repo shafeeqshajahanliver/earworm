@@ -1,0 +1,136 @@
+{
+  "id": "1962-the-stripper",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "The Stripper",
+  "wikidata": {
+    "qid": "Q7767042",
+    "label": "The Stripper",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q937852",
+          "label": "David Rose"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q937852",
+          "label": "David Rose"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1881437",
+          "label": "MGM Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1962-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q8341",
+          "label": "jazz"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "117",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q22282939",
+          "label": "no linguistic content"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "1c350dd1-03e3-375d-81f7-cbbf3e46e9a3"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q639197",
+          "label": "instrumental music"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 40827989-d8a3-4398-a12b-c5bfaf8301f7 (1962)",
+  "musicbrainz": {
+    "recording_id": "45acdfdd-1e75-4566-8e2c-ffcb7e7b999e",
+    "title": "The Stripper",
+    "length_ms": 118666,
+    "first_release_date": "1962",
+    "artist_credit": "David Rose and His Concert Orchestra",
+    "artists": [
+      {
+        "name": "David Rose and His Orchestra",
+        "mbid": "8ee718ad-70a8-49f3-903f-057a6c0b649d"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "53f8a4dc-b796-4be8-b67d-3149436e421c",
+        "title": "The Stripper",
+        "date": "1962",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "40827989-d8a3-4398-a12b-c5bfaf8301f7",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "b19aed91-59a5-417b-9460-fcfe87d493cf",
+        "title": "1962-1965",
+        "date": null,
+        "country": null,
+        "status": "Official",
+        "release_group": "46da9b69-0c99-3716-8f0e-9da8f7313a1e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "1c350dd1-03e3-375d-81f7-cbbf3e46e9a3",
+      "title": "The Stripper",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "David Rose",
+          "mbid": "a429333f-fb1e-4158-95f1-74617c870077"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q7767042"
+      ]
+    },
+    "main_artist": {
+      "name": "David Rose and His Orchestra",
+      "type": "Orchestra",
+      "country": "US",
+      "area": "United States",
+      "begin_area": null
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

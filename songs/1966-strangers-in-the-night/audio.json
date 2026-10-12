@@ -1,0 +1,70 @@
+{
+  "id": "1966-strangers-in-the-night",
+  "preview": {
+    "service": "deezer",
+    "track_id": 70835195,
+    "matched_by": "isrc",
+    "isrc": "USRH10800935",
+    "title": "Strangers In The Night",
+    "artist": "Frank Sinatra",
+    "album": "Strangers In The Night (Expanded Edition)",
+    "track_duration_s": 157,
+    "link": "https://www.deezer.com/track/70835195",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.0,
+    "tempo_bpm_grid": 90.7,
+    "tempo_candidates_bpm": [
+      172.3,
+      184.6,
+      161.5
+    ],
+    "beats_detected": 45,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.817,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.701,
+    "chroma_profile": [
+      1.0,
+      0.504,
+      0.68,
+      0.607,
+      0.621,
+      0.649,
+      0.514,
+      0.724,
+      0.472,
+      0.799,
+      0.657,
+      0.524
+    ],
+    "rms_dbfs": -11.93,
+    "rms_dbfs_p95_frame": -9.2,
+    "peak_dbfs": -0.73,
+    "loudness_lufs_approx": -10.92,
+    "spectral_centroid_hz_mean": 2119.7,
+    "spectral_centroid_hz_median": 2009.6,
+    "onsets": 28,
+    "onset_density_per_s": 0.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 70835195",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 90.3,
+    "gain": -11.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/70835195",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

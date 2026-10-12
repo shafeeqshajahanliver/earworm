@@ -1,0 +1,70 @@
+{
+  "id": "1975-my-eyes-adored-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 725695,
+    "matched_by": "isrc",
+    "isrc": "USRH10175217",
+    "title": "My Eyes Adored You",
+    "artist": "Frankie Valli",
+    "album": "The Very Best of Frankie Valli & The 4 Seasons",
+    "track_duration_s": 212,
+    "link": "https://www.deezer.com/track/725695",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 136.9,
+    "tempo_bpm_grid": 137.8,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      143.6
+    ],
+    "beats_detected": 61,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.818,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.721,
+    "chroma_profile": [
+      0.446,
+      0.64,
+      0.602,
+      0.495,
+      0.887,
+      0.521,
+      0.763,
+      0.564,
+      0.576,
+      0.674,
+      0.438,
+      1.0
+    ],
+    "rms_dbfs": -17.31,
+    "rms_dbfs_p95_frame": -13.94,
+    "peak_dbfs": -0.98,
+    "loudness_lufs_approx": -17.08,
+    "spectral_centroid_hz_mean": 2500.5,
+    "spectral_centroid_hz_median": 2446.7,
+    "onsets": 72,
+    "onset_density_per_s": 2.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 725695",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 137.4,
+    "gain": -15.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/725695",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

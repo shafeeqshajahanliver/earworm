@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11484552,
+  "kind": "synced",
+  "matched": {
+    "track": "I Can’t Get Next to You",
+    "artist": "The Temptations",
+    "album": "Puzzle People",
+    "duration_s": 172.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (172s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 172.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 171.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (172s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37015982 (I Can’t Get Next to You / The Temptations / Get Ready, 179.0s): duration matches no reference length",
+    "lrclib 37228466 (I Can’t Get Next to You / The Temptations / The Best Of, 179.0s): duration matches no reference length",
+    "lrclib 19433942 (I Can't Get Next To You / The Temptations / I Can't Get Next To You, 156.26725s): duration matches no reference length",
+    "lrclib 18885199 (I Can't Get Next to You / The Temptations / Best of the Temptations, 255.238062s): duration matches no reference length",
+    "lrclib 20479447 (I Can't Get Next To You / The Temptations / The Temptations In Japan!, 114.860408s): duration matches no reference length",
+    "lrclib 31109860 (I Can't Get Next To You / The Temptations / Number 1's: The Temptations, 208.0s): duration matches no reference length",
+    "lrclib 35753534 (I Can't Get Next To You (Live) / The Temptations / The Temptations 25th Anniversary - Volume I, 134.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

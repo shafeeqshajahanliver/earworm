@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 84794,
+  "kind": "synced",
+  "matched": {
+    "track": "50 Ways to Leave Your Lover",
+    "artist": "Paul Simon",
+    "album": "Still Crazy After All These Years",
+    "duration_s": 217.0
+  },
+  "duration_matched_to": "musicbrainz recording length (215s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 215.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 217.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 215.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37514371 (50 Ways to Leave Your Lover / Paul Simon / The Ultimate Collection, 208.0s): duration matches no reference length",
+    "lrclib 35308299 (50 Ways to Leave Your Lover / Paul Simon / The Paul Simon Collection, 195.0s): duration matches no reference length",
+    "lrclib 33458048 (50 Ways To Leave Your Lover / Paul Simon / Shining Like A National Guitar, 187.0s): duration matches no reference length",
+    "lrclib 36229267 (50 Ways To Leave Your Lover / Paul Simon / 50 Ways To Leave Your Lover, 194.0s): duration matches no reference length",
+    "lrclib 36245732 (50 Ways To Leave Your Lover / Paul Simon / Wolf Trap National Park Vienna Va 06-28(2016), 270.0s): duration matches no reference length",
+    "lrclib 18686705 (50 Ways to Leave Your Lover / Paul Simon / 50 Ways to Leave Your Lover, 207.7685s): duration matches no reference length",
+    "lrclib 4633274 (50 Ways To Leave Your Lover / Paul Simon / 50 Ways To Leave Your Lover, 187.0s): duration matches no reference length",
+    "lrclib 32780211 (50 Ways to Leave Your Lover / Paul Simon / 50 Ways to Leave Your Lover, 205.0s): duration matches no reference length",
+    "lrclib 38637918 (50 Ways to Leave Your Lover / Paul Simon / Paul Simon, 267.0s): duration matches no reference length",
+    "lrclib 3934052 (50 Ways To Leave Your Lover / Paul Simon / The Essential Paul Simon, 208.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1967-happy-together",
+  "lyrics_kind": "synced",
+  "lrclib_id": 862193,
+  "lines": 42,
+  "words": 236,
+  "unique_words": 67,
+  "type_token_ratio": 0.284,
+  "repeated_line_share": 0.524,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.282,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "happy together",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 28,
+    "second": 22,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.0,
+  "last_line_s": 165.35,
+  "sung_time_s": 141.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 100.4,
+  "words_per_minute_track": 81.0,
+  "longest_gap_between_lines_s": 22.37,
+  "longest_gap_starts_at_s": 99.34,
+  "first_repeated_block": {
+    "first_at_s": 35.44,
+    "recurs_at_s": 67.05,
+    "lines": [
+      "So happy together",
+      "I can't see me lovin' nobody but you for all my life"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 862193",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

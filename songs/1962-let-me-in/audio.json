@@ -1,0 +1,66 @@
+{
+  "id": "1962-let-me-in",
+  "preview": {
+    "service": "itunes",
+    "track_id": 564567170,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Let Me In (Remastered)",
+    "artist": "Sensations",
+    "album": "Let Me In (Remastered) - Single",
+    "track_duration_s": 182.8,
+    "link": "https://music.apple.com/us/album/let-me-in-remastered/564566880?i=564567170&uo=4",
+    "duration_matched_to": "wikipedia infobox length (187s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.93,
+    "tempo_bpm": 134.1,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      129.2,
+      136.0,
+      66.3
+    ],
+    "beats_detected": 66,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.761,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.66,
+    "chroma_profile": [
+      0.891,
+      0.797,
+      1.0,
+      0.785,
+      0.755,
+      0.953,
+      0.679,
+      0.86,
+      0.753,
+      0.787,
+      0.995,
+      0.889
+    ],
+    "rms_dbfs": -5.78,
+    "rms_dbfs_p95_frame": -3.85,
+    "peak_dbfs": 0.17,
+    "loudness_lufs_approx": -5.12,
+    "spectral_centroid_hz_mean": 2858.2,
+    "spectral_centroid_hz_median": 2930.0,
+    "onsets": 128,
+    "onset_density_per_s": 4.277,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 564567170",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2297851695: duration 181s matches no reference length"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1868153,
+  "kind": "synced",
+  "matched": {
+    "track": "Can't Take My Eyes Off You",
+    "artist": "Frankie Valli",
+    "album": "Frankie Valli Solo",
+    "duration_s": 204.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (203s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 178.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 203.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 204.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (203s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 34708392 (Can't Take My Eyes off You / Frankie Valli / Selected Solo Works, 195.0s): duration matches no reference length",
+    "lrclib 34708189 (Can't Take My Eyes Off You / Frankie Valli / The Very Best of Frankie Valli and the Four Seasons, 276.0s): duration matches no reference length",
+    "lrclib 17757835 (Can’t Take My Eyes Off You / Frankie Valli / Can’t Take My Eyes Off You, 226.453062s): duration matches no reference length",
+    "lrclib 12098740 (Can’t Take My Eyes Off You / Frankie Valli / Can’t Take My Eyes Off You, 236.0s): duration matches no reference length",
+    "lrclib 5513125 (Can't Take My Eyes Off You / Frankie Valli / Frankie Valli Solo, 225.0s): duration matches no reference length",
+    "lrclib 37835617 (Can't Take My Eyes Off You / Frankie Valli / Can't Take My Eyes Off You (from the motion picture Conspiracy Theory), 232.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

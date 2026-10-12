@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 15299434,
+  "kind": "synced",
+  "matched": {
+    "track": "Where Did Our Love Go",
+    "artist": "The Supremes",
+    "album": "1964 Where Did Our Love Go",
+    "duration_s": 153.0
+  },
+  "duration_matched_to": "musicbrainz recording length (153s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 153.4,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 153.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 153.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 0.821,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34365947 (Where Did Our Love Go / The Supremes / Where Did Our Love Go, 248.0s): duration matches no reference length",
+    "lrclib 34804820 (Where Did Our Love Go / The Supremes / No. 1’s, 161.0s): duration matches no reference length",
+    "lrclib 35220579 (Where Did Our Love Go / The Supremes / Singing The Supremes, 169.0s): duration matches no reference length",
+    "lrclib 33447355 (Where did our Love go / The Supremes / Top 40 1964, 168.0s): duration matches no reference length",
+    "lrclib 34328067 (Where Did Our Love Go / The Supremes / Where Did Our Love Go, 144.0s): duration matches no reference length",
+    "lrclib 20212461 (Where Did Our Love Go / The Supremes / Where Did Our Love Go, 146.782041s): duration matches no reference length",
+    "lrclib 19549334 (Where Did Our Love Go / The Supremes / Where Did Our Love Go, 213.681633s): duration matches no reference length",
+    "lrclib 22059289 (Where Did Our Love Go / The Supremes / Where Did Our Love Go, 1863.48s): duration matches no reference length",
+    "lrclib 24059574 (Where Did Our Love Go / The Supremes / Where Did Our Love Go, 160.731429s): duration matches no reference length",
+    "lrclib 30393528 (Where Did Our Love Go / The Supremes / Where Did Our Love Go, 167.0s): duration matches no reference length",
+    "lrclib 9748255 (Where Did Our Love Go (live) / The Supremes / Where Did Our Love Go, 213.68163265306123s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

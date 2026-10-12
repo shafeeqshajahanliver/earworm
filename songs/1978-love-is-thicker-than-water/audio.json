@@ -1,0 +1,71 @@
+{
+  "id": "1978-love-is-thicker-than-water",
+  "preview": {
+    "service": "deezer",
+    "track_id": 386158981,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "NLF057790041",
+    "title": "(Love Is) Thicker Than Water",
+    "artist": "Andy Gibb",
+    "album": "Flowing Rivers",
+    "track_duration_s": 255,
+    "link": "https://www.deezer.com/track/386158981",
+    "duration_matched_to": "wikipedia infobox length (256s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.5,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      95.7,
+      198.8,
+      184.6
+    ],
+    "beats_detected": 49,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.758,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.713,
+    "chroma_profile": [
+      0.405,
+      0.881,
+      0.582,
+      0.488,
+      0.857,
+      0.482,
+      1.0,
+      0.371,
+      0.726,
+      0.606,
+      0.34,
+      0.622
+    ],
+    "rms_dbfs": -12.31,
+    "rms_dbfs_p95_frame": -9.02,
+    "peak_dbfs": 0.07,
+    "loudness_lufs_approx": -11.44,
+    "spectral_centroid_hz_mean": 2324.0,
+    "spectral_centroid_hz_median": 2259.8,
+    "onsets": 70,
+    "onset_density_per_s": 2.334,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 386158981",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95.26,
+    "gain": -13.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/386158981",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

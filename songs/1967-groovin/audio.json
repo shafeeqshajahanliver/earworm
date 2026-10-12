@@ -1,0 +1,77 @@
+{
+  "id": "1967-groovin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 81769154,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAT21402943",
+    "title": "Groovin'",
+    "artist": "The Young Rascals",
+    "album": "Groovin' (Mono)",
+    "track_duration_s": 151,
+    "link": "https://www.deezer.com/track/81769154",
+    "duration_matched_to": "wikipedia infobox length (150s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 107.7,
+    "tempo_bpm_grid": 107.7,
+    "tempo_candidates_bpm": [
+      107.7,
+      215.3,
+      53.8
+    ],
+    "beats_detected": 53,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.913,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.713,
+    "chroma_profile": [
+      0.548,
+      0.421,
+      0.63,
+      0.72,
+      0.61,
+      0.835,
+      0.564,
+      0.764,
+      0.458,
+      0.592,
+      1.0,
+      0.425
+    ],
+    "rms_dbfs": -13.94,
+    "rms_dbfs_p95_frame": -9.99,
+    "peak_dbfs": -2.07,
+    "loudness_lufs_approx": -14.1,
+    "spectral_centroid_hz_mean": 1872.1,
+    "spectral_centroid_hz_median": 1712.8,
+    "onsets": 121,
+    "onset_density_per_s": 4.035,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 81769154",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 106.3,
+    "gain": -14.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/81769154",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2827960432: version (Groovin' (Poolside Remix))",
+    "deezer 626166672: version (Groovin' (Italian Version))",
+    "deezer 626166662: version (Groovin' (Spanish Version))",
+    "deezer 16663314: version (Groovin' (Live))",
+    "deezer 1917233267: version (Groovin' (Performed live on The Ed Sullivan Show 6/4/67))"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1970-band-of-gold",
+  "preview": {
+    "service": "deezer",
+    "track_id": 12164291,
+    "matched_by": "isrc",
+    "isrc": "GBBLG7000081",
+    "title": "Band Of Gold",
+    "artist": "Freda Payne",
+    "album": "Deeper And Deeper (The Best Of Freda Payne)",
+    "track_duration_s": 177,
+    "link": "https://www.deezer.com/track/12164291",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 107.6,
+    "tempo_bpm_grid": 107.7,
+    "tempo_candidates_bpm": [
+      107.7,
+      53.8,
+      112.3
+    ],
+    "beats_detected": 54,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.659,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.463,
+    "chroma_profile": [
+      0.643,
+      0.88,
+      1.0,
+      0.701,
+      0.643,
+      0.545,
+      0.717,
+      0.785,
+      0.684,
+      0.699,
+      0.589,
+      0.674
+    ],
+    "rms_dbfs": -19.81,
+    "rms_dbfs_p95_frame": -15.65,
+    "peak_dbfs": -1.38,
+    "loudness_lufs_approx": -17.88,
+    "spectral_centroid_hz_mean": 2627.7,
+    "spectral_centroid_hz_median": 2566.1,
+    "onsets": 81,
+    "onset_density_per_s": 2.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 12164291",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 106.3,
+    "gain": -17.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/12164291",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBAJE7000061: matched but no preview available (readable=False)",
+    "deezer isrc USWWW0200340: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18562662,
+  "kind": "synced",
+  "matched": {
+    "track": "Surfin’ U․S․A․",
+    "artist": "The Beach Boys",
+    "album": "Surfin’ U․S․A․",
+    "duration_s": 148.749188
+  },
+  "duration_matched_to": "musicbrainz recording length (149s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 148.626,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 148.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 149.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 0.808,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36929425 (Surfin' U.S.A. / The Beach Boys / IFD, 140.0s): duration matches no reference length",
+    "lrclib 34724186 (Surfin’ U.S.A. / The Beach Boys / Surfin' USA / Shut Down, 122.0s): duration matches no reference length",
+    "lrclib 35101383 (Surfin' U.S.A. / The Beach Boys / The Beach Boys In Concert (Live), 168.0s): live/remix/other version",
+    "lrclib 36123959 (Surfin’ U.S.A. / The Beach Boys / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 20363807 (Surfin' U.S.A. / The Beach Boys / Surfin' U.S.A., 154.122449s): duration matches no reference length",
+    "lrclib 20745219 (Surfin’ U.S.A. / The Beach Boys / Surfin’ U.S.A., 164.42275s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

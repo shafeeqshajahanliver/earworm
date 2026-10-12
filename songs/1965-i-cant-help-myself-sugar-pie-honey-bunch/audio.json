@@ -1,0 +1,73 @@
+{
+  "id": "1965-i-cant-help-myself-sugar-pie-honey-bunch",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1582310,
+    "matched_by": "isrc",
+    "isrc": "USMO16582593",
+    "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+    "artist": "Four Tops",
+    "album": "20th Century Masters: The Millennium Collection: Best Of The Four Tops",
+    "track_duration_s": 163,
+    "link": "https://www.deezer.com/track/1582310",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.8,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      129.2,
+      63.0,
+      123.0
+    ],
+    "beats_detected": 58,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.735,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.627,
+    "chroma_profile": [
+      0.68,
+      0.462,
+      0.901,
+      0.521,
+      0.732,
+      0.634,
+      0.597,
+      1.0,
+      0.801,
+      0.878,
+      0.484,
+      0.649
+    ],
+    "rms_dbfs": -15.11,
+    "rms_dbfs_p95_frame": -12.53,
+    "peak_dbfs": -2.63,
+    "loudness_lufs_approx": -13.09,
+    "spectral_centroid_hz_mean": 2601.2,
+    "spectral_centroid_hz_median": 2524.3,
+    "onsets": 66,
+    "onset_density_per_s": 2.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1582310",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126.8,
+    "gain": -13.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1582310",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USLIC0601850: matched but no preview available (readable=False)",
+    "deezer isrc USMO16582984: matched but no preview available (readable=False)"
+  ]
+}

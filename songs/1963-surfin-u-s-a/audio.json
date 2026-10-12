@@ -1,0 +1,74 @@
+{
+  "id": "1963-surfin-u-s-a",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3166702,
+    "matched_by": "isrc",
+    "isrc": "USCA28600061",
+    "title": "Surfin U.S.A.",
+    "artist": "The Beach Boys",
+    "album": "Endless Summer",
+    "track_duration_s": 148,
+    "link": "https://www.deezer.com/track/3166702",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 159.7,
+    "tempo_bpm_grid": 159.0,
+    "tempo_candidates_bpm": [
+      161.5,
+      152.0,
+      80.7
+    ],
+    "beats_detected": 80,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.682,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.592,
+    "chroma_profile": [
+      0.843,
+      0.757,
+      0.581,
+      0.685,
+      0.42,
+      0.627,
+      0.548,
+      0.731,
+      0.613,
+      0.601,
+      1.0,
+      0.587
+    ],
+    "rms_dbfs": -14.54,
+    "rms_dbfs_p95_frame": -12.13,
+    "peak_dbfs": -3.8,
+    "loudness_lufs_approx": -14.45,
+    "spectral_centroid_hz_mean": 2295.5,
+    "spectral_centroid_hz_median": 2161.3,
+    "onsets": 147,
+    "onset_density_per_s": 4.902,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3166702",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 159.6,
+    "gain": -14.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3166702",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USCA20100779: matched but no preview available (readable=False)",
+    "deezer isrc USCA29502202: matched but no preview available (readable=False)",
+    "deezer isrc USCA29900662: matched but no preview available (readable=False)"
+  ]
+}

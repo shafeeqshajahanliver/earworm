@@ -1,0 +1,112 @@
+{
+  "id": "1972-the-candy-man",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "The Candy Man",
+  "wikidata": {
+    "qid": "Q7721186",
+    "label": "The Candy Man",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q297816",
+          "label": "Sammy Davis Jr."
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1881437",
+          "label": "MGM Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1972-04-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q1530455",
+          "label": "vocal jazz"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "535765f4-0b6d-43da-855f-4a46c44101f8"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "6b3192dd-bfae-44aa-a4b2-843e2ff85a2a",
+    "title": "The Candy Man",
+    "length_ms": 152000,
+    "first_release_date": "1972",
+    "artist_credit": "Sammy Davis Jr.",
+    "artists": [
+      {
+        "name": "Sammy Davis Jr.",
+        "mbid": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "d5ca8dfa-fcfe-4f26-a5d3-aa04408c7340",
+        "title": "22 Explosive Hits, Volume Two",
+        "date": "1972",
+        "country": "US",
+        "status": "Official",
+        "release_group": "abd28b26-b1cf-4c4d-bfba-735ae4187cbd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "535765f4-0b6d-43da-855f-4a46c44101f8",
+      "title": "The Candy Man",
+      "iswcs": [
+        "T-070.881.010-9",
+        "T-903.897.848-2"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Leslie Bricusse",
+          "mbid": "1ba5e790-ab00-4acc-9083-e3bdc47b2f0b"
+        },
+        {
+          "role": "writer",
+          "name": "Anthony Newley",
+          "mbid": "9a93190b-3e24-4586-bc10-aefd1ad8de01"
+        }
+      ],
+      "urls": [
+        "https://genius.com/Barry-manilow-the-candy-man-lyrics",
+        "https://secondhandsongs.com/work/117455",
+        "https://www.wikidata.org/wiki/Q7721186"
+      ]
+    },
+    "main_artist": {
+      "name": "Sammy Davis Jr.",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Harlem"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

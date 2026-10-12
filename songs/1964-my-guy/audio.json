@@ -1,0 +1,77 @@
+{
+  "id": "1964-my-guy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3995529861,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USBT21630274",
+    "title": "My Guy (Acappella 2026)",
+    "artist": "Mary Wells",
+    "album": "Soul Classics",
+    "track_duration_s": 163,
+    "link": "https://www.deezer.com/track/3995529861",
+    "duration_matched_to": "musicbrainz recording length (167s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 130.1,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      123.0,
+      129.2,
+      117.5
+    ],
+    "beats_detected": 66,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.602,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.417,
+    "chroma_profile": [
+      0.621,
+      0.53,
+      0.691,
+      0.573,
+      0.63,
+      0.857,
+      0.848,
+      1.0,
+      0.77,
+      0.938,
+      0.975,
+      0.624
+    ],
+    "rms_dbfs": -16.19,
+    "rms_dbfs_p95_frame": -11.98,
+    "peak_dbfs": 0.0,
+    "loudness_lufs_approx": -15.62,
+    "spectral_centroid_hz_mean": 2832.7,
+    "spectral_centroid_hz_median": 2713.7,
+    "onsets": 86,
+    "onset_density_per_s": 2.868,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3995529861",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3995529861",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 90063929: duration 199s matches no reference length",
+    "deezer 2234004047: version (My Guy (Re-Recorded - Sped Up))",
+    "deezer 1889661: duration 204s matches no reference length",
+    "deezer 1598982972: version (My Guy (Live))",
+    "deezer 2041599347: version (My Guy (Re-Recorded - 2022 Mix))"
+  ]
+}

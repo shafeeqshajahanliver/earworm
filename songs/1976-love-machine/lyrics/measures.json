@@ -1,0 +1,41 @@
+{
+  "id": "1976-love-machine",
+  "lyrics_kind": "synced",
+  "lrclib_id": 32885417,
+  "lines": 72,
+  "words": 411,
+  "unique_words": 104,
+  "type_token_ratio": 0.253,
+  "repeated_line_share": 0.458,
+  "distinct_lines": 39,
+  "zlib_compression_ratio": 0.259,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "love machine",
+  "title_phrase_occurrences": 16,
+  "pronouns": {
+    "first_singular": 49,
+    "second": 19,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 3.57,
+  "last_line_s": 244.98,
+  "sung_time_s": 224.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 110.0,
+  "words_per_minute_track": 141.1,
+  "longest_gap_between_lines_s": 14.48,
+  "longest_gap_starts_at_s": 205.13,
+  "first_repeated_block": {
+    "first_at_s": 47.82,
+    "recurs_at_s": 74.49,
+    "lines": [
+      "I, I, I'm just a love machine",
+      "And I won't work for nobody but you (ooh yeah)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 32885417",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

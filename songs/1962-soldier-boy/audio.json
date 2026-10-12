@@ -1,0 +1,77 @@
+{
+  "id": "1962-soldier-boy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 108314766,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USACU0500013",
+    "title": "Soldier Boy",
+    "artist": "The Shirelles",
+    "album": "Will You Still Love Me Tomorrow",
+    "track_duration_s": 162,
+    "link": "https://www.deezer.com/track/108314766",
+    "duration_matched_to": "musicbrainz recording length (161s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.2,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      48.8,
+      103.4
+    ],
+    "beats_detected": 48,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.879,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.607,
+    "chroma_profile": [
+      0.531,
+      0.315,
+      0.446,
+      0.509,
+      0.276,
+      0.647,
+      0.32,
+      0.439,
+      0.328,
+      0.535,
+      1.0,
+      0.444
+    ],
+    "rms_dbfs": -18.07,
+    "rms_dbfs_p95_frame": -14.44,
+    "peak_dbfs": -1.73,
+    "loudness_lufs_approx": -16.09,
+    "spectral_centroid_hz_mean": 1707.4,
+    "spectral_centroid_hz_median": 1615.9,
+    "onsets": 99,
+    "onset_density_per_s": 3.301,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 108314766",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -16.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/108314766",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 6061332: version (Soldier Boy (Rerecorded))",
+    "deezer 117380396: version (Soldier Boy (Live))",
+    "deezer 3677451082: version (Soldier Boy (Slowed + Reverb))",
+    "deezer 16663301: version (Soldier Boy (Live))",
+    "deezer 6645128: version (Soldier Boy (Karaoke Version))"
+  ]
+}

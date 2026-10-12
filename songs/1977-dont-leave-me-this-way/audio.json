@@ -1,0 +1,90 @@
+{
+  "id": "1977-dont-leave-me-this-way",
+  "preview": {
+    "service": "deezer",
+    "track_id": 571872042,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM71303881",
+    "title": "Don't Leave Me This Way",
+    "artist": "Thelma Houston",
+    "album": "Any Way You Like It",
+    "track_duration_s": 342,
+    "link": "https://www.deezer.com/track/571872042",
+    "duration_matched_to": "wikipedia infobox length (342s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.4,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      117.5,
+      58.7,
+      234.9
+    ],
+    "beats_detected": 59,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.636,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.61,
+    "chroma_profile": [
+      0.852,
+      0.705,
+      0.727,
+      0.826,
+      0.699,
+      0.938,
+      0.843,
+      0.878,
+      0.956,
+      0.678,
+      1.0,
+      0.724
+    ],
+    "rms_dbfs": -15.63,
+    "rms_dbfs_p95_frame": -11.92,
+    "peak_dbfs": -0.01,
+    "loudness_lufs_approx": -15.92,
+    "spectral_centroid_hz_mean": 1939.8,
+    "spectral_centroid_hz_median": 1792.1,
+    "onsets": 126,
+    "onset_density_per_s": 4.202,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 571872042",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/571872042",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb major and F minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USM017600472: matched but no preview available (readable=False)",
+    "deezer isrc USMO17600547: matched but no preview available (readable=False)",
+    "deezer isrc USTB11700241: matched but no preview available (readable=False)",
+    "deezer 1119822: duration 247s matches no reference length",
+    "deezer 1219189: version (Don't Leave Me This Way)",
+    "deezer 1452747642: version (Don't Leave Me This Way (Relight Orchestra & Joe Vinyle Remix))",
+    "deezer 3638549862: duration 534s matches no reference length",
+    "deezer 1142504002: duration 246s matches no reference length",
+    "deezer 2949529111: duration 302s matches no reference length",
+    "deezer 1119828: version (Don't Leave Me This Way (version Remix))",
+    "deezer 2345255: version (Don’t Leave Me This Way (Studio 54 Mix))",
+    "deezer 3046734711: version (Don't Leave Me This Way (Live))",
+    "deezer 91490368: version (Don't Leave Me This Way (Previously Unreleased Extended Version))",
+    "deezer 3638549842: version (Don't Leave Me This Way (Joe T Vannelli X5 Club Mix))",
+    "deezer 3638549852: duration 393s matches no reference length",
+    "deezer 549290632: version (Don't Leave Me This Way (Karaoke Version))"
+  ]
+}

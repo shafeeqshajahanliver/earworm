@@ -1,0 +1,73 @@
+{
+  "id": "1964-everybody-loves-somebody",
+  "preview": {
+    "service": "deezer",
+    "track_id": 72398167,
+    "matched_by": "isrc",
+    "isrc": "USQX91301936",
+    "title": "Everybody Loves Somebody",
+    "artist": "Dean Martin",
+    "album": "The Reprise Years",
+    "track_duration_s": 161,
+    "link": "https://www.deezer.com/track/72398167",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 80.7,
+    "tempo_bpm_grid": 80.7,
+    "tempo_candidates_bpm": [
+      80.7,
+      40.4,
+      123.0
+    ],
+    "beats_detected": 36,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.741,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.653,
+    "chroma_profile": [
+      0.774,
+      0.719,
+      0.738,
+      0.957,
+      1.0,
+      0.821,
+      0.929,
+      0.909,
+      0.997,
+      0.839,
+      0.862,
+      0.997
+    ],
+    "rms_dbfs": -12.02,
+    "rms_dbfs_p95_frame": -8.18,
+    "peak_dbfs": -0.81,
+    "loudness_lufs_approx": -11.35,
+    "spectral_centroid_hz_mean": 1863.0,
+    "spectral_centroid_hz_median": 1754.1,
+    "onsets": 41,
+    "onset_density_per_s": 1.367,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 72398167",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 80.7,
+    "gain": -10.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/72398167",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USCA29801708: title/artist mismatch: On The Street Where You Live (Remastered 1998) / Dean Martin",
+    "deezer isrc USTD10100144: matched but no preview available (readable=False)"
+  ]
+}

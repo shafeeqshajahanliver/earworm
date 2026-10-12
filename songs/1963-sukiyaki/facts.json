@@ -1,0 +1,114 @@
+{
+  "id": "1963-sukiyaki",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Sukiyaki (song)",
+  "wikidata": {
+    "qid": "Q1770488",
+    "label": "Ue o muite arukō",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q313081",
+          "label": "Kyū Sakamoto"
+        },
+        {
+          "qid": "Q89671336",
+          "label": "Kenny Ball and his Jazzmen"
+        },
+        {
+          "qid": "Q57313542",
+          "label": "G.H. Hat"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q5637043",
+          "label": "Hachidai Nakamura"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q7360115",
+          "label": "Rokusuke Ei"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1961-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q7635864",
+          "label": "Sukiyaki and Other Japanese Hits"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q5287",
+          "label": "Japanese"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "1ed08999-2d57-3c3a-a0cf-8cbe09be6b5a"
+      ],
+      "genius_song_id": [
+        "Kyu-sakamoto-sukiyaki-lyrics"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "2644103a-68a9-406b-be00-6ef675ff5154",
+    "title": "Sukiyaki",
+    "length_ms": 185000,
+    "first_release_date": "1963-05",
+    "artist_credit": "Kyu Sakamoto",
+    "artists": [
+      {
+        "name": "坂本九",
+        "mbid": "ec79fc88-5258-48c5-8a58-c06419911e01"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "2d448702-04b6-4316-8374-696fe8ff466f",
+        "title": "Sukiyaki / Anoko No Namaewa Nantenkana",
+        "date": "1963-05",
+        "country": "US",
+        "status": null,
+        "release_group": "32d8cf3d-3515-462a-b1ca-850fdbd499f9",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "坂本九",
+      "type": "Person",
+      "country": "JP",
+      "area": "Japan",
+      "begin_area": "Kawasaki-ku"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

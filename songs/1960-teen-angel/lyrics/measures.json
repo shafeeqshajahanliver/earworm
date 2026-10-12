@@ -1,0 +1,41 @@
+{
+  "id": "1960-teen-angel",
+  "lyrics_kind": "synced",
+  "lrclib_id": 11676446,
+  "lines": 29,
+  "words": 161,
+  "unique_words": 74,
+  "type_token_ratio": 0.46,
+  "repeated_line_share": 0.31,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.384,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "teen angel",
+  "title_phrase_occurrences": 11,
+  "pronouns": {
+    "first_singular": 13,
+    "second": 21,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.17,
+  "last_line_s": 146.13,
+  "sung_time_s": 153.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 62.8,
+  "words_per_minute_track": 59.9,
+  "longest_gap_between_lines_s": 8.03,
+  "longest_gap_starts_at_s": 5.7,
+  "first_repeated_block": {
+    "first_at_s": 35.75,
+    "recurs_at_s": 77.48,
+    "lines": [
+      "Teen angel, can you hear me?",
+      "Teen angel, can you see me?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 11676446",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

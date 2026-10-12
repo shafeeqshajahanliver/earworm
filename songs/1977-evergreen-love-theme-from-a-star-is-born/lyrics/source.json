@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18421075,
+  "kind": "synced",
+  "matched": {
+    "track": "Evergreen (Love Theme From,  A Star Is Born )",
+    "artist": "Barbra Streisand",
+    "album": "Npo Radio 5 Evergreen Top 1000 [2023]",
+    "duration_s": 184.189388
+  },
+  "duration_matched_to": "musicbrainz recording length (185s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 185.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 185.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 184.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 0.959,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36331644 (Evergreen (Love Theme from \"A Star Is Born\") / Barbra Streisand / The Essential Barbra Streisand, 208.0s): duration matches no reference length",
+    "lrclib 36587568 (Evergreen (love theme from “A Star Is Born”) / Barbra Streisand / One Night Only: Barbra Streisand and Quartet at the Village Vanguard - September 26, 2009, 223.0s): duration matches no reference length",
+    "lrclib 18835059 (Evergreen (love theme from “A Star Is Born”) / Barbra Streisand / Memories, 190.223673s): duration matches no reference length",
+    "lrclib 18845572 (Evergreen (Love Theme from A Star Is Born) / Barbra Streisand / Partners, 194.973333s): duration matches no reference length",
+    "lrclib 18926475 (Evergreen (love theme from “A Star Is Born”) / Barbra Streisand / One Night Only: Barbra Streisand and Quartet at the Village Vanguard, 223.293333s): duration matches no reference length",
+    "lrclib 36929530 (Evergreen / Barbra Streisand / Barbra Streisand, 157.0s): duration matches no reference length",
+    "lrclib 28132166 (Evergreen / Barbra Streisand / Barbra Streisand Hits, 178.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

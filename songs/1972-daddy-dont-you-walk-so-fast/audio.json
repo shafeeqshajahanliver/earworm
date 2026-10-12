@@ -1,0 +1,70 @@
+{
+  "id": "1972-daddy-dont-you-walk-so-fast",
+  "preview": {
+    "service": "deezer",
+    "track_id": 705002542,
+    "matched_by": "isrc",
+    "isrc": "USCA20807014",
+    "title": "Daddy Don't You Walk So Fast",
+    "artist": "Wayne Newton",
+    "album": "The Best Of Wayne Newton",
+    "track_duration_s": 206,
+    "link": "https://www.deezer.com/track/705002542",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 145.7,
+    "tempo_bpm_grid": 147.7,
+    "tempo_candidates_bpm": [
+      143.6,
+      152.0,
+      73.8
+    ],
+    "beats_detected": 73,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.912,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.585,
+    "chroma_profile": [
+      0.714,
+      0.471,
+      0.553,
+      0.326,
+      0.421,
+      1.0,
+      0.49,
+      0.697,
+      0.465,
+      0.632,
+      0.577,
+      0.461
+    ],
+    "rms_dbfs": -18.7,
+    "rms_dbfs_p95_frame": -13.9,
+    "peak_dbfs": -3.66,
+    "loudness_lufs_approx": -17.28,
+    "spectral_centroid_hz_mean": 1961.4,
+    "spectral_centroid_hz_median": 2017.9,
+    "onsets": 82,
+    "onset_density_per_s": 2.734,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 705002542",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -17.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/705002542",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

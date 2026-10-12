@@ -1,0 +1,75 @@
+{
+  "id": "1965-crying-in-the-chapel",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7675109,
+    "matched_by": "isrc",
+    "isrc": "USRC10200346",
+    "title": "Crying In the Chapel",
+    "artist": "Elvis Presley",
+    "album": "Elvis 30 #1 Hits",
+    "track_duration_s": 143,
+    "link": "https://www.deezer.com/track/7675109",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 208.8,
+    "tempo_bpm_grid": 202.7,
+    "tempo_candidates_bpm": [
+      215.3,
+      198.8,
+      234.9
+    ],
+    "beats_detected": 104,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.758,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.749,
+    "chroma_profile": [
+      0.413,
+      0.58,
+      0.341,
+      0.462,
+      0.63,
+      0.379,
+      0.458,
+      0.421,
+      0.683,
+      0.333,
+      0.616,
+      1.0
+    ],
+    "rms_dbfs": -12.34,
+    "rms_dbfs_p95_frame": -8.79,
+    "peak_dbfs": -0.31,
+    "loudness_lufs_approx": -12.37,
+    "spectral_centroid_hz_mean": 1435.7,
+    "spectral_centroid_hz_median": 1263.7,
+    "onsets": 50,
+    "onset_density_per_s": 1.667,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7675109",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -13.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7675109",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading",
+    "key is close between Ab minor and B major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USA820800028: matched but no preview available (readable=False)"
+  ]
+}

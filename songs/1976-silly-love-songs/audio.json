@@ -1,0 +1,73 @@
+{
+  "id": "1976-silly-love-songs",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1763148827,
+    "matched_by": "isrc",
+    "isrc": "GBCCS0100900",
+    "title": "Silly Love Songs",
+    "artist": "Wings",
+    "album": "Wingspan",
+    "track_duration_s": 353,
+    "link": "https://www.deezer.com/track/1763148827",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.5,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      83.4,
+      63.0
+    ],
+    "beats_detected": 61,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.801,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.684,
+    "chroma_profile": [
+      0.779,
+      0.578,
+      0.755,
+      0.522,
+      0.709,
+      0.737,
+      0.746,
+      1.0,
+      0.651,
+      0.798,
+      0.64,
+      0.738
+    ],
+    "rms_dbfs": -15.11,
+    "rms_dbfs_p95_frame": -10.4,
+    "peak_dbfs": -0.95,
+    "loudness_lufs_approx": -14.85,
+    "spectral_centroid_hz_mean": 1990.3,
+    "spectral_centroid_hz_median": 1823.2,
+    "onsets": 114,
+    "onset_density_per_s": 3.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1763148827",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.53,
+    "gain": -15,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1763148827",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBCCS1400019: title/artist mismatch: Silly Love Songs (2014 Remaster) / Paul McCartney",
+    "deezer isrc GBCCS1400138: title/artist mismatch: Silly Love Songs / Paul McCartney"
+  ]
+}

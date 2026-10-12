@@ -1,0 +1,71 @@
+{
+  "id": "1964-well-sing-in-the-sunshine",
+  "preview": {
+    "service": "deezer",
+    "track_id": 88677663,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USRC11401583",
+    "title": "We'll Sing in the Sunshine",
+    "artist": "Gale Garnett",
+    "album": "My Kind of Folk Songs",
+    "track_duration_s": 175,
+    "link": "https://www.deezer.com/track/88677663",
+    "duration_matched_to": "musicbrainz recording length (174s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.8,
+    "tempo_bpm_grid": 106.6,
+    "tempo_candidates_bpm": [
+      107.7,
+      112.3,
+      52.7
+    ],
+    "beats_detected": 53,
+    "key": "F# major",
+    "key_tonic": "F#",
+    "key_mode": "major",
+    "key_correlation": 0.809,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.725,
+    "chroma_profile": [
+      0.627,
+      0.829,
+      0.436,
+      0.562,
+      0.493,
+      0.451,
+      0.885,
+      0.527,
+      0.681,
+      0.411,
+      0.776,
+      1.0
+    ],
+    "rms_dbfs": -12.17,
+    "rms_dbfs_p95_frame": -9.1,
+    "peak_dbfs": -0.51,
+    "loudness_lufs_approx": -11.55,
+    "spectral_centroid_hz_mean": 2058.7,
+    "spectral_centroid_hz_median": 2014.6,
+    "onsets": 27,
+    "onset_density_per_s": 0.9,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 88677663",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 106.8,
+    "gain": -11.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/88677663",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

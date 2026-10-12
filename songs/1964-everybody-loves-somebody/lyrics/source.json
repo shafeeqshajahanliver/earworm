@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 134398,
+  "kind": "synced",
+  "matched": {
+    "track": "Everybody Loves Somebody",
+    "artist": "Dean Martin",
+    "album": "Everybody Loves Somebody",
+    "duration_s": 165.0
+  },
+  "duration_matched_to": "musicbrainz recording length (165s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 165.04,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 161.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 168.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37270929 (Everybody Loves Somebody / Dean Martin / Live From The Sands, 201.0s): live/remix/other version",
+    "lrclib 34555453 (Everybody Loves Somebody / Dean Martin / The Best of Dean Martin, 122.0s): duration matches no reference length",
+    "lrclib 34635254 (Everybody Loves Somebody / Dean Martin / Crooner's Valentine's, 148.0s): duration matches no reference length",
+    "lrclib 24398093 (Everybody Loves Somebody / Dean Martin / Dream With Dean + Everybody Loves Somebody, 191.164082s): duration matches no reference length",
+    "lrclib 28698566 (Everybody Loves Somebody / Dean Martin / Dream with Dean/Everybody Loves Somebody, 153.0s): duration matches no reference length",
+    "lrclib 28687763 (Everybody Loves Somebody / Dean Martin / Dream with Dean/Everybody Loves Somebody, 134.0s): duration matches no reference length",
+    "lrclib 36074231 (Everybody Loves Somebody / Dean Martin / Everybody Loves Somebody, 178.0s): duration matches no reference length",
+    "lrclib 20246385 (Everybody Loves Somebody / Dean Martin / Everybody Loves Somebody, 123.32s): duration matches no reference length",
+    "lrclib 20010527 (Everybody Loves Somebody / Dean Martin / Everybody Loves Somebody, 147.16s): duration matches no reference length",
+    "lrclib 38864110 (Everybody Loves Somebody / Dean Martin / Everybody Loves Somebody, 237.0s): duration matches no reference length",
+    "lrclib 27035612 (Everybody Loves Somebody / Dean Martin / Dean Martin, 214.113313s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

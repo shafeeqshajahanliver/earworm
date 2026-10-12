@@ -1,0 +1,70 @@
+{
+  "id": "1965-youve-lost-that-lovin-feelin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2300923,
+    "matched_by": "isrc",
+    "isrc": "USPG19090022",
+    "title": "You've Lost That Lovin' Feelin' (Single Version)",
+    "artist": "The Righteous Brothers",
+    "album": "Gold",
+    "track_duration_s": 219,
+    "link": "https://www.deezer.com/track/2300923",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 92.1,
+    "tempo_bpm_grid": 93.1,
+    "tempo_candidates_bpm": [
+      92.3,
+      99.4,
+      184.6
+    ],
+    "beats_detected": 45,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.768,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.638,
+    "chroma_profile": [
+      0.558,
+      1.0,
+      0.434,
+      0.421,
+      0.409,
+      0.496,
+      0.604,
+      0.412,
+      0.702,
+      0.475,
+      0.496,
+      0.664
+    ],
+    "rms_dbfs": -15.54,
+    "rms_dbfs_p95_frame": -11.42,
+    "peak_dbfs": -1.0,
+    "loudness_lufs_approx": -14.02,
+    "spectral_centroid_hz_mean": 2307.2,
+    "spectral_centroid_hz_median": 2140.4,
+    "onsets": 17,
+    "onset_density_per_s": 0.567,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2300923",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2300923",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

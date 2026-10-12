@@ -1,0 +1,73 @@
+{
+  "id": "1964-last-kiss",
+  "preview": {
+    "service": "deezer",
+    "track_id": 109264838,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USDEI1572264",
+    "title": "Last Kiss",
+    "artist": "J. Frank Wilson & The Cavaliers",
+    "album": "Last Kiss",
+    "track_duration_s": 148,
+    "link": "https://www.deezer.com/track/109264838",
+    "duration_matched_to": "musicbrainz recording length (148s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 135.5,
+    "tempo_bpm_grid": 136.0,
+    "tempo_candidates_bpm": [
+      136.0,
+      92.3,
+      68.0
+    ],
+    "beats_detected": 68,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.507,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.487,
+    "chroma_profile": [
+      0.804,
+      0.961,
+      0.777,
+      0.969,
+      1.0,
+      0.552,
+      0.658,
+      0.447,
+      0.555,
+      0.555,
+      0.574,
+      0.916
+    ],
+    "rms_dbfs": -11.53,
+    "rms_dbfs_p95_frame": -6.67,
+    "peak_dbfs": 0.43,
+    "loudness_lufs_approx": -10.59,
+    "spectral_centroid_hz_mean": 2519.9,
+    "spectral_centroid_hz_median": 2434.8,
+    "onsets": 113,
+    "onset_density_per_s": 3.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 109264838",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 135.1,
+    "gain": -12.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/109264838",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C# minor and B major"
+  ],
+  "rejected_candidates": []
+}

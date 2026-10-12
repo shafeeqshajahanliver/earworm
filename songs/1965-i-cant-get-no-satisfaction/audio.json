@@ -1,0 +1,89 @@
+{
+  "id": "1965-i-cant-get-no-satisfaction",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7677778,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USA176510160",
+    "title": "(I Can't Get No) Satisfaction (Mono)",
+    "artist": "The Rolling Stones",
+    "album": "Singles 1965-1967",
+    "track_duration_s": 224,
+    "link": "https://www.deezer.com/track/7677778",
+    "duration_matched_to": "wikipedia infobox length (225s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 136.5,
+    "tempo_bpm_grid": 136.0,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      45.3
+    ],
+    "beats_detected": 68,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.653,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.641,
+    "chroma_profile": [
+      0.483,
+      0.558,
+      0.58,
+      0.652,
+      1.0,
+      0.61,
+      0.631,
+      0.515,
+      0.515,
+      0.713,
+      0.43,
+      0.527
+    ],
+    "rms_dbfs": -11.98,
+    "rms_dbfs_p95_frame": -8.7,
+    "peak_dbfs": -0.52,
+    "loudness_lufs_approx": -12.23,
+    "spectral_centroid_hz_mean": 2385.1,
+    "spectral_centroid_hz_median": 2345.5,
+    "onsets": 87,
+    "onset_density_per_s": 2.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7677778",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 136.4,
+    "gain": -12.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7677778",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between A major and E major"
+  ],
+  "rejected_candidates": [
+    "deezer 1776800407: version (Satisfaction (Live))",
+    "deezer 9938395: version ((I Can't Get No) Satisfaction (Mono))",
+    "deezer 4619095: version ((I Can't Get No) Satisfaction (Live / Remastered 2009))",
+    "deezer 135876804: version ((I Can't Get No) Satisfaction (Live))",
+    "deezer 4619120: version ((I Can't Get No) Satisfaction (Live Licks Tour / Remastered 2009))",
+    "deezer 4619149: version ((I Can't Get No) Satisfaction (Live / Remastered 2009))",
+    "deezer 4706738: version ((I Can't Get No) Satisfaction (Live From Madison Square Garden, New York/1969))",
+    "deezer 696963732: version ((I Can't Get No) Satisfaction (Live))",
+    "deezer 9956050: version ((I Can't Get No) Satisfaction (Live))",
+    "deezer 2135214407: version ((I Can't Get No) Satisfaction (Live))",
+    "deezer 781045442: version ((I Can't Get No) Satisfaction (Live))",
+    "deezer 1522728232: version ((I Can't Get No) Satisfaction (Live at Wembley Stadium 1982))",
+    "deezer 100914914: version ((I Can't Get No) Satisfaction (Live At University Of Leeds / 1971))",
+    "deezer 1084219262: version ((I Can't Get No) Satisfaction (Live))",
+    "deezer 1421659502: version ((I Can't Get No) Satisfaction (Live))"
+  ]
+}

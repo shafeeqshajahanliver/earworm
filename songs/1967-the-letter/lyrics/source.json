@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13204487,
+  "kind": "synced",
+  "matched": {
+    "track": "The Letter [Single version]",
+    "artist": "The Box Tops",
+    "album": "The Letter/Neon Rainbow",
+    "duration_s": 118.9387
+  },
+  "duration_matched_to": "musicbrainz recording length (118s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 118.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 119.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 115.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 0.862,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37151669 (The Letter / The Box Tops / The Letter / Neon Rainbow, 106.0s): duration matches no reference length",
+    "lrclib 34815348 (The Letter / The Box Tops / Singles, 99.0s): duration matches no reference length",
+    "lrclib 34815343 (The Letter / The Box Tops / Singles, 97.0s): duration matches no reference length",
+    "lrclib 34815346 (The Letter / The Box Tops / Singles, 98.0s): duration matches no reference length",
+    "lrclib 34815356 (The Letter / The Box Tops / Singles, 101.0s): duration matches no reference length",
+    "lrclib 34815349 (The Letter / The Box Tops / Singles, 94.0s): duration matches no reference length",
+    "lrclib 23904382 (The Letter / The Box Tops / The Ultimate Box Tops, 108.024312s): duration matches no reference length",
+    "lrclib 1555684 (The Letter / The Box Tops / The Letter, 166.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 12399261,
+  "kind": "synced",
+  "matched": {
+    "track": "Don't Go Breaking My Heart (feat. Kiki Dee)",
+    "artist": "Elton John",
+    "album": "Don't Go Breaking My Heart (feat. Kiki Dee)",
+    "duration_s": 266.0
+  },
+  "duration_matched_to": "musicbrainz recording length (266s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 266.146,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 265.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 271.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37200080 (Don't Go Breaking My Heart / Elton John & Kiki Dee / 25 Jaar Top 40 Hits - Deel 3 - 1973-1976, 235.0s): duration matches no reference length",
+    "lrclib 34749348 (Don't Go Breaking My Heart / Elton John & Kiki Dee / Singles, 235.0s): duration matches no reference length",
+    "lrclib 4391895 (Don’t Go Breaking My Heart / Elton John & Kiki Dee / Don’t Go Breaking My Heart, 256.0s): duration matches no reference length",
+    "lrclib 33731314 (Don’t Go Breaking My Heart / Elton John feat. Kiki Dee / Don't Go Breaking My Heart, 253.0s): duration matches no reference length",
+    "lrclib 20878178 (Don't Go Breaking My Heart / Elton John And Kiki Dee / Don't Go Breaking My Heart, 277.051562s): duration matches no reference length",
+    "lrclib 21758247 (Don't Go Breaking My Heart / Elton John ft. Kiki Dee / Don't Go Breaking My Heart (Single), 258.638367s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1962-i-cant-stop-loving-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 26044356,
+  "lines": 40,
+  "words": 210,
+  "unique_words": 59,
+  "type_token_ratio": 0.281,
+  "repeated_line_share": 0.425,
+  "distinct_lines": 23,
+  "zlib_compression_ratio": 0.263,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i can't stop loving you",
+  "title_phrase_occurrences": 2,
+  "pronouns": {
+    "first_singular": 21,
+    "second": 5,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.94,
+  "last_line_s": 239.98,
+  "sung_time_s": 201.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 62.5,
+  "words_per_minute_track": 80.0,
+  "longest_gap_between_lines_s": 13.74,
+  "longest_gap_starts_at_s": 56.51,
+  "first_repeated_block": {
+    "first_at_s": 7.94,
+    "recurs_at_s": 101.86,
+    "lines": [
+      "I've made up my mind",
+      "To live in memories of the lonesome times"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 26044356",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

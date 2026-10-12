@@ -1,0 +1,76 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/1388",
+    "title": "My Boyfriend's Back",
+    "performer": "The Angels arranged and conducted by Leroy Glover",
+    "is_original": true,
+    "first_release_date": "1963-07",
+    "releases": [
+      {
+        "title": "My Boyfriend's Back",
+        "uri": "https://api.secondhandsongs.com/release/35444",
+        "performer": "The Angels [US1]"
+      },
+      {
+        "title": "My Boyfriend's Back",
+        "uri": "https://api.secondhandsongs.com/release/123175",
+        "performer": "The Angels arranged and conducted by Leroy Glover"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 39,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/1388",
+    "title": "My Boyfriend's Back",
+    "language": "English",
+    "writers": [
+      "Bob Feldman",
+      "Jerry Goldstein",
+      "Richard Gottehrer"
+    ],
+    "original_performer": "The Angels arranged and conducted by Leroy Glover",
+    "versions": 40,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Ma petite amie est de retour",
+        "uri": "https://api.secondhandsongs.com/work/70634"
+      },
+      {
+        "title": "My Boyfriend's Back",
+        "uri": "https://api.secondhandsongs.com/work/141891"
+      },
+      {
+        "title": "Your Boyfriend's Back",
+        "uri": "https://api.secondhandsongs.com/work/206882"
+      },
+      {
+        "title": "Mi amor volvió",
+        "uri": "https://api.secondhandsongs.com/work/278683"
+      },
+      {
+        "title": "Mi novio volvió",
+        "uri": "https://api.secondhandsongs.com/work/299420"
+      },
+      {
+        "title": "Mi novio Juan",
+        "uri": "https://api.secondhandsongs.com/work/308856"
+      }
+    ]
+  }
+}

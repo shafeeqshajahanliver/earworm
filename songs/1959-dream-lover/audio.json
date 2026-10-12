@@ -1,0 +1,75 @@
+{
+  "id": "1959-dream-lover",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3613861,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USEW10000024",
+    "title": "Dream Lover",
+    "artist": "Bobby Darin",
+    "album": "Sing & Swing with Bobby Darin",
+    "track_duration_s": 150,
+    "link": "https://www.deezer.com/track/3613861",
+    "duration_matched_to": "musicbrainz recording length (151s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 132.4,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      66.3,
+      89.1,
+      136.0
+    ],
+    "beats_detected": 66,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.93,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.64,
+    "chroma_profile": [
+      1.0,
+      0.681,
+      0.633,
+      0.569,
+      0.825,
+      0.72,
+      0.635,
+      0.837,
+      0.53,
+      0.737,
+      0.617,
+      0.625
+    ],
+    "rms_dbfs": -8.67,
+    "rms_dbfs_p95_frame": -5.58,
+    "peak_dbfs": 1.01,
+    "loudness_lufs_approx": -7.77,
+    "spectral_centroid_hz_mean": 2914.9,
+    "spectral_centroid_hz_median": 2837.4,
+    "onsets": 117,
+    "onset_density_per_s": 3.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3613861",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 132.5,
+    "gain": -7.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3613861",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 192844981: version (Dream Lover (Live at the Copa))",
+    "deezer 8101994: version (Dream Lover (Live))",
+    "deezer 1439505112: version (Dream Lover (Demo))"
+  ]
+}

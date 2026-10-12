@@ -1,0 +1,36 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3157586,
+  "kind": "synced",
+  "matched": {
+    "track": "Everyday People",
+    "artist": "Sly and The Family Stone",
+    "album": "Stand!",
+    "duration_s": 142.0
+  },
+  "duration_matched_to": "musicbrainz recording length (142s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 142.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 142.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 47,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37442260 (Everyday People / Sly & The Family Stone / The Woodstock Experience (Disc 1) Live At Woodstock, 196.0s): live/remix/other version",
+    "lrclib 34786297 (Everyday People / Sly & the Family Stone / The Complete Woodstock, 196.0s): duration matches no reference length",
+    "lrclib 33595672 (Everyday People / Sly & the Family Stone / Summer of Soul (... Or, When the Revolution Could Not Be Televised) [original Motion Picture Soundtrack], 152.0s): duration matches no reference length",
+    "lrclib 37814748 (Everyday People / Sly and the Family Stone / Sly and the Family Stone Greatest Hits, 148.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

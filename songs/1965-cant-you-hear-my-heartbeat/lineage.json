@@ -1,0 +1,66 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/3149",
+    "title": "Can't You Hear My Heartbeat",
+    "performer": "Herman's Hermits",
+    "is_original": true,
+    "first_release_date": "1965-01-11",
+    "releases": [
+      {
+        "title": "Silhouettes",
+        "uri": "https://api.secondhandsongs.com/release/37434",
+        "performer": "Herman's Hermits"
+      },
+      {
+        "title": "Can't You Hear My Heartbeat",
+        "uri": "https://api.secondhandsongs.com/release/135905",
+        "performer": "Herman's Hermits"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 14,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/78600",
+    "title": "Can't You Hear My Heartbeat",
+    "language": "English",
+    "writers": [
+      "Ken Lewis",
+      "John Carter [GB]"
+    ],
+    "original_performer": "Herman's Hermits",
+    "versions": 15,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Je ne veux pas qu'il me quitte",
+        "uri": "https://api.secondhandsongs.com/work/152653"
+      },
+      {
+        "title": "Meu Coração Bate",
+        "uri": "https://api.secondhandsongs.com/work/156836"
+      },
+      {
+        "title": "Mi corazon late",
+        "uri": "https://api.secondhandsongs.com/work/162252"
+      },
+      {
+        "title": "Como el corazón me late",
+        "uri": "https://api.secondhandsongs.com/work/219970"
+      },
+      {
+        "title": "Dándote a desear",
+        "uri": "https://api.secondhandsongs.com/work/221750"
+      },
+      {
+        "title": "Voy a engarrotarte",
+        "uri": "https://api.secondhandsongs.com/work/364279"
+      }
+    ]
+  }
+}

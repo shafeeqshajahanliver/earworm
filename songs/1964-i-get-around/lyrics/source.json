@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1048881,
+  "kind": "synced",
+  "matched": {
+    "track": "I Get Around",
+    "artist": "The Beach Boys",
+    "album": "All Summer Long",
+    "duration_s": 132.0
+  },
+  "duration_matched_to": "musicbrainz recording length (132s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 132.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 132.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 132.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36987367 (I Get Around / The Beach Boys / Best Of The Beach Boys, Vol. 2, 123.0s): duration matches no reference length",
+    "lrclib 37489727 (I Get Around / The Beach Boys / The Live Box (1965 - 1968) [Disc 2], 148.0s): live/remix/other version",
+    "lrclib 35275721 (I Get Around / The Beach Boys / Discography 1962-2018 (FLAC) 88 (1964) Beach Boys Concert + (1970) Live In London (CDP 7 93695 2) - 12 - I Get Around, 162.0s): live/remix/other version",
+    "lrclib 36270579 (I Get Around / The Beach Boys / I Get Around, 121.0s): duration matches no reference length",
+    "lrclib 32506214 (I Get Around / The Beach Boys / I Get Around, 1458.0s): duration matches no reference length",
+    "lrclib 32638310 (I Get Around (Instrumental) (Stereo) / The Beach Boys / I Get Around, 140.0s): live/remix/other version",
+    "lrclib 18789714 (I Get Around / The Beach Boys / Beach Boys Concert, 162.3510144s): duration matches no reference length",
+    "lrclib 26859168 (I Get Around / The Beach Boys / Beach Boys Concert, 157.715906s): duration matches no reference length",
+    "lrclib 20703971 (I Get Around / The Beach Boys / Don't Worry Baby / I Get Around, 169.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

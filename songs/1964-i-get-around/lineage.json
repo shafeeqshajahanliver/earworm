@@ -1,0 +1,70 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/23640",
+    "title": "I Get Around",
+    "performer": "The Beach Boys",
+    "is_original": true,
+    "first_release_date": "1964-05-11",
+    "releases": [
+      {
+        "title": "All Summer Long",
+        "uri": "https://api.secondhandsongs.com/release/9490",
+        "performer": "The Beach Boys"
+      },
+      {
+        "title": "I Get Around",
+        "uri": "https://api.secondhandsongs.com/release/81065",
+        "performer": "The Beach Boys"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 85,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/23640",
+    "title": "I Get Around",
+    "language": "English",
+    "writers": [
+      "Mike Love [US1]",
+      "Brian Wilson"
+    ],
+    "original_performer": "The Beach Boys",
+    "versions": 86,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kaffeebraun",
+        "uri": "https://api.secondhandsongs.com/work/188924"
+      },
+      {
+        "title": "Bye-Bye Cherry",
+        "uri": "https://api.secondhandsongs.com/work/93595"
+      },
+      {
+        "title": "Prima di cominciare",
+        "uri": "https://api.secondhandsongs.com/work/116881"
+      },
+      {
+        "title": "Kuljeksija",
+        "uri": "https://api.secondhandsongs.com/work/173532"
+      },
+      {
+        "title": "Dra meg igang",
+        "uri": "https://api.secondhandsongs.com/work/207804"
+      },
+      {
+        "title": "Elle aime tout sauf moi",
+        "uri": "https://api.secondhandsongs.com/work/211428"
+      },
+      {
+        "title": "Sagnet om regnormen Kurt og Arken i Parken",
+        "uri": "https://api.secondhandsongs.com/work/323370"
+      }
+    ]
+  }
+}

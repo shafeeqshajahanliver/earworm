@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35902793,
+  "kind": "synced",
+  "matched": {
+    "track": "Dancing Machine",
+    "artist": "The Jackson 5",
+    "album": "Michael Jackson with The Jackson 5",
+    "duration_s": 153.0
+  },
+  "duration_matched_to": "musicbrainz recording length (149s)",
+  "duration_diff_s": 4.1,
+  "reference_lengths": [
+    {
+      "seconds": 148.866,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 149.6,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 163.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 210.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34563862 (Dancing Machine / The Jackson 5 / Remember One Day (Live 1975), 401.0s): live/remix/other version",
+    "lrclib 34638138 (Dancing Machine / The Jackson 5 / Anthology, 197.0s): duration matches no reference length",
+    "lrclib 33684708 (Dancing Machine / The Jackson 5 / Star Trackin’ ’76, 129.0s): duration matches no reference length",
+    "lrclib 33650366 (Dancing Machine / The Jackson 5 / I Want You Back! Unreleased Masters, 266.0s): duration matches no reference length",
+    "lrclib 36406589 (Dancing Machine / The Jackson 5 / The Ultimate Collection, 826.0s): duration matches no reference length",
+    "lrclib 36349447 (Dancing Machine / The Jackson 5 / The Complete Motown #1s Box, 157.0s): duration matches no reference length",
+    "lrclib 33896043 (Dancing Machine / The Jackson 5 / Michael Jackson: The Complete Remix Suite, 325.0s): live/remix/other version",
+    "lrclib 33970090 (Dancing Machine / The Jackson 5 / The Jacksons: An American Dream, 157.0s): duration matches no reference length",
+    "lrclib 19303851 (Dancing Machine / The Jackson 5 / Dancing Machine, 157.506667s): duration matches no reference length",
+    "lrclib 26823242 (Dancing Machine / The Jackson 5 / Dancing Machine, 198.911375s): duration matches no reference length",
+    "lrclib 37877392 (Dancing Machine / The Jackson 5 / Dancing Machine, 196.0s): duration matches no reference length",
+    "lrclib 22888656 (Dancing Machine / The Jackson 5 / Michael Jackson and the Jackson 5, 198.922449s): duration matches no reference length",
+    "lrclib 23248457 (Dancing Machine / The Jackson 5 / Michael Jackson with The Jackson 5, 157.239s): duration matches no reference length",
+    "lrclib 37826023 (Dancing Machine / The Jackson 5 / Michael Jackson with The Jackson 5, 199.0s): duration matches no reference length",
+    "lrclib 18892618 (Dancing Machine / Jackson 5 / Michael Jackson and the Jackson 5, 198.922449s): duration matches no reference length",
+    "lrclib 37628745 (Dancing Machine / The Jackson 5 / Dancing Machine / Moving Violation, 199.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

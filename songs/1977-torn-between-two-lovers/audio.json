@@ -1,0 +1,73 @@
+{
+  "id": "1977-torn-between-two-lovers",
+  "preview": {
+    "service": "deezer",
+    "track_id": 603914,
+    "matched_by": "isrc",
+    "isrc": "USAR17600005",
+    "title": "Torn Between Two Lovers",
+    "artist": "Mary MacGregor",
+    "album": "Cuentame Como Paso - La Generacion De Los 70",
+    "track_duration_s": 224,
+    "link": "https://www.deezer.com/track/603914",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 131.7,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      66.3,
+      129.2,
+      136.0
+    ],
+    "beats_detected": 66,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.885,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.694,
+    "chroma_profile": [
+      0.942,
+      0.436,
+      0.642,
+      0.626,
+      0.504,
+      1.0,
+      0.432,
+      0.769,
+      0.355,
+      0.602,
+      0.652,
+      0.402
+    ],
+    "rms_dbfs": -11.24,
+    "rms_dbfs_p95_frame": -7.52,
+    "peak_dbfs": 0.88,
+    "loudness_lufs_approx": -11.58,
+    "spectral_centroid_hz_mean": 2146.3,
+    "spectral_centroid_hz_median": 2032.1,
+    "onsets": 103,
+    "onset_density_per_s": 3.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 603914",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 132.1,
+    "gain": -11,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/603914",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc TCABU1444070: matched but no preview available (readable=False)",
+    "deezer isrc USAR17600170: matched but no preview available (readable=False)"
+  ]
+}

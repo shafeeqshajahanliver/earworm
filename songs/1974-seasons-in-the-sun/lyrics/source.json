@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 17928573,
+  "kind": "synced",
+  "matched": {
+    "track": "Seasons in the Sun",
+    "artist": "Terry Jacks",
+    "album": "Seasons in the Sun",
+    "duration_s": 206.3853312
+  },
+  "duration_matched_to": "musicbrainz recording length (207s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 207.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 206.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 204.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 0.975,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37122122 (Seasons In The Sun / Terry Jacks / 70s Songs [CD1], 156.0s): duration matches no reference length",
+    "lrclib 37025496 (Seasons in the Sun / Terry Jacks / Knuffelrock 1, 190.0s): duration matches no reference length",
+    "lrclib 37291554 (Seasons In The Sun / Terry Jacks / Eternal Voice, 195.0s): duration matches no reference length",
+    "lrclib 36617126 (Seasons In The Sun / Terry Jacks / Terry Jacks, 214.0s): duration matches no reference length",
+    "lrclib 22510142 (Seasons In The Sun / Terry Jacks / Seasons In The Sun, 189.595429s): duration matches no reference length",
+    "lrclib 24897742 (Seasons in the Sun / Terry Jacks / Seasons in the Sun, 194.747s): duration matches no reference length",
+    "lrclib 9844704 (Seasons in the Sun / Terry Jacks / Seasons in the Sun, 213.0s): duration matches no reference length",
+    "lrclib 31859745 (Seasons In The Sun / Terry Jacks / Seasons In The Sun, 224.0s): duration matches no reference length",
+    "lrclib 34796925 (Seasons in the Sun / Terry Jacks / Seasons In The Sun (Expanded Edition), 184.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

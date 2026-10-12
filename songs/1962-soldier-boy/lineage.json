@@ -1,0 +1,58 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/9569",
+    "title": "Soldier Boy",
+    "performer": "The Shirelles",
+    "is_original": true,
+    "first_release_date": "1962-03",
+    "releases": [
+      {
+        "title": "Baby It's You",
+        "uri": "https://api.secondhandsongs.com/release/1757",
+        "performer": "The Shirelles"
+      },
+      {
+        "title": "Soldier Boy",
+        "uri": "https://api.secondhandsongs.com/release/126635",
+        "performer": "The Shirelles"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 13,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/9569",
+    "title": "Soldier Boy",
+    "language": "English",
+    "writers": [
+      "Luther Dixon",
+      "Florence Greenberg"
+    ],
+    "original_performer": "The Shirelles",
+    "versions": 14,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Hurry Home to Me (Soldier Boy)",
+        "uri": "https://api.secondhandsongs.com/work/171560"
+      },
+      {
+        "title": "Soldier Boy",
+        "uri": "https://api.secondhandsongs.com/work/172091"
+      },
+      {
+        "title": "Sailor Boy",
+        "uri": "https://api.secondhandsongs.com/work/237471"
+      },
+      {
+        "title": "Yo te esperaré",
+        "uri": "https://api.secondhandsongs.com/work/299469"
+      }
+    ]
+  }
+}

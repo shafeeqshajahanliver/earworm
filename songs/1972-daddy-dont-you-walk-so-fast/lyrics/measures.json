@@ -1,0 +1,41 @@
+{
+  "id": "1972-daddy-dont-you-walk-so-fast",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37021493,
+  "lines": 32,
+  "words": 228,
+  "unique_words": 88,
+  "type_token_ratio": 0.386,
+  "repeated_line_share": 0.344,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.353,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "daddy don't you walk so fast",
+  "title_phrase_occurrences": 10,
+  "pronouns": {
+    "first_singular": 20,
+    "second": 14,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 16.21,
+  "last_line_s": 182.23,
+  "sung_time_s": 154.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 88.4,
+  "words_per_minute_track": 66.5,
+  "longest_gap_between_lines_s": 16.21,
+  "longest_gap_starts_at_s": 60.42,
+  "first_repeated_block": {
+    "first_at_s": 47.8,
+    "recurs_at_s": 108.23,
+    "lines": [
+      "Daddy, don't you walk so fast",
+      "Daddy, slow down some 'cause you're makin' me run"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37021493",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

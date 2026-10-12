@@ -1,0 +1,72 @@
+{
+  "id": "1975-some-kind-of-wonderful",
+  "preview": {
+    "service": "deezer",
+    "track_id": 41589991,
+    "matched_by": "isrc",
+    "isrc": "USCA28600265",
+    "title": "Some Kind Of Wonderful",
+    "artist": "Grand Funk Railroad",
+    "album": "Classic Rock",
+    "track_duration_s": 196,
+    "link": "https://www.deezer.com/track/41589991",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 121.7,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      61.5,
+      117.5
+    ],
+    "beats_detected": 58,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.719,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.454,
+    "chroma_profile": [
+      0.68,
+      0.776,
+      1.0,
+      0.618,
+      0.561,
+      0.549,
+      0.734,
+      0.697,
+      0.59,
+      0.702,
+      0.508,
+      0.527
+    ],
+    "rms_dbfs": -9.69,
+    "rms_dbfs_p95_frame": -5.74,
+    "peak_dbfs": 0.78,
+    "loudness_lufs_approx": -9.59,
+    "spectral_centroid_hz_mean": 2270.6,
+    "spectral_centroid_hz_median": 2284.8,
+    "onsets": 122,
+    "onset_density_per_s": 4.068,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 41589991",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/41589991",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USCA20201420: matched but no preview available (readable=False)"
+  ]
+}

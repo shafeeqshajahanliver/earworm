@@ -1,0 +1,74 @@
+{
+  "id": "1970-they-long-to-be-close-to-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 548725742,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAM19100302",
+    "title": "(They Long To Be) Close To You",
+    "artist": "Carpenters",
+    "album": "The Singles 1969 - 1973",
+    "track_duration_s": 220,
+    "link": "https://www.deezer.com/track/548725742",
+    "duration_matched_to": "wikipedia infobox length (220s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 89.2,
+    "tempo_bpm_grid": 89.9,
+    "tempo_candidates_bpm": [
+      89.1,
+      44.6,
+      136.0
+    ],
+    "beats_detected": 45,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.906,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.726,
+    "chroma_profile": [
+      0.803,
+      0.491,
+      0.927,
+      0.438,
+      0.857,
+      0.528,
+      0.71,
+      1.0,
+      0.566,
+      0.783,
+      0.493,
+      0.746
+    ],
+    "rms_dbfs": -19.86,
+    "rms_dbfs_p95_frame": -15.22,
+    "peak_dbfs": -4.05,
+    "loudness_lufs_approx": -19.1,
+    "spectral_centroid_hz_mean": 2102.4,
+    "spectral_centroid_hz_median": 1861.1,
+    "onsets": 68,
+    "onset_density_per_s": 2.268,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 548725742",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 88.34,
+    "gain": -19.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/548725742",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 529915801: version ((They Long To Be) Close To You (1991 Remix))",
+    "deezer 1273889922: version (Close To You (Live On The Ed Sullivan Show, October 18, 1970))"
+  ]
+}

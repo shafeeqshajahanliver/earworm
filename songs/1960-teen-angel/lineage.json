@@ -1,0 +1,50 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/96451",
+    "title": "Teen Angel",
+    "performer": "Mark Dinning",
+    "is_original": true,
+    "first_release_date": "1959-12",
+    "releases": [
+      {
+        "title": "Teen Angel",
+        "uri": "https://api.secondhandsongs.com/release/39302",
+        "performer": "Mark Dinning"
+      },
+      {
+        "title": "Teen Angel",
+        "uri": "https://api.secondhandsongs.com/release/83501",
+        "performer": "Mark Dinning"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 18,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/96451",
+    "title": "Teen Angel",
+    "language": "English",
+    "writers": [
+      "Jean Dinning",
+      "Red Surrey"
+    ],
+    "original_performer": "Mark Dinning",
+    "versions": 19,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Min engel",
+        "uri": "https://api.secondhandsongs.com/work/125851"
+      },
+      {
+        "title": "Teenangel",
+        "uri": "https://api.secondhandsongs.com/work/138644"
+      }
+    ]
+  }
+}

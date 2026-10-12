@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 28087940,
+  "kind": "synced",
+  "matched": {
+    "track": "Laughter In The Rain",
+    "artist": "Neil Sedaka",
+    "album": "Laughter In The Rain/Kiddio",
+    "duration_s": 169.0
+  },
+  "duration_matched_to": "musicbrainz recording length (167s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 167.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 166.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 173.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37094952 (Laughter in the Rain / Neil Sedaka / Greatest Hits Live in Concert, 207.0s): live/remix/other version",
+    "lrclib 35217994 (Laughter in the Rain / Neil Sedaka / Timeless Classics Live, 203.0s): live/remix/other version",
+    "lrclib 35223165 (Laughter in the Rain / Neil Sedaka / Tuneweaver, 286.0s): duration matches no reference length",
+    "lrclib 33421219 (Laughter In The Rain / Neil Sedaka / Ultimate Collection, 203.0s): duration matches no reference length",
+    "lrclib 36466642 (Laughter in the Rain / Neil Sedaka / Laughter In The Rain, 183.0s): duration matches no reference length",
+    "lrclib 21259347 (Laughter In The Rain / Neil Sedaka / Laughter In The Rain, 218.885802s): duration matches no reference length",
+    "lrclib 30511440 (Laughter In The Rain / Neil Sedaka / Laughter In The Rain, 207.0s): duration matches no reference length",
+    "lrclib 23518321 (Laughter In The Rain / Neil Sedaka / Neil Sedaka - Tuneweaver, 285.861175s): duration matches no reference length",
+    "lrclib 29870285 (Laughter In The Rain / Neil Sedaka / The Immaculate Neil Sedaka, 207.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

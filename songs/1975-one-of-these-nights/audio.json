@@ -1,0 +1,76 @@
+{
+  "id": "1975-one-of-these-nights",
+  "preview": {
+    "service": "deezer",
+    "track_id": 570036212,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USRH11801718",
+    "title": "One of These Nights (Single Version; 2018 Remaster)",
+    "artist": "Eagles",
+    "album": "Legacy",
+    "track_duration_s": 213,
+    "link": "https://www.deezer.com/track/570036212",
+    "duration_matched_to": "musicbrainz recording length (208s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 109.4,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      107.7,
+      215.3,
+      112.3
+    ],
+    "beats_detected": 55,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.645,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.589,
+    "chroma_profile": [
+      0.851,
+      0.683,
+      0.863,
+      0.712,
+      0.838,
+      0.626,
+      0.651,
+      0.831,
+      0.661,
+      0.778,
+      0.838,
+      1.0
+    ],
+    "rms_dbfs": -14.09,
+    "rms_dbfs_p95_frame": -9.73,
+    "peak_dbfs": -0.4,
+    "loudness_lufs_approx": -14.07,
+    "spectral_centroid_hz_mean": 1993.3,
+    "spectral_centroid_hz_median": 1842.9,
+    "onsets": 100,
+    "onset_density_per_s": 3.335,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 570036212",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 109.96,
+    "gain": -14.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/570036212",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 426703842: version (One of These Nights (Live at The Forum, Los Angeles, CA, 10/20-22/1976))",
+    "deezer 1107316722: version (One of These Nights (Live From the Forum, Inglewood, CA, 9/12, 14, 15/2018))",
+    "deezer 3886423021: version (One of These Nights (Live at Anaheim Stadium, Anaheim, CA, 9/28/1975))",
+    "deezer 73485595: duration 119s matches no reference length"
+  ]
+}

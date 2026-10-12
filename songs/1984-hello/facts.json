@@ -1,0 +1,486 @@
+{
+  "id": "1984-hello",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Hello (Lionel Richie song)",
+  "wikidata": {
+    "qid": "Q1603052",
+    "label": "Hello",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q26695",
+          "label": "Lionel Richie"
+        },
+        {
+          "qid": "Q216563",
+          "label": "Paul Anka"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q26695",
+          "label": "Lionel Richie"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q26695",
+          "label": "Lionel Richie"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1983-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q1034072",
+          "label": "Can't Slow Down"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "029c4a1d-ecab-3d5e-8d64-ab7a07066904"
+      ],
+      "genius_song_id": [
+        "Lionel-richie-hello-lyrics"
+      ],
+      "youtube_video_id": [
+        "mHONNcZbwDY"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 05d55ad3-1a09-428e-b5d3-c03181023235 (1983)",
+  "musicbrainz": {
+    "recording_id": "6aa575e3-6772-4e5b-a09a-d274d14fb415",
+    "title": "Hello",
+    "length_ms": 248880,
+    "first_release_date": "1983-10-11",
+    "artist_credit": "Lionel Richie",
+    "artists": [
+      {
+        "name": "Lionel Richie",
+        "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46"
+      }
+    ],
+    "isrcs": [
+      "FRZ811707022",
+      "USM018390012",
+      "USM018490012",
+      "USMO18390012"
+    ],
+    "recording_credits": [
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "James Anthony Carmichael",
+        "mbid": "dddab325-2293-423f-b224-e82a0649b945"
+      },
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Lionel Richie",
+        "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46"
+      },
+      {
+        "role": "instrument arranger",
+        "attributes": [
+          "brass"
+        ],
+        "name": "James Anthony Carmichael",
+        "mbid": "dddab325-2293-423f-b224-e82a0649b945"
+      },
+      {
+        "role": "instrument arranger",
+        "attributes": [
+          "strings"
+        ],
+        "name": "James Anthony Carmichael",
+        "mbid": "dddab325-2293-423f-b224-e82a0649b945"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "James Anthony Carmichael",
+        "mbid": "dddab325-2293-423f-b224-e82a0649b945"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Lionel Richie",
+        "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46"
+      },
+      {
+        "role": "vocal arranger",
+        "attributes": [],
+        "name": "Lionel Richie",
+        "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/6bDOgN7vxFzgfJ2W7gZDEI"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/394735672"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1271518268"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/77457569"
+      }
+    ],
+    "genres": [
+      "funk",
+      "motown",
+      "pop",
+      "pop soul",
+      "r&b",
+      "rock",
+      "smooth soul",
+      "soft rock",
+      "soul"
+    ],
+    "tags": [
+      "pop",
+      "adult contemporary",
+      "r&b",
+      "motown",
+      "soft rock",
+      "soul",
+      "80s; adult contemporary music; dance-pop; pop music; rhythm and blues; soul; soul music; world music",
+      "contemporary r b",
+      "funk",
+      "pop music"
+    ],
+    "releases": [
+      {
+        "id": "9e85471b-67cb-4c52-8374-2539fdc82938",
+        "title": "Can't slow down",
+        "date": "1983",
+        "country": "DE",
+        "status": "Withdrawn",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "dab4c321-7fc1-35a1-8e8d-2c8111a038ca",
+        "title": "Can't Slow Down",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8b86f768-efac-3ab8-8cf4-f020cd3394f8",
+        "title": "Can't Slow Down",
+        "date": "1983",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ee851586-47fe-3787-b0fc-ba8b48d920e6",
+        "title": "Can't Slow Down",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3956b126-93c1-4b91-b143-454c8039a478",
+        "title": "Can't Slow Down",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1a297a5c-ef2c-41ad-b6bf-b84b9fbfd918",
+        "title": "Can't Slow Down",
+        "date": "1983",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3854c7b4-88f2-3fef-b2a5-1e7583412335",
+        "title": "Can't Slow Down",
+        "date": "1983",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d9b298c2-926a-39ec-9ea9-75b02dc1dfe2",
+        "title": "Can’t Slow Down",
+        "date": "1983",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "5c084b9e-d72b-4503-90f1-4f3dbbf5d4c7",
+        "title": "Can’t Slow Down",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "906f1102-deb7-3ccb-872c-e965137bcd5f",
+        "title": "Can’t Slow Down",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4e27a2f9-2380-4181-a72a-63cac402cc94",
+        "title": "Can’t Slow Down",
+        "date": "1983",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8fa5f416-ee27-45bc-8ced-6c8f493f7200",
+        "title": "Hello",
+        "date": "1983",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "05d55ad3-1a09-428e-b5d3-c03181023235",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "c8ed4039-bb41-4e44-a409-0b934e96f1ff",
+        "title": "Hello",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "05d55ad3-1a09-428e-b5d3-c03181023235",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "0503f8b7-4637-4b14-90e0-550388f98081",
+        "title": "Can’t Slow Down",
+        "date": "1983-10-11",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "72597869-ea2f-49f6-9e66-33fc72f2cfe3",
+        "title": "Can't Slow Down",
+        "date": "1984",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4b816582-e75f-498d-99b8-783a62175193",
+        "title": "Can't Slow Down",
+        "date": "1984",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1542ec74-f4ca-40bc-87ff-f8e7fec1d628",
+        "title": "Can’t Slow Down",
+        "date": "1984",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2498c18d-8867-4368-86e0-afd20b0a10f5",
+        "title": "Hello",
+        "date": "1984",
+        "country": "PT",
+        "status": null,
+        "release_group": "05d55ad3-1a09-428e-b5d3-c03181023235",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "f574d92d-cbbc-454f-a3b3-b0909d0d82ee",
+        "title": "Now That′s What I Call Music 4",
+        "date": "1984-11-26",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "fa48c5f9-8fe5-3e4f-bef0-4e6ab6317ab9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "cd11ff83-4bed-3088-baa9-ab8d7da472ee",
+        "title": "Now That′s What I Call Music 4",
+        "date": "1984-11-26",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "fa48c5f9-8fe5-3e4f-bef0-4e6ab6317ab9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bf10bcaa-9668-4b31-95c6-cdbdb1d6913a",
+        "title": "In Love With You (Musik für zärtliche Stunden)",
+        "date": "1985",
+        "country": "XE",
+        "status": null,
+        "release_group": "1e72f20a-979d-4bec-8765-f66b066f492c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f40949dc-7927-454d-b46e-a23fc9e387e9",
+        "title": "Love Classics, Vol. 2",
+        "date": "1988",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "ccea9fca-6043-4adc-8324-5cfadad16f9a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0474c647-70a3-401c-9301-ce483e1accbd",
+        "title": "The Greatest Love",
+        "date": "1988",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "b8b6cdba-17d4-3f55-9d4d-986519042e89",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2432759d-cafa-419e-8a03-4d99657f14e4",
+        "title": "The Greatest Love (special platinum edition)",
+        "date": "1988",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "b8b6cdba-17d4-3f55-9d4d-986519042e89",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6fd77020-b656-4274-99f2-c7f7febda0e4",
+        "title": "Kuschelrock 3",
+        "date": "1989-10-12",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "ecb31666-11e1-3aa2-95f5-b46c9c685aaa",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "029c4a1d-ecab-3d5e-8d64-ab7a07066904",
+      "title": "Hello",
+      "iswcs": [
+        "T-906.882.591-2"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Lionel Richie",
+          "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46"
+        },
+        {
+          "role": "lyricist",
+          "name": "Lionel Richie",
+          "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46"
+        },
+        {
+          "role": "writer",
+          "name": "James Anthony Carmichael",
+          "mbid": "dddab325-2293-423f-b224-e82a0649b945"
+        }
+      ],
+      "urls": [
+        "https://genius.com/Lionel-richie-hello-lyrics",
+        "https://secondhandsongs.com/work/4267",
+        "https://www.wikidata.org/wiki/Q1603052"
+      ]
+    },
+    "main_artist": {
+      "name": "Lionel Richie",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Tuskegee"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

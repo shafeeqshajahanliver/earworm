@@ -1,0 +1,73 @@
+{
+  "id": "1972-baby-dont-get-hooked-on-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1132887,
+    "matched_by": "isrc",
+    "isrc": "USSM19920756",
+    "title": "Baby Don't Get Hooked on Me",
+    "artist": "Mac Davis",
+    "album": "Baby Don't Get Hooked On Me",
+    "track_duration_s": 182,
+    "link": "https://www.deezer.com/track/1132887",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 83.1,
+    "tempo_bpm_grid": 83.4,
+    "tempo_candidates_bpm": [
+      83.4,
+      161.5,
+      172.3
+    ],
+    "beats_detected": 38,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.658,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.643,
+    "chroma_profile": [
+      0.645,
+      0.822,
+      0.936,
+      0.936,
+      0.962,
+      0.59,
+      0.85,
+      0.577,
+      0.764,
+      0.913,
+      0.638,
+      1.0
+    ],
+    "rms_dbfs": -19.48,
+    "rms_dbfs_p95_frame": -16.27,
+    "peak_dbfs": -3.3,
+    "loudness_lufs_approx": -18.15,
+    "spectral_centroid_hz_mean": 2179.6,
+    "spectral_centroid_hz_median": 2081.8,
+    "onsets": 85,
+    "onset_density_per_s": 2.834,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1132887",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 165.4,
+    "gain": -19.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1132887",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (165.4): octave error likely",
+    "key is close between A major and E major"
+  ],
+  "rejected_candidates": []
+}

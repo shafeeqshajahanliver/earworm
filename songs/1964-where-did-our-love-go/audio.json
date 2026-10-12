@@ -1,0 +1,70 @@
+{
+  "id": "1964-where-did-our-love-go",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1182495,
+    "matched_by": "isrc",
+    "isrc": "USMO16482614",
+    "title": "Where Did Our Love Go (Single Version / Mono)",
+    "artist": "The Supremes",
+    "album": "Where Did Our Love Go: 40th Anniversary Edition",
+    "track_duration_s": 153,
+    "link": "https://www.deezer.com/track/1182495",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 134.1,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      129.2
+    ],
+    "beats_detected": 67,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.648,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.554,
+    "chroma_profile": [
+      0.669,
+      0.541,
+      0.973,
+      0.556,
+      0.624,
+      0.661,
+      0.819,
+      1.0,
+      0.628,
+      0.547,
+      0.339,
+      0.442
+    ],
+    "rms_dbfs": -10.49,
+    "rms_dbfs_p95_frame": -8.04,
+    "peak_dbfs": -0.94,
+    "loudness_lufs_approx": -10.4,
+    "spectral_centroid_hz_mean": 2528.3,
+    "spectral_centroid_hz_median": 2501.7,
+    "onsets": 57,
+    "onset_density_per_s": 1.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1182495",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 135.6,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1182495",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

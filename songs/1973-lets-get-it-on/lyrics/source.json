@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37041679,
+  "kind": "synced",
+  "matched": {
+    "track": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "album": "Let's Get It On (Expanded Edition)",
+    "duration_s": 242.0
+  },
+  "duration_matched_to": "musicbrainz recording length (241s)",
+  "duration_diff_s": 1.2,
+  "reference_lengths": [
+    {
+      "seconds": 240.773,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 238.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 238.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 293.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37468489 (Let’s Get It On / Marvin Gaye / Let’s Get It On: His Greatest Hits in Concert, 289.0s): live/remix/other version",
+    "lrclib 37517713 (Let's Get It On / Marvin Gaye / Let's Get It On, 300.0s): duration matches no reference length",
+    "lrclib 37121268 (Let’s Get It On / Marvin Gaye / I Heard It Through the Grapevine: Last Live Concert, 318.0s): live/remix/other version",
+    "lrclib 37051439 (Let's Get It On / Marvin Gaye / Let's Get It On - His Greatest Hits in Concert, 322.0s): live/remix/other version",
+    "lrclib 34350735 (Let'S Get It On / Marvin Gaye / Let'S Get It On, 198.0s): duration matches no reference length",
+    "lrclib 35683351 (Let's Get It On / Marvin Gaye / Let's Get It On, 31.0s): duration matches no reference length",
+    "lrclib 35683356 (Let's Get It On / Marvin Gaye / Let's Get It On, 28.0s): duration matches no reference length",
+    "lrclib 35683332 (Let's Get It On / Marvin Gaye / Let's Get It On, 30.0s): duration matches no reference length",
+    "lrclib 35683367 (Let's Get It On / Marvin Gaye / Let's Get It On, 33.0s): duration matches no reference length",
+    "lrclib 35683371 (Let's Get It On / Marvin Gaye / Let's Get It On, 26.0s): duration matches no reference length",
+    "lrclib 35391683 (Lets Get It On / Marvin Gaye / Lets Get It On, 209.0s): duration matches no reference length",
+    "lrclib 19043976 (Lets Get It On / Marvin Gaye / Lets Get It On, 251.663673s): duration matches no reference length",
+    "lrclib 19585028 (Lets Get It On / Marvin Gaye / Lets Get It On, 468.984s): duration matches no reference length",
+    "lrclib 25136542 (LET'S GET  IT ON / MARVIN GAYE / LET'S GET IT ON, 229.7011s): duration matches no reference length",
+    "lrclib 23600228 (Let's Get It On / Marvin Gaye / Let's Get It On, 232.3885s): duration matches no reference length",
+    "lrclib 997897 (Let's Get It On / Marvin Gaye / Let's Get It On, 322.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

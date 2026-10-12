@@ -1,0 +1,75 @@
+{
+  "id": "1965-help",
+  "preview": {
+    "service": "deezer",
+    "track_id": 116348610,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBUM71505900",
+    "title": "Help! (Remastered 2015)",
+    "artist": "The Beatles",
+    "album": "1 (Remastered 2015)",
+    "track_duration_s": 137,
+    "link": "https://www.deezer.com/track/116348610",
+    "duration_matched_to": "wikipedia infobox length (138s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.1,
+    "tempo_bpm_grid": 94.8,
+    "tempo_candidates_bpm": [
+      95.7,
+      184.6,
+      198.8
+    ],
+    "beats_detected": 47,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.653,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.589,
+    "chroma_profile": [
+      0.598,
+      0.891,
+      0.554,
+      0.466,
+      0.841,
+      0.802,
+      0.752,
+      0.694,
+      0.835,
+      1.0,
+      0.566,
+      0.636
+    ],
+    "rms_dbfs": -11.62,
+    "rms_dbfs_p95_frame": -9.69,
+    "peak_dbfs": 0.42,
+    "loudness_lufs_approx": -10.87,
+    "spectral_centroid_hz_mean": 2834.5,
+    "spectral_centroid_hz_median": 2779.7,
+    "onsets": 78,
+    "onset_density_per_s": 2.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 116348610",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 94.83,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/116348610",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 131737330: version (Help! (Live / Remastered))",
+    "deezer 122171910: version (Help! (Live On Blackpool Night Out))",
+    "deezer 3668066572: version (Help! (Live On Blackpool Night Out - Remastered))"
+  ]
+}

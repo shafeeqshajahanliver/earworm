@@ -1,0 +1,98 @@
+{
+  "id": "1992-baby-got-back",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Baby Got Back",
+  "wikidata": {
+    "qid": "Q4838295",
+    "label": "Baby Got Back",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q982674",
+          "label": "Sir Mix-a-Lot"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q587361",
+          "label": "Rick Rubin"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q466649",
+          "label": "American Recordings"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1992-05-07"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q11401",
+          "label": "hip-hop"
+        },
+        {
+          "qid": "Q3709211",
+          "label": "dirty rap"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "4f0fb25a-96aa-3c4a-9e30-68f3375a1465"
+      ],
+      "musicbrainz_release_group_id": [
+        "502472c3-d918-3b3b-9ec4-32c77d73ca04"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 502472c3-d918-3b3b-9ec4-32c77d73ca04 (1992-02-27)",
+  "musicbrainz": {
+    "recording_id": "bda44e92-ed0d-4b9a-90e0-dd3d54d603d6",
+    "title": "Baby Got Back (Glamorous Techno Dub)",
+    "length_ms": 406000,
+    "first_release_date": "1992",
+    "artist_credit": "Sir Mix‐A‐Lot",
+    "artists": [
+      {
+        "name": "Sir Mix‐A‐Lot",
+        "mbid": "05539fb8-b7a5-4012-97a9-5e27ddc031fb"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "1a344476-6d16-4f28-82be-47b83b41ee50",
+        "title": "Baby Got Back",
+        "date": "1992",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "502472c3-d918-3b3b-9ec4-32c77d73ca04",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Sir Mix‐A‐Lot",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Seattle"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

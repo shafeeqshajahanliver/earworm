@@ -1,0 +1,72 @@
+{
+  "id": "1973-my-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 5664765,
+    "matched_by": "isrc",
+    "isrc": "GBCCS0700368",
+    "title": "My Love",
+    "artist": "Paul McCartney",
+    "album": "All The Best (UK Version)",
+    "track_duration_s": 248,
+    "link": "https://www.deezer.com/track/5664765",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.4,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      117.5,
+      60.1
+    ],
+    "beats_detected": 60,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.437,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.423,
+    "chroma_profile": [
+      0.609,
+      0.518,
+      0.612,
+      0.441,
+      0.624,
+      0.62,
+      0.542,
+      0.719,
+      0.631,
+      0.965,
+      1.0,
+      0.571
+    ],
+    "rms_dbfs": -16.79,
+    "rms_dbfs_p95_frame": -13.05,
+    "peak_dbfs": -3.93,
+    "loudness_lufs_approx": -17.69,
+    "spectral_centroid_hz_mean": 1370.4,
+    "spectral_centroid_hz_median": 1206.6,
+    "onsets": 88,
+    "onset_density_per_s": 2.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 5664765",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.8,
+    "gain": -16.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/5664765",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between G minor and Bb major"
+  ],
+  "rejected_candidates": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1963-cant-get-used-to-losing-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2858516472,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USX762401426",
+    "title": "Can't Get Used To Losing You",
+    "artist": "Andy Williams",
+    "album": "Crooners - Best Ever Collection",
+    "track_duration_s": 141,
+    "link": "https://www.deezer.com/track/2858516472",
+    "duration_matched_to": "wikipedia infobox length (140s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.8,
+    "tempo_bpm_grid": 94.0,
+    "tempo_candidates_bpm": [
+      92.3,
+      184.6,
+      61.5
+    ],
+    "beats_detected": 49,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.683,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.682,
+    "chroma_profile": [
+      0.867,
+      0.71,
+      1.0,
+      0.559,
+      0.721,
+      0.776,
+      0.726,
+      0.957,
+      0.67,
+      0.966,
+      0.691,
+      0.639
+    ],
+    "rms_dbfs": -16.07,
+    "rms_dbfs_p95_frame": -12.65,
+    "peak_dbfs": -2.6,
+    "loudness_lufs_approx": -15.35,
+    "spectral_centroid_hz_mean": 1428.9,
+    "spectral_centroid_hz_median": 1375.6,
+    "onsets": 67,
+    "onset_density_per_s": 2.234,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2858516472",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2858516472",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between D major and D minor"
+  ],
+  "rejected_candidates": []
+}

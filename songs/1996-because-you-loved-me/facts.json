@@ -1,0 +1,630 @@
+{
+  "id": "1996-because-you-loved-me",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Because You Loved Me",
+  "wikidata": {
+    "qid": "Q2732222",
+    "label": "Because You Loved Me",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q5105",
+          "label": "Céline Dion"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q237354",
+          "label": "Diane Warren"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q237354",
+          "label": "Diane Warren"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1995-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "50a9292f-eb10-4c4a-ad21-7c790df2698c"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ],
+      "has_quality": [
+        {
+          "qid": "Q93540236",
+          "label": "film song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 0acda458-7587-3b3e-8faa-612430156f21 (1996-08-23)",
+  "musicbrainz": {
+    "recording_id": "df162c54-de7e-4f63-871e-5bc327b038f6",
+    "title": "Because You Loved Me",
+    "length_ms": 274493,
+    "first_release_date": "1995",
+    "artist_credit": "Céline Dion",
+    "artists": [
+      {
+        "name": "Céline Dion",
+        "mbid": "847e8a0c-cc20-4213-9e16-975515c2a926"
+      }
+    ],
+    "isrcs": [
+      "CAC220003047",
+      "CAC222400016",
+      "CAC229600024",
+      "CAC229600025",
+      "CAC229800086",
+      "USSM19504296"
+    ],
+    "recording_credits": [
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "David Walter Foster",
+        "mbid": "04456b86-d064-4643-a57f-df9ef42a46d9"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Mark Agostino",
+        "mbid": "d7fdb1bf-1ae3-4b20-a1d6-284f426aa901"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Peter Doell",
+        "mbid": "4a3d394a-b386-4556-840b-2d69b7e548f0"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Felipe Elgueta",
+        "mbid": "47cb2a05-617b-41e6-ad37-8599e7649aef"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "David Walter Foster",
+        "mbid": "04456b86-d064-4643-a57f-df9ef42a46d9"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Michael Thompson",
+        "mbid": "1565d953-13b4-4875-a400-fbdecaaeec52"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Kyle Bess",
+        "mbid": "0bbd6cc4-3b6e-4c77-949f-527fe96dda7f"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Paul Boutin",
+        "mbid": "388c696e-0d99-4210-b2c1-13deb13cd20d"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Chris Brooke",
+        "mbid": "219e07b4-aa15-487a-9315-128b401e0d6c"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Humberto Gatica",
+        "mbid": "bed668b4-7bea-4396-8846-915767e1052d"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "executive"
+        ],
+        "name": "Jon Avnet",
+        "mbid": "aff92b0c-8919-49bb-9e06-c3a8927e925a"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "David Walter Foster",
+        "mbid": "04456b86-d064-4643-a57f-df9ef42a46d9"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "synclavier"
+        ],
+        "name": "Simon Franglen",
+        "mbid": "c82beb12-579c-48e6-aa97-dd5b0f3a6078"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Humberto Gatica",
+        "mbid": "bed668b4-7bea-4396-8846-915767e1052d"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Terry Bradford",
+        "mbid": "e8b57963-1bd0-4e6c-a5cc-bed1215dc6ef"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Alex Brown",
+        "mbid": "642e3252-507c-47c6-83d3-e90de23e26b6"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Bridgette Bryant",
+        "mbid": "a7828b19-a297-4768-bdff-27b087569a2d"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Alanna Capps",
+        "mbid": "85c5cdcd-f3f9-42e0-a880-4f5e7ddbe629"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Carl Carwell",
+        "mbid": "ad7f18f6-614a-470a-a9eb-c8a572334896"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Sue Ann Carwell",
+        "mbid": "577635f7-c265-4278-94ec-0afd6168b223"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Céline Dion",
+        "mbid": "847e8a0c-cc20-4213-9e16-975515c2a926"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Philip Ingram",
+        "mbid": "823f5f70-da70-4a9f-9edc-c8661def512a"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Kofi",
+        "mbid": "b9783294-cc63-449f-a2ab-6ba667e514ca"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Maxann Lewis",
+        "mbid": "033b2b99-82c4-4a0e-af91-f6ce6b861e47"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Will Wheaton",
+        "mbid": "d97ffbc2-d96c-43d4-8fb0-039d58a7d899"
+      },
+      {
+        "role": "vocal arranger",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Carl Carwell",
+        "mbid": "ad7f18f6-614a-470a-a9eb-c8a572334896"
+      },
+      {
+        "role": "vocal arranger",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Sue Ann Carwell",
+        "mbid": "577635f7-c265-4278-94ec-0afd6168b223"
+      },
+      {
+        "role": "vocal arranger",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "David Walter Foster",
+        "mbid": "04456b86-d064-4643-a57f-df9ef42a46d9"
+      }
+    ],
+    "urls": [],
+    "genres": [
+      "ballad",
+      "pop",
+      "rock",
+      "soft rock",
+      "synth-pop"
+    ],
+    "tags": [
+      "pop",
+      "soft rock",
+      "ballad",
+      "rock",
+      "vocal",
+      "adult contemporary",
+      "falling into you",
+      "other pop",
+      "pop music",
+      "pop_ballad"
+    ],
+    "releases": [
+      {
+        "id": "f29b90a4-b059-4043-b225-881999a559ed",
+        "title": "Sony Music Sampler 048",
+        "date": "1995",
+        "country": "CA",
+        "status": "Promotion",
+        "release_group": "a098a474-2660-42ef-acb6-94477f15970b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "37e04284-0a9c-4a3c-b633-c070f928e626",
+        "title": "Absolute Gold",
+        "date": "1996",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "698deef0-dc79-4fd4-bdb4-808f15816a8e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ca6f799e-9bb8-4730-a9f4-59b69118588f",
+        "title": "Absolute Gold",
+        "date": "1996",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e93ed43f-4806-4b75-b9a7-405fff0dd7b1",
+        "primary_type": null,
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1f5a7153-306b-4a95-adb0-64c0f6a254ad",
+        "title": "Because You Loved Me",
+        "date": "1996",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "0acda458-7587-3b3e-8faa-612430156f21",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "becee938-843f-4664-9b4e-2a4ebb417779",
+        "title": "Because You Loved Me",
+        "date": "1996",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "0acda458-7587-3b3e-8faa-612430156f21",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "106cb530-c33f-4d2a-8708-74e633ff40b5",
+        "title": "Because You Loved Me",
+        "date": "1996",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "0acda458-7587-3b3e-8faa-612430156f21",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "3fd4406d-ed12-4f92-9ad3-4e7223293764",
+        "title": "Because You Loved Me",
+        "date": "1996",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "0acda458-7587-3b3e-8faa-612430156f21",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "4018fa67-bdcc-4ea9-85c9-04664c1c31e6",
+        "title": "Because You Loved Me",
+        "date": "1996",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "0acda458-7587-3b3e-8faa-612430156f21",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "53481971-24b0-49c5-878f-2b953d0a8e4d",
+        "title": "Because You Loved Me",
+        "date": "1996",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "0acda458-7587-3b3e-8faa-612430156f21",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "eb8edb35-497d-4e54-b45b-ee6edd29ee2e",
+        "title": "Best Ballads",
+        "date": "1996",
+        "country": "BG",
+        "status": "Bootleg",
+        "release_group": "57dea626-36bd-3b33-b97f-07fe19b6d5e6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9a6be90b-062c-4910-b916-2ae89fb70125",
+        "title": "Best Ballads",
+        "date": "1996",
+        "country": null,
+        "status": "Official",
+        "release_group": "57dea626-36bd-3b33-b97f-07fe19b6d5e6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0e59d476-75bd-4215-ba38-975274013d1a",
+        "title": "Best of Love 3",
+        "date": "1996",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "fa5bb9dd-29db-4ffc-8cac-526f5de4ac2a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bf598686-a94f-491f-8f73-5a8f44a54b61",
+        "title": "Falling into you",
+        "date": "1996",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "cb5e4778-8343-4195-a357-dac9f1425565",
+        "title": "Falling Into You",
+        "date": "1996",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3d9cf827-360f-4299-900f-7d1c669e5f9e",
+        "title": "Falling Into You",
+        "date": "1996",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f17533e4-079a-4950-a8d4-cf046f51d323",
+        "title": "Promo Only: Mainstream Radio, March 1996",
+        "date": "1996-01",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "13ea8ce7-1749-44fc-9047-a4cf687a300e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ed435b14-d2a9-41ee-9bdf-964f5d5ffb66",
+        "title": "Falling Into You",
+        "date": "1996-03-07",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "16612555-afa6-4196-a184-2b255a22f712",
+        "title": "Falling Into You",
+        "date": "1996-03-08",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "418c7897-9fa8-4bad-ac32-d13e8334c593",
+        "title": "Falling Into You",
+        "date": "1996-03-11",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e3972a0f-7291-4e30-8b5e-d7b3d18496cc",
+        "title": "Falling Into You",
+        "date": "1996-03-11",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "09b0e1d4-7477-4252-b3b6-fb2c6896eaba",
+        "title": "Falling Into You",
+        "date": "1996-03-14",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "7c89982d-e6a6-3811-828d-5462a69f0ddf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3ac651c9-069b-4803-b449-e12bd0da150d",
+        "title": "Fresh Hits 96",
+        "date": "1996-08-01",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "3e352a90-d564-3889-ac66-58d873b7e17d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "76d5f59c-4fee-453b-8937-a35d230c31ef",
+        "title": "Because You Loved Me",
+        "date": "1996-08-23",
+        "country": null,
+        "status": "Official",
+        "release_group": "0acda458-7587-3b3e-8faa-612430156f21",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "5e800618-71a6-4ed4-af57-5976dedace97",
+        "title": "Kuschelrock 10",
+        "date": "1996-09-18",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "11a796fb-adff-3f11-bb3c-a52cedc5a85f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "45732952-ead8-496b-a49b-9bb64ca9e2cc",
+        "title": "This Year’s Love (Will Last Forever)",
+        "date": "1996-11-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "85eef50a-ee83-41b7-a048-08c3fda06713",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "50a9292f-eb10-4c4a-ad21-7c790df2698c",
+      "title": "Because You Loved Me",
+      "iswcs": [
+        "T-070.019.364-1"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Diane Warren",
+          "mbid": "68cff6ec-3751-4bd5-9254-f4a77fe7e08f"
+        },
+        {
+          "role": "lyricist",
+          "name": "Diane Warren",
+          "mbid": "68cff6ec-3751-4bd5-9254-f4a77fe7e08f"
+        }
+      ],
+      "urls": [
+        "https://genius.com/Celine-dion-because-you-loved-me-lyrics",
+        "https://www.whosampled.com/C%C3%A9line-Dion/Because-You-Loved-Me/",
+        "https://secondhandsongs.com/work/20287",
+        "https://www.songfacts.com/facts/celine-dion/because-you-loved-me",
+        "https://www.wikidata.org/wiki/Q2732222"
+      ]
+    },
+    "main_artist": {
+      "name": "Céline Dion",
+      "type": "Person",
+      "country": "CA",
+      "area": "Canada",
+      "begin_area": "Charlemagne"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

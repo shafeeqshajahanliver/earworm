@@ -1,0 +1,129 @@
+{
+  "id": "2002-u-got-it-bad",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "U Got It Bad",
+  "wikidata": {
+    "qid": "Q2552835",
+    "label": "U Got It Bad",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q165911",
+          "label": "Usher"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q349434",
+          "label": null
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q349434",
+          "label": null
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q664167",
+          "label": "Arista Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2001-09-04"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q850412",
+          "label": "contemporary R&B"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q2064876",
+          "label": "U Remind Me"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q2306386",
+          "label": "U Don't Have to Call"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 0aca5f44-ee51-3376-9045-2d587b6653a1 (2001-12-03)",
+  "musicbrainz": {
+    "recording_id": "2c8e7fa1-e97f-48c8-aa0b-6bf80ffaeba7",
+    "title": "U Got It Bad (Tee's dub)",
+    "length_ms": 476440,
+    "first_release_date": null,
+    "artist_credit": "Usher",
+    "artists": [
+      {
+        "name": "Usher",
+        "mbid": "3414d446-735a-443c-931f-10634f57e5b9"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "b2a7b438-819e-4f76-bf58-8b16408b6236",
+        "title": "U Got It Bad",
+        "date": null,
+        "country": null,
+        "status": "Official",
+        "release_group": "0aca5f44-ee51-3376-9045-2d587b6653a1",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "9829cc36-0ca4-4f42-84ed-100406b42b95",
+      "title": "U Got It Bad",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Bryan‐Michael Cox",
+          "mbid": "fe73aa73-4e0f-439e-97dc-3bf0bfaecbe2"
+        },
+        {
+          "role": "writer",
+          "name": "Jermaine Dupri",
+          "mbid": "fb75bc76-a50b-4d3a-b060-63092a4c6bbf"
+        },
+        {
+          "role": "writer",
+          "name": "Usher",
+          "mbid": "3414d446-735a-443c-931f-10634f57e5b9"
+        }
+      ],
+      "urls": []
+    },
+    "main_artist": {
+      "name": "Usher",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Dallas"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

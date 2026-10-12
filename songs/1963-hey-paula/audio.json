@@ -1,0 +1,73 @@
+{
+  "id": "1963-hey-paula",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1762632527,
+    "matched_by": "isrc",
+    "isrc": "USIR20000704",
+    "title": "Hey Paula (Single Version)",
+    "artist": "Paul & Paula",
+    "album": "#1 Radio Hits of the 60's",
+    "track_duration_s": 151,
+    "link": "https://www.deezer.com/track/1762632527",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 72.2,
+    "tempo_bpm_grid": 72.8,
+    "tempo_candidates_bpm": [
+      71.8,
+      215.3,
+      234.9
+    ],
+    "beats_detected": 37,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.961,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.699,
+    "chroma_profile": [
+      0.649,
+      0.47,
+      0.821,
+      0.409,
+      0.664,
+      0.305,
+      0.614,
+      1.0,
+      0.415,
+      0.523,
+      0.395,
+      0.693
+    ],
+    "rms_dbfs": -15.29,
+    "rms_dbfs_p95_frame": -11.87,
+    "peak_dbfs": -4.03,
+    "loudness_lufs_approx": -15.69,
+    "spectral_centroid_hz_mean": 1756.3,
+    "spectral_centroid_hz_median": 1673.9,
+    "onsets": 73,
+    "onset_density_per_s": 2.434,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1762632527",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1762632527",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc NLG620466987: matched but no preview available (readable=False)",
+    "deezer isrc USMC17807581: matched but no preview available (readable=False)"
+  ]
+}

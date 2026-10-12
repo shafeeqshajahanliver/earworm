@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1868472,
+  "kind": "synced",
+  "matched": {
+    "track": "The End of the World",
+    "artist": "Skeeter Davis",
+    "album": "Skeeter Davis Sings The End Of The World",
+    "duration_s": 158.0
+  },
+  "duration_matched_to": "musicbrainz recording length (158s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 158.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 156.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 153.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 0.953,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37493642 (The End of the World / Skeeter Davis / mary frances, 185.0s): duration matches no reference length",
+    "lrclib 37344908 (The End of the World / Skeeter Davis / Music That Changed Our Lives 60's, 161.0s): live/remix/other version",
+    "lrclib 33494170 (The End Of The World / Skeeter Davis / Skeeter Davis Sings The End of the World, 215.0s): duration matches no reference length",
+    "lrclib 20087502 (The End of the World / Skeeter Davis / Skeeter Davis, 214.264312s): duration matches no reference length",
+    "lrclib 35560048 (The End of the World / Skeeter Davis / The Essential Skeeter Davis, Nones): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

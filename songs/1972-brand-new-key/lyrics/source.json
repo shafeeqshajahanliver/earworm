@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 14404540,
+  "kind": "synced",
+  "matched": {
+    "track": "Brand New Key",
+    "artist": "Melanie",
+    "album": "Brand New Key",
+    "duration_s": 144.0
+  },
+  "duration_matched_to": "musicbrainz recording length (144s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 144.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 144.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 146.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 35,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33399877 (Brand New Key / Melanie / Rock N' Roll of the '70s (Disc 4), 175.0s): duration matches no reference length",
+    "lrclib 22981370 (Brand New Key (The Rollerskate Song) / Melanie / Brand New Key \"The Rollerskate Song\", 176.979592s): duration matches no reference length",
+    "lrclib 25753311 (Brand New Key / Melanie / The Very Best Of Melanie, 190.065086s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

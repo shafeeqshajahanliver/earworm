@@ -1,0 +1,155 @@
+{
+  "id": "1972-i-gotcha",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "I Gotcha (Joe Tex song)",
+  "wikidata": {
+    "qid": "Q5977372",
+    "label": "I Gotcha",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1691619",
+          "label": "Joe Tex"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q3025937",
+          "label": "Dial"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1972-01-01"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q164444",
+          "label": "funk"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "3ed8d622-cd73-4b4d-9817-9e9dcb11bf29"
+      ],
+      "musicbrainz_release_group_id": [
+        "a6faf7ba-2f2b-41d7-b217-37ae65b6091c"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group a6faf7ba-2f2b-41d7-b217-37ae65b6091c (1971-12)",
+  "musicbrainz": {
+    "recording_id": "effa8614-4644-4171-8ee4-6f3e0dbc9360",
+    "title": "I Gotcha",
+    "length_ms": 138000,
+    "first_release_date": "1971-12",
+    "artist_credit": "Joe Tex",
+    "artists": [
+      {
+        "name": "Joe Tex",
+        "mbid": "bb25e0ba-fd11-4d2a-8ec3-f5674f67c874"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Buddy Killen",
+        "mbid": "ccdcd742-df7d-49dc-8453-df20504a51f8"
+      }
+    ],
+    "urls": [
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/performance/19438"
+      }
+    ],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "b3b1d170-aec7-4b67-8188-2ae6e3d422e9",
+        "title": "I Gotcha / A Mother’s Prayer",
+        "date": "1971-12",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a6faf7ba-2f2b-41d7-b217-37ae65b6091c",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "5314da65-eff4-442f-b72d-0ae1f5d06aa8",
+        "title": "I Gotcha",
+        "date": "1972",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cfc08770-e738-3cdf-a59b-c369929b17ca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c11737d7-0490-4418-8b32-3f03c805c902",
+        "title": "Bump to the Funk",
+        "date": "1996",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "58803226-6a7a-4e97-94e1-6edb3b9ffde2",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0fb102c9-5ee9-4e08-9184-486c53bef7db",
+        "title": "Party Super Hits",
+        "date": "1998",
+        "country": "US",
+        "status": "Official",
+        "release_group": "24d84316-5d34-4941-876d-c2061fbef762",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "3ed8d622-cd73-4b4d-9817-9e9dcb11bf29",
+      "title": "I Gotcha",
+      "iswcs": [
+        "T-070.918.941-2"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Joe Tex",
+          "mbid": "bb25e0ba-fd11-4d2a-8ec3-f5674f67c874"
+        },
+        {
+          "role": "lyricist",
+          "name": "Joe Tex",
+          "mbid": "bb25e0ba-fd11-4d2a-8ec3-f5674f67c874"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/19438",
+        "https://www.wikidata.org/wiki/Q5977372"
+      ]
+    },
+    "main_artist": {
+      "name": "Joe Tex",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Rogers"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

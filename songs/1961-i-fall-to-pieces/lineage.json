@@ -1,0 +1,58 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/39926",
+    "title": "I Fall to Pieces",
+    "performer": "Patsy Cline with The Jordanaires",
+    "is_original": true,
+    "first_release_date": "1961-01",
+    "releases": [
+      {
+        "title": "I Fall to Pieces",
+        "uri": "https://api.secondhandsongs.com/release/15630",
+        "performer": "Patsy Cline"
+      },
+      {
+        "title": "Showcase",
+        "uri": "https://api.secondhandsongs.com/release/5488",
+        "performer": "Patsy Cline with The Jordanaires"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 217,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/39926",
+    "title": "I Fall to Pieces",
+    "language": "English",
+    "writers": [
+      "Hank Cochran",
+      "Harlan Howard"
+    ],
+    "original_performer": "Patsy Cline with The Jordanaires",
+    "versions": 218,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "J'ai le cœur qui pleure",
+        "uri": "https://api.secondhandsongs.com/work/228820"
+      },
+      {
+        "title": "Mun sielu halkee",
+        "uri": "https://api.secondhandsongs.com/work/228821"
+      },
+      {
+        "title": "Jag går i bitar",
+        "uri": "https://api.secondhandsongs.com/work/237836"
+      },
+      {
+        "title": "Jag tror jag drömmer",
+        "uri": "https://api.secondhandsongs.com/work/251305"
+      }
+    ]
+  }
+}

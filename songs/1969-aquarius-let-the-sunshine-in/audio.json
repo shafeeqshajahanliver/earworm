@@ -1,0 +1,74 @@
+{
+  "id": "1969-aquarius-let-the-sunshine-in",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1008816252,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAR11600299",
+    "title": "Aquarius / Let the Sunshine In (The Flesh Failures) (Single Version)",
+    "artist": "The 5th Dimension",
+    "album": "The Singles (1966-1975)",
+    "track_duration_s": 289,
+    "link": "https://www.deezer.com/track/1008816252",
+    "duration_matched_to": "musicbrainz recording length (289s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 92.9,
+    "tempo_bpm_grid": 92.3,
+    "tempo_candidates_bpm": [
+      184.6,
+      92.3,
+      172.3
+    ],
+    "beats_detected": 46,
+    "key": "C minor",
+    "key_tonic": "C",
+    "key_mode": "minor",
+    "key_correlation": 0.772,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.668,
+    "chroma_profile": [
+      0.983,
+      0.378,
+      0.556,
+      0.811,
+      0.53,
+      1.0,
+      0.434,
+      0.834,
+      0.532,
+      0.438,
+      0.641,
+      0.46
+    ],
+    "rms_dbfs": -15.5,
+    "rms_dbfs_p95_frame": -13.1,
+    "peak_dbfs": -4.27,
+    "loudness_lufs_approx": -15.28,
+    "spectral_centroid_hz_mean": 2547.5,
+    "spectral_centroid_hz_median": 2500.0,
+    "onsets": 62,
+    "onset_density_per_s": 2.067,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1008816252",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -13.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1008816252",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 82565994: version (Aquarius/Let The Sunshine In (The Flesh Failures) (Live))",
+    "deezer 1629952982: version (Aquarius / Let the Sunshine In (Summer of Soul Soundtrack - Live at the 1969 Harlem Cultural Festival))"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1976-a-fifth-of-beethoven",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1442259389,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "A Fifth of Beethoven",
+    "artist": "Walter Murphy",
+    "album": "Saturday Night Fever (The Original Movie Soundtrack) [Deluxe Edition]",
+    "track_duration_s": 182.5,
+    "link": "https://music.apple.com/us/album/a-fifth-of-beethoven/1442259177?i=1442259389&uo=4",
+    "duration_matched_to": "musicbrainz recording length (182s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 109.3,
+    "tempo_bpm_grid": 108.8,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      112.3
+    ],
+    "beats_detected": 53,
+    "key": "C minor",
+    "key_tonic": "C",
+    "key_mode": "minor",
+    "key_correlation": 0.825,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.802,
+    "chroma_profile": [
+      1.0,
+      0.497,
+      0.538,
+      0.721,
+      0.627,
+      0.678,
+      0.565,
+      0.739,
+      0.489,
+      0.55,
+      0.553,
+      0.551
+    ],
+    "rms_dbfs": -17.75,
+    "rms_dbfs_p95_frame": -13.46,
+    "peak_dbfs": -2.99,
+    "loudness_lufs_approx": -16.84,
+    "spectral_centroid_hz_mean": 2393.8,
+    "spectral_centroid_hz_median": 2319.7,
+    "onsets": 162,
+    "onset_density_per_s": 5.404,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1442259389",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between C minor and C major"
+  ],
+  "rejected_candidates": [
+    "deezer 4130502461: version (A Fifth of Beethoven (Extended Version))"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1974-come-and-get-your-love",
+  "lyrics_kind": "synced",
+  "lrclib_id": 36609167,
+  "lines": 40,
+  "words": 305,
+  "unique_words": 51,
+  "type_token_ratio": 0.167,
+  "repeated_line_share": 0.55,
+  "distinct_lines": 18,
+  "zlib_compression_ratio": 0.196,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "come and get your love",
+  "title_phrase_occurrences": 29,
+  "pronouns": {
+    "first_singular": 2,
+    "second": 43,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 10.06,
+  "last_line_s": 201.75,
+  "sung_time_s": 185.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 98.7,
+  "words_per_minute_track": 86.3,
+  "longest_gap_between_lines_s": 15.39,
+  "longest_gap_starts_at_s": 168.19,
+  "first_repeated_block": {
+    "first_at_s": 121.43,
+    "recurs_at_s": 125.94,
+    "lines": [
+      "Come and get your love, come and get your love",
+      "Come and get your love now"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 36609167",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

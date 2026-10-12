@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18452993,
+  "kind": "synced",
+  "matched": {
+    "track": "Hey Jude",
+    "artist": "The Beatles",
+    "album": "Hey Jude",
+    "duration_s": 434.0
+  },
+  "duration_matched_to": "musicbrainz recording length (438s)",
+  "duration_diff_s": 4.0,
+  "reference_lengths": [
+    {
+      "seconds": 438.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 429.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 432.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36844404 (Hey Jude / The Beatles / 1, 1.0s): duration matches no reference length",
+    "lrclib 36866890 (hey jude / the beatles / the white album 50th anniversary super deluxe edition, 405.0s): duration matches no reference length",
+    "lrclib 37110218 (Hey Jude / The Beatles / Past Masters, 423.0s): duration matches no reference length",
+    "lrclib 37135554 (Hey Jude / The Beatles / Top 432, 239.0s): duration matches no reference length",
+    "lrclib 37129219 (Hey Jude / The Beatles / Music, 238.0s): duration matches no reference length",
+    "lrclib 37086498 (Hey Jude / The Beatles / Unsurpassed Masters, Volume 6 (1962–1969), 364.0s): duration matches no reference length",
+    "lrclib 37299910 (Hey Jude / The Beatles / 23: The Number Ones, 423.0s): duration matches no reference length",
+    "lrclib 37454136 (Hey Jude / The Beatles / iFillRadio Free Colorado - Classic + Modern Rock Mix, 130.0s): duration matches no reference length",
+    "lrclib 36855323 (Hey Jude / The Beatles / Love, 233.0s): duration matches no reference length",
+    "lrclib 36865785 (Hey Jude / The Beatles / The Beatles 1967 - 1970 (Remastered), 356.0s): duration matches no reference length",
+    "lrclib 36904095 (Hey Jude / The Beatles / Magical Mystery Mixes 4, 242.0s): duration matches no reference length",
+    "lrclib 18928188 (Hey Jude / The Beatles / Hey Jude (The Beatles Again), 417.4628608s): duration matches no reference length",
+    "lrclib 19831470 (Hey Jude / The Beatles / Hey Jude (The Beatles Again), 140.486531s): duration matches no reference length",
+    "lrclib 23388910 (Hey Jude / The Beatles / Hey Jude (The Beatles Again), 421.668571s): duration matches no reference length",
+    "lrclib 33750670 (Hey Jude / The Beatles / Hey Jude, 413.0s): duration matches no reference length",
+    "lrclib 33634985 (Hey Jude / The Beatles / Hey Jude, 315.0s): duration matches no reference length",
+    "lrclib 35875838 (Hey Jude / The Beatles / Hey Jude, 257.0s): duration matches no reference length",
+    "lrclib 36748169 (Hey Jude / The Beatles / Hey Jude, 177.0s): duration matches no reference length",
+    "lrclib 35370054 (Hey Jude / The Beatles / Hey Jude, 271.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

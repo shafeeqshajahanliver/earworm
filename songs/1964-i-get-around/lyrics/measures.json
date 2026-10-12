@@ -1,0 +1,41 @@
+{
+  "id": "1964-i-get-around",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1048881,
+  "lines": 34,
+  "words": 323,
+  "unique_words": 78,
+  "type_token_ratio": 0.241,
+  "repeated_line_share": 0.471,
+  "distinct_lines": 18,
+  "zlib_compression_ratio": 0.208,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i get around",
+  "title_phrase_occurrences": 32,
+  "pronouns": {
+    "first_singular": 43,
+    "second": 0,
+    "first_plural": 5
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.09,
+  "last_line_s": 126.95,
+  "sung_time_s": 116.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 166.1,
+  "words_per_minute_track": 146.8,
+  "longest_gap_between_lines_s": 16.06,
+  "longest_gap_starts_at_s": 49.43,
+  "first_repeated_block": {
+    "first_at_s": 6.67,
+    "recurs_at_s": 36.46,
+    "lines": [
+      "I get around (get around, 'round, 'round, I get around)",
+      "From town to town (get around, 'round, 'round, I get around)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1048881",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

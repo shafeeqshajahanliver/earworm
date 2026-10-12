@@ -1,0 +1,41 @@
+{
+  "id": "1974-the-loco-motion",
+  "lyrics_kind": "synced",
+  "lrclib_id": 18613532,
+  "lines": 37,
+  "words": 289,
+  "unique_words": 88,
+  "type_token_ratio": 0.304,
+  "repeated_line_share": 0.459,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.299,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "the loco motion",
+  "title_phrase_occurrences": 18,
+  "pronouns": {
+    "first_singular": 8,
+    "second": 10,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 3.61,
+  "last_line_s": 161.28,
+  "sung_time_s": 133.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 130.0,
+  "words_per_minute_track": 103.8,
+  "longest_gap_between_lines_s": 33.66,
+  "longest_gap_starts_at_s": 69.46,
+  "first_repeated_block": {
+    "first_at_s": 126.84,
+    "recurs_at_s": 134.67,
+    "lines": [
+      "So, come on, come on, and do the Loco-Motion with me",
+      "(Come on baby, do the Loco-Motion)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 18613532",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

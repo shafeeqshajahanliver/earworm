@@ -1,0 +1,66 @@
+{
+  "id": "1974-one-hell-of-a-woman",
+  "preview": {
+    "service": "itunes",
+    "track_id": 216333610,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "One Hell of a Woman",
+    "artist": "Mac Davis",
+    "album": "Stop and Smell the Roses",
+    "track_duration_s": 172.0,
+    "link": "https://music.apple.com/us/album/one-hell-of-a-woman/216333543?i=216333610&uo=4",
+    "duration_matched_to": "musicbrainz recording length (175s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 120.2,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      234.9,
+      123.0,
+      117.5
+    ],
+    "beats_detected": 60,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.747,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.683,
+    "chroma_profile": [
+      0.889,
+      0.777,
+      0.994,
+      0.652,
+      0.932,
+      0.642,
+      0.781,
+      0.867,
+      0.678,
+      1.0,
+      0.777,
+      0.879
+    ],
+    "rms_dbfs": -16.87,
+    "rms_dbfs_p95_frame": -13.14,
+    "peak_dbfs": -2.61,
+    "loudness_lufs_approx": -16.99,
+    "spectral_centroid_hz_mean": 1676.6,
+    "spectral_centroid_hz_median": 1668.4,
+    "onsets": 108,
+    "onset_density_per_s": 3.603,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 216333610",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 535070: duration 202s matches no reference length"
+  ]
+}

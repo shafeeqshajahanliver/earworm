@@ -1,0 +1,524 @@
+{
+  "id": "1994-hero",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Hero (Mariah Carey song)",
+  "wikidata": {
+    "qid": "Q933978",
+    "label": "Hero",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q41076",
+          "label": null
+        },
+        {
+          "qid": "Q256783",
+          "label": "Ane Brun"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q41076",
+          "label": null
+        },
+        {
+          "qid": "Q721684",
+          "label": "Walter Afanasieff"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q41076",
+          "label": null
+        },
+        {
+          "qid": "Q721684",
+          "label": "Walter Afanasieff"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1993-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q275259",
+          "label": "Music Box"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "ccfd199a-6fe7-3219-8cff-736128508a5b"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 4919e241-b9b7-32cb-8c0b-6d5c85aff4de (1993-10-18)",
+  "musicbrainz": {
+    "recording_id": "64e0d0e7-fe8c-406d-863f-17e9efeef5df",
+    "title": "Hero",
+    "length_ms": 259693,
+    "first_release_date": "1993-08-31",
+    "artist_credit": "Mariah Carey",
+    "artists": [
+      {
+        "name": "Mariah Carey",
+        "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4"
+      }
+    ],
+    "isrcs": [
+      "USSM19303171",
+      "USSM19304119"
+    ],
+    "recording_credits": [
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Walter Afanasieff",
+        "mbid": "f634fc9c-da81-4627-9913-455d638bbfdf"
+      },
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Mariah Carey",
+        "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Kyle Bess",
+        "mbid": "0bbd6cc4-3b6e-4c77-949f-527fe96dda7f"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Jim Caruana",
+        "mbid": "3363cf5a-22dc-4b44-9b34-17ff5e537438"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Dana Jon Chappelle",
+        "mbid": "36f1e563-a8ea-422b-914a-2bc2dc3591a8"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "David Gleeson",
+        "mbid": "522852de-8eb6-477d-bfe6-95b35888f68b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Manny LaCarrubba",
+        "mbid": "598d6dcc-9208-4c77-b117-d261390f4994"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Jen Monnar",
+        "mbid": "b188a55d-c455-45d2-8401-a5d35ee51bc7"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass synthesizer",
+          "keyboard",
+          "synclavier",
+          "synthesizer"
+        ],
+        "name": "Walter Afanasieff",
+        "mbid": "f634fc9c-da81-4627-9913-455d638bbfdf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar family"
+        ],
+        "name": "Michael Landau",
+        "mbid": "0bdb0975-5fec-43b7-8789-bb5bd6a1e1ba"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Mick Guzauski",
+        "mbid": "1fc3b7b8-58a3-431f-88cd-31ad1ac05b8d"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Walter Afanasieff",
+        "mbid": "f634fc9c-da81-4627-9913-455d638bbfdf"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Mariah Carey",
+        "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Walter Afanasieff",
+        "mbid": "f634fc9c-da81-4627-9913-455d638bbfdf"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "synclavier"
+        ],
+        "name": "Gary Cirimelli",
+        "mbid": "d40869fd-2d6a-4ab7-bbdb-b7537adb5a0c"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Ren Klyce",
+        "mbid": "204f0e12-43e5-45cd-a31c-8664d06e0b65"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "synclavier"
+        ],
+        "name": "Ren Klyce",
+        "mbid": "204f0e12-43e5-45cd-a31c-8664d06e0b65"
+      }
+    ],
+    "urls": [],
+    "genres": [
+      "ballad",
+      "contemporary r&b",
+      "dance-pop",
+      "electronic",
+      "house",
+      "pop",
+      "r&b",
+      "rock",
+      "soul"
+    ],
+    "tags": [
+      "pop",
+      "adult contemporary",
+      "ballad",
+      "dance-pop",
+      "house",
+      "contemporary r&b",
+      "electronic",
+      "other pop",
+      "r&b",
+      "rock"
+    ],
+    "releases": [
+      {
+        "id": "52da5942-e85b-4820-a798-4f237e5029da",
+        "title": "Chartbusters December 1993",
+        "date": "1993",
+        "country": "XE",
+        "status": null,
+        "release_group": "f8ae495c-4f68-480a-b07f-c10a3cc05828",
+        "primary_type": null,
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4b0b69fc-ad7e-4818-82c3-c16fab28ad76",
+        "title": "Hero",
+        "date": "1993",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "6b5c21a1-930f-49e3-9b27-1dffa50aaaf8",
+        "title": "Hero",
+        "date": "1993",
+        "country": "ES",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "f1b29974-1f6c-4b3f-80d6-906034b90cfc",
+        "title": "Hero",
+        "date": "1993",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "d6ba4b31-1c67-4787-88db-15ed00bbb91c",
+        "title": "Hero",
+        "date": "1993",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "48117aea-fbcb-4b8e-8e8e-9792ac75f4f2",
+        "title": "Hero",
+        "date": "1993",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "4fc0aa67-dda1-41d4-89f0-38ea47e3fcf6",
+        "title": "Hero",
+        "date": "1993",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "8be40069-0046-41ae-94c0-5caa22cf1328",
+        "title": "Hero",
+        "date": "1993",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "64d08fd6-a843-4e7e-b940-3df3a01d3e7f",
+        "title": "Hero",
+        "date": "1993",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "181b90ba-05f7-418e-9633-cfe0ad6449a7",
+        "title": "Music Box",
+        "date": "1993",
+        "country": "MX",
+        "status": "Official",
+        "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2c1231ad-1e1c-44a1-a11b-ece3e3219918",
+        "title": "Music Box",
+        "date": "1993",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "beb84d6f-6547-4740-a245-658b8a27b022",
+        "title": "Music Box",
+        "date": "1993",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d0c472e1-1d68-4245-90e6-1704601ddc37",
+        "title": "Music Box",
+        "date": "1993",
+        "country": "BR",
+        "status": "Official",
+        "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3bad2150-9db5-3c47-bf9a-12503901ab48",
+        "title": "Music Box",
+        "date": "1993",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4073c8f4-941e-34ce-8103-f8a751bd4bde",
+        "title": "Music Box",
+        "date": "1993-08-31",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a25c5756-fae8-4b8e-ab80-b88e98ce5ca2",
+        "title": "Music Box",
+        "date": "1993-09-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3aa37e86-f451-48d3-8ccd-5c4a8854bffe",
+        "title": "Hero",
+        "date": "1993-10-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "383f0aa3-1b16-40c9-be08-99f44a00cebf",
+        "title": "Hero",
+        "date": "1993-10-19",
+        "country": "US",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "780a0ad9-4b84-4c0e-af62-81e855445aec",
+        "title": "Hero",
+        "date": "1993-10-19",
+        "country": "US",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "66aecbdf-3f25-4bf4-99c4-09418ee58118",
+        "title": "Hero",
+        "date": "1993-10-19",
+        "country": "US",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "a28d0a1e-fb91-424f-8bf3-72707bf9b55a",
+        "title": "Hero",
+        "date": "1993-10-25",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "3bd1fa32-d115-47ed-af1b-2c6fb7f736bb",
+        "title": "Hero",
+        "date": "1993-10-25",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "052be3db-8985-4802-ac0a-c61251eb2890",
+        "title": "Hero",
+        "date": "1993-10-25",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "2894e2ef-ac6a-4a23-b75d-a154f6a349bc",
+        "title": "Hero",
+        "date": "1993-11-18",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "5c7c2682-d254-4372-bf9f-52142b810f57",
+        "title": "Hero",
+        "date": "1993-12-23",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "4919e241-b9b7-32cb-8c0b-6d5c85aff4de",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "ccfd199a-6fe7-3219-8cff-736128508a5b",
+      "title": "Hero",
+      "iswcs": [
+        "T-070.248.586-6",
+        "T-070.897.773-4"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Walter Afanasieff",
+          "mbid": "f634fc9c-da81-4627-9913-455d638bbfdf"
+        },
+        {
+          "role": "composer",
+          "name": "Mariah Carey",
+          "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4"
+        },
+        {
+          "role": "lyricist",
+          "name": "Mariah Carey",
+          "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/43071",
+        "https://www.wikidata.org/wiki/Q933978"
+      ]
+    },
+    "main_artist": {
+      "name": "Mariah Carey",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Huntington"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

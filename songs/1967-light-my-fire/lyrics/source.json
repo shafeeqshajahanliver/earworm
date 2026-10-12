@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 16124064,
+  "kind": "synced",
+  "matched": {
+    "track": "Light My Fire",
+    "artist": "The Doors",
+    "album": "Light My Fire",
+    "duration_s": 174.0
+  },
+  "duration_matched_to": "musicbrainz recording length (172s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 172.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 173.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 172.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 426.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 15,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36988547 (Light My Fire / The Doors / The Doors live, 499.0s): live/remix/other version",
+    "lrclib 37494991 (Light My Fire / The Doors / Live in chicago 1972 Part Two (Live), 814.0s): live/remix/other version",
+    "lrclib 37530819 (Light My Fire / The Doors / Scattered Sun, 595.0s): duration matches no reference length",
+    "lrclib 37141832 (Light My Fire / The Doors / The Complete Studio Albums, 418.0s): duration matches no reference length",
+    "lrclib 37320747 (Light My Fire / The Doors / Light My Fire, 160.0s): duration matches no reference length",
+    "lrclib 37323894 (Light my fire / The Doors / Flower Power, 186.0s): duration matches no reference length",
+    "lrclib 36892067 (Light My Fire / The Doors / 43 M de visualizaciones, 563.0s): duration matches no reference length",
+    "lrclib 34474021 (Light My Fire / The Doors / Live In Copenhagen, 1968, 646.0s): live/remix/other version",
+    "lrclib 34709558 (Light My Fire / The Doors / The Doors, 7.0s): duration matches no reference length",
+    "lrclib 35988510 (Light My Fire / The Doors / Light My Fire, 412.0s): duration matches no reference length",
+    "lrclib 35360730 (Light My Fire / The Doors / Light My Fire, 379.0s): duration matches no reference length",
+    "lrclib 19053761 (Light My Fire / The Doors / Light My Fire, 596.693333s): duration matches no reference length",
+    "lrclib 20582326 (Light My Fire / The Doors / Light My Fire, 525.0s): duration matches no reference length",
+    "lrclib 19766437 (Light My Fire / The Doors / Light My Fire, 3394.733333s): duration matches no reference length",
+    "lrclib 22033167 (Light My Fire / The Doors / Light My Fire, 193.5608s): duration matches no reference length",
+    "lrclib 24294586 (Light My Fire / The Doors / Light My Fire, 562.886531s): duration matches no reference length",
+    "lrclib 25349080 (Light My Fire / The Doors / Light My Fire, 594.337959s): duration matches no reference length",
+    "lrclib 31216340 (Light My Fire / The Doors / Light My Fire, 581.0s): duration matches no reference length",
+    "lrclib 31760096 (Light My Fire / The Doors / Light My Fire, 390.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

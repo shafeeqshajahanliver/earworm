@@ -1,0 +1,40 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 16359271,
+  "kind": "synced",
+  "matched": {
+    "track": "Knock Three Times",
+    "artist": "Tony Orlando and Dawn",
+    "album": "Knock Three Times & Candida",
+    "duration_s": 179.0
+  },
+  "duration_matched_to": "musicbrainz recording length (179s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 178.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 180.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 177.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 39,
+  "agreement_with_other_candidates": 0.933,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37282352 (Knock Three Times / Tony Orlando & Dawn / Lifetime of Romance: Missing You, 186.0s): duration matches no reference length",
+    "lrclib 34609038 (Knock Three Times / Tony Orlando & Dawn / Candida, 209.0s): duration matches no reference length",
+    "lrclib 21059393 (Knock Three Times / Tony Orlando & Dawn / Oldie Night - Vol. 06 - Cd 1, 187.4808192s): duration matches no reference length",
+    "lrclib 27535964 (Knock Three Times / Tony Orlando And Dawn / 70's Hit Diamonds 1, 188.708571s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

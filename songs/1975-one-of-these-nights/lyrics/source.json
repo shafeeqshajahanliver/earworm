@@ -1,0 +1,60 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 19054537,
+  "kind": "synced",
+  "matched": {
+    "track": "One of These Nights",
+    "artist": "Eagles",
+    "album": "One of These Nights",
+    "duration_s": 213.9950976
+  },
+  "duration_matched_to": "deezer preview track matched by search (213s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 208.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 213.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 208.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 295.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (213s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 34755504 (One Of These Nights / Eagles / The Ultimate Rock Collection: Gold And Platinum, 288.0s): duration matches no reference length",
+    "lrclib 34756908 (One of These Nights / Eagles / MTV Unplugged, Second and Alternate Night, Warner Bros. Studios, Burbank, Ca. April 28, 1994 (Doxy Collection, Remastered, Live), 287.0s): live/remix/other version",
+    "lrclib 35276554 (One of These Nights / Eagles / Eagles - One of These Nights (1975 Rock) [Flac 24-44] - 13. Eagles - One of These Nights, 242.0s): duration matches no reference length",
+    "lrclib 24259299 (One Of These Nights / The Eagles / Eagles - One Of These Nights, 287.5612499s): duration matches no reference length",
+    "lrclib 35914868 (One of These Nights / Eagles / One of These Nights, 50.0s): duration matches no reference length",
+    "lrclib 35914889 (One of These Nights / Eagles / One of These Nights, 200.0s): duration matches no reference length",
+    "lrclib 34294519 (One of These Nights / Eagles / One of These Nights, 242.0s): duration matches no reference length",
+    "lrclib 19993815 (One of these nights / Eagles / One of these Nights, 281.9563s): duration matches no reference length",
+    "lrclib 21199206 (One of These Nights / Eagles / One of These Nights, 248.534333s): duration matches no reference length",
+    "lrclib 20374262 (One of These Nights / Eagles / One of These Nights, 142.6s): duration matches no reference length",
+    "lrclib 22228439 (One Of These Nights / Eagles / One of These Nights, 238.5555s): duration matches no reference length",
+    "lrclib 22250913 (One Of These Nights / Eagles / One of These Nights, 399.051833s): duration matches no reference length",
+    "lrclib 21802677 (One of These Nights / Eagles / One of These Nights, 310.579825s): duration matches no reference length",
+    "lrclib 21515196 (One of These Nights / Eagles / One of These Nights, 268.616s): duration matches no reference length",
+    "lrclib 22719773 (One Of These Nights / Eagles / One of These Nights, 236.335125s): duration matches no reference length",
+    "lrclib 22825777 (One Of These Nights / Eagles / One of These Nights, 381.3408329s): duration matches no reference length",
+    "lrclib 24875510 (One of These Nights / Eagles / One of These Nights, 286.4326249s): duration matches no reference length",
+    "lrclib 25320689 (One Of These Nights / Eagles / One of These Nights, 223.848583s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

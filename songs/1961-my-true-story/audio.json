@@ -1,0 +1,77 @@
+{
+  "id": "1961-my-true-story",
+  "preview": {
+    "service": "deezer",
+    "track_id": 5623601,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USHJ10410827",
+    "title": "My True Story",
+    "artist": "The Jive Five",
+    "album": "Collectors Gold Series",
+    "track_duration_s": 155,
+    "link": "https://www.deezer.com/track/5623601",
+    "duration_matched_to": "musicbrainz recording length (155s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 184.8,
+    "tempo_bpm_grid": 184.6,
+    "tempo_candidates_bpm": [
+      184.6,
+      61.5,
+      198.8
+    ],
+    "beats_detected": 81,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.779,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.634,
+    "chroma_profile": [
+      0.602,
+      0.599,
+      0.968,
+      0.973,
+      0.656,
+      0.575,
+      0.538,
+      1.0,
+      0.697,
+      0.672,
+      0.791,
+      0.523
+    ],
+    "rms_dbfs": -10.33,
+    "rms_dbfs_p95_frame": -8.74,
+    "peak_dbfs": -0.85,
+    "loudness_lufs_approx": -10.38,
+    "spectral_centroid_hz_mean": 2716.4,
+    "spectral_centroid_hz_median": 2654.2,
+    "onsets": 32,
+    "onset_density_per_s": 1.067,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 5623601",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 182.9,
+    "gain": -10.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/5623601",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer 12382417: duration 166s matches no reference length",
+    "deezer 114686864: duration 30s matches no reference length",
+    "deezer 117195126: version (My True Story (Live))"
+  ]
+}

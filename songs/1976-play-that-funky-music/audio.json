@@ -1,0 +1,72 @@
+{
+  "id": "1976-play-that-funky-music",
+  "preview": {
+    "service": "deezer",
+    "track_id": 5404466,
+    "matched_by": "isrc",
+    "isrc": "USSM17600365",
+    "title": "Play That Funky Music (Single Version)",
+    "artist": "Wild Cherry",
+    "album": "70s 100 Hits",
+    "track_duration_s": 192,
+    "link": "https://www.deezer.com/track/5404466",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 109.0,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      112.3
+    ],
+    "beats_detected": 55,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.685,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.652,
+    "chroma_profile": [
+      0.868,
+      0.767,
+      0.9,
+      0.858,
+      0.952,
+      0.833,
+      0.841,
+      1.0,
+      0.902,
+      0.859,
+      0.907,
+      0.918
+    ],
+    "rms_dbfs": -13.38,
+    "rms_dbfs_p95_frame": -10.73,
+    "peak_dbfs": -2.14,
+    "loudness_lufs_approx": -12.41,
+    "spectral_centroid_hz_mean": 2993.2,
+    "spectral_centroid_hz_median": 2850.2,
+    "onsets": 129,
+    "onset_density_per_s": 4.302,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 5404466",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 109.38,
+    "gain": -13.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/5404466",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc FR6V81995847: matched but no preview available (readable=False)"
+  ]
+}

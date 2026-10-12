@@ -1,0 +1,73 @@
+{
+  "id": "1960-teen-angel",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1593268331,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "DEZZ52187888",
+    "title": "Teen Angel (Alternate Take)",
+    "artist": "Mark Dinning",
+    "album": "Mark Dinning Presents Teen Angel",
+    "track_duration_s": 160,
+    "link": "https://www.deezer.com/track/1593268331",
+    "duration_matched_to": "musicbrainz recording length (161s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 96.0,
+    "tempo_bpm_grid": 93.1,
+    "tempo_candidates_bpm": [
+      198.8,
+      184.6,
+      95.7
+    ],
+    "beats_detected": 47,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.947,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.603,
+    "chroma_profile": [
+      1.0,
+      0.38,
+      0.522,
+      0.356,
+      0.584,
+      0.611,
+      0.345,
+      0.866,
+      0.546,
+      0.58,
+      0.39,
+      0.496
+    ],
+    "rms_dbfs": -19.81,
+    "rms_dbfs_p95_frame": -14.85,
+    "peak_dbfs": -4.17,
+    "loudness_lufs_approx": -19.53,
+    "spectral_centroid_hz_mean": 1568.9,
+    "spectral_centroid_hz_median": 1417.5,
+    "onsets": 96,
+    "onset_density_per_s": 3.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1593268331",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -17.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1593268331",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1719219617: version (Teen Angel (Rerecorded))"
+  ]
+}

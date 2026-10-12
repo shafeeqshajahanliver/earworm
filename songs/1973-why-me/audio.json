@@ -1,0 +1,72 @@
+{
+  "id": "1973-why-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 531949,
+    "matched_by": "isrc",
+    "isrc": "USSM10314812",
+    "title": "Why Me",
+    "artist": "Kris Kristofferson",
+    "album": "16 Biggest Hits",
+    "track_duration_s": 207,
+    "link": "https://www.deezer.com/track/531949",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 81.4,
+    "tempo_bpm_grid": 82.0,
+    "tempo_candidates_bpm": [
+      83.4,
+      41.0,
+      78.3
+    ],
+    "beats_detected": 37,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.949,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.692,
+    "chroma_profile": [
+      0.749,
+      0.378,
+      0.698,
+      0.311,
+      0.515,
+      0.37,
+      0.562,
+      1.0,
+      0.353,
+      0.535,
+      0.365,
+      0.632
+    ],
+    "rms_dbfs": -13.79,
+    "rms_dbfs_p95_frame": -9.8,
+    "peak_dbfs": -0.43,
+    "loudness_lufs_approx": -13.67,
+    "spectral_centroid_hz_mean": 1750.2,
+    "spectral_centroid_hz_median": 1594.5,
+    "onsets": 40,
+    "onset_density_per_s": 1.334,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 531949",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 80.6,
+    "gain": -14.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/531949",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USSM19805602: matched but no preview available (readable=False)"
+  ]
+}

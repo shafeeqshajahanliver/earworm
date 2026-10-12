@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 31415867,
+  "kind": "synced",
+  "matched": {
+    "track": "Lonely Boy",
+    "artist": "Paul Anka",
+    "album": "Paul Anka",
+    "duration_s": 154.0
+  },
+  "duration_matched_to": "musicbrainz recording length (151s)",
+  "duration_diff_s": 3.0,
+  "reference_lengths": [
+    {
+      "seconds": 151.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 151.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 151.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37002793 (Lonely Boy / Paul Anka / Sessions, 179.0s): duration matches no reference length",
+    "lrclib 37464147 (Lonely Boy / Paul Anka / Yesterdays Gold (24 Golden Oldies) Vol 24, 144.0s): duration matches no reference length",
+    "lrclib 37304897 (Lonely Boy / Paul Anka / Vol. 06, 141.0s): duration matches no reference length",
+    "lrclib 37362422 (Lonely Boy / Paul Anka / The Very Best of Paul Anka [RCA US], 144.0s): duration matches no reference length",
+    "lrclib 37254062 (Lonely Boy / Paul Anka / 25 Super Oldies, Volume 1, 142.0s): duration matches no reference length",
+    "lrclib 34542575 (Lonely Boy / Paul Anka / Single, 158.0s): duration matches no reference length",
+    "lrclib 34621751 (Lonely Boy / Paul Anka / Paul Anka’s Great Hits — Strictly Instrumental, 151.0s): live/remix/other version",
+    "lrclib 35062915 (Lonely Boy / Paul Anka / I've Gotta Be Me, 144.0s): duration matches no reference length",
+    "lrclib 33600802 (Lonely Boy / Paul Anka / 50+ Classics, 158.0s): duration matches no reference length",
+    "lrclib 33610183 (Lonely Boy / Paul Anka / The Original Hits 1957-1969, 141.0s): duration matches no reference length",
+    "lrclib 33374496 (Lonely Boy / Paul Anka / 60s Best SuperHits of the Sixties and more, 145.0s): duration matches no reference length",
+    "lrclib 29866312 (Lonely Boy / Paul Anka / Lonely Boy, 144.0s): duration matches no reference length",
+    "lrclib 31205430 (Lonely Boy / Paul Anka / Paul Anka - Greatest Hits CD2, 158.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

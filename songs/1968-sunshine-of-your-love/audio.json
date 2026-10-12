@@ -1,0 +1,81 @@
+{
+  "id": "1968-sunshine-of-your-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2173194,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBAKW0300077",
+    "title": "Sunshine Of Your Love (BBC Sessions)",
+    "artist": "Cream",
+    "album": "BBC Sessions",
+    "track_duration_s": 250,
+    "link": "https://www.deezer.com/track/2173194",
+    "duration_matched_to": "wikipedia infobox length (248s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 110.2,
+    "tempo_bpm_grid": 107.7,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      71.8
+    ],
+    "beats_detected": 52,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.719,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.505,
+    "chroma_profile": [
+      0.898,
+      0.687,
+      0.762,
+      0.644,
+      0.705,
+      0.574,
+      0.571,
+      0.846,
+      0.794,
+      1.0,
+      0.632,
+      0.74
+    ],
+    "rms_dbfs": -14.58,
+    "rms_dbfs_p95_frame": -12.5,
+    "peak_dbfs": -3.49,
+    "loudness_lufs_approx": -14.78,
+    "spectral_centroid_hz_mean": 1541.3,
+    "spectral_centroid_hz_median": 1553.7,
+    "onsets": 81,
+    "onset_density_per_s": 2.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2173194",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 109.1,
+    "gain": -14.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2173194",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 3818569771: version (Sunshine of Your Love (Live))",
+    "deezer 1085711: version (Sunshine Of Your Love (Live))",
+    "deezer 807159592: version (Sunshine Of Your Love (Live At Oakland Coliseum Arena, California / 1968))",
+    "deezer 616656792: version (Sunshine Of Your Love (Live))",
+    "deezer 807159782: version (Sunshine Of Your Love (Live At The San Diego Sports Arena, USA / 1968))",
+    "deezer 807159902: version (Sunshine Of Your Love (Live At The Royal Albert Hall, UK / 1968))",
+    "deezer 4063029601: version (Sunshine Of Your Love (Live At Fillmore Auditorium, San Francisco, USA / 7th March 1968 / Remastered 2026))",
+    "deezer 807159702: version (Sunshine Of Your Love (Live At The Forum, Los Angeles / 1968))",
+    "deezer 14952818: version (Sunshine Of Your Love)"
+  ]
+}

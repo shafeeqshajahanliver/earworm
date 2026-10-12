@@ -1,0 +1,109 @@
+{
+  "id": "1999-angel-of-mine",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Angel of Mine",
+  "wikidata": {
+    "qid": "Q729825",
+    "label": "Angel of Mine",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q540500",
+          "label": "Eternal"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q7320466",
+          "label": "Rhett Lawrence"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q183412",
+          "label": "EMI"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1997-09-29"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q850412",
+          "label": "contemporary R&B"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q939078",
+          "label": "I Wanna Be the Only One"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q7990734",
+          "label": "What'cha Gonna Do"
+        }
+      ],
+      "musicbrainz_release_group_id": [
+        "f0048324-e75e-3174-84ba-494ebe574065"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 1c11b9f0-6337-4ca9-8b4c-25966838031b (1998-11-17)",
+  "musicbrainz": {
+    "recording_id": "49c10452-86fd-4fcd-9638-7dc1a304d1ab",
+    "title": "Angel of Mine",
+    "length_ms": 251493,
+    "first_release_date": "1998",
+    "artist_credit": "Monica",
+    "artists": [
+      {
+        "name": "Monica",
+        "mbid": "af84073d-3b6d-4390-9d3f-bf65a91c824f"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "c0e48940-b4b8-416a-8436-a4ec10bb1d8b",
+        "title": "Angel of Mine",
+        "date": "1998",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "1c11b9f0-6337-4ca9-8b4c-25966838031b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "632de553-a665-4a87-be0b-c5e0a2a14963",
+        "title": "Pure… 90s R&B",
+        "date": "2014",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "556d8b2a-9575-4770-a8a7-59d1e664623c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "main_artist": {
+      "name": "Monica",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Atlanta"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

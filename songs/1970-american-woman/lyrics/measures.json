@@ -1,0 +1,41 @@
+{
+  "id": "1970-american-woman",
+  "lyrics_kind": "synced",
+  "lrclib_id": 7091285,
+  "lines": 69,
+  "words": 295,
+  "unique_words": 84,
+  "type_token_ratio": 0.285,
+  "repeated_line_share": 0.362,
+  "distinct_lines": 44,
+  "zlib_compression_ratio": 0.281,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "american woman",
+  "title_phrase_occurrences": 15,
+  "pronouns": {
+    "first_singular": 29,
+    "second": 24,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.21,
+  "last_line_s": 228.79,
+  "sung_time_s": 180.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 98.4,
+  "words_per_minute_track": 76.6,
+  "longest_gap_between_lines_s": 51.85,
+  "longest_gap_starts_at_s": 91.78,
+  "first_repeated_block": {
+    "first_at_s": 47.08,
+    "recurs_at_s": 88.56,
+    "lines": [
+      "American woman",
+      "Listen what I say"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 7091285",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

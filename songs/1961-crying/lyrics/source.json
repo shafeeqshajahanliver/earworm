@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 131719,
+  "kind": "synced",
+  "matched": {
+    "track": "Crying",
+    "artist": "Roy Orbison",
+    "album": "Crying",
+    "duration_s": 168.0
+  },
+  "duration_matched_to": "musicbrainz recording length (167s)",
+  "duration_diff_s": 0.7,
+  "reference_lengths": [
+    {
+      "seconds": 167.333,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 165.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 166.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37527877 (Crying / Roy Orbison / You Got It [CDM], 228.0s): duration matches no reference length",
+    "lrclib 37144187 (Crying / Roy Orbison / The Very Best Of [192], 227.0s): duration matches no reference length",
+    "lrclib 37134621 (Crying / Roy Orbison / Roy Orbison's Greatest Hits, 156.0s): duration matches no reference length",
+    "lrclib 37063980 (Crying / Roy Orbison / Ballads, 227.0s): duration matches no reference length",
+    "lrclib 37294995 (Crying / Roy Orbison / Interview CD With Q & A, 93.0s): duration matches no reference length",
+    "lrclib 37377696 (Crying / Roy Orbison / Summer 69 ( Album II ) cd 5, 231.0s): duration matches no reference length",
+    "lrclib 35318502 (Crying / Roy Orbison / Candy Man, 178.0s): duration matches no reference length",
+    "lrclib 28154026 (Crying (Live) / Roy Orbison / Roy Orbison Live!, 176.0s): live/remix/other version",
+    "lrclib 24918090 (Crying (With K.D. Lang) / Roy Orbison / Roy Orbison, 226.533878s): duration matches no reference length",
+    "lrclib 19844175 (Crying / Roy Orbison / The Essential Roy Orbison, 227.533333s): duration matches no reference length",
+    "lrclib 23034318 (Crying / Roy Orbison / The Essential Roy Orbison, 182.448s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21318017,
+  "kind": "synced",
+  "matched": {
+    "track": "Why Me",
+    "artist": "Kris Kristofferson",
+    "album": "The Very Best Of",
+    "duration_s": 208.181187
+  },
+  "duration_matched_to": "musicbrainz recording length (208s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 208.2,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 207.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 206.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 0.868,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33568591 (Why Me / Kris Kristofferson / The Essential Kris Kristofferson, 283.0s): duration matches no reference length",
+    "lrclib 20124864 (Why Me? / Kris Kristofferson / 1999. The Austin Sessions, 178.146667s): duration matches no reference length",
+    "lrclib 21165024 (Why Me / Kris Kristofferson / Live From Austin, TX, 208.1066669s): live/remix/other version",
+    "lrclib 29857151 (Why Me / Kris Kristofferson / An Evening With Kris Kristofferson, 151.0s): duration matches no reference length",
+    "lrclib 22482512 (Why Me / Kris Kristofferson / The Life & Songs Of Kris Kristofferson, 281.214535s): duration matches no reference length",
+    "lrclib 29312837 (Why Me / Kris Kristofferson / Why Me (Live), 281.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

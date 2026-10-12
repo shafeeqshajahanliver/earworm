@@ -1,0 +1,78 @@
+{
+  "id": "1975-laughter-in-the-rain",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2407563215,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "DESK99391105",
+    "title": "Laughter in the Rain",
+    "artist": "Neil Sedaka",
+    "album": "The Very Best of Neil Sedaka",
+    "track_duration_s": 166,
+    "link": "https://www.deezer.com/track/2407563215",
+    "duration_matched_to": "musicbrainz recording length (167s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 100.6,
+    "tempo_bpm_grid": 99.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      198.8,
+      66.3
+    ],
+    "beats_detected": 46,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.9,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.809,
+    "chroma_profile": [
+      0.958,
+      0.285,
+      0.607,
+      0.288,
+      0.422,
+      1.0,
+      0.353,
+      0.675,
+      0.311,
+      0.548,
+      0.372,
+      0.302
+    ],
+    "rms_dbfs": -18.77,
+    "rms_dbfs_p95_frame": -15.49,
+    "peak_dbfs": -6.2,
+    "loudness_lufs_approx": -18.89,
+    "spectral_centroid_hz_mean": 2366.8,
+    "spectral_centroid_hz_median": 2170.1,
+    "onsets": 82,
+    "onset_density_per_s": 2.734,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2407563215",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -16.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2407563215",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBAKW0500056: matched but no preview available (readable=False)",
+    "deezer 4156739052: duration 200s matches no reference length",
+    "deezer 2407563345: duration 244s matches no reference length",
+    "deezer 8101948: version (Laughter In The Rain (Live))",
+    "deezer 3913210641: duration 255s matches no reference length",
+    "deezer 3912256401: duration 186s matches no reference length"
+  ]
+}

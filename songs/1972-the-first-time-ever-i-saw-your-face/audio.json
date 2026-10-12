@@ -1,0 +1,72 @@
+{
+  "id": "1972-the-first-time-ever-i-saw-your-face",
+  "preview": {
+    "service": "deezer",
+    "track_id": 683719,
+    "matched_by": "isrc",
+    "isrc": "USAT20107944",
+    "title": "The First Time Ever I Saw Your Face",
+    "artist": "Roberta Flack",
+    "album": "Pair Of Fives: Roberta Flack / Dionne Warwick",
+    "track_duration_s": 260,
+    "link": "https://www.deezer.com/track/683719",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.3,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      117.5,
+      123.0,
+      129.2
+    ],
+    "beats_detected": 61,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.697,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.542,
+    "chroma_profile": [
+      0.727,
+      0.361,
+      0.342,
+      0.305,
+      0.595,
+      0.89,
+      0.495,
+      1.0,
+      0.284,
+      0.261,
+      0.505,
+      0.433
+    ],
+    "rms_dbfs": -24.91,
+    "rms_dbfs_p95_frame": -19.33,
+    "peak_dbfs": -11.33,
+    "loudness_lufs_approx": -26.01,
+    "spectral_centroid_hz_mean": 1667.2,
+    "spectral_centroid_hz_median": 1609.1,
+    "onsets": 56,
+    "onset_density_per_s": 1.867,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 683719",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 127.2,
+    "gain": -21.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/683719",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (127.2) by 5%"
+  ],
+  "rejected_candidates": []
+}

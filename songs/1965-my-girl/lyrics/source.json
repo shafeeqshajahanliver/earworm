@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11175979,
+  "kind": "synced",
+  "matched": {
+    "track": "My Girl",
+    "artist": "The Temptations",
+    "album": "The Temptations Sing Smokey",
+    "duration_s": 177.0
+  },
+  "duration_matched_to": "musicbrainz recording length (178s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 177.533,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 179.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 165.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 176.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 0.831,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37518155 (My Girl / The Temptations / The Temptations, 187.0s): duration matches no reference length",
+    "lrclib 29730663 (My Girl / The Temptations / My Girl: The Very Best Of The Temptations, 159.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

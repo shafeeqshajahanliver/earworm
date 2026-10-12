@@ -1,0 +1,77 @@
+{
+  "id": "1963-my-boyfriends-back",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3013587241,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "FR59R1926986",
+    "title": "My Boyfriend's Back",
+    "artist": "The Angels",
+    "album": "The 60's, Vol. 4",
+    "track_duration_s": 129,
+    "link": "https://www.deezer.com/track/3013587241",
+    "duration_matched_to": "musicbrainz recording length (131s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 136.1,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      89.1,
+      68.0
+    ],
+    "beats_detected": 66,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.557,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.468,
+    "chroma_profile": [
+      0.904,
+      0.879,
+      0.986,
+      1.0,
+      0.91,
+      0.823,
+      0.81,
+      0.835,
+      0.899,
+      0.858,
+      0.965,
+      0.741
+    ],
+    "rms_dbfs": -16.8,
+    "rms_dbfs_p95_frame": -11.78,
+    "peak_dbfs": -0.65,
+    "loudness_lufs_approx": -16.49,
+    "spectral_centroid_hz_mean": 1982.5,
+    "spectral_centroid_hz_median": 1970.3,
+    "onsets": 118,
+    "onset_density_per_s": 3.935,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3013587241",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -14.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3013587241",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2817415642: duration 204s matches no reference length",
+    "deezer 3770148342: version (My Boyfriend's Back (Live))",
+    "deezer 1537839382: version (My Boyfriend's Back (Live On The Ed Sullivan Show, October 6, 1963))",
+    "deezer 6346228: duration 170s matches no reference length",
+    "deezer 6058362: version (My Boyfriend's Back (Rerecorded))"
+  ]
+}

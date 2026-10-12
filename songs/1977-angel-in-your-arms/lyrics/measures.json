@@ -1,0 +1,41 @@
+{
+  "id": "1977-angel-in-your-arms",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1079483,
+  "lines": 35,
+  "words": 285,
+  "unique_words": 97,
+  "type_token_ratio": 0.34,
+  "repeated_line_share": 0.371,
+  "distinct_lines": 22,
+  "zlib_compression_ratio": 0.294,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "angel in your arms",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 16,
+    "second": 22,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 3.06,
+  "last_line_s": 171.75,
+  "sung_time_s": 170.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 100.5,
+  "words_per_minute_track": 96.6,
+  "longest_gap_between_lines_s": 8.95,
+  "longest_gap_starts_at_s": 75.06,
+  "first_repeated_block": {
+    "first_at_s": 34.26,
+    "recurs_at_s": 109.64,
+    "lines": [
+      "When I first found out I hurt all over",
+      "I felt so left out 'til I got to know her"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1079483",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

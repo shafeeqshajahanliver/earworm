@@ -1,0 +1,70 @@
+{
+  "id": "1976-love-machine",
+  "preview": {
+    "service": "deezer",
+    "track_id": 542823582,
+    "matched_by": "isrc",
+    "isrc": "USUMG0000284",
+    "title": "Love Machine (Pt. 1)",
+    "artist": "The Miracles",
+    "album": "Hitsville USA, The Motown Collection 1972-1992",
+    "track_duration_s": 177,
+    "link": "https://www.deezer.com/track/542823582",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 143.8,
+    "tempo_bpm_grid": 143.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      71.8,
+      95.7
+    ],
+    "beats_detected": 72,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.75,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.685,
+    "chroma_profile": [
+      0.799,
+      0.811,
+      0.882,
+      0.83,
+      0.897,
+      0.832,
+      0.753,
+      0.782,
+      0.801,
+      1.0,
+      0.822,
+      0.785
+    ],
+    "rms_dbfs": -15.1,
+    "rms_dbfs_p95_frame": -10.65,
+    "peak_dbfs": -0.85,
+    "loudness_lufs_approx": -15.33,
+    "spectral_centroid_hz_mean": 2934.1,
+    "spectral_centroid_hz_median": 2761.4,
+    "onsets": 129,
+    "onset_density_per_s": 4.302,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 542823582",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 143.55,
+    "gain": -15.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/542823582",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

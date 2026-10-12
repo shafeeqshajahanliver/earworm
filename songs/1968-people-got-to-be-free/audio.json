@@ -1,0 +1,70 @@
+{
+  "id": "1968-people-got-to-be-free",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4306165,
+    "matched_by": "isrc",
+    "isrc": "USAT20902228",
+    "title": "People Got to Be Free",
+    "artist": "The Rascals",
+    "album": "Atlantic Records 40th Anniversary: Hit Singles [1958-1977]",
+    "track_duration_s": 179,
+    "link": "https://www.deezer.com/track/4306165",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 125.4,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      123.0,
+      129.2,
+      83.4
+    ],
+    "beats_detected": 62,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.644,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.519,
+    "chroma_profile": [
+      0.912,
+      0.553,
+      0.788,
+      0.903,
+      0.846,
+      1.0,
+      0.469,
+      0.616,
+      0.445,
+      0.654,
+      0.666,
+      0.556
+    ],
+    "rms_dbfs": -16.0,
+    "rms_dbfs_p95_frame": -12.85,
+    "peak_dbfs": -2.08,
+    "loudness_lufs_approx": -15.4,
+    "spectral_centroid_hz_mean": 1955.4,
+    "spectral_centroid_hz_median": 1887.2,
+    "onsets": 118,
+    "onset_density_per_s": 3.935,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4306165",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126,
+    "gain": -15.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4306165",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

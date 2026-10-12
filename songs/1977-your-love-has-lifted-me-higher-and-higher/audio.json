@@ -1,0 +1,75 @@
+{
+  "id": "1977-your-love-has-lifted-me-higher-and-higher",
+  "preview": {
+    "service": "deezer",
+    "track_id": 82622446,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSM10701858",
+    "title": "(Your Love Has Lifted Me) Higher and Higher",
+    "artist": "Rita Coolidge",
+    "album": "Havana Jam",
+    "track_duration_s": 212,
+    "link": "https://www.deezer.com/track/82622446",
+    "duration_matched_to": "musicbrainz recording length (210s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 137.2,
+    "tempo_bpm_grid": 137.8,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      92.3
+    ],
+    "beats_detected": 68,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.612,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.612,
+    "chroma_profile": [
+      0.522,
+      0.785,
+      0.565,
+      0.748,
+      0.665,
+      0.68,
+      0.641,
+      0.66,
+      1.0,
+      0.775,
+      0.791,
+      0.524
+    ],
+    "rms_dbfs": -12.84,
+    "rms_dbfs_p95_frame": -10.22,
+    "peak_dbfs": 0.82,
+    "loudness_lufs_approx": -12.99,
+    "spectral_centroid_hz_mean": 2156.9,
+    "spectral_centroid_hz_median": 2089.5,
+    "onsets": 106,
+    "onset_density_per_s": 3.535,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 82622446",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": 0,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/82622446",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Ab major and C# major"
+  ],
+  "rejected_candidates": [
+    "deezer 402044242: version ((Your Love Has Lifted Me) Higher & Higher (Live In Japan / 1979))"
+  ]
+}

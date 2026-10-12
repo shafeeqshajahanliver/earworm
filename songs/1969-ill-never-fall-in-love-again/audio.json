@@ -1,0 +1,70 @@
+{
+  "id": "1969-ill-never-fall-in-love-again",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1762780177,
+    "matched_by": "isrc",
+    "isrc": "GBF076720370",
+    "title": "I'll Never Fall In Love Again",
+    "artist": "Tom Jones",
+    "album": "The Best Of Tom Jones Country Hits 20th Century Masters The Millennium Collection",
+    "track_duration_s": 255,
+    "link": "https://www.deezer.com/track/1762780177",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 148.0,
+    "tempo_bpm_grid": 147.7,
+    "tempo_candidates_bpm": [
+      143.6,
+      152.0,
+      73.8
+    ],
+    "beats_detected": 74,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.758,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.656,
+    "chroma_profile": [
+      0.579,
+      0.618,
+      0.712,
+      1.0,
+      0.875,
+      0.522,
+      0.646,
+      0.759,
+      0.832,
+      0.542,
+      0.648,
+      0.972
+    ],
+    "rms_dbfs": -12.79,
+    "rms_dbfs_p95_frame": -9.4,
+    "peak_dbfs": -2.29,
+    "loudness_lufs_approx": -12.0,
+    "spectral_centroid_hz_mean": 1827.3,
+    "spectral_centroid_hz_median": 1796.6,
+    "onsets": 74,
+    "onset_density_per_s": 2.468,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1762780177",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1762780177",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

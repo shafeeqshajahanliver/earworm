@@ -1,0 +1,67 @@
+{
+  "id": "1962-johnny-angel",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1096974462,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Johnny Angel",
+    "artist": "Shelley Fabares",
+    "album": "Johnny Angel",
+    "track_duration_s": 142.2,
+    "link": "https://music.apple.com/us/album/johnny-angel/1096974297?i=1096974462&uo=4",
+    "duration_matched_to": "musicbrainz recording length (142s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.93,
+    "tempo_bpm": 106.6,
+    "tempo_bpm_grid": 108.8,
+    "tempo_candidates_bpm": [
+      215.3,
+      198.8,
+      107.7
+    ],
+    "beats_detected": 49,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.765,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.675,
+    "chroma_profile": [
+      1.0,
+      0.552,
+      0.658,
+      0.507,
+      0.772,
+      0.599,
+      0.752,
+      0.952,
+      0.736,
+      0.902,
+      0.564,
+      0.737
+    ],
+    "rms_dbfs": -16.7,
+    "rms_dbfs_p95_frame": -13.54,
+    "peak_dbfs": -2.37,
+    "loudness_lufs_approx": -15.78,
+    "spectral_centroid_hz_mean": 2904.0,
+    "spectral_centroid_hz_median": 2811.0,
+    "onsets": 97,
+    "onset_density_per_s": 3.241,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1096974462",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1245611032: duration 131s matches no reference length",
+    "deezer 3013598151: duration 132s matches no reference length"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1965-youve-lost-that-lovin-feelin",
+  "lyrics_kind": "synced",
+  "lrclib_id": 21054665,
+  "lines": 35,
+  "words": 242,
+  "unique_words": 87,
+  "type_token_ratio": 0.36,
+  "repeated_line_share": 0.314,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.34,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "you've lost that lovin feelin",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 14,
+    "second": 21,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.12,
+  "last_line_s": 219.31,
+  "sung_time_s": 190.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 76.4,
+  "words_per_minute_track": 65.1,
+  "longest_gap_between_lines_s": 11.6,
+  "longest_gap_starts_at_s": 103.76,
+  "first_repeated_block": {
+    "first_at_s": 33.2,
+    "recurs_at_s": 89.89,
+    "lines": [
+      "You've lost that lovin' feeling",
+      "Whoa, that lovin' feeling"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 21054665",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

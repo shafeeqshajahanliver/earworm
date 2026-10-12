@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 29075639,
+  "kind": "synced",
+  "matched": {
+    "track": "Silly Love Songs",
+    "artist": "Wings",
+    "album": "Silly Love Songs / Cook of The House",
+    "duration_s": 355.0
+  },
+  "duration_matched_to": "musicbrainz recording length (355s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 355.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 353.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 208.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 354.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37424318 (Silly Love Songs / Wings / Wings Over Europe 1976, 377.0s): duration matches no reference length",
+    "lrclib 35129167 (Silly Love Songs / Wings / All The Best (UK Version) [44.1-16 Tidal], 354.0s): live/remix/other version",
+    "lrclib 35317342 (Silly Love Songs / Wings / Wings Greatest, 365.0s): duration matches no reference length",
+    "lrclib 33576693 (Silly Love Songs / Wings / Wings Over America II, 365.0s): duration matches no reference length",
+    "lrclib 36242744 (Silly Love Songs / Wings / Select Mix - 70s Essentials Vol.14 WEB, 369.0s): duration matches no reference length",
+    "lrclib 36093124 (Silly Love Songs / Wings / All The Best (UK Version) [Remastered], 354.0s): live/remix/other version",
+    "lrclib 36569136 (Silly Love Songs / Wings / Man on the Run, 166.0s): duration matches no reference length",
+    "lrclib 33868604 (Silly Love Songs / Wings / Wings Greatest, 382.0s): duration matches no reference length",
+    "lrclib 26047143 (Silly Love Songs / Wings / Silly Love Songs / Cook of The House, 249.213333s): duration matches no reference length",
+    "lrclib 20220479 (Silly Love Songs / Wings / Wings Greatest, 3268.973333s): duration matches no reference length",
+    "lrclib 21328550 (Silly Love Songs / Wings / Wings Greatest, 345.5051669s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

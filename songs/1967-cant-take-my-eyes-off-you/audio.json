@@ -1,0 +1,77 @@
+{
+  "id": "1967-cant-take-my-eyes-off-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 725689,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USRH10175215",
+    "title": "Can't Take My Eyes off You",
+    "artist": "Frankie Valli",
+    "album": "The Very Best of Frankie Valli & The 4 Seasons",
+    "track_duration_s": 203,
+    "link": "https://www.deezer.com/track/725689",
+    "duration_matched_to": "wikipedia infobox length (204s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 62.6,
+    "tempo_bpm_grid": 62.6,
+    "tempo_candidates_bpm": [
+      63.0,
+      83.4,
+      129.2
+    ],
+    "beats_detected": 31,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.734,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.586,
+    "chroma_profile": [
+      0.36,
+      0.388,
+      0.41,
+      0.614,
+      1.0,
+      0.477,
+      0.443,
+      0.358,
+      0.459,
+      0.45,
+      0.374,
+      0.522
+    ],
+    "rms_dbfs": -14.63,
+    "rms_dbfs_p95_frame": -12.09,
+    "peak_dbfs": 0.97,
+    "loudness_lufs_approx": -13.17,
+    "spectral_centroid_hz_mean": 1936.2,
+    "spectral_centroid_hz_median": 1651.8,
+    "onsets": 82,
+    "onset_density_per_s": 2.734,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 725689",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 123.41,
+    "gain": -11.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/725689",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (123.4): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer 75782443: version (Can't Take My Eyes Off You)",
+    "deezer 5596710: version (Can't Take My Eyes off You (Live))"
+  ]
+}

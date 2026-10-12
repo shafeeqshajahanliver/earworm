@@ -1,0 +1,73 @@
+{
+  "id": "1965-downtown",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3786026142,
+    "matched_by": "isrc",
+    "isrc": "FRZ196400510",
+    "title": "Downtown",
+    "artist": "Petula Clark",
+    "album": "Platinum & Gold Collection",
+    "track_duration_s": 186,
+    "link": "https://www.deezer.com/track/3786026142",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.6,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      234.9,
+      117.5,
+      215.3
+    ],
+    "beats_detected": 55,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.699,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.565,
+    "chroma_profile": [
+      0.299,
+      0.304,
+      0.354,
+      0.823,
+      0.835,
+      0.489,
+      0.629,
+      0.607,
+      0.555,
+      0.462,
+      0.807,
+      1.0
+    ],
+    "rms_dbfs": -14.08,
+    "rms_dbfs_p95_frame": -10.18,
+    "peak_dbfs": -0.43,
+    "loudness_lufs_approx": -12.8,
+    "spectral_centroid_hz_mean": 2507.4,
+    "spectral_centroid_hz_median": 2356.3,
+    "onsets": 32,
+    "onset_density_per_s": 1.067,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3786026142",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3786026142",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc DEF068812030: matched but no preview available (readable=False)",
+    "deezer isrc GBAJE3400050: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/119755",
+    "title": "Raindrops",
+    "performer": "Dee Clark",
+    "is_original": true,
+    "first_release_date": "1961-04",
+    "releases": [
+      {
+        "title": "Raindrops",
+        "uri": "https://api.secondhandsongs.com/release/47303",
+        "performer": "Dee Clark"
+      },
+      {
+        "title": "Hold On... It's Dee Clark",
+        "uri": "https://api.secondhandsongs.com/release/10971",
+        "performer": "Dee Clark"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 21,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/112802",
+    "title": "Raindrops",
+    "language": "English",
+    "writers": [
+      "Dee Clark"
+    ],
+    "original_performer": "Dee Clark",
+    "versions": 22,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Regnvejr",
+        "uri": "https://api.secondhandsongs.com/work/115115"
+      },
+      {
+        "title": "Gotas de lluvia",
+        "uri": "https://api.secondhandsongs.com/work/208744"
+      }
+    ]
+  }
+}

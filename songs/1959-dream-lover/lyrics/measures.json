@@ -1,0 +1,41 @@
+{
+  "id": "1959-dream-lover",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1513402,
+  "lines": 47,
+  "words": 275,
+  "unique_words": 75,
+  "type_token_ratio": 0.273,
+  "repeated_line_share": 0.447,
+  "distinct_lines": 26,
+  "zlib_compression_ratio": 0.269,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "dream lover",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 34,
+    "second": 3,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.31,
+  "last_line_s": 146.08,
+  "sung_time_s": 144.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 113.9,
+  "words_per_minute_track": 109.1,
+  "longest_gap_between_lines_s": 6.04,
+  "longest_gap_starts_at_s": 104.78,
+  "first_repeated_block": {
+    "first_at_s": 21.4,
+    "recurs_at_s": 51.39,
+    "lines": [
+      "'Cause I want (yeah-yeah, yeah)",
+      "A girl (yeah-yeah, yeah)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1513402",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

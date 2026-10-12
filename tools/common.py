@@ -11,7 +11,7 @@ _last = {}
 # seconds between requests, per host
 DELAY = {"en.wikipedia.org": 3, "musicbrainz.org": 1.1, "query.wikidata.org": 2,
          "lrclib.net": 1, "api.deezer.com": 0.5, "itunes.apple.com": 3,
-         "coverartarchive.org": 1, "api.secondhandsongs.com": 6}
+         "coverartarchive.org": 1, "api.secondhandsongs.com": 10}
 
 
 def fetch(url, binary=False, cache=True, headers=None):

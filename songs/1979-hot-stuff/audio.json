@@ -1,0 +1,77 @@
+{
+  "id": "1979-hot-stuff",
+  "preview": {
+    "service": "deezer",
+    "track_id": 84250987,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM70852166",
+    "title": "Hot Stuff",
+    "artist": "Donna Summer",
+    "album": "Body By Jake: Sweating Disco Dance Party (BPM 108-128)",
+    "track_duration_s": 226,
+    "link": "https://www.deezer.com/track/84250987",
+    "duration_matched_to": "musicbrainz recording length (229s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 118.8,
+    "tempo_bpm_grid": 118.8,
+    "tempo_candidates_bpm": [
+      117.5,
+      234.9,
+      123.0
+    ],
+    "beats_detected": 59,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.702,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.662,
+    "chroma_profile": [
+      0.856,
+      0.682,
+      0.939,
+      0.923,
+      0.842,
+      0.665,
+      0.656,
+      1.0,
+      0.758,
+      0.747,
+      0.861,
+      0.821
+    ],
+    "rms_dbfs": -15.83,
+    "rms_dbfs_p95_frame": -11.56,
+    "peak_dbfs": -0.86,
+    "loudness_lufs_approx": -15.39,
+    "spectral_centroid_hz_mean": 2683.5,
+    "spectral_centroid_hz_median": 2622.6,
+    "onsets": 112,
+    "onset_density_per_s": 3.735,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 84250987",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/84250987",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USPR37907202: matched but no preview available (readable=False)",
+    "deezer 1175278: duration 406s matches no reference length",
+    "deezer 625097: version (Hot Stuff (Live))",
+    "deezer 71396090: version (Hot Stuff (Frankie Knuckles & Eric Kupper As Director's Cut Signature Mix))",
+    "deezer 474653292: duration 217s matches no reference length"
+  ]
+}

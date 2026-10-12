@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37187530,
+  "kind": "synced",
+  "matched": {
+    "track": "(Sittin' On) The Dock Of The Bay",
+    "artist": "Otis Redding",
+    "album": "On The Dock Of The Bay",
+    "duration_s": 162.0
+  },
+  "duration_matched_to": "musicbrainz recording length (162s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 162.373,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 162.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 158.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37194233 ((Sittin' On) The Dock Of The Bay / Otis Redding / Only Rock 'N' Roll 1965-1969, 168.0s): duration matches no reference length",
+    "lrclib 37104533 ((Sittin' On) The Dock Of The Bay / Otis Redding / Platoon (Original Motion Picture Soundtrack And Songs From The Era), 189.0s): duration matches no reference length",
+    "lrclib 20312834 ((Sittin' On) the Dock of the Bay / Otis Redding / 1968 - Otis Redding - The Dock Of The Bay, 850.311837s): duration matches no reference length",
+    "lrclib 29496988 ((Sittin' On) The Dock Of The Bay / Otis Redding / Dock of the Bay, 190.0s): duration matches no reference length",
+    "lrclib 34012340 ((Sittin’ on) The Dock of the Bay / Otis Redding / The Dock of the Bay, 183.0s): duration matches no reference length",
+    "lrclib 25337987 ((Sittin' On) The Dock Of The Bay / Otis Redding / The Dock of the Bay, 211.450706s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

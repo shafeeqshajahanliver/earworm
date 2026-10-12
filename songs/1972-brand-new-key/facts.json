@@ -1,0 +1,143 @@
+{
+  "id": "1972-brand-new-key",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Brand New Key",
+  "wikidata": {
+    "qid": "Q4956526",
+    "label": "Brand New Key",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q157293",
+          "label": "Melanie"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q157293",
+          "label": "Melanie"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q157293",
+          "label": "Melanie"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q6988033",
+          "label": "Neighborhood Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1971-10-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q235858",
+          "label": "traditional folk music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q5527352",
+          "label": "Gather Me"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q1953769",
+          "label": "Ruby Tuesday"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "eeb9b860-45ce-468a-b888-559fcb6a349a"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 5224a1bb-03a4-32e7-9d99-871ca9b4d7f1 (1971-10)",
+  "musicbrainz": {
+    "recording_id": "ea2a7989-00f9-4565-b311-2794c4aeee93",
+    "title": "Brand New Key",
+    "length_ms": 144000,
+    "first_release_date": "1971-10",
+    "artist_credit": "Melanie",
+    "artists": [
+      {
+        "name": "Melanie",
+        "mbid": "c8c3beb5-d213-40e6-9ef6-d4e1cad59e12"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "5c60af52-503b-4175-9bfc-b45b0498349d",
+        "title": "Brand New Key",
+        "date": "1971",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "5224a1bb-03a4-32e7-9d99-871ca9b4d7f1",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "d70788bb-9ac0-41b6-8045-00e2aabcbfbd",
+        "title": "Brand New Key",
+        "date": "1971-10",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "5224a1bb-03a4-32e7-9d99-871ca9b4d7f1",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "4f83f273-c561-4837-9873-3e14e21b6527",
+      "title": "Brandnew Key",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Melanie",
+          "mbid": "c8c3beb5-d213-40e6-9ef6-d4e1cad59e12"
+        },
+        {
+          "role": "lyricist",
+          "name": "Melanie",
+          "mbid": "c8c3beb5-d213-40e6-9ef6-d4e1cad59e12"
+        }
+      ],
+      "urls": []
+    },
+    "main_artist": {
+      "name": "Melanie",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Astoria"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1970-raindrops-keep-fallin-on-my-head",
+  "lyrics_kind": "synced",
+  "lrclib_id": 11676339,
+  "lines": 27,
+  "words": 180,
+  "unique_words": 82,
+  "type_token_ratio": 0.456,
+  "repeated_line_share": 0.185,
+  "distinct_lines": 22,
+  "zlib_compression_ratio": 0.365,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "raindrops keep fallin on my head",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 24,
+    "second": 0,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.9,
+  "last_line_s": 139.98,
+  "sung_time_s": 129.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 83.7,
+  "words_per_minute_track": 60.0,
+  "longest_gap_between_lines_s": 13.44,
+  "longest_gap_starts_at_s": 91.65,
+  "first_repeated_block": {
+    "first_at_s": 59.73,
+    "recurs_at_s": 107.22,
+    "lines": [
+      "'Til happiness steps up to greet me",
+      "Raindrops keep falling on my head"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 11676339",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 23815727,
+  "kind": "synced",
+  "matched": {
+    "track": "Kicks",
+    "artist": "Paul Revere & The Raiders",
+    "album": "Midnight Ride",
+    "duration_s": 144.540833
+  },
+  "duration_matched_to": "musicbrainz recording length (146s)",
+  "duration_diff_s": 1.5,
+  "reference_lengths": [
+    {
+      "seconds": 146.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 146.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 146.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37289808 (Kicks / Paul Revere & The Raiders / 20 Best of 60's Rock 'n' Roll (Re-Recorded Version), 151.0s): live/remix/other version",
+    "lrclib 37304333 (Kicks / Paul Revere & The Raiders / Billboard Year-End Hot 100 sin, 166.0s): duration matches no reference length",
+    "lrclib 36926986 (Kicks / Paul Revere & The Raiders / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 34374777 (Kicks / Paul Revere & The Raiders / 100 '60s Garage Rock Hits, 189.0s): duration matches no reference length",
+    "lrclib 34374822 (Kicks / Paul Revere & The Raiders / Música de más allá de la Galaxia (Re-Recording), 162.0s): duration matches no reference length",
+    "lrclib 33793884 (Kicks / Paul Revere & The Raiders / Brady Days - Music Inspired By The Brady Bunch, 166.0s): duration matches no reference length",
+    "lrclib 36081846 (Kicks / Paul Revere & The Raiders / Choice Rock Cuts, 166.0s): duration matches no reference length",
+    "lrclib 36758176 (Kicks / Paul Revere & the Raiders / Super Hits, 857.0s): duration matches no reference length",
+    "lrclib 1254767 (Kicks / Paul Revere & The Raiders / Paul Revere & the Raiders, 174.0s): duration matches no reference length",
+    "lrclib 30870774 (Kicks / Paul Revere & The Raiders / The Essential Paul Revere & The Raiders, 153.0s): duration matches no reference length",
+    "lrclib 2385668 (Kicks / Paul Revere & The Raiders / Midnight Ride With The Paul Revere & The Raiders, 174.0s): duration matches no reference length",
+    "lrclib 24131663 (Kicks / Paul Revere & The Raiders / Paul Revere and the Raiders - Best of... (Re-Recordings), 163.0s): duration matches no reference length",
+    "lrclib 32591069 (Kicks (remix) / Paul Revere and the Raiders / The Legend of Paul Revere, 146.0s): live/remix/other version",
+    "lrclib 14012956 (Kicks (remix) / Paul Revere and The Raiders / The Legend of Paul Revere, 148.5951488s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

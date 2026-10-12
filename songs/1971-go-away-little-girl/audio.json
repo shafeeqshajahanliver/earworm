@@ -1,0 +1,70 @@
+{
+  "id": "1971-go-away-little-girl",
+  "preview": {
+    "service": "deezer",
+    "track_id": 471582392,
+    "matched_by": "isrc",
+    "isrc": "USUM71802713",
+    "title": "Go Away Little Girl",
+    "artist": "Donny Osmond",
+    "album": "To You With Love, Donny",
+    "track_duration_s": 150,
+    "link": "https://www.deezer.com/track/471582392",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 107.9,
+    "tempo_bpm_grid": 108.8,
+    "tempo_candidates_bpm": [
+      107.7,
+      112.3,
+      53.8
+    ],
+    "beats_detected": 54,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.885,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.71,
+    "chroma_profile": [
+      0.456,
+      0.389,
+      1.0,
+      0.531,
+      0.743,
+      0.548,
+      0.846,
+      0.87,
+      0.535,
+      0.797,
+      0.468,
+      0.795
+    ],
+    "rms_dbfs": -10.08,
+    "rms_dbfs_p95_frame": -7.08,
+    "peak_dbfs": 0.37,
+    "loudness_lufs_approx": -8.71,
+    "spectral_centroid_hz_mean": 2459.3,
+    "spectral_centroid_hz_median": 2446.4,
+    "onsets": 77,
+    "onset_density_per_s": 2.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 471582392",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/471582392",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

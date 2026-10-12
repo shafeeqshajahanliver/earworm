@@ -1,0 +1,41 @@
+{
+  "id": "1967-cant-take-my-eyes-off-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1868153,
+  "lines": 45,
+  "words": 265,
+  "unique_words": 82,
+  "type_token_ratio": 0.309,
+  "repeated_line_share": 0.467,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.284,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "can't take my eyes off you",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 35,
+    "second": 26,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 16.45,
+  "last_line_s": 191.51,
+  "sung_time_s": 156.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 101.7,
+  "words_per_minute_track": 77.9,
+  "longest_gap_between_lines_s": 20.65,
+  "longest_gap_starts_at_s": 74.12,
+  "first_repeated_block": {
+    "first_at_s": 39.75,
+    "recurs_at_s": 70.02,
+    "lines": [
+      "You're just too good to be true",
+      "Can't take my eyes off you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1868153",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

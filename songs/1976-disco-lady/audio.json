@@ -1,0 +1,74 @@
+{
+  "id": "1976-disco-lady",
+  "preview": {
+    "service": "deezer",
+    "track_id": 635525462,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USCGH1993186",
+    "title": "Disco Lady (Single Version)",
+    "artist": "Johnnie Taylor",
+    "album": "The Vaults Vol. 5",
+    "track_duration_s": 238,
+    "link": "https://www.deezer.com/track/635525462",
+    "duration_matched_to": "wikipedia infobox length (242s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 105.0,
+    "tempo_bpm_grid": 105.5,
+    "tempo_candidates_bpm": [
+      215.3,
+      103.4,
+      107.7
+    ],
+    "beats_detected": 53,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.691,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.525,
+    "chroma_profile": [
+      0.476,
+      0.565,
+      0.868,
+      0.662,
+      1.0,
+      0.542,
+      0.544,
+      0.787,
+      0.549,
+      0.565,
+      0.548,
+      0.63
+    ],
+    "rms_dbfs": -11.84,
+    "rms_dbfs_p95_frame": -8.38,
+    "peak_dbfs": -0.01,
+    "loudness_lufs_approx": -12.17,
+    "spectral_centroid_hz_mean": 2391.7,
+    "spectral_centroid_hz_median": 2211.0,
+    "onsets": 140,
+    "onset_density_per_s": 4.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 635525462",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/635525462",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 848922: duration 464s matches no reference length",
+    "deezer 2643760062: version (Disco Lady (Live))"
+  ]
+}

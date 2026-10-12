@@ -1,0 +1,41 @@
+{
+  "id": "1970-they-long-to-be-close-to-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 4827601,
+  "lines": 28,
+  "words": 175,
+  "unique_words": 59,
+  "type_token_ratio": 0.337,
+  "repeated_line_share": 0.536,
+  "distinct_lines": 13,
+  "zlib_compression_ratio": 0.293,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "close to you",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 5,
+    "second": 17,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 10.18,
+  "last_line_s": 168.9,
+  "sung_time_s": 144.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 72.8,
+  "words_per_minute_track": 47.7,
+  "longest_gap_between_lines_s": 27.5,
+  "longest_gap_starts_at_s": 92.16,
+  "first_repeated_block": {
+    "first_at_s": 21.54,
+    "recurs_at_s": 43.3,
+    "lines": [
+      "Just like me, they long to be",
+      "Close to you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 4827601",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

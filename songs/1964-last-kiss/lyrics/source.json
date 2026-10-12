@@ -1,0 +1,35 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25729215,
+  "kind": "synced",
+  "matched": {
+    "track": "Last Kiss",
+    "artist": "J. Frank Wilson and the Cavaliers",
+    "album": "Billboard Top Rock'n'Roll Hits: 1964",
+    "duration_s": 147.7333329
+  },
+  "duration_matched_to": "musicbrainz recording length (148s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 147.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 148.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 145.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

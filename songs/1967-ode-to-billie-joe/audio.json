@@ -1,0 +1,70 @@
+{
+  "id": "1967-ode-to-billie-joe",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3102672,
+    "matched_by": "isrc",
+    "isrc": "USCN18900028",
+    "title": "Ode To Billie Joe",
+    "artist": "Bobbie Gentry",
+    "album": "Ode To Bobbie Gentry... The Capitol Years",
+    "track_duration_s": 254,
+    "link": "https://www.deezer.com/track/3102672",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 125.3,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      78.3,
+      123.0,
+      117.5
+    ],
+    "beats_detected": 62,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.793,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.684,
+    "chroma_profile": [
+      0.457,
+      0.412,
+      1.0,
+      0.399,
+      0.408,
+      0.372,
+      0.452,
+      0.456,
+      0.303,
+      0.507,
+      0.273,
+      0.317
+    ],
+    "rms_dbfs": -14.47,
+    "rms_dbfs_p95_frame": -10.35,
+    "peak_dbfs": -0.55,
+    "loudness_lufs_approx": -14.28,
+    "spectral_centroid_hz_mean": 1784.0,
+    "spectral_centroid_hz_median": 1642.9,
+    "onsets": 124,
+    "onset_density_per_s": 4.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3102672",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 122,
+    "gain": -14.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3102672",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

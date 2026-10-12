@@ -1,0 +1,69 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/59957",
+    "title": "Cathy's Clown",
+    "performer": "The Everly Brothers",
+    "is_original": true,
+    "first_release_date": "1960-04",
+    "releases": [
+      {
+        "title": "Cathy's Clown",
+        "uri": "https://api.secondhandsongs.com/release/24111",
+        "performer": "The Everly Brothers"
+      },
+      {
+        "title": "A Date with The Everly Brothers",
+        "uri": "https://api.secondhandsongs.com/release/1577",
+        "performer": "The Everly Brothers"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 44,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/59957",
+    "title": "Cathy's Clown",
+    "language": "English",
+    "writers": [
+      "Don Everly"
+    ],
+    "original_performer": "The Everly Brothers",
+    "versions": 45,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Cathy's Clown",
+        "uri": "https://api.secondhandsongs.com/work/189115"
+      },
+      {
+        "title": "Le p'tit clown de ton cœur",
+        "uri": "https://api.secondhandsongs.com/work/69570"
+      },
+      {
+        "title": "Joe Brown, der Clown",
+        "uri": "https://api.secondhandsongs.com/work/142521"
+      },
+      {
+        "title": "Sen siitä saa",
+        "uri": "https://api.secondhandsongs.com/work/147346"
+      },
+      {
+        "title": "En pelleks jää",
+        "uri": "https://api.secondhandsongs.com/work/174260"
+      },
+      {
+        "title": "Þetta flón",
+        "uri": "https://api.secondhandsongs.com/work/257126"
+      },
+      {
+        "title": "O fantoche do amor",
+        "uri": "https://api.secondhandsongs.com/work/322267"
+      }
+    ]
+  }
+}

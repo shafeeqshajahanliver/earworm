@@ -1,0 +1,41 @@
+{
+  "id": "1961-pony-time",
+  "lyrics_kind": "synced",
+  "lrclib_id": 36940660,
+  "lines": 36,
+  "words": 218,
+  "unique_words": 70,
+  "type_token_ratio": 0.321,
+  "repeated_line_share": 0.222,
+  "distinct_lines": 28,
+  "zlib_compression_ratio": 0.328,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "pony time",
+  "title_phrase_occurrences": 2,
+  "pronouns": {
+    "first_singular": 4,
+    "second": 17,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.92,
+  "last_line_s": 144.41,
+  "sung_time_s": 127.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 102.4,
+  "words_per_minute_track": 89.0,
+  "longest_gap_between_lines_s": 13.5,
+  "longest_gap_starts_at_s": 77.74,
+  "first_repeated_block": {
+    "first_at_s": 17.33,
+    "recurs_at_s": 35.97,
+    "lines": [
+      "So get with it,",
+      "Don't quit it,"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 36940660",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

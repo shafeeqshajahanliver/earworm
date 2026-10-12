@@ -1,0 +1,75 @@
+{
+  "id": "1973-will-it-go-round-in-circles",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7292567,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUMG0000142",
+    "title": "Will It Go Round In Circles",
+    "artist": "Billy Preston",
+    "album": "Ultimate Collection: Billy Preston",
+    "track_duration_s": 267,
+    "link": "https://www.deezer.com/track/7292567",
+    "duration_matched_to": "wikipedia infobox length (268s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.2,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      198.8,
+      48.8
+    ],
+    "beats_detected": 48,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.516,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.422,
+    "chroma_profile": [
+      0.601,
+      0.592,
+      0.508,
+      0.677,
+      0.503,
+      0.656,
+      0.835,
+      0.834,
+      1.0,
+      0.577,
+      0.549,
+      0.526
+    ],
+    "rms_dbfs": -12.33,
+    "rms_dbfs_p95_frame": -9.07,
+    "peak_dbfs": 0.14,
+    "loudness_lufs_approx": -12.05,
+    "spectral_centroid_hz_mean": 2050.9,
+    "spectral_centroid_hz_median": 1940.9,
+    "onsets": 131,
+    "onset_density_per_s": 4.368,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7292567",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 98.7,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7292567",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1761779467: duration 230s matches no reference length",
+    "deezer 1490294722: version (Will It Go Round In Circles (Live))",
+    "deezer 1490294832: version (Will It Go Round In Circles (Live/UK Version))"
+  ]
+}

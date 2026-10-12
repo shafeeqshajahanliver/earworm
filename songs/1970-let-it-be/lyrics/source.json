@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37061705,
+  "kind": "synced",
+  "matched": {
+    "track": "Let It Be",
+    "artist": "The Beatles",
+    "album": "Let It Be (2009 Stereo Remastered)",
+    "duration_s": 243.0
+  },
+  "duration_matched_to": "musicbrainz recording length (243s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 243.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 243.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 230.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 243.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37501173 (Let It Be / The Beatles / Let It Be, 368.0s): duration matches no reference length",
+    "lrclib 37490449 (Let It Be / The Beatles / Let It Be․․․ Naked, 237.0s): duration matches no reference length",
+    "lrclib 37192387 (Let It Be / The Beatles / Let It Be (Remastered), 50.0s): duration matches no reference length",
+    "lrclib 37101625 (Let It Be / The Beatles / Let It Be (50th Anniversary Remix Vinyl Rip), 243.0s): live/remix/other version",
+    "lrclib 37341931 (Let It Be / The Beatles / Let It Be: The Last Sessions, 76.0s): duration matches no reference length",
+    "lrclib 37426873 (Let It Be / The Beatles / Let It Be Sessions, 166.0s): duration matches no reference length",
+    "lrclib 36872640 (Let It Be / The Beatles / Nagra! (Disc 2), 159.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

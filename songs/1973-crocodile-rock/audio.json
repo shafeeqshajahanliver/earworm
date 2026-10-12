@@ -1,0 +1,70 @@
+{
+  "id": "1973-crocodile-rock",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1124103,
+    "matched_by": "isrc",
+    "isrc": "GBAMB7200001",
+    "title": "Crocodile Rock",
+    "artist": "Elton John",
+    "album": "Don't Shoot Me I'm Only The Piano Player",
+    "track_duration_s": 236,
+    "link": "https://www.deezer.com/track/1124103",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 149.6,
+    "tempo_bpm_grid": 149.8,
+    "tempo_candidates_bpm": [
+      152.0,
+      99.4,
+      76.0
+    ],
+    "beats_detected": 75,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.638,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.517,
+    "chroma_profile": [
+      0.675,
+      0.612,
+      0.909,
+      0.681,
+      1.0,
+      0.681,
+      0.657,
+      0.725,
+      0.526,
+      0.696,
+      0.51,
+      0.61
+    ],
+    "rms_dbfs": -10.78,
+    "rms_dbfs_p95_frame": -7.86,
+    "peak_dbfs": 3.91,
+    "loudness_lufs_approx": -8.97,
+    "spectral_centroid_hz_mean": 2992.8,
+    "spectral_centroid_hz_median": 2897.4,
+    "onsets": 132,
+    "onset_density_per_s": 4.402,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1124103",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 149.3,
+    "gain": -9.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1124103",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

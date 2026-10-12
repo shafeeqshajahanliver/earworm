@@ -1,0 +1,179 @@
+{
+  "id": "1975-fame",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Fame (David Bowie song)",
+  "wikidata": {
+    "qid": "Q288281",
+    "label": "Fame",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q5383",
+          "label": "David Bowie"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q5383",
+          "label": "David Bowie"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q5383",
+          "label": "David Bowie"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q5383",
+          "label": "David Bowie"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q202585",
+          "label": "RCA Records"
+        },
+        {
+          "qid": "Q656752",
+          "label": "Rykodisc"
+        },
+        {
+          "qid": "Q3629023",
+          "label": "EMI Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1975-07-25"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q164444",
+          "label": "funk"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "283",
+          "unit": "Q11574"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q2706376",
+          "label": "Young Americans"
+        },
+        {
+          "qid": "Q7245821",
+          "label": "Prisoner of Love"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q2975273",
+          "label": "Golden Years"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "a0a52d8f-bacc-32d8-9117-331d6c99a755"
+      ],
+      "musicbrainz_release_group_id": [
+        "b6dc42e4-9596-4b21-a417-f9dc715906b4"
+      ],
+      "youtube_video_id": [
+        "lp-qDhR2shQ"
+      ],
+      "recorded_at": [
+        {
+          "qid": "Q1325913",
+          "label": "Electric Lady Studios"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group b6dc42e4-9596-4b21-a417-f9dc715906b4 (1975)",
+  "musicbrainz": {
+    "recording_id": "dd8107ea-3f28-4369-9055-535fb688b0b4",
+    "title": "Fame",
+    "length_ms": 210000,
+    "first_release_date": "1975",
+    "artist_credit": "David Bowie",
+    "artists": [
+      {
+        "name": "David Bowie",
+        "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [
+      "classic rock",
+      "glam rock",
+      "pop rock",
+      "rock",
+      "soul"
+    ],
+    "tags": [
+      "rock",
+      "classic rock",
+      "glam rock",
+      "pop rock",
+      "soul"
+    ],
+    "releases": [
+      {
+        "id": "aa58cb6f-4543-4cb1-9c14-2f50c38e94c0",
+        "title": "Fame",
+        "date": "1975",
+        "country": "US",
+        "status": "Official",
+        "release_group": "b6dc42e4-9596-4b21-a417-f9dc715906b4",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "a0a52d8f-bacc-32d8-9117-331d6c99a755",
+      "title": "Fame",
+      "iswcs": [
+        "T-070.057.144-3"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Carlos Alomar",
+          "mbid": "0719999c-d1bf-4e4b-b0a7-61a5384d0039"
+        },
+        {
+          "role": "writer",
+          "name": "David Bowie",
+          "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50"
+        },
+        {
+          "role": "writer",
+          "name": "John Lennon",
+          "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/1540",
+        "https://www.wikidata.org/wiki/Q288281"
+      ]
+    },
+    "main_artist": {
+      "name": "David Bowie",
+      "type": "Person",
+      "country": "GB",
+      "area": "England",
+      "begin_area": "Brixton"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

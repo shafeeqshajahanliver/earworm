@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1918259,
+  "kind": "synced",
+  "matched": {
+    "track": "Build Me Up Buttercup",
+    "artist": "The Foundations",
+    "album": "Build Me Up Buttercup",
+    "duration_s": 178.0
+  },
+  "duration_matched_to": "musicbrainz recording length (178s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 178.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 179.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 180.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37164008 (Build Me Up Buttercup / The Foundations / The Fab 60's, 160.0s): duration matches no reference length",
+    "lrclib 37053783 (Build me up buttercup / The foundations / 25 of the greatest love songs Vol.3, 166.0s): duration matches no reference length",
+    "lrclib 37441045 (Build Me Up Buttercup / The Foundations / 80 Golden Soul Hits, 160.0s): duration matches no reference length",
+    "lrclib 33573474 (Build Me Up Buttercup / The Foundations / Build Me Up Buttercup, 192.0s): duration matches no reference length",
+    "lrclib 36255450 (Build Me Up Buttercup / The Foundations / Build Me Up Buttercup, 124.0s): duration matches no reference length",
+    "lrclib 35707017 (Build Me up Buttercup / The Foundations / Build Me up Buttercup, 216.0s): duration matches no reference length",
+    "lrclib 19939366 (Build Me Up Buttercup / The Foundations / Build Me Up Buttercup, 158.667755s): duration matches no reference length",
+    "lrclib 27194943 (Build Me Up Buttercup / The Foundations / Build Me Up Buttercup, 186.603062s): duration matches no reference length",
+    "lrclib 27127425 (Build Me Up Buttercup / The Foundations / Build Me Up Buttercup - Single, 192.12s): duration matches no reference length",
+    "lrclib 5039577 (Build Me up Buttercup (Re-Recorded) / The Foundations / Build Me up Buttercup, 173.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1960-stuck-on-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7675098,
+    "matched_by": "isrc",
+    "isrc": "USRC10200338",
+    "title": "Stuck On You",
+    "artist": "Elvis Presley",
+    "album": "Elvis 30 #1 Hits",
+    "track_duration_s": 141,
+    "link": "https://www.deezer.com/track/7675098",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 132.5,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      136.0,
+      129.2,
+      66.3
+    ],
+    "beats_detected": 67,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.856,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.761,
+    "chroma_profile": [
+      0.797,
+      0.479,
+      0.75,
+      0.531,
+      0.761,
+      0.602,
+      0.717,
+      1.0,
+      0.538,
+      0.596,
+      0.508,
+      0.629
+    ],
+    "rms_dbfs": -9.06,
+    "rms_dbfs_p95_frame": -6.58,
+    "peak_dbfs": 0.75,
+    "loudness_lufs_approx": -8.77,
+    "spectral_centroid_hz_mean": 1784.9,
+    "spectral_centroid_hz_median": 1674.0,
+    "onsets": 104,
+    "onset_density_per_s": 3.468,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7675098",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7675098",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USWD10120001: matched but no preview available (readable=False)"
+  ]
+}

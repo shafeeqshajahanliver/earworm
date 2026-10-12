@@ -1,0 +1,76 @@
+{
+  "id": "1979-y-m-c-a",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1762453527,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USPR37802455",
+    "title": "Y.M.C.A. (Single Version)",
+    "artist": "Village People",
+    "album": "20th Century Masters: The Millennium Collection: Best of The Village People",
+    "track_duration_s": 228,
+    "link": "https://www.deezer.com/track/1762453527",
+    "duration_matched_to": "wikipedia infobox length (229s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 127.2,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      129.2,
+      123.0,
+      63.0
+    ],
+    "beats_detected": 64,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.555,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.407,
+    "chroma_profile": [
+      0.623,
+      0.866,
+      0.789,
+      0.94,
+      0.767,
+      0.843,
+      0.975,
+      0.884,
+      1.0,
+      0.785,
+      0.782,
+      0.603
+    ],
+    "rms_dbfs": -12.68,
+    "rms_dbfs_p95_frame": -8.14,
+    "peak_dbfs": -0.03,
+    "loudness_lufs_approx": -11.67,
+    "spectral_centroid_hz_mean": 2910.2,
+    "spectral_centroid_hz_median": 2873.3,
+    "onsets": 69,
+    "onset_density_per_s": 2.301,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1762453527",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1762453527",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USPR37800014: version: Y.M.C.A. (12\" Version)",
+    "deezer 3606522322: version (Y.M.C.A. (Live))",
+    "deezer 3541558151: duration 201s matches no reference length",
+    "deezer 1762453627: version (Y.M.C.A. (12\" Version))"
+  ]
+}

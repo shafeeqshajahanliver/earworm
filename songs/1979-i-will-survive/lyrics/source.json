@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 6391405,
+  "kind": "synced",
+  "matched": {
+    "track": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "album": "Love Tracks",
+    "duration_s": 293.0
+  },
+  "duration_matched_to": "musicbrainz recording length (293s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 292.813,
+      "source": "musicbrainz recording length"
+    }
+  ],
+  "matching_candidates": 6,
+  "agreement_with_other_candidates": 0.774,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36983154 (I Will Survive / Gloria Gaynor / The Best Disco Album in the World... Ever! (disc 2), 190.0s): duration matches no reference length",
+    "lrclib 36948768 (I Will Survive / Gloria Gaynor / 1 Hit Wonders  (Compilation), 198.0s): duration matches no reference length",
+    "lrclib 36948956 (I Will Survive / Gloria Gaynor / 100 All Time Classic Dance Hits of the 1970s  (Compilation), 198.0s): duration matches no reference length",
+    "lrclib 36985648 (I Will Survive / Gloria Gaynor / I Will Survive, 224.0s): duration matches no reference length",
+    "lrclib 36996409 (I Will Survive / Gloria Gaynor / I Will Survive, 279.0s): duration matches no reference length",
+    "lrclib 36968989 (I Will Survive / Gloria Gaynor / Adventures Of Priscilla Queen Of The Desert, The (Soundtrack), 199.0s): duration matches no reference length",
+    "lrclib 37006027 (I Will Survive / Gloria Gaynor / Studio 54: Where Disco Was Born, 198.0s): duration matches no reference length",
+    "lrclib 37464513 (I Will Survive / Gloria Gaynor / Rolling Stone Magazine's 500 Greatest Songs Of All Time - Tracks 451 - 500, 197.0s): duration matches no reference length",
+    "lrclib 37464918 (I Will Survive / Gloria Gaynor / Disco Inferno CD1, 298.0s): duration matches no reference length",
+    "lrclib 37468422 (I Will Survive / Gloria Gaynor / Het Beste Uit De Q-Music Top 500 Van Het Foute Uur, 196.0s): duration matches no reference length",
+    "lrclib 37472866 (I Will Survive / Gloria Gaynor / Nothing's Sweeter Than Love, 224.0s): duration matches no reference length",
+    "lrclib 37496679 (I Will Survive / Gloria Gaynor / Ultimate Party Album Disc 2, 197.0s): duration matches no reference length",
+    "lrclib 37501244 (I Will Survive / Gloria Gaynor / Mastermix Classic Cuts Presents: The 12″ Box: Disco, 475.0s): duration matches no reference length",
+    "lrclib 37480724 (I Will Survive / Gloria Gaynor / Nostalgie Dance 100, 186.0s): duration matches no reference length",
+    "lrclib 37509015 (I Will Survive / Gloria Gaynor / 70s Party Hits, 423.0s): duration matches no reference length",
+    "lrclib 37509781 (I Will Survive / Gloria Gaynor / The Disco Years, Vol. 2: On The Beat, 60.0s): duration matches no reference length",
+    "lrclib 37514836 (I Will Survive / Gloria Gaynor / Bayern 1 – Die Oldie‐WM, 194.0s): duration matches no reference length",
+    "lrclib 37521879 (I Will Survive / Gloria Gaynor / NOW That's What I Call Music! - Out & Proud, 196.0s): duration matches no reference length",
+    "lrclib 37486400 (I Will Survive / Gloria Gaynor / It's My World - Oldie Classics Vol.3 Cd1, 223.0s): duration matches no reference length",
+    "lrclib 24846521 (I Will Survive / Gloria Gaynor / Gloria Gaynor I will survive, 268.236s): duration matches no reference length",
+    "lrclib 11998161 (I Will Survive / Gloria Gaynor / Gloria Gaynor: I Will Survive, 219.0s): duration matches no reference length",
+    "lrclib 11998166 (I Will Survive / Gloria Gaynor / Gloria Gaynor: I Will Survive, 218.0s): duration matches no reference length",
+    "lrclib 36507829 (I Will Survive / Gloria Gaynor / Gloria Gaynor - I Will Survive (Lyrics), 261.0s): duration matches no reference length",
+    "lrclib 23792233 (I Will Survive [Extended Mix] / Gloria Gaynor / Gloria Gaynor I will survive, 346.255s): duration matches no reference length",
+    "lrclib 36282112 (I Will Survive / Gloria Gaynor / Gloria Gaynor - I Will Survive (Radio Version), 198.0s): live/remix/other version",
+    "lrclib 22101871 (I Will Survive / Gloria Gaynor / Gloria Gaynor - I Will Survive: The Anthology, 481.744399s): duration matches no reference length",
+    "lrclib 32640899 (I Will Survive / Gloria Gaynor / Gloria Gaynor- I Will Survive: The Anthology, 220.0s): duration matches no reference length",
+    "lrclib 28272172 (I Will Survive (remix) / Gloria Gaynor / Gloria Gaynor - I Will Survive: The Anthology, 225.0s): live/remix/other version",
+    "lrclib 21287062 (I Will Survive / Gloria Gaynor / Very Best Of Gloria Gaynor: I Will Survive, 198.0761s): duration matches no reference length",
+    "lrclib 19180749 (I Will Survive / Gloria Gaynor / Gloria Gaynor - I Will Survive [Official Video] 19, 197.712s): duration matches no reference length",
+    "lrclib 22522456 (I Will Survive / Gloria Gaynor / Very Best Of Gloria Gaynor: I Will Survive, 471.8651s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

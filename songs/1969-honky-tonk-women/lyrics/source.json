@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 30822334,
+  "kind": "synced",
+  "matched": {
+    "track": "Honky Tonk Women",
+    "artist": "The Rolling Stones",
+    "album": "Honky Tonk Women (7 Inch Mono)",
+    "duration_s": 182.0
+  },
+  "duration_matched_to": "musicbrainz recording length (184s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 184.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 183.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 183.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37179929 (Honky Tonk Women / The Rolling Stones / Live Licks, 218.0s): live/remix/other version",
+    "lrclib 37054829 (Honky Tonk Women / The Rolling Stones / Hot Rocks 1964–1971, 387.0s): duration matches no reference length",
+    "lrclib 37359707 (Honky Tonk Women / The Rolling Stones / Cedar Falls, 245.0s): duration matches no reference length",
+    "lrclib 37359834 (Honky Tonk Women / The Rolling Stones / Recorded Live at Hampton Coliseum, 240.0s): live/remix/other version",
+    "lrclib 37378673 (Honky Tonk Women / The Rolling Stones / A Bigger Bang in Salt Lake City, 274.0s): duration matches no reference length",
+    "lrclib 37430084 (Honky Tonk Women / The Rolling Stones / 1969 Promo CD '1969' - Not For Sale, 223.0s): duration matches no reference length",
+    "lrclib 34408612 (Honky Tonk Women / The Rolling Stones / Thee Satanic Sessions: Olympic Years 1967-70, 177.0s): duration matches no reference length",
+    "lrclib 34494709 (Honky Tonk Women / The Rolling Stones / Steel Wheels Tokyo 1990, 298.0s): duration matches no reference length",
+    "lrclib 34401160 (Honky Tonk Women / The Rolling Stones / Love You Live(1), 280.0s): live/remix/other version",
+    "lrclib 34401166 (Honky Tonk Women / The Rolling Stones / Handsome Girls(2), 197.0s): duration matches no reference length",
+    "lrclib 34401163 (Honky Tonk Women / The Rolling Stones / Handsome Girls(1), 248.0s): duration matches no reference length",
+    "lrclib 28806223 (Honky Tonk Women (Live) / The Rolling Stones / Honky Tonk Women (Live), 290.0s): live/remix/other version",
+    "lrclib 28695259 (Honky Tonk Women - Live / The Rolling Stones / Honky Tonk Women Live The, 292.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

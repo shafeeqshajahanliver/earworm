@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22453622,
+  "kind": "synced",
+  "matched": {
+    "track": "Oh, Pretty Woman (Paused)",
+    "artist": "Roy Orbison",
+    "album": "Oh, Pretty Woman",
+    "duration_s": 178.933
+  },
+  "duration_matched_to": "musicbrainz recording length (179s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 178.929,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 179.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 178.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 0.957,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37465600 (Oh, Pretty Woman / Roy Orbison / Ultimix Back Spins 29, 260.0s): duration matches no reference length",
+    "lrclib 37116916 (Oh Pretty Woman / ROY Orbison / A Black & White Night Live, 533.0s): live/remix/other version",
+    "lrclib 37161940 (Oh Pretty Woman / Roy Orbison / The All-Time Greatest Hits Of Roy Orbison, 151.0s): duration matches no reference length",
+    "lrclib 37175803 (Oh Pretty Woman / Roy Orbison / 500 Greatest Songs - Rolling Stone Magazines 2010, 213.0s): duration matches no reference length",
+    "lrclib 37048759 (Oh, Pretty Woman / Roy Orbison / In Dreams: The Greatest Hits, 206.0s): duration matches no reference length",
+    "lrclib 35860050 (Oh Pretty Woman / Roy Orbison / Oh Pretty Woman, 379.0s): duration matches no reference length",
+    "lrclib 35555155 (Oh Pretty Woman / Roy Orbison / Oh, Pretty Woman, 171.0s): duration matches no reference length",
+    "lrclib 1037681 (Oh, Pretty Woman / Roy Orbison / Oh, Pretty Woman, 396.0s): duration matches no reference length",
+    "lrclib 28570279 (Oh! Pretty Woman / ROY ORBISON / Oh! Pretty Woman, 220.0s): duration matches no reference length",
+    "lrclib 38545711 (Oh, Pretty Woman / Roy Orbison / Oh, Pretty Woman, 187.0s): duration matches no reference length",
+    "lrclib 24580766 (Oh Pretty Woman / Roy Orbison / Oh Pretty Woman (Single), 213.347375s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

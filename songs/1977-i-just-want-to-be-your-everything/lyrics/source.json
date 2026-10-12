@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36184647,
+  "kind": "synced",
+  "matched": {
+    "track": "I Just Want to Be Your Everything",
+    "artist": "Andy Gibb",
+    "album": "I Just Want To Be Your Everything",
+    "duration_s": 212.0
+  },
+  "duration_matched_to": "musicbrainz recording length (212s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 212.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 224.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 214.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 225.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

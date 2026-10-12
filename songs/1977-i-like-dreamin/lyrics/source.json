@@ -1,0 +1,35 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35570019,
+  "kind": "synced",
+  "matched": {
+    "track": "I Like Dreamin'",
+    "artist": "Kenny Nolan",
+    "album": "Super Hits of the '70s: Have a Nice Day, Vol. 19  (Compilation)",
+    "duration_s": 211.0
+  },
+  "duration_matched_to": "musicbrainz recording length (211s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 210.76,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 213.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 209.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

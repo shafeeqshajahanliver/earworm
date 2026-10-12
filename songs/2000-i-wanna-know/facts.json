@@ -1,0 +1,127 @@
+{
+  "id": "2000-i-wanna-know",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "I Wanna Know (Joe song)",
+  "wikidata": {
+    "qid": "Q16846187",
+    "label": "I Wanna Know",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1077266",
+          "label": "Joe"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q27184",
+          "label": "Jive Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2000-01-01"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q850412",
+          "label": "contemporary R&B"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q1059387",
+          "label": "Thank God I Found You"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q55517306",
+          "label": "Treat Her Like a Lady"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "50a6d5d3-6584-300a-bc27-21ea045bc87c"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 69349e28-6f12-4c2e-b0a5-d53dcf45fbb4 (2000)",
+  "musicbrainz": {
+    "recording_id": "ac0ccb65-a24f-466b-98ae-7f87aea2a2c1",
+    "title": "I Wanna Know (LP Version)",
+    "length_ms": 296000,
+    "first_release_date": "2000",
+    "artist_credit": "Joe",
+    "artists": [
+      {
+        "name": "Joe",
+        "mbid": "d6864f27-532d-4912-af81-d710d58b1f01"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "def5593d-bd60-4d90-9925-7547a8a4010b",
+        "title": "I Wanna Know",
+        "date": "2000",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "69349e28-6f12-4c2e-b0a5-d53dcf45fbb4",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "267183b4-6a26-4048-a7f4-12ac0606976a",
+        "title": "I Wanna Know",
+        "date": "2000",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "69349e28-6f12-4c2e-b0a5-d53dcf45fbb4",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "50a6d5d3-6584-300a-bc27-21ea045bc87c",
+      "title": "I Wanna Know",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Joe",
+          "mbid": "d6864f27-532d-4912-af81-d710d58b1f01"
+        },
+        {
+          "role": "writer",
+          "name": "Jolyon Skinner",
+          "mbid": "bed69022-f93f-48e6-81c5-a9d458410b64"
+        },
+        {
+          "role": "writer",
+          "name": "Michele Williams",
+          "mbid": "bfe63fe9-fb66-48e2-8ce5-b1bd06caf1a7"
+        }
+      ],
+      "urls": [
+        "https://genius.com/Joe-i-wanna-know-lyrics",
+        "https://www.wikidata.org/wiki/Q16846187"
+      ]
+    },
+    "main_artist": {
+      "name": "Joe",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Columbus"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

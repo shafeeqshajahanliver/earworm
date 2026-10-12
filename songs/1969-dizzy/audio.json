@@ -1,0 +1,80 @@
+{
+  "id": "1969-dizzy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4248402871,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "TCAJQ2559205",
+    "title": "Dizzy (Revisited)",
+    "artist": "Tommy Roe",
+    "album": "Dizzy (Revisited)",
+    "track_duration_s": 172,
+    "link": "https://www.deezer.com/track/4248402871",
+    "duration_matched_to": "musicbrainz recording length (172s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 109.1,
+    "tempo_bpm_grid": 108.8,
+    "tempo_candidates_bpm": [
+      107.7,
+      112.3,
+      55.0
+    ],
+    "beats_detected": 55,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.481,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.472,
+    "chroma_profile": [
+      0.661,
+      0.68,
+      0.743,
+      0.629,
+      0.904,
+      0.83,
+      1.0,
+      0.784,
+      0.67,
+      0.702,
+      0.639,
+      0.81
+    ],
+    "rms_dbfs": -10.41,
+    "rms_dbfs_p95_frame": -7.58,
+    "peak_dbfs": -0.06,
+    "loudness_lufs_approx": -10.47,
+    "spectral_centroid_hz_mean": 2110.7,
+    "spectral_centroid_hz_median": 2035.1,
+    "onsets": 75,
+    "onset_density_per_s": 2.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4248402871",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4248402871",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between E minor and F# minor"
+  ],
+  "rejected_candidates": [
+    "deezer 6069507: version (Dizzy (Rerecorded))",
+    "deezer 13427091: duration 178s matches no reference length",
+    "deezer 94172718: duration 178s matches no reference length",
+    "deezer 1598989192: version (Dizzy (Live))",
+    "deezer 128882644: version (Dizzy (Live))",
+    "deezer 6058639: version (Dizzy (Rerecorded))"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37026973,
+  "kind": "synced",
+  "matched": {
+    "track": "War",
+    "artist": "Edwin Starr",
+    "album": "Pacha Ibiza - Flower Power (CD 2)",
+    "duration_s": 188.0
+  },
+  "duration_matched_to": "musicbrainz recording length (192s)",
+  "duration_diff_s": 4.0,
+  "reference_lengths": [
+    {
+      "seconds": 192.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 192.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 1,
+  "agreement_with_other_candidates": null,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37019194 (War / Edwin Starr / Top 40 Hitdossier 1969-1970 - CD2, 199.0s): duration matches no reference length",
+    "lrclib 36999985 (War / Edwin Starr / Motown hits, 201.0s): duration matches no reference length",
+    "lrclib 37005252 (War / Edwin Starr / Magic Motown, 203.0s): duration matches no reference length",
+    "lrclib 37110385 (War / Edwin Starr / 101 - Motown Anthems - CD4, 200.0s): duration matches no reference length",
+    "lrclib 37142697 (War / Edwin Starr / The Motown Story, 202.0s): duration matches no reference length",
+    "lrclib 37130335 (War / Edwin Starr / The Best Soul Album In The World... Ever!, 201.0s): duration matches no reference length",
+    "lrclib 37130430 (War / Edwin Starr / Superstar Series Vol. 3, 201.0s): duration matches no reference length",
+    "lrclib 37060638 (War / Edwin Starr / Billboard Year-End Hot 100, 202.0s): duration matches no reference length",
+    "lrclib 37065012 (War / Edwin Starr / Sounds of the Seventie 1970, 205.0s): duration matches no reference length",
+    "lrclib 37078672 (War / Edwin Starr / The Motown Story, 201.0s): duration matches no reference length",
+    "lrclib 37314376 (War / Edwin Starr / Mastermix Grandmaster Motown, 106.0s): duration matches no reference length",
+    "lrclib 37299791 (War / Edwin Starr / German Top 100 Jahrescharts 1970, 201.0s): duration matches no reference length",
+    "lrclib 37378531 (War / Edwin Starr / Classic Songs of the Motown Era, Volume 2, 213.0s): duration matches no reference length",
+    "lrclib 37411238 (War / Edwin Starr / Motown Superstar Series, Volume 3, 204.0s): duration matches no reference length",
+    "lrclib 37420356 (War / Edwin Starr / Motown Chartbusters, Vol.5, 198.0s): duration matches no reference length",
+    "lrclib 37445219 (War / Edwin Starr / Disco Inferno: Disco mit Ilja Richter, 201.0s): duration matches no reference length",
+    "lrclib 37230624 (War / Edwin Starr / 1970, 207.0s): duration matches no reference length",
+    "lrclib 37246498 (War / Edwin Starr / Vietnam: Rockin' The Delta, 201.0s): duration matches no reference length",
+    "lrclib 37234305 (War / Edwin Starr / Now (That's What I Call) 70s Soul, 201.0s): duration matches no reference length",
+    "lrclib 9974122 (War / Edwin Starr / Edwin Starr - War, 200.0s): duration matches no reference length",
+    "lrclib 23748650 (War / Edwin Starr / Edwin Starr, 219.288s): duration matches no reference length",
+    "lrclib 23185878 (War / Edwin Starr / Edwin Starr, 226.507755s): duration matches no reference length",
+    "lrclib 1122469 (War / Edwin Starr / Edwin Starr, 200.0s): duration matches no reference length",
+    "lrclib 32998540 (War / Edwin Starr / Edwin Starr, 205.0s): duration matches no reference length",
+    "lrclib 14314928 (War / Edwin Starr / Edwin Starr, 230.0s): duration matches no reference length",
+    "lrclib 18488255 (War / Edwin Starr / Other Edwin Starr, 201.3305619s): duration matches no reference length",
+    "lrclib 22091591 (War / Edwin Starr / Classic Edwin Starr, 201.307562s): duration matches no reference length",
+    "lrclib 18447311 (War / Edwin Starr / Edwin Starr ~ A Tribute, 230.1775s): live/remix/other version",
+    "lrclib 19588291 (War / Edwin Starr / Edwin Starr Live In Concert, 219.29795918367347s): live/remix/other version",
+    "lrclib 19588521 (War / Edwin Starr / The Best Of Edwin Starr, 182.22666931152344s): duration matches no reference length",
+    "lrclib 23567911 (War / Edwin Starr / Edwin Starr Live In Concert, 256.0s): live/remix/other version",
+    "lrclib 6897697 (War / Edwin Starr / The Hits of Edwin Starr, 204.0s): duration matches no reference length",
+    "lrclib 1861369 (War / Edwin Starr / The Hits of Edwin Starr, 200.0s): duration matches no reference length",
+    "lrclib 27709301 (War / Edwin Starr / The Best of Edwin Starr, 201.0s): duration matches no reference length",
+    "lrclib 27709269 (War / Edwin Starr / The Best of Edwin Starr, 200.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

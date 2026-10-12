@@ -1,0 +1,72 @@
+{
+  "id": "1974-come-and-get-your-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 392284592,
+    "matched_by": "isrc",
+    "isrc": "USSM17300653",
+    "title": "Come and Get Your Love (Single Version)",
+    "artist": "Redbone",
+    "album": "Come and Get Your Love (Single Edit)",
+    "track_duration_s": 212,
+    "link": "https://www.deezer.com/track/392284592",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 107.4,
+    "tempo_bpm_grid": 107.7,
+    "tempo_candidates_bpm": [
+      107.7,
+      215.3,
+      53.8
+    ],
+    "beats_detected": 54,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.536,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.508,
+    "chroma_profile": [
+      0.585,
+      0.683,
+      0.89,
+      0.837,
+      1.0,
+      0.815,
+      0.942,
+      0.896,
+      0.715,
+      0.821,
+      0.641,
+      0.73
+    ],
+    "rms_dbfs": -11.08,
+    "rms_dbfs_p95_frame": -8.44,
+    "peak_dbfs": 0.63,
+    "loudness_lufs_approx": -10.12,
+    "spectral_centroid_hz_mean": 2192.5,
+    "spectral_centroid_hz_median": 2205.9,
+    "onsets": 70,
+    "onset_density_per_s": 2.334,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 392284592",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 107.11,
+    "gain": -10.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/392284592",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between D major and E minor"
+  ],
+  "rejected_candidates": []
+}

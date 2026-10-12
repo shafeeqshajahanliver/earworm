@@ -1,0 +1,78 @@
+{
+  "id": "1974-bennie-and-the-jets",
+  "preview": {
+    "service": "deezer",
+    "track_id": 75859735,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBUM71304955",
+    "title": "Bennie And The Jets (Remastered 2014)",
+    "artist": "Elton John",
+    "album": "Goodbye Yellow Brick Road (Remastered)",
+    "track_duration_s": 321,
+    "link": "https://www.deezer.com/track/75859735",
+    "duration_matched_to": "wikipedia infobox length (323s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 133.5,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      129.2
+    ],
+    "beats_detected": 64,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.732,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.662,
+    "chroma_profile": [
+      0.747,
+      0.55,
+      1.0,
+      0.71,
+      0.926,
+      0.558,
+      0.63,
+      0.853,
+      0.589,
+      0.777,
+      0.543,
+      0.642
+    ],
+    "rms_dbfs": -12.13,
+    "rms_dbfs_p95_frame": -8.57,
+    "peak_dbfs": -0.43,
+    "loudness_lufs_approx": -12.02,
+    "spectral_centroid_hz_mean": 2532.2,
+    "spectral_centroid_hz_median": 2400.1,
+    "onsets": 96,
+    "onset_density_per_s": 3.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 75859735",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 131.7,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/75859735",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 7596783: version (Bennie & The Jets (Live))",
+    "deezer 1614937072: version (Bennie And The Jets (Live at Live Aid, Wembley Stadium, 13th July 1985))",
+    "deezer 1144285: version (Bennie And The Jets (Live From Madison Square Garden, USA/1974))",
+    "deezer 855942652: version (Bennie And The Jets (Live From Moscow / 1979))",
+    "deezer 480864302: version (Bennie And The Jets (2018 Version))",
+    "deezer 785825232: version (Bennie And The Jets (Live At Hammersmith Odeon / 1973))"
+  ]
+}

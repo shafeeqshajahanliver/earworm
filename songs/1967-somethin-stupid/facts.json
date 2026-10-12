@@ -1,0 +1,146 @@
+{
+  "id": "1967-somethin-stupid",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Somethin' Stupid",
+  "wikidata": {
+    "qid": "Q1067893",
+    "label": "Somethin' Stupid",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1045429",
+          "label": "Carson Parks"
+        },
+        {
+          "qid": "Q40912",
+          "label": "Frank Sinatra"
+        },
+        {
+          "qid": "Q47875",
+          "label": "Robbie Williams"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q1045429",
+          "label": "Carson Parks"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q1045429",
+          "label": "Carson Parks"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1967-03-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q2897120",
+          "label": "The World We Knew"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q1022293",
+          "label": "C major"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "42a57430-9c66-38d0-a7ab-f289be052d60"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "a9e6ef83-706a-493e-8fb4-dc75d1a70749",
+    "title": "Somethin’ Stupid",
+    "length_ms": 150093,
+    "first_release_date": "1998-08-03",
+    "artist_credit": "Frank & Nancy Sinatra",
+    "artists": [
+      {
+        "name": "Frank Sinatra",
+        "mbid": "197450cd-0124-4164-b723-3c22dd16494d"
+      },
+      {
+        "name": "Nancy Sinatra",
+        "mbid": "c2e36518-9c3b-4dcb-82ad-a3fc7fe99c67"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "1ed853a6-259b-49bd-ae10-11ae1fd1361c",
+        "title": "Sixties Summer Mix 2",
+        "date": "1998-08-03",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "8f493b47-5a52-3f0c-aade-f6e3ab87db2d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "42a57430-9c66-38d0-a7ab-f289be052d60",
+      "title": "Somethin’ Stupid",
+      "iswcs": [
+        "T-070.940.307-5"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Carson Parks",
+          "mbid": "0e84ffe2-993a-4629-9389-dce05309caaa"
+        },
+        {
+          "role": "lyricist",
+          "name": "Carson Parks",
+          "mbid": "0e84ffe2-993a-4629-9389-dce05309caaa"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/8850",
+        "https://www.wikidata.org/wiki/Q1067893"
+      ]
+    },
+    "main_artist": {
+      "name": "Frank Sinatra",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Hoboken"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 27103388,
+  "kind": "synced",
+  "matched": {
+    "track": "American Pie",
+    "artist": "Don Mclean",
+    "album": "American Pie",
+    "duration_s": 247.066122
+  },
+  "duration_matched_to": "musicbrainz recording length (248s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 247.96,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 251.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 271.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 522.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36989304 (American Pie / Don McLean / 50 years of Country, Rock and Bluegrass, 512.0s): duration matches no reference length",
+    "lrclib 36944788 (American Pie / Don McLean / Greatest Hits Live! At the Dominion Theater, 528.0s): live/remix/other version",
+    "lrclib 37507130 (American Pie / Don McLean / Basically Blewitt, 512.0s): duration matches no reference length",
+    "lrclib 37492648 (American Pie / Don McLean / Greatest Hit Singles of the 1970s, 516.0s): duration matches no reference length",
+    "lrclib 37541095 (American Pie / Don McLean / Das Ding 1 - Kultlieder, 512.0s): duration matches no reference length",
+    "lrclib 37112879 (American Pie / Don McLean / Singers & Songwriters, Volume 1, 509.0s): duration matches no reference length",
+    "lrclib 37186146 (American Pie / Don Mclean / The Very Best of Legends Disc 2, 510.0s): duration matches no reference length",
+    "lrclib 37075283 (American Pie / Don McLean / Late Night Piano Bar, 516.0s): duration matches no reference length",
+    "lrclib 26086601 (American Pie / Don McLean / Don McLean - American Pie, 516.4292s): duration matches no reference length",
+    "lrclib 28413169 (American Pie / Don McLean / Don McLean: American Pie (Greatest Hits), 513.0s): duration matches no reference length",
+    "lrclib 21201402 (American Pie / Don McLean / American Pie-The Greatest Hits Don McLean, 512.626939s): duration matches no reference length",
+    "lrclib 24402176 (American Pie / Don McLean / American Pie - The Very Best Of Don McLean, 515.73551s): duration matches no reference length",
+    "lrclib 27312710 (American Pie / Don McLean / The Very Best of Don McLean: American Pie, 515.693333s): duration matches no reference length",
+    "lrclib 4145175 (American Pie / Don McLean / Don McLean, 513.0s): duration matches no reference length",
+    "lrclib 19229193 (American Pie / Don McLean / McClean, Don --- American Pie, 516.94355s): duration matches no reference length",
+    "lrclib 9020854 (American Pie (Live) / Don McLean / Don Mclean: American Troubadour, 560.0s): live/remix/other version",
+    "lrclib 27884116 (American Pie (original) / Don McLean / The Very Best of Don McLean: American Pie, 516.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,68 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 24004821,
+  "kind": "plain",
+  "matched": {
+    "track": "Theme from \"A Summer Place\"",
+    "artist": "Percy Faith",
+    "album": "Theme from \"A Summer Place\"  (Remastered)",
+    "duration_s": 140.0
+  },
+  "duration_matched_to": "musicbrainz recording length (143s)",
+  "duration_diff_s": 3.2,
+  "reference_lengths": [
+    {
+      "seconds": 143.2,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 143.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 145.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 1,
+  "agreement_with_other_candidates": null,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37798764 (Theme From A 'Summer Place' / Percy Faith / A Summer Place, 143.0s): marked instrumental",
+    "lrclib 37489373 (Theme From “A Summer Place” / Percy Faith / Essential: Easy Listening, 147.0s): marked instrumental",
+    "lrclib 37170119 (Theme from A Summer Place / Percy Faith / 100 Greatest Hits Of The 1950s, 145.0s): marked instrumental",
+    "lrclib 37282800 (Theme From “A Summer Place” / Percy Faith / Lifetime of Romance: Be My Love, 143.0s): marked instrumental",
+    "lrclib 37283447 (Theme From A Summer Place / Percy Faith / Billboard Top 100 Hits Of 1960, 145.0s): marked instrumental",
+    "lrclib 37228675 (Theme From “A Summer Place” / Percy Faith / 100 Hits: Cool, 146.0s): marked instrumental",
+    "lrclib 37268396 (Theme From A Summer Place / Percy Faith / Jukebox Hits Of 1960, Volume 1, 143.0s): marked instrumental",
+    "lrclib 34356004 (Theme from \"A Summer Place\" / Percy Faith / Tara's Theme from \"Gone With the Wind\" (And Other Movie Themes), 142.0s): marked instrumental",
+    "lrclib 33609933 (Theme From A Summer Place / Percy Faith / 河流, 163.0s): marked instrumental",
+    "lrclib 33621766 (Theme From A 'Summer Place' / Percy Faith / Billboard 100 of 1960, 146.0s): marked instrumental",
+    "lrclib 33394647 (Theme From A Summer Place / Percy Faith / Top 40 Pop Classics (2014) CD2, 107.0s): marked instrumental",
+    "lrclib 33659942 (Theme from 'A Summer Place' / Percy Faith / Music to Watch Girls By [1999] Disc 1, 144.0s): marked instrumental",
+    "lrclib 33386449 (Theme From 'a Summer Place' / Percy Faith / Donna Reed's Dinner Party, 143.0s): marked instrumental",
+    "lrclib 36099384 (Theme From a Summer Place / Percy Faith / Theme from A Summer Place, 141.0s): marked instrumental",
+    "lrclib 36531797 (Theme From “A Summer Place” / Percy Faith / Fascination, 144.0s): marked instrumental",
+    "lrclib 36572947 (Theme From a Summer Place / Percy Faith / Vienesse Waltz, 151.0s): marked instrumental",
+    "lrclib 36605355 (Theme From “A Summer Place” / Percy Faith / Instrumental Gems of the '60s, 145.0s): live/remix/other version",
+    "lrclib 36537203 (Theme From A Summer Place / Percy Faith / Percy Faith & Orquesta, 143.0s): marked instrumental",
+    "lrclib 36658199 (Theme from \"A Summer Place\" / Percy Faith / The Essential Percy Faith - The  Instrumental Recordings, 133.0s): live/remix/other version",
+    "lrclib 36702177 (Theme From 'A Summer Place' / Percy Faith / Essential Easy Listening, 147.0s): marked instrumental",
+    "lrclib 33863971 (Theme From : A Summer Place / Percy Faith / The Theme From    A Summer Pla, 148.0s): marked instrumental",
+    "lrclib 31982203 (Theme from \"A Summer Place\" / Percy Faith / Theme from \"A Summer Place\", 165.0s): marked instrumental",
+    "lrclib 21768714 (Theme From \"A Summer Place\" / Percy Faith / Theme From \"A Summer Place\" - Single, 145.20525s): marked instrumental",
+    "lrclib 38219213 (Theme from \"A Summer Place\" / Percy Faith / Theme from \"A Summer Place\" (Remastered), 143.0s): marked instrumental",
+    "lrclib 25149304 (Theme From A Summer Place / Percy Faith / Percy Faith, 142.215958s): marked instrumental",
+    "lrclib 34718389 (Theme From A Summer Place / Percy Faith & His Orchestra / Theme From A Summer Place, 145.0s): marked instrumental",
+    "lrclib 32292201 (Theme From 'A Summer Place' / Percy Faith & His Orchestra / Theme From A Summer Place, 165.0s): marked instrumental",
+    "lrclib 31093942 (Theme From A 'Summer Place' / Percy Faith / A Summer Place, 146.0s): marked instrumental",
+    "lrclib 21312906 (Theme From \"A Summer Place\" (female choral) / Percy Faith / The Theme From 'A Summer Place' - Single, 156.26449s): marked instrumental",
+    "lrclib 28643137 (Theme From 'A Summer Place' / Percy Faith / Percy Faith and HiisORchestra, 164.0s): marked instrumental",
+    "lrclib 37859805 (Theme From \"A Summer Place\" / Percy Faith / Instrumental Favorites: Percy Faith, 142.0s): live/remix/other version",
+    "lrclib 24753393 (Theme from \"A Summer Place\" / Percy Faith & His Orchestra / Percy Faith, 142.0s): marked instrumental"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1962-hey-baby",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2822054572,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "PL90Y2463586",
+    "title": "Hey! Baby",
+    "artist": "Bruce Channel",
+    "album": "Slow Down Baby",
+    "track_duration_s": 143,
+    "link": "https://www.deezer.com/track/2822054572",
+    "duration_matched_to": "musicbrainz recording length (145s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 130.4,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      64.6,
+      136.0
+    ],
+    "beats_detected": 65,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.735,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.675,
+    "chroma_profile": [
+      0.664,
+      0.902,
+      1.0,
+      0.832,
+      0.976,
+      0.75,
+      0.981,
+      0.519,
+      0.675,
+      0.932,
+      0.697,
+      0.741
+    ],
+    "rms_dbfs": -10.95,
+    "rms_dbfs_p95_frame": -8.26,
+    "peak_dbfs": 0.84,
+    "loudness_lufs_approx": -9.2,
+    "spectral_centroid_hz_mean": 2483.7,
+    "spectral_centroid_hz_median": 2484.3,
+    "onsets": 59,
+    "onset_density_per_s": 1.967,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2822054572",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2822054572",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 63579611: duration 131s matches no reference length",
+    "deezer 83686688: duration 170s matches no reference length",
+    "deezer 1662691302: version (Hey Baby (2021 Remastered Version))",
+    "deezer 3107178121: version (Hey! Baby (1978 Version))",
+    "deezer 1533869662: version (Hey! Baby (Re-Recorded))"
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "id": "1961-crying",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Crying (Roy Orbison song)",
+  "wikidata": {
+    "qid": "Q2043793",
+    "label": "Crying",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q188426",
+          "label": "Roy Orbison"
+        },
+        {
+          "qid": "Q57339",
+          "label": "Don McLean"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q188426",
+          "label": "Roy Orbison"
+        },
+        {
+          "qid": "Q6211321",
+          "label": "Joe Melson"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q188426",
+          "label": "Roy Orbison"
+        },
+        {
+          "qid": "Q6211321",
+          "label": "Joe Melson"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1961-08-16"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "773af48a-e550-3885-b575-1590dcb15dfa"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 65a3b295-96eb-4fe5-904d-ac823cbd03e7 (1961)",
+  "musicbrainz": {
+    "recording_id": "63131cae-2269-47e6-9790-4f0188ed4b24",
+    "title": "Crying",
+    "length_ms": 167333,
+    "first_release_date": "1961",
+    "artist_credit": "Roy Orbison",
+    "artists": [
+      {
+        "name": "Roy Orbison",
+        "mbid": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5"
+      }
+    ],
+    "isrcs": [
+      "USSM10700298",
+      "USSM16101208",
+      "USSM19500403"
+    ],
+    "recording_credits": [
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Harold Bradley",
+        "mbid": "e2de67ca-ca5e-45c1-b124-271d8ca626ce"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Boudleaux Bryant",
+        "mbid": "3630c766-cdd2-4af6-8d9b-98e49ecc9257"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "piano"
+        ],
+        "name": "Floyd Cramer",
+        "mbid": "a7921b29-671a-4378-8a61-539cf73d7588"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Buddy Harman",
+        "mbid": "90fb8075-4c46-4550-90ba-b222d69fc045"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "double bass"
+        ],
+        "name": "Bob Moore",
+        "mbid": "37f8af3c-cd63-4452-903e-e355d10bbd52"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Scotty Moore",
+        "mbid": "874219f5-21d4-4fca-be69-02421e638c16"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Fred Foster",
+        "mbid": "bd45ccf8-6f26-45f8-9312-ecc51e9260dd"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Roy Orbison",
+        "mbid": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5"
+      }
+    ],
+    "urls": [
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/performance/6876"
+      }
+    ],
+    "genres": [
+      "ballad",
+      "baroque pop",
+      "classic rock",
+      "country pop",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "ballad",
+      "baroque pop",
+      "pop rock",
+      "beat",
+      "classic rock",
+      "country pop",
+      "rock & roll",
+      "vocal"
+    ],
+    "releases": [
+      {
+        "id": "682071c8-dd78-47dd-9d44-c00c758fc47c",
+        "title": "Crying / Candy Man",
+        "date": "1961",
+        "country": "US",
+        "status": "Official",
+        "release_group": "65a3b295-96eb-4fe5-904d-ac823cbd03e7",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "22417908-9665-40af-83e4-f2c1e380ec9a",
+        "title": "Crying",
+        "date": "1962",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f2bbca17-ef62-3ff9-b938-2ff6ce284868",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a2a9ece5-2c52-4fac-b5a1-4a2757233a73",
+        "title": "Roy Orbison’s Greatest Hits",
+        "date": "1962-08-01",
+        "country": "US",
+        "status": "Official",
+        "release_group": "8d4dd759-6dc1-427f-a50a-8b862d9cfb64",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "66b47bc4-dbd2-45e9-885b-afb2a953a898",
+        "title": "The Very Best of Roy Orbison",
+        "date": "1966",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "5434145d-1fed-45ad-91ef-0ecc7c3820ce",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e4b9014c-bbbf-4d9f-b13b-dc16c638eb2e",
+        "title": "Roy Orbison’s Greatest Hits",
+        "date": "1967",
+        "country": "US",
+        "status": "Official",
+        "release_group": "8d4dd759-6dc1-427f-a50a-8b862d9cfb64",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "50e51336-c1db-415a-b58a-1e8a21062986",
+        "title": "Roy Orbison’s Greatest Hits",
+        "date": "1972",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "8d4dd759-6dc1-427f-a50a-8b862d9cfb64",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0e484def-b35c-424b-844a-32efea9b85cc",
+        "title": "The All-Time Greatest Hits of Roy Orbison",
+        "date": "1972",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "3e0ff8c7-d1b7-3ac8-967c-0ad1b1f368a0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1d82d70c-b215-3d7c-a4ba-db417b4b1998",
+        "title": "The All-Time Greatest Hits of Roy Orbison",
+        "date": "1972",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3e0ff8c7-d1b7-3ac8-967c-0ad1b1f368a0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "815443a2-e295-41b5-ab9d-d62838cde4eb",
+        "title": "The Best of Roy Orbison",
+        "date": "1975",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "d6076278-0e2d-4921-82a7-1ad97da05597",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e476a2b4-3ac4-40ac-8365-5e3df29ca032",
+        "title": "Golden Days (The Collection Of 20 All-Time Greats)",
+        "date": "1981-08",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e29032e4-292b-326a-ad07-b8a72d3f16c0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "75ddaebf-550e-40da-a57e-4a3e30cd67ef",
+        "title": "All-Time Greatest Hits",
+        "date": "1986",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "b4c1bb46-28ca-4ea5-81f9-fba366443070",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bc9279ba-aacf-4bcf-b53e-0f2d1149a467",
+        "title": "All-Time Greatest Hits",
+        "date": "1986",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "b4c1bb46-28ca-4ea5-81f9-fba366443070",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a88ea757-4b87-4466-a394-ebed43011c2a",
+        "title": "Yesterdays Gold: 120 Golden Oldies, Volume 3",
+        "date": "1987",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "f4319c84-9e4a-4e54-aea4-2144a5109d88",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c3b35329-b16d-475c-bad6-cbf660606a14",
+        "title": "For the Lonely: 18 Greatest Hits",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2823d7eb-25e4-41d1-a1a7-b79dd94461fe",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fc773548-d1de-4cbe-80e0-7d1ad4e5fe36",
+        "title": "For the Lonely: A Roy Orbison Anthology 1956-1965",
+        "date": "1988",
+        "country": null,
+        "status": "Official",
+        "release_group": "2823d7eb-25e4-41d1-a1a7-b79dd94461fe",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f371fee1-0972-4225-9713-0d1f052a00c7",
+        "title": "Oh Pretty Woman",
+        "date": "1988",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "54517a0f-f89a-4fe2-976f-644f99365cfa",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ecda17e1-ed7d-403e-804d-e9fa64e6b43e",
+        "title": "Oh Pretty Woman",
+        "date": "1988",
+        "country": "XE",
+        "status": "Bootleg",
+        "release_group": "54517a0f-f89a-4fe2-976f-644f99365cfa",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bf5a13b0-914c-46da-989c-b9b596a35b90",
+        "title": "The Legendary Roy Orbison",
+        "date": "1988",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "70d8db7c-e81d-3df5-ab23-e9014ba8d78e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "12f3a8b5-42c6-499c-b5a4-605449f2e059",
+        "title": "The Legendary Roy Orbison",
+        "date": "1988",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "70d8db7c-e81d-3df5-ab23-e9014ba8d78e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "70e468a0-9957-4a50-b6b4-b391c612ebf5",
+        "title": "20 Golden Greats",
+        "date": "1989",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "9aa79ff2-ea37-3685-96bd-aaafe0fc44c2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8347f9dc-dca4-498a-92f8-15b84b2d7366",
+        "title": "Country Music’s Golden Hitparade",
+        "date": "1989",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "2531b942-ebfe-484b-93fe-782ed2d74378",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dce1bf4e-532e-4fc5-8015-7eab7a59ca90",
+        "title": "Crying",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f2bbca17-ef62-3ff9-b938-2ff6ce284868",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "56201b1c-882d-4d0f-abfc-9eda6ce3e484",
+        "title": "Monumental Hits",
+        "date": "1989",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "4c89be43-1a58-3e7b-bbff-775efe439fa9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1b215606-ad74-414a-8f2b-98c06cfe57a7",
+        "title": "Monumental Hits",
+        "date": "1989",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "4c89be43-1a58-3e7b-bbff-775efe439fa9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "23b89c7e-e26e-3cfa-ab49-76fb5a63c17f",
+        "title": "The All-Time Greatest Hits of Roy Orbison",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3e0ff8c7-d1b7-3ac8-967c-0ad1b1f368a0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "773af48a-e550-3885-b575-1590dcb15dfa",
+      "title": "Crying",
+      "iswcs": [
+        "T-073.369.128-5"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Joe Melson",
+          "mbid": "96299949-8092-429f-ab88-ac826a5e03b9"
+        },
+        {
+          "role": "composer",
+          "name": "Roy Orbison",
+          "mbid": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5"
+        },
+        {
+          "role": "lyricist",
+          "name": "Joe Melson",
+          "mbid": "96299949-8092-429f-ab88-ac826a5e03b9"
+        },
+        {
+          "role": "lyricist",
+          "name": "Roy Orbison",
+          "mbid": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5"
+        }
+      ],
+      "urls": [
+        "https://muzikum.eu/nl/roy-orbison/crying-songtekst",
+        "https://www.whosampled.com/Roy-Orbison/Crying/",
+        "https://secondhandsongs.com/work/6876",
+        "https://www.songfacts.com/facts/roy-orbison/crying",
+        "https://www.wikidata.org/wiki/Q2043793"
+      ]
+    },
+    "main_artist": {
+      "name": "Roy Orbison",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Vernon"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

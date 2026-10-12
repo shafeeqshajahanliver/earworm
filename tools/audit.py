@@ -40,7 +40,7 @@ def audit(s):
     flags = []
     flags += ["lyrics: " + x for x in ls.get("flags", [])]
     flags += ["audio: " + x for x in a.get("flags", [])]
-    if f.get("musicbrainz_match", "").startswith("recording search"):
+    if (f.get("musicbrainz_match") or "").startswith("recording search"):
         flags.append("facts: matched by recording search, not the single release")
     if not mb.get("length_ms"):
         flags.append("facts: no recording length in MusicBrainz")
@@ -71,7 +71,7 @@ def audit(s):
     return {
         "song": "%s %s" % (s["chart_year"], s["title"]), "artist": s["artist"], "country": s["country"],
         "release": mb.get("first_release_date"), "length": round((mb.get("length_ms") or 0) / 1000) or None,
-        "writers": writers, "producers": producers, "wd": s["wikidata"], "match": f.get("musicbrainz_match", "")[:20],
+        "writers": writers, "producers": producers, "wd": s["wikidata"], "match": (f.get("musicbrainz_match") or "")[:20],
         "wiki": w.get("title"), "sections": len(secs), "composition_section": bool(comp), "wiki_key": key_text,
         "peak": c.get("peak_position"), "weeks": c.get("weeks_on_chart"), "debut": c.get("debut_position"),
         "no1": c.get("weeks_at_number_one"),

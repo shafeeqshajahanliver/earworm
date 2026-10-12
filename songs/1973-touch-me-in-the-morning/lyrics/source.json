@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35259648,
+  "kind": "synced",
+  "matched": {
+    "track": "Touch Me in the Morning",
+    "artist": "Diana Ross",
+    "album": "All the Great Hits  (Compilation) [SACD] [HD]",
+    "duration_s": 233.0
+  },
+  "duration_matched_to": "musicbrainz recording length (233s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 233.013,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 230.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 206.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34603650 (Touch Me In The Morning / Diana Ross / Touch Me In The Morning, 330.0s): duration matches no reference length",
+    "lrclib 34603635 (Touch Me In The Morning / Diana Ross / Touch Me In The Morning, 239.0s): duration matches no reference length",
+    "lrclib 34606848 (Touch Me In The Morning / Diana Ross / Almighty Presents: We Love Diana Ross, 427.0s): duration matches no reference length",
+    "lrclib 34490164 (Touch Me in the Morning / Diana Ross / Ultimate Divas, 106.0s): duration matches no reference length",
+    "lrclib 34848638 (Touch Me In The Morning / Diana Ross / Supertonic: Instrumental Mixes, 259.0s): live/remix/other version",
+    "lrclib 33665591 (Touch Me in the Morning / Diana Ross / Body Talk: Together Forever, 221.0s): duration matches no reference length",
+    "lrclib 33381606 (Touch Me in the Morning / Diana Ross / Classic, 349.0s): duration matches no reference length",
+    "lrclib 20433003 (Touch Me In The Morning / Diana Ross / Touch Me In The Morning (Expanded Edition), 331.676735s): duration matches no reference length",
+    "lrclib 20702707 (Touch Me In The Morning / Diana Ross / Touch Me In The Morning (Expanded Edition), 240.117551s): duration matches no reference length",
+    "lrclib 9831542 (Touch Me in the Morning (alternate version #1) / Diana Ross / Touch Me in the Morning, 240.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

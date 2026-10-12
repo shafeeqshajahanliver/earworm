@@ -1,0 +1,74 @@
+{
+  "id": "1973-lets-get-it-on",
+  "preview": {
+    "service": "deezer",
+    "track_id": 9054526,
+    "matched_by": "isrc",
+    "isrc": "USMO19290019",
+    "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "album": "The Inkwell",
+    "track_duration_s": 238,
+    "link": "https://www.deezer.com/track/9054526",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 166.7,
+    "tempo_bpm_grid": 166.7,
+    "tempo_candidates_bpm": [
+      161.5,
+      172.3,
+      83.4
+    ],
+    "beats_detected": 82,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.779,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.729,
+    "chroma_profile": [
+      0.57,
+      0.514,
+      0.779,
+      0.89,
+      0.662,
+      0.729,
+      0.603,
+      1.0,
+      0.717,
+      0.533,
+      0.785,
+      0.48
+    ],
+    "rms_dbfs": -15.42,
+    "rms_dbfs_p95_frame": -10.78,
+    "peak_dbfs": 0.14,
+    "loudness_lufs_approx": -15.34,
+    "spectral_centroid_hz_mean": 2141.1,
+    "spectral_centroid_hz_median": 2002.8,
+    "onsets": 109,
+    "onset_density_per_s": 3.635,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 9054526",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 167.4,
+    "gain": -13.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/9054526",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USMV29900159: matched but no preview available (readable=False)"
+  ]
+}

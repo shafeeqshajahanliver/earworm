@@ -1,0 +1,93 @@
+{
+  "id": "1982-hurts-so-good",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Hurts So Good",
+  "wikidata": {
+    "qid": "Q5948777",
+    "label": "Hurts So Good",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q345431",
+          "label": "John Mellencamp"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q202585",
+          "label": "RCA Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1982-01-01"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q11399",
+          "label": "rock music"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q6110900",
+          "label": "Jack & Diane"
+        }
+      ],
+      "youtube_video_id": [
+        "4dOsbsuhYGQ"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "ccd57752-3755-457c-b253-8c03d4661675",
+    "title": "Hurts So Good",
+    "length_ms": 215000,
+    "first_release_date": "1982",
+    "artist_credit": "John Cougar",
+    "artists": [
+      {
+        "name": "John Mellencamp",
+        "mbid": "0aad6b52-fd93-4ea4-9c5d-1f66e1bc9f0a"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "6e479a5d-1b26-436c-a708-465eb9dbbe6a",
+        "title": "Hot Summer Hits",
+        "date": "1982",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "22bc25c2-c3da-4bf6-84e8-07a147856d2e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "main_artist": {
+      "name": "John Mellencamp",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Seymour"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

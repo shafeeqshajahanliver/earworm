@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11676339,
+  "kind": "synced",
+  "matched": {
+    "track": "Raindrops Keep Fallin' on My Head",
+    "artist": "B.J. Thomas",
+    "album": "Raindrops Keep Fallin' on My Head [Sceptre]",
+    "duration_s": 180.0
+  },
+  "duration_matched_to": "musicbrainz recording length (180s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 180.106,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 184.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 182.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37283949 (Raindrops Keep Fallin’ On My Head / B.J. Thomas / Lifetime of Romance: Falling in Love, 196.0s): duration matches no reference length",
+    "lrclib 37389587 (Raindrops Keep Fallin' on My Head / B.J.Thomas / 100 Músicas Inesquecíveis (Disco 4), 172.0s): duration matches no reference length",
+    "lrclib 34719526 (Raindrops Keep Fallin' on My Head / B.J. Thomas / Sixties Classics, 174.0s): duration matches no reference length",
+    "lrclib 34884343 (Raindrops Keep Fallin' On My Head / B.J. Thomas / Document, 173.0s): duration matches no reference length",
+    "lrclib 34981061 (Raindrops Keep Fallin' on My Head / B.J. Thomas / The Very Best of B.J. Thomas [Varese], 197.0s): duration matches no reference length",
+    "lrclib 36364569 (Raindrops Keep Fallin’ on My Head / B.J. Thomas / Raindrops Keep Fallin' on My Head, 173.0s): duration matches no reference length",
+    "lrclib 21372568 (Raindrops Keep Fallin' On My Head / B.J. Thomas / Raindrops Keep Fallin' On My Head, 192.444082s): duration matches no reference length",
+    "lrclib 27909260 (Raindrops Keep Fallin' On My Head / B.J. Thomas / Raindrops Keep Fallin' On My Head, 166.0s): duration matches no reference length",
+    "lrclib 26163453 (Raindrops Keep Fallin’ on My Head / B.J. Thomas / Raindrops Keep Fallin’ on My Head, 169.0s): duration matches no reference length",
+    "lrclib 27039535 (Raindrops Keep Fallin' on My Head / B.J. Thomas / Raindrops Keep Fallin´ on My Head, 172.416s): duration matches no reference length",
+    "lrclib 31547241 (Raindrops Keep Fallin' On My Head (Rerecorded) / B.J. Thomas / Raindrops Keep Fallin' on My Head, 178.0s): live/remix/other version",
+    "lrclib 32528970 (Raindrops Keep Fallin' on My Head / B.J. Thomas / Raindrops Keep Fallin´ on My Head (Remastered), 172.0s): duration matches no reference length",
+    "lrclib 16153112 (Raindrops Keep Fallin' on My Head / B. J. Thomas / Raindrops Keep Fallin´ on My Head (Remastered) (Remastered), 172.0s): duration matches no reference length",
+    "lrclib 28447097 (Raindrops Keep Fallin' On My Head / B.J. Thomas / Raindrops Keep Fallin' On My Head (Re-Recorded - Sped Up), 177.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

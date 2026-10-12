@@ -1,0 +1,41 @@
+{
+  "id": "1979-reunited",
+  "lyrics_kind": "synced",
+  "lrclib_id": 36483285,
+  "lines": 67,
+  "words": 391,
+  "unique_words": 145,
+  "type_token_ratio": 0.371,
+  "repeated_line_share": 0.284,
+  "distinct_lines": 48,
+  "zlib_compression_ratio": 0.351,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "reunited",
+  "title_phrase_occurrences": 14,
+  "pronouns": {
+    "first_singular": 33,
+    "second": 24,
+    "first_plural": 16
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 13.56,
+  "last_line_s": 338.9,
+  "sung_time_s": 298.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 78.5,
+  "words_per_minute_track": 98.6,
+  "longest_gap_between_lines_s": 22.96,
+  "longest_gap_starts_at_s": 295.5,
+  "first_repeated_block": {
+    "first_at_s": 64.32,
+    "recurs_at_s": 153.69,
+    "lines": [
+      "Reunited, and it feels so good",
+      "Reunited, 'cause we understood"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 36483285",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

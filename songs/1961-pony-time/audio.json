@@ -1,0 +1,74 @@
+{
+  "id": "1961-pony-time",
+  "preview": {
+    "service": "deezer",
+    "track_id": 991345602,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USA171840070",
+    "title": "Pony Time",
+    "artist": "Chubby Checker",
+    "album": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
+    "track_duration_s": 147,
+    "link": "https://www.deezer.com/track/991345602",
+    "duration_matched_to": "musicbrainz recording length (147s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 78.5,
+    "tempo_bpm_grid": 78.3,
+    "tempo_candidates_bpm": [
+      78.3,
+      161.5,
+      152.0
+    ],
+    "beats_detected": 40,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.778,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.737,
+    "chroma_profile": [
+      0.554,
+      0.434,
+      0.728,
+      1.0,
+      0.546,
+      0.611,
+      0.642,
+      0.948,
+      0.573,
+      0.447,
+      0.717,
+      0.425
+    ],
+    "rms_dbfs": -10.5,
+    "rms_dbfs_p95_frame": -7.71,
+    "peak_dbfs": -0.44,
+    "loudness_lufs_approx": -10.23,
+    "spectral_centroid_hz_mean": 2830.0,
+    "spectral_centroid_hz_median": 2773.8,
+    "onsets": 45,
+    "onset_density_per_s": 1.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 991345602",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/991345602",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2134045907: version (Pony Time (Live))",
+    "deezer 6060328: version (Pony Time (Rerecorded))"
+  ]
+}

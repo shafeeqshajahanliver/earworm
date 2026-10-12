@@ -1,0 +1,72 @@
+{
+  "id": "1974-seasons-in-the-sun",
+  "preview": {
+    "service": "deezer",
+    "track_id": 5363337,
+    "matched_by": "isrc",
+    "isrc": "USAR17400171",
+    "title": "Seasons in the Sun",
+    "artist": "Terry Jacks",
+    "album": "Essential Memories Of Love",
+    "track_duration_s": 206,
+    "link": "https://www.deezer.com/track/5363337",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 100.7,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      184.6
+    ],
+    "beats_detected": 49,
+    "key": "F# major",
+    "key_tonic": "F#",
+    "key_mode": "major",
+    "key_correlation": 0.835,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.636,
+    "chroma_profile": [
+      0.499,
+      0.737,
+      0.439,
+      0.607,
+      0.535,
+      0.67,
+      1.0,
+      0.582,
+      0.823,
+      0.598,
+      0.789,
+      0.621
+    ],
+    "rms_dbfs": -13.83,
+    "rms_dbfs_p95_frame": -10.16,
+    "peak_dbfs": -1.71,
+    "loudness_lufs_approx": -13.86,
+    "spectral_centroid_hz_mean": 1942.4,
+    "spectral_centroid_hz_median": 1759.3,
+    "onsets": 79,
+    "onset_density_per_s": 2.634,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 5363337",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 99.6,
+    "gain": -12.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/5363337",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USAR17400002: matched but no preview available (readable=False)"
+  ]
+}

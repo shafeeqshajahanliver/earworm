@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3111832,
+  "kind": "synced",
+  "matched": {
+    "track": "Cathy's Clown",
+    "artist": "The Everly Brothers",
+    "album": "A Date With The Everly Brothers",
+    "duration_s": 146.0
+  },
+  "duration_matched_to": "musicbrainz recording length (145s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 145.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 145.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 142.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37505849 (Cathy's Clown / The Everly Brothers / Walk Right Back: The Everly Brothers on Warner Bros. 1960-1969, 291.0s): duration matches no reference length",
+    "lrclib 37404471 (Cathy's Clown / The Everly Brothers / 100 % Oldies Vol.2 - CD 1, 159.0s): duration matches no reference length",
+    "lrclib 37441992 (Cathy's Clown / The Everly Brothers / Reunion Concert Vol. 2, 157.0s): duration matches no reference length",
+    "lrclib 34007546 (Cathy’s Clown / The Everly Brothers / The Everly Brothers, 161.0s): duration matches no reference length",
+    "lrclib 29829124 (Cathy's Clown / The Everly Brothers / The Everly Brothers, 158.0s): duration matches no reference length",
+    "lrclib 36514230 (Cathy's Clown / The Everly Brothers / Country: The Everly Brothers, 154.0s): duration matches no reference length",
+    "lrclib 20045505 (Cathy's Clown / The Everly Brothers / The Everly Brothers Show!, 83.705s): duration matches no reference length",
+    "lrclib 23886060 (Cathy’s Clown / The Everly Brothers / The Definitive Everly Brothers, 168.266667s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

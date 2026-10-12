@@ -1,0 +1,41 @@
+{
+  "id": "1966-the-ballad-of-the-green-berets",
+  "lyrics_kind": "synced",
+  "lrclib_id": 25874732,
+  "lines": 25,
+  "words": 151,
+  "unique_words": 85,
+  "type_token_ratio": 0.563,
+  "repeated_line_share": 0.16,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.436,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "the ballad of the green berets",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 1,
+    "second": 0,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 5.87,
+  "last_line_s": 143.74,
+  "sung_time_s": 138.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 65.5,
+  "words_per_minute_track": 60.8,
+  "longest_gap_between_lines_s": 6.56,
+  "longest_gap_starts_at_s": 137.18,
+  "first_repeated_block": {
+    "first_at_s": 28.33,
+    "recurs_at_s": 74.44,
+    "lines": [
+      "Silver wings upon their chest",
+      "These are men, America's best"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 25874732",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11432431,
+  "kind": "synced",
+  "matched": {
+    "track": "Aquarius - Let the Sunshine In",
+    "artist": "The 5th Dimension",
+    "album": "The Age of Aquarius",
+    "duration_s": 289.0
+  },
+  "duration_matched_to": "musicbrainz recording length (289s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 289.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 289.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 230.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 289.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37089753 (Aquarius / Let the Sunshine In / The 5th Dimension / Forrest Gump: The Soundtrack, 283.0s): duration matches no reference length",
+    "lrclib 37259958 (Aquarius ⁄ Let The Sunshine In / The 5th Dimension / Forrest Gump∶ The Soundtrack (Special Collector's Edition), 165.0s): duration matches no reference length",
+    "lrclib 35106653 (Aquarius/Let The Sunshine In / The 5th Dimension / Solid Gold Party Rock, 279.0s): duration matches no reference length",
+    "lrclib 36690248 (Aquarius / Let the Sunshine In / The 5th Dimension / The Time Machine - Classic Hits, 268.0s): duration matches no reference length",
+    "lrclib 34026211 (Aquarius, Let the Sunshine in / The 5th Dimension / Ohrwürmer Vol.1, 112.0s): duration matches no reference length",
+    "lrclib 1995032 (Aquarius / Let the Sunshine In / The 5th Dimension / Aquarius / Let the Sunshine In, 214.0s): duration matches no reference length",
+    "lrclib 12808578 (Aquarius / Let the Sunshine In / The 5th Dimension / 1969 Aquarius / Let the Sunshine In, 214.0s): duration matches no reference length",
+    "lrclib 323679 (Aquarius / Let the Sunshine In (7\" remix) / The 5th Dimension / Aquarius / Let the Sunshine In, 288.0s): live/remix/other version",
+    "lrclib 2108300 (Aquarius\u0000Let the Sunshine In / The 5th Dimension / The Ultimate 5th Dimension, 214.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

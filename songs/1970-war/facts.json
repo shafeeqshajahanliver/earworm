@@ -1,0 +1,158 @@
+{
+  "id": "1970-war",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "War (The Temptations song)",
+  "wikidata": {
+    "qid": "Q2548927",
+    "label": "War",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q846373",
+          "label": "The Temptations"
+        },
+        {
+          "qid": "Q708136",
+          "label": "Edwin Starr"
+        },
+        {
+          "qid": "Q73597",
+          "label": "Frankie Goes to Hollywood"
+        },
+        {
+          "qid": "Q1225",
+          "label": "Bruce Springsteen"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q1386948",
+          "label": "Norman Whitfield"
+        },
+        {
+          "qid": "Q808900",
+          "label": "Barrett Strong"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q1386948",
+          "label": "Norman Whitfield"
+        },
+        {
+          "qid": "Q808900",
+          "label": "Barrett Strong"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1970-01-01"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q105334717",
+          "label": "progressive soul"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "445e9912-2ef8-3d55-8784-cfc6f8806a41"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ],
+      "has_quality": [
+        {
+          "qid": "Q102189017",
+          "label": "anti-war song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group d1935597-0691-36f2-a87a-edbb737e4fec (1970-06-09)",
+  "musicbrainz": {
+    "recording_id": "1d09aa46-f4f2-487e-af0c-705cdcb1f95c",
+    "title": "War",
+    "length_ms": 192000,
+    "first_release_date": "1970-06-09",
+    "artist_credit": "Edwin Starr",
+    "artists": [
+      {
+        "name": "Edwin Starr",
+        "mbid": "9eace815-06f3-487c-bf3a-1a817e248056"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "5bbdca58-b47d-42e0-8902-0500720027ea",
+        "title": "War / He Who Picks a Rose",
+        "date": "1970",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "d1935597-0691-36f2-a87a-edbb737e4fec",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "c7624eb9-2dc3-44fd-a69b-ad3e8bb21bfe",
+        "title": "War",
+        "date": "1970-06-09",
+        "country": "US",
+        "status": "Official",
+        "release_group": "d1935597-0691-36f2-a87a-edbb737e4fec",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "445e9912-2ef8-3d55-8784-cfc6f8806a41",
+      "title": "War",
+      "iswcs": [
+        "T-070.247.669-4"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Barrett Strong",
+          "mbid": "31ee774b-6248-48d5-a8b5-0d9bebeaba9d"
+        },
+        {
+          "role": "writer",
+          "name": "Norman Whitfield",
+          "mbid": "01a7069c-882d-40f5-9575-c59d5bddcd61"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/803",
+        "http://www.songfacts.com/detail.php?id=1029",
+        "https://www.wikidata.org/wiki/Q2548927",
+        "https://en.wikipedia.org/wiki/War_(The_Temptations_song)%23Edwin_Starr_version"
+      ]
+    },
+    "main_artist": {
+      "name": "Edwin Starr",
+      "type": "Person",
+      "country": "US",
+      "area": "Detroit",
+      "begin_area": "Nashville"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

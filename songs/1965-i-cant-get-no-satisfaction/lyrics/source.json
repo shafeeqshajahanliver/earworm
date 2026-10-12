@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 32466192,
+  "kind": "synced",
+  "matched": {
+    "track": "(I Can't Get No) Satisfaction",
+    "artist": "The Rolling Stones",
+    "album": "Satisfaction - Hits of The Rolling Stones",
+    "duration_s": 223.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (224s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 224.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 225.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 0.877,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (224s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 36994586 ((I Can't Get No) Satisfaction / The Rolling Stones / Live at Buenos Aires, 340.0s): live/remix/other version",
+    "lrclib 37505036 ((I Can’t Get No) Satisfaction / The Rolling Stones / Out Of Our Heads (US), 30.0s): duration matches no reference length",
+    "lrclib 37542115 ((I Can’t Get No) Satisfaction / The Rolling Stones / Tight Dresses and Tampax, 343.0s): duration matches no reference length",
+    "lrclib 37181303 ((I Can't Get No) Satisfaction / The Rolling Stones / The Lost Recordings, 270.0s): duration matches no reference length",
+    "lrclib 37103585 ((I Can’t Get No) Satisfaction / The Rolling Stones / Live & Sessions 1963–1969, 231.0s): live/remix/other version",
+    "lrclib 37082138 ([I Can't Get No] Satisfaction / The Rolling Stones / Shine A Light [SHM-CD] [CD 2], 337.0s): duration matches no reference length",
+    "lrclib 37082704 ([I Can't Get No] Satisfaction / The Rolling Stones / Havana Moon [CD 2], 629.0s): duration matches no reference length",
+    "lrclib 37313627 ((I Can't Get No) Satisfaction / The Rolling Stones / ″Still Life″ (American Concert 1981), 312.0s): duration matches no reference length",
+    "lrclib 37324194 ((I can't get no) satisfaction / The Rolling Stones / 30 greatest hits, 216.0s): duration matches no reference length",
+    "lrclib 37377582 ((I Can’t Get No) Satisfaction / The Rolling Stones / Live & Sessions 1963–1969, 225.0s): live/remix/other version",
+    "lrclib 37392647 ((I Can’t Get No) Satisfaction / The Rolling Stones / Live at Leeds ’82, 437.0s): live/remix/other version",
+    "lrclib 37265283 ((I Can't Get No) Satisfaction / The Rolling Stones / Get Yer Ya-Ya's Out! 40th Anniversary Deluxe Box Set CD 2, 339.0s): duration matches no reference length",
+    "lrclib 37271782 ((I Can’t Get No) Satisfaction / The Rolling Stones / Hot Rocks 1964–1971, 340.0s): duration matches no reference length",
+    "lrclib 37253621 ((I Can’t Get No) Satisfaction / The Rolling Stones / Live & Sessions 1963–1969, 168.0s): live/remix/other version",
+    "lrclib 31259710 (Satisfaction / The Rolling Stones / (Rock Live 07) Satisfaction [Rolling Stones], 312.0s): live/remix/other version",
+    "lrclib 3657520 (Satisfaction / The Rolling Stones / The Rolling Stones, 235.0s): duration matches no reference length",
+    "lrclib 2174882 ((I Can't Get No) Satisfaction / The Rolling Stones / Satisfaction - Hits of The Rolling Stones, 369.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

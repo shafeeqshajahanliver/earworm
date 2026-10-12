@@ -1,0 +1,38 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37404974,
+  "kind": "synced",
+  "matched": {
+    "track": "I'm a Believer",
+    "artist": "The Monkees",
+    "album": "The Number One Collection",
+    "duration_s": 166.0
+  },
+  "duration_matched_to": "musicbrainz recording length (166s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 166.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 165.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 167.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 34,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36183018 (I’m a Believer / The Monkees / I’m a Believer, 155.0s): duration matches no reference length",
+    "lrclib 31512670 (I’m a Believer / The Monkees / I’m a Believer, 174.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

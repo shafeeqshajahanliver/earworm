@@ -1,0 +1,70 @@
+{
+  "id": "1965-you-were-on-my-mind",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1762957237,
+    "matched_by": "isrc",
+    "isrc": "USAM16900849",
+    "title": "You Were On My Mind",
+    "artist": "We Five",
+    "album": "You Were On My Mind",
+    "track_duration_s": 157,
+    "link": "https://www.deezer.com/track/1762957237",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 143.3,
+    "tempo_bpm_grid": 143.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      71.8,
+      136.0
+    ],
+    "beats_detected": 70,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.852,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.549,
+    "chroma_profile": [
+      0.558,
+      0.614,
+      0.658,
+      0.776,
+      1.0,
+      0.64,
+      0.726,
+      0.559,
+      0.753,
+      0.747,
+      0.67,
+      0.792
+    ],
+    "rms_dbfs": -14.29,
+    "rms_dbfs_p95_frame": -11.11,
+    "peak_dbfs": -1.43,
+    "loudness_lufs_approx": -13.55,
+    "spectral_centroid_hz_mean": 2751.7,
+    "spectral_centroid_hz_median": 2793.0,
+    "onsets": 96,
+    "onset_density_per_s": 3.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1762957237",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -13.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1762957237",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

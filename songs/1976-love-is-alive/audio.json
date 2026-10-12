@@ -1,0 +1,71 @@
+{
+  "id": "1976-love-is-alive",
+  "preview": {
+    "service": "deezer",
+    "track_id": 44522511,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "US3G70800082",
+    "title": "Love Is Alive (feat. Dorian Wright)",
+    "artist": "Gary Wright",
+    "album": "The Light of a Million Suns",
+    "track_duration_s": 237,
+    "link": "https://www.deezer.com/track/44522511",
+    "duration_matched_to": "wikipedia infobox length (234s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.2,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      198.8,
+      103.4,
+      68.0
+    ],
+    "beats_detected": 51,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.708,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.487,
+    "chroma_profile": [
+      0.539,
+      0.485,
+      0.576,
+      0.704,
+      0.683,
+      1.0,
+      0.518,
+      0.512,
+      0.741,
+      0.568,
+      0.656,
+      0.487
+    ],
+    "rms_dbfs": -15.54,
+    "rms_dbfs_p95_frame": -12.08,
+    "peak_dbfs": 0.06,
+    "loudness_lufs_approx": -15.78,
+    "spectral_centroid_hz_mean": 3136.9,
+    "spectral_centroid_hz_median": 3088.4,
+    "onsets": 103,
+    "onset_density_per_s": 3.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 44522511",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 102.1,
+    "gain": -15.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/44522511",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

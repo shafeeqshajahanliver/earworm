@@ -1,0 +1,591 @@
+{
+  "id": "1994-all-for-love",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "All for Love (song)",
+  "wikidata": {
+    "qid": "Q2529083",
+    "label": "All for Love",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q482907",
+          "label": "Bryan Adams"
+        },
+        {
+          "qid": "Q1273377",
+          "label": "E.M.D."
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q547660",
+          "label": "Mutt Lange"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q924578",
+          "label": "Chris Thomas"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q277626",
+          "label": "A&M Records"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q11399",
+          "label": "rock music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "spotify_track_id": [
+        "035aFnfIrO25Hy4PRP6GC7"
+      ],
+      "musicbrainz_work_id": [
+        "36c4fb52-d0f7-3848-8ae3-ed180b15aefa"
+      ],
+      "musicbrainz_release_group_id": [
+        "13059c3f-2a9e-32b9-a843-0eff63fa8ad5"
+      ],
+      "isrc": [
+        "USAM19910000"
+      ],
+      "genius_song_id": [
+        "Bryan-adams-rod-stewart-and-sting-all-for-love-lyrics"
+      ],
+      "youtube_video_id": [
+        "a2tDsBZ5H-w",
+        "ofA3URC1wyk"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 13059c3f-2a9e-32b9-a843-0eff63fa8ad5 (1993)",
+  "musicbrainz": {
+    "recording_id": "ac484ef3-e1c8-4d11-bbfc-8e205bd53099",
+    "title": "All for Love",
+    "length_ms": 282520,
+    "first_release_date": "1993-10-19",
+    "artist_credit": "Bryan Adams, Rod Stewart & Sting",
+    "artists": [
+      {
+        "name": "Bryan Adams",
+        "mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63"
+      },
+      {
+        "name": "Rod Stewart",
+        "mbid": "a35237a0-4f47-40a6-b6f3-1e786db23402"
+      },
+      {
+        "name": "Sting",
+        "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
+      }
+    ],
+    "isrcs": [
+      "USAM19910000",
+      "USWB19600851"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "David Nicholas",
+        "mbid": "f39a0d22-fa8f-44e8-9a80-6fdc5097894d"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Bryan Adams",
+        "mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Mickey Curry",
+        "mbid": "9a31cf33-19b7-4bbb-9a0a-a221692c0614"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "piano"
+        ],
+        "name": "Bill Payne",
+        "mbid": "cc8ab636-b753-4cd8-a3b3-e59e7d1bb3d0"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Keith Scott",
+        "mbid": "bc4db91e-3fbf-460d-99dc-4eaca2872b44"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "Sting",
+        "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "David Nicholas",
+        "mbid": "f39a0d22-fa8f-44e8-9a80-6fdc5097894d"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Bryan Adams",
+        "mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "David Nicholas",
+        "mbid": "f39a0d22-fa8f-44e8-9a80-6fdc5097894d"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Chris Thomas",
+        "mbid": "2a25263b-54ad-42c5-acea-e50b3913369c"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Olle Romo",
+        "mbid": "f5b5b8ca-73a5-44ff-9d51-05477fb01896"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Rob Vermeulen",
+        "mbid": "31e37b24-20f5-4f6f-8cca-865030d55dbd"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Bryan Adams",
+        "mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Sting",
+        "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Rod Stewart",
+        "mbid": "a35237a0-4f47-40a6-b6f3-1e786db23402"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0dkeKH0PsiIFQJh8tmjPTF"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=ofA3URC1wyk"
+      },
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/performance/302467"
+      }
+    ],
+    "genres": [
+      "alternative rock",
+      "arena rock",
+      "ballad",
+      "blues rock",
+      "classic rock",
+      "mainstream rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "tags": [
+      "rock",
+      "pop rock",
+      "adult contemporary",
+      "soft rock",
+      "album rock",
+      "american trad rock",
+      "arena rock",
+      "pop",
+      "all for love",
+      "alternative rock"
+    ],
+    "releases": [
+      {
+        "id": "971b7e75-a81f-40f7-9832-5cac587be470",
+        "title": "All for Love",
+        "date": "1993",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "13059c3f-2a9e-32b9-a843-0eff63fa8ad5",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "62ad1866-281a-42e6-91d4-3fcdb54b2141",
+        "title": "All for Love",
+        "date": "1993",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "13059c3f-2a9e-32b9-a843-0eff63fa8ad5",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "7a66af87-ce70-4c82-a357-98d74fec6b3c",
+        "title": "The Three Musketeers",
+        "date": "1993",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1280c407-29bc-30ef-9ee1-a721a05ce2d1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "3cedbe92-9d72-487b-9d21-4bbec619eb1a",
+        "title": "The Three Musketeers: All for Love",
+        "date": "1993",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "13059c3f-2a9e-32b9-a843-0eff63fa8ad5",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "5e73ebf3-7e3d-478e-b643-5a14e55e5d25",
+        "title": "The Three Musketeers: Original Motion Picture Soundtrack",
+        "date": "1993",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "1280c407-29bc-30ef-9ee1-a721a05ce2d1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "b25b7db7-c7ad-46ac-aaee-7d93dd47373e",
+        "title": "HitDisc 019A",
+        "date": "1993-10-19",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "d1518acd-9c54-4d68-b6b9-5645b0dadf7d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "29e6b1b4-6042-4799-aa6a-fd9f113de526",
+        "title": "The Three Musketeers: Original Motion Picture Soundtrack",
+        "date": "1993-11-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1280c407-29bc-30ef-9ee1-a721a05ce2d1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "0d27c12f-efaf-4db6-a1cd-5a4817ab1e8a",
+        "title": "All for Love",
+        "date": "1994",
+        "country": "US",
+        "status": "Official",
+        "release_group": "13059c3f-2a9e-32b9-a843-0eff63fa8ad5",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "57ecb7fe-0311-3224-a3e5-d5ed7c5cfe49",
+        "title": "All for Love",
+        "date": "1994",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "13059c3f-2a9e-32b9-a843-0eff63fa8ad5",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "37149e46-c4c5-4879-8761-e2c0da66be8c",
+        "title": "Braun MTV Eurochart: February 1994",
+        "date": "1994-02",
+        "country": "NL",
+        "status": "Bootleg",
+        "release_group": "212416b0-1c5f-4a2d-b6c4-99cef6d26d20",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7e98bcac-b338-47d5-8dad-3b7b4a748808",
+        "title": "Ballads",
+        "date": "1995",
+        "country": "NL",
+        "status": "Bootleg",
+        "release_group": "b443d7f1-55e3-4e14-8e0d-9d9f9da80b1f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ed4c3725-8ac4-4d07-aba6-a27817ab2c4a",
+        "title": "Bryan Adams Ballads",
+        "date": "1995",
+        "country": "NL",
+        "status": "Bootleg",
+        "release_group": "b443d7f1-55e3-4e14-8e0d-9d9f9da80b1f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e3a4b8d1-5310-46ef-a41f-aee61cc10c6a",
+        "title": "Best Ballads",
+        "date": "1996",
+        "country": "GB",
+        "status": "Bootleg",
+        "release_group": "3dd46659-dc0b-4845-84a0-34129bd71e2c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "15c0c03e-88ea-4712-9486-37b9b3032c0b",
+        "title": "If We Fall in Love Tonight",
+        "date": "1996",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b8764254-68f6-402a-80f0-b37e1ce9be6c",
+        "title": "If We Fall in Love Tonight",
+        "date": "1996",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fd4310fc-b7f9-43c3-a0f8-264f3b245160",
+        "title": "If We Fall in Love Tonight",
+        "date": "1996",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d12453a8-3b68-4611-94a5-c111d0522fb5",
+        "title": "If We Fall in Love Tonight",
+        "date": "1996",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2a328cda-d19e-4bb8-84b1-9181b16780c8",
+        "title": "If We Fall in Love Tonight",
+        "date": "1996",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e2852079-b60b-4f6c-b267-0472da3bfb49",
+        "title": "If We Fall In Love Tonight",
+        "date": "1996",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "79d4616b-29f9-44f1-b12c-ac5651e5abd8",
+        "title": "If We Fall in Love Tonight",
+        "date": "1996-11-12",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3a382718-00f7-47a0-a46c-dd562cedf59e",
+        "title": "If We Fall in Love Tonight",
+        "date": "1996-11-12",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2f067be7-0f0f-3989-8755-e801d4b52fb9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "da3c49d5-5ac8-469d-8d8f-866eaec3c788",
+        "title": "At the Movies",
+        "date": "1997-11-06",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "ee7f4e04-efff-39a6-b12f-8c00ba2895ef",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "73768fd0-aa82-4608-9470-e1eecf7924f7",
+        "title": "Greatest Hits",
+        "date": "1999",
+        "country": null,
+        "status": "Bootleg",
+        "release_group": "7e5cc21b-3bbe-4d06-8fea-dd3932dfb41b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "badf2b6a-f913-41f5-9e05-ca4195c59faa",
+        "title": "The Best of Me",
+        "date": "1999",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "6bef04d2-353b-3c9a-b023-2ccc30bc93fa",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a8a588f8-caf4-4801-847a-c173cf6becc9",
+        "title": "The Best of Me",
+        "date": "1999-11-15",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6bef04d2-353b-3c9a-b023-2ccc30bc93fa",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "36c4fb52-d0f7-3848-8ae3-ed180b15aefa",
+      "title": "All for Love",
+      "iswcs": [
+        "T-070.248.722-6",
+        "T-918.005.221-5",
+        "T-923.736.656-2",
+        "T-925.852.756-9"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Bryan Adams",
+          "mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63"
+        },
+        {
+          "role": "writer",
+          "name": "Michael Kamen",
+          "mbid": "adcc6c98-0bf1-4d54-84aa-2249cf5e46bf"
+        },
+        {
+          "role": "writer",
+          "name": "Robert John “Mutt” Lange",
+          "mbid": "61f2ae93-ab59-4c59-aef6-43f5f9afceae"
+        }
+      ],
+      "urls": [
+        "https://genius.com/Bryan-adams-rod-stewart-and-sting-all-for-love-lyrics",
+        "https://secondhandsongs.com/work/136223",
+        "https://www.wikidata.org/wiki/Q2529083"
+      ]
+    },
+    "main_artist": {
+      "name": "Bryan Adams",
+      "type": "Person",
+      "country": "CA",
+      "area": "Canada",
+      "begin_area": "Kingston"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

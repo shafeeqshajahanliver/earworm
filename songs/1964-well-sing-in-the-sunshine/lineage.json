@@ -1,0 +1,66 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/47199",
+    "title": "We'll Sing in the Sunshine",
+    "performer": "Gale Garnett - Orchestra conducted by Sid Bass",
+    "is_original": false,
+    "first_release_date": "1964-03",
+    "releases": [
+      {
+        "title": "We'll Sing in the Sunshine",
+        "uri": "https://api.secondhandsongs.com/release/18701",
+        "performer": "Gale Garnett"
+      },
+      {
+        "title": "My Kind of Folk Songs",
+        "uri": "https://api.secondhandsongs.com/release/38252",
+        "performer": "Gale Garnett - Orchestra conducted by Sid Bass"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Sing in the Sunshine",
+      "uri": "https://api.secondhandsongs.com/work/4039"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/4039",
+    "title": "Sing in the Sunshine",
+    "language": "English",
+    "writers": [
+      "Gale Garnett"
+    ],
+    "original_performer": "Hoyt Axton with The Sherwood Singers",
+    "versions": 38,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Vi skynder os langsomt",
+        "uri": "https://api.secondhandsongs.com/work/84993"
+      },
+      {
+        "title": "Vi sjunger tillsammans",
+        "uri": "https://api.secondhandsongs.com/work/227300"
+      },
+      {
+        "title": "Ich liebe die Sonne",
+        "uri": "https://api.secondhandsongs.com/work/228357"
+      },
+      {
+        "title": "Toujours on se souvient",
+        "uri": "https://api.secondhandsongs.com/work/292139"
+      },
+      {
+        "title": "נשיר אל השמש",
+        "uri": "https://api.secondhandsongs.com/work/354513"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 32885417,
+  "kind": "synced",
+  "matched": {
+    "track": "Love Machine",
+    "artist": "The Miracles Feat. Billy Griffin",
+    "album": "Various - 70s School Days - The Ultimate Collection",
+    "duration_s": 172.0
+  },
+  "duration_matched_to": "musicbrainz recording length (175s)",
+  "duration_diff_s": 2.8,
+  "reference_lengths": [
+    {
+      "seconds": 174.8,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 177.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 175.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 412.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 37,
+  "agreement_with_other_candidates": 0.779,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37024912 (Love Machine / The Miracles / Ultimate Disco, 184.0s): duration matches no reference length",
+    "lrclib 37195690 (Love Machine / The Miracles / 100 Number 1 Hits, 255.0s): duration matches no reference length",
+    "lrclib 34524527 (Love Machine / The Miracles / The 35th Anniversary Collection, 168.0s): duration matches no reference length",
+    "lrclib 34860777 (Love Machine / The Miracles / Soul/Volume Two, 257.0s): duration matches no reference length",
+    "lrclib 33434038 (Love Machine / The Miracles / 7 Hours of Super Hits of the '70s, 186.0s): duration matches no reference length",
+    "lrclib 33511283 (Love Machine / The Miracles / Various - Disco Fever, 168.0s): duration matches no reference length",
+    "lrclib 33502764 (Love Machine / The Miracles / 101 Disco Classics, 168.0s): duration matches no reference length",
+    "lrclib 36836363 (Love Machine / The Miracles / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 22994184 (Love Machine / The Miracles feat. Billy Griffin / 101 Motown Anthems, 420.0s): duration matches no reference length",
+    "lrclib 28727244 (Love Machine / The Miracles Feat. Billy Griffin / The Ultimate Collection - 70s Schooldays - CD4, 169.0s): duration matches no reference length",
+    "lrclib 26009878 (Love Machine / The Miracles feat. Billy Griffin / The Ultimate Collection: 70s School Days, 169.377959s): duration matches no reference length",
+    "lrclib 29565015 (Love Machine / The Miracles Feat. Billy Griffin / 70s - School Days - The Ultimate Collection, 169.0s): duration matches no reference length",
+    "lrclib 31409267 (Love Machine / The Miracles feat. Billy Griffin / 70s Schooldays - 100 Super Hits Of The 70s (The Ultimate Collection), 169.0s): duration matches no reference length",
+    "lrclib 13968678 (Love Machine (long version) / The Miracles feat. Billy Griffin / 20th Century Masters: The Millennium Collection: The Best of Smokey Robinson & The Miracles, 413.0s): live/remix/other version",
+    "lrclib 33910457 (Love Machine / The Miracles / Love Machine, 185.0s): duration matches no reference length",
+    "lrclib 35760476 (Love Machine / The Miracles / Love Machine, 403.0s): duration matches no reference length",
+    "lrclib 32043972 (Love Machine / The Miracles / Love Machine, 597.0s): duration matches no reference length",
+    "lrclib 31870853 (Love Machine / The Miracles / Soullegends: The Miracles, 184.0s): duration matches no reference length",
+    "lrclib 32046053 (Love Machine / The Miracles / Love Machine (Re-Recorded - Sped Up), 144.0s): live/remix/other version",
+    "lrclib 29678520 (Love Machine / The Miracles / 100 Greatest Love Songs, 183.0s): duration matches no reference length",
+    "lrclib 14372767 (Love Machine (long version) / The Miracles / 20th Century Masters: The Millennium Collection: The Best of Smokey Robinson & The Miracles, 413.518375s): live/remix/other version",
+    "lrclib 25173023 (Love Machine / The Miracles / The Best Disco Album in the World... Ever! 2, 166.217143s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

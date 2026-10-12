@@ -1,0 +1,563 @@
+{
+  "id": "1981-9-to-5",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "9 to 5 (Dolly Parton song)",
+  "wikidata": {
+    "qid": "Q4646459",
+    "label": "9 to 5",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q180453",
+          "label": null
+        },
+        {
+          "qid": "Q235820",
+          "label": "Kikki Danielsson"
+        },
+        {
+          "qid": "Q1338793",
+          "label": "Millencolin"
+        },
+        {
+          "qid": "Q180453",
+          "label": null
+        },
+        {
+          "qid": "Q134553288",
+          "label": "Dollies"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q180453",
+          "label": null
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q180453",
+          "label": null
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1980-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q83440",
+          "label": "country music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "award_received": [
+        {
+          "qid": "Q5593789",
+          "label": "Grammy Award for Best Country Song"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "0a60c381-5eb0-3c0e-a368-2f562bb6da95"
+      ],
+      "musicbrainz_release_group_id": [
+        "5a2862db-8c19-47da-bdf4-06ab7a32c37b"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ],
+      "has_quality": [
+        {
+          "qid": "Q93540236",
+          "label": "film song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 5a2862db-8c19-47da-bdf4-06ab7a32c37b (1980-11-10)",
+  "musicbrainz": {
+    "recording_id": "f989fa05-7e2b-4e88-8a95-b5d68480b539",
+    "title": "9 to 5",
+    "length_ms": 165000,
+    "first_release_date": "1980-11-10",
+    "artist_credit": "Dolly Parton",
+    "artists": [
+      {
+        "name": "Dolly Parton",
+        "mbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856"
+      }
+    ],
+    "isrcs": [
+      "USRN10400045",
+      "USRN19400050",
+      "USRN19400384",
+      "USRN19600101",
+      "USRN19600170",
+      "USSM10026966"
+    ],
+    "recording_credits": [
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Jeff “Skunk” Baxter",
+        "mbid": "6b03465f-75b9-4817-a045-43ef89b635e2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "percussion"
+        ],
+        "name": "Lenny Castro",
+        "mbid": "a62f2bf6-2711-4948-a428-e06f626b706a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trumpet"
+        ],
+        "name": "Jerry Hey",
+        "mbid": "8a7d6692-c076-4d69-b1c7-6bfe6a62d5ba"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "baritone saxophone"
+        ],
+        "name": "Kim Hutchcroft",
+        "mbid": "c8aeea30-c9a2-4c00-879d-236f80a5c96b"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "piano"
+        ],
+        "name": "Larry Knechtel",
+        "mbid": "5bdf4fa0-0c8c-4216-a4d9-97092c107a64"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass guitar"
+        ],
+        "name": "Abraham Laboriel",
+        "mbid": "ea14ad72-eff5-4a21-934b-8b93f4d45d1b"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trombone"
+        ],
+        "name": "Bill Reichenbach, Jr.",
+        "mbid": "598eae12-4f2b-42e1-96ab-0f5c95e32e87"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "saxophone"
+        ],
+        "name": "Tom Saviano",
+        "mbid": "9930b356-0da7-443e-8353-6d7e3f9b3516"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Rick Shlosser",
+        "mbid": "08ecdff6-ea61-402b-aa2a-67d58f9da4af"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Marty Walsh",
+        "mbid": "c4e0ae4a-cd41-491d-98ff-6ee924ec5fbf"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Gregg Perry",
+        "mbid": "d30b0098-2838-48be-847d-c56396d72a20"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Anita Ball",
+        "mbid": "f1f1ff04-9b47-43f4-b969-8cb1509b45a0"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Denise DeCaro",
+        "mbid": "e010e6b1-87ed-4ab1-9b42-b2b6fea114fb"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Dolly Parton",
+        "mbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Stephanie Spruill",
+        "mbid": "064332e4-de73-4c11-9e7d-55f1d126c0f3"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/992937"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/song/273166378"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/259351"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/song/273166378"
+      },
+      {
+        "type": "streaming",
+        "url": "https://open.qobuz.com/track/259351"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/52534"
+      }
+    ],
+    "genres": [
+      "bluegrass",
+      "country",
+      "country pop",
+      "country rock",
+      "folk",
+      "mainstream rock",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "country",
+      "bluegrass",
+      "country music",
+      "country pop",
+      "country rock",
+      "folk",
+      "mainstream rock",
+      "pop",
+      "rock"
+    ],
+    "releases": [
+      {
+        "id": "ab17110d-4584-4b13-8002-a06e4bc10c2d",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "ES",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "a1ad4f84-cbd9-4f7a-bf03-3fa6475dce0e",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "NZ",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "0b67b0a7-b862-4377-8405-c344e0559d71",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "02e99c34-3156-4280-b80d-acb04ff075fc",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "5d27a762-bea8-4c30-97a7-573660cbbaf7",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "c48a5c69-cbac-43aa-8336-5ce466bf1711",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "SV",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "4ad123fe-6072-404e-a12b-e136ef58c6bd",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "4bae2efa-0488-41ef-951e-c071edb2146e",
+        "title": "9 to 5",
+        "date": "1980",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "acc4f52c-cc9a-4ac3-ac83-02dccff8f3a6",
+        "title": "9 to 5 / Old Flames Can't Hold a Candle to You",
+        "date": "1980",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "f0a2a41c-1c4c-439b-b21b-9e6fcb848f5f",
+        "title": "9 to 5 / Old Flames Can’t Hold a Candle to You",
+        "date": "1980",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "a81032fa-fb47-4231-bcd0-4ad172c6611d",
+        "title": "9 to 5 / Sing for the Common Man",
+        "date": "1980",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "c5cb43e6-8140-4d08-80c1-13b34423081b",
+        "title": "9 to 5 / Sing for the Common Man",
+        "date": "1980",
+        "country": "ZW",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "c2776e6f-f233-4f50-bd89-a1069653dc10",
+        "title": "9 to 5 / Sing for the Common Man",
+        "date": "1980",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "0d83f144-2cb4-4a24-9043-5646d77dfe85",
+        "title": "9 to 5 / Sing for the Common Man",
+        "date": "1980",
+        "country": "SE",
+        "status": "Promotion",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "58d1d62c-0104-4e4c-a66b-c24cd4dede1b",
+        "title": "9 to 5",
+        "date": "1980-11",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "b6e71d2d-296c-463e-aefd-3630fad9bc96",
+        "title": "9 to 5",
+        "date": "1980-11",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "a44955d0-c7c3-4008-ac7a-52650ef93cfa",
+        "title": "9 to 5 / Sing for the Common Man",
+        "date": "1980-11",
+        "country": "PT",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "1e47620e-165b-4f52-8c0d-183bbb03c4f0",
+        "title": "9 to 5 / Sing for the Common Man",
+        "date": "1980-11",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "ba398ba4-4e25-497c-9862-0ca3bbf4e75a",
+        "title": "9 to 5 / Sing for the Common Man",
+        "date": "1980-11-10",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "def0361b-4ecd-4c68-bd3a-f3f51020b333",
+        "title": "9 to 5 and Odd Jobs",
+        "date": "1980-11-17",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "f28e8c53-7f29-3905-855c-1a4948127046",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "163b8da5-c373-4b26-8a98-2b8c106dd1a2",
+        "title": "9 to 5 and Odd Jobs",
+        "date": "1980-11-17",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "f28e8c53-7f29-3905-855c-1a4948127046",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "631d9e37-8b41-379b-9301-582070e9ab6e",
+        "title": "9 to 5 and Odd Jobs",
+        "date": "1980-11-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f28e8c53-7f29-3905-855c-1a4948127046",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "123fcbf0-a729-460d-b844-a997f6d323e0",
+        "title": "9 to 5 and Odd Jobs",
+        "date": "1980-11-17",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "f28e8c53-7f29-3905-855c-1a4948127046",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "cd7f8f47-d7a0-4171-bc9c-235f2fe3a3e3",
+        "title": "9 to 5 and Odd Jobs",
+        "date": "1980-11-17",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "f28e8c53-7f29-3905-855c-1a4948127046",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c5dac9b7-29cd-4b0c-8e75-111c1ed18968",
+        "title": "9 to 5 and Odd Jobs",
+        "date": "1980-11-17",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "f28e8c53-7f29-3905-855c-1a4948127046",
+        "primary_type": "Album",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "0a60c381-5eb0-3c0e-a368-2f562bb6da95",
+      "title": "9 to 5",
+      "iswcs": [
+        "T-070.242.510-2"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Dolly Parton",
+          "mbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856"
+        },
+        {
+          "role": "lyricist",
+          "name": "Dolly Parton",
+          "mbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/24493",
+        "https://www.wikidata.org/wiki/Q4646459"
+      ]
+    },
+    "main_artist": {
+      "name": "Dolly Parton",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Locust Ridge"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

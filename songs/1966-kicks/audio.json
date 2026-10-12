@@ -1,0 +1,79 @@
+{
+  "id": "1966-kicks",
+  "preview": {
+    "service": "deezer",
+    "track_id": 73139400,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSM16601060",
+    "title": "Kicks",
+    "artist": "Paul Revere & The Raiders",
+    "album": "Midnight Ride",
+    "track_duration_s": 146,
+    "link": "https://www.deezer.com/track/73139400",
+    "duration_matched_to": "musicbrainz recording length (146s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 131.1,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      136.0,
+      66.3
+    ],
+    "beats_detected": 65,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.762,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.713,
+    "chroma_profile": [
+      0.631,
+      0.514,
+      0.503,
+      0.619,
+      0.623,
+      1.0,
+      0.554,
+      0.576,
+      0.686,
+      0.645,
+      0.726,
+      0.482
+    ],
+    "rms_dbfs": -13.87,
+    "rms_dbfs_p95_frame": -11.32,
+    "peak_dbfs": 0.1,
+    "loudness_lufs_approx": -11.68,
+    "spectral_centroid_hz_mean": 2682.0,
+    "spectral_centroid_hz_median": 2540.3,
+    "onsets": 54,
+    "onset_density_per_s": 1.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 73139400",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 131.2,
+    "gain": -11.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/73139400",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 51211641: duration 171s matches no reference length",
+    "deezer 1338595: duration 189s matches no reference length",
+    "deezer 723397482: version (Kicks (Remix))",
+    "deezer 90588209: version (Kicks (Rerecorded))",
+    "deezer 3447080071: version (Kicks (Live))",
+    "deezer 2727860921: version (Kicks (Live))",
+    "deezer 1338644: version (Kicks (Millennium Remix 2000))"
+  ]
+}

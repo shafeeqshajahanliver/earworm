@@ -1,0 +1,76 @@
+{
+  "id": "1968-hey-jude",
+  "preview": {
+    "service": "deezer",
+    "track_id": 116348632,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBUM71505902",
+    "title": "Hey Jude (Remastered 2015)",
+    "artist": "The Beatles",
+    "album": "1 (Remastered 2015)",
+    "track_duration_s": 429,
+    "link": "https://www.deezer.com/track/116348632",
+    "duration_matched_to": "wikipedia infobox length (432s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 149.2,
+    "tempo_bpm_grid": 149.8,
+    "tempo_candidates_bpm": [
+      152.0,
+      73.8,
+      143.6
+    ],
+    "beats_detected": 74,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.873,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.692,
+    "chroma_profile": [
+      0.693,
+      0.479,
+      0.661,
+      0.534,
+      0.746,
+      1.0,
+      0.493,
+      0.618,
+      0.437,
+      0.699,
+      0.633,
+      0.482
+    ],
+    "rms_dbfs": -11.95,
+    "rms_dbfs_p95_frame": -8.85,
+    "peak_dbfs": 0.09,
+    "loudness_lufs_approx": -11.79,
+    "spectral_centroid_hz_mean": 2836.6,
+    "spectral_centroid_hz_median": 2693.7,
+    "onsets": 70,
+    "onset_density_per_s": 2.334,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 116348632",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 147.66,
+    "gain": -11.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/116348632",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 126848613: duration 239s matches no reference length",
+    "deezer 122172010: duration 259s matches no reference length",
+    "deezer 579901682: duration 403s matches no reference length",
+    "deezer 3668067182: duration 259s matches no reference length"
+  ]
+}

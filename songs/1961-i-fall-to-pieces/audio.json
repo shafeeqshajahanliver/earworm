@@ -1,0 +1,74 @@
+{
+  "id": "1961-i-fall-to-pieces",
+  "preview": {
+    "service": "deezer",
+    "track_id": 540187032,
+    "matched_by": "isrc",
+    "isrc": "USMC16048707",
+    "title": "I Fall To Pieces (Single Version)",
+    "artist": "Patsy Cline",
+    "album": "Showcase",
+    "track_duration_s": 169,
+    "link": "https://www.deezer.com/track/540187032",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 112.0,
+    "tempo_bpm_grid": 111.1,
+    "tempo_candidates_bpm": [
+      112.3,
+      107.7,
+      56.2
+    ],
+    "beats_detected": 56,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.716,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.686,
+    "chroma_profile": [
+      0.731,
+      0.662,
+      0.784,
+      0.636,
+      0.416,
+      1.0,
+      0.584,
+      0.945,
+      0.424,
+      0.744,
+      0.787,
+      0.364
+    ],
+    "rms_dbfs": -22.27,
+    "rms_dbfs_p95_frame": -17.54,
+    "peak_dbfs": -8.19,
+    "loudness_lufs_approx": -21.9,
+    "spectral_centroid_hz_mean": 1753.9,
+    "spectral_centroid_hz_median": 1717.8,
+    "onsets": 51,
+    "onset_density_per_s": 1.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 540187032",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 112.04,
+    "gain": -22.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/540187032",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between F major and Bb major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc DEB551530020: matched but no preview available (readable=False)"
+  ]
+}

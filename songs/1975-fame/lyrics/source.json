@@ -1,0 +1,63 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33458937,
+  "kind": "synced",
+  "matched": {
+    "track": "Fame",
+    "artist": "David Bowie",
+    "album": "Young Americans",
+    "duration_s": 208.0
+  },
+  "duration_matched_to": "musicbrainz recording length (210s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 210.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 214.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 210.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36845541 (Fame / David Bowie / Glastonbury 2000, 278.0s): duration matches no reference length",
+    "lrclib 37019265 (Fame / David Bowie / Bowie - The Singles: 1969-1993, 255.0s): duration matches no reference length",
+    "lrclib 37129269 (Fame / David Bowie / Best Of(Cd1), 255.0s): duration matches no reference length",
+    "lrclib 37192698 (Fame / David Bowie / Dr1ve Me Crazy Vol. 2, 241.0s): duration matches no reference length",
+    "lrclib 37154085 (Fame / David Bowie / Transmission Impossible (legendary radio broadcasts from the 1970s–1990s), 352.0s): duration matches no reference length",
+    "lrclib 37154707 (Fame / David Bowie / Bowie at the Beeb∶ The Best of the BBC Radio Sessions 68-72, 253.0s): duration matches no reference length",
+    "lrclib 36905585 (Fame / David Bowie / The Singles 1969 to 1993 (disc 1), 251.0s): duration matches no reference length",
+    "lrclib 36930175 (Fame / David Bowie / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 34347420 (Fame / David Bowie / Serious Moonlight (Live '83, 2018 Remaster), 336.0s): live/remix/other version",
+    "lrclib 34350069 (Fame / David Bowie / Stage (2017) [Live], 253.0s): live/remix/other version",
+    "lrclib 34390672 (Fame / David Bowie / The Forum, Inglewood, CA - 4th April 1978 (Live from LA Forum), 289.0s): live/remix/other version",
+    "lrclib 34487497 (Fame / David Bowie / One Night With David, 267.0s): duration matches no reference length",
+    "lrclib 34348228 (Fame / David Bowie / Glastonbury 2000 (Live), 265.0s): live/remix/other version",
+    "lrclib 34379514 (Fame / David Bowie / Glass Spider (Live Montreal '87, 2018 Remaster), 425.0s): live/remix/other version",
+    "lrclib 22538343 (Fame / David Bowie / David Bowie, 304.091429s): duration matches no reference length",
+    "lrclib 19360843 (Fame 90 (Gass Mix) / David Bowie / David Bowie - Fame '90 [US Single], 220.891429s): live/remix/other version",
+    "lrclib 600504 (Fame 90 (House Mix) / David Bowie / David Bowie - Fame '90 [US Single], 359.0s): live/remix/other version",
+    "lrclib 19508377 (Fame 90 / David Bowie / 100% David Bowie, 285.547675s): duration matches no reference length",
+    "lrclib 9282311 (Fame / David Bowie / David Bowie - Singles Collection, 255.0s): duration matches no reference length",
+    "lrclib 1453164 (Fame / David Bowie / David Bowie - Essentials (2019), 282.0s): duration matches no reference length",
+    "lrclib 19511711 (Fame 90 (Hip Hop Mix) / David Bowie / David Bowie - Fame '90 [US Single], 361.06449s): live/remix/other version",
+    "lrclib 23178715 (Fame '90 [Remix] / David Bowie / David Bowie Changesbowie, 220.45s): live/remix/other version",
+    "lrclib 20160497 (Fame / David Bowie / David Bowie - The Singles Coll, 254.701875s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

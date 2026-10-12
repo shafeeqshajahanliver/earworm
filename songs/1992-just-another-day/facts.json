@@ -1,0 +1,111 @@
+{
+  "id": "1992-just-another-day",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Just Another Day (Jon Secada song)",
+  "wikidata": {
+    "qid": "Q6315760",
+    "label": "Just Another Day",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q946170",
+          "label": "Jon Secada"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q112432967",
+          "label": "Miguel A. Morejón"
+        },
+        {
+          "qid": "Q946170",
+          "label": "Jon Secada"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q112432967",
+          "label": "Miguel A. Morejón"
+        },
+        {
+          "qid": "Q946170",
+          "label": "Jon Secada"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1992-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "327",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "f7f0f187-dc84-4d3d-8ab5-a13882cdac0c"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 57c32081-d690-3b28-88cc-7bafcbafb312 (1992-03-24)",
+  "musicbrainz": {
+    "recording_id": "e6dfebda-f0b9-4fe7-952d-a301843c40b3",
+    "title": "Just Another Day (underground vocal)",
+    "length_ms": 349000,
+    "first_release_date": "1992",
+    "artist_credit": "Jon Secada",
+    "artists": [
+      {
+        "name": "Jon Secada",
+        "mbid": "01d76a27-ee74-4e50-9383-b2f0683bae76"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "8ec0f345-8ac4-4fd4-b346-e0b5d7a873fb",
+        "title": "Just Another Day (Remix By Tommy Musto)",
+        "date": "1992",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "57c32081-d690-3b28-88cc-7bafcbafb312",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Jon Secada",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "La Habana"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

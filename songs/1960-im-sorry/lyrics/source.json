@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1073482,
+  "kind": "synced",
+  "matched": {
+    "track": "I'm Sorry",
+    "artist": "Brenda Lee",
+    "album": "Brenda Lee",
+    "duration_s": 162.0
+  },
+  "duration_matched_to": "musicbrainz recording length (161s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 161.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 161.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 160.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36846072 (I’m Sorry / Brenda Lee / The Rock ’n’ Roll Era: Still Rockin’, 202.0s): duration matches no reference length",
+    "lrclib 37369064 (I'm Sorry / Brenda Lee / Legend of Country : 36 Great Live Performances, 132.0s): live/remix/other version",
+    "lrclib 37228628 (I'm Sorry / Brenda Lee / Rock & Roll Greats, 134.0s): duration matches no reference length",
+    "lrclib 36879353 (I'm Sorry / Brenda Lee / The Absolutely Essential 3 CD Collection, 202.0s): duration matches no reference length",
+    "lrclib 34829508 (I’m Sorry / Brenda Lee / Rock and Roll Hall of Fame Volume 7: 2002-2003, 148.0s): duration matches no reference length",
+    "lrclib 6667895 (I'm Sorry / Brenda Lee / I'm Sorry, 202.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

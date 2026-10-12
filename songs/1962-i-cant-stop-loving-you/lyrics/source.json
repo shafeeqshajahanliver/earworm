@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 26044356,
+  "kind": "synced",
+  "matched": {
+    "track": "i can't stop loving you",
+    "artist": "ray charles",
+    "album": "i can't stop loving you (7'' vinyl)",
+    "duration_s": 155.747375
+  },
+  "duration_matched_to": "musicbrainz recording length (158s)",
+  "duration_diff_s": 1.8,
+  "reference_lengths": [
+    {
+      "seconds": 157.578,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 152.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 157.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36889281 (I Can't Stop Loving You / Ray Charles / Media`s Oldies Volume 3, 183.0s): duration matches no reference length",
+    "lrclib 34364706 (I Can't Stop Loving You / Ray Charles / Definitive Ray Charles [Disc 2], 262.0s): duration matches no reference length",
+    "lrclib 29787373 (I Can't Stop Loving You / Ray Charles / I Can't Stop Loving You, 183.0s): duration matches no reference length",
+    "lrclib 20546176 (I Can't Stop Loving You / Ray Charles / Ray Charles - The Best of Ray Charles, 224.339592s): duration matches no reference length",
+    "lrclib 19338745 (I Can't Stop Loving You (live) / Ray Charles / Charles: Ray, 197.046958s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

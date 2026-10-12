@@ -1,0 +1,41 @@
+{
+  "id": "1960-hell-have-to-go",
+  "lyrics_kind": "synced",
+  "lrclib_id": 2575053,
+  "lines": 17,
+  "words": 152,
+  "unique_words": 69,
+  "type_token_ratio": 0.454,
+  "repeated_line_share": 0.176,
+  "distinct_lines": 14,
+  "zlib_compression_ratio": 0.407,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "he'll have to go",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 11,
+    "second": 15,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.29,
+  "last_line_s": 127.45,
+  "sung_time_s": 116.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 78.1,
+  "words_per_minute_track": 64.7,
+  "longest_gap_between_lines_s": 9.26,
+  "longest_gap_starts_at_s": 60.68,
+  "first_repeated_block": {
+    "first_at_s": 8.29,
+    "recurs_at_s": 96.46,
+    "lines": [
+      "Put your sweet lips a little closer to the phone",
+      "Let's pretend that we're together all alone"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 2575053",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

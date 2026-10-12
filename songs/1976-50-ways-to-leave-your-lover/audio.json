@@ -1,0 +1,72 @@
+{
+  "id": "1976-50-ways-to-leave-your-lover",
+  "preview": {
+    "service": "deezer",
+    "track_id": 6581143,
+    "matched_by": "isrc",
+    "isrc": "USSM11002304",
+    "title": "50 Ways to Leave Your Lover",
+    "artist": "Paul Simon",
+    "album": "Still Crazy After All These Years",
+    "track_duration_s": 217,
+    "link": "https://www.deezer.com/track/6581143",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 104.1,
+    "tempo_bpm_grid": 101.3,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      215.3
+    ],
+    "beats_detected": 53,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.578,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.352,
+    "chroma_profile": [
+      0.615,
+      0.711,
+      0.839,
+      0.838,
+      1.0,
+      0.647,
+      0.698,
+      0.711,
+      0.552,
+      0.615,
+      0.63,
+      0.696
+    ],
+    "rms_dbfs": -14.55,
+    "rms_dbfs_p95_frame": -9.84,
+    "peak_dbfs": -0.47,
+    "loudness_lufs_approx": -15.75,
+    "spectral_centroid_hz_mean": 1762.1,
+    "spectral_centroid_hz_median": 1413.2,
+    "onsets": 154,
+    "onset_density_per_s": 5.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 6581143",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 101.8,
+    "gain": -14,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/6581143",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USSM17500770: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1969-build-me-up-buttercup",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15414179,
+    "matched_by": "isrc",
+    "isrc": "GBAJE6800059",
+    "title": "Build Me Up Buttercup",
+    "artist": "The Foundations",
+    "album": "Build Me Up Buttercup - The Complete Pye Collection",
+    "track_duration_s": 179,
+    "link": "https://www.deezer.com/track/15414179",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 136.1,
+    "tempo_bpm_grid": 136.0,
+    "tempo_candidates_bpm": [
+      136.0,
+      129.2,
+      68.0
+    ],
+    "beats_detected": 66,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.593,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.52,
+    "chroma_profile": [
+      0.606,
+      0.402,
+      0.63,
+      0.431,
+      0.534,
+      0.772,
+      0.643,
+      1.0,
+      0.588,
+      0.617,
+      0.37,
+      0.352
+    ],
+    "rms_dbfs": -8.64,
+    "rms_dbfs_p95_frame": -6.43,
+    "peak_dbfs": -0.58,
+    "loudness_lufs_approx": -8.63,
+    "spectral_centroid_hz_mean": 2353.9,
+    "spectral_centroid_hz_median": 2343.4,
+    "onsets": 93,
+    "onset_density_per_s": 3.101,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15414179",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 133.8,
+    "gain": -9.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15414179",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

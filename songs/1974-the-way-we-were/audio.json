@@ -1,0 +1,81 @@
+{
+  "id": "1974-the-way-we-were",
+  "preview": {
+    "service": "deezer",
+    "track_id": 626294,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSM10024187",
+    "title": "The Way We Were",
+    "artist": "Barbra Streisand",
+    "album": "The Essential Barbra Streisand",
+    "track_duration_s": 210,
+    "link": "https://www.deezer.com/track/626294",
+    "duration_matched_to": "musicbrainz recording length (209s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 137.2,
+    "tempo_bpm_grid": 137.8,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      143.6
+    ],
+    "beats_detected": 60,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.937,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.789,
+    "chroma_profile": [
+      0.493,
+      0.718,
+      0.587,
+      0.373,
+      0.834,
+      0.399,
+      0.798,
+      0.376,
+      0.478,
+      1.0,
+      0.366,
+      0.528
+    ],
+    "rms_dbfs": -14.01,
+    "rms_dbfs_p95_frame": -10.23,
+    "peak_dbfs": -0.77,
+    "loudness_lufs_approx": -14.15,
+    "spectral_centroid_hz_mean": 1507.1,
+    "spectral_centroid_hz_median": 1367.7,
+    "onsets": 71,
+    "onset_density_per_s": 2.368,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 626294",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 139.7,
+    "gain": -13.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/626294",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1029354: version (The Way We Were (Soundtrack Version))",
+    "deezer 1026748: version (The Way We Were (Instrumental))",
+    "deezer 435123172: version (The Way We Were (Live 2016))",
+    "deezer 435122982: version (The Way We Were (Live 2016))",
+    "deezer 626280: version (The Way We Were (Live))",
+    "deezer 1056869: version (The Way We Were (Live))",
+    "deezer 581617: version (The Way We Were (Live))",
+    "deezer 2170093: version (The Way We Were (Live in Concert))",
+    "deezer 6079558: version (The Way We Were (Live at Village Vanguard, NYC - September 26, 2009))"
+  ]
+}

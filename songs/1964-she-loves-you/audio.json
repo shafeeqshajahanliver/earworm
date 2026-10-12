@@ -1,0 +1,70 @@
+{
+  "id": "1964-she-loves-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 116348146,
+    "matched_by": "isrc",
+    "isrc": "GBAYE0900759",
+    "title": "She Loves You (Mono Version / Remastered 2009)",
+    "artist": "The Beatles",
+    "album": "The Beatles 1962 - 1966 (Remastered 2009)",
+    "track_duration_s": 140,
+    "link": "https://www.deezer.com/track/116348146",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 152.2,
+    "tempo_bpm_grid": 149.8,
+    "tempo_candidates_bpm": [
+      152.0,
+      76.0,
+      143.6
+    ],
+    "beats_detected": 75,
+    "key": "B minor",
+    "key_tonic": "B",
+    "key_mode": "minor",
+    "key_correlation": 0.666,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.37,
+    "chroma_profile": [
+      0.857,
+      0.929,
+      0.897,
+      0.755,
+      0.734,
+      0.655,
+      0.858,
+      0.757,
+      0.675,
+      0.863,
+      0.891,
+      1.0
+    ],
+    "rms_dbfs": -10.06,
+    "rms_dbfs_p95_frame": -8.46,
+    "peak_dbfs": -1.08,
+    "loudness_lufs_approx": -9.21,
+    "spectral_centroid_hz_mean": 2900.5,
+    "spectral_centroid_hz_median": 2910.0,
+    "onsets": 89,
+    "onset_density_per_s": 2.968,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 116348146",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 149.8,
+    "gain": -9.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/116348146",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

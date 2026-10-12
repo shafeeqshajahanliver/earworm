@@ -1,0 +1,78 @@
+{
+  "id": "1965-my-girl",
+  "preview": {
+    "service": "deezer",
+    "track_id": 705015922,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMO10111043",
+    "title": "My Girl",
+    "artist": "The Temptations",
+    "album": "50th Anniversary: The Singles Collection 1961-1971",
+    "track_duration_s": 179,
+    "link": "https://www.deezer.com/track/705015922",
+    "duration_matched_to": "musicbrainz recording length (178s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.5,
+    "tempo_bpm_grid": 105.5,
+    "tempo_candidates_bpm": [
+      107.7,
+      112.3,
+      52.7
+    ],
+    "beats_detected": 49,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.604,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.594,
+    "chroma_profile": [
+      0.93,
+      0.738,
+      0.584,
+      0.582,
+      0.659,
+      0.984,
+      0.825,
+      1.0,
+      0.781,
+      0.74,
+      0.629,
+      0.617
+    ],
+    "rms_dbfs": -9.57,
+    "rms_dbfs_p95_frame": -6.29,
+    "peak_dbfs": -0.43,
+    "loudness_lufs_approx": -9.57,
+    "spectral_centroid_hz_mean": 2502.7,
+    "spectral_centroid_hz_median": 2426.9,
+    "onsets": 96,
+    "onset_density_per_s": 3.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 705015922",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 105.47,
+    "gain": -9.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/705015922",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C major and F minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USMO16490001: matched but no preview available (readable=False)",
+    "deezer 7377203: version (My Girl (Live At The Roostertail's Upper Deck/1966))",
+    "deezer 1529501232: version (My Girl (A Cappella/Mono))",
+    "deezer 2519789: version (My Girl (The Motown Story: The 60s Version))"
+  ]
+}

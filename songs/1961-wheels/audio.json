@@ -1,0 +1,71 @@
+{
+  "id": "1961-wheels",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1358206392,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "QM6N22127013",
+    "title": "Wheels",
+    "artist": "The String-A-Longs",
+    "album": "Wheels / Am I Asking Too Much?",
+    "track_duration_s": 116,
+    "link": "https://www.deezer.com/track/1358206392",
+    "duration_matched_to": "musicbrainz recording length (118s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 125.7,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      63.0,
+      83.4,
+      234.9
+    ],
+    "beats_detected": 62,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.741,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.477,
+    "chroma_profile": [
+      1.0,
+      0.714,
+      0.44,
+      0.39,
+      0.578,
+      0.897,
+      0.58,
+      0.675,
+      0.591,
+      0.814,
+      0.854,
+      0.66
+    ],
+    "rms_dbfs": -15.84,
+    "rms_dbfs_p95_frame": -11.66,
+    "peak_dbfs": -0.23,
+    "loudness_lufs_approx": -14.88,
+    "spectral_centroid_hz_mean": 2416.3,
+    "spectral_centroid_hz_median": 2347.4,
+    "onsets": 127,
+    "onset_density_per_s": 4.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1358206392",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -14.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1358206392",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

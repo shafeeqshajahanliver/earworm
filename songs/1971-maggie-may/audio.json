@@ -1,0 +1,74 @@
+{
+  "id": "1971-maggie-may",
+  "preview": {
+    "service": "deezer",
+    "track_id": 110479722,
+    "matched_by": "isrc",
+    "isrc": "USWB10000765",
+    "title": "Maggie May",
+    "artist": "Rod Stewart",
+    "album": "Storyteller - The Complete Anthology: 1964 - 1990",
+    "track_duration_s": 346,
+    "link": "https://www.deezer.com/track/110479722",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 130.3,
+    "tempo_bpm_grid": 129.2,
+    "tempo_candidates_bpm": [
+      129.2,
+      64.6,
+      136.0
+    ],
+    "beats_detected": 65,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.888,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.649,
+    "chroma_profile": [
+      0.513,
+      0.634,
+      1.0,
+      0.566,
+      0.912,
+      0.634,
+      0.8,
+      0.873,
+      0.53,
+      0.911,
+      0.469,
+      0.792
+    ],
+    "rms_dbfs": -15.87,
+    "rms_dbfs_p95_frame": -13.41,
+    "peak_dbfs": -1.8,
+    "loudness_lufs_approx": -14.99,
+    "spectral_centroid_hz_mean": 1850.9,
+    "spectral_centroid_hz_median": 1714.3,
+    "onsets": 102,
+    "onset_density_per_s": 3.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 110479722",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 128.8,
+    "gain": -15.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/110479722",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USRHD0804243: version: Maggie May (Remastered Version)",
+    "deezer isrc USPR37102613: matched but no preview available (readable=False)",
+    "deezer isrc USUMG9900646: matched but no preview available (readable=False)"
+  ]
+}

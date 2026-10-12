@@ -1,0 +1,172 @@
+{
+  "id": "1961-michael",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Michael, Row the Boat Ashore",
+  "wikidata": {
+    "qid": "Q6833997",
+    "label": "Michael Row the Boat Ashore",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q2411961",
+          "label": "The Highwaymen"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q43343",
+          "label": "folk music"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "e4da1fbd-89cc-4d27-8232-01a60d77d77c",
+        "ea9f5a8a-8d34-4da8-b5a6-dd217169b4ba"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ],
+      "has_quality": [
+        {
+          "qid": "Q943929",
+          "label": "traditional folk song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group dc094c4f-1ae3-4e3f-bf02-3adb0b4d5de9 (1960-09)",
+  "musicbrainz": {
+    "recording_id": "5fb8cf75-e239-4e84-af3e-1251552a158a",
+    "title": "Michael",
+    "length_ms": 165000,
+    "first_release_date": "1960-09",
+    "artist_credit": "The Highwaymen",
+    "artists": [
+      {
+        "name": "The Highwaymen",
+        "mbid": "5bf05dd4-3ac1-4b8b-b9a1-163790d10192"
+      }
+    ],
+    "isrcs": [
+      "USA560643031"
+    ],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [
+      "classic country",
+      "country",
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "classic country",
+      "country",
+      "folk",
+      "pop"
+    ],
+    "releases": [
+      {
+        "id": "554980c9-760d-44cb-aa2e-47d47faf29f6",
+        "title": "The Highwaymen",
+        "date": "1960",
+        "country": "US",
+        "status": "Official",
+        "release_group": "59ac923e-3c51-4a1c-9df3-dc4ce04331a4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1e8e63fb-85bd-4084-8a7d-e617da98b6ec",
+        "title": "Michael / Santiano",
+        "date": "1960-09",
+        "country": "US",
+        "status": "Official",
+        "release_group": "dc094c4f-1ae3-4e3f-bf02-3adb0b4d5de9",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "cd00df27-9023-4dad-8dec-a0a7fa4661c9",
+        "title": "Michael",
+        "date": "1961",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "e1422198-0e3e-4a3e-bc07-ef9b657f6be3",
+        "primary_type": "EP",
+        "secondary_types": []
+      },
+      {
+        "id": "cc0c2226-9fff-4514-9044-acf5ac752118",
+        "title": "The Highwaymen / Standing Room Only",
+        "date": "2000-09-12",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cfe9a21e-f2ea-3559-b04d-b69b4645f483",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e8369cb3-8589-48b3-b5bd-b27859133c79",
+        "title": "The Highwaymen",
+        "date": "2007",
+        "country": null,
+        "status": "Official",
+        "release_group": "59ac923e-3c51-4a1c-9df3-dc4ce04331a4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "eb185da3-fd2a-49a8-8281-9b5996878916",
+        "title": "American Heartbeat: 1961",
+        "date": "2014-06-27",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "910e2d5d-c380-4781-a3e5-a80c4be76269",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "11a1103d-2315-4850-98ea-efc709797b16",
+      "title": "Michael Row the Boat Ashore",
+      "iswcs": [
+        "T-071.428.554-7"
+      ],
+      "credits": [
+        {
+          "role": "arranger",
+          "name": "Harry Belafonte",
+          "mbid": "49c48b7f-1ff1-4f02-a1aa-ca1254b46ef2"
+        },
+        {
+          "role": "composer",
+          "name": "[traditional]",
+          "mbid": "9be7f096-97ec-4615-8957-8d40b5dcbc41"
+        },
+        {
+          "role": "lyricist",
+          "name": "[traditional]",
+          "mbid": "9be7f096-97ec-4615-8957-8d40b5dcbc41"
+        }
+      ],
+      "urls": []
+    },
+    "main_artist": {
+      "name": "The Highwaymen",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": null
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1968-honey",
+  "preview": {
+    "service": "deezer",
+    "track_id": 134433290,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USJGN1605778",
+    "title": "Honey",
+    "artist": "Bobby Goldsboro",
+    "album": "Honey",
+    "track_duration_s": 226,
+    "link": "https://www.deezer.com/track/134433290",
+    "duration_matched_to": "musicbrainz recording length (231s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.9,
+    "tempo_bpm_grid": 96.6,
+    "tempo_candidates_bpm": [
+      95.7,
+      47.9,
+      184.6
+    ],
+    "beats_detected": 42,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.875,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.703,
+    "chroma_profile": [
+      1.0,
+      0.398,
+      0.67,
+      0.366,
+      0.519,
+      0.406,
+      0.356,
+      0.772,
+      0.298,
+      0.342,
+      0.277,
+      0.404
+    ],
+    "rms_dbfs": -22.74,
+    "rms_dbfs_p95_frame": -19.18,
+    "peak_dbfs": -5.99,
+    "loudness_lufs_approx": -23.3,
+    "spectral_centroid_hz_mean": 1854.8,
+    "spectral_centroid_hz_median": 1640.5,
+    "onsets": 105,
+    "onset_density_per_s": 3.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 134433290",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95.93,
+    "gain": -21.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/134433290",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 464099992: duration 121s matches no reference length"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/85105",
+    "title": "Blue Velvet",
+    "performer": "Ronnie McDowell with Bobby Vinton",
+    "is_original": false,
+    "first_release_date": "1991-01",
+    "releases": [
+      {
+        "title": "Unchained Melody",
+        "uri": "https://api.secondhandsongs.com/release/34133",
+        "performer": "Ronnie McDowell"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Blue Velvet",
+      "uri": "https://api.secondhandsongs.com/work/53997"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/53997",
+    "title": "Blue Velvet",
+    "language": "English",
+    "writers": [
+      "Bernie Wayne",
+      "Lee Morris [US1]"
+    ],
+    "original_performer": "Tony Bennett with Percy Faith & His Orchestra",
+    "versions": 100,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Modrý samet",
+        "uri": "https://api.secondhandsongs.com/work/194385"
+      },
+      {
+        "title": "Diep in jouw ogen",
+        "uri": "https://api.secondhandsongs.com/work/98641"
+      },
+      {
+        "title": "Dans l'eau bleue",
+        "uri": "https://api.secondhandsongs.com/work/110591"
+      },
+      {
+        "title": "Blue Star",
+        "uri": "https://api.secondhandsongs.com/work/54001"
+      },
+      {
+        "title": "Hoe heet je?",
+        "uri": "https://api.secondhandsongs.com/work/139920"
+      },
+      {
+        "title": "Blue Moonlight",
+        "uri": "https://api.secondhandsongs.com/work/144993"
+      },
+      {
+        "title": "Terciopelo azul",
+        "uri": "https://api.secondhandsongs.com/work/288854"
+      },
+      {
+        "title": "Terciopelo azul",
+        "uri": "https://api.secondhandsongs.com/work/298204"
+      },
+      {
+        "title": "Terciopelo azul",
+        "uri": "https://api.secondhandsongs.com/work/336085"
+      }
+    ]
+  }
+}

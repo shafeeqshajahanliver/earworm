@@ -1,0 +1,41 @@
+{
+  "id": "1960-im-sorry",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1073482,
+  "lines": 24,
+  "words": 121,
+  "unique_words": 44,
+  "type_token_ratio": 0.364,
+  "repeated_line_share": 0.333,
+  "distinct_lines": 16,
+  "zlib_compression_ratio": 0.37,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i'm sorry",
+  "title_phrase_occurrences": 4,
+  "pronouns": {
+    "first_singular": 12,
+    "second": 2,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 15.07,
+  "last_line_s": 143.15,
+  "sung_time_s": 129.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 56.1,
+  "words_per_minute_track": 45.1,
+  "longest_gap_between_lines_s": 10.62,
+  "longest_gap_starts_at_s": 58.94,
+  "first_repeated_block": {
+    "first_at_s": 37.21,
+    "recurs_at_s": 92.68,
+    "lines": [
+      "Oh, oh, oh, oh, oh, oh, oh, yes",
+      "You tell me mistakes"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1073482",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

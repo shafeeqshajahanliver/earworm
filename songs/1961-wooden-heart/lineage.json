@@ -1,0 +1,79 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/52413",
+    "title": "Wooden Heart",
+    "performer": "Joe Dowell",
+    "is_original": false,
+    "first_release_date": "1961-06",
+    "releases": [
+      {
+        "title": "Wooden Heart",
+        "uri": "https://api.secondhandsongs.com/release/21128",
+        "performer": "Joe Dowell"
+      },
+      {
+        "title": "Wooden Heart",
+        "uri": "https://api.secondhandsongs.com/release/86611",
+        "performer": "Joe Dowell"
+      },
+      {
+        "title": "Joe Dowell Sings the German American Hits",
+        "uri": "https://api.secondhandsongs.com/release/377222",
+        "performer": "Joe Dowell"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Wooden Heart",
+      "uri": "https://api.secondhandsongs.com/work/52412"
+    },
+    {
+      "title": "Muss i denn zum Städtele hinaus",
+      "uri": "https://api.secondhandsongs.com/work/52408"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/52412",
+    "title": "Wooden Heart",
+    "language": "English",
+    "writers": [
+      "Bert Kaempfert",
+      "Fred Wise",
+      "Kay Twomey",
+      "Ben Weisman"
+    ],
+    "original_performer": "Elvis Presley",
+    "versions": 83,
+    "based_on": [
+      {
+        "title": "Muss i denn zum Städtele hinaus",
+        "uri": "https://api.secondhandsongs.com/work/52408"
+      }
+    ],
+    "derived_works": [
+      {
+        "title": "Cor ligneum",
+        "uri": "https://api.secondhandsongs.com/work/187568"
+      },
+      {
+        "title": "我們都是乖小孩",
+        "uri": "https://api.secondhandsongs.com/work/312932"
+      },
+      {
+        "title": "個中滋味",
+        "uri": "https://api.secondhandsongs.com/work/312955"
+      },
+      {
+        "title": "Corazón de madera",
+        "uri": "https://api.secondhandsongs.com/work/285236"
+      }
+    ]
+  }
+}

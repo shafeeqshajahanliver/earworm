@@ -1,0 +1,41 @@
+{
+  "id": "1970-band-of-gold",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37409503,
+  "lines": 36,
+  "words": 232,
+  "unique_words": 80,
+  "type_token_ratio": 0.345,
+  "repeated_line_share": 0.417,
+  "distinct_lines": 21,
+  "zlib_compression_ratio": 0.293,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "band of gold",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 15,
+    "second": 13,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.89,
+  "last_line_s": 170.12,
+  "sung_time_s": 149.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 93.3,
+  "words_per_minute_track": 80.0,
+  "longest_gap_between_lines_s": 20.07,
+  "longest_gap_starts_at_s": 95.38,
+  "first_repeated_block": {
+    "first_at_s": 12.1,
+    "recurs_at_s": 79.77,
+    "lines": [
+      "All that's left is a band of gold",
+      "All that's left of the dreams I hold"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37409503",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1974-dancing-machine",
+  "lyrics_kind": "synced",
+  "lrclib_id": 35902793,
+  "lines": 61,
+  "words": 284,
+  "unique_words": 73,
+  "type_token_ratio": 0.257,
+  "repeated_line_share": 0.541,
+  "distinct_lines": 28,
+  "zlib_compression_ratio": 0.239,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "dancing machine",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 0,
+    "second": 2,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.05,
+  "last_line_s": 153.94,
+  "sung_time_s": 141.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 120.1,
+  "words_per_minute_track": 114.5,
+  "longest_gap_between_lines_s": 21.96,
+  "longest_gap_starts_at_s": 49.13,
+  "first_repeated_block": {
+    "first_at_s": 0.1,
+    "recurs_at_s": 71.09,
+    "lines": [
+      "Dancing, dancing, dancing",
+      "She's a dancing machine"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 35902793",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

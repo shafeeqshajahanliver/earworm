@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21054665,
+  "kind": "synced",
+  "matched": {
+    "track": "You've Lost That Lovin' Feelin",
+    "artist": "The Righteous Brothers",
+    "album": "You've Lost That Lovin' Feelin",
+    "duration_s": 223.291904
+  },
+  "duration_matched_to": "musicbrainz recording length (223s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 222.906,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 219.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 225.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37192427 (You've Lost That Lovin' Feelin' / The Righteous Brothers / Absolute 60'S, 55.0s): duration matches no reference length",
+    "lrclib 34829689 (You’ve Lost That Lovin’ Feelin’ / The Righteous Brothers / Rock and Roll Hall of Fame Volume 7: 2002-2003, 259.0s): duration matches no reference length",
+    "lrclib 20138134 (You've Lost That Lovin Feelin / The Righteous Brothers / You've Lost That Lovin Feelin, 237.73s): duration matches no reference length",
+    "lrclib 27291736 (You've Lost That Lovin' Feelin' / The Righteous Brothers / You've Lost That Lovin' Feelin', 210.0s): duration matches no reference length",
+    "lrclib 16661096 (You've Lost That Lovin' Feelin' / The Righteous Brothers / You've Lost That Lovin' Feelin', 231.0s): duration matches no reference length",
+    "lrclib 26261539 (You've Lost That Lovin' Feelin' / The Righteous Brothers / You’ve Lost That Lovin’ Feeling, 230.213s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 30576770,
+  "kind": "synced",
+  "matched": {
+    "track": "Love Is Alive",
+    "artist": "Gary Wright",
+    "album": "Love Is Alive",
+    "duration_s": 208.0
+  },
+  "duration_matched_to": "musicbrainz recording length (208s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 207.96,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 237.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 204.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 234.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37295589 (Love Is Alive / Gary Wright / 70s Pop, 228.0s): duration matches no reference length",
+    "lrclib 37317607 (Love Is Alive / Gary Wright / 70's Radio Gold, 228.0s): duration matches no reference length",
+    "lrclib 34461267 (Love Is Alive / Gary Wright / The Dream Weaver, 226.0s): duration matches no reference length",
+    "lrclib 35205013 (Love is Alive / Gary Wright / Love is Alive, 267.0s): duration matches no reference length",
+    "lrclib 33627052 (Love Is Alive / Gary Wright / The 70's, 228.0s): duration matches no reference length",
+    "lrclib 33750130 (Love is Alive / Gary Wright / Rolling Stone presents: The Greatest Hits of Classic Rock (CD2), 226.0s): duration matches no reference length",
+    "lrclib 36626770 (Love Is Alive / Gary Wright / SiriusXM - Classic Vinyl, 228.0s): duration matches no reference length",
+    "lrclib 35501103 (Love Is Alive / Gary Wright / We Love: 70's Rock, 228.0s): duration matches no reference length",
+    "lrclib 20214977 (Love Is Alive / Gary Wright / HT 70s Essentials Vol. 18 (DD), 281.469388s): duration matches no reference length",
+    "lrclib 1426510 (Love Is Alive / Gary Wright / Gary Wright Essentials, 228.0s): duration matches no reference length",
+    "lrclib 23805572 (Love Is Alive (Remix) [feat. Dorian Wright] / Gary Wright / Love Is Alive (Remix), 237.844898s): live/remix/other version",
+    "lrclib 23571859 (Love Is Alive / Gary Wright / The Very Best of Gary Wright, 222.519s): duration matches no reference length",
+    "lrclib 1115104 (Love Is Alive / Gary Wright / The Very Best Of Gary Wright, 228.0s): duration matches no reference length",
+    "lrclib 28318104 (Love Is Alive (Remastered Album Version) / Gary Wright / Gary Wright - The Essentials, 228.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

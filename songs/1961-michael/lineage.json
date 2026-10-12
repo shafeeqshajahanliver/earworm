@@ -1,0 +1,58 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/63065",
+    "title": "Michael",
+    "performer": "The Highwaymen [US1]",
+    "is_original": false,
+    "first_release_date": "1960-09-21",
+    "releases": [
+      {
+        "title": "Michael",
+        "uri": "https://api.secondhandsongs.com/release/20531",
+        "performer": "The Highwaymen [US1]"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Michael, Row the Boat Ashore",
+      "uri": "https://api.secondhandsongs.com/work/63064"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/167857",
+    "title": "Michael",
+    "language": "English",
+    "writers": [
+      "Dave Fisher"
+    ],
+    "original_performer": null,
+    "versions": 5,
+    "based_on": [
+      {
+        "title": "Michael, Row the Boat Ashore",
+        "uri": "https://api.secondhandsongs.com/work/63064"
+      }
+    ],
+    "derived_works": [
+      {
+        "title": "¡Aleluya!",
+        "uri": "https://api.secondhandsongs.com/work/167859"
+      },
+      {
+        "title": "Michael",
+        "uri": "https://api.secondhandsongs.com/work/285225"
+      },
+      {
+        "title": "Michaël",
+        "uri": "https://api.secondhandsongs.com/work/322546"
+      }
+    ]
+  }
+}

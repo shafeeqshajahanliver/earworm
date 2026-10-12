@@ -1,0 +1,76 @@
+{
+  "id": "1971-how-can-you-mend-a-broken-heart",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7556562,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBAKW7101044",
+    "title": "How Can You Mend A Broken Heart",
+    "artist": "Bee Gees",
+    "album": "Trafalgar",
+    "track_duration_s": 237,
+    "link": "https://www.deezer.com/track/7556562",
+    "duration_matched_to": "wikipedia infobox length (237s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 70.6,
+    "tempo_bpm_grid": 69.8,
+    "tempo_candidates_bpm": [
+      69.8,
+      184.6,
+      172.3
+    ],
+    "beats_detected": 35,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.884,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.825,
+    "chroma_profile": [
+      0.354,
+      0.585,
+      0.357,
+      0.624,
+      0.768,
+      0.402,
+      0.735,
+      0.491,
+      0.674,
+      0.637,
+      0.491,
+      1.0
+    ],
+    "rms_dbfs": -18.82,
+    "rms_dbfs_p95_frame": -14.6,
+    "peak_dbfs": -2.54,
+    "loudness_lufs_approx": -18.14,
+    "spectral_centroid_hz_mean": 1675.5,
+    "spectral_centroid_hz_median": 1520.4,
+    "onsets": 67,
+    "onset_density_per_s": 2.234,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7556562",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 101.08,
+    "gain": -16.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7556562",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (101.1) by 30%"
+  ],
+  "rejected_candidates": [
+    "deezer 7509478: version (How Can You Mend A Broken Heart (Live At The MGM Grand))",
+    "deezer 7559495: version (How Can You Mend A Broken Heart (Live At The Forum, Los Angeles, 1976))"
+  ]
+}

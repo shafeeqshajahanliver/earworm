@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 310668,
+  "kind": "synced",
+  "matched": {
+    "track": "Sunshine Of Your Love",
+    "artist": "Cream",
+    "album": "Disraeli Gears",
+    "duration_s": 250.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (250s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 250.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 183.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 248.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (250s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37154423 (Sunshine Of Your Love / Cream / Royal Albert Hall London May 2356 2005, 530.0s): duration matches no reference length",
+    "lrclib 37290106 (Sunshine of Your Love / Cream / The Last Goodbye [Japanese Mid Valley MVR-810] - Live at Sports Arena, San Diego, CA, 20.10.1968, 321.0s): live/remix/other version",
+    "lrclib 37264526 (Sunshine Of Your LOve / Cream / Sirens Sweetly Singing (2 CDs), BBC Top Gear 24th Oct 1967, 296.0s): duration matches no reference length",
+    "lrclib 34391491 (Sunshine Of Your Love / Cream / Disraeli Gears, 127.0s): duration matches no reference length",
+    "lrclib 34569252 (Sunshine of Your Love / Cream / Cream Live In San Diego 1968, 322.0s): live/remix/other version",
+    "lrclib 23798848 (Sunshine of Your Love (club mix) / Cream / Sunshine of Your Love, 481.973333s): live/remix/other version",
+    "lrclib 24863169 (Sunshine of Your Love / Cream / Best of Cream, 257.227755s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34056856,
+  "kind": "synced",
+  "matched": {
+    "track": "Come Softly to Me",
+    "artist": "The Fleetwoods",
+    "album": "Mr. Blue (Remastered 2014)",
+    "duration_s": 141.0
+  },
+  "duration_matched_to": "musicbrainz recording length (140s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 140.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 143.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 145.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36961481 (Come Softly To Me / The Fleetwoods / The Greatest Rock And Roll Hits, 131.0s): duration matches no reference length",
+    "lrclib 37475587 (Come Softly to Me / The Fleetwoods / Rock N' Roll of the 50's, Vol. 1, 151.0s): duration matches no reference length",
+    "lrclib 37535834 (Come Softly To Me / The Fleetwoods / Eis Am Stiel 3: Original Soundtrack, 152.0s): duration matches no reference length",
+    "lrclib 35315154 (Come Softly To Me / The Fleetwoods / Soft Sounds Of The 50's, 152.0s): duration matches no reference length",
+    "lrclib 36217958 (Come Softly To Me / The Fleetwoods / Come Softly To Me: The Very Best Of The Fleetwoods, 156.0s): duration matches no reference length",
+    "lrclib 21788302 (Come Softly to Me / The Fleetwoods / Come Softly to Me - The Best of the Fleetwoods, 156.11175s): duration matches no reference length",
+    "lrclib 26524952 (Come Softly To Me / The Fleetwoods / Come Softly To Me: The Very Best Of The Fleetwoods, 169.0s): duration matches no reference length",
+    "lrclib 33697964 (Come Softly to Me (A Cappella Version) / The Fleetwoods / Come Softly to Me; The Best of the Fleetwoods, 156.0s): live/remix/other version",
+    "lrclib 36479671 (Come Softly to Me (A Capella Version) / The Fleetwoods / The Very Best of the Fleetwoods - Come Softly to Me, 156.0s): live/remix/other version",
+    "lrclib 22925926 (Come Softly to Me (a cappella version) / The Fleetwoods / Come Softly To Me: The Very Best Of The Fleetwoods, 165.276735s): live/remix/other version",
+    "lrclib 12058798 (Come Softly to Me (a cappella version) / The Fleetwoods / Come Softly to Me: The Very Best of the Fleetwoods, 156.0s): live/remix/other version",
+    "lrclib 9410460 (Come Softly To Me (A Capella Version) / The Fleetwoods / Come Softly To Me: The Very Best Of The Fleetwoods, 156.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

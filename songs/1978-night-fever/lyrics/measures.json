@@ -1,0 +1,41 @@
+{
+  "id": "1978-night-fever",
+  "lyrics_kind": "synced",
+  "lrclib_id": 13370433,
+  "lines": 57,
+  "words": 313,
+  "unique_words": 95,
+  "type_token_ratio": 0.304,
+  "repeated_line_share": 0.439,
+  "distinct_lines": 32,
+  "zlib_compression_ratio": 0.272,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "night fever",
+  "title_phrase_occurrences": 22,
+  "pronouns": {
+    "first_singular": 17,
+    "second": 3,
+    "first_plural": 16
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 19.0,
+  "last_line_s": 206.86,
+  "sung_time_s": 187.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 100.3,
+  "words_per_minute_track": 89.0,
+  "longest_gap_between_lines_s": 5.71,
+  "longest_gap_starts_at_s": 145.14,
+  "first_repeated_block": {
+    "first_at_s": 53.18,
+    "recurs_at_s": 88.28,
+    "lines": [
+      "We know how to do it",
+      "Gimme that night fever, night fever"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 13370433",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

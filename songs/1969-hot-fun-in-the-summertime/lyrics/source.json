@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 12661030,
+  "kind": "synced",
+  "matched": {
+    "track": "Hot Fun In The Summertime",
+    "artist": "Sly And The Family Stone",
+    "album": "Greatest Hits",
+    "duration_s": 158.0
+  },
+  "duration_matched_to": "musicbrainz recording length (157s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 157.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 157.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 157.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 0.902,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37514692 (Hot Fun in the Summertime / Sly and the Family Stone / Sun Splashin, 183.0s): duration matches no reference length",
+    "lrclib 37256855 (Hot Fun In The Summertime / Sly And The Family Stone / Top 500 Oldies ( 1959 - 2005 ), 183.0s): duration matches no reference length",
+    "lrclib 34441228 (Hot Fun In The Summertime / Sly and the Family Stone / The Rolling Stone 500 Greatest Songs of all time, 183.0s): duration matches no reference length",
+    "lrclib 33501334 (Hot Fun In The Summertime / Sly And The Family Stone / Sun Splashin' - 16 Hot Summer Hits, 183.0s): duration matches no reference length",
+    "lrclib 35456246 (Hot Fun In The Summertime / Sly And The Family Stone / Only Oldies Music Vol.437 (2017) (Bootleg), 183.0s): duration matches no reference length",
+    "lrclib 20253465 (Hot Fun in the Summertime / Sly and The Family Stone / Billboard Hot 100 Singles 1969, 183.929688s): duration matches no reference length",
+    "lrclib 19972955 (Hot Fun In The Summertime / Sly and The Family Stone / Top500 Oldies Superhits, 183.228167s): duration matches no reference length",
+    "lrclib 19250547 (Hot Fun In The Summertime / Sly and the Family Stone / Greatest Hits [Epic], 183.2281728s): duration matches no reference length",
+    "lrclib 23344164 (Hot Fun In The Summertime / Sly And The Family Stone / Blizzard Beach Area Music, 131.562667s): duration matches no reference length",
+    "lrclib 22901753 (Hot Fun In The Summertime / Sly And The Family Stone / A-Z_Singels, 183.264s): duration matches no reference length",
+    "lrclib 36995982 (Hot Fun in the Summertime / Sly & the Family Stone / Time 100: The Music of Our Lives 1960-1980, 158.0s): live/remix/other version",
+    "lrclib 34142454 (Hot Fun in the Summertime / Sly & the Family Stone / Greatest Hits, 164.0s): duration matches no reference length",
+    "lrclib 19995435 (Hot Fun In The Summertime / Sly & The Family Stone / HT 60s Essentials Vol. 08 (DD), 219.689796s): duration matches no reference length",
+    "lrclib 20958605 (Hot Fun In The Summertime / Sly & The Family Stone / Sly Lives! (Aka The Burden Of Black Genius), 158.5371429s): live/remix/other version",
+    "lrclib 18844810 (Hot Fun In The Summertime / Sly & The Family Stone / Live In Portland, ME, 378.148571s): live/remix/other version",
+    "lrclib 22757299 (Hot Fun In The Summertime / Sly & The Family Stone / The Best Of Sly And The Family Stone, 237.923265s): duration matches no reference length",
+    "lrclib 30114861 (Hot Fun In The Summertime / Sly and the Family Stone / Rolling Stone 500 Greatest Songs, 183.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

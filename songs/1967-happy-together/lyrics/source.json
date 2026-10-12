@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 862193,
+  "kind": "synced",
+  "matched": {
+    "track": "Happy Together",
+    "artist": "The Turtles",
+    "album": "Happy Together",
+    "duration_s": 176.0
+  },
+  "duration_matched_to": "musicbrainz recording length (175s)",
+  "duration_diff_s": 1.2,
+  "reference_lengths": [
+    {
+      "seconds": 174.84,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 176.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 20396921 (Happy Together / The Turtles / The Turtles' Greatest Hits/Happy Together Again, 263.8138s): duration matches no reference length",
+    "lrclib 35956043 (Happy Together / The Turtles / Happy Together, 140.0s): duration matches no reference length",
+    "lrclib 36444525 (Happy Together / The Turtles / Happy Together, 167.0s): duration matches no reference length",
+    "lrclib 34055062 (Happy Together / The Turtles / Happy Together, 184.0s): duration matches no reference length",
+    "lrclib 34213764 (Happy Together / The Turtles / Happy Together, 17.0s): duration matches no reference length",
+    "lrclib 35417584 (Happy Together / The Turtles / Happy Together, 163.0s): duration matches no reference length",
+    "lrclib 32490391 (Happy Together / The Turtles / Happy Together, 3.0s): duration matches no reference length",
+    "lrclib 32132926 (Happy Together / The Turtles / Happy Together, 80.0s): duration matches no reference length",
+    "lrclib 38977840 (Happy Together / The Turtles / Happy Together, 288.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

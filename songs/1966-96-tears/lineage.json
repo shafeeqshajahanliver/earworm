@@ -1,0 +1,57 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/31249",
+    "title": "96 Tears",
+    "performer": "? & The Mysterians",
+    "is_original": true,
+    "first_release_date": "1966-05",
+    "releases": [
+      {
+        "title": "96 Tears",
+        "uri": "https://api.secondhandsongs.com/release/13823",
+        "performer": "? & The Mysterians"
+      },
+      {
+        "title": "96 Tears",
+        "uri": "https://api.secondhandsongs.com/release/13826",
+        "performer": "? and The Mysterians"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 51,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/31249",
+    "title": "96 Tears",
+    "language": "English",
+    "writers": [
+      "Rudy Martinez"
+    ],
+    "original_performer": "? & The Mysterians",
+    "versions": 52,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Mais qu'est-ce que t'as",
+        "uri": "https://api.secondhandsongs.com/work/251174"
+      },
+      {
+        "title": "96 Lágrimas",
+        "uri": "https://api.secondhandsongs.com/work/259278"
+      },
+      {
+        "title": "Llorando por ti",
+        "uri": "https://api.secondhandsongs.com/work/260109"
+      },
+      {
+        "title": "Hitler Was a Vegetarian",
+        "uri": "https://api.secondhandsongs.com/work/137688"
+      }
+    ]
+  }
+}

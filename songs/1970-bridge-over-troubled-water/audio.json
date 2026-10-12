@@ -1,0 +1,72 @@
+{
+  "id": "1970-bridge-over-troubled-water",
+  "preview": {
+    "service": "deezer",
+    "track_id": 679965642,
+    "matched_by": "isrc",
+    "isrc": "USSM16900183",
+    "title": "Bridge Over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "album": "The Best Of Simon & Garfunkel",
+    "track_duration_s": 293,
+    "link": "https://www.deezer.com/track/679965642",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 80.7,
+    "tempo_bpm_grid": 82.7,
+    "tempo_candidates_bpm": [
+      83.4,
+      89.1,
+      172.3
+    ],
+    "beats_detected": 35,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.837,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.713,
+    "chroma_profile": [
+      0.722,
+      0.343,
+      0.754,
+      0.963,
+      0.408,
+      1.0,
+      0.379,
+      0.664,
+      0.425,
+      0.374,
+      0.795,
+      0.294
+    ],
+    "rms_dbfs": -21.92,
+    "rms_dbfs_p95_frame": -18.69,
+    "peak_dbfs": -4.92,
+    "loudness_lufs_approx": -21.37,
+    "spectral_centroid_hz_mean": 1260.2,
+    "spectral_centroid_hz_median": 1169.9,
+    "onsets": 36,
+    "onset_density_per_s": 1.2,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 679965642",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 82.4,
+    "gain": -13.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/679965642",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USSM10103868: matched but no preview available (readable=False)"
+  ]
+}

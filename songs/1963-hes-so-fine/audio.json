@@ -1,0 +1,77 @@
+{
+  "id": "1963-hes-so-fine",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3252093,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USESM0000016",
+    "title": "He's So Fine (Remastered 2000)",
+    "artist": "The Chiffons",
+    "album": "The Chiffons Absolutely The Best!",
+    "track_duration_s": 112,
+    "link": "https://www.deezer.com/track/3252093",
+    "duration_matched_to": "musicbrainz recording length (113s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 72.9,
+    "tempo_bpm_grid": 72.8,
+    "tempo_candidates_bpm": [
+      143.6,
+      73.8,
+      152.0
+    ],
+    "beats_detected": 36,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.918,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.613,
+    "chroma_profile": [
+      0.587,
+      0.425,
+      0.666,
+      0.368,
+      0.553,
+      0.384,
+      0.494,
+      1.0,
+      0.535,
+      0.505,
+      0.483,
+      0.716
+    ],
+    "rms_dbfs": -8.57,
+    "rms_dbfs_p95_frame": -6.26,
+    "peak_dbfs": 0.38,
+    "loudness_lufs_approx": -7.69,
+    "spectral_centroid_hz_mean": 2813.1,
+    "spectral_centroid_hz_median": 2761.9,
+    "onsets": 105,
+    "onset_density_per_s": 3.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3252093",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 145.1,
+    "gain": -8.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3252093",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (145.1): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer 6058902: version (He's so Fine (Rerecorded))",
+    "deezer 2883168422: duration 131s matches no reference length",
+    "deezer 2727861041: version (He's So Fine (Live))"
+  ]
+}

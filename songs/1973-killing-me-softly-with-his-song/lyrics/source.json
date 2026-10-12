@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1008161,
+  "kind": "synced",
+  "matched": {
+    "track": "Killing Me Softly With His Song",
+    "artist": "Roberta Flack",
+    "album": "Killing Me Softly",
+    "duration_s": 287.0
+  },
+  "duration_matched_to": "musicbrainz recording length (287s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 287.266,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 287.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 286.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36976705 (Killing me softly with his song / Roberta Flack / Home made CD Various Singers, 207.0s): duration matches no reference length",
+    "lrclib 37075475 (Killing Me Softly With His Song / Roberta Flack / Love Songs, 276.0s): duration matches no reference length",
+    "lrclib 37086622 (Killing Me Softly with His Song / Roberta Flack / The Montreux Years, 352.0s): duration matches no reference length",
+    "lrclib 35101690 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly, 357.0s): duration matches no reference length",
+    "lrclib 36565219 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly With His Song, 354.0s): duration matches no reference length",
+    "lrclib 36524992 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly With His Song, 305.0s): duration matches no reference length",
+    "lrclib 33854597 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly With His Song, 253.0s): duration matches no reference length",
+    "lrclib 32234640 (Killing Me Softly With His Song  (DJ Spinna Remix) / Roberta Flack / Killing Me Softly With His Song, 354.0s): live/remix/other version",
+    "lrclib 35831108 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly With His Song (DJ Spinna Remix), 354.0s): live/remix/other version",
+    "lrclib 35101677 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly, 354.0s): duration matches no reference length",
+    "lrclib 35101685 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly, 356.0s): duration matches no reference length",
+    "lrclib 25553249 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly, 278.0s): duration matches no reference length",
+    "lrclib 27782199 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly, 4.0s): duration matches no reference length",
+    "lrclib 16423183 (Killing Me Softly With His Song / Roberta Flack / Killing Me Softly, 293.04s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

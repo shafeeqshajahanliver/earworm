@@ -1,0 +1,41 @@
+{
+  "id": "1965-i-cant-get-no-satisfaction",
+  "lyrics_kind": "synced",
+  "lrclib_id": 32466192,
+  "lines": 37,
+  "words": 260,
+  "unique_words": 77,
+  "type_token_ratio": 0.296,
+  "repeated_line_share": 0.378,
+  "distinct_lines": 23,
+  "zlib_compression_ratio": 0.3,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "satisfaction",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 49,
+    "second": 1,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 15.34,
+  "last_line_s": 217.78,
+  "sung_time_s": 200.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 77.7,
+  "words_per_minute_track": 70.0,
+  "longest_gap_between_lines_s": 11.21,
+  "longest_gap_starts_at_s": 206.57,
+  "first_repeated_block": {
+    "first_at_s": 21.87,
+    "recurs_at_s": 81.31,
+    "lines": [
+      "I can't get no satisfaction",
+      "'Cause I try, and I try, and I try, and I try"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 32466192",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,38 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 841426,
+  "kind": "synced",
+  "matched": {
+    "track": "Baby Don't Get Hooked on Me",
+    "artist": "Mac Davis",
+    "album": "Baby Don't Get Hooked On Me",
+    "duration_s": 184.0
+  },
+  "duration_matched_to": "musicbrainz recording length (184s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 183.933,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 182.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 186.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33357991 (Baby Don't Get Hooked on Me / Mac Davis / Super Hits of the '70s: Have a Nice Day, Vol. 20, 175.0s): duration matches no reference length",
+    "lrclib 31153118 (Baby Don't Get Hooked On Me / Mac Davis / The Best of Mac Davis, 175.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

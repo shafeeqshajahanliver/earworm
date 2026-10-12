@@ -1,0 +1,119 @@
+{
+  "id": "1982-jack-diane",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Jack & Diane",
+  "wikidata": {
+    "qid": "Q6110900",
+    "label": "Jack & Diane",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q345431",
+          "label": "John Mellencamp"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q345431",
+          "label": "John Mellencamp"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q21077",
+          "label": "Warner Music Group"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1982-07-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q747717",
+          "label": "heartland rock"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q5948777",
+          "label": "Hurts So Good"
+        }
+      ],
+      "youtube_video_id": [
+        "h04CH9YZcpI"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "2be174dd-6aaf-4991-b0d2-d8e821dc1404",
+    "title": "Jack & Diane",
+    "length_ms": null,
+    "first_release_date": "1982",
+    "artist_credit": "John Cougar",
+    "artists": [
+      {
+        "name": "John Mellencamp",
+        "mbid": "0aad6b52-fd93-4ea4-9c5d-1f66e1bc9f0a"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "0122ec8a-3552-4a2e-a2bf-68a23ab0285b",
+        "title": "Videotheque: 22 Video Stars – The Best Videos of Today’s Super Hits",
+        "date": "1982",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "bb76a759-a564-40d8-8f77-9fafc35f96ce",
+        "primary_type": "Other",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "13bf289d-6128-3135-9e30-00db7ea33640",
+      "title": "Jack & Diane",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "John Mellencamp",
+          "mbid": "0aad6b52-fd93-4ea4-9c5d-1f66e1bc9f0a"
+        },
+        {
+          "role": "lyricist",
+          "name": "John Mellencamp",
+          "mbid": "0aad6b52-fd93-4ea4-9c5d-1f66e1bc9f0a"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/121146"
+      ]
+    },
+    "main_artist": {
+      "name": "John Mellencamp",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Seymour"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

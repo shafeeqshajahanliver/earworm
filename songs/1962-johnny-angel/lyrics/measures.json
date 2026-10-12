@@ -1,0 +1,41 @@
+{
+  "id": "1962-johnny-angel",
+  "lyrics_kind": "synced",
+  "lrclib_id": 9266001,
+  "lines": 49,
+  "words": 321,
+  "unique_words": 74,
+  "type_token_ratio": 0.231,
+  "repeated_line_share": 0.388,
+  "distinct_lines": 30,
+  "zlib_compression_ratio": 0.25,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "johnny angel",
+  "title_phrase_occurrences": 21,
+  "pronouns": {
+    "first_singular": 31,
+    "second": 3,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 2.5,
+  "last_line_s": 136.27,
+  "sung_time_s": 140.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 137.2,
+  "words_per_minute_track": 136.0,
+  "longest_gap_between_lines_s": 6.79,
+  "longest_gap_starts_at_s": 76.53,
+  "first_repeated_block": {
+    "first_at_s": 47.76,
+    "recurs_at_s": 83.32,
+    "lines": [
+      "(I'm in Heaven)",
+      "I get carried away"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 9266001",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

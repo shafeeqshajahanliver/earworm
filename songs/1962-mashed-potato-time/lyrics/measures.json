@@ -1,0 +1,41 @@
+{
+  "id": "1962-mashed-potato-time",
+  "lyrics_kind": "synced",
+  "lrclib_id": 11976756,
+  "lines": 40,
+  "words": 270,
+  "unique_words": 104,
+  "type_token_ratio": 0.385,
+  "repeated_line_share": 0.2,
+  "distinct_lines": 32,
+  "zlib_compression_ratio": 0.35,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "mashed potato time",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 0,
+    "second": 5,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.0,
+  "last_line_s": 146.09,
+  "sung_time_s": 136.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 119.0,
+  "words_per_minute_track": 109.5,
+  "longest_gap_between_lines_s": 18.71,
+  "longest_gap_starts_at_s": 65.99,
+  "first_repeated_block": {
+    "first_at_s": 107.74,
+    "recurs_at_s": 138.68,
+    "lines": [
+      "(It's the latest) Come on, baby",
+      "(It's the greatest) Oh, honey"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 11976756",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

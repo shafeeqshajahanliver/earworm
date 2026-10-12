@@ -1,0 +1,76 @@
+{
+  "id": "1975-shining-star",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15192502,
+    "matched_by": "isrc",
+    "isrc": "USSM17400579",
+    "title": "Shining Star (Single Version)",
+    "artist": "Earth, Wind & Fire",
+    "album": "Pop Music: The Golden Era 1951-1975",
+    "track_duration_s": 170,
+    "link": "https://www.deezer.com/track/15192502",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.3,
+    "tempo_bpm_grid": 103.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      198.8,
+      51.7
+    ],
+    "beats_detected": 51,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.753,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.689,
+    "chroma_profile": [
+      0.678,
+      0.705,
+      0.765,
+      0.811,
+      1.0,
+      0.718,
+      0.76,
+      0.919,
+      0.842,
+      0.882,
+      0.744,
+      0.888
+    ],
+    "rms_dbfs": -15.02,
+    "rms_dbfs_p95_frame": -11.12,
+    "peak_dbfs": -2.08,
+    "loudness_lufs_approx": -14.29,
+    "spectral_centroid_hz_mean": 1905.5,
+    "spectral_centroid_hz_median": 1760.3,
+    "onsets": 90,
+    "onset_density_per_s": 3.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15192502",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 102.3,
+    "gain": -14.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15192502",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USMI17500629: matched but no preview available (readable=False)",
+    "deezer isrc USSM17400206: matched but no preview available (readable=False)",
+    "deezer isrc USSM17500629: matched but no preview available (readable=False)",
+    "deezer isrc USSM19701868: matched but no preview available (readable=False)",
+    "deezer isrc USSM19803681: matched but no preview available (readable=False)"
+  ]
+}

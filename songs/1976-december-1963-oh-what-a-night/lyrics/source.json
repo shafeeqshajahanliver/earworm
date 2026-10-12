@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34664516,
+  "kind": "synced",
+  "matched": {
+    "track": "December 1963 (Oh What a Night)",
+    "artist": "The Four Seasons",
+    "album": "December 1963 (Oh What a Night)",
+    "duration_s": 211.0
+  },
+  "duration_matched_to": "musicbrainz recording length (210s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 210.466,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 212.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 200.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 216.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35159579 (December 1963 (Oh What A Night) / The Four Seasons / Dance Classics - The Remixes Vol. 3, 210.0s): live/remix/other version",
+    "lrclib 35061929 (December, 1963 (Oh, What a Night) / The Four Seasons / Hits  (Compilation), 376.0s): duration matches no reference length",
+    "lrclib 19120325 (December, 1963 (Oh, What a Night) / The Four Seasons / The Four Seasons Hits, 376.333333s): duration matches no reference length",
+    "lrclib 21680184 (December, 1963 (Oh, What a Night) / The Four Seasons / The Four Seasons Hits, 374.0s): duration matches no reference length",
+    "lrclib 21766695 (December, 1963 (Oh, What a Night) / The Four Seasons / The Four Seasons Hits, 205.32s): duration matches no reference length",
+    "lrclib 27247281 (December, 1963 (Oh, What a Night) / The Four Seasons / The Four Seasons Dance Album, 375.674937s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

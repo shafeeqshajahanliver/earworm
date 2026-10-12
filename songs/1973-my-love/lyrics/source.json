@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13244229,
+  "kind": "synced",
+  "matched": {
+    "track": "My Love",
+    "artist": "Paul McCartney & Wings",
+    "album": "Red Rose Speedway (Paul McCartney Archive Collection)",
+    "duration_s": 248.137143
+  },
+  "duration_matched_to": "musicbrainz recording length (249s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 248.626,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 248.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 247.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 18697621 (My Love / Paul McCartney & Wings Paul McCartney & Wings / Wings Over America (Remastered) (24-96), 254.72s): duration matches no reference length",
+    "lrclib 15312259 (My Love / Paul McCartney & Wings Paul McCartney & Wings / Wings Over America: Remastered Album, 254.72s): duration matches no reference length",
+    "lrclib 37423703 (My Love / Paul McCartney  & Wings / One Hand Clapping (Ultimate Edition), 272.0s): duration matches no reference length",
+    "lrclib 33678965 (My Love / Paul McCartney & Wings / Wings Over America [Standard Edition], 255.0s): duration matches no reference length",
+    "lrclib 36326010 (My Love / Paul McCartney & Wings / One Hand Clapping [Recorded Live at Abby Road Studios in London, 1974] ~ FLAC, 255.0s): live/remix/other version",
+    "lrclib 35660779 (My Love / Paul McCartney & Wings / Wings At The Speed Of Sound, 388.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,59 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/27581",
+    "title": "It's Now or Never",
+    "performer": "Elvis Presley with The Jordanaires",
+    "is_original": false,
+    "first_release_date": "1960-07-05",
+    "releases": [
+      {
+        "title": "It's Now or Never",
+        "uri": "https://api.secondhandsongs.com/release/12779",
+        "performer": "Elvis Presley with The Jordanaires"
+      },
+      {
+        "title": "Elvis by Request",
+        "uri": "https://api.secondhandsongs.com/release/9479",
+        "performer": "Elvis Presley with The Jordanaires"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 159,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/27581",
+    "title": "It's Now or Never",
+    "language": "English",
+    "writers": [
+      "Wally Gold",
+      "Aaron Schroeder"
+    ],
+    "original_performer": "Elvis Presley with The Jordanaires",
+    "versions": 160,
+    "based_on": [
+      {
+        "title": "'O sole mio",
+        "uri": "https://api.secondhandsongs.com/work/27579"
+      }
+    ],
+    "derived_works": [
+      {
+        "title": "Es hoy o nunca",
+        "uri": "https://api.secondhandsongs.com/work/317699"
+      },
+      {
+        "title": "Nunc hic aut numquam",
+        "uri": "https://api.secondhandsongs.com/work/187571"
+      },
+      {
+        "title": "Nu eller aldrig",
+        "uri": "https://api.secondhandsongs.com/work/332271"
+      }
+    ]
+  }
+}

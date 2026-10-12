@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1444007,
+  "kind": "synced",
+  "matched": {
+    "track": "Bad Girls",
+    "artist": "Donna Summer",
+    "album": "Bad Girls",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (236s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 235.666,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 295.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 297.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 0.972,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36977411 (Bad Girls / Donna Summer / Varie, 379.0s): duration matches no reference length",
+    "lrclib 36982518 (Bad Girls / Donna Summer / On The Radio: Greatest Hits Vol. 1 & 2, 162.0s): duration matches no reference length",
+    "lrclib 37525874 (Bad Girls / Donna Summer / Hot Classics Volume 9, 379.0s): duration matches no reference length",
+    "lrclib 37143016 (Bad Girls / Donna Summer / Billboard #1's: The 70's [Disc 2], 243.0s): duration matches no reference length",
+    "lrclib 34385544 (Bad Girls / Donna Summer / Nu-Disco Temazos, 319.0s): duration matches no reference length",
+    "lrclib 35109156 (Bad Girls / Donna Summer / Bad Girls, 411.0s): duration matches no reference length",
+    "lrclib 33649681 (Bad Girls / Donna Summer / VH1 Presents Live & More Encor, 186.0s): live/remix/other version",
+    "lrclib 18470541 (Bad Girls / Donna Summer / Bad Girls, 185.5712s): duration matches no reference length",
+    "lrclib 20795939 (Bad Girls / Donna Summer / Bad Girls, 319.296s): duration matches no reference length",
+    "lrclib 21674800 (Bad Girls / Donna Summer / Bad Girls, 378.88s): duration matches no reference length",
+    "lrclib 26584421 (Bad Girls / Donna Summer / Bad Girls, 302.75345s): duration matches no reference length",
+    "lrclib 25717815 (Bad Girls / Donna Summer / Bad Girls, 226.266644s): duration matches no reference length",
+    "lrclib 29728869 (Bad Girls / Donna Summer / Bad Girls, 286.0s): duration matches no reference length",
+    "lrclib 38302062 (Bad Girls / Donna Summer / Bad Girls, 127.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

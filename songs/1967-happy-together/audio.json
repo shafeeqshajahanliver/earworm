@@ -1,0 +1,75 @@
+{
+  "id": "1967-happy-together",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2043943,
+    "matched_by": "isrc",
+    "isrc": "USA560587940",
+    "title": "Happy Together",
+    "artist": "The Turtles",
+    "album": "Happy Together",
+    "track_duration_s": 176,
+    "link": "https://www.deezer.com/track/2043943",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.3,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      117.5,
+      60.1
+    ],
+    "beats_detected": 60,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.739,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.73,
+    "chroma_profile": [
+      0.503,
+      1.0,
+      0.569,
+      0.598,
+      0.734,
+      0.692,
+      0.961,
+      0.519,
+      0.857,
+      0.753,
+      0.637,
+      0.597
+    ],
+    "rms_dbfs": -14.67,
+    "rms_dbfs_p95_frame": -11.26,
+    "peak_dbfs": -0.14,
+    "loudness_lufs_approx": -13.0,
+    "spectral_centroid_hz_mean": 2391.6,
+    "spectral_centroid_hz_median": 2331.0,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2043943",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.8,
+    "gain": -12.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2043943",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between F# minor and C# major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USNPD0500876: matched but no preview available (readable=False)",
+    "deezer isrc USV291394166: matched but no preview available (readable=False)"
+  ]
+}

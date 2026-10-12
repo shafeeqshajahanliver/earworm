@@ -1,0 +1,41 @@
+{
+  "id": "1976-play-that-funky-music",
+  "lyrics_kind": "synced",
+  "lrclib_id": 4462536,
+  "lines": 72,
+  "words": 485,
+  "unique_words": 144,
+  "type_token_ratio": 0.297,
+  "repeated_line_share": 0.264,
+  "distinct_lines": 53,
+  "zlib_compression_ratio": 0.298,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "play that funky music",
+  "title_phrase_occurrences": 26,
+  "pronouns": {
+    "first_singular": 24,
+    "second": 11,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.07,
+  "last_line_s": 180.87,
+  "sung_time_s": 173.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 168.2,
+  "words_per_minute_track": 151.6,
+  "longest_gap_between_lines_s": 8.95,
+  "longest_gap_starts_at_s": 96.52,
+  "first_repeated_block": {
+    "first_at_s": 52.86,
+    "recurs_at_s": 86.43,
+    "lines": [
+      "Yeah, they were dancing and singing",
+      "And moving to the grooving"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 4462536",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1968-mrs-robinson",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13144561,
+    "matched_by": "isrc",
+    "isrc": "USSM16800249",
+    "title": "Mrs. Robinson",
+    "artist": "Simon & Garfunkel",
+    "album": "Fabulous 60s",
+    "track_duration_s": 242,
+    "link": "https://www.deezer.com/track/13144561",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.3,
+    "tempo_bpm_grid": 92.3,
+    "tempo_candidates_bpm": [
+      184.6,
+      92.3,
+      61.5
+    ],
+    "beats_detected": 48,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.594,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.548,
+    "chroma_profile": [
+      0.388,
+      0.483,
+      0.418,
+      0.383,
+      0.454,
+      0.431,
+      1.0,
+      0.721,
+      0.553,
+      0.503,
+      0.443,
+      0.591
+    ],
+    "rms_dbfs": -15.02,
+    "rms_dbfs_p95_frame": -12.03,
+    "peak_dbfs": 0.68,
+    "loudness_lufs_approx": -13.32,
+    "spectral_centroid_hz_mean": 2290.9,
+    "spectral_centroid_hz_median": 2115.6,
+    "onsets": 87,
+    "onset_density_per_s": 2.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13144561",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 183.8,
+    "gain": -13.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13144561",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (183.8): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USSM16800379: matched but no preview available (readable=False)",
+    "deezer isrc USSM16801088: matched but no preview available (readable=False)",
+    "deezer isrc USSM16801198: matched but no preview available (readable=False)"
+  ]
+}

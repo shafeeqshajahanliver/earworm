@@ -1,0 +1,41 @@
+{
+  "id": "1964-where-did-our-love-go",
+  "lyrics_kind": "synced",
+  "lrclib_id": 15299434,
+  "lines": 40,
+  "words": 242,
+  "unique_words": 59,
+  "type_token_ratio": 0.244,
+  "repeated_line_share": 0.125,
+  "distinct_lines": 35,
+  "zlib_compression_ratio": 0.292,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "where did our love go",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 20,
+    "second": 10,
+    "first_plural": 8
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 3.12,
+  "last_line_s": 147.37,
+  "sung_time_s": 133.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 108.6,
+  "words_per_minute_track": 94.7,
+  "longest_gap_between_lines_s": 15.98,
+  "longest_gap_starts_at_s": 73.57,
+  "first_repeated_block": {
+    "first_at_s": 59.05,
+    "recurs_at_s": 143.89,
+    "lines": [
+      "Ooh, baby, baby (Baby, baby)",
+      "Where did our love go?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 15299434",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

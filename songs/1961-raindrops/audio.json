@@ -1,0 +1,73 @@
+{
+  "id": "1961-raindrops",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1147786232,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBSMU9033145",
+    "title": "Raindrops",
+    "artist": "Dee Clark",
+    "album": "Dee Clark At His Best",
+    "track_duration_s": 153,
+    "link": "https://www.deezer.com/track/1147786232",
+    "duration_matched_to": "musicbrainz recording length (158s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 130.0,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      86.1,
+      136.0
+    ],
+    "beats_detected": 65,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.874,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.59,
+    "chroma_profile": [
+      0.876,
+      0.793,
+      0.588,
+      0.982,
+      0.798,
+      0.807,
+      0.554,
+      0.647,
+      1.0,
+      0.703,
+      0.829,
+      0.674
+    ],
+    "rms_dbfs": -12.33,
+    "rms_dbfs_p95_frame": -9.59,
+    "peak_dbfs": -0.41,
+    "loudness_lufs_approx": -12.39,
+    "spectral_centroid_hz_mean": 1568.3,
+    "spectral_centroid_hz_median": 1395.5,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1147786232",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1147786232",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2843587: duration 231s matches no reference length"
+  ]
+}

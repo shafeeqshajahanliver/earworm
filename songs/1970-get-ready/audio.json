@@ -1,0 +1,77 @@
+{
+  "id": "1970-get-ready",
+  "preview": {
+    "service": "deezer",
+    "track_id": 93889386,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMO10000237",
+    "title": "Get Ready (Single Version)",
+    "artist": "Rare Earth",
+    "album": "The Best Of Rare Earth",
+    "track_duration_s": 169,
+    "link": "https://www.deezer.com/track/93889386",
+    "duration_matched_to": "musicbrainz recording length (170s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 134.7,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      68.0,
+      136.0,
+      89.1
+    ],
+    "beats_detected": 67,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.574,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.534,
+    "chroma_profile": [
+      0.903,
+      0.77,
+      1.0,
+      0.761,
+      0.738,
+      0.86,
+      0.643,
+      0.777,
+      0.538,
+      0.608,
+      0.582,
+      0.601
+    ],
+    "rms_dbfs": -13.9,
+    "rms_dbfs_p95_frame": -10.69,
+    "peak_dbfs": 0.22,
+    "loudness_lufs_approx": -12.04,
+    "spectral_centroid_hz_mean": 3455.4,
+    "spectral_centroid_hz_median": 3389.4,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 93889386",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 134.67,
+    "gain": -12.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/93889386",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 417350372: duration 175s matches no reference length",
+    "deezer 93403182: version (Get Ready (Live In Concert, US/1971))",
+    "deezer 2048328: duration 811s matches no reference length",
+    "deezer 997542352: duration 197s matches no reference length",
+    "deezer 2087058827: version (Get Ready (Live))"
+  ]
+}

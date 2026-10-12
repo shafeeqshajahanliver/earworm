@@ -1,0 +1,119 @@
+{
+  "id": "1966-kicks",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Kicks (song)",
+  "wikidata": {
+    "qid": "Q6404378",
+    "label": "Kicks",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1026810",
+          "label": "Paul Revere and the Raiders"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q809067",
+          "label": "Barry Mann"
+        },
+        {
+          "qid": "Q461008",
+          "label": "Cynthia Weil"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q809067",
+          "label": "Barry Mann"
+        },
+        {
+          "qid": "Q461008",
+          "label": "Cynthia Weil"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1966-02-28"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "1a66ec24-627c-3fc6-bbf0-5ac3b8a94d01"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 62f66af5-3f0e-4bee-8726-488158fc6c30 (1966)",
+  "musicbrainz": {
+    "recording_id": "cc8565e9-343e-4c25-8f3d-78789e45979d",
+    "title": "Kicks",
+    "length_ms": 146000,
+    "first_release_date": "1966-02",
+    "artist_credit": "Paul Revere and The Raiders featuring Mark Lindsay",
+    "artists": [
+      {
+        "name": "Paul Revere and the Raiders",
+        "mbid": "7f6c83a6-f048-4895-99a1-94caf32a47ef"
+      },
+      {
+        "name": "Mark Lindsay",
+        "mbid": "ffd22b66-ef54-41e7-9993-635e4392755b"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "25f2b13a-736c-47e9-992a-404f98c57f03",
+        "title": "Kicks",
+        "date": "1966",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "62f66af5-3f0e-4bee-8726-488158fc6c30",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "cb349b82-681a-45ab-b7a0-cca13a971b07",
+        "title": "Kicks / Shake It Up",
+        "date": "1966-02",
+        "country": "US",
+        "status": null,
+        "release_group": "01233250-11d0-4ee9-9a5e-6384ca985bc6",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Paul Revere and the Raiders",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Boise"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

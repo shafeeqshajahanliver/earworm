@@ -1,0 +1,70 @@
+{
+  "id": "1963-the-end-of-the-world",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10214217,
+    "matched_by": "isrc",
+    "isrc": "USRN19400412",
+    "title": "The End of the World",
+    "artist": "Skeeter Davis",
+    "album": "Skeeter Davis: The Pop Hits Collection, Volume 1",
+    "track_duration_s": 156,
+    "link": "https://www.deezer.com/track/10214217",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 104.7,
+    "tempo_bpm_grid": 107.7,
+    "tempo_candidates_bpm": [
+      107.7,
+      112.3,
+      71.8
+    ],
+    "beats_detected": 48,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.891,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.815,
+    "chroma_profile": [
+      0.63,
+      0.368,
+      0.947,
+      0.598,
+      0.371,
+      1.0,
+      0.378,
+      0.663,
+      0.304,
+      0.687,
+      0.931,
+      0.422
+    ],
+    "rms_dbfs": -11.13,
+    "rms_dbfs_p95_frame": -8.19,
+    "peak_dbfs": -0.4,
+    "loudness_lufs_approx": -10.77,
+    "spectral_centroid_hz_mean": 1762.1,
+    "spectral_centroid_hz_median": 1616.9,
+    "onsets": 46,
+    "onset_density_per_s": 1.534,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10214217",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 105.7,
+    "gain": -11.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10214217",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

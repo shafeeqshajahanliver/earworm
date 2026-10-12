@@ -1,0 +1,70 @@
+{
+  "id": "1971-its-too-late",
+  "preview": {
+    "service": "deezer",
+    "track_id": 79199623,
+    "matched_by": "isrc",
+    "isrc": "USSM17100509",
+    "title": "It's Too Late",
+    "artist": "Carole King",
+    "album": "50 Classic Rock Favorites",
+    "track_duration_s": 233,
+    "link": "https://www.deezer.com/track/79199623",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.4,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      198.8,
+      103.4,
+      215.3
+    ],
+    "beats_detected": 45,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.707,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.623,
+    "chroma_profile": [
+      0.742,
+      0.563,
+      0.862,
+      0.451,
+      0.584,
+      0.6,
+      0.512,
+      0.705,
+      0.656,
+      1.0,
+      0.63,
+      0.589
+    ],
+    "rms_dbfs": -16.65,
+    "rms_dbfs_p95_frame": -11.58,
+    "peak_dbfs": -0.63,
+    "loudness_lufs_approx": -17.14,
+    "spectral_centroid_hz_mean": 1512.0,
+    "spectral_centroid_hz_median": 1331.7,
+    "onsets": 111,
+    "onset_density_per_s": 3.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 79199623",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 103.9,
+    "gain": -15.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/79199623",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

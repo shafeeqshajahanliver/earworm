@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 6889545,
+  "kind": "synced",
+  "matched": {
+    "track": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+    "artist": "Four Tops",
+    "album": "Four Tops Second Album",
+    "duration_s": 164.0
+  },
+  "duration_matched_to": "musicbrainz recording length (164s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 163.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 163.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 166.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37729769 (I Can't Help Myself / Four Tops / Four Tops, 177.0s): duration matches no reference length",
+    "lrclib 29969957 (I Can't Help Myself / Four Tops / Four Tops Live, 359.0s): live/remix/other version",
+    "lrclib 33027596 (I Can't Help Myself / Four Tops / The Four Tops Collection, 181.0s): duration matches no reference length",
+    "lrclib 31554401 (I Can't Help Myself / Four Tops / The Four Tops Collection, 174.0s): duration matches no reference length",
+    "lrclib 22526064 (I Can't Help Myself / The Four Tops / Four Tops Live, 358.733333s): live/remix/other version",
+    "lrclib 24038574 (I Can't Help Myself / Four Tops / The Four Tops Collection [Live], 181.36s): live/remix/other version",
+    "lrclib 24060282 (I Can't Help Myself / The Four Tops / The Four Tops Collection, 181.394286s): duration matches no reference length",
+    "lrclib 1124283 (I Can't Help Myself (Live) / The Four Tops / Four Tops Live!, 359.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

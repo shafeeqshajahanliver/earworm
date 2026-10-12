@@ -1,0 +1,106 @@
+{
+  "id": "1962-let-me-in",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Let Me In (The Sensations song)",
+  "wikidata": {
+    "qid": "Q6532898",
+    "label": "Let Me In",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q7763291",
+          "label": "The Sensations"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1961-01-01"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q45981",
+          "label": "rhythm and blues"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "24234b3c-88ec-3d13-9c52-cd51bea49c45"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group e74eb547-a839-3976-b183-0eb7a441b806 (1961-11)",
+  "musicbrainz": {
+    "recording_id": "c7c2b81e-9216-4cfe-be6f-5aa0e19e7077",
+    "title": "Let Me In",
+    "length_ms": 170000,
+    "first_release_date": "1961-11",
+    "artist_credit": "The Sensations",
+    "artists": [
+      {
+        "name": "The Sensations",
+        "mbid": "ad39d584-544a-477a-84e6-090df24c1826"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "272ecec0-7285-48a1-82d4-cd9f9760a8b4",
+        "title": "Let Me In / Oh Yes, I'll Be True",
+        "date": "1961-11",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e74eb547-a839-3976-b183-0eb7a441b806",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "4493dc74-8dc3-49a8-aee8-d725925c68b9",
+        "title": "The Rock ’n’ Roll Era: 1962",
+        "date": "1992",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7e38ee17-80a0-335b-9d7b-91610c8979e3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "24234b3c-88ec-3d13-9c52-cd51bea49c45",
+      "title": "Let Me In",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Yvonne Baker",
+          "mbid": "b7ca2d13-2bbf-428d-8018-664c63054606"
+        },
+        {
+          "role": "lyricist",
+          "name": "Yvonne Baker",
+          "mbid": "b7ca2d13-2bbf-428d-8018-664c63054606"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/4209",
+        "https://www.wikidata.org/wiki/Q6532898"
+      ]
+    },
+    "main_artist": {
+      "name": "The Sensations",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": null
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

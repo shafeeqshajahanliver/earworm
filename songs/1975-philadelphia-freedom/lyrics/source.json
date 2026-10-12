@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18261709,
+  "kind": "synced",
+  "matched": {
+    "track": "Philadelphia Freedom",
+    "artist": "Elton John",
+    "album": "Philadelphia Freedom",
+    "duration_s": 340.454375
+  },
+  "duration_matched_to": "deezer preview track matched by search (339s)",
+  "duration_diff_s": 1.5,
+  "reference_lengths": [
+    {
+      "seconds": 339.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 320.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 338.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 0.868,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (339s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 36938414 (Philadelphia Freedom / Elton John / CD1, 330.0s): duration matches no reference length",
+    "lrclib 36938419 (Philadelphia Freedom / Elton John / 1975! Songs of the Year, 326.0s): duration matches no reference length",
+    "lrclib 37356619 (Philadelphia Freedom / Elton John / Diamonds (1), 330.0s): duration matches no reference length",
+    "lrclib 36869297 (Philadelphia Freedom / Elton John / Jewel Box, 330.0s): duration matches no reference length",
+    "lrclib 34654669 (Philadelphia Freedom / Elton John / Elton 60 - Live At Madison Square Garden [2007 Mercury 06025 174 373-5(4)] EU, 311.0s): live/remix/other version",
+    "lrclib 30124266 (Philadelphia Freedom / Elton John / Elton John Essentials, 328.0s): duration matches no reference length",
+    "lrclib 31234619 (Philadelphia Freedom / Elton John / Elton John Live, 367.0s): live/remix/other version",
+    "lrclib 33751496 (Philadelphia Freedom / Elton John / A Arte De Elton John, 298.0s): duration matches no reference length",
+    "lrclib 33870077 (Philadelphia Freedom / Elton John / A Arte De Elton John, 294.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "1967-groovin",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Groovin'",
+  "wikidata": {
+    "qid": "Q5610352",
+    "label": "Groovin'",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1757318",
+          "label": "The Rascals"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q202440",
+          "label": "Atlantic Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1967-04-10"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q45981",
+          "label": "rhythm and blues"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "85681f38-e648-3d76-91bd-87c5d3b86fc5"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group ef6021ef-d46b-4624-aea9-0a1997e0aa37 (1967-04-10)",
+  "musicbrainz": {
+    "recording_id": "e131a523-36b5-4f11-93ac-44f1f26fbe54",
+    "title": "Groovin’",
+    "length_ms": 145000,
+    "first_release_date": "1967-04-10",
+    "artist_credit": "The Young Rascals",
+    "artists": [
+      {
+        "name": "The Rascals",
+        "mbid": "219ce30a-0f3a-468c-9a13-55ee358ac0f0"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "3c47d1d7-84dd-47a7-8598-7610d2a30957",
+        "title": "Groovin' / Sueño",
+        "date": "1967-04-10",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ef6021ef-d46b-4624-aea9-0a1997e0aa37",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "7d7159b6-4e06-4be4-97be-58cdfde50611",
+        "title": "Groovin' / Sueño",
+        "date": "1967-05",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "ef6021ef-d46b-4624-aea9-0a1997e0aa37",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "85681f38-e648-3d76-91bd-87c5d3b86fc5",
+      "title": "Groovin’",
+      "iswcs": [
+        "T-070.066.044-1",
+        "T-070.895.839-7"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Eddie Brigati",
+          "mbid": "d9665a9b-0868-46ca-ab4c-37355a3abc45"
+        },
+        {
+          "role": "writer",
+          "name": "Felix Cavaliere",
+          "mbid": "df64ba7e-957d-4873-b195-7e08ba039a1d"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/42631",
+        "https://www.wikidata.org/wiki/Q5610352"
+      ]
+    },
+    "main_artist": {
+      "name": "The Rascals",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "New York"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

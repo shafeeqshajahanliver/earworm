@@ -1,0 +1,78 @@
+{
+  "id": "1975-before-the-next-teardrop-falls",
+  "preview": {
+    "service": "deezer",
+    "track_id": 444406142,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "US78T0747851",
+    "title": "Before the Next Teardrop Falls",
+    "artist": "Freddy Fender",
+    "album": "Wasted Days & Wasted Nights",
+    "track_duration_s": 134,
+    "link": "https://www.deezer.com/track/444406142",
+    "duration_matched_to": "musicbrainz recording length (136s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 108.7,
+    "tempo_bpm_grid": 108.8,
+    "tempo_candidates_bpm": [
+      107.7,
+      215.3,
+      112.3
+    ],
+    "beats_detected": 45,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.947,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.669,
+    "chroma_profile": [
+      0.378,
+      0.612,
+      0.623,
+      0.393,
+      0.772,
+      0.392,
+      0.557,
+      0.398,
+      0.614,
+      1.0,
+      0.446,
+      0.646
+    ],
+    "rms_dbfs": -11.1,
+    "rms_dbfs_p95_frame": -9.56,
+    "peak_dbfs": -1.18,
+    "loudness_lufs_approx": -10.78,
+    "spectral_centroid_hz_mean": 1521.4,
+    "spectral_centroid_hz_median": 1451.8,
+    "onsets": 60,
+    "onset_density_per_s": 2.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 444406142",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 107.95,
+    "gain": -11,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/444406142",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 145235218: duration 146s matches no reference length",
+    "deezer 105887998: version (Before The Next Teardrop Falls (Live))",
+    "deezer 854708632: duration 304s matches no reference length",
+    "deezer 1941410217: version (Before The Next Teardrop Falls (Live))",
+    "deezer 3675910222: version (Before The Next Teardrop Falls (Live, Slowed + Reverb))",
+    "deezer 2747826741: version (Before The Next Teardrop Falls (Live At Carnegie Hall, New York/1977))"
+  ]
+}

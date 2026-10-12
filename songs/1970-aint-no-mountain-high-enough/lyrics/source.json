@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37078735,
+  "kind": "synced",
+  "matched": {
+    "track": "Ain't no mountain high enough",
+    "artist": "Diana Ross",
+    "album": "La Soul C'était Mieux Avant",
+    "duration_s": 217.0
+  },
+  "duration_matched_to": "musicbrainz recording length (220s)",
+  "duration_diff_s": 2.5,
+  "reference_lengths": [
+    {
+      "seconds": 219.506,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 208.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 212.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 378.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37291254 (Ain't No Mountain High Enough / Diana Ross / Diana Ross (1970) [Expanded Edition], 152.0s): duration matches no reference length",
+    "lrclib 37292812 (Ain't No Mountain High Enough / Diana Ross / Saturday Night Party 70S, 248.0s): duration matches no reference length",
+    "lrclib 37392871 (Ain't No Mountain High Enough / Diana Ross / The Best Soul Album In The World... Ever!, 248.0s): duration matches no reference length",
+    "lrclib 34606827 (Ain't No Mountain High Enough / Diana Ross / Almighty Presents: We Love Diana Ross, 489.0s): duration matches no reference length",
+    "lrclib 34602049 (Ain't No Mountain High Enough / Diana Ross / Surrender, 403.0s): duration matches no reference length",
+    "lrclib 21053983 (Ain't No Mountain High Enough / Diana Ross / Ain't No Mountain High Enough, 229.6399872s): duration matches no reference length",
+    "lrclib 16496369 (Ain’t No Mountain High Enough (Eric Kupper Remix) / Diana Ross / Ain’t No Mountain High Enough, 245.002449s): live/remix/other version",
+    "lrclib 37571193 (Ain't No Mountain High Enough / Diana Ross / Ain't No Mountain High Enough: The Remix Album, 381.0s): live/remix/other version",
+    "lrclib 16179984 (Ain’t No Mountain High Enough (Joe Gauthreaux & Leanh Remix - Miss Ross Spoken Intro) / Diana Ross / Ain’t No Mountain High Enough, 384.235102s): live/remix/other version",
+    "lrclib 16180003 (Ain’t No Mountain High Enough (Eric Kupper Epic Dub) / Diana Ross / Ain’t No Mountain High Enough, 445.884082s): duration matches no reference length",
+    "lrclib 16163502 (Ain’t No Mountain High Enough (Eric Kupper Epic Version) / Diana Ross / Ain’t No Mountain High Enough, 445.831837s): live/remix/other version",
+    "lrclib 16518163 (Ain’t No Mountain High Enough (StoneBridge Retro Classic Mix - Main) / Diana Ross / Ain’t No Mountain High Enough, 298.501224s): duration matches no reference length",
+    "lrclib 16549737 (Ain’t No Mountain High Enough (StoneBridge Retro Classic Mix - Dub) / Diana Ross / Ain’t No Mountain High Enough, 298.501224s): duration matches no reference length",
+    "lrclib 16164343 (Ain’t No Mountain High Enough (StoneBridge Classic Mix - Radio Edit) / Diana Ross / Ain’t No Mountain High Enough, 181.263673s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

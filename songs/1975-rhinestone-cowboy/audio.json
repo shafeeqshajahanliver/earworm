@@ -1,0 +1,80 @@
+{
+  "id": "1975-rhinestone-cowboy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3476217,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USCN18600038",
+    "title": "Rhinestone Cowboy",
+    "artist": "Glen Campbell",
+    "album": "Rhinestone Cowboy",
+    "track_duration_s": 195,
+    "link": "https://www.deezer.com/track/3476217",
+    "duration_matched_to": "musicbrainz recording length (195s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 114.5,
+    "tempo_bpm_grid": 114.8,
+    "tempo_candidates_bpm": [
+      112.3,
+      117.5,
+      57.4
+    ],
+    "beats_detected": 57,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.866,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.77,
+    "chroma_profile": [
+      0.978,
+      0.465,
+      0.59,
+      0.368,
+      0.574,
+      0.525,
+      0.585,
+      1.0,
+      0.467,
+      0.548,
+      0.407,
+      0.607
+    ],
+    "rms_dbfs": -8.75,
+    "rms_dbfs_p95_frame": -6.15,
+    "peak_dbfs": 1.11,
+    "loudness_lufs_approx": -8.07,
+    "spectral_centroid_hz_mean": 2055.3,
+    "spectral_centroid_hz_median": 1968.1,
+    "onsets": 59,
+    "onset_density_per_s": 1.967,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3476217",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 114.8,
+    "gain": -9.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3476217",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 6925445: version (Rhinestone Cowboy (Live))",
+    "deezer 3167674: version (Rhinestone Cowboy (Extended Version))",
+    "deezer 1435835162: version (Rhinestone Cowboy (Live From The Troubadour / 2008))",
+    "deezer 16856700: version (Rhinestone Cowboy)",
+    "deezer 16162454: duration 179s matches no reference length",
+    "deezer 3773871722: duration 168s matches no reference length",
+    "deezer 7899822: duration 173s matches no reference length",
+    "deezer 2727860981: version (Rhinestone Cowboy (Live))"
+  ]
+}

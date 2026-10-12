@@ -1,0 +1,72 @@
+{
+  "id": "1978-you-light-up-my-life",
+  "preview": {
+    "service": "deezer",
+    "track_id": 75768228,
+    "matched_by": "isrc",
+    "isrc": "USCRB9900460",
+    "title": "You Light Up My Life",
+    "artist": "Debby Boone",
+    "album": "Ultimate Wedding Hits",
+    "track_duration_s": 218,
+    "link": "https://www.deezer.com/track/75768228",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 78.1,
+    "tempo_bpm_grid": 77.1,
+    "tempo_candidates_bpm": [
+      76.0,
+      234.9,
+      215.3
+    ],
+    "beats_detected": 36,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.755,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.675,
+    "chroma_profile": [
+      0.482,
+      0.684,
+      0.645,
+      0.515,
+      1.0,
+      0.376,
+      0.789,
+      0.678,
+      0.387,
+      0.712,
+      0.348,
+      0.796
+    ],
+    "rms_dbfs": -17.02,
+    "rms_dbfs_p95_frame": -13.68,
+    "peak_dbfs": -4.0,
+    "loudness_lufs_approx": -16.3,
+    "spectral_centroid_hz_mean": 1851.9,
+    "spectral_centroid_hz_median": 1856.9,
+    "onsets": 49,
+    "onset_density_per_s": 1.634,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 75768228",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 77.3,
+    "gain": -14.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/75768228",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc US2R30610157: matched but no preview available (readable=False)"
+  ]
+}

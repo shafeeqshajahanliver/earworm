@@ -1,0 +1,147 @@
+{
+  "id": "1987-walk-like-an-egyptian",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Walk Like an Egyptian",
+  "wikidata": {
+    "qid": "Q1885339",
+    "label": "Walk Like an Egyptian",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q214418",
+          "label": "The Bangles"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q6539808",
+          "label": "Liam Sternberg"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q6539808",
+          "label": "Liam Sternberg"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q5235816",
+          "label": "David Kahne"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q183387",
+          "label": "Columbia Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1985-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "204",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "e75a20e4-67e3-3e73-9f55-2c68932b81fb"
+      ],
+      "recorded_at": [
+        {
+          "qid": "Q7765399",
+          "label": "The Sound Factory"
+        }
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz": {
+    "recording_id": "9fa160dc-7843-4efe-b72f-b1fcd0f4cbe6",
+    "title": "Walk Like an Egyptian",
+    "length_ms": 184266,
+    "first_release_date": "1999",
+    "artist_credit": "The Bangles",
+    "artists": [
+      {
+        "name": "The Bangles",
+        "mbid": "f31ec2ac-9071-4306-acd1-d2c8321033b5"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "34f9b07f-4f22-4791-9932-e8b9f746a308",
+        "title": "Simply the Best Party Hits",
+        "date": "1999",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "51108f50-3deb-4c3b-a6d0-53c8d4c229c4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "e75a20e4-67e3-3e73-9f55-2c68932b81fb",
+      "title": "Walk Like an Egyptian",
+      "iswcs": [
+        "T-801.403.336-5"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Liam Sternberg",
+          "mbid": "cf6d4688-1475-4e48-8b88-9cf1d8875ac4"
+        },
+        {
+          "role": "lyricist",
+          "name": "Liam Sternberg",
+          "mbid": "cf6d4688-1475-4e48-8b88-9cf1d8875ac4"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/21929",
+        "http://www.songfacts.com/detail.php?id=595",
+        "https://www.wikidata.org/wiki/Q1885339"
+      ]
+    },
+    "main_artist": {
+      "name": "The Bangles",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Los Angeles"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

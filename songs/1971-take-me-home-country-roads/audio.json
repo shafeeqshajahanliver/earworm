@@ -1,0 +1,83 @@
+{
+  "id": "1971-take-me-home-country-roads",
+  "preview": {
+    "service": "deezer",
+    "track_id": 82697686,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USRC11100481",
+    "title": "Take Me Home, Country Roads (Original Version)",
+    "artist": "John Denver",
+    "album": "Poems, Prayers and Promises",
+    "track_duration_s": 188,
+    "link": "https://www.deezer.com/track/82697686",
+    "duration_matched_to": "musicbrainz recording length (190s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 82.3,
+    "tempo_bpm_grid": 82.7,
+    "tempo_candidates_bpm": [
+      83.4,
+      161.5,
+      172.3
+    ],
+    "beats_detected": 37,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.885,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.785,
+    "chroma_profile": [
+      0.303,
+      0.587,
+      0.369,
+      0.319,
+      0.98,
+      0.409,
+      0.662,
+      0.366,
+      0.519,
+      1.0,
+      0.378,
+      0.591
+    ],
+    "rms_dbfs": -15.6,
+    "rms_dbfs_p95_frame": -13.19,
+    "peak_dbfs": -2.64,
+    "loudness_lufs_approx": -14.4,
+    "spectral_centroid_hz_mean": 2226.6,
+    "spectral_centroid_hz_median": 2084.7,
+    "onsets": 66,
+    "onset_density_per_s": 2.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 82697686",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 164.1,
+    "gain": -12.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/82697686",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (164.1): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USRC17407741: version: Take Me Home, Country Roads (Live)",
+    "deezer 769749602: duration 197s matches no reference length",
+    "deezer 8098841: version (Take Me Home, Country Roads (Live at Five Seasons Center, Cedar Rapids, IA - December 1987))",
+    "deezer 964455: version (Take Me Home, Country Roads (Live at the Sydney Opera House, Australia - November 1977))",
+    "deezer 965922: version (Take Me Home, Country Roads (Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974))",
+    "deezer 1146162002: version (Take Me Home, Country Roads)",
+    "deezer 1479895: duration 257s matches no reference length",
+    "deezer 652403352: version (Take Me Home, Country Roads (Live at the Palladium, London, UK - April 1976))",
+    "deezer 2365834685: version (Take Me Home, Country Roads (Live))"
+  ]
+}
