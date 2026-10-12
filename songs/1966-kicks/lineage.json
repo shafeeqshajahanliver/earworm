@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/55161",
+    "title": "Kicks",
+    "performer": "Paul Revere & The Raiders",
+    "is_original": true,
+    "first_release_date": "1966-05",
+    "releases": [
+      {
+        "title": "Midnight Ride",
+        "uri": "https://api.secondhandsongs.com/release/3218",
+        "performer": "Paul Revere & The Raiders"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 30,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/55161",
+    "title": "Kicks",
+    "language": "English",
+    "writers": [
+      "Cynthia Weil",
+      "Barry Mann"
+    ],
+    "original_performer": "Paul Revere & The Raiders",
+    "versions": 31,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Quando Fôr Bem Tarde",
+        "uri": "https://api.secondhandsongs.com/work/194228"
+      },
+      {
+        "title": "Kicks",
+        "uri": "https://api.secondhandsongs.com/work/139064"
+      }
+    ]
+  }
+}

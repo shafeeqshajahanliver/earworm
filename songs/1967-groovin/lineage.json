@@ -1,0 +1,78 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/42631",
+    "title": "Groovin'",
+    "performer": "The Young Rascals",
+    "is_original": true,
+    "first_release_date": "1967-04-06",
+    "releases": [
+      {
+        "title": "Groovin'",
+        "uri": "https://api.secondhandsongs.com/release/8419",
+        "performer": "The Young Rascals"
+      },
+      {
+        "title": "Groovin'",
+        "uri": "https://api.secondhandsongs.com/release/161413",
+        "performer": "The Young Rascals"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 102,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/42631",
+    "title": "Groovin'",
+    "language": "English",
+    "writers": [
+      "Eddie Brigati",
+      "Felix Cavaliere"
+    ],
+    "original_performer": "The Young Rascals",
+    "versions": 103,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kulkee",
+        "uri": "https://api.secondhandsongs.com/work/126925"
+      },
+      {
+        "title": "Simma",
+        "uri": "https://api.secondhandsongs.com/work/145620"
+      },
+      {
+        "title": "Groovin'",
+        "uri": "https://api.secondhandsongs.com/work/151611"
+      },
+      {
+        "title": "Groovin'",
+        "uri": "https://api.secondhandsongs.com/work/151621"
+      },
+      {
+        "title": "Tuuleen",
+        "uri": "https://api.secondhandsongs.com/work/174734"
+      },
+      {
+        "title": "Groovin'",
+        "uri": "https://api.secondhandsongs.com/work/159420"
+      },
+      {
+        "title": "Groovin'",
+        "uri": "https://api.secondhandsongs.com/work/313149"
+      },
+      {
+        "title": "Groovin'",
+        "uri": "https://api.secondhandsongs.com/work/313717"
+      },
+      {
+        "title": "Cansado",
+        "uri": "https://api.secondhandsongs.com/work/325295"
+      }
+    ]
+  }
+}

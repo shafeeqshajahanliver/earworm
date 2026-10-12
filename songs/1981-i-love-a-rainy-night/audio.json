@@ -1,0 +1,72 @@
+{
+  "id": "1981-i-love-a-rainy-night",
+  "preview": {
+    "service": "deezer",
+    "track_id": 662609942,
+    "matched_by": "isrc",
+    "isrc": "USEE10250951",
+    "title": "I Love a Rainy Night",
+    "artist": "Eddie Rabbitt",
+    "album": "The Complete Elektra Albums",
+    "track_duration_s": 190,
+    "link": "https://www.deezer.com/track/662609942",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 131.6,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      66.3,
+      136.0
+    ],
+    "beats_detected": 63,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.485,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.435,
+    "chroma_profile": [
+      0.769,
+      0.561,
+      0.614,
+      0.571,
+      0.737,
+      0.783,
+      0.797,
+      1.0,
+      0.809,
+      0.911,
+      0.73,
+      0.673
+    ],
+    "rms_dbfs": -20.49,
+    "rms_dbfs_p95_frame": -14.45,
+    "peak_dbfs": -3.46,
+    "loudness_lufs_approx": -20.0,
+    "spectral_centroid_hz_mean": 2960.0,
+    "spectral_centroid_hz_median": 2791.1,
+    "onsets": 116,
+    "onset_density_per_s": 3.868,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 662609942",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 131.2,
+    "gain": -18.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/662609942",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc UKU6H1956034: matched but no preview available (readable=False)"
+  ]
+}

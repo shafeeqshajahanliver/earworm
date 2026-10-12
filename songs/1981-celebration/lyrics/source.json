@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 56628,
+  "kind": "synced",
+  "matched": {
+    "track": "Celebration",
+    "artist": "Kool & The Gang",
+    "album": "Celebrate!",
+    "duration_s": 299.0
+  },
+  "duration_matched_to": "musicbrainz recording length (300s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 300.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 298.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 222.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 257.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 300.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36846918 (Celebration / Kool & The Gang / Encyclopedia Of Disco & Dance Music - Vol. 1 - CD 2, 202.0s): duration matches no reference length",
+    "lrclib 37123684 (Celebration / Kool & The Gang / 6 Musica  25-05-2006, 209.0s): duration matches no reference length",
+    "lrclib 19420776 (Celebration / Kool & the Gang / Kool & The Gang, 278.0s): duration matches no reference length",
+    "lrclib 27719237 (Celebration / Kool & The Gang / Kool & The Gang, 280.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

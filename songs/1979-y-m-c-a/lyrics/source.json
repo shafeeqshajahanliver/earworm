@@ -1,0 +1,77 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 30049717,
+  "kind": "synced",
+  "matched": {
+    "track": "Y.M.C.A.",
+    "artist": "Village People",
+    "album": "Cruisin'",
+    "duration_s": 407.0
+  },
+  "duration_matched_to": "musicbrainz recording length (407s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 407.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 228.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 229.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 287.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 407.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37347456 (Y.M.C.A. (12″ version) / Village People / The Best of Village People, 407.0s): live/remix/other version",
+    "lrclib 34440883 (Y.M.C.A. [12\" Version] / Village People / The Best of Village People, 233.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 35448121 (Y.M.C.A. (12\" version) / Village People / Disco: The Long Versions  (Compilation), 286.0s): live/remix/other version",
+    "lrclib 24588621 (Y.M.C.A. (12\" Version) / Village People / 20th Century Masters: The Millennium Collection: Best of The Village People, 407.373333s): live/remix/other version",
+    "lrclib 24834744 (Y.M.C.A. (12\" Version) / Village People / The Best Of The Village People, 407.04s): live/remix/other version",
+    "lrclib 24454860 (Y.M.C.A. (12\" Version) / Village People / The Best of Village People, 407.0s): live/remix/other version",
+    "lrclib 28625815 (Y.M.C.A. [12'' Version] / Village People / Best Of, 407.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 28720615 (Y.M.C.A. [12\" Version] / Village People / Best of Village People, The, 407.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 25457000 (Y.M.C.A. (12\" Version) / Village People / The Best of, 406.488s): live/remix/other version",
+    "lrclib 25764539 (Y.M.C.A. [12\" Version] / Village People / The Best of Village People [Casablanca], 406.6673s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 29484166 (Y.M.C.A. (12\" Version) / Village People / Gold CD 3, 402.0s): live/remix/other version",
+    "lrclib 32973021 (Y.M.C.A. (12\" version) / Village People / Y.M.C.A., 406.0s): live/remix/other version",
+    "lrclib 38559347 (Y.M.C.A. (12″ version) / Village People / Gold, 402.0s): live/remix/other version",
+    "lrclib 38395957 (Y.M.C.A. (12' Version) / Village People / Gold - Disc 3, 402.0s): live/remix/other version",
+    "lrclib 38196900 (Y.M.C.A. [12\" Version] / Village People / The Best of Village People [Ca, 407.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 36978483 (Y.M.C.A. (12\" Version) / The Village People / 20th Century Masters, 407.0s): live/remix/other version",
+    "lrclib 37450845 (Y.M.C.A. (12\" Version) / The Village People / The Best Of The Village People, 407.0s): live/remix/other version",
+    "lrclib 37174725 (Y.M.C.A / Village People / German Top 100 Jahrescharts 1979, 202.0s): duration matches no reference length",
+    "lrclib 37139954 (Y.M.C.A. / Village People / Disco Mania, 244.0s): duration matches no reference length",
+    "lrclib 37192700 (Y․M․C․A․ / Village People / Blame It On The Boogie, 201.0s): duration matches no reference length",
+    "lrclib 37165260 (Y.M.C.A. / Village People / Fetenkult - Oktoberfest Hits 2, 304.0s): duration matches no reference length",
+    "lrclib 37103562 (Y.M.C.A. / Village People / The Best Disco Album in the World ...Ever!, 220.0s): duration matches no reference length",
+    "lrclib 37061252 (Y.M.C.A. / Village People / Mastermix - Extended Floor Fillers, 353.0s): duration matches no reference length",
+    "lrclib 37291020 (Y.M.C.A. / Village People / Discomania, 244.0s): duration matches no reference length",
+    "lrclib 37301302 (Y.M.C.A. / Village People / The Album Collection 1977-1985  (Compilation), 484.0s): duration matches no reference length",
+    "lrclib 35853199 (Y.M.C.A. / Village People / Y.M.C.A., 280.0s): duration matches no reference length",
+    "lrclib 10695858 (Y.M.C.A. / Village People / Y.M.C.A., 240.0s): duration matches no reference length",
+    "lrclib 28418418 (Y.M.C.A. (Millenium Mix Edit) / Village People / Village People - Y.M.C.A. (Millenium Mix), 241.0s): live/remix/other version",
+    "lrclib 25301633 (Y.M.C.A. / Village People / Y.M.C.A. / Women, 222.048812s): duration matches no reference length",
+    "lrclib 23387461 (Y.M.C.A. (Single Version) / Village People / Y.M.C.A., 241.214694s): duration matches no reference length",
+    "lrclib 17906410 (Y․M․C․A․ / Village People / Y․M․C․A․ ⁄ The Women, 222.048812s): duration matches no reference length",
+    "lrclib 9915444 (Y.M.C.A. / Village People / Y.M.C.A. / Male Stripper, 203.0s): duration matches no reference length",
+    "lrclib 36070068 (Y.M.C.A / VILLAGE PEOPLE / THE BEST OF VILLAGE PEOPLE [M, 201.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

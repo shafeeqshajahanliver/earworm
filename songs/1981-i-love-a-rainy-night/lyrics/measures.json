@@ -1,0 +1,41 @@
+{
+  "id": "1981-i-love-a-rainy-night",
+  "lyrics_kind": "synced",
+  "lrclib_id": 9672868,
+  "lines": 56,
+  "words": 344,
+  "unique_words": 64,
+  "type_token_ratio": 0.186,
+  "repeated_line_share": 0.571,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.212,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i love a rainy night",
+  "title_phrase_occurrences": 30,
+  "pronouns": {
+    "first_singular": 53,
+    "second": 6,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.16,
+  "last_line_s": 186.54,
+  "sung_time_s": 160.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 129.0,
+  "words_per_minute_track": 108.3,
+  "longest_gap_between_lines_s": 19.21,
+  "longest_gap_starts_at_s": 108.09,
+  "first_repeated_block": {
+    "first_at_s": 10.94,
+    "recurs_at_s": 62.1,
+    "lines": [
+      "I love a rainy night",
+      "I love to hear the thunder"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 9672868",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

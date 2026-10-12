@@ -1,0 +1,71 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/10253",
+    "title": "Windy",
+    "performer": "The Association",
+    "is_original": true,
+    "first_release_date": "1967-05-01",
+    "releases": [
+      {
+        "title": "Insight Out",
+        "uri": "https://api.secondhandsongs.com/release/4567",
+        "performer": "The Association"
+      },
+      {
+        "title": "Windy",
+        "uri": "https://api.secondhandsongs.com/release/141836",
+        "performer": "The Association"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Windy",
+      "uri": "https://api.secondhandsongs.com/work/10253"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/10253",
+    "title": "Windy",
+    "language": "English",
+    "writers": [
+      "Ruthann Friedman"
+    ],
+    "original_performer": "Ruthann Friedman",
+    "versions": 75,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Windy",
+        "uri": "https://api.secondhandsongs.com/work/177994"
+      },
+      {
+        "title": "Windy",
+        "uri": "https://api.secondhandsongs.com/work/30299"
+      },
+      {
+        "title": "Vinden",
+        "uri": "https://api.secondhandsongs.com/work/134893"
+      },
+      {
+        "title": "Kuuluthan mulle windy",
+        "uri": "https://api.secondhandsongs.com/work/152677"
+      },
+      {
+        "title": "Windy",
+        "uri": "https://api.secondhandsongs.com/work/309448"
+      }
+    ]
+  }
+}

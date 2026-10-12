@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37451234,
+  "kind": "synced",
+  "matched": {
+    "track": "Lady",
+    "artist": "Kenny Rogers",
+    "album": "Kenny Rogers’ Greatest Hits",
+    "duration_s": 231.0
+  },
+  "duration_matched_to": "musicbrainz recording length (232s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 231.8,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 231.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 234.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36842522 (Lady / Kenny Rogers / NostalgicPod Library, 213.0s): duration matches no reference length",
+    "lrclib 37189543 (Lady / Kenny Rogers / 1981 - Top 100, 218.0s): duration matches no reference length",
+    "lrclib 13492454 (Lady / Kenny Rogers / Kenny Rogers, 224.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1980-coming-up",
+  "preview": {
+    "service": "deezer",
+    "track_id": 126367807,
+    "matched_by": "isrc",
+    "isrc": "GBCCS1000164",
+    "title": "Coming Up",
+    "artist": "Paul McCartney",
+    "album": "Pure McCartney",
+    "track_duration_s": 231,
+    "link": "https://www.deezer.com/track/126367807",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 128.9,
+    "tempo_bpm_grid": 129.2,
+    "tempo_candidates_bpm": [
+      129.2,
+      64.6,
+      43.1
+    ],
+    "beats_detected": 65,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.827,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.687,
+    "chroma_profile": [
+      0.75,
+      0.723,
+      0.7,
+      1.0,
+      0.674,
+      0.805,
+      0.724,
+      0.882,
+      0.623,
+      0.634,
+      0.918,
+      0.588
+    ],
+    "rms_dbfs": -12.56,
+    "rms_dbfs_p95_frame": -8.65,
+    "peak_dbfs": 0.04,
+    "loudness_lufs_approx": -11.99,
+    "spectral_centroid_hz_mean": 1690.5,
+    "spectral_centroid_hz_median": 1708.8,
+    "onsets": 113,
+    "onset_density_per_s": 3.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 126367807",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 128.8,
+    "gain": -12,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/126367807",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBCCS2600011: title/artist mismatch: Coming Up / Wings",
+    "deezer isrc GBCCS0100406: matched but no preview available (readable=False)"
+  ]
+}

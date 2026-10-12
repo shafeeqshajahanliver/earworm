@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 2546265,
+  "kind": "synced",
+  "matched": {
+    "track": "Coming Up",
+    "artist": "Paul Mccartney",
+    "album": "Mccartney Ii",
+    "duration_s": 234.0
+  },
+  "duration_matched_to": "musicbrainz recording length (233s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 233.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 231.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 229.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 250.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 335.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37521790 (Coming Up / Paul McCartney / Back In The U.S. Live 2002 1, 206.0s): live/remix/other version",
+    "lrclib 37402412 (Coming Up / Paul McCartney / McCartney II, 217.0s): duration matches no reference length",
+    "lrclib 37235953 (Coming Up / Paul McCartney / Back In The World [Disc 1], 208.0s): duration matches no reference length",
+    "lrclib 35129168 (Coming Up / Paul McCartney / All The Best (UK Version) [44.1-16 Tidal], 231.0s): live/remix/other version",
+    "lrclib 33409074 (Coming Up / Paul McCartney / Get Back (Ultimate Edition), 328.0s): duration matches no reference length",
+    "lrclib 36278799 (Coming Up / Paul McCartney / Back in the World, 210.0s): duration matches no reference length",
+    "lrclib 23120074 (Coming Up (live) / Paul McCartney / Paul McCartney, 203.70285s): live/remix/other version",
+    "lrclib 23609883 (Coming Up / Paul McCartney / Coming Up, 208.953469s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

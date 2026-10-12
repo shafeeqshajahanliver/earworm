@@ -1,0 +1,72 @@
+{
+  "id": "1981-jessies-girl",
+  "preview": {
+    "service": "deezer",
+    "track_id": 964603,
+    "matched_by": "isrc",
+    "isrc": "USRC18108188",
+    "title": "Jessie's Girl",
+    "artist": "Rick Springfield",
+    "album": "The Best Of Rick Springfield",
+    "track_duration_s": 193,
+    "link": "https://www.deezer.com/track/964603",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 133.2,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      129.2,
+      89.1,
+      66.3
+    ],
+    "beats_detected": 64,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.892,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.697,
+    "chroma_profile": [
+      0.562,
+      0.643,
+      1.0,
+      0.653,
+      0.724,
+      0.606,
+      0.702,
+      0.687,
+      0.674,
+      1.0,
+      0.672,
+      0.758
+    ],
+    "rms_dbfs": -13.5,
+    "rms_dbfs_p95_frame": -9.16,
+    "peak_dbfs": 0.23,
+    "loudness_lufs_approx": -11.8,
+    "spectral_centroid_hz_mean": 2679.4,
+    "spectral_centroid_hz_median": 2471.5,
+    "onsets": 134,
+    "onset_density_per_s": 4.468,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 964603",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 131.7,
+    "gain": -10.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/964603",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc AUDD32001059: matched but no preview available (readable=False)"
+  ]
+}

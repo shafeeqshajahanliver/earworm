@@ -1,0 +1,70 @@
+{
+  "id": "1981-kiss-on-my-list",
+  "preview": {
+    "service": "deezer",
+    "track_id": 576190,
+    "matched_by": "isrc",
+    "isrc": "USRC18007954",
+    "title": "Kiss on My List",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Rock 'N Soul, Part 1 (Expanded Edition)",
+    "track_duration_s": 232,
+    "link": "https://www.deezer.com/track/576190",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 121.9,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      80.7,
+      61.5
+    ],
+    "beats_detected": 61,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.843,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.757,
+    "chroma_profile": [
+      1.0,
+      0.592,
+      0.707,
+      0.585,
+      0.541,
+      0.69,
+      0.458,
+      0.811,
+      0.541,
+      0.541,
+      0.482,
+      0.572
+    ],
+    "rms_dbfs": -11.07,
+    "rms_dbfs_p95_frame": -7.64,
+    "peak_dbfs": 0.69,
+    "loudness_lufs_approx": -10.43,
+    "spectral_centroid_hz_mean": 2668.5,
+    "spectral_centroid_hz_median": 2550.8,
+    "onsets": 95,
+    "onset_density_per_s": 3.168,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 576190",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 122,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/576190",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

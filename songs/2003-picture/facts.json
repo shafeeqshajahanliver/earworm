@@ -1,0 +1,152 @@
+{
+  "id": "2003-picture",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Picture (song)",
+  "wikidata": {
+    "qid": "Q7191144",
+    "label": "Picture",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q158175",
+          "label": null
+        },
+        {
+          "qid": "Q200586",
+          "label": "Sheryl Crow"
+        },
+        {
+          "qid": "Q446735",
+          "label": "Allison Moorer"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q202440",
+          "label": "Atlantic Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2002-11-12"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q613408",
+          "label": "country rock"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q6671647",
+          "label": "Lonely Road of Faith"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q3655493",
+          "label": "Feel Like Makin' Love"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "e72accf9-21ae-314a-98a0-d6c1c6d5b912"
+      ],
+      "musicbrainz_release_group_id": [
+        "254c15ab-1d50-322e-a35c-a5bc24655a83"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 3073e4b1-ae97-4469-8c3e-6aca393a17c3 (2002)",
+  "musicbrainz": {
+    "recording_id": "9761c8a8-1e0a-43b2-9a7d-ecd1a30f431f",
+    "title": "Picture",
+    "length_ms": 254000,
+    "first_release_date": "2002-11",
+    "artist_credit": "Kid Rock feat. Sheryl Crow",
+    "artists": [
+      {
+        "name": "Kid Rock",
+        "mbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+      },
+      {
+        "name": "Sheryl Crow",
+        "mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "rock",
+      "pop"
+    ],
+    "releases": [
+      {
+        "id": "81249b8a-686d-4565-8147-16bd9aa0f868",
+        "title": "Picture",
+        "date": "2002",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "3073e4b1-ae97-4469-8c3e-6aca393a17c3",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "7f2cffcf-337c-4c15-a520-0406ac3c5bdd",
+        "title": "Promo Only: Mainstream Radio, December 2002",
+        "date": "2002-11",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "5d216f39-1514-37a7-99f6-ccb089b98d21",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "e72accf9-21ae-314a-98a0-d6c1c6d5b912",
+      "title": "Picture",
+      "iswcs": [
+        "T-071.358.513-7"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Sheryl Crow",
+          "mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f"
+        },
+        {
+          "role": "composer",
+          "name": "Kid Rock",
+          "mbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+        },
+        {
+          "role": "writer",
+          "name": "Kid Rock",
+          "mbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/128708",
+        "https://www.wikidata.org/wiki/Q7191144"
+      ]
+    },
+    "main_artist": {
+      "name": "Kid Rock",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Romeo"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

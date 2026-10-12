@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37034543,
+  "kind": "synced",
+  "matched": {
+    "track": "Crazy Little Thing Called Love",
+    "artist": "Queen",
+    "album": "The Game (5.1 24-96)",
+    "duration_s": 164.0
+  },
+  "duration_matched_to": "musicbrainz recording length (164s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 163.706,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 163.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 165.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37020825 (Crazy Little Thing called Love / Queen / Queen On Fire - Live At The Bowl (Disk 2), 255.0s): live/remix/other version",
+    "lrclib 36989051 (Crazy Little Thing Called Love / Queen / The 3″ CD‐Singles, 175.0s): duration matches no reference length",
+    "lrclib 37008552 (Crazy Little Thing Called Love / Queen / Greatest Hits I II & III (The Platinum Collection), 297.0s): duration matches no reference length",
+    "lrclib 37111554 (Crazy Little Thing Called Love / Queen / Greatest Hits, 292.0s): duration matches no reference length",
+    "lrclib 37172616 (Crazy Little Thing Called Love / Queen / Greatest Karaoke Hits  Vol. 1, 162.0s): live/remix/other version",
+    "lrclib 37022965 (Crazy Little Thing Called Love / Queen / 1982.08.13 Chicago, 354.0s): duration matches no reference length",
+    "lrclib 37023070 (Crazy Little Thing Called Love / Queen / 1982.08.09 Meadowlands, 333.0s): duration matches no reference length",
+    "lrclib 37023297 (Crazy Little Thing Called Love / Queen / 1979.12.26 London, 303.0s): duration matches no reference length",
+    "lrclib 37100426 (Crazy Little Thing Called Love / Queen / Greatest Hits, Vols. 1-2 (1 of 2), 229.0s): duration matches no reference length",
+    "lrclib 37076981 (Crazy Little Thing Called Love / Queen / Queen at Live Aid (Live at Wembley Stadium, 13th July 1985) [24-44.1], 237.0s): live/remix/other version",
+    "lrclib 19278150 (Crazy Little Thing Called Love / Queen / Crazy Little Thing Called Love, 172.885s): duration matches no reference length",
+    "lrclib 828007 (Crazy Little Thing Called Love / Queen / Crazy Little Thing Called Love, 255.0s): duration matches no reference length",
+    "lrclib 9888675 (Crazy Little Thing Called Love / Queen / Crazy Little Thing Called Love, 175.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

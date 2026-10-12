@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36238115,
+  "kind": "synced",
+  "matched": {
+    "track": "Another Brick in the Wall, Part II",
+    "artist": "Pink Floyd",
+    "album": "Another Brick in the Wall (Part II) / Run Like Hell",
+    "duration_s": 190.0
+  },
+  "duration_matched_to": "musicbrainz recording length (190s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 190.226,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 78.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 191.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 239.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 508.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 6,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34684371 (Another Brick in the Wall, Part II / Pink Floyd / Delicate Sound of Thunder, 290.0s): duration matches no reference length",
+    "lrclib 34343714 (Another Brick in the Wall, Part II / Pink Floyd / Pink Floyd, 364.0s): duration matches no reference length",
+    "lrclib 34567189 (Another Brick in the Wall, Part II / Pink Floyd / 1980-08-06: Bars in the Window: Earl's Court, London, England, UK, 379.0s): duration matches no reference length",
+    "lrclib 34690614 (Another Brick in the Wall, Part II / Pink Floyd / Off the Wall, 225.0s): duration matches no reference length",
+    "lrclib 33365468 (Another Brick In The Wall, Part II / Pink Floyd / Pulse (CD1) [Live], 428.0s): live/remix/other version",
+    "lrclib 36251606 (Another Brick In The Wall Part II / Pink Floyd / A Foot In The Door The Best Of Pink Floyd, 222.0s): duration matches no reference length",
+    "lrclib 36742207 (Another Brick in the Wall, Part II / Pink Floyd / Delicate Sound of Thunder, 332.0s): duration matches no reference length",
+    "lrclib 33966584 (Another Brick in the Wall, Part II / Pink Floyd / 1980-08-06: Earls Court: Live Wall: Earls Court, London, England, UK, 377.0s): live/remix/other version",
+    "lrclib 24138263 (Another Brick in the Wall, Part II / Pink Floyd / Another Brick in the Wall, Part II, 197.0s): duration matches no reference length",
+    "lrclib 39015195 (Another Brick In The Wall Part II / Pink Floyd / Another Brick In The Wall, 332.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,37 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 141945,
+  "kind": "synced",
+  "matched": {
+    "track": "It's Still Rock and Roll to Me",
+    "artist": "Billy Joel",
+    "album": "Glass Houses",
+    "duration_s": 176.0
+  },
+  "duration_matched_to": "musicbrainz recording length (177s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 176.973,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 176.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37174291 (It’s Still Rock and Roll to Me / Billy Joel / Joel: Greatest Hits Volume I & Volume II (disc 2: 1978-1985), 253.0s): duration matches no reference length",
+    "lrclib 37310426 (It’s Still Rock and Roll to Me / Billy Joel / Face to Face Live in Japan 1998, 259.0s): live/remix/other version",
+    "lrclib 37367678 (It's Still Rock and Roll to Me / Billy Joel / 2000 Years The Millenium Concert CD2, 248.0s): duration matches no reference length",
+    "lrclib 31978613 (It's Still Rock And Roll To ME / Billy Joel / Billy Joel Souvenir, 281.0s): duration matches no reference length",
+    "lrclib 23567118 (It’s Still Rock and Roll to Me / Billy Joel / The Essential Billy Joel, 280.8399999s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

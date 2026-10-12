@@ -1,0 +1,82 @@
+{
+  "id": "1981-celebration",
+  "preview": {
+    "service": "deezer",
+    "track_id": 95873824,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USPR38007190",
+    "title": "Celebration",
+    "artist": "Kool & The Gang",
+    "album": "Celebrate!",
+    "track_duration_s": 298,
+    "link": "https://www.deezer.com/track/95873824",
+    "duration_matched_to": "musicbrainz recording length (300s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 121.5,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      117.5,
+      60.1
+    ],
+    "beats_detected": 59,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.686,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.685,
+    "chroma_profile": [
+      0.608,
+      0.584,
+      0.592,
+      0.863,
+      0.674,
+      0.653,
+      0.69,
+      0.717,
+      1.0,
+      0.698,
+      0.739,
+      0.62
+    ],
+    "rms_dbfs": -17.53,
+    "rms_dbfs_p95_frame": -11.54,
+    "peak_dbfs": 0.09,
+    "loudness_lufs_approx": -17.41,
+    "spectral_centroid_hz_mean": 2460.3,
+    "spectral_centroid_hz_median": 2294.1,
+    "onsets": 123,
+    "onset_density_per_s": 4.102,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 95873824",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -17.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/95873824",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Ab major and Ab minor"
+  ],
+  "rejected_candidates": [
+    "deezer 3466064011: duration 277s matches no reference length",
+    "deezer 3423172631: version (Celebration (Dj Crazy Jersey Club Remix))",
+    "deezer 99542388: version (Celebration)",
+    "deezer 543098702: version (Celebration (Jason's Radio Remix))",
+    "deezer 75780675: version (Celebration (Re-Recorded In Stereo))",
+    "deezer 1368711: version (Celebration)",
+    "deezer 78268696: version (Celebration (Live))",
+    "deezer 3804524882: duration 796s matches no reference length"
+  ]
+}

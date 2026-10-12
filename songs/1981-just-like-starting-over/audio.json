@@ -1,0 +1,75 @@
+{
+  "id": "1981-just-like-starting-over",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7163150,
+    "matched_by": "isrc",
+    "isrc": "USTO11000015",
+    "title": "(Just Like) Starting Over (Remastered 2010)",
+    "artist": "John Lennon",
+    "album": "Double Fantasy: Stripped Down",
+    "track_duration_s": 236,
+    "link": "https://www.deezer.com/track/7163150",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 99.1,
+    "tempo_bpm_grid": 99.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      49.7,
+      103.4
+    ],
+    "beats_detected": 39,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.795,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.767,
+    "chroma_profile": [
+      0.781,
+      0.802,
+      0.743,
+      0.779,
+      0.947,
+      0.76,
+      0.835,
+      0.711,
+      0.853,
+      1.0,
+      0.8,
+      0.846
+    ],
+    "rms_dbfs": -11.89,
+    "rms_dbfs_p95_frame": -8.41,
+    "peak_dbfs": 0.64,
+    "loudness_lufs_approx": -11.27,
+    "spectral_centroid_hz_mean": 2540.9,
+    "spectral_centroid_hz_median": 2470.2,
+    "onsets": 95,
+    "onset_density_per_s": 3.168,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7163150",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7163150",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between A major and E major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USTO10000002: matched but no preview available (readable=False)",
+    "deezer isrc USTO18800002: matched but no preview available (readable=False)"
+  ]
+}

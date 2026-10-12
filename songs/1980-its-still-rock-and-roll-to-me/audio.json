@@ -1,0 +1,72 @@
+{
+  "id": "1980-its-still-rock-and-roll-to-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 625836,
+    "matched_by": "isrc",
+    "isrc": "USSM18000211",
+    "title": "It's Still Rock and Roll to Me",
+    "artist": "Billy Joel",
+    "album": "Glass Houses",
+    "track_duration_s": 176,
+    "link": "https://www.deezer.com/track/625836",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 142.6,
+    "tempo_bpm_grid": 141.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      71.8,
+      136.0
+    ],
+    "beats_detected": 57,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.811,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.597,
+    "chroma_profile": [
+      0.951,
+      0.836,
+      0.863,
+      0.808,
+      1.0,
+      0.913,
+      0.766,
+      0.862,
+      0.835,
+      0.959,
+      0.893,
+      0.902
+    ],
+    "rms_dbfs": -11.23,
+    "rms_dbfs_p95_frame": -6.65,
+    "peak_dbfs": 0.85,
+    "loudness_lufs_approx": -11.49,
+    "spectral_centroid_hz_mean": 2214.1,
+    "spectral_centroid_hz_median": 2244.2,
+    "onsets": 145,
+    "onset_density_per_s": 4.835,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 625836",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 141.1,
+    "gain": -12.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/625836",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USSM11100761: matched but no preview available (readable=False)"
+  ]
+}

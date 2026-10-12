@@ -1,0 +1,75 @@
+{
+  "id": "1980-crazy-little-thing-called-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4329888352,
+    "matched_by": "isrc",
+    "isrc": "GBCEE0100120",
+    "title": "Crazy Little Thing Called Love",
+    "artist": "Queen",
+    "album": "Greatest Hits - We Will Rock You Edition",
+    "track_duration_s": 163,
+    "link": "https://www.deezer.com/track/4329888352",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 77.3,
+    "tempo_bpm_grid": 77.1,
+    "tempo_candidates_bpm": [
+      78.3,
+      152.0,
+      161.5
+    ],
+    "beats_detected": 39,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.574,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.449,
+    "chroma_profile": [
+      0.734,
+      0.607,
+      0.854,
+      0.786,
+      1.0,
+      0.894,
+      0.797,
+      0.897,
+      0.825,
+      0.905,
+      0.78,
+      0.82
+    ],
+    "rms_dbfs": -13.45,
+    "rms_dbfs_p95_frame": -10.19,
+    "peak_dbfs": -0.04,
+    "loudness_lufs_approx": -12.49,
+    "spectral_centroid_hz_mean": 2695.7,
+    "spectral_centroid_hz_median": 2570.8,
+    "onsets": 109,
+    "onset_density_per_s": 3.635,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4329888352",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4329888352",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBCEE0900134: matched but no preview available (readable=False)",
+    "deezer isrc GBCEE8000029: matched but no preview available (readable=False)",
+    "deezer isrc GBCEE9300013: matched but no preview available (readable=False)",
+    "deezer isrc GBUM71029612: matched but no preview available (readable=False)"
+  ]
+}

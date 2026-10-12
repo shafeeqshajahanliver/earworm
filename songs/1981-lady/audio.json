@@ -1,0 +1,72 @@
+{
+  "id": "1981-lady",
+  "preview": {
+    "service": "deezer",
+    "track_id": 555636562,
+    "matched_by": "isrc",
+    "isrc": "USCN10500371",
+    "title": "Lady",
+    "artist": "Kenny Rogers",
+    "album": "The Best Of Kenny Rogers: Through The Years",
+    "track_duration_s": 231,
+    "link": "https://www.deezer.com/track/555636562",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 67.9,
+    "tempo_bpm_grid": 68.0,
+    "tempo_candidates_bpm": [
+      68.0,
+      136.0,
+      129.2
+    ],
+    "beats_detected": 34,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.817,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.7,
+    "chroma_profile": [
+      0.453,
+      0.643,
+      0.487,
+      0.97,
+      0.422,
+      0.674,
+      0.656,
+      0.456,
+      0.768,
+      0.438,
+      1.0,
+      0.598
+    ],
+    "rms_dbfs": -11.99,
+    "rms_dbfs_p95_frame": -7.28,
+    "peak_dbfs": -0.24,
+    "loudness_lufs_approx": -11.36,
+    "spectral_centroid_hz_mean": 1900.1,
+    "spectral_centroid_hz_median": 1752.0,
+    "onsets": 77,
+    "onset_density_per_s": 2.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 555636562",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 135.55,
+    "gain": -11.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/555636562",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (135.6): octave error likely"
+  ],
+  "rejected_candidates": []
+}

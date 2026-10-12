@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 24950901,
+  "kind": "synced",
+  "matched": {
+    "track": "Jessie's Girl",
+    "artist": "Rick Springfield",
+    "album": "Jessie’s Girl 2",
+    "duration_s": 194.35102
+  },
+  "duration_matched_to": "musicbrainz recording length (194s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 194.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 193.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 194.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34731999 (Jessie's Girl / Rick Springfield / Working Class Dog, 148.0s): duration matches no reference length",
+    "lrclib 33600866 (Jessie's Girl / Rick Springfield / Wildflower Festival, 271.0s): duration matches no reference length",
+    "lrclib 36688638 (Jessie's Girl / Rick Springfield / Jessie's Girl, 29.0s): duration matches no reference length",
+    "lrclib 23452798 (Jessie's Girl (Orchestral Version) / Rick Springfield / Jessie's Girl, 195.0s): live/remix/other version",
+    "lrclib 12994316 (Jessie's Girl (Main Version) / Rick Springfield / Jessie's Girl, 194.0s): live/remix/other version",
+    "lrclib 30441507 (Jessie's Girl (Orchestral Instrumental) / Rick Springfield / Jessie's Girl, 195.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}
