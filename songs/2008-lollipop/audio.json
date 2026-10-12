@@ -1,0 +1,75 @@
+{
+  "id": "2008-lollipop",
+  "preview": {
+    "service": "deezer",
+    "track_id": 884266,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USCM50800380",
+    "title": "Lollipop",
+    "artist": "Lil Wayne",
+    "album": "Lollipop",
+    "track_duration_s": 302,
+    "link": "https://www.deezer.com/track/884266",
+    "duration_matched_to": "musicbrainz recording length (302s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 148.0,
+    "tempo_bpm_grid": 147.7,
+    "tempo_candidates_bpm": [
+      152.0,
+      99.4,
+      143.6
+    ],
+    "beats_detected": 73,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.482,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.465,
+    "chroma_profile": [
+      0.798,
+      0.559,
+      0.714,
+      0.701,
+      0.64,
+      0.836,
+      0.662,
+      1.0,
+      0.88,
+      0.986,
+      0.736,
+      0.589
+    ],
+    "rms_dbfs": -9.92,
+    "rms_dbfs_p95_frame": -3.27,
+    "peak_dbfs": 1.26,
+    "loudness_lufs_approx": -12.88,
+    "spectral_centroid_hz_mean": 2159.1,
+    "spectral_centroid_hz_median": 2101.8,
+    "onsets": 125,
+    "onset_density_per_s": 4.168,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 884266",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 148.2,
+    "gain": -12.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/884266",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between G minor and F major"
+  ],
+  "rejected_candidates": [
+    "deezer 3705126292: version (Lollipop (FNMTV Live Performance))"
+  ]
+}

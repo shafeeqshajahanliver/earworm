@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1103835,
+  "kind": "synced",
+  "matched": {
+    "track": "No One",
+    "artist": "Alicia Keys",
+    "album": "As I Am",
+    "duration_s": 254.0
+  },
+  "duration_matched_to": "musicbrainz recording length (254s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 254.186,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 253.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 253.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37472377 (No One / Alicia Keys / Alicia Keys: As I Am, 246.0s): duration matches no reference length",
+    "lrclib 37131811 (No One / Alicia Keys / Sky Radio Powervrouwen Top 101 (2013), 246.0s): duration matches no reference length",
+    "lrclib 37284302 (No One / Alicia Keys / Billboard Top 100 Hits Of 2008, 246.0s): duration matches no reference length",
+    "lrclib 37377686 (No One / Alicia Keys / Now That's What I Call A Modern Songbook, 245.0s): duration matches no reference length",
+    "lrclib 37386611 (No One / Alicia Keys / Radio Monte Carlo, 236.0s): duration matches no reference length",
+    "lrclib 37396853 (No One / Alicia Keys / 12-12-12 The Concert For Sandy Relief, 442.0s): duration matches no reference length",
+    "lrclib 21440453 (No One / Alicia Keys / Alicia Keys - Essentials, 184.9436069s): duration matches no reference length",
+    "lrclib 31387518 (No One / Alicia Keys / Ms Alicia Keys, 224.0s): duration matches no reference length",
+    "lrclib 27173708 (No One (Instrumental) / Alicia Keys / Alicia Keys Videos, 247.0s): live/remix/other version",
+    "lrclib 33975498 (No One / Alicia Keys / Alicia Keys: Rehearsal Room, 264.0s): duration matches no reference length",
+    "lrclib 22228862 (No One / Alicia Keys / Alicia Keys - Mp3 Play, 112.172975s): duration matches no reference length",
+    "lrclib 24819072 (No One / Alicia Keys / Alicia Keys - VH1 Storytellers, 370.0s): duration matches no reference length",
+    "lrclib 28575475 (No One / Alicia Keys / Ms. Alicia Keys (Bootleg), 224.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}
