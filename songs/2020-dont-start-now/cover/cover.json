@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5ba758cb-345a-4335-bba5-71adc18e14d9",
+      "release_title": "Don’t Start Now",
+      "release_date": "2019-10-31",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/662ad4aa-d6c0-4710-be6f-712d40d778f9/27175184577-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/662ad4aa-d6c0-4710-be6f-712d40d778f9",
+      "image_id": 27175184577,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.931,
+        "saturation": 0.475,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#f6eb7f",
+            "share": 0.866
+          },
+          {
+            "hex": "#9a9455",
+            "share": 0.061
+          },
+          {
+            "hex": "#f5eb80",
+            "share": 0.039
+          },
+          {
+            "hex": "#fbf082",
+            "share": 0.024
+          },
+          {
+            "hex": "#f7eb7f",
+            "share": 0.009
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "aa366795-92d7-4d67-91fa-6741f82a4858",
+      "release_title": "Future Nostalgia",
+      "release_date": "2020-03-21",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Future Nostalgia",
+      "url": "http://coverartarchive.org/release/57bc5762-baa9-48d8-93ec-7858d8350880/25777832070-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/57bc5762-baa9-48d8-93ec-7858d8350880",
+      "image_id": 25777832070,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.357,
+        "saturation": 0.295,
+        "dark_share": 0.435,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.359
+          },
+          {
+            "hex": "#a9afbc",
+            "share": 0.261
+          },
+          {
+            "hex": "#7a5b5b",
+            "share": 0.219
+          },
+          {
+            "hex": "#271611",
+            "share": 0.117
+          },
+          {
+            "hex": "#000a0b",
+            "share": 0.044
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/cd/d4/25cdd423-4a23-1913-04ed-921a58cccb7d/190295000639.jpg/1200x1200bb.jpg",
+      "collection": "Future Nostalgia (The Moonlight Edition)",
+      "collection_id": 1552269067,
+      "track_id": 1552269070,
+      "artist_name": "Dua Lipa",
+      "release_date": "2019-10-31T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.346,
+        "saturation": 0.236,
+        "dark_share": 0.325,
+        "palette": [
+          {
+            "hex": "#4d6673",
+            "share": 0.313
+          },
+          {
+            "hex": "#050506",
+            "share": 0.266
+          },
+          {
+            "hex": "#8d9aa4",
+            "share": 0.216
+          },
+          {
+            "hex": "#2b3541",
+            "share": 0.162
+          },
+          {
+            "hex": "#020202",
+            "share": 0.043
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

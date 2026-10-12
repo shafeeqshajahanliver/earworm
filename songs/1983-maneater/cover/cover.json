@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9132d8bf-6dd8-30dd-bae2-fd7171391225",
+      "release_title": "Maneater",
+      "release_date": "1982",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3d8f4440-346d-4fef-9c29-67636abae87d/13927165332-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/3d8f4440-346d-4fef-9c29-67636abae87d",
+      "image_id": "13927165332",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.803,
+        "saturation": 0.502,
+        "dark_share": 0.036,
+        "palette": [
+          {
+            "hex": "#dc9773",
+            "share": 0.25
+          },
+          {
+            "hex": "#a23333",
+            "share": 0.242
+          },
+          {
+            "hex": "#c06f53",
+            "share": 0.235
+          },
+          {
+            "hex": "#e9b590",
+            "share": 0.166
+          },
+          {
+            "hex": "#f4d8c1",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "60617d21-4d43-3f4f-829f-eb933c562ba3",
+      "release_title": "H₂O",
+      "release_date": "1982",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "https://coverartarchive.org/release/884b4d12-3362-42cc-a5b2-c02c1d4e857b/39179571809-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/884b4d12-3362-42cc-a5b2-c02c1d4e857b",
+      "image_id": 39179571809,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.511,
+        "saturation": 0.653,
+        "dark_share": 0.12,
+        "palette": [
+          {
+            "hex": "#341a1b",
+            "share": 0.282
+          },
+          {
+            "hex": "#931f2a",
+            "share": 0.268
+          },
+          {
+            "hex": "#8b332b",
+            "share": 0.177
+          },
+          {
+            "hex": "#aa5733",
+            "share": 0.168
+          },
+          {
+            "hex": "#be834f",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/8e/ab/c68eab8e-6134-3b2b-c70c-a06c02ab14ba/886447381243.jpg/1200x1200bb.jpg",
+      "collection": "H2O",
+      "collection_id": 1444818205,
+      "track_id": 1444818206,
+      "artist_name": "Daryl Hall & John Oates",
+      "release_date": "1982-10-04T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.512,
+        "saturation": 0.651,
+        "dark_share": 0.118,
+        "palette": [
+          {
+            "hex": "#351a1b",
+            "share": 0.284
+          },
+          {
+            "hex": "#921e2b",
+            "share": 0.268
+          },
+          {
+            "hex": "#8c322c",
+            "share": 0.175
+          },
+          {
+            "hex": "#aa5733",
+            "share": 0.168
+          },
+          {
+            "hex": "#be824f",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

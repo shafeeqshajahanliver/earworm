@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d8fbd1eb-8de5-434e-be9c-7ad763cddd67",
+      "release_title": "Da Ya Think I'm Sexy ?",
+      "release_date": "1978",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/fcb7f8b5-9e81-47c6-aa31-df9bded886a8/19733923743-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fcb7f8b5-9e81-47c6-aa31-df9bded886a8",
+      "image_id": 19733923743,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1080,
+        1080
+      ],
+      "measures": {
+        "brightness": 0.617,
+        "saturation": 0.587,
+        "dark_share": 0.239,
+        "palette": [
+          {
+            "hex": "#f7d069",
+            "share": 0.342
+          },
+          {
+            "hex": "#212723",
+            "share": 0.283
+          },
+          {
+            "hex": "#7ca3a2",
+            "share": 0.137
+          },
+          {
+            "hex": "#093d5b",
+            "share": 0.125
+          },
+          {
+            "hex": "#6e563d",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3728ce92-fae9-3e9b-a7b7-3359dd7ac336",
+      "release_title": "Blondes Have More Fun",
+      "release_date": "1978",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Blondes Have More Fun",
+      "url": "http://coverartarchive.org/release/6a1ac41b-1a81-475f-883d-d3e966f2157a/12142632332-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/6a1ac41b-1a81-475f-883d-d3e966f2157a",
+      "image_id": "12142632332",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        498
+      ],
+      "measures": {
+        "brightness": 0.424,
+        "saturation": 0.636,
+        "dark_share": 0.246,
+        "palette": [
+          {
+            "hex": "#285979",
+            "share": 0.39
+          },
+          {
+            "hex": "#8c8d86",
+            "share": 0.228
+          },
+          {
+            "hex": "#011b32",
+            "share": 0.214
+          },
+          {
+            "hex": "#463236",
+            "share": 0.098
+          },
+          {
+            "hex": "#101f3a",
+            "share": 0.069
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a3/fb/96/a3fb96bf-a165-5d23-8539-aca9bccb978e/603497895069_04.jpg/1200x1200bb.jpg",
+      "collection": "Blondes Have More Fun",
+      "collection_id": 1478347165,
+      "track_id": 1478347710,
+      "artist_name": "Rod Stewart",
+      "release_date": "1978-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.497,
+        "saturation": 0.446,
+        "dark_share": 0.213,
+        "palette": [
+          {
+            "hex": "#516e88",
+            "share": 0.376
+          },
+          {
+            "hex": "#191a17",
+            "share": 0.252
+          },
+          {
+            "hex": "#8b8b84",
+            "share": 0.146
+          },
+          {
+            "hex": "#b6b4a5",
+            "share": 0.114
+          },
+          {
+            "hex": "#4a5569",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

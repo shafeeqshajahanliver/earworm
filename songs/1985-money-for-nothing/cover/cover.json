@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2060bca9-1755-3c7f-8fef-2bb9ae1e0df0",
+      "release_title": "Money for Nothing",
+      "release_date": "1985",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/f6fe9eee-f8b7-4e30-b11a-e676370e71c0/18859372109-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/f6fe9eee-f8b7-4e30-b11a-e676370e71c0",
+      "image_id": 18859372109,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.313,
+        "saturation": 0.274,
+        "dark_share": 0.479,
+        "palette": [
+          {
+            "hex": "#a9a19d",
+            "share": 0.229
+          },
+          {
+            "hex": "#050d0c",
+            "share": 0.202
+          },
+          {
+            "hex": "#392725",
+            "share": 0.199
+          },
+          {
+            "hex": "#1b1f1c",
+            "share": 0.188
+          },
+          {
+            "hex": "#4d3d3b",
+            "share": 0.182
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b02f651e-32a1-30ae-bc23-070b59170278",
+      "release_title": "Brothers in Arms",
+      "release_date": "1985-05-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Brothers in Arms",
+      "url": "http://coverartarchive.org/release/c27a8c40-d884-4bf7-9067-d6571bef9752/11579652111-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/c27a8c40-d884-4bf7-9067-d6571bef9752",
+      "image_id": "11579652111",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.667,
+        "saturation": 0.433,
+        "dark_share": 0.019,
+        "palette": [
+          {
+            "hex": "#5896c2",
+            "share": 0.406
+          },
+          {
+            "hex": "#435676",
+            "share": 0.279
+          },
+          {
+            "hex": "#867f8f",
+            "share": 0.13
+          },
+          {
+            "hex": "#aea4ad",
+            "share": 0.118
+          },
+          {
+            "hex": "#5a96c1",
+            "share": 0.067
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/15/bf/af15bf49-3d46-1bf2-99a7-faad001a8c02/603497812400.jpg/1200x1200bb.jpg",
+      "collection": "Brothers in Arms (40th Anniversary)",
+      "collection_id": 1813832408,
+      "track_id": 1813832413,
+      "artist_name": "Dire Straits",
+      "release_date": "1985-05-13T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.837,
+        "saturation": 0.68,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#43add7",
+            "share": 0.8
+          },
+          {
+            "hex": "#3b9ecc",
+            "share": 0.064
+          },
+          {
+            "hex": "#43abd5",
+            "share": 0.063
+          },
+          {
+            "hex": "#43aed8",
+            "share": 0.042
+          },
+          {
+            "hex": "#57b0d4",
+            "share": 0.031
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

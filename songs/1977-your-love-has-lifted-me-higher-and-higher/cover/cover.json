@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "8e6c378e-87e7-4050-8033-2689cc43fa58",
+      "release_title": "(Your Love Has Lifted Me) Higher and Higher",
+      "release_date": "1977",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "fdfecd0d-bcaf-3aae-b515-e68c1347ee9b",
+      "release_title": "Anytime... Anywhere",
+      "release_date": "1977",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Anytime...Anywhere",
+      "url": "http://coverartarchive.org/release/fb25266b-9f84-4d3c-8333-eb13dd4b5c06/8720908781-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/fb25266b-9f84-4d3c-8333-eb13dd4b5c06",
+      "image_id": "8720908781",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.318,
+        "saturation": 0.406,
+        "dark_share": 0.511,
+        "palette": [
+          {
+            "hex": "#1e110c",
+            "share": 0.276
+          },
+          {
+            "hex": "#000000",
+            "share": 0.251
+          },
+          {
+            "hex": "#543a2f",
+            "share": 0.214
+          },
+          {
+            "hex": "#c08453",
+            "share": 0.136
+          },
+          {
+            "hex": "#e1c08d",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/fd/67/adfd6778-8956-94cc-1efa-c6f9d30e75f5/00602577279959.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Anytime... Anywhere",
+      "collection_id": 1454745105,
+      "track_id": 1454745106,
+      "artist_name": "Rita Coolidge",
+      "release_date": "1977-03-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.353,
+        "saturation": 0.468,
+        "dark_share": 0.409,
+        "palette": [
+          {
+            "hex": "#282f28",
+            "share": 0.26
+          },
+          {
+            "hex": "#00050b",
+            "share": 0.255
+          },
+          {
+            "hex": "#59544b",
+            "share": 0.222
+          },
+          {
+            "hex": "#bd8552",
+            "share": 0.141
+          },
+          {
+            "hex": "#deb581",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

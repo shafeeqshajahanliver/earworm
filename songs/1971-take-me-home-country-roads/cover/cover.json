@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d3a65fdc-11e3-45f8-b896-4e7af8f0516d",
+      "release_title": "Take Me Home, Country Roads / Poems, Prayers and Promises",
+      "release_date": "1971",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "7378d3cf-a3a9-3fe3-825b-70d6f0230250",
+      "release_title": "Poems, Prayers & Promises",
+      "release_date": "1971-05",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Poems, Prayers & Promises",
+      "url": "https://coverartarchive.org/release/e1b2a3e1-f8a0-4c22-9249-812c4714b302/45284404485-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e1b2a3e1-f8a0-4c22-9249-812c4714b302",
+      "image_id": 45284404485,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        640,
+        640
+      ],
+      "measures": {
+        "brightness": 0.3,
+        "saturation": 0.205,
+        "dark_share": 0.367,
+        "palette": [
+          {
+            "hex": "#4f3c3c",
+            "share": 0.24
+          },
+          {
+            "hex": "#232020",
+            "share": 0.24
+          },
+          {
+            "hex": "#8c6e63",
+            "share": 0.222
+          },
+          {
+            "hex": "#372b2d",
+            "share": 0.17
+          },
+          {
+            "hex": "#2c2526",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/ed/f3/52edf3b6-5b73-c52d-e3f6-4473412eec7c/886443406193.jpg/1200x1200bb.jpg",
+      "collection": "Poems, Prayers & Promises",
+      "collection_id": 511074105,
+      "track_id": 511074294,
+      "artist_name": "John Denver",
+      "release_date": "1971-04-06T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.303,
+        "saturation": 0.201,
+        "dark_share": 0.357,
+        "palette": [
+          {
+            "hex": "#4f3c3c",
+            "share": 0.242
+          },
+          {
+            "hex": "#232120",
+            "share": 0.231
+          },
+          {
+            "hex": "#8d6e64",
+            "share": 0.224
+          },
+          {
+            "hex": "#382c2d",
+            "share": 0.172
+          },
+          {
+            "hex": "#2c2526",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

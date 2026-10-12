@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "80ea43b7-2c32-4a79-9fb0-8ff1761ebe09",
+      "release_title": "24K Magic",
+      "release_date": "2016",
+      "release_country": "RU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 24K Magic",
+      "url": "http://coverartarchive.org/release/9cc7b0c2-3e14-4755-ac7b-15e5030b2841/16858159261-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/9cc7b0c2-3e14-4755-ac7b-15e5030b2841",
+      "image_id": 16858159261,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.71,
+        "saturation": 0.273,
+        "dark_share": 0.14,
+        "palette": [
+          {
+            "hex": "#ece9e4",
+            "share": 0.338
+          },
+          {
+            "hex": "#420f0f",
+            "share": 0.307
+          },
+          {
+            "hex": "#f9f7f6",
+            "share": 0.148
+          },
+          {
+            "hex": "#a8816f",
+            "share": 0.105
+          },
+          {
+            "hex": "#f4f0ed",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/1200x1200bb.jpg",
+      "collection": "24K Magic",
+      "collection_id": 1161503945,
+      "track_id": 1161504043,
+      "artist_name": "Bruno Mars",
+      "release_date": "2016-11-18T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.708,
+        "saturation": 0.27,
+        "dark_share": 0.142,
+        "palette": [
+          {
+            "hex": "#ece9e4",
+            "share": 0.337
+          },
+          {
+            "hex": "#430e0e",
+            "share": 0.312
+          },
+          {
+            "hex": "#f9f7f6",
+            "share": 0.152
+          },
+          {
+            "hex": "#a67e6d",
+            "share": 0.101
+          },
+          {
+            "hex": "#f4f0ed",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

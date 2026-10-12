@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a4b00c4f-a68c-40b8-bc05-7bc640f33dea",
+      "release_title": "The Streak",
+      "release_date": "1974-03",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "9d577470-24f5-4933-a39a-cdcf8edb260d",
+      "release_title": "Boogity Boogity",
+      "release_date": "1974",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Boogity Boogity",
+      "url": "https://coverartarchive.org/release/4750901a-2b2c-45f2-a065-e2860acebd57/40932792580-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4750901a-2b2c-45f2-a065-e2860acebd57",
+      "image_id": 40932792580,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.459,
+        "saturation": 0.502,
+        "dark_share": 0.229,
+        "palette": [
+          {
+            "hex": "#2b151e",
+            "share": 0.302
+          },
+          {
+            "hex": "#54232b",
+            "share": 0.223
+          },
+          {
+            "hex": "#8a4c40",
+            "share": 0.212
+          },
+          {
+            "hex": "#ac895c",
+            "share": 0.135
+          },
+          {
+            "hex": "#d6c599",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/75/50/8075508f-6531-2f3b-eb35-94e3a0e1857d/843041047777_.jpg/1200x1200bb.jpg",
+      "collection": "Boogity Boogity",
+      "collection_id": 1713947331,
+      "track_id": 1713947332,
+      "artist_name": "Ray Stevens",
+      "release_date": "1974-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.464,
+        "saturation": 0.505,
+        "dark_share": 0.209,
+        "palette": [
+          {
+            "hex": "#2c141f",
+            "share": 0.244
+          },
+          {
+            "hex": "#8c4c42",
+            "share": 0.234
+          },
+          {
+            "hex": "#c3a77c",
+            "share": 0.214
+          },
+          {
+            "hex": "#692631",
+            "share": 0.16
+          },
+          {
+            "hex": "#401f27",
+            "share": 0.148
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

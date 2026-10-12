@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "7b5d355f-dcbf-4518-af78-cddc6421b1af",
+      "release_title": "The First Time Ever I Saw Your Face / Trade Winds",
+      "release_date": "1972",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "4455c04d-9368-4dc5-b35d-6ff8c407921f",
+      "release_title": "First Take",
+      "release_date": "2011-01-25",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: First Take",
+      "url": "http://coverartarchive.org/release/cd0e72a6-0170-43ac-9399-cd0bb960e48a/26559362196-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cd0e72a6-0170-43ac-9399-cd0bb960e48a",
+      "image_id": 26559362196,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        597,
+        600
+      ],
+      "measures": {
+        "brightness": 0.491,
+        "saturation": 0.448,
+        "dark_share": 0.341,
+        "palette": [
+          {
+            "hex": "#08070c",
+            "share": 0.268
+          },
+          {
+            "hex": "#f9f041",
+            "share": 0.255
+          },
+          {
+            "hex": "#9e948b",
+            "share": 0.211
+          },
+          {
+            "hex": "#574045",
+            "share": 0.159
+          },
+          {
+            "hex": "#211b23",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/56/1e/a2561e44-40f2-c839-f36f-38da586885a8/mzi.mkfiotkx.jpg/1200x1200bb.jpg",
+      "collection": "First Take",
+      "collection_id": 355178034,
+      "track_id": 355178117,
+      "artist_name": "Roberta Flack",
+      "release_date": "1969-06-20T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.539,
+        "saturation": 0.336,
+        "dark_share": 0.056,
+        "palette": [
+          {
+            "hex": "#362b2e",
+            "share": 0.308
+          },
+          {
+            "hex": "#5a3c3b",
+            "share": 0.217
+          },
+          {
+            "hex": "#a4836a",
+            "share": 0.189
+          },
+          {
+            "hex": "#e1cea0",
+            "share": 0.167
+          },
+          {
+            "hex": "#fbf266",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

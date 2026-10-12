@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "18d6bc28-a179-4e1b-a02e-d6aa270134a3",
+      "release_title": "Check on It",
+      "release_date": "2005-12-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b2e8d51d-a50c-45f9-b119-3bf92513a08a/35958214076-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b2e8d51d-a50c-45f9-b119-3bf92513a08a",
+      "image_id": 35958214076,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.709,
+        "saturation": 0.636,
+        "dark_share": 0.028,
+        "palette": [
+          {
+            "hex": "#cb6c45",
+            "share": 0.263
+          },
+          {
+            "hex": "#e3b492",
+            "share": 0.213
+          },
+          {
+            "hex": "#b42d32",
+            "share": 0.201
+          },
+          {
+            "hex": "#6b201e",
+            "share": 0.18
+          },
+          {
+            "hex": "#bd4139",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2b1887f9-680f-4027-afad-b7936fb2b272",
+      "release_title": "#1’s",
+      "release_date": "2004",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: #1's",
+      "url": "https://coverartarchive.org/release/b3fef21b-aff1-4969-b311-fb55c6b05be9/43907161141-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b3fef21b-aff1-4969-b311-fb55c6b05be9",
+      "image_id": 43907161141,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        599,
+        600
+      ],
+      "measures": {
+        "brightness": 0.495,
+        "saturation": 0.087,
+        "dark_share": 0.237,
+        "palette": [
+          {
+            "hex": "#2a2927",
+            "share": 0.285
+          },
+          {
+            "hex": "#58574f",
+            "share": 0.212
+          },
+          {
+            "hex": "#9c9b8b",
+            "share": 0.203
+          },
+          {
+            "hex": "#c0bfae",
+            "share": 0.198
+          },
+          {
+            "hex": "#edede9",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/5d/3b/1e5d3b3c-2cb3-ca05-9fdc-0173920736a7/mzi.xbfzfhha.jpg/1200x1200bb.jpg",
+      "collection": "Check On It (feat. Bun B & Slim Thug) - EP",
+      "collection_id": 159761791,
+      "track_id": 159761799,
+      "artist_name": "Beyoncé",
+      "release_date": "2005-10-25T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.711,
+        "saturation": 0.638,
+        "dark_share": 0.027,
+        "palette": [
+          {
+            "hex": "#cc6b45",
+            "share": 0.262
+          },
+          {
+            "hex": "#e4b292",
+            "share": 0.213
+          },
+          {
+            "hex": "#b52c33",
+            "share": 0.2
+          },
+          {
+            "hex": "#6b1f1f",
+            "share": 0.181
+          },
+          {
+            "hex": "#bd413a",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "73aa0699-f10c-43a4-b43b-6732a515866e",
+      "release_title": "Shining Star",
+      "release_date": "1975-01-21",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "e9845207-8ae3-36db-b0e1-2efcdb46687d",
+      "release_title": "That's the Way of the World",
+      "release_date": "1975",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: That's the Way of the World",
+      "url": "https://coverartarchive.org/release/0610cfdc-f25f-41d0-9f15-9e12745fe8e6/45698897038-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0610cfdc-f25f-41d0-9f15-9e12745fe8e6",
+      "image_id": 45698897038,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.585,
+        "saturation": 0.02,
+        "dark_share": 0.318,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.376
+          },
+          {
+            "hex": "#060202",
+            "share": 0.319
+          },
+          {
+            "hex": "#dbdbda",
+            "share": 0.146
+          },
+          {
+            "hex": "#5e5c5f",
+            "share": 0.132
+          },
+          {
+            "hex": "#fcfffe",
+            "share": 0.027
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/1d/86/bc/1d86bc2d-1007-3b47-2652-f4a58fb0eaa0/dj.amgioild.jpg/1200x1200bb.jpg",
+      "collection": "That's the Way of the World",
+      "collection_id": 532975789,
+      "track_id": 532975790,
+      "artist_name": "Earth, Wind & Fire",
+      "release_date": "1975-01-21T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.651,
+        "saturation": 0.054,
+        "dark_share": 0.225,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.383
+          },
+          {
+            "hex": "#161517",
+            "share": 0.292
+          },
+          {
+            "hex": "#e5e5e4",
+            "share": 0.161
+          },
+          {
+            "hex": "#8c8889",
+            "share": 0.138
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.026
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

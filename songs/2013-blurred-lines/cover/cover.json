@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "2d51ae70-ec66-49ec-8b21-982c441c71a2",
+      "release_title": "Blurred Lines",
+      "release_date": "2013-07-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Blurred Lines",
+      "url": "http://coverartarchive.org/release/b5410294-d664-4798-8c8d-5bb5524e88ad/4746994078-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b5410294-d664-4798-8c8d-5bb5524e88ad",
+      "image_id": "4746994078",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        493
+      ],
+      "measures": {
+        "brightness": 0.513,
+        "saturation": 0.432,
+        "dark_share": 0.165,
+        "palette": [
+          {
+            "hex": "#231b2d",
+            "share": 0.332
+          },
+          {
+            "hex": "#94302b",
+            "share": 0.222
+          },
+          {
+            "hex": "#785551",
+            "share": 0.177
+          },
+          {
+            "hex": "#759b94",
+            "share": 0.138
+          },
+          {
+            "hex": "#dbdcd6",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/b1/b9/9fb1b976-bec0-1964-053d-001fed83a720/13UAAIM09929.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Blurred Lines (Deluxe Version)",
+      "collection_id": 1442971651,
+      "track_id": 1442971656,
+      "artist_name": "Robin Thicke",
+      "release_date": "2013-03-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.495,
+        "saturation": 0.631,
+        "dark_share": 0.174,
+        "palette": [
+          {
+            "hex": "#27878c",
+            "share": 0.283
+          },
+          {
+            "hex": "#090b2a",
+            "share": 0.247
+          },
+          {
+            "hex": "#9bd1d0",
+            "share": 0.216
+          },
+          {
+            "hex": "#575764",
+            "share": 0.138
+          },
+          {
+            "hex": "#105366",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

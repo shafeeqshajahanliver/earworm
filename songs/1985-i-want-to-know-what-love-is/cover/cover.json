@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "41b530de-5654-486b-bdc6-f9f2177f2f46",
+      "release_title": "I Want to Know What Love Is",
+      "release_date": "1984",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/79c41fdb-04b8-4f32-acf5-5e232a7895fe/3180306777-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/79c41fdb-04b8-4f32-acf5-5e232a7895fe",
+      "image_id": "3180306777",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        491
+      ],
+      "measures": {
+        "brightness": 0.455,
+        "saturation": 0.283,
+        "dark_share": 0.276,
+        "palette": [
+          {
+            "hex": "#ddc5ae",
+            "share": 0.282
+          },
+          {
+            "hex": "#382e25",
+            "share": 0.21
+          },
+          {
+            "hex": "#312821",
+            "share": 0.19
+          },
+          {
+            "hex": "#2d231d",
+            "share": 0.167
+          },
+          {
+            "hex": "#8d7968",
+            "share": 0.151
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "24b59933-12b7-3f19-97d2-14891192f06b",
+      "release_title": "Agent Provocateur",
+      "release_date": "1984-12-07",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Agent Provocateur",
+      "url": "http://coverartarchive.org/release/2e84a3aa-79d5-4d77-8e00-2a905eec405f/8908268166-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/2e84a3aa-79d5-4d77-8e00-2a905eec405f",
+      "image_id": "8908268166",
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.242,
+        "saturation": 0.315,
+        "dark_share": 0.714,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.649
+          },
+          {
+            "hex": "#a50302",
+            "share": 0.145
+          },
+          {
+            "hex": "#909151",
+            "share": 0.129
+          },
+          {
+            "hex": "#000002",
+            "share": 0.069
+          },
+          {
+            "hex": "#720001",
+            "share": 0.008
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/17/49/eb1749a8-29a1-83ef-5d0e-ec3394d3d057/075678279669.jpg/1200x1200bb.jpg",
+      "collection": "Agent Provocateur",
+      "collection_id": 216663946,
+      "track_id": 216663961,
+      "artist_name": "Foreigner",
+      "release_date": "1984-11-13T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.258,
+        "saturation": 0.795,
+        "dark_share": 0.707,
+        "palette": [
+          {
+            "hex": "#000002",
+            "share": 0.347
+          },
+          {
+            "hex": "#bc8253",
+            "share": 0.277
+          },
+          {
+            "hex": "#000001",
+            "share": 0.213
+          },
+          {
+            "hex": "#010004",
+            "share": 0.143
+          },
+          {
+            "hex": "#48170e",
+            "share": 0.02
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

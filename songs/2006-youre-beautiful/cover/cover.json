@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "bd07b3b6-db2b-35d9-b040-84b70485a720",
+      "release_title": "You’re Beautiful",
+      "release_date": "2005-05-30",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/18c78335-cea5-4f98-b893-a3709a9f91dc/39666284604-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/18c78335-cea5-4f98-b893-a3709a9f91dc",
+      "image_id": 39666284604,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        640,
+        640
+      ],
+      "measures": {
+        "brightness": 0.849,
+        "saturation": 0.6,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#1aabdc",
+            "share": 0.321
+          },
+          {
+            "hex": "#c4dcda",
+            "share": 0.19
+          },
+          {
+            "hex": "#276690",
+            "share": 0.18
+          },
+          {
+            "hex": "#70c8e9",
+            "share": 0.176
+          },
+          {
+            "hex": "#ebf4f2",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "aa0f8959-1f47-3f9d-9a7d-28de21ab3956",
+      "release_title": "Back to Bedlam",
+      "release_date": "2004-04-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Back to Bedlam",
+      "url": "http://coverartarchive.org/release/80f3f328-3088-4056-85aa-15356686419a/5271821077-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/80f3f328-3088-4056-85aa-15356686419a",
+      "image_id": "5271821077",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.832,
+        "saturation": 0.605,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#2ea0e0",
+            "share": 0.342
+          },
+          {
+            "hex": "#2d5b7f",
+            "share": 0.197
+          },
+          {
+            "hex": "#5cc0eb",
+            "share": 0.166
+          },
+          {
+            "hex": "#b2d4d2",
+            "share": 0.165
+          },
+          {
+            "hex": "#e1f2ef",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/bf/13/32bf1302-fbfe-945a-44bc-c0aeaee12711/075678375224.jpg/1200x1200bb.jpg",
+      "collection": "Back To Bedlam",
+      "collection_id": 714601581,
+      "track_id": 714601673,
+      "artist_name": "James Blunt",
+      "release_date": "2004-10-11T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.855,
+        "saturation": 0.605,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#18acdf",
+            "share": 0.322
+          },
+          {
+            "hex": "#c6dcd8",
+            "share": 0.183
+          },
+          {
+            "hex": "#73c9ea",
+            "share": 0.181
+          },
+          {
+            "hex": "#286891",
+            "share": 0.181
+          },
+          {
+            "hex": "#edf4f2",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

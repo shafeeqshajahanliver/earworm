@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e6e94a77-fea6-4778-bcdd-6977c775493f",
+      "release_title": "Can’t Feel My Face",
+      "release_date": "2015",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/4fd9892d-bc72-4bcc-8f7c-42aab585ad45/14740141927-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4fd9892d-bc72-4bcc-8f7c-42aab585ad45",
+      "image_id": 14740141927,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.214,
+        "saturation": 0.473,
+        "dark_share": 0.648,
+        "palette": [
+          {
+            "hex": "#020c03",
+            "share": 0.223
+          },
+          {
+            "hex": "#85876f",
+            "share": 0.222
+          },
+          {
+            "hex": "#061009",
+            "share": 0.222
+          },
+          {
+            "hex": "#202924",
+            "share": 0.211
+          },
+          {
+            "hex": "#150d0c",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a85b8aff-fcbc-4431-95ba-d8c20bbfb77e",
+      "release_title": "Beauty Behind the Madness",
+      "release_date": "2015",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Beauty Behind the Madness",
+      "url": "http://coverartarchive.org/release/44ae223a-3963-415f-8a35-8958543fd576/29197443146-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/44ae223a-3963-415f-8a35-8958543fd576",
+      "image_id": 29197443146,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.23,
+        "saturation": 0.08,
+        "dark_share": 0.735,
+        "palette": [
+          {
+            "hex": "#161716",
+            "share": 0.27
+          },
+          {
+            "hex": "#1f211f",
+            "share": 0.239
+          },
+          {
+            "hex": "#131514",
+            "share": 0.223
+          },
+          {
+            "hex": "#9b9995",
+            "share": 0.207
+          },
+          {
+            "hex": "#0d100f",
+            "share": 0.061
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/05/1e/30051e57-a63a-3acc-4b30-42568293f5f7/15UMGIM36514.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Beauty Behind the Madness",
+      "collection_id": 1440858094,
+      "track_id": 1440858495,
+      "artist_name": "The Weeknd",
+      "release_date": "2015-05-27T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.229,
+        "saturation": 0.075,
+        "dark_share": 0.737,
+        "palette": [
+          {
+            "hex": "#151716",
+            "share": 0.318
+          },
+          {
+            "hex": "#111312",
+            "share": 0.233
+          },
+          {
+            "hex": "#1f201f",
+            "share": 0.213
+          },
+          {
+            "hex": "#ccc9c5",
+            "share": 0.133
+          },
+          {
+            "hex": "#676662",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

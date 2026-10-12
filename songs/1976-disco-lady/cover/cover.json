@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a0b476c5-3a8b-4bf7-bc09-587d8715209c",
+      "release_title": "Disco Lady",
+      "release_date": "1976-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "c7e1bb5a-1fd5-35dd-bd30-63d6e2bfa534",
+      "release_title": "Eargasm",
+      "release_date": "1976",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Eargasm",
+      "url": "http://coverartarchive.org/release/192efd20-c1bb-4fe9-9338-66adff0561b5/10717416870-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/192efd20-c1bb-4fe9-9338-66adff0561b5",
+      "image_id": 10717416870,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        496
+      ],
+      "measures": {
+        "brightness": 0.208,
+        "saturation": 0.442,
+        "dark_share": 0.676,
+        "palette": [
+          {
+            "hex": "#170a12",
+            "share": 0.295
+          },
+          {
+            "hex": "#11050c",
+            "share": 0.25
+          },
+          {
+            "hex": "#291b22",
+            "share": 0.189
+          },
+          {
+            "hex": "#564346",
+            "share": 0.156
+          },
+          {
+            "hex": "#a58e88",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/7f/f9/3d/mzi.ezyeykev.jpg/1200x1200bb.jpg",
+      "collection": "Eargasm",
+      "collection_id": 171109699,
+      "track_id": 171110105,
+      "artist_name": "Johnnie Taylor",
+      "release_date": "1966-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.133,
+        "saturation": 0.138,
+        "dark_share": 0.764,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.52
+          },
+          {
+            "hex": "#110d0f",
+            "share": 0.182
+          },
+          {
+            "hex": "#7f6f66",
+            "share": 0.181
+          },
+          {
+            "hex": "#020001",
+            "share": 0.091
+          },
+          {
+            "hex": "#000002",
+            "share": 0.027
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

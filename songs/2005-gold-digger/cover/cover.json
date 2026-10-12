@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "238627b5-62a9-32fa-a3ef-f581c1c893cc",
+      "release_title": "Gold Digger",
+      "release_date": "2005",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/e713707d-8d87-48b0-b8ab-7f7bdfc1618d/44872828505-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e713707d-8d87-48b0-b8ab-7f7bdfc1618d",
+      "image_id": 44872828505,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1070
+      ],
+      "measures": {
+        "brightness": 0.382,
+        "saturation": 0.212,
+        "dark_share": 0.449,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.343
+          },
+          {
+            "hex": "#8b7f57",
+            "share": 0.283
+          },
+          {
+            "hex": "#e4d49d",
+            "share": 0.219
+          },
+          {
+            "hex": "#25221a",
+            "share": 0.098
+          },
+          {
+            "hex": "#000001",
+            "share": 0.056
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+      "release_title": "Late Registration",
+      "release_date": "2005-03",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Late Registration",
+      "url": "http://coverartarchive.org/release/d6f9a7a4-d291-44a5-be15-66101e094190/5638377094-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d6f9a7a4-d291-44a5-be15-66101e094190",
+      "image_id": 5638377094,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.175,
+        "saturation": 0.366,
+        "dark_share": 0.621,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.422
+          },
+          {
+            "hex": "#301c0d",
+            "share": 0.282
+          },
+          {
+            "hex": "#6c695b",
+            "share": 0.176
+          },
+          {
+            "hex": "#100201",
+            "share": 0.096
+          },
+          {
+            "hex": "#000208",
+            "share": 0.023
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Late Registration",
+      "collection_id": 1440763821,
+      "track_id": 1440763833,
+      "artist_name": "Kanye West",
+      "release_date": "2005-07-05T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1188
+      ],
+      "measures": {
+        "brightness": 0.186,
+        "saturation": 0.428,
+        "dark_share": 0.604,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.362
+          },
+          {
+            "hex": "#351f11",
+            "share": 0.307
+          },
+          {
+            "hex": "#6f685b",
+            "share": 0.173
+          },
+          {
+            "hex": "#0e0405",
+            "share": 0.134
+          },
+          {
+            "hex": "#00040c",
+            "share": 0.024
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

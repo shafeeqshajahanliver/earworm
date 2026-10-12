@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3ae7ff78-1395-45c6-9a53-ea9bc7360f0b",
+      "release_title": "Kiss You All Over",
+      "release_date": "1978",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/826be80b-6193-4a78-9cc1-677b9d68d25e/15240418513-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/826be80b-6193-4a78-9cc1-677b9d68d25e",
+      "image_id": 15240418513,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        487
+      ],
+      "measures": {
+        "brightness": 0.801,
+        "saturation": 0.346,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#987ead",
+            "share": 0.278
+          },
+          {
+            "hex": "#923878",
+            "share": 0.227
+          },
+          {
+            "hex": "#ebd3d5",
+            "share": 0.18
+          },
+          {
+            "hex": "#f8f2e7",
+            "share": 0.166
+          },
+          {
+            "hex": "#b6c3d6",
+            "share": 0.149
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "ca0d2fe7-1621-3485-a5c4-c758a2c7ffb5",
+      "release_title": "Mixed Emotions",
+      "release_date": "1978",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mixed Emotions",
+      "url": "http://coverartarchive.org/release/21e3f5ea-146e-4cce-86f0-bb22825e9212/8005924653-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/21e3f5ea-146e-4cce-86f0-bb22825e9212",
+      "image_id": "8005924653",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        491,
+        500
+      ],
+      "measures": {
+        "brightness": 0.181,
+        "saturation": 0.587,
+        "dark_share": 0.838,
+        "palette": [
+          {
+            "hex": "#160f16",
+            "share": 0.362
+          },
+          {
+            "hex": "#160115",
+            "share": 0.214
+          },
+          {
+            "hex": "#160715",
+            "share": 0.158
+          },
+          {
+            "hex": "#705b2e",
+            "share": 0.152
+          },
+          {
+            "hex": "#130514",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/9b/ff/699bffa9-9cb4-c858-9d75-ac59adce014a/715187936423.png/1200x1200bb.jpg",
+      "collection": "Mixed Emotions",
+      "collection_id": 659742643,
+      "track_id": 659743138,
+      "artist_name": "Exile",
+      "release_date": "1978-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.135,
+        "saturation": 0.39,
+        "dark_share": 0.838,
+        "palette": [
+          {
+            "hex": "#060709",
+            "share": 0.75
+          },
+          {
+            "hex": "#896e35",
+            "share": 0.15
+          },
+          {
+            "hex": "#080709",
+            "share": 0.052
+          },
+          {
+            "hex": "#020407",
+            "share": 0.03
+          },
+          {
+            "hex": "#050709",
+            "share": 0.018
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

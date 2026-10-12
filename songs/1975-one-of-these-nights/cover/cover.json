@@ -1,0 +1,148 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d9a51a3f-cea4-45ca-b72c-5c8add870279",
+      "release_title": "One of These Nights / Visions",
+      "release_date": "1975",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/db778cb7-a7cd-4b70-95eb-ffe7feea2b0f/30175625489-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/db778cb7-a7cd-4b70-95eb-ffe7feea2b0f",
+      "image_id": 30175625489,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        535,
+        535
+      ],
+      "measures": {
+        "brightness": 0.442,
+        "saturation": 0.176,
+        "dark_share": 0.257,
+        "palette": [
+          {
+            "hex": "#887c75",
+            "share": 0.26
+          },
+          {
+            "hex": "#060505",
+            "share": 0.259
+          },
+          {
+            "hex": "#5e5857",
+            "share": 0.204
+          },
+          {
+            "hex": "#b4a290",
+            "share": 0.152
+          },
+          {
+            "hex": "#dfc4af",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7f9ea3a4-5c4b-3082-a233-3462540e57e3",
+      "release_title": "One of These Nights",
+      "release_date": "1975-06-10",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: One of These Nights",
+      "url": "https://coverartarchive.org/release/c122c4f1-1b23-4f28-a667-dc7908d60a1e/8690357981-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c122c4f1-1b23-4f28-a667-dc7908d60a1e",
+      "image_id": 8690357981,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1187
+      ],
+      "measures": {
+        "brightness": 0.299,
+        "saturation": 0.156,
+        "dark_share": 0.13,
+        "palette": [
+          {
+            "hex": "#3a3c38",
+            "share": 0.284
+          },
+          {
+            "hex": "#424846",
+            "share": 0.233
+          },
+          {
+            "hex": "#2f2f28",
+            "share": 0.22
+          },
+          {
+            "hex": "#4b5656",
+            "share": 0.175
+          },
+          {
+            "hex": "#818d81",
+            "share": 0.088
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/87/a4/e787a44d-ed2f-e3e1-6b59-83220c7b7065/603497808656.jpg/1200x1200bb.jpg",
+      "collection": "One of These Nights (Deluxe Edition)",
+      "collection_id": 1883167223,
+      "track_id": 1883167234,
+      "artist_name": "Eagles",
+      "release_date": "1972-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.171,
+        "saturation": 0.488,
+        "dark_share": 0.788,
+        "palette": [
+          {
+            "hex": "#292118",
+            "share": 0.347
+          },
+          {
+            "hex": "#151107",
+            "share": 0.186
+          },
+          {
+            "hex": "#1a160c",
+            "share": 0.169
+          },
+          {
+            "hex": "#20190f",
+            "share": 0.167
+          },
+          {
+            "hex": "#4d4234",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

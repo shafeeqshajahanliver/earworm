@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "da8975af-28cc-3df1-941d-e52bb5212840",
+      "release_title": "Rejoice",
+      "release_date": "1977",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rejoice",
+      "url": "https://coverartarchive.org/release/ba175232-57ab-3ddb-ab26-5fef7e4fa2f1/4277763655-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ba175232-57ab-3ddb-ab26-5fef7e4fa2f1",
+      "image_id": 4277763655,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.838,
+        "saturation": 0.205,
+        "dark_share": 0.037,
+        "palette": [
+          {
+            "hex": "#f7f5eb",
+            "share": 0.265
+          },
+          {
+            "hex": "#724838",
+            "share": 0.217
+          },
+          {
+            "hex": "#e5d8c6",
+            "share": 0.184
+          },
+          {
+            "hex": "#fafbf3",
+            "share": 0.171
+          },
+          {
+            "hex": "#fcfdf6",
+            "share": 0.162
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/95/32/d4/9532d4e2-44db-79c1-abd0-14c6cf99f1d3/886444372596.jpg/1200x1200bb.jpg",
+      "collection": "Rejoice",
+      "collection_id": 882955356,
+      "track_id": 882955357,
+      "artist_name": "The Emotions",
+      "release_date": "1977-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.821,
+        "saturation": 0.151,
+        "dark_share": 0.06,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.418
+          },
+          {
+            "hex": "#5b3e3e",
+            "share": 0.247
+          },
+          {
+            "hex": "#e2d0c8",
+            "share": 0.181
+          },
+          {
+            "hex": "#fcf9f6",
+            "share": 0.126
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.029
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

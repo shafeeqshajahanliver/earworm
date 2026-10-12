@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "02b26199-03d0-4c64-bffd-84155db3c003",
+      "release_title": "Something Just Like This",
+      "release_date": "2017-02-22",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6b1d5003-8061-4551-8808-d4866d795d53/16750255549-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/6b1d5003-8061-4551-8808-d4866d795d53",
+      "image_id": 16750255549,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.265,
+        "saturation": 0.643,
+        "dark_share": 0.378,
+        "palette": [
+          {
+            "hex": "#203a49",
+            "share": 0.269
+          },
+          {
+            "hex": "#011921",
+            "share": 0.229
+          },
+          {
+            "hex": "#5e6869",
+            "share": 0.213
+          },
+          {
+            "hex": "#01242e",
+            "share": 0.154
+          },
+          {
+            "hex": "#0f2933",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b4deecbb-2b7d-42ac-b7df-9ae7439d532b",
+      "release_title": "Memories…Do Not Open",
+      "release_date": "2017-04-07",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Memories...Do Not Open and Kaleidoscope EP",
+      "url": "http://coverartarchive.org/release/b4a8dc5f-2dcf-4625-a159-aef8c95c7705/36522578447-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b4a8dc5f-2dcf-4625-a159-aef8c95c7705",
+      "image_id": 36522578447,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.365,
+        "saturation": 0.311,
+        "dark_share": 0.254,
+        "palette": [
+          {
+            "hex": "#252325",
+            "share": 0.284
+          },
+          {
+            "hex": "#46322f",
+            "share": 0.234
+          },
+          {
+            "hex": "#63463d",
+            "share": 0.203
+          },
+          {
+            "hex": "#795f53",
+            "share": 0.173
+          },
+          {
+            "hex": "#b19874",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/56/6f/9d566f55-5253-bed6-5c31-df952dae649d/886446379289.jpg/1200x1200bb.jpg",
+      "collection": "Memories...Do Not Open",
+      "collection_id": 1207120422,
+      "track_id": 1207120448,
+      "artist_name": "The Chainsmokers & Coldplay",
+      "release_date": "2017-02-22T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.366,
+        "saturation": 0.316,
+        "dark_share": 0.253,
+        "palette": [
+          {
+            "hex": "#252226",
+            "share": 0.278
+          },
+          {
+            "hex": "#46322f",
+            "share": 0.239
+          },
+          {
+            "hex": "#63463d",
+            "share": 0.203
+          },
+          {
+            "hex": "#795e53",
+            "share": 0.173
+          },
+          {
+            "hex": "#b09674",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1b6d720f-d20a-4b82-a6d8-5b0bed03852e",
+      "release_title": "Need You Now",
+      "release_date": "2010-04-23",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8bdbfc3d-f156-4e71-a0f3-e2723b315084/33790870243-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8bdbfc3d-f156-4e71-a0f3-e2723b315084",
+      "image_id": 33790870243,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.395,
+        "saturation": 0.101,
+        "dark_share": 0.527,
+        "palette": [
+          {
+            "hex": "#181715",
+            "share": 0.318
+          },
+          {
+            "hex": "#030302",
+            "share": 0.263
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.23
+          },
+          {
+            "hex": "#796e66",
+            "share": 0.112
+          },
+          {
+            "hex": "#efeae5",
+            "share": 0.077
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "be6f6989-a723-414e-a688-2f3057363959",
+      "release_title": "Need You Now",
+      "release_date": "2010-01-26",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Need You Now",
+      "url": "http://coverartarchive.org/release/77ed9b0e-7ef8-42fe-b861-9b8d1a7c4c08/9382016604-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/77ed9b0e-7ef8-42fe-b861-9b8d1a7c4c08",
+      "image_id": 9382016604,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.308,
+        "saturation": 0.193,
+        "dark_share": 0.489,
+        "palette": [
+          {
+            "hex": "#a5a09a",
+            "share": 0.396
+          },
+          {
+            "hex": "#010102",
+            "share": 0.25
+          },
+          {
+            "hex": "#1c1917",
+            "share": 0.143
+          },
+          {
+            "hex": "#060605",
+            "share": 0.141
+          },
+          {
+            "hex": "#7d7873",
+            "share": 0.07
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

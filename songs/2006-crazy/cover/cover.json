@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "27610f27-f65a-4d0d-9313-569c995e25f1",
+      "release_title": "Crazy / Go Go Gadget Gospel",
+      "release_date": "2006",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "3c47e22a-82a6-3e49-baf8-70519b6097b7",
+      "release_title": "St. Elsewhere",
+      "release_date": "2006-04-24",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: St. Elsewhere",
+      "url": "http://coverartarchive.org/release/8d93f5f9-7bae-4eb1-a2b3-70dfe3fd2164/2612407443-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8d93f5f9-7bae-4eb1-a2b3-70dfe3fd2164",
+      "image_id": 2612407443,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.606,
+        "saturation": 0.265,
+        "dark_share": 0.153,
+        "palette": [
+          {
+            "hex": "#e0ded7",
+            "share": 0.392
+          },
+          {
+            "hex": "#2e1425",
+            "share": 0.275
+          },
+          {
+            "hex": "#7e6751",
+            "share": 0.222
+          },
+          {
+            "hex": "#d3ccb8",
+            "share": 0.088
+          },
+          {
+            "hex": "#e0decd",
+            "share": 0.023
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/6e/1e/fc6e1e95-7f93-09d8-455e-2f24a537a71f/603497823703.jpg/1200x1200bb.jpg",
+      "collection": "St. Elsewhere",
+      "collection_id": 1741403959,
+      "track_id": 1741403966,
+      "artist_name": "Gnarls Barkley",
+      "release_date": "2005-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.636,
+        "saturation": 0.283,
+        "dark_share": 0.066,
+        "palette": [
+          {
+            "hex": "#462b39",
+            "share": 0.276
+          },
+          {
+            "hex": "#dcccb2",
+            "share": 0.237
+          },
+          {
+            "hex": "#8d7258",
+            "share": 0.204
+          },
+          {
+            "hex": "#deceb3",
+            "share": 0.175
+          },
+          {
+            "hex": "#d2c2a5",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

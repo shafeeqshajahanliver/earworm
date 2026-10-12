@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "368c56c7-6970-4035-b6cc-722596082d97",
+      "release_title": "In My Feelings",
+      "release_date": "2018-07-10",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "857db798-5c31-4d5f-991a-6667f41d8899",
+      "release_title": "Scorpion",
+      "release_date": "2018-06-29",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Scorpion",
+      "url": "http://coverartarchive.org/release/d20f4815-cc49-4cdd-b168-306ea974cd5d/20314002710-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d20f4815-cc49-4cdd-b168-306ea974cd5d",
+      "image_id": 20314002710,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.255,
+        "saturation": 0.001,
+        "dark_share": 0.576,
+        "palette": [
+          {
+            "hex": "#323232",
+            "share": 0.314
+          },
+          {
+            "hex": "#2e2e2e",
+            "share": 0.233
+          },
+          {
+            "hex": "#2b2b2b",
+            "share": 0.213
+          },
+          {
+            "hex": "#454545",
+            "share": 0.136
+          },
+          {
+            "hex": "#9d9d9d",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Scorpion",
+      "collection_id": 1406109769,
+      "track_id": 1406109901,
+      "artist_name": "Drake",
+      "release_date": "2018-06-29T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.256,
+        "saturation": 0.001,
+        "dark_share": 0.584,
+        "palette": [
+          {
+            "hex": "#323232",
+            "share": 0.315
+          },
+          {
+            "hex": "#2e2e2e",
+            "share": 0.254
+          },
+          {
+            "hex": "#2b2b2b",
+            "share": 0.189
+          },
+          {
+            "hex": "#464546",
+            "share": 0.138
+          },
+          {
+            "hex": "#9d9d9d",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

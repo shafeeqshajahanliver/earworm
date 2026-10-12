@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9dc5c79c-b644-4993-bd17-eb6bbbad05f6",
+      "release_title": "Fancy",
+      "release_date": "2014-03-03",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/b651b8fc-7a41-40b3-989b-5a28967dbb2b/6608954599-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b651b8fc-7a41-40b3-989b-5a28967dbb2b",
+      "image_id": 6608954599,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1023,
+        1125
+      ],
+      "measures": {
+        "brightness": 0.97,
+        "saturation": 0.001,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.877
+          },
+          {
+            "hex": "#e4e4e4",
+            "share": 0.048
+          },
+          {
+            "hex": "#929192",
+            "share": 0.04
+          },
+          {
+            "hex": "#f9f9f9",
+            "share": 0.022
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.013
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8fc57341-635e-4638-a1d6-0c7094eaa9ca",
+      "release_title": "The New Classic",
+      "release_date": "2014-04-18",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The New Classic",
+      "url": "http://coverartarchive.org/release/27385d53-dc3b-4515-a0bd-6b3e9083d8a6/36563339133-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/27385d53-dc3b-4515-a0bd-6b3e9083d8a6",
+      "image_id": 36563339133,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.621,
+        "saturation": 0.324,
+        "dark_share": 0.089,
+        "palette": [
+          {
+            "hex": "#402b28",
+            "share": 0.25
+          },
+          {
+            "hex": "#a0a2b4",
+            "share": 0.249
+          },
+          {
+            "hex": "#7e6a61",
+            "share": 0.228
+          },
+          {
+            "hex": "#e4dace",
+            "share": 0.149
+          },
+          {
+            "hex": "#bfbabc",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/64/0d/32640dc0-879a-2771-cfe7-91ea4568436a/14UMGIM08058.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The New Classic (Deluxe Version)",
+      "collection_id": 1443724382,
+      "track_id": 1443724795,
+      "artist_name": "Iggy Azalea",
+      "release_date": "2014-02-17T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.644,
+        "saturation": 0.391,
+        "dark_share": 0.088,
+        "palette": [
+          {
+            "hex": "#9ca2b5",
+            "share": 0.257
+          },
+          {
+            "hex": "#432623",
+            "share": 0.249
+          },
+          {
+            "hex": "#82695f",
+            "share": 0.229
+          },
+          {
+            "hex": "#efd2c7",
+            "share": 0.223
+          },
+          {
+            "hex": "#b7c2c6",
+            "share": 0.042
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

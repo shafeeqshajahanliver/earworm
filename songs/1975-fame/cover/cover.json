@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b6dc42e4-9596-4b21-a417-f9dc715906b4",
+      "release_title": "Fame",
+      "release_date": "1975",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/aa58cb6f-4543-4cb1-9c14-2f50c38e94c0/7328127356-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/aa58cb6f-4543-4cb1-9c14-2f50c38e94c0",
+      "image_id": "7328127356",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        492
+      ],
+      "measures": {
+        "brightness": 0.647,
+        "saturation": 0.289,
+        "dark_share": 0.006,
+        "palette": [
+          {
+            "hex": "#72656c",
+            "share": 0.336
+          },
+          {
+            "hex": "#ae566f",
+            "share": 0.242
+          },
+          {
+            "hex": "#cfa475",
+            "share": 0.232
+          },
+          {
+            "hex": "#d9c2a8",
+            "share": 0.1
+          },
+          {
+            "hex": "#9d8274",
+            "share": 0.09
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8c2a0eae-1359-3577-9127-e3d862acc2a2",
+      "release_title": "Young Americans",
+      "release_date": "1975-03-07",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Young Americans",
+      "url": "https://coverartarchive.org/release/afe8516a-dc2e-42b0-9cc0-ff9c0f21c338/44483591829-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/afe8516a-dc2e-42b0-9cc0-ff9c0f21c338",
+      "image_id": 44483591829,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1185,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.353,
+        "saturation": 0.552,
+        "dark_share": 0.488,
+        "palette": [
+          {
+            "hex": "#021914",
+            "share": 0.249
+          },
+          {
+            "hex": "#c5997a",
+            "share": 0.246
+          },
+          {
+            "hex": "#6b4836",
+            "share": 0.216
+          },
+          {
+            "hex": "#0b1611",
+            "share": 0.15
+          },
+          {
+            "hex": "#212115",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/a7/0c/0aa70c09-e325-3900-6a5e-1557ff7ce710/190295990329.jpg/1200x1200bb.jpg",
+      "collection": "Young Americans (2016 Remaster)",
+      "collection_id": 1195107061,
+      "track_id": 1195110202,
+      "artist_name": "David Bowie",
+      "release_date": "1975-03-07T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.33,
+        "saturation": 0.374,
+        "dark_share": 0.496,
+        "palette": [
+          {
+            "hex": "#0b0b06",
+            "share": 0.267
+          },
+          {
+            "hex": "#c1a089",
+            "share": 0.249
+          },
+          {
+            "hex": "#60433a",
+            "share": 0.195
+          },
+          {
+            "hex": "#271f1c",
+            "share": 0.195
+          },
+          {
+            "hex": "#15120e",
+            "share": 0.095
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

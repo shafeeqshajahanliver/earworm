@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "5011353d-bc95-3930-860d-5bbc90278401",
+      "release_title": "Band of Gold",
+      "release_date": "1970",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Band of Gold",
+      "url": "http://coverartarchive.org/release/471afb26-241d-4108-80df-8f2c09a4d8e1/13288496706-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/471afb26-241d-4108-80df-8f2c09a4d8e1",
+      "image_id": "13288496706",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.424,
+        "saturation": 0.22,
+        "dark_share": 0.071,
+        "palette": [
+          {
+            "hex": "#6e6667",
+            "share": 0.26
+          },
+          {
+            "hex": "#604f58",
+            "share": 0.238
+          },
+          {
+            "hex": "#382a3a",
+            "share": 0.235
+          },
+          {
+            "hex": "#8a8c99",
+            "share": 0.136
+          },
+          {
+            "hex": "#747678",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/22/c0/4f/22c04fdc-f853-e883-b4b0-822e9f182ae8/889845215882.jpg/1200x1200bb.jpg",
+      "collection": "Band Of Gold (Almighty Mixes)",
+      "collection_id": 1019910154,
+      "track_id": 1019910575,
+      "artist_name": "Freda Payne",
+      "release_date": "1970-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.862,
+        "saturation": 0.207,
+        "dark_share": 0.019,
+        "palette": [
+          {
+            "hex": "#fefcfd",
+            "share": 0.31
+          },
+          {
+            "hex": "#ebd79b",
+            "share": 0.256
+          },
+          {
+            "hex": "#886446",
+            "share": 0.213
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.172
+          },
+          {
+            "hex": "#fcfbf3",
+            "share": 0.049
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

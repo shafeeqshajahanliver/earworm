@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "796c37c6-b207-48c5-87ee-0e8de1d3e357",
+      "release_title": "The Middle",
+      "release_date": "2018-01-23",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a7a2eea1-2399-4c2d-890b-1dcd72ca40d7/18938962678-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a7a2eea1-2399-4c2d-890b-1dcd72ca40d7",
+      "image_id": 18938962678,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.488,
+        "saturation": 0.12,
+        "dark_share": 0.421,
+        "palette": [
+          {
+            "hex": "#dce8de",
+            "share": 0.418
+          },
+          {
+            "hex": "#000000",
+            "share": 0.379
+          },
+          {
+            "hex": "#bbb2b5",
+            "share": 0.092
+          },
+          {
+            "hex": "#242426",
+            "share": 0.085
+          },
+          {
+            "hex": "#e3eee5",
+            "share": 0.026
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/86/72/8d867252-5fb7-a83f-ab81-07d07db8c628/18UMGIM02231.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Middle - Single",
+      "collection_id": 1444896433,
+      "track_id": 1444896450,
+      "artist_name": "Zedd, Maren Morris & Grey",
+      "release_date": "2018-01-23T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.49,
+        "saturation": 0.155,
+        "dark_share": 0.423,
+        "palette": [
+          {
+            "hex": "#dce8de",
+            "share": 0.417
+          },
+          {
+            "hex": "#010101",
+            "share": 0.381
+          },
+          {
+            "hex": "#bbb2b4",
+            "share": 0.091
+          },
+          {
+            "hex": "#28272a",
+            "share": 0.084
+          },
+          {
+            "hex": "#e3eee5",
+            "share": 0.026
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "868c3072-41d8-35e4-a4e7-e4ca510d94f8",
+      "release_title": "(Just Like) Starting Over / Kiss Kiss Kiss",
+      "release_date": "1980-10-09",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/5af7ef4e-685c-49e2-bc26-6c84827a67ad/12274119691-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/5af7ef4e-685c-49e2-bc26-6c84827a67ad",
+      "image_id": "12274119691",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        493
+      ],
+      "measures": {
+        "brightness": 0.41,
+        "saturation": 0.431,
+        "dark_share": 0.394,
+        "palette": [
+          {
+            "hex": "#dad3ba",
+            "share": 0.268
+          },
+          {
+            "hex": "#1e1404",
+            "share": 0.224
+          },
+          {
+            "hex": "#372f21",
+            "share": 0.182
+          },
+          {
+            "hex": "#79715e",
+            "share": 0.171
+          },
+          {
+            "hex": "#282011",
+            "share": 0.155
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "790ec782-7344-366c-af67-4a427bcaf991",
+      "release_title": "Double Fantasy",
+      "release_date": "1980",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Double Fantasy",
+      "url": "http://coverartarchive.org/release/fca93c05-2c48-42b5-a244-5fe9c9e9c993/15545022545-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fca93c05-2c48-42b5-a244-5fe9c9e9c993",
+      "image_id": 15545022545,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        200,
+        200
+      ],
+      "measures": {
+        "brightness": 0.232,
+        "saturation": 0.237,
+        "dark_share": 0.661,
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.317
+          },
+          {
+            "hex": "#080f0d",
+            "share": 0.215
+          },
+          {
+            "hex": "#2a2f2c",
+            "share": 0.213
+          },
+          {
+            "hex": "#817471",
+            "share": 0.128
+          },
+          {
+            "hex": "#d3bab9",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/f1/4d/67f14daa-7b2d-814c-d301-8b4c928e633e/16UMGIM17510.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Double Fantasy",
+      "collection_id": 1440847446,
+      "track_id": 1440847663,
+      "artist_name": "John Lennon",
+      "release_date": "1980-10-20T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.243,
+        "saturation": 0.007,
+        "dark_share": 0.686,
+        "palette": [
+          {
+            "hex": "#151515",
+            "share": 0.267
+          },
+          {
+            "hex": "#1f1f1f",
+            "share": 0.249
+          },
+          {
+            "hex": "#2e2e2d",
+            "share": 0.248
+          },
+          {
+            "hex": "#646361",
+            "share": 0.12
+          },
+          {
+            "hex": "#c2c1be",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

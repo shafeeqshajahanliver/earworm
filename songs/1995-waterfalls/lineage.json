@@ -1,0 +1,48 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/23984",
+    "title": "Waterfalls",
+    "performer": "TLC",
+    "is_original": true,
+    "first_release_date": "1994-11-15",
+    "releases": [
+      {
+        "title": "CrazySexyCool",
+        "uri": "https://api.secondhandsongs.com/release/9629",
+        "performer": "TLC"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 50,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/23984",
+    "title": "Waterfalls",
+    "language": "English",
+    "writers": [
+      "Sleepy Brown",
+      "Lisa Lopes",
+      "Marqueze M. Ethridge",
+      "Ray Murray",
+      "Rico Wade"
+    ],
+    "original_performer": "TLC",
+    "versions": 51,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Phony Calls",
+        "uri": "https://api.secondhandsongs.com/work/23989"
+      },
+      {
+        "title": "Don't Go Chasing Santa Claus",
+        "uri": "https://api.secondhandsongs.com/work/318728"
+      }
+    ]
+  }
+}

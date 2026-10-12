@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c5639f4d-8363-3447-b44b-5983d933cea7",
+      "release_title": "Down Under",
+      "release_date": "1981",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6eaf322d-4472-45a1-adfe-7e1ed2174509/13328566134-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/6eaf322d-4472-45a1-adfe-7e1ed2174509",
+      "image_id": "13328566134",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        496,
+        500
+      ],
+      "measures": {
+        "brightness": 0.611,
+        "saturation": 0.175,
+        "dark_share": 0.221,
+        "palette": [
+          {
+            "hex": "#22241f",
+            "share": 0.286
+          },
+          {
+            "hex": "#dbcfad",
+            "share": 0.222
+          },
+          {
+            "hex": "#efe3c8",
+            "share": 0.197
+          },
+          {
+            "hex": "#7a7661",
+            "share": 0.17
+          },
+          {
+            "hex": "#f8f1da",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
+      "release_title": "Business As Usual",
+      "release_date": "1981-11-09",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Business as Usual",
+      "url": "http://coverartarchive.org/release/f43f6018-82e1-3b7a-b5ac-5594d40a0a63/6689063930-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f43f6018-82e1-3b7a-b5ac-5594d40a0a63",
+      "image_id": 6689063930,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.584,
+        "saturation": 0.676,
+        "dark_share": 0.301,
+        "palette": [
+          {
+            "hex": "#f6e300",
+            "share": 0.419
+          },
+          {
+            "hex": "#010001",
+            "share": 0.306
+          },
+          {
+            "hex": "#6c5f24",
+            "share": 0.143
+          },
+          {
+            "hex": "#e0ce2d",
+            "share": 0.067
+          },
+          {
+            "hex": "#fbee55",
+            "share": 0.066
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/6d/c4/cb/mzi.kwabnnuy.jpg/1200x1200bb.jpg",
+      "collection": "Down Under",
+      "collection_id": 279224910,
+      "track_id": 279225031,
+      "artist_name": "Men At Work",
+      "release_date": "1981-10-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.633,
+        "saturation": 0.207,
+        "dark_share": 0.246,
+        "palette": [
+          {
+            "hex": "#0b0e0e",
+            "share": 0.277
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.225
+          },
+          {
+            "hex": "#f1f1f0",
+            "share": 0.217
+          },
+          {
+            "hex": "#857b48",
+            "share": 0.21
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.071
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

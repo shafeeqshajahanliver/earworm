@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9ae7bfe7-16ef-4787-8792-5cc232982ef8",
+      "release_title": "I Like Dreamin’",
+      "release_date": "1976-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "0b48073f-6743-4e1a-b087-487807f8e870",
+      "release_title": "Kenny Nolan",
+      "release_date": "1977",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Kenny Nolan",
+      "url": "http://coverartarchive.org/release/37675015-9f5c-4a93-b023-087e9b6bf530/2900017170-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/37675015-9f5c-4a93-b023-087e9b6bf530",
+      "image_id": "2900017170",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.523,
+        "saturation": 0.518,
+        "dark_share": 0.118,
+        "palette": [
+          {
+            "hex": "#aa533f",
+            "share": 0.238
+          },
+          {
+            "hex": "#df9a51",
+            "share": 0.237
+          },
+          {
+            "hex": "#2f2022",
+            "share": 0.207
+          },
+          {
+            "hex": "#492929",
+            "share": 0.179
+          },
+          {
+            "hex": "#6c3530",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/b5/d4/02b5d486-04f2-f956-52aa-399accb140bf/610583684223.jpg/1200x1200bb.jpg",
+      "collection": "I Like Dreamin'",
+      "collection_id": 1741310333,
+      "track_id": 1741310340,
+      "artist_name": "Kenny Nolan",
+      "release_date": "1977-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.641,
+        "saturation": 0.321,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#888487",
+            "share": 0.268
+          },
+          {
+            "hex": "#4e464e",
+            "share": 0.223
+          },
+          {
+            "hex": "#55adc4",
+            "share": 0.205
+          },
+          {
+            "hex": "#c5ad9e",
+            "share": 0.162
+          },
+          {
+            "hex": "#bfd4c5",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

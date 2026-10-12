@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3976fab0-71e1-35b2-8496-cf507a9100ff",
+      "release_title": "Gives You Hell",
+      "release_date": "2009-02-01",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/f52c0055-66ff-3d9e-ab7f-074aa21d6ba2/5754705588-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/f52c0055-66ff-3d9e-ab7f-074aa21d6ba2",
+      "image_id": "5754705588",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        463
+      ],
+      "measures": {
+        "brightness": 0.593,
+        "saturation": 0.502,
+        "dark_share": 0.243,
+        "palette": [
+          {
+            "hex": "#261a17",
+            "share": 0.283
+          },
+          {
+            "hex": "#e7bc9f",
+            "share": 0.249
+          },
+          {
+            "hex": "#ba4f26",
+            "share": 0.213
+          },
+          {
+            "hex": "#c67a4c",
+            "share": 0.175
+          },
+          {
+            "hex": "#522f20",
+            "share": 0.081
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2ce57a09-9b74-3571-a72b-79ff59ff89af",
+      "release_title": "When the World Comes Down",
+      "release_date": "2008",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: When the World Comes Down",
+      "url": "http://coverartarchive.org/release/c64fa601-1f58-428a-9786-44571eaf9421/28606981909-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c64fa601-1f58-428a-9786-44571eaf9421",
+      "image_id": 28606981909,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.646,
+        "saturation": 0.239,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#8aa09b",
+            "share": 0.27
+          },
+          {
+            "hex": "#9fb3ad",
+            "share": 0.245
+          },
+          {
+            "hex": "#3e5662",
+            "share": 0.197
+          },
+          {
+            "hex": "#b2bdb4",
+            "share": 0.184
+          },
+          {
+            "hex": "#d0cbbe",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/30/41/8d30410b-adb1-ba0f-a63f-fe555cc896ed/08UMGIM25127.rgb.jpg/1200x1200bb.jpg",
+      "collection": "When the World Comes Down (Bonus Track Version)",
+      "collection_id": 1440770567,
+      "track_id": 1440770575,
+      "artist_name": "The All-American Rejects",
+      "release_date": "2008-09-30T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.637,
+        "saturation": 0.224,
+        "dark_share": 0.031,
+        "palette": [
+          {
+            "hex": "#899c97",
+            "share": 0.268
+          },
+          {
+            "hex": "#9fb1aa",
+            "share": 0.251
+          },
+          {
+            "hex": "#3f545f",
+            "share": 0.197
+          },
+          {
+            "hex": "#b3bbb2",
+            "share": 0.181
+          },
+          {
+            "hex": "#d0c9bc",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

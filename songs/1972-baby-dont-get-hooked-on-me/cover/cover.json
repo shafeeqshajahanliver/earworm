@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "03526550-9c8d-3746-8964-d71de5a6027c",
+      "release_title": "Baby Don't Get Hooked on Me",
+      "release_date": "1972",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Baby Don't Get Hooked on Me",
+      "url": "http://coverartarchive.org/release/8469a987-bd5a-4528-ab32-b2b13fbc0806/13732666343-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/8469a987-bd5a-4528-ab32-b2b13fbc0806",
+      "image_id": "13732666343",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        480,
+        489
+      ],
+      "measures": {
+        "brightness": 0.692,
+        "saturation": 0.558,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#ab6038",
+            "share": 0.278
+          },
+          {
+            "hex": "#7a4424",
+            "share": 0.234
+          },
+          {
+            "hex": "#bd7f5a",
+            "share": 0.21
+          },
+          {
+            "hex": "#cca081",
+            "share": 0.169
+          },
+          {
+            "hex": "#f0ca94",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/d6/66/f8/d666f8a9-b93d-10ef-c7bf-990423b51ae3/888880129208.jpg/1200x1200bb.jpg",
+      "collection": "Baby Don't Get Hooked On Me",
+      "collection_id": 216333534,
+      "track_id": 216333781,
+      "artist_name": "Mac Davis",
+      "release_date": "1972-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.384,
+        "saturation": 0.325,
+        "dark_share": 0.2,
+        "palette": [
+          {
+            "hex": "#3f3b37",
+            "share": 0.291
+          },
+          {
+            "hex": "#262826",
+            "share": 0.229
+          },
+          {
+            "hex": "#4a5660",
+            "share": 0.199
+          },
+          {
+            "hex": "#2d7196",
+            "share": 0.181
+          },
+          {
+            "hex": "#749cb1",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

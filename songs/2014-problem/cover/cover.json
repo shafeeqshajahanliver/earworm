@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "72ed70a6-2883-4345-8372-f6f68e18eaf3",
+      "release_title": "Problem",
+      "release_date": "2014-04-28",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6a5050eb-db83-4d38-9b44-3354edb973d7/10015030333-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6a5050eb-db83-4d38-9b44-3354edb973d7",
+      "image_id": 10015030333,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.501,
+        "saturation": 0.388,
+        "dark_share": 0.024,
+        "palette": [
+          {
+            "hex": "#183245",
+            "share": 0.25
+          },
+          {
+            "hex": "#465961",
+            "share": 0.246
+          },
+          {
+            "hex": "#647374",
+            "share": 0.234
+          },
+          {
+            "hex": "#a9a39c",
+            "share": 0.142
+          },
+          {
+            "hex": "#dde2dd",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "17fd3576-b584-4f32-8ff0-12206d4cb66c",
+      "release_title": "My Everything",
+      "release_date": "2014-08-22",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: My Everything",
+      "url": "https://coverartarchive.org/release/b884c5eb-b8d0-4e8e-a36c-ab936909175f/44067407123-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b884c5eb-b8d0-4e8e-a36c-ab936909175f",
+      "image_id": 44067407123,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.382,
+        "saturation": 0.0,
+        "dark_share": 0.054,
+        "palette": [
+          {
+            "hex": "#595959",
+            "share": 0.366
+          },
+          {
+            "hex": "#515151",
+            "share": 0.225
+          },
+          {
+            "hex": "#373737",
+            "share": 0.202
+          },
+          {
+            "hex": "#cbcbcb",
+            "share": 0.136
+          },
+          {
+            "hex": "#6b6b6b",
+            "share": 0.071
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/4e/24/c64e2450-2dfe-0d50-b660-d98220ea9d69/24UMGIM87706.rgb.jpg/1200x1200bb.jpg",
+      "collection": "My Everything (Tenth Anniversary Edition)",
+      "collection_id": 1762836487,
+      "track_id": 1762836495,
+      "artist_name": "Ariana Grande",
+      "release_date": "2014-04-28T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.575,
+        "saturation": 0.084,
+        "dark_share": 0.034,
+        "palette": [
+          {
+            "hex": "#8d8292",
+            "share": 0.338
+          },
+          {
+            "hex": "#918696",
+            "share": 0.254
+          },
+          {
+            "hex": "#908595",
+            "share": 0.207
+          },
+          {
+            "hex": "#b7b3b8",
+            "share": 0.116
+          },
+          {
+            "hex": "#6e6771",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

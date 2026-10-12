@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "62c449ca-0483-372a-9b36-b067735d2a2e",
+      "release_title": "With You",
+      "release_date": "2007-12-04",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/30b0cafb-affa-457b-8dc0-99ada81f9f2a/29012986473-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/30b0cafb-affa-457b-8dc0-99ada81f9f2a",
+      "image_id": 29012986473,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.345,
+        "saturation": 0.347,
+        "dark_share": 0.477,
+        "palette": [
+          {
+            "hex": "#030603",
+            "share": 0.276
+          },
+          {
+            "hex": "#6b5145",
+            "share": 0.259
+          },
+          {
+            "hex": "#d4d0ce",
+            "share": 0.215
+          },
+          {
+            "hex": "#060c08",
+            "share": 0.127
+          },
+          {
+            "hex": "#201c15",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "52031b6b-5d3f-3c2d-96a0-112209fed15a",
+      "release_title": "Exclusive",
+      "release_date": "2007-11-05",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Exclusive",
+      "url": "https://coverartarchive.org/release/8000a5c5-ec26-48a3-a268-8cb7256fa526/45919901065-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8000a5c5-ec26-48a3-a268-8cb7256fa526",
+      "image_id": 45919901065,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        640,
+        640
+      ],
+      "measures": {
+        "brightness": 0.296,
+        "saturation": 0.267,
+        "dark_share": 0.399,
+        "palette": [
+          {
+            "hex": "#232629",
+            "share": 0.266
+          },
+          {
+            "hex": "#0a090c",
+            "share": 0.251
+          },
+          {
+            "hex": "#4e4a3f",
+            "share": 0.222
+          },
+          {
+            "hex": "#85806f",
+            "share": 0.134
+          },
+          {
+            "hex": "#b8b4a7",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2f/ec/dd/2fecdd59-1ca1-47c1-a945-2969eb0d347b/888880280336.jpg/1200x1200bb.jpg",
+      "collection": "Exclusive (Expanded Edition)",
+      "collection_id": 267264811,
+      "track_id": 267264889,
+      "artist_name": "Chris Brown",
+      "release_date": "2007-11-06T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.299,
+        "saturation": 0.262,
+        "dark_share": 0.394,
+        "palette": [
+          {
+            "hex": "#4f4b40",
+            "share": 0.246
+          },
+          {
+            "hex": "#0a0a0d",
+            "share": 0.244
+          },
+          {
+            "hex": "#a09b8c",
+            "share": 0.219
+          },
+          {
+            "hex": "#2d2b28",
+            "share": 0.15
+          },
+          {
+            "hex": "#1b222c",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "dd55e60b-0f07-468f-aca1-d9402e9baffc",
+      "release_title": "Moves Like Jagger",
+      "release_date": "2011-06-21",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9b252de9-5919-4eef-b179-d185730c2cbf/10712120778-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/9b252de9-5919-4eef-b179-d185730c2cbf",
+      "image_id": "10712120778",
+      "types": [
+        "Front",
+        "Track"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.723,
+        "saturation": 0.351,
+        "dark_share": 0.181,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.438
+          },
+          {
+            "hex": "#4c0118",
+            "share": 0.272
+          },
+          {
+            "hex": "#556468",
+            "share": 0.215
+          },
+          {
+            "hex": "#ebf0dc",
+            "share": 0.069
+          },
+          {
+            "hex": "#fffee8",
+            "share": 0.006
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a097ca51-85d5-4109-8e0f-55189a70cb9b",
+      "release_title": "Hands All Over",
+      "release_date": "2010-09-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Hands All Over",
+      "url": "http://coverartarchive.org/release/94af6add-c412-44f4-b8a6-a0b8e584153d/1973409713-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/94af6add-c412-44f4-b8a6-a0b8e584153d",
+      "image_id": "1973409713",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        400,
+        400
+      ],
+      "measures": {
+        "brightness": 0.774,
+        "saturation": 0.164,
+        "dark_share": 0.044,
+        "palette": [
+          {
+            "hex": "#c7aea2",
+            "share": 0.25
+          },
+          {
+            "hex": "#6e4941",
+            "share": 0.217
+          },
+          {
+            "hex": "#e9e2df",
+            "share": 0.198
+          },
+          {
+            "hex": "#f4f0ee",
+            "share": 0.189
+          },
+          {
+            "hex": "#f7f3f2",
+            "share": 0.146
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/61/53/15/61531592-3e8b-1e85-b434-73a991d8143c/14UMGIM27067.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Hands All Over (Deluxe Edition)",
+      "collection_id": 1440858689,
+      "track_id": 1440859510,
+      "artist_name": "Maroon 5",
+      "release_date": "2010-09-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.765,
+        "saturation": 0.182,
+        "dark_share": 0.033,
+        "palette": [
+          {
+            "hex": "#c1a394",
+            "share": 0.275
+          },
+          {
+            "hex": "#744b41",
+            "share": 0.214
+          },
+          {
+            "hex": "#e2d9d4",
+            "share": 0.196
+          },
+          {
+            "hex": "#f1eceb",
+            "share": 0.181
+          },
+          {
+            "hex": "#f6f2f3",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

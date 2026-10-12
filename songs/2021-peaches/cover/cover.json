@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "04de5d0b-1e38-4890-93a3-34bc5fdda4dc",
+      "release_title": "Peaches",
+      "release_date": "2021-03-23",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/aaf89d9c-8640-47cf-9625-9d8e4d0ba804/29419619979-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/aaf89d9c-8640-47cf-9625-9d8e4d0ba804",
+      "image_id": 29419619979,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.733,
+        "saturation": 0.382,
+        "dark_share": 0.017,
+        "palette": [
+          {
+            "hex": "#96b1d8",
+            "share": 0.255
+          },
+          {
+            "hex": "#2f316b",
+            "share": 0.24
+          },
+          {
+            "hex": "#6e76ac",
+            "share": 0.232
+          },
+          {
+            "hex": "#eaf4f7",
+            "share": 0.139
+          },
+          {
+            "hex": "#cfcae2",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0f9d5103-dd09-4fcd-8fe1-223612668f09",
+      "release_title": "Justice",
+      "release_date": "2021-03-19",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Justice",
+      "url": "http://coverartarchive.org/release/166f481c-1e42-4551-b327-eda0fb86bb7d/28752687498-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/166f481c-1e42-4551-b327-eda0fb86bb7d",
+      "image_id": 28752687498,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.462,
+        "saturation": 0.556,
+        "dark_share": 0.255,
+        "palette": [
+          {
+            "hex": "#081219",
+            "share": 0.263
+          },
+          {
+            "hex": "#549f7c",
+            "share": 0.241
+          },
+          {
+            "hex": "#244d43",
+            "share": 0.229
+          },
+          {
+            "hex": "#95ca91",
+            "share": 0.154
+          },
+          {
+            "hex": "#52cfb1",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/97/ff/8797ffaa-3170-40fd-aa51-e85acc46f941/21UMGIM83129.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Justice (The Complete Edition)",
+      "collection_id": 1588021953,
+      "track_id": 1588022117,
+      "artist_name": "Justin Bieber",
+      "release_date": "2021-03-19T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.406,
+        "saturation": 0.0,
+        "dark_share": 0.302,
+        "palette": [
+          {
+            "hex": "#121212",
+            "share": 0.269
+          },
+          {
+            "hex": "#414141",
+            "share": 0.229
+          },
+          {
+            "hex": "#afafaf",
+            "share": 0.216
+          },
+          {
+            "hex": "#8d8d8d",
+            "share": 0.191
+          },
+          {
+            "hex": "#cacaca",
+            "share": 0.095
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

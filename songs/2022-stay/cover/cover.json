@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c23a7995-9f2a-4716-8812-3b35d05eddd3",
+      "release_title": "STAY",
+      "release_date": "2021-07-09",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/c5b4cc22-8f29-4c21-8d01-0f9a91b48000/36018419107-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c5b4cc22-8f29-4c21-8d01-0f9a91b48000",
+      "image_id": 36018419107,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.387,
+        "saturation": 0.535,
+        "dark_share": 0.367,
+        "palette": [
+          {
+            "hex": "#0d0c09",
+            "share": 0.283
+          },
+          {
+            "hex": "#316e7d",
+            "share": 0.252
+          },
+          {
+            "hex": "#1f2f30",
+            "share": 0.199
+          },
+          {
+            "hex": "#42a1b4",
+            "share": 0.14
+          },
+          {
+            "hex": "#9fc3ce",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/59/6a/89596ab9-fa3c-8d08-4d95-a6450fa2013c/886449400515.jpg/1200x1200bb.jpg",
+      "collection": "STAY - Single",
+      "collection_id": 1574968878,
+      "track_id": 1574968888,
+      "artist_name": "The Kid LAROI & Justin Bieber",
+      "release_date": "2021-07-09T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.389,
+        "saturation": 0.491,
+        "dark_share": 0.368,
+        "palette": [
+          {
+            "hex": "#110f0d",
+            "share": 0.301
+          },
+          {
+            "hex": "#326e7d",
+            "share": 0.254
+          },
+          {
+            "hex": "#202f30",
+            "share": 0.181
+          },
+          {
+            "hex": "#41a0b3",
+            "share": 0.14
+          },
+          {
+            "hex": "#9ec3ce",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

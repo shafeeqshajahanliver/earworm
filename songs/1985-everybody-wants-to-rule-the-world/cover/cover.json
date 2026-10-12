@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "64b89ba1-db07-3569-828d-9d2fa7f955d2",
+      "release_title": "Everybody Wants to Rule the World",
+      "release_date": "1985",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9f1e1046-7361-4349-af15-ed78a8176bff/8915743985-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/9f1e1046-7361-4349-af15-ed78a8176bff",
+      "image_id": "8915743985",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        400,
+        400
+      ],
+      "measures": {
+        "brightness": 0.329,
+        "saturation": 0.419,
+        "dark_share": 0.43,
+        "palette": [
+          {
+            "hex": "#0f0809",
+            "share": 0.24
+          },
+          {
+            "hex": "#563932",
+            "share": 0.237
+          },
+          {
+            "hex": "#b8a192",
+            "share": 0.212
+          },
+          {
+            "hex": "#321e1d",
+            "share": 0.182
+          },
+          {
+            "hex": "#1f1112",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "475946e9-4b00-3f7c-9bd7-c11f55740262",
+      "release_title": "Songs From the Big Chair",
+      "release_date": "1985",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Songs from the Big Chair",
+      "url": "http://coverartarchive.org/release/9aefc6dd-216a-4271-ada1-d9cf67956f39/19682986993-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9aefc6dd-216a-4271-ada1-d9cf67956f39",
+      "image_id": 19682986993,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.335,
+        "saturation": 0.102,
+        "dark_share": 0.501,
+        "palette": [
+          {
+            "hex": "#cfd0cf",
+            "share": 0.29
+          },
+          {
+            "hex": "#000000",
+            "share": 0.26
+          },
+          {
+            "hex": "#1e1f1f",
+            "share": 0.178
+          },
+          {
+            "hex": "#6e6e6e",
+            "share": 0.15
+          },
+          {
+            "hex": "#06090a",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/52/e5/6952e5e6-c723-f8ee-59c7-434d38292117/14UMGIM37794.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Songs from the Big Chair (Deluxe)",
+      "collection_id": 1443225973,
+      "track_id": 1443227225,
+      "artist_name": "Tears for Fears",
+      "release_date": "1985-02-17T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.349,
+        "saturation": 0.148,
+        "dark_share": 0.502,
+        "palette": [
+          {
+            "hex": "#06090a",
+            "share": 0.306
+          },
+          {
+            "hex": "#17191a",
+            "share": 0.246
+          },
+          {
+            "hex": "#c3c2c0",
+            "share": 0.166
+          },
+          {
+            "hex": "#6d6c6d",
+            "share": 0.144
+          },
+          {
+            "hex": "#dedddb",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

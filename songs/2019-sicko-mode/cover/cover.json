@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "bd415c44-8810-4044-b616-18e3c244b346",
+      "release_title": "SICKO MODE",
+      "release_date": "2018-10-20",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/1355c6b4-7740-4441-aa13-bce1ea9d7496/42519189195-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1355c6b4-7740-4441-aa13-bce1ea9d7496",
+      "image_id": 42519189195,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        675
+      ],
+      "measures": {
+        "brightness": 0.199,
+        "saturation": 0.467,
+        "dark_share": 0.626,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.388
+          },
+          {
+            "hex": "#252420",
+            "share": 0.303
+          },
+          {
+            "hex": "#001111",
+            "share": 0.135
+          },
+          {
+            "hex": "#5b6853",
+            "share": 0.133
+          },
+          {
+            "hex": "#141210",
+            "share": 0.041
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2",
+      "release_title": "ASTROWORLD",
+      "release_date": "2018-08-03",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Astroworld",
+      "url": "https://coverartarchive.org/release/82784744-65ed-4f32-b004-ba45cd726509/22387554802-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/82784744-65ed-4f32-b004-ba45cd726509",
+      "image_id": 22387554802,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.676,
+        "saturation": 0.468,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#93b1c5",
+            "share": 0.308
+          },
+          {
+            "hex": "#5f3823",
+            "share": 0.214
+          },
+          {
+            "hex": "#89806e",
+            "share": 0.207
+          },
+          {
+            "hex": "#ccab76",
+            "share": 0.184
+          },
+          {
+            "hex": "#d9d0b2",
+            "share": 0.088
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/49/8f/e7498f65-df8f-bead-d6e3-2a8d4d642a79/886447235317.jpg/1200x1200bb.jpg",
+      "collection": "ASTROWORLD",
+      "collection_id": 1421658111,
+      "track_id": 1421658123,
+      "artist_name": "Travis Scott",
+      "release_date": "2018-08-03T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.675,
+        "saturation": 0.474,
+        "dark_share": 0.029,
+        "palette": [
+          {
+            "hex": "#91b0c5",
+            "share": 0.305
+          },
+          {
+            "hex": "#603722",
+            "share": 0.213
+          },
+          {
+            "hex": "#887d6b",
+            "share": 0.207
+          },
+          {
+            "hex": "#cca973",
+            "share": 0.184
+          },
+          {
+            "hex": "#d9cfb2",
+            "share": 0.09
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

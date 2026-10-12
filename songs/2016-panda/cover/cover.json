@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "05aceddc-cee2-4593-961a-38bbfe6afd7b",
+      "release_title": "Panda",
+      "release_date": "2016-08-30",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/cd5aa0cf-ee48-42da-8d84-99194cf2178d/12952056782-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cd5aa0cf-ee48-42da-8d84-99194cf2178d",
+      "image_id": 12952056782,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.168,
+        "saturation": 0.116,
+        "dark_share": 0.765,
+        "palette": [
+          {
+            "hex": "#121110",
+            "share": 0.262
+          },
+          {
+            "hex": "#090809",
+            "share": 0.214
+          },
+          {
+            "hex": "#8c867e",
+            "share": 0.18
+          },
+          {
+            "hex": "#020203",
+            "share": 0.178
+          },
+          {
+            "hex": "#050506",
+            "share": 0.167
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "12729013-1d6a-4c63-8fe0-c7c05583db32",
+      "release_title": "New English",
+      "release_date": "2016-06-26",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: New English",
+      "url": "http://coverartarchive.org/release/c6a29f76-c20d-4d6d-ae83-7e833a39c870/14747893625-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/c6a29f76-c20d-4d6d-ae83-7e833a39c870",
+      "image_id": "14747893625",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.231,
+        "saturation": 0.0,
+        "dark_share": 0.691,
+        "palette": [
+          {
+            "hex": "#292929",
+            "share": 0.256
+          },
+          {
+            "hex": "#1f1f1f",
+            "share": 0.254
+          },
+          {
+            "hex": "#1d1d1d",
+            "share": 0.247
+          },
+          {
+            "hex": "#7e7e7e",
+            "share": 0.2
+          },
+          {
+            "hex": "#1b1b1b",
+            "share": 0.043
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/f1/f9/a1f1f914-6e61-21eb-d787-2d4020654aab/16UMGIM11380.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Panda - Single",
+      "collection_id": 1445306491,
+      "track_id": 1445306492,
+      "artist_name": "Desiigner",
+      "release_date": "2016-02-26T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.141,
+        "saturation": 0.048,
+        "dark_share": 0.802,
+        "palette": [
+          {
+            "hex": "#0a0a0a",
+            "share": 0.312
+          },
+          {
+            "hex": "#000000",
+            "share": 0.269
+          },
+          {
+            "hex": "#030303",
+            "share": 0.22
+          },
+          {
+            "hex": "#807d79",
+            "share": 0.166
+          },
+          {
+            "hex": "#000101",
+            "share": 0.033
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

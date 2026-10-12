@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "82bdb12c-ee39-40bc-8f1c-1a6b57a0705f",
+      "release_title": "On My Own",
+      "release_date": "1986",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6e82173e-5c43-4833-a4e5-0becaa036c8f/36783958181-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6e82173e-5c43-4833-a4e5-0becaa036c8f",
+      "image_id": 36783958181,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        598,
+        593
+      ],
+      "measures": {
+        "brightness": 0.669,
+        "saturation": 0.206,
+        "dark_share": 0.048,
+        "palette": [
+          {
+            "hex": "#c2b69f",
+            "share": 0.258
+          },
+          {
+            "hex": "#b8ad9a",
+            "share": 0.257
+          },
+          {
+            "hex": "#68564f",
+            "share": 0.179
+          },
+          {
+            "hex": "#c6b9a2",
+            "share": 0.161
+          },
+          {
+            "hex": "#c9bda4",
+            "share": 0.145
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "5f23d164-1676-3a27-b8cd-444b690e9da4",
+      "release_title": "Winner in You",
+      "release_date": "1986-04-28",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Winner in You",
+      "url": "http://coverartarchive.org/release/168cba99-9478-4cf8-998e-045ab3f407e5/8604849022-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/168cba99-9478-4cf8-998e-045ab3f407e5",
+      "image_id": "8604849022",
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        494
+      ],
+      "measures": {
+        "brightness": 0.631,
+        "saturation": 0.283,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#8f478c",
+            "share": 0.256
+          },
+          {
+            "hex": "#9f8e88",
+            "share": 0.237
+          },
+          {
+            "hex": "#e0e1da",
+            "share": 0.226
+          },
+          {
+            "hex": "#5a4050",
+            "share": 0.188
+          },
+          {
+            "hex": "#954e87",
+            "share": 0.092
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/70/d7/f670d7c9-7587-8cbf-fed1-9be01f7d3c7b/00076732573723.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Winner in You",
+      "collection_id": 1467952230,
+      "track_id": 1467952238,
+      "artist_name": "Patti LaBelle & Michael McDonald",
+      "release_date": "1986-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.599,
+        "saturation": 0.407,
+        "dark_share": 0.156,
+        "palette": [
+          {
+            "hex": "#9c2e6e",
+            "share": 0.338
+          },
+          {
+            "hex": "#2f1523",
+            "share": 0.204
+          },
+          {
+            "hex": "#9a6b6b",
+            "share": 0.199
+          },
+          {
+            "hex": "#fdfbfb",
+            "share": 0.143
+          },
+          {
+            "hex": "#debab9",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

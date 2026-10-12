@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "06d15f53-80f2-46f3-a484-d46d02a09745",
+      "release_title": "Let’s Get It On",
+      "release_date": "1973-06-15",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/616b080e-ed3f-4ea5-bcaf-c9ee4aa9cc06/14841190279-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/616b080e-ed3f-4ea5-bcaf-c9ee4aa9cc06",
+      "image_id": "14841190279",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "Side A",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        494
+      ],
+      "measures": {
+        "brightness": 0.917,
+        "saturation": 0.457,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f9c548",
+            "share": 0.428
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.199
+          },
+          {
+            "hex": "#ab723a",
+            "share": 0.181
+          },
+          {
+            "hex": "#f9fffb",
+            "share": 0.146
+          },
+          {
+            "hex": "#fcd35e",
+            "share": 0.047
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e834440b-ffe0-41bf-83de-336b53dc1470",
+      "release_title": "Let’s Get It On",
+      "release_date": "1998",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Let's Get It On",
+      "url": "https://coverartarchive.org/release/89a7d400-d24e-451f-98c9-c66b705b98b2/43869780548-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/89a7d400-d24e-451f-98c9-c66b705b98b2",
+      "image_id": 43869780548,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.239,
+        "saturation": 0.385,
+        "dark_share": 0.655,
+        "palette": [
+          {
+            "hex": "#2e1e19",
+            "share": 0.231
+          },
+          {
+            "hex": "#120e0b",
+            "share": 0.218
+          },
+          {
+            "hex": "#0d0d09",
+            "share": 0.195
+          },
+          {
+            "hex": "#a48f7f",
+            "share": 0.183
+          },
+          {
+            "hex": "#080a05",
+            "share": 0.174
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/65/db/e565db27-c3fd-e972-4010-1bfa2d918f10/23UMGIM49775.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Let's Get It On (Deluxe Edition)",
+      "collection_id": 1701654441,
+      "track_id": 1701654459,
+      "artist_name": "Marvin Gaye",
+      "release_date": "1973-06-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.41,
+        "saturation": 0.402,
+        "dark_share": 0.338,
+        "palette": [
+          {
+            "hex": "#131c19",
+            "share": 0.318
+          },
+          {
+            "hex": "#be4840",
+            "share": 0.217
+          },
+          {
+            "hex": "#4f2c2f",
+            "share": 0.174
+          },
+          {
+            "hex": "#6a4039",
+            "share": 0.172
+          },
+          {
+            "hex": "#977356",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

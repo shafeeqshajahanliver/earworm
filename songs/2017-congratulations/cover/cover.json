@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3241175b-e718-4358-adb2-5fd73cce85c0",
+      "release_title": "Congratulations",
+      "release_date": "2016-11-04",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/234e72f5-3694-4c24-862e-dcfa29f1a776/32563780470-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/234e72f5-3694-4c24-862e-dcfa29f1a776",
+      "image_id": 32563780470,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.41,
+        "saturation": 0.567,
+        "dark_share": 0.486,
+        "palette": [
+          {
+            "hex": "#0f2320",
+            "share": 0.305
+          },
+          {
+            "hex": "#1f2823",
+            "share": 0.259
+          },
+          {
+            "hex": "#b65f3a",
+            "share": 0.166
+          },
+          {
+            "hex": "#e85f33",
+            "share": 0.157
+          },
+          {
+            "hex": "#803f2a",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+      "release_title": "Stoney",
+      "release_date": "2016",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Stoney",
+      "url": "https://coverartarchive.org/release/be737efb-043a-4049-8a12-0824c0799e90/20586275432-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/be737efb-043a-4049-8a12-0824c0799e90",
+      "image_id": 20586275432,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.41,
+        "saturation": 0.566,
+        "dark_share": 0.486,
+        "palette": [
+          {
+            "hex": "#0f2320",
+            "share": 0.304
+          },
+          {
+            "hex": "#1f2823",
+            "share": 0.259
+          },
+          {
+            "hex": "#b75f3a",
+            "share": 0.166
+          },
+          {
+            "hex": "#e85f33",
+            "share": 0.156
+          },
+          {
+            "hex": "#803f2a",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/09/25/9409251c-ea9e-040c-7649-52a66ac533ac/16UMGIM76041.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Stoney",
+      "collection_id": 1440901612,
+      "track_id": 1440901873,
+      "artist_name": "Post Malone",
+      "release_date": "2016-11-04T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.409,
+        "saturation": 0.566,
+        "dark_share": 0.49,
+        "palette": [
+          {
+            "hex": "#0e2220",
+            "share": 0.282
+          },
+          {
+            "hex": "#1e2823",
+            "share": 0.277
+          },
+          {
+            "hex": "#c95232",
+            "share": 0.164
+          },
+          {
+            "hex": "#d86839",
+            "share": 0.155
+          },
+          {
+            "hex": "#773d29",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

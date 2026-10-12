@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "e5495719-b3ad-3eea-a533-fb70af43c23d",
+      "release_title": "The Fame",
+      "release_date": "2008-08-19",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Fame",
+      "url": "http://coverartarchive.org/release/8c86403a-6bfb-40f8-a1db-1cde6cbf68a5/33619706574-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8c86403a-6bfb-40f8-a1db-1cde6cbf68a5",
+      "image_id": 33619706574,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.411,
+        "saturation": 0.17,
+        "dark_share": 0.489,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.379
+          },
+          {
+            "hex": "#f1e9e5",
+            "share": 0.309
+          },
+          {
+            "hex": "#868b96",
+            "share": 0.15
+          },
+          {
+            "hex": "#0a1018",
+            "share": 0.119
+          },
+          {
+            "hex": "#010001",
+            "share": 0.043
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/68/28/a66828c0-3fe3-5419-374d-ad98739f3166/08UMGIM13954.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Fame",
+      "collection_id": 1440818588,
+      "track_id": 1440818653,
+      "artist_name": "Lady Gaga",
+      "release_date": "2008-04-08T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.432,
+        "saturation": 0.294,
+        "dark_share": 0.487,
+        "palette": [
+          {
+            "hex": "#06090a",
+            "share": 0.386
+          },
+          {
+            "hex": "#f1e9e5",
+            "share": 0.309
+          },
+          {
+            "hex": "#868b96",
+            "share": 0.15
+          },
+          {
+            "hex": "#06111a",
+            "share": 0.098
+          },
+          {
+            "hex": "#0a0e11",
+            "share": 0.057
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

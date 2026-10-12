@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b464c11d-1aa7-3d27-a352-d999b96162c7",
+      "release_title": "The Sweet Escape",
+      "release_date": "2007-02-12",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/769be03d-a7cb-40a1-95c5-0ff41502b80b/16793527245-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/769be03d-a7cb-40a1-95c5-0ff41502b80b",
+      "image_id": 16793527245,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        436
+      ],
+      "measures": {
+        "brightness": 0.69,
+        "saturation": 0.333,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#55473f",
+            "share": 0.257
+          },
+          {
+            "hex": "#d8b07f",
+            "share": 0.234
+          },
+          {
+            "hex": "#9b7958",
+            "share": 0.233
+          },
+          {
+            "hex": "#f1d7a7",
+            "share": 0.155
+          },
+          {
+            "hex": "#f9f2c7",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e73243e2-8929-371a-ad65-7c7d0f1fad7e",
+      "release_title": "The Sweet Escape",
+      "release_date": "2006",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Sweet Escape",
+      "url": "http://coverartarchive.org/release/039dfe39-3f5a-4c45-8b22-208116466809/11228159973-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/039dfe39-3f5a-4c45-8b22-208116466809",
+      "image_id": "11228159973",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        496
+      ],
+      "measures": {
+        "brightness": 0.672,
+        "saturation": 0.278,
+        "dark_share": 0.02,
+        "palette": [
+          {
+            "hex": "#9e8c7b",
+            "share": 0.279
+          },
+          {
+            "hex": "#b9a896",
+            "share": 0.235
+          },
+          {
+            "hex": "#4a5055",
+            "share": 0.214
+          },
+          {
+            "hex": "#c6c1bc",
+            "share": 0.163
+          },
+          {
+            "hex": "#e5e3e1",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/0b/23/c60b23f8-98d3-aa35-3a93-a4abc849e4df/06UMGIM73605.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Sweet Escape",
+      "collection_id": 1455389985,
+      "track_id": 1455390118,
+      "artist_name": "Gwen Stefani",
+      "release_date": "2006-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.674,
+        "saturation": 0.278,
+        "dark_share": 0.019,
+        "palette": [
+          {
+            "hex": "#9f8c7a",
+            "share": 0.275
+          },
+          {
+            "hex": "#b9a796",
+            "share": 0.236
+          },
+          {
+            "hex": "#4b5055",
+            "share": 0.216
+          },
+          {
+            "hex": "#c6c1bc",
+            "share": 0.163
+          },
+          {
+            "hex": "#e6e3e1",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

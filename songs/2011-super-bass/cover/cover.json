@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "bdfb6913-7ec3-4c51-a186-d22d45daab4b",
+      "release_title": "Super Bass",
+      "release_date": "2011-05-13",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9588b393-8a06-4d33-910c-68669cc286e0/1940982530-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/9588b393-8a06-4d33-910c-68669cc286e0",
+      "image_id": "1940982530",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.821,
+        "saturation": 0.177,
+        "dark_share": 0.027,
+        "palette": [
+          {
+            "hex": "#ecd3d6",
+            "share": 0.496
+          },
+          {
+            "hex": "#885864",
+            "share": 0.198
+          },
+          {
+            "hex": "#e2c1c3",
+            "share": 0.184
+          },
+          {
+            "hex": "#ead3d5",
+            "share": 0.09
+          },
+          {
+            "hex": "#eed8d6",
+            "share": 0.032
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c91d9596-dfa8-482d-b3ab-706e937fd3ec",
+      "release_title": "Pink Friday",
+      "release_date": "2010",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Pink Friday",
+      "url": "https://coverartarchive.org/release/6bb61400-5238-46e3-801a-7f20e246f70e/38569532632-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6bb61400-5238-46e3-801a-7f20e246f70e",
+      "image_id": 38569532632,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.868,
+        "saturation": 0.132,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#d4a8bc",
+            "share": 0.312
+          },
+          {
+            "hex": "#fbfcfe",
+            "share": 0.282
+          },
+          {
+            "hex": "#dec6cf",
+            "share": 0.169
+          },
+          {
+            "hex": "#cdacb4",
+            "share": 0.127
+          },
+          {
+            "hex": "#bf979e",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/6a/dc/3f6adcfb-4d27-303e-b964-3710c56800e3/11UMGIM13385.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Pink Friday (Deluxe Edition)",
+      "collection_id": 1440909639,
+      "track_id": 1440910489,
+      "artist_name": "Nicki Minaj",
+      "release_date": "2010-11-22T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.862,
+        "saturation": 0.145,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#d5a8bc",
+            "share": 0.341
+          },
+          {
+            "hex": "#f7f6f9",
+            "share": 0.246
+          },
+          {
+            "hex": "#d9bbc6",
+            "share": 0.196
+          },
+          {
+            "hex": "#cdaab4",
+            "share": 0.114
+          },
+          {
+            "hex": "#c0979e",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

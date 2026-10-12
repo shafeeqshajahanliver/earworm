@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b0c84bf8-61db-4933-9a39-9205bad26396",
+      "release_title": "Angel in Your Arms / Just 'Cause I'm Guilty",
+      "release_date": "1976",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "b3da6414-618f-4e04-bb37-bc2db4746703",
+      "release_title": "Hot",
+      "release_date": "1977",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Hot",
+      "url": "http://coverartarchive.org/release/d78f2651-c89e-4e2b-8d6c-866cebf8fe29/35550771422-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d78f2651-c89e-4e2b-8d6c-866cebf8fe29",
+      "image_id": 35550771422,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        591
+      ],
+      "measures": {
+        "brightness": 0.669,
+        "saturation": 0.267,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#fefcfd",
+            "share": 0.336
+          },
+          {
+            "hex": "#492b34",
+            "share": 0.238
+          },
+          {
+            "hex": "#9a5c65",
+            "share": 0.202
+          },
+          {
+            "hex": "#6a4350",
+            "share": 0.14
+          },
+          {
+            "hex": "#dfada6",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/ae/25/79ae25be-f03e-dfbc-aa5b-588e31012784/5059460151802.jpg/1200x1200bb.jpg",
+      "collection": "Hot",
+      "collection_id": 1639858199,
+      "track_id": 1639858211,
+      "artist_name": "Hot",
+      "release_date": "1977-09-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.562,
+        "saturation": 0.336,
+        "dark_share": 0.263,
+        "palette": [
+          {
+            "hex": "#1d1810",
+            "share": 0.323
+          },
+          {
+            "hex": "#ecede9",
+            "share": 0.259
+          },
+          {
+            "hex": "#68351d",
+            "share": 0.244
+          },
+          {
+            "hex": "#f4f4ed",
+            "share": 0.107
+          },
+          {
+            "hex": "#c2a896",
+            "share": 0.067
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

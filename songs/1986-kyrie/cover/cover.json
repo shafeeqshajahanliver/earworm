@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "006a9cc8-8525-42b6-9718-260967c17bb7",
+      "release_title": "Kyrie",
+      "release_date": "1985",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/fd915d39-7c69-4675-a981-e8c14b75039d/41582411849-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fd915d39-7c69-4675-a981-e8c14b75039d",
+      "image_id": 41582411849,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        150,
+        148
+      ],
+      "measures": {
+        "brightness": 0.355,
+        "saturation": 0.249,
+        "dark_share": 0.461,
+        "palette": [
+          {
+            "hex": "#b1b9bd",
+            "share": 0.238
+          },
+          {
+            "hex": "#131619",
+            "share": 0.215
+          },
+          {
+            "hex": "#252327",
+            "share": 0.202
+          },
+          {
+            "hex": "#4d4758",
+            "share": 0.19
+          },
+          {
+            "hex": "#1a1a1e",
+            "share": 0.156
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "fbc189f0-ad48-31af-88f5-a711eee6e40a",
+      "release_title": "Welcome to the Real World",
+      "release_date": "1985-05",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Welcome to the Real World",
+      "url": "https://coverartarchive.org/release/a9463464-fd06-46ef-9e06-dc892469e5c6/41584661855-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a9463464-fd06-46ef-9e06-dc892469e5c6",
+      "image_id": 41584661855,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.515,
+        "saturation": 0.588,
+        "dark_share": 0.094,
+        "palette": [
+          {
+            "hex": "#19373f",
+            "share": 0.314
+          },
+          {
+            "hex": "#404152",
+            "share": 0.244
+          },
+          {
+            "hex": "#66a8de",
+            "share": 0.156
+          },
+          {
+            "hex": "#197da6",
+            "share": 0.154
+          },
+          {
+            "hex": "#4e7696",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/dd/8f/36dd8f30-dbc8-45f3-fcc0-75c235ad27fe/mzi.bqxtyoxk.jpg/1200x1200bb.jpg",
+      "collection": "Welcome to the Real World",
+      "collection_id": 302053572,
+      "track_id": 302053635,
+      "artist_name": "Mr. Mister",
+      "release_date": "1985-11-27T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        604
+      ],
+      "measures": {
+        "brightness": 0.675,
+        "saturation": 0.338,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#92634f",
+            "share": 0.296
+          },
+          {
+            "hex": "#927f6b",
+            "share": 0.211
+          },
+          {
+            "hex": "#bad7e3",
+            "share": 0.191
+          },
+          {
+            "hex": "#a0a47d",
+            "share": 0.188
+          },
+          {
+            "hex": "#aec0a3",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

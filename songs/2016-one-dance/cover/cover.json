@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "626d569f-adaf-4fff-a326-9adc0158a01f",
+      "release_title": "One Dance",
+      "release_date": "2016-04-05",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e2f55bbb-a03a-4f83-8122-a536406a1e69/13330683772-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/e2f55bbb-a03a-4f83-8122-a536406a1e69",
+      "image_id": "13330683772",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.974,
+        "saturation": 0.0,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.937
+          },
+          {
+            "hex": "#dcdcdc",
+            "share": 0.018
+          },
+          {
+            "hex": "#181818",
+            "share": 0.018
+          },
+          {
+            "hex": "#9a9a9a",
+            "share": 0.016
+          },
+          {
+            "hex": "#fafafa",
+            "share": 0.011
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "4aaaa715-df17-43b8-987e-04b54ec4a697",
+      "release_title": "Views",
+      "release_date": "2016-04-29",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Views",
+      "url": "http://coverartarchive.org/release/bc2b7291-11f1-4307-8191-df5639f96207/32794888082-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/bc2b7291-11f1-4307-8191-df5639f96207",
+      "image_id": 32794888082,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.374,
+        "saturation": 0.292,
+        "dark_share": 0.205,
+        "palette": [
+          {
+            "hex": "#404c53",
+            "share": 0.252
+          },
+          {
+            "hex": "#0d1721",
+            "share": 0.242
+          },
+          {
+            "hex": "#5b686e",
+            "share": 0.233
+          },
+          {
+            "hex": "#778287",
+            "share": 0.143
+          },
+          {
+            "hex": "#969fa3",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Views",
+      "collection_id": 1440841363,
+      "track_id": 1440841384,
+      "artist_name": "Drake",
+      "release_date": "2016-04-05T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.373,
+        "saturation": 0.247,
+        "dark_share": 0.206,
+        "palette": [
+          {
+            "hex": "#404b53",
+            "share": 0.256
+          },
+          {
+            "hex": "#131922",
+            "share": 0.249
+          },
+          {
+            "hex": "#5b686e",
+            "share": 0.228
+          },
+          {
+            "hex": "#788389",
+            "share": 0.14
+          },
+          {
+            "hex": "#969fa4",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

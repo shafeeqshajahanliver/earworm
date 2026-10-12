@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "c52bda92-b2e9-3d42-baa0-32b4130090e6",
+      "release_title": "American Fool",
+      "release_date": "1982-04",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: American Fool",
+      "url": "https://coverartarchive.org/release/0fed25ab-c74b-42ed-a683-16fd83df6484/18055688154-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0fed25ab-c74b-42ed-a683-16fd83df6484",
+      "image_id": 18055688154,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1186
+      ],
+      "measures": {
+        "brightness": 0.498,
+        "saturation": 0.339,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#333633",
+            "share": 0.31
+          },
+          {
+            "hex": "#4e473c",
+            "share": 0.217
+          },
+          {
+            "hex": "#c58b58",
+            "share": 0.207
+          },
+          {
+            "hex": "#9f6d4c",
+            "share": 0.152
+          },
+          {
+            "hex": "#dab37e",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/a8/38/7ca83867-fed2-55cb-be03-73a182100b00/06UMGIM12400.rgb.jpg/1200x1200bb.jpg",
+      "collection": "American Fool (Bonus Track) [2005 Remaster]",
+      "collection_id": 1440786233,
+      "track_id": 1440786241,
+      "artist_name": "John Cougar",
+      "release_date": "1982-04-12T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "measures": {
+        "brightness": 0.418,
+        "saturation": 0.572,
+        "dark_share": 0.221,
+        "palette": [
+          {
+            "hex": "#261a09",
+            "share": 0.244
+          },
+          {
+            "hex": "#835e3f",
+            "share": 0.231
+          },
+          {
+            "hex": "#ad8768",
+            "share": 0.218
+          },
+          {
+            "hex": "#5f462a",
+            "share": 0.178
+          },
+          {
+            "hex": "#3f321b",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

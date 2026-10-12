@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/28428",
+    "title": "Don't Turn Around",
+    "performer": "Ace of Base",
+    "is_original": false,
+    "first_release_date": "1993",
+    "releases": [
+      {
+        "title": "Happy Nation U.S. Version",
+        "uri": "https://api.secondhandsongs.com/release/16184",
+        "performer": "Ace of Base"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Don't Turn Around",
+      "uri": "https://api.secondhandsongs.com/work/28425"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/28425",
+    "title": "Don't Turn Around",
+    "language": "English",
+    "writers": [
+      "Albert Hammond",
+      "Diane Warren"
+    ],
+    "original_performer": "Tina Turner",
+    "versions": 24,
+    "based_on": [],
+    "derived_works": []
+  }
+}

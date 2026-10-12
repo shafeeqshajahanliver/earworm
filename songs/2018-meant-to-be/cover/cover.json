@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2da80e31-3b53-4be7-b210-146cfb998345",
+      "release_title": "Meant to Be",
+      "release_date": "2017-10-24",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b6f24548-64e9-4524-9d7e-65c638081ab2/22359235923-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b6f24548-64e9-4524-9d7e-65c638081ab2",
+      "image_id": 22359235923,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.599,
+        "saturation": 0.382,
+        "dark_share": 0.095,
+        "palette": [
+          {
+            "hex": "#c0cdc9",
+            "share": 0.242
+          },
+          {
+            "hex": "#7b90a8",
+            "share": 0.216
+          },
+          {
+            "hex": "#333133",
+            "share": 0.215
+          },
+          {
+            "hex": "#8a6853",
+            "share": 0.175
+          },
+          {
+            "hex": "#7e4b41",
+            "share": 0.151
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1b711939-6fe1-4b07-bf8a-24fe443b0a75",
+      "release_title": "Expectations",
+      "release_date": "2018-06-22",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Expectations",
+      "url": "http://coverartarchive.org/release/8cb3bac2-4143-44a1-afe3-0e6b2ef47444/19602226310-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8cb3bac2-4143-44a1-afe3-0e6b2ef47444",
+      "image_id": 19602226310,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.399,
+        "saturation": 0.0,
+        "dark_share": 0.291,
+        "palette": [
+          {
+            "hex": "#c8c8c8",
+            "share": 0.288
+          },
+          {
+            "hex": "#000000",
+            "share": 0.262
+          },
+          {
+            "hex": "#929292",
+            "share": 0.185
+          },
+          {
+            "hex": "#494949",
+            "share": 0.16
+          },
+          {
+            "hex": "#2f2f2f",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/d4/ec/1cd4ec5b-664e-181b-a975-4e768a407756/093624906728.jpg/1200x1200bb.jpg",
+      "collection": "Expectations",
+      "collection_id": 1370924192,
+      "track_id": 1370925641,
+      "artist_name": "Bebe Rexha & Florida Georgia Line",
+      "release_date": "2017-08-11T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.394,
+        "saturation": 0.0,
+        "dark_share": 0.295,
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.27
+          },
+          {
+            "hex": "#3a3a3a",
+            "share": 0.247
+          },
+          {
+            "hex": "#bfbfbf",
+            "share": 0.179
+          },
+          {
+            "hex": "#8e8e8e",
+            "share": 0.175
+          },
+          {
+            "hex": "#cfcfcf",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

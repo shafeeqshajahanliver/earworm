@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2c0acac5-36fe-4731-877c-c4812ad751d9",
+      "release_title": "Closer",
+      "release_date": "2016-07-29",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/1eb06cd0-1c8f-4535-b7d7-115c8d44eb01/14222480270-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1eb06cd0-1c8f-4535-b7d7-115c8d44eb01",
+      "image_id": 14222480270,
+      "types": [
+        "Front"
+      ],
+      "comment": "Natty Brown Remix",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.795,
+        "saturation": 0.079,
+        "dark_share": 0.01,
+        "palette": [
+          {
+            "hex": "#d8d6ca",
+            "share": 0.368
+          },
+          {
+            "hex": "#dad7ce",
+            "share": 0.261
+          },
+          {
+            "hex": "#92837a",
+            "share": 0.137
+          },
+          {
+            "hex": "#d5d0c9",
+            "share": 0.129
+          },
+          {
+            "hex": "#dbdad0",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/f8/38/41f8380b-9b56-d5d4-31f7-a6411c0c9aaa/886446102054.jpg/1200x1200bb.jpg",
+      "collection": "Collage - EP",
+      "collection_id": 1170699510,
+      "track_id": 1170699703,
+      "artist_name": "The Chainsmokers",
+      "release_date": "2016-07-29T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.748,
+        "saturation": 0.286,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#b9a76e",
+            "share": 0.27
+          },
+          {
+            "hex": "#77694c",
+            "share": 0.218
+          },
+          {
+            "hex": "#d6cda1",
+            "share": 0.215
+          },
+          {
+            "hex": "#efefe1",
+            "share": 0.163
+          },
+          {
+            "hex": "#e4d9af",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

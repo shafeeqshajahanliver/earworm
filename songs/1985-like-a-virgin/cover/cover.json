@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b6dce9d9-5dec-3a88-856b-1f9b7c241957",
+      "release_title": "Like a Virgin",
+      "release_date": "1984-11-05",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/64a178ad-2873-4baf-bbfb-fd46bd61fc20/45087526216-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/64a178ad-2873-4baf-bbfb-fd46bd61fc20",
+      "image_id": 45087526216,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        598,
+        600
+      ],
+      "measures": {
+        "brightness": 0.713,
+        "saturation": 0.17,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#a99e96",
+            "share": 0.384
+          },
+          {
+            "hex": "#b5a89d",
+            "share": 0.248
+          },
+          {
+            "hex": "#ece3cd",
+            "share": 0.137
+          },
+          {
+            "hex": "#937e6d",
+            "share": 0.129
+          },
+          {
+            "hex": "#cebba4",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b69580b9-7050-3994-b544-4407a22c097a",
+      "release_title": "Like a Virgin",
+      "release_date": "1984",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Like a Virgin",
+      "url": "http://coverartarchive.org/release/05a2fdc7-078f-4e03-ab98-abc4151f7a42/26567867736-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/05a2fdc7-078f-4e03-ab98-abc4151f7a42",
+      "image_id": 26567867736,
+      "types": [
+        "Front"
+      ],
+      "comment": "cleaned up, square version for tagging",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1080,
+        1080
+      ],
+      "measures": {
+        "brightness": 0.465,
+        "saturation": 0.482,
+        "dark_share": 0.191,
+        "palette": [
+          {
+            "hex": "#2a1908",
+            "share": 0.294
+          },
+          {
+            "hex": "#543e25",
+            "share": 0.215
+          },
+          {
+            "hex": "#897359",
+            "share": 0.21
+          },
+          {
+            "hex": "#bfac93",
+            "share": 0.148
+          },
+          {
+            "hex": "#e2d2b9",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8e/80/32/8e803264-c925-14dd-3412-2d7652c3df7b/mzi.wxptosaa.jpg/1200x1200bb.jpg",
+      "collection": "Like a Virgin",
+      "collection_id": 80815235,
+      "track_id": 80815215,
+      "artist_name": "Madonna",
+      "release_date": "1984-10-31T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "measures": {
+        "brightness": 0.519,
+        "saturation": 0.234,
+        "dark_share": 0.176,
+        "palette": [
+          {
+            "hex": "#dfcfbf",
+            "share": 0.259
+          },
+          {
+            "hex": "#2a201e",
+            "share": 0.238
+          },
+          {
+            "hex": "#a18d7d",
+            "share": 0.202
+          },
+          {
+            "hex": "#776256",
+            "share": 0.176
+          },
+          {
+            "hex": "#513f3a",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

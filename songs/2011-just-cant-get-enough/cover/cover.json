@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3713e378-030e-4d1d-a78f-0e1b7824c087",
+      "release_title": "Just Can’t Get Enough",
+      "release_date": "2011-02-25",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b8087cae-f78f-4192-ae15-64ce4228efd8/12699979763-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/b8087cae-f78f-4192-ae15-64ce4228efd8",
+      "image_id": "12699979763",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        440
+      ],
+      "measures": {
+        "brightness": 0.31,
+        "saturation": 0.146,
+        "dark_share": 0.601,
+        "palette": [
+          {
+            "hex": "#262624",
+            "share": 0.39
+          },
+          {
+            "hex": "#222522",
+            "share": 0.19
+          },
+          {
+            "hex": "#764f4a",
+            "share": 0.147
+          },
+          {
+            "hex": "#ccc8ca",
+            "share": 0.139
+          },
+          {
+            "hex": "#332b27",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9511757c-4fac-4ec2-847e-c8cb9fbf1132",
+      "release_title": "The Beginning",
+      "release_date": "2010",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Beginning",
+      "url": "http://coverartarchive.org/release/aaa4d643-2aa7-3828-b3c7-f65c1a08234d/1276779920-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/aaa4d643-2aa7-3828-b3c7-f65c1a08234d",
+      "image_id": 1276779920,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        220,
+        220
+      ],
+      "measures": {
+        "brightness": 0.766,
+        "saturation": 0.24,
+        "dark_share": 0.055,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.418
+          },
+          {
+            "hex": "#7e8990",
+            "share": 0.262
+          },
+          {
+            "hex": "#364156",
+            "share": 0.193
+          },
+          {
+            "hex": "#f9f9f5",
+            "share": 0.077
+          },
+          {
+            "hex": "#fefffc",
+            "share": 0.05
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

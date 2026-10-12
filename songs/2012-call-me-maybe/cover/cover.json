@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "09ae8c7a-594a-442c-b5f2-47f3bbfb105a",
+      "release_title": "Call Me Maybe",
+      "release_date": "2011",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/d7c9689c-c077-4eaa-81cb-cc97012cd19d/9774892625-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d7c9689c-c077-4eaa-81cb-cc97012cd19d",
+      "image_id": 9774892625,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.834,
+        "saturation": 0.096,
+        "dark_share": 0.02,
+        "palette": [
+          {
+            "hex": "#ded9d6",
+            "share": 0.52
+          },
+          {
+            "hex": "#e4dfdc",
+            "share": 0.181
+          },
+          {
+            "hex": "#b2a09a",
+            "share": 0.152
+          },
+          {
+            "hex": "#e1d9d6",
+            "share": 0.125
+          },
+          {
+            "hex": "#dadad7",
+            "share": 0.022
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e7ce6cac-d26e-470c-b8a1-97ecc07354df",
+      "release_title": "Kiss",
+      "release_date": "2012-01-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "https://coverartarchive.org/release/742fdcb4-4203-4343-9ed9-051f01f255e6/44634030212-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/742fdcb4-4203-4343-9ed9-051f01f255e6",
+      "image_id": 44634030212,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        595
+      ],
+      "measures": {
+        "brightness": 0.736,
+        "saturation": 0.312,
+        "dark_share": 0.081,
+        "palette": [
+          {
+            "hex": "#a1ccd4",
+            "share": 0.441
+          },
+          {
+            "hex": "#772243",
+            "share": 0.271
+          },
+          {
+            "hex": "#cbdadd",
+            "share": 0.127
+          },
+          {
+            "hex": "#9ea4ae",
+            "share": 0.085
+          },
+          {
+            "hex": "#b3cdd4",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/54/19/145419b2-96f6-fc9e-3110-fbdc78022df6/12UMGIM48177.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Kiss (Deluxe Version)",
+      "collection_id": 1440873664,
+      "track_id": 1440874008,
+      "artist_name": "Carly Rae Jepsen",
+      "release_date": "2011-09-20T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.807,
+        "saturation": 0.38,
+        "dark_share": 0.091,
+        "palette": [
+          {
+            "hex": "#f7b1c6",
+            "share": 0.461
+          },
+          {
+            "hex": "#71181f",
+            "share": 0.267
+          },
+          {
+            "hex": "#d791a4",
+            "share": 0.131
+          },
+          {
+            "hex": "#f8c2ce",
+            "share": 0.11
+          },
+          {
+            "hex": "#eebbc8",
+            "share": 0.031
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a65dc57a-95c9-4c92-9cbc-8d5371d9d7b3",
+      "release_title": "Grenade",
+      "release_date": "2010-09-28",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/2ed86522-12a0-44f8-997d-e990a6577192/12690414356-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/2ed86522-12a0-44f8-997d-e990a6577192",
+      "image_id": 12690414356,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        793,
+        793
+      ],
+      "measures": {
+        "brightness": 0.317,
+        "saturation": 0.284,
+        "dark_share": 0.69,
+        "palette": [
+          {
+            "hex": "#13110f",
+            "share": 0.309
+          },
+          {
+            "hex": "#211411",
+            "share": 0.206
+          },
+          {
+            "hex": "#0d0d0b",
+            "share": 0.185
+          },
+          {
+            "hex": "#b8ab8e",
+            "share": 0.181
+          },
+          {
+            "hex": "#601a12",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b3d1fbf7-dd1c-4119-a16e-58c2feb5bcb0",
+      "release_title": "Doo-Wops & Hooligans",
+      "release_date": "2010",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Doo-Wops & Hooligans",
+      "url": "https://coverartarchive.org/release/3d2b148e-8c0a-42b6-baae-c3ee7322a569/998580956-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3d2b148e-8c0a-42b6-baae-c3ee7322a569",
+      "image_id": 998580956,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1188
+      ],
+      "measures": {
+        "brightness": 0.959,
+        "saturation": 0.445,
+        "dark_share": 0.003,
+        "palette": [
+          {
+            "hex": "#eca23c",
+            "share": 0.374
+          },
+          {
+            "hex": "#f7e6ba",
+            "share": 0.3
+          },
+          {
+            "hex": "#fcebbe",
+            "share": 0.144
+          },
+          {
+            "hex": "#fae8bd",
+            "share": 0.133
+          },
+          {
+            "hex": "#f4bb62",
+            "share": 0.049
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/1200x1200bb.jpg",
+      "collection": "Doo-Wops & Hooligans",
+      "collection_id": 576654788,
+      "track_id": 576655094,
+      "artist_name": "Bruno Mars",
+      "release_date": "2010-09-28T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.973,
+        "saturation": 0.473,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#fbf0c3",
+            "share": 0.447
+          },
+          {
+            "hex": "#f2b720",
+            "share": 0.369
+          },
+          {
+            "hex": "#faefc2",
+            "share": 0.114
+          },
+          {
+            "hex": "#f7c94b",
+            "share": 0.04
+          },
+          {
+            "hex": "#fbf1c7",
+            "share": 0.03
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c0474f4e-6c19-4075-a3c3-05b20399b0bb",
+      "release_title": "Eye of the Tiger",
+      "release_date": "1982",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/fd9e3b88-3a14-46e1-9c13-b1a0ce031254/45072177423-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fd9e3b88-3a14-46e1-9c13-b1a0ce031254",
+      "image_id": 45072177423,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        596,
+        600
+      ],
+      "measures": {
+        "brightness": 0.473,
+        "saturation": 0.491,
+        "dark_share": 0.378,
+        "palette": [
+          {
+            "hex": "#17130a",
+            "share": 0.247
+          },
+          {
+            "hex": "#ab733a",
+            "share": 0.245
+          },
+          {
+            "hex": "#e1cea1",
+            "share": 0.205
+          },
+          {
+            "hex": "#47331e",
+            "share": 0.159
+          },
+          {
+            "hex": "#222015",
+            "share": 0.145
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7882a9e6-5221-4c77-8326-45d66a2cc733",
+      "release_title": "Rocky III",
+      "release_date": "2018-04-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rocky III",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/3a/89/373a8959-4978-7fc2-8a10-7db103b8bd8b/05099969736957.jpg/1200x1200bb.jpg",
+      "collection": "Rocky III: (Original Motion Picture Score)",
+      "collection_id": 715581499,
+      "track_id": 715581619,
+      "artist_name": "Survivor",
+      "release_date": "1982-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.518,
+        "saturation": 0.292,
+        "dark_share": 0.256,
+        "palette": [
+          {
+            "hex": "#08070f",
+            "share": 0.288
+          },
+          {
+            "hex": "#a5aab8",
+            "share": 0.236
+          },
+          {
+            "hex": "#a7acbb",
+            "share": 0.227
+          },
+          {
+            "hex": "#82575c",
+            "share": 0.157
+          },
+          {
+            "hex": "#afb2be",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

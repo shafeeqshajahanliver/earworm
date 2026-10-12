@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "da821b9d-5ea5-4cad-afd7-73ace0e296d8",
+      "release_title": "You’re So Vain",
+      "release_date": "1972-11-25",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d023b543-7582-4c85-b1a1-782b4421329f/16051192900-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/d023b543-7582-4c85-b1a1-782b4421329f",
+      "image_id": 16051192900,
+      "types": [
+        "Front"
+      ],
+      "comment": "ELK 12 077",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        499
+      ],
+      "measures": {
+        "brightness": 0.547,
+        "saturation": 0.227,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#c6b7a2",
+            "share": 0.29
+          },
+          {
+            "hex": "#443f3b",
+            "share": 0.239
+          },
+          {
+            "hex": "#575b61",
+            "share": 0.193
+          },
+          {
+            "hex": "#a1917f",
+            "share": 0.192
+          },
+          {
+            "hex": "#7b6666",
+            "share": 0.087
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "ebf50233-3954-3d0c-9fdb-27bfd28aafd7",
+      "release_title": "No Secrets",
+      "release_date": "1972",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: No Secrets",
+      "url": "http://coverartarchive.org/release/9de4f51c-0d58-4026-8227-22a693f00306/18380370227-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/9de4f51c-0d58-4026-8227-22a693f00306",
+      "image_id": 18380370227,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.67,
+        "saturation": 0.249,
+        "dark_share": 0.069,
+        "palette": [
+          {
+            "hex": "#627a85",
+            "share": 0.249
+          },
+          {
+            "hex": "#37313b",
+            "share": 0.245
+          },
+          {
+            "hex": "#ece8e3",
+            "share": 0.227
+          },
+          {
+            "hex": "#d2d3cb",
+            "share": 0.146
+          },
+          {
+            "hex": "#f1eee9",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/f4/71/c1f471c9-1000-cc5c-71b9-394208a30122/mzm.gzpqrqro.jpg/1200x1200bb.jpg",
+      "collection": "No Secrets",
+      "collection_id": 1057307808,
+      "track_id": 1057307827,
+      "artist_name": "Carly Simon",
+      "release_date": "1972-11-08T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.668,
+        "saturation": 0.248,
+        "dark_share": 0.071,
+        "palette": [
+          {
+            "hex": "#627a85",
+            "share": 0.25
+          },
+          {
+            "hex": "#37313a",
+            "share": 0.245
+          },
+          {
+            "hex": "#ece8e3",
+            "share": 0.226
+          },
+          {
+            "hex": "#d1d2cb",
+            "share": 0.146
+          },
+          {
+            "hex": "#f1eee9",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b485d554-f8d9-48c0-97e4-798959bca46b",
+      "release_title": "Life Is Good",
+      "release_date": "2020-01-10",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a470ce1d-05b6-46ad-9fba-cff9f478e8c1/25114242902-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a470ce1d-05b6-46ad-9fba-cff9f478e8c1",
+      "image_id": 25114242902,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.583,
+        "saturation": 0.263,
+        "dark_share": 0.083,
+        "palette": [
+          {
+            "hex": "#293332",
+            "share": 0.244
+          },
+          {
+            "hex": "#557072",
+            "share": 0.243
+          },
+          {
+            "hex": "#93b6b7",
+            "share": 0.225
+          },
+          {
+            "hex": "#bed4cf",
+            "share": 0.169
+          },
+          {
+            "hex": "#e1efed",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "06fe5095-875d-4638-b2d8-393e5b00fec7",
+      "release_title": "High Off Life",
+      "release_date": "2020-05-15",
+      "release_country": "AF",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: High Off Life",
+      "url": "http://coverartarchive.org/release/8667c0c7-6536-45b4-bc0f-e8c408308d61/26275385133-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8667c0c7-6536-45b4-bc0f-e8c408308d61",
+      "image_id": 26275385133,
+      "types": [
+        "Front"
+      ],
+      "comment": "iTunes",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.622,
+        "saturation": 0.0,
+        "dark_share": 0.135,
+        "palette": [
+          {
+            "hex": "#9c9c9c",
+            "share": 0.277
+          },
+          {
+            "hex": "#c0c0c0",
+            "share": 0.221
+          },
+          {
+            "hex": "#363636",
+            "share": 0.207
+          },
+          {
+            "hex": "#dbdbdb",
+            "share": 0.161
+          },
+          {
+            "hex": "#ececec",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/64/ce/3f/64ce3f2a-b523-8f83-46fc-ef70b6ea48ff/886448469704.jpg/1200x1200bb.jpg",
+      "collection": "High Off Life",
+      "collection_id": 1513388867,
+      "track_id": 1513389478,
+      "artist_name": "Future",
+      "release_date": "2020-01-10T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.621,
+        "saturation": 0.0,
+        "dark_share": 0.139,
+        "palette": [
+          {
+            "hex": "#9c9c9c",
+            "share": 0.279
+          },
+          {
+            "hex": "#c0c0c0",
+            "share": 0.218
+          },
+          {
+            "hex": "#363636",
+            "share": 0.208
+          },
+          {
+            "hex": "#dbdbdb",
+            "share": 0.162
+          },
+          {
+            "hex": "#ececec",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

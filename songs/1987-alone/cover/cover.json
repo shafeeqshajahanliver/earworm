@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "75af90fd-a0ae-391a-a117-3a92a9c5e5cd",
+      "release_title": "Alone",
+      "release_date": "1987",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6faa28c4-1de1-4035-9294-c9d5738ba994/25480544273-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6faa28c4-1de1-4035-9294-c9d5738ba994",
+      "image_id": 25480544273,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        594
+      ],
+      "measures": {
+        "brightness": 0.544,
+        "saturation": 0.276,
+        "dark_share": 0.228,
+        "palette": [
+          {
+            "hex": "#100c17",
+            "share": 0.298
+          },
+          {
+            "hex": "#bfb2a8",
+            "share": 0.225
+          },
+          {
+            "hex": "#e8e6e0",
+            "share": 0.177
+          },
+          {
+            "hex": "#60504e",
+            "share": 0.174
+          },
+          {
+            "hex": "#ddd9d2",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c3cb483f-b0b6-3e3e-9c23-2a773b4a665f",
+      "release_title": "Bad Animals",
+      "release_date": "1987",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Bad Animals",
+      "url": "https://coverartarchive.org/release/ed40bfba-f9c9-4676-8bed-0a59f988a216/23299495823-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ed40bfba-f9c9-4676-8bed-0a59f988a216",
+      "image_id": 23299495823,
+      "types": [
+        "Front",
+        "Obi"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1191
+      ],
+      "measures": {
+        "brightness": 0.503,
+        "saturation": 0.387,
+        "dark_share": 0.429,
+        "palette": [
+          {
+            "hex": "#000f13",
+            "share": 0.386
+          },
+          {
+            "hex": "#f2efeb",
+            "share": 0.236
+          },
+          {
+            "hex": "#f7f2ee",
+            "share": 0.156
+          },
+          {
+            "hex": "#202121",
+            "share": 0.125
+          },
+          {
+            "hex": "#c4c1bc",
+            "share": 0.097
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/2b/7a/862b7a60-5b32-1153-33ca-25f5a339d40d/13UABIM59256.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Bad Animals",
+      "collection_id": 724077331,
+      "track_id": 724077447,
+      "artist_name": "Heart",
+      "release_date": "1987-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.58,
+        "saturation": 0.082,
+        "dark_share": 0.407,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.433
+          },
+          {
+            "hex": "#1f1a1c",
+            "share": 0.393
+          },
+          {
+            "hex": "#aebab7",
+            "share": 0.089
+          },
+          {
+            "hex": "#332c2c",
+            "share": 0.074
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.011
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c155b154-2bce-4a77-95d7-bb393f38588a",
+      "release_title": "Sucker",
+      "release_date": "2019-03-01",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3b8ebe1f-c57f-4836-a74a-026809f6fd57/22399792211-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3b8ebe1f-c57f-4836-a74a-026809f6fd57",
+      "image_id": 22399792211,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.612,
+        "saturation": 0.331,
+        "dark_share": 0.078,
+        "palette": [
+          {
+            "hex": "#837365",
+            "share": 0.278
+          },
+          {
+            "hex": "#aba492",
+            "share": 0.241
+          },
+          {
+            "hex": "#442a37",
+            "share": 0.216
+          },
+          {
+            "hex": "#d5cebc",
+            "share": 0.139
+          },
+          {
+            "hex": "#b3c5cd",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e6f63f4a-951d-4e31-8f34-4e2e16757912",
+      "release_title": "Happiness Begins",
+      "release_date": "2019-06-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Happiness Begins",
+      "url": "http://coverartarchive.org/release/1a004927-b667-4787-a8c5-2c8d9999ca99/22947109078-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1a004927-b667-4787-a8c5-2c8d9999ca99",
+      "image_id": 22947109078,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.642,
+        "saturation": 0.154,
+        "dark_share": 0.047,
+        "palette": [
+          {
+            "hex": "#3a403a",
+            "share": 0.283
+          },
+          {
+            "hex": "#b2c9c7",
+            "share": 0.278
+          },
+          {
+            "hex": "#c0ddda",
+            "share": 0.167
+          },
+          {
+            "hex": "#928e89",
+            "share": 0.15
+          },
+          {
+            "hex": "#d3e9e1",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/16/12/bd161229-f5c7-d21d-caed-ed9302d52168/19UMGIM38391.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Happiness Begins",
+      "collection_id": 1461478261,
+      "track_id": 1461478389,
+      "artist_name": "Jonas Brothers",
+      "release_date": "2019-03-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.641,
+        "saturation": 0.153,
+        "dark_share": 0.049,
+        "palette": [
+          {
+            "hex": "#3a403b",
+            "share": 0.284
+          },
+          {
+            "hex": "#b2c9c8",
+            "share": 0.278
+          },
+          {
+            "hex": "#c0ddda",
+            "share": 0.166
+          },
+          {
+            "hex": "#938e89",
+            "share": 0.15
+          },
+          {
+            "hex": "#d3e9e1",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

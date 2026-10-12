@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "948beede-4cb4-4d90-9b9b-97d6af661b60",
+      "release_title": "Indian Reservation",
+      "release_date": "1971",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Indian Reservation",
+      "url": "http://coverartarchive.org/release/055052dd-0c47-4de6-a3d6-96d73567c322/1242807757-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/055052dd-0c47-4de6-a3d6-96d73567c322",
+      "image_id": "1242807757",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        454,
+        471
+      ],
+      "measures": {
+        "brightness": 0.629,
+        "saturation": 0.226,
+        "dark_share": 0.02,
+        "palette": [
+          {
+            "hex": "#aa997f",
+            "share": 0.262
+          },
+          {
+            "hex": "#5c4d43",
+            "share": 0.214
+          },
+          {
+            "hex": "#b7b09c",
+            "share": 0.186
+          },
+          {
+            "hex": "#b3a995",
+            "share": 0.184
+          },
+          {
+            "hex": "#c4b79a",
+            "share": 0.154
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/e0/b8/33/e0b83398-2189-332d-fdc8-20ed5f1f0c64/886444369749.jpg/1200x1200bb.jpg",
+      "collection": "Indian Reservation",
+      "collection_id": 778104127,
+      "track_id": 778104131,
+      "artist_name": "The Raiders",
+      "release_date": "1969-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.681,
+        "saturation": 0.264,
+        "dark_share": 0.097,
+        "palette": [
+          {
+            "hex": "#c5bbb7",
+            "share": 0.238
+          },
+          {
+            "hex": "#4b3a30",
+            "share": 0.215
+          },
+          {
+            "hex": "#d9b594",
+            "share": 0.213
+          },
+          {
+            "hex": "#be9d85",
+            "share": 0.199
+          },
+          {
+            "hex": "#e2c3a2",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

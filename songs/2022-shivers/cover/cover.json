@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "ca01c509-1b44-4721-b64f-d0f394bcbe11",
+      "release_title": "Shivers",
+      "release_date": "2021-09-10",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/2541869d-46f5-46d7-99e5-133e06e0bf6e/39180217582-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/2541869d-46f5-46d7-99e5-133e06e0bf6e",
+      "image_id": 39180217582,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        563,
+        563
+      ],
+      "measures": {
+        "brightness": 0.727,
+        "saturation": 0.84,
+        "dark_share": 0.083,
+        "palette": [
+          {
+            "hex": "#e4110d",
+            "share": 0.354
+          },
+          {
+            "hex": "#630e0d",
+            "share": 0.232
+          },
+          {
+            "hex": "#f5c52b",
+            "share": 0.198
+          },
+          {
+            "hex": "#b4502c",
+            "share": 0.143
+          },
+          {
+            "hex": "#acbc49",
+            "share": 0.073
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+      "release_title": "=",
+      "release_date": "2021-10-29",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: =",
+      "url": "http://coverartarchive.org/release/ccfe374a-ccfa-4cbc-a37c-1cd40b914b75/31339443358-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ccfe374a-ccfa-4cbc-a37c-1cd40b914b75",
+      "image_id": 31339443358,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.589,
+        "saturation": 0.761,
+        "dark_share": 0.182,
+        "palette": [
+          {
+            "hex": "#bd0618",
+            "share": 0.289
+          },
+          {
+            "hex": "#1a0203",
+            "share": 0.272
+          },
+          {
+            "hex": "#ad161b",
+            "share": 0.223
+          },
+          {
+            "hex": "#cdc04e",
+            "share": 0.117
+          },
+          {
+            "hex": "#b04d2d",
+            "share": 0.098
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/1200x1200bb.jpg",
+      "collection": "=",
+      "collection_id": 1581087024,
+      "track_id": 1581087034,
+      "artist_name": "Ed Sheeran",
+      "release_date": "2021-09-09T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.587,
+        "saturation": 0.749,
+        "dark_share": 0.183,
+        "palette": [
+          {
+            "hex": "#b90b18",
+            "share": 0.294
+          },
+          {
+            "hex": "#160303",
+            "share": 0.273
+          },
+          {
+            "hex": "#ac151a",
+            "share": 0.217
+          },
+          {
+            "hex": "#cbbc4d",
+            "share": 0.12
+          },
+          {
+            "hex": "#b1442b",
+            "share": 0.095
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

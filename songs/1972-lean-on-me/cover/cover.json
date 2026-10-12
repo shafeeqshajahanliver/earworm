@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "63544e97-de86-3096-8702-250590ae5f90",
+      "release_title": "Still Bill",
+      "release_date": "1972-05-20",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Still Bill",
+      "url": "https://coverartarchive.org/release/de3fc9ac-4f6b-42a4-bbe6-f06b9ba7411c/43400883874-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/de3fc9ac-4f6b-42a4-bbe6-f06b9ba7411c",
+      "image_id": 43400883874,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1193
+      ],
+      "measures": {
+        "brightness": 0.29,
+        "saturation": 0.197,
+        "dark_share": 0.456,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.357
+          },
+          {
+            "hex": "#62493f",
+            "share": 0.246
+          },
+          {
+            "hex": "#a49881",
+            "share": 0.224
+          },
+          {
+            "hex": "#2b201e",
+            "share": 0.169
+          },
+          {
+            "hex": "#010000",
+            "share": 0.004
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a3/a6/89/a3a68964-ea23-9fa1-d123-eb9728997231/886445193213.jpg/1200x1200bb.jpg",
+      "collection": "Still Bill",
+      "collection_id": 989376986,
+      "track_id": 989376991,
+      "artist_name": "Bill Withers",
+      "release_date": "1972-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.227,
+        "saturation": 0.612,
+        "dark_share": 0.61,
+        "palette": [
+          {
+            "hex": "#000508",
+            "share": 0.45
+          },
+          {
+            "hex": "#948a77",
+            "share": 0.245
+          },
+          {
+            "hex": "#2c211e",
+            "share": 0.198
+          },
+          {
+            "hex": "#020405",
+            "share": 0.058
+          },
+          {
+            "hex": "#000103",
+            "share": 0.049
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

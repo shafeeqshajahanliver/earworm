@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a6faf7ba-2f2b-41d7-b217-37ae65b6091c",
+      "release_title": "I Gotcha / A Mother’s Prayer",
+      "release_date": "1971-12",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "cfc08770-e738-3cdf-a59b-c369929b17ca",
+      "release_title": "I Gotcha",
+      "release_date": "1972",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: I Gotcha",
+      "url": "https://coverartarchive.org/release/5314da65-eff4-442f-b72d-0ae1f5d06aa8/45209477086-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5314da65-eff4-442f-b72d-0ae1f5d06aa8",
+      "image_id": 45209477086,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.323,
+        "saturation": 0.264,
+        "dark_share": 0.244,
+        "palette": [
+          {
+            "hex": "#3c2f32",
+            "share": 0.297
+          },
+          {
+            "hex": "#4d3b41",
+            "share": 0.23
+          },
+          {
+            "hex": "#1f1617",
+            "share": 0.213
+          },
+          {
+            "hex": "#6b5266",
+            "share": 0.163
+          },
+          {
+            "hex": "#b7b1c4",
+            "share": 0.097
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/70/df/5170df08-42d4-3ea9-0c75-be7d156b12dd/artwork.jpg/1200x1200bb.jpg",
+      "collection": "i GOTCHA - Single",
+      "collection_id": 1570093213,
+      "track_id": 1570093223,
+      "artist_name": "Signature Live! featuring JOE TEX II",
+      "release_date": "2021-05-25T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.78,
+        "saturation": 0.614,
+        "dark_share": 0.025,
+        "palette": [
+          {
+            "hex": "#d32715",
+            "share": 0.296
+          },
+          {
+            "hex": "#d59669",
+            "share": 0.234
+          },
+          {
+            "hex": "#831710",
+            "share": 0.193
+          },
+          {
+            "hex": "#f6eed9",
+            "share": 0.142
+          },
+          {
+            "hex": "#e8cdab",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

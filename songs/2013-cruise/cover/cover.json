@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "7e7e0010-628f-48da-8d4a-4b3f90faac56",
+      "release_title": "Here’s to the Good Times",
+      "release_date": "2012",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Here's to the Good Times",
+      "url": "http://coverartarchive.org/release/b9d2628e-5ab4-4dad-b587-46baee46317d/4308942357-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b9d2628e-5ab4-4dad-b587-46baee46317d",
+      "image_id": "4308942357",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.595,
+        "saturation": 0.253,
+        "dark_share": 0.122,
+        "palette": [
+          {
+            "hex": "#6a5142",
+            "share": 0.262
+          },
+          {
+            "hex": "#38281f",
+            "share": 0.261
+          },
+          {
+            "hex": "#d6dee6",
+            "share": 0.233
+          },
+          {
+            "hex": "#b8bdc2",
+            "share": 0.123
+          },
+          {
+            "hex": "#e6e9eb",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/37/69/18376949-c4f9-18bd-0adf-7a473df55a7b/12UMGIM58533.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Here's to the Good Times",
+      "collection_id": 1440811897,
+      "track_id": 1440812204,
+      "artist_name": "Florida Georgia Line",
+      "release_date": "2012-04-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.602,
+        "saturation": 0.279,
+        "dark_share": 0.126,
+        "palette": [
+          {
+            "hex": "#704e3d",
+            "share": 0.262
+          },
+          {
+            "hex": "#39251d",
+            "share": 0.262
+          },
+          {
+            "hex": "#d4dee5",
+            "share": 0.226
+          },
+          {
+            "hex": "#b5babd",
+            "share": 0.128
+          },
+          {
+            "hex": "#e8eaeb",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

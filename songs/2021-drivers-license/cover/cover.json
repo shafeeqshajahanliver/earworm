@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b6085650-a88d-43a3-9b63-d907a33a1cc0",
+      "release_title": "drivers license",
+      "release_date": "2021-01-08",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8cc04d41-26ae-4736-8a53-a2653e25dc2e/31906160929-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8cc04d41-26ae-4736-8a53-a2653e25dc2e",
+      "image_id": 31906160929,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.387,
+        "saturation": 0.192,
+        "dark_share": 0.127,
+        "palette": [
+          {
+            "hex": "#302e2f",
+            "share": 0.281
+          },
+          {
+            "hex": "#635254",
+            "share": 0.273
+          },
+          {
+            "hex": "#5c3c40",
+            "share": 0.177
+          },
+          {
+            "hex": "#7c616a",
+            "share": 0.169
+          },
+          {
+            "hex": "#a18e97",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2ae2e504-7116-4b4f-b632-9748bb18ccd2",
+      "release_title": "SOUR",
+      "release_date": "2021-05-21",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Sour",
+      "url": "http://coverartarchive.org/release/6dd75bce-0194-4737-810c-d389689b4759/32201040812-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6dd75bce-0194-4737-810c-d389689b4759",
+      "image_id": 32201040812,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.699,
+        "saturation": 0.306,
+        "dark_share": 0.064,
+        "palette": [
+          {
+            "hex": "#837bbd",
+            "share": 0.336
+          },
+          {
+            "hex": "#8e85c3",
+            "share": 0.283
+          },
+          {
+            "hex": "#554d62",
+            "share": 0.167
+          },
+          {
+            "hex": "#dec1b2",
+            "share": 0.131
+          },
+          {
+            "hex": "#9b8ebf",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/76/46/48/76464884-0e9c-1951-a3f6-ce02f74c2b19/21UMGIM26093.rgb.jpg/1200x1200bb.jpg",
+      "collection": "SOUR (Video Version)",
+      "collection_id": 1582277315,
+      "track_id": 1582277648,
+      "artist_name": "Olivia Rodrigo",
+      "release_date": "2021-01-08T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.7,
+        "saturation": 0.307,
+        "dark_share": 0.065,
+        "palette": [
+          {
+            "hex": "#827bbd",
+            "share": 0.318
+          },
+          {
+            "hex": "#8d83c2",
+            "share": 0.223
+          },
+          {
+            "hex": "#524a5c",
+            "share": 0.166
+          },
+          {
+            "hex": "#988dc3",
+            "share": 0.157
+          },
+          {
+            "hex": "#dcbeb0",
+            "share": 0.137
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "cd40491a-0ee4-39f8-84d0-001c0040f54d",
+      "release_title": "No Air",
+      "release_date": "2008-03-04",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/43529762-4620-42f8-b1a8-6bd7627ab0ed/12742994244-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/43529762-4620-42f8-b1a8-6bd7627ab0ed",
+      "image_id": "12742994244",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.568,
+        "saturation": 0.234,
+        "dark_share": 0.315,
+        "palette": [
+          {
+            "hex": "#140c0c",
+            "share": 0.327
+          },
+          {
+            "hex": "#ddc5b7",
+            "share": 0.208
+          },
+          {
+            "hex": "#efeeee",
+            "share": 0.185
+          },
+          {
+            "hex": "#f6f5f4",
+            "share": 0.148
+          },
+          {
+            "hex": "#5a4740",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b0a35a26-490a-3f0b-baba-b1c8da511959",
+      "release_title": "Jordin Sparks",
+      "release_date": "2007",
+      "release_country": "BR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Jordin Sparks",
+      "url": "http://coverartarchive.org/release/8d7b387c-2dd6-4e2b-b90c-9629ea8d9f71/21075747213-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8d7b387c-2dd6-4e2b-b90c-9629ea8d9f71",
+      "image_id": 21075747213,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.331,
+        "saturation": 0.219,
+        "dark_share": 0.524,
+        "palette": [
+          {
+            "hex": "#17181c",
+            "share": 0.328
+          },
+          {
+            "hex": "#09090b",
+            "share": 0.239
+          },
+          {
+            "hex": "#b2a7a1",
+            "share": 0.168
+          },
+          {
+            "hex": "#4b4c50",
+            "share": 0.147
+          },
+          {
+            "hex": "#dadbd4",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/1b/3d/3b/1b3d3bd6-f283-320f-a152-bbdaf0b4c266/dj.diybuhfk.jpg/1200x1200bb.jpg",
+      "collection": "Jordin Sparks (Deluxe Version)",
+      "collection_id": 268314568,
+      "track_id": 268314585,
+      "artist_name": "Jordin Sparks & Chris Brown",
+      "release_date": "2007-11-20T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.579,
+        "saturation": 0.269,
+        "dark_share": 0.254,
+        "palette": [
+          {
+            "hex": "#140f10",
+            "share": 0.302
+          },
+          {
+            "hex": "#e7ebf3",
+            "share": 0.278
+          },
+          {
+            "hex": "#68534c",
+            "share": 0.184
+          },
+          {
+            "hex": "#c8b9b2",
+            "share": 0.138
+          },
+          {
+            "hex": "#dec1af",
+            "share": 0.098
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

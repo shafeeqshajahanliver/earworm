@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "cdaf67a5-abc0-48da-a7df-510cc554fed6",
+      "release_title": "Dynamite",
+      "release_date": "2010-07-30",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/67ab1873-a21f-4f2b-af9f-a27f73c3fdb7/30529475127-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/67ab1873-a21f-4f2b-af9f-a27f73c3fdb7",
+      "image_id": 30529475127,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.289,
+        "saturation": 0.376,
+        "dark_share": 0.539,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.282
+          },
+          {
+            "hex": "#0a1212",
+            "share": 0.258
+          },
+          {
+            "hex": "#523e31",
+            "share": 0.185
+          },
+          {
+            "hex": "#a27b5e",
+            "share": 0.174
+          },
+          {
+            "hex": "#d6b991",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f4fc9067-305b-412e-b507-c01ab34f4c2c",
+      "release_title": "Rokstarr",
+      "release_date": "2010-01-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rokstarr",
+      "url": "http://coverartarchive.org/release/0af227dc-2e0f-47df-8731-43a69f248b8e/17926189598-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0af227dc-2e0f-47df-8731-43a69f248b8e",
+      "image_id": 17926189598,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1197,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.18,
+        "saturation": 0.384,
+        "dark_share": 0.764,
+        "palette": [
+          {
+            "hex": "#120a0c",
+            "share": 0.301
+          },
+          {
+            "hex": "#150e0f",
+            "share": 0.258
+          },
+          {
+            "hex": "#0d080b",
+            "share": 0.201
+          },
+          {
+            "hex": "#a68876",
+            "share": 0.128
+          },
+          {
+            "hex": "#472a22",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/d3/bf/77d3bfa7-d2e6-b678-0a6c-0e772600e326/11UMGIM13376.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Rokstarr (Special Edition)",
+      "collection_id": 1444045212,
+      "track_id": 1444045214,
+      "artist_name": "Taio Cruz",
+      "release_date": "2009-10-12T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.166,
+        "saturation": 0.289,
+        "dark_share": 0.767,
+        "palette": [
+          {
+            "hex": "#0a0e0f",
+            "share": 0.441
+          },
+          {
+            "hex": "#6b5645",
+            "share": 0.214
+          },
+          {
+            "hex": "#0a0b0b",
+            "share": 0.193
+          },
+          {
+            "hex": "#050607",
+            "share": 0.125
+          },
+          {
+            "hex": "#090e0f",
+            "share": 0.027
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

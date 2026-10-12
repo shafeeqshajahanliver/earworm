@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5a2862db-8c19-47da-bdf4-06ab7a32c37b",
+      "release_title": "9 to 5",
+      "release_date": "1980",
+      "release_country": "ES",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/ba398ba4-4e25-497c-9862-0ca3bbf4e75a/30426265187-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ba398ba4-4e25-497c-9862-0ca3bbf4e75a",
+      "image_id": 30426265187,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        489
+      ],
+      "measures": {
+        "brightness": 0.793,
+        "saturation": 0.149,
+        "dark_share": 0.021,
+        "palette": [
+          {
+            "hex": "#ede3d1",
+            "share": 0.264
+          },
+          {
+            "hex": "#66544c",
+            "share": 0.217
+          },
+          {
+            "hex": "#f0e8d6",
+            "share": 0.181
+          },
+          {
+            "hex": "#eee5d3",
+            "share": 0.176
+          },
+          {
+            "hex": "#e1d6c4",
+            "share": 0.161
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f28e8c53-7f29-3905-855c-1a4948127046",
+      "release_title": "9 to 5 and Odd Jobs",
+      "release_date": "1980-11-17",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 9 to 5 and Odd Jobs",
+      "url": "https://coverartarchive.org/release/cd7f8f47-d7a0-4171-bc9c-235f2fe3a3e3/41659707187-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cd7f8f47-d7a0-4171-bc9c-235f2fe3a3e3",
+      "image_id": 41659707187,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.7,
+        "saturation": 0.087,
+        "dark_share": 0.01,
+        "palette": [
+          {
+            "hex": "#b6b3a8",
+            "share": 0.257
+          },
+          {
+            "hex": "#62554e",
+            "share": 0.217
+          },
+          {
+            "hex": "#cbcbc5",
+            "share": 0.206
+          },
+          {
+            "hex": "#dbdbd4",
+            "share": 0.177
+          },
+          {
+            "hex": "#e2e2db",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/98/6f/5f/986f5f6f-99e1-e23c-0513-d0415f2bb578/mzi.wpmfrxwd.jpg/1200x1200bb.jpg",
+      "collection": "9 to 5 and Odd Jobs",
+      "collection_id": 273166232,
+      "track_id": 273166378,
+      "artist_name": "Dolly Parton",
+      "release_date": "1980-11-17T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.878,
+        "saturation": 0.12,
+        "dark_share": 0.035,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.62
+          },
+          {
+            "hex": "#633033",
+            "share": 0.175
+          },
+          {
+            "hex": "#ede3db",
+            "share": 0.093
+          },
+          {
+            "hex": "#fdfffe",
+            "share": 0.058
+          },
+          {
+            "hex": "#fffffd",
+            "share": 0.054
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

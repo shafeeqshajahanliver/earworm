@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "f67e44ed-0126-3bd2-85dc-52df7d89870d",
+      "release_title": "Coming Up",
+      "release_date": "1980",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/5e0d12b1-8c65-45c2-82fe-609631d2ee03/1888197518-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/5e0d12b1-8c65-45c2-82fe-609631d2ee03",
+      "image_id": "1888197518",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        430,
+        432
+      ],
+      "measures": {
+        "brightness": 0.591,
+        "saturation": 0.226,
+        "dark_share": 0.213,
+        "palette": [
+          {
+            "hex": "#1f1311",
+            "share": 0.263
+          },
+          {
+            "hex": "#8a8273",
+            "share": 0.218
+          },
+          {
+            "hex": "#e0deca",
+            "share": 0.211
+          },
+          {
+            "hex": "#c9c6b4",
+            "share": 0.198
+          },
+          {
+            "hex": "#edecd6",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8882d1e4-2a6e-334f-abf7-ffa2e8b83aa7",
+      "release_title": "McCartney II",
+      "release_date": "1980",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: McCartney II",
+      "url": "https://coverartarchive.org/release/aa725510-2564-46ef-bf73-78f2f17d5e6f/18109362505-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/aa725510-2564-46ef-bf73-78f2f17d5e6f",
+      "image_id": 18109362505,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.549,
+        "saturation": 0.47,
+        "dark_share": 0.153,
+        "palette": [
+          {
+            "hex": "#875c42",
+            "share": 0.282
+          },
+          {
+            "hex": "#b88c54",
+            "share": 0.282
+          },
+          {
+            "hex": "#37302c",
+            "share": 0.221
+          },
+          {
+            "hex": "#978363",
+            "share": 0.119
+          },
+          {
+            "hex": "#c7a260",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/1200x1200bb.jpg",
+      "collection": "McCartney II (Archive Collection)",
+      "collection_id": 1440953750,
+      "track_id": 1440953751,
+      "artist_name": "Paul McCartney",
+      "release_date": "1980-04-11T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.56,
+        "saturation": 0.498,
+        "dark_share": 0.171,
+        "palette": [
+          {
+            "hex": "#a28452",
+            "share": 0.328
+          },
+          {
+            "hex": "#8f5c3a",
+            "share": 0.261
+          },
+          {
+            "hex": "#26221e",
+            "share": 0.222
+          },
+          {
+            "hex": "#dcc394",
+            "share": 0.104
+          },
+          {
+            "hex": "#a29778",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a934040c-9a74-34ce-8b42-0db87b493dae",
+      "release_title": "Sweet Dreams (Are Made of This)",
+      "release_date": "1983",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/013cf8f8-a4d3-4d7d-9dca-55ebc5e8d933/21043820089-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/013cf8f8-a4d3-4d7d-9dca-55ebc5e8d933",
+      "image_id": 21043820089,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        604
+      ],
+      "measures": {
+        "brightness": 0.889,
+        "saturation": 0.15,
+        "dark_share": 0.012,
+        "palette": [
+          {
+            "hex": "#f7f5e6",
+            "share": 0.282
+          },
+          {
+            "hex": "#a88f6a",
+            "share": 0.246
+          },
+          {
+            "hex": "#faf8ea",
+            "share": 0.237
+          },
+          {
+            "hex": "#f8f6e8",
+            "share": 0.135
+          },
+          {
+            "hex": "#efe8d1",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d49f58c2-7cef-403c-8f7f-0f475c64530a",
+      "release_title": "Sweet Dreams: 36 traumhafte Popsongs",
+      "release_date": "1992",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Sweet Dreams (Are Made of This)",
+      "url": "http://coverartarchive.org/release/1a18f44b-7784-4187-97f2-e2c8af0950e7/9034228457-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/1a18f44b-7784-4187-97f2-e2c8af0950e7",
+      "image_id": "9034228457",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        418,
+        500
+      ],
+      "measures": {
+        "brightness": 0.557,
+        "saturation": 0.086,
+        "dark_share": 0.233,
+        "palette": [
+          {
+            "hex": "#202423",
+            "share": 0.296
+          },
+          {
+            "hex": "#acbbb9",
+            "share": 0.213
+          },
+          {
+            "hex": "#fcfafb",
+            "share": 0.194
+          },
+          {
+            "hex": "#515e5c",
+            "share": 0.193
+          },
+          {
+            "hex": "#f1f0f0",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/e6/3d/54/mzi.xdugjdri.jpg/1200x1200bb.jpg",
+      "collection": "Sweet Dreams (Are Made of This) [Remastered]",
+      "collection_id": 308221792,
+      "track_id": 308221829,
+      "artist_name": "Eurythmics",
+      "release_date": "1982-09-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        657,
+        600
+      ],
+      "measures": {
+        "brightness": 0.72,
+        "saturation": 0.015,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#a8a8a8",
+            "share": 0.759
+          },
+          {
+            "hex": "#eceae8",
+            "share": 0.176
+          },
+          {
+            "hex": "#a9a8b6",
+            "share": 0.029
+          },
+          {
+            "hex": "#b4a88a",
+            "share": 0.026
+          },
+          {
+            "hex": "#a5968a",
+            "share": 0.01
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

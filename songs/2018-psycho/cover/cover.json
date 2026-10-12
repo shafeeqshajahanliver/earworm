@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e553730c-868b-48ab-99af-52d51ab427f8",
+      "release_title": "Psycho",
+      "release_date": "2018-02-23",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/dc4ae71f-9cd8-4f2b-ac41-7d6dfa62d8cf/19199633289-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/dc4ae71f-9cd8-4f2b-ac41-7d6dfa62d8cf",
+      "image_id": 19199633289,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.411,
+        "saturation": 0.343,
+        "dark_share": 0.289,
+        "palette": [
+          {
+            "hex": "#cbc097",
+            "share": 0.261
+          },
+          {
+            "hex": "#262419",
+            "share": 0.222
+          },
+          {
+            "hex": "#423028",
+            "share": 0.184
+          },
+          {
+            "hex": "#746444",
+            "share": 0.167
+          },
+          {
+            "hex": "#322b22",
+            "share": 0.165
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a6045fe5-c283-4778-995c-04d953fe73e1",
+      "release_title": "beerbongs & bentleys",
+      "release_date": "2018-04-27",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Beerbongs & Bentleys",
+      "url": "http://coverartarchive.org/release/32ebdd0a-0c4a-4968-8c46-63ed02d3170d/33659052560-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/32ebdd0a-0c4a-4968-8c46-63ed02d3170d",
+      "image_id": 33659052560,
+      "types": [
+        "Front",
+        "Track"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.707,
+        "saturation": 0.556,
+        "dark_share": 0.088,
+        "palette": [
+          {
+            "hex": "#cfc614",
+            "share": 0.317
+          },
+          {
+            "hex": "#c0b512",
+            "share": 0.244
+          },
+          {
+            "hex": "#eeedef",
+            "share": 0.215
+          },
+          {
+            "hex": "#56532e",
+            "share": 0.193
+          },
+          {
+            "hex": "#e1deb9",
+            "share": 0.032
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/1200x1200bb.jpg",
+      "collection": "beerbongs & bentleys",
+      "collection_id": 1373504837,
+      "track_id": 1373506178,
+      "artist_name": "Post Malone",
+      "release_date": "2018-02-23T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.707,
+        "saturation": 0.545,
+        "dark_share": 0.09,
+        "palette": [
+          {
+            "hex": "#cfc618",
+            "share": 0.33
+          },
+          {
+            "hex": "#c0b517",
+            "share": 0.233
+          },
+          {
+            "hex": "#eeedef",
+            "share": 0.215
+          },
+          {
+            "hex": "#55522f",
+            "share": 0.192
+          },
+          {
+            "hex": "#e2deba",
+            "share": 0.03
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

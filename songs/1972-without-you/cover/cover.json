@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "19a185f4-f683-3d00-9571-7378ea276068",
+      "release_title": "Nilsson Schmilsson",
+      "release_date": "1971-11",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Nilsson Schmilsson",
+      "url": "http://coverartarchive.org/release/9be5bdcb-692b-4d7e-8d16-6d5741539ade/10539244871-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9be5bdcb-692b-4d7e-8d16-6d5741539ade",
+      "image_id": 10539244871,
+      "types": [
+        "Front"
+      ],
+      "comment": "500 x 500",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.394,
+        "saturation": 0.04,
+        "dark_share": 0.026,
+        "palette": [
+          {
+            "hex": "#353331",
+            "share": 0.224
+          },
+          {
+            "hex": "#b6b4ad",
+            "share": 0.222
+          },
+          {
+            "hex": "#626160",
+            "share": 0.215
+          },
+          {
+            "hex": "#474546",
+            "share": 0.197
+          },
+          {
+            "hex": "#3e3c3c",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/f1/bf/f7f1bf43-3324-6c2d-d7e0-368d506fd56d/078635451528.jpg/1200x1200bb.jpg",
+      "collection": "Nilsson Schmilsson",
+      "collection_id": 304815001,
+      "track_id": 304815013,
+      "artist_name": "Harry Nilsson",
+      "release_date": "1971-11-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.401,
+        "saturation": 0.199,
+        "dark_share": 0.086,
+        "palette": [
+          {
+            "hex": "#b9ac9c",
+            "share": 0.223
+          },
+          {
+            "hex": "#403532",
+            "share": 0.219
+          },
+          {
+            "hex": "#655a52",
+            "share": 0.215
+          },
+          {
+            "hex": "#473d38",
+            "share": 0.181
+          },
+          {
+            "hex": "#342927",
+            "share": 0.163
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

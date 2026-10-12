@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b86a7b63-1e10-449a-85fe-a30c54d3070f",
+      "release_title": "Get Ready / Magic Key",
+      "release_date": "1969",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "105dccc0-1a68-33c2-ad7b-e6a7c2bcae69",
+      "release_title": "Get Ready",
+      "release_date": "1969",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Get Ready",
+      "url": "http://coverartarchive.org/release/4fa87bbc-c1c0-4f9e-a4d3-79336c9e0240/2920927851-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4fa87bbc-c1c0-4f9e-a4d3-79336c9e0240",
+      "image_id": 2920927851,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        497,
+        497
+      ],
+      "measures": {
+        "brightness": 0.64,
+        "saturation": 0.18,
+        "dark_share": 0.086,
+        "palette": [
+          {
+            "hex": "#fffdf1",
+            "share": 0.3
+          },
+          {
+            "hex": "#727f6b",
+            "share": 0.28
+          },
+          {
+            "hex": "#383d37",
+            "share": 0.229
+          },
+          {
+            "hex": "#acb09a",
+            "share": 0.164
+          },
+          {
+            "hex": "#fffdf0",
+            "share": 0.027
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/96/68/28/9668284b-7a32-3d77-1e90-623d372ce98f/00602527026442.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Get Ready",
+      "collection_id": 1440747640,
+      "track_id": 1440748616,
+      "artist_name": "Rare Earth",
+      "release_date": "1969-09-30T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.701,
+        "saturation": 0.323,
+        "dark_share": 0.053,
+        "palette": [
+          {
+            "hex": "#fffff7",
+            "share": 0.338
+          },
+          {
+            "hex": "#474921",
+            "share": 0.232
+          },
+          {
+            "hex": "#86955c",
+            "share": 0.231
+          },
+          {
+            "hex": "#adbe92",
+            "share": 0.178
+          },
+          {
+            "hex": "#ffd368",
+            "share": 0.021
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

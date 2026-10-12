@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "0fb00ebf-c1fc-40cb-84c7-09de5e760a6c",
+      "release_title": "Do That to Me One More Time",
+      "release_date": "1979",
+      "release_country": "NZ",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "2b5571d8-d0dc-326d-bc0d-e771f00f9680",
+      "release_title": "Make Your Move",
+      "release_date": "1979-10-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Make Your Move",
+      "url": "http://coverartarchive.org/release/587939dd-8394-45c7-bf3e-9a4db3dff0a1/35705727369-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/587939dd-8394-45c7-bf3e-9a4db3dff0a1",
+      "image_id": 35705727369,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        591
+      ],
+      "measures": {
+        "brightness": 0.572,
+        "saturation": 0.509,
+        "dark_share": 0.081,
+        "palette": [
+          {
+            "hex": "#9d6651",
+            "share": 0.234
+          },
+          {
+            "hex": "#a85537",
+            "share": 0.22
+          },
+          {
+            "hex": "#bc896f",
+            "share": 0.197
+          },
+          {
+            "hex": "#4b2923",
+            "share": 0.195
+          },
+          {
+            "hex": "#98432a",
+            "share": 0.153
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9c/b2/62/9cb26276-59d1-3343-a6e8-41ea28ccec66/00602537747245.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Make Your Move",
+      "collection_id": 1444091753,
+      "track_id": 1444092278,
+      "artist_name": "Captain & Tennille",
+      "release_date": "1979-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.536,
+        "saturation": 0.46,
+        "dark_share": 0.114,
+        "palette": [
+          {
+            "hex": "#865d45",
+            "share": 0.292
+          },
+          {
+            "hex": "#bc845e",
+            "share": 0.208
+          },
+          {
+            "hex": "#37241a",
+            "share": 0.2
+          },
+          {
+            "hex": "#997256",
+            "share": 0.196
+          },
+          {
+            "hex": "#d1a275",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

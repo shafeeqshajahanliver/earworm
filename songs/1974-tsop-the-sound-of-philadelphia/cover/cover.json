@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "5f934aa5-9299-3a10-b136-134a35a7d1f8",
+      "release_title": "LOVE IS THE MESSAGE",
+      "release_date": "2000-01-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Love is the Message",
+      "url": "http://coverartarchive.org/release/de8ed4cf-3ca3-3c0a-813d-83347c87324e/25321252024-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/de8ed4cf-3ca3-3c0a-813d-83347c87324e",
+      "image_id": 25321252024,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.594,
+        "saturation": 0.366,
+        "dark_share": 0.181,
+        "palette": [
+          {
+            "hex": "#24171c",
+            "share": 0.266
+          },
+          {
+            "hex": "#414e7c",
+            "share": 0.244
+          },
+          {
+            "hex": "#6d9dce",
+            "share": 0.227
+          },
+          {
+            "hex": "#a1c8e4",
+            "share": 0.141
+          },
+          {
+            "hex": "#e2eae7",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e2/32/c9/e232c91f-0b85-33a0-43fa-65bce8715ba5/886447237823.jpg/1200x1200bb.jpg",
+      "collection": "The Essential MFSB",
+      "collection_id": 1439049484,
+      "track_id": 1439049786,
+      "artist_name": "MFSB",
+      "release_date": "1968-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.324,
+        "saturation": 0.014,
+        "dark_share": 0.379,
+        "palette": [
+          {
+            "hex": "#151515",
+            "share": 0.277
+          },
+          {
+            "hex": "#372d30",
+            "share": 0.243
+          },
+          {
+            "hex": "#545454",
+            "share": 0.211
+          },
+          {
+            "hex": "#8a8a8a",
+            "share": 0.146
+          },
+          {
+            "hex": "#c6c6c6",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

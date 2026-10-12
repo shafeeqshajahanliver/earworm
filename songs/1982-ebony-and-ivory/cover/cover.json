@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c16d1c75-c53b-4d33-8682-b8bb0a89f5cd",
+      "release_title": "Ebony and Ivory",
+      "release_date": "1982",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/f39d6bcf-5bab-4692-b9c8-57829bbe7c91/38249704585-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f39d6bcf-5bab-4692-b9c8-57829bbe7c91",
+      "image_id": 38249704585,
+      "types": [
+        "Front",
+        "Top"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        996
+      ],
+      "measures": {
+        "brightness": 0.508,
+        "saturation": 0.214,
+        "dark_share": 0.152,
+        "palette": [
+          {
+            "hex": "#f5f3ef",
+            "share": 0.303
+          },
+          {
+            "hex": "#1e1e2f",
+            "share": 0.22
+          },
+          {
+            "hex": "#463541",
+            "share": 0.202
+          },
+          {
+            "hex": "#2e2b3a",
+            "share": 0.144
+          },
+          {
+            "hex": "#9e8b8a",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e7620374-defe-3656-a65d-ef062ba9df11",
+      "release_title": "Tug of War",
+      "release_date": "1982",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Tug of War",
+      "url": "http://coverartarchive.org/release/c23f4c08-a8f2-40ce-abcb-2ecb59e7101d/8112202559-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/c23f4c08-a8f2-40ce-abcb-2ecb59e7101d",
+      "image_id": "8112202559",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.602,
+        "saturation": 0.721,
+        "dark_share": 0.055,
+        "palette": [
+          {
+            "hex": "#b10917",
+            "share": 0.352
+          },
+          {
+            "hex": "#493a6b",
+            "share": 0.216
+          },
+          {
+            "hex": "#32183e",
+            "share": 0.185
+          },
+          {
+            "hex": "#64719b",
+            "share": 0.128
+          },
+          {
+            "hex": "#92bfe0",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e6/b9/fc/e6b9fc88-e19d-5553-af38-a3564a5ac28f/00888072321625.rgb.jpg/1200x1200bb.jpg",
+      "collection": "All The Best (UK Version)",
+      "collection_id": 1440942051,
+      "track_id": 1440942063,
+      "artist_name": "Paul McCartney & Stevie Wonder",
+      "release_date": "1982-03-26T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.451,
+        "saturation": 0.209,
+        "dark_share": 0.282,
+        "palette": [
+          {
+            "hex": "#8f7878",
+            "share": 0.332
+          },
+          {
+            "hex": "#191211",
+            "share": 0.31
+          },
+          {
+            "hex": "#a99d9c",
+            "share": 0.177
+          },
+          {
+            "hex": "#cdc6c3",
+            "share": 0.096
+          },
+          {
+            "hex": "#654a4d",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

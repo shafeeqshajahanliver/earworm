@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b59298d5-206c-4b58-81ea-6d66deb02355",
+      "release_title": "Rude",
+      "release_date": "2013-10-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/bd5b9b1b-32f6-4a34-bd3c-dd6a8ba15dc1/7355356911-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/bd5b9b1b-32f6-4a34-bd3c-dd6a8ba15dc1",
+      "image_id": 7355356911,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.704,
+        "saturation": 0.599,
+        "dark_share": 0.233,
+        "palette": [
+          {
+            "hex": "#efaa43",
+            "share": 0.506
+          },
+          {
+            "hex": "#603a21",
+            "share": 0.268
+          },
+          {
+            "hex": "#efaa41",
+            "share": 0.138
+          },
+          {
+            "hex": "#f2ca94",
+            "share": 0.075
+          },
+          {
+            "hex": "#efaa4b",
+            "share": 0.014
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "33b7db30-5159-41e0-a864-f6d63cf68931",
+      "release_title": "Don’t Kill the Magic",
+      "release_date": "2014-06-25",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Don't Kill the Magic",
+      "url": "https://coverartarchive.org/release/acaa0de6-0aac-46fb-86fd-78d36a4bc97c/41430413234-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/acaa0de6-0aac-46fb-86fd-78d36a4bc97c",
+      "image_id": 41430413234,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.724,
+        "saturation": 0.583,
+        "dark_share": 0.211,
+        "palette": [
+          {
+            "hex": "#efe643",
+            "share": 0.69
+          },
+          {
+            "hex": "#29280e",
+            "share": 0.232
+          },
+          {
+            "hex": "#f2e944",
+            "share": 0.041
+          },
+          {
+            "hex": "#efe642",
+            "share": 0.032
+          },
+          {
+            "hex": "#f0e647",
+            "share": 0.004
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/46/74/2a4674c2-889f-4f6b-e4e9-b3693f8ee962/886444607650.jpg/1200x1200bb.jpg",
+      "collection": "Don't Kill the Magic",
+      "collection_id": 881629097,
+      "track_id": 881629103,
+      "artist_name": "MAGIC!",
+      "release_date": "2013-10-11T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.732,
+        "saturation": 0.62,
+        "dark_share": 0.211,
+        "palette": [
+          {
+            "hex": "#efe643",
+            "share": 0.678
+          },
+          {
+            "hex": "#303015",
+            "share": 0.233
+          },
+          {
+            "hex": "#eee643",
+            "share": 0.044
+          },
+          {
+            "hex": "#f3e944",
+            "share": 0.042
+          },
+          {
+            "hex": "#efe642",
+            "share": 0.002
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

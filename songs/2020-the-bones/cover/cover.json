@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "76e82f8f-da9f-44a8-a24d-da61b989e31d",
+      "release_title": "GIRL",
+      "release_date": "2019-03-08",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Girl",
+      "url": "http://coverartarchive.org/release/7675c37a-896a-47d7-bdae-ac6187f7f419/22360303038-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/7675c37a-896a-47d7-bdae-ac6187f7f419",
+      "image_id": 22360303038,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.806,
+        "saturation": 0.268,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#f1e7da",
+            "share": 0.233
+          },
+          {
+            "hex": "#d2b185",
+            "share": 0.226
+          },
+          {
+            "hex": "#7b553a",
+            "share": 0.219
+          },
+          {
+            "hex": "#f4eade",
+            "share": 0.202
+          },
+          {
+            "hex": "#f2e8dc",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/24/5a/ab245a92-79a8-3d66-4fff-a5116908bce8/886447532270.jpg/1200x1200bb.jpg",
+      "collection": "GIRL",
+      "collection_id": 1451230484,
+      "track_id": 1451231037,
+      "artist_name": "Maren Morris",
+      "release_date": "2019-02-22T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.807,
+        "saturation": 0.267,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#f2e7db",
+            "share": 0.227
+          },
+          {
+            "hex": "#d2b285",
+            "share": 0.225
+          },
+          {
+            "hex": "#7b553b",
+            "share": 0.221
+          },
+          {
+            "hex": "#f3e8dc",
+            "share": 0.187
+          },
+          {
+            "hex": "#f5eadf",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

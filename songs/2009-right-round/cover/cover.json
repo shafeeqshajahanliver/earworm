@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1869cb22-4fb7-4c16-856b-d73ded073f23",
+      "release_title": "Right Round",
+      "release_date": "2009-02-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/242c407c-cdf4-4e65-9465-52bfcf9c2919/6599823700-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/242c407c-cdf4-4e65-9465-52bfcf9c2919",
+      "image_id": "6599823700",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        499
+      ],
+      "measures": {
+        "brightness": 0.781,
+        "saturation": 0.376,
+        "dark_share": 0.025,
+        "palette": [
+          {
+            "hex": "#b59563",
+            "share": 0.264
+          },
+          {
+            "hex": "#8a4327",
+            "share": 0.251
+          },
+          {
+            "hex": "#fefefc",
+            "share": 0.183
+          },
+          {
+            "hex": "#dfcc90",
+            "share": 0.154
+          },
+          {
+            "hex": "#f7f2db",
+            "share": 0.147
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e829d05a-ca63-411b-8cc1-dee43f9a4391",
+      "release_title": "R.O.O.T.S.",
+      "release_date": "2009-03-23",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: R.O.O.T.S.",
+      "url": "http://coverartarchive.org/release/3974641c-c7d4-4672-ba27-066a784273a0/36312505495-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3974641c-c7d4-4672-ba27-066a784273a0",
+      "image_id": 36312505495,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1191
+      ],
+      "measures": {
+        "brightness": 0.593,
+        "saturation": 0.54,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#8e633a",
+            "share": 0.264
+          },
+          {
+            "hex": "#a77d4b",
+            "share": 0.236
+          },
+          {
+            "hex": "#613e26",
+            "share": 0.224
+          },
+          {
+            "hex": "#b8955f",
+            "share": 0.162
+          },
+          {
+            "hex": "#ceb181",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

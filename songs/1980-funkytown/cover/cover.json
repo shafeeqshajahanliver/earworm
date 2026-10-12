@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6a3dd299-e8af-343c-a92e-018d9498d8ab",
+      "release_title": "Funkytown",
+      "release_date": "1979",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/90fa8805-a5a2-4726-9bc6-4bb3bf626eee/14133151887-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/90fa8805-a5a2-4726-9bc6-4bb3bf626eee",
+      "image_id": "14133151887",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.849,
+        "saturation": 0.332,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#eececb",
+            "share": 0.287
+          },
+          {
+            "hex": "#9aa2b6",
+            "share": 0.243
+          },
+          {
+            "hex": "#976890",
+            "share": 0.211
+          },
+          {
+            "hex": "#f0e1dc",
+            "share": 0.173
+          },
+          {
+            "hex": "#b7cdc7",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "677907c6-7591-3947-a838-5de2093453af",
+      "release_title": "Mouth to Mouth",
+      "release_date": "1980-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mouth to Mouth",
+      "url": "http://coverartarchive.org/release/54e8c49f-d2c4-4bc8-9428-8bb81857b531/29808223683-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/54e8c49f-d2c4-4bc8-9428-8bb81857b531",
+      "image_id": 29808223683,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        800,
+        800
+      ],
+      "measures": {
+        "brightness": 0.718,
+        "saturation": 0.499,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#304e7e",
+            "share": 0.341
+          },
+          {
+            "hex": "#bb426f",
+            "share": 0.221
+          },
+          {
+            "hex": "#f0bac4",
+            "share": 0.211
+          },
+          {
+            "hex": "#9f8398",
+            "share": 0.116
+          },
+          {
+            "hex": "#b8b297",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/8c/af/f28cafdd-e76e-5cef-42f9-80670b65f1ab/00044006305622.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Funkytown",
+      "collection_id": 1443828321,
+      "track_id": 1443828328,
+      "artist_name": "Lipps, Inc.",
+      "release_date": "1979-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1189
+      ],
+      "measures": {
+        "brightness": 0.528,
+        "saturation": 0.501,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#59376a",
+            "share": 0.524
+          },
+          {
+            "hex": "#c59c92",
+            "share": 0.149
+          },
+          {
+            "hex": "#9b357d",
+            "share": 0.145
+          },
+          {
+            "hex": "#834478",
+            "share": 0.132
+          },
+          {
+            "hex": "#523160",
+            "share": 0.049
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

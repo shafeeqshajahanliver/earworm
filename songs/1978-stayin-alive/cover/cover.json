@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "f3cc5901-8895-3a8c-ab57-c3485e78ea93",
+      "release_title": "Stayin’ Alive",
+      "release_date": "1977",
+      "release_country": "PT",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/08f3def4-adb0-46bf-a601-46357b19b845/7931443058-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/08f3def4-adb0-46bf-a601-46357b19b845",
+      "image_id": 7931443058,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        576,
+        576
+      ],
+      "measures": {
+        "brightness": 0.38,
+        "saturation": 0.084,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#413f3e",
+            "share": 0.372
+          },
+          {
+            "hex": "#3b3a39",
+            "share": 0.214
+          },
+          {
+            "hex": "#838576",
+            "share": 0.163
+          },
+          {
+            "hex": "#524f4b",
+            "share": 0.129
+          },
+          {
+            "hex": "#c5c5b3",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "64a5e2a3-d8d8-31a7-83ec-a2c841f3da70",
+      "release_title": "Saturday Night Fever",
+      "release_date": "1993",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Saturday Night Fever",
+      "url": "http://coverartarchive.org/release/93a041c1-ec1b-437b-a69e-6e21db86b3a7/37262194341-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/93a041c1-ec1b-437b-a69e-6e21db86b3a7",
+      "image_id": 37262194341,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.553,
+        "saturation": 0.638,
+        "dark_share": 0.264,
+        "palette": [
+          {
+            "hex": "#12120a",
+            "share": 0.307
+          },
+          {
+            "hex": "#e9c04b",
+            "share": 0.206
+          },
+          {
+            "hex": "#6d341f",
+            "share": 0.203
+          },
+          {
+            "hex": "#bd8b3f",
+            "share": 0.16
+          },
+          {
+            "hex": "#f0d055",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

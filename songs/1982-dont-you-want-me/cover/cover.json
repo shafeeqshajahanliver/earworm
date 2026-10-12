@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3daa5e36-793e-3af7-8a07-bc244a0a6157",
+      "release_title": "Don't You Want Me",
+      "release_date": "1981-11-23",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/976e626c-a749-4961-8bd2-021d9b37a25f/11151841064-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/976e626c-a749-4961-8bd2-021d9b37a25f",
+      "image_id": "11151841064",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        495,
+        500
+      ],
+      "measures": {
+        "brightness": 0.515,
+        "saturation": 0.37,
+        "dark_share": 0.109,
+        "palette": [
+          {
+            "hex": "#643648",
+            "share": 0.288
+          },
+          {
+            "hex": "#2a252f",
+            "share": 0.241
+          },
+          {
+            "hex": "#b4a8af",
+            "share": 0.188
+          },
+          {
+            "hex": "#956e7b",
+            "share": 0.173
+          },
+          {
+            "hex": "#e4c69a",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e8e7999e-0b87-3298-947d-2ad22717fc27",
+      "release_title": "Dare",
+      "release_date": "1981",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Dare",
+      "url": "http://coverartarchive.org/release/ed055e68-d621-3891-a0dc-5587d8eba26a/22836783878-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ed055e68-d621-3891-a0dc-5587d8eba26a",
+      "image_id": 22836783878,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.891,
+        "saturation": 0.235,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#f3ecdc",
+            "share": 0.576
+          },
+          {
+            "hex": "#aa8c88",
+            "share": 0.264
+          },
+          {
+            "hex": "#f1ecdd",
+            "share": 0.076
+          },
+          {
+            "hex": "#f6efdf",
+            "share": 0.042
+          },
+          {
+            "hex": "#f4ecdc",
+            "share": 0.041
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b1/b0/60b1b052-1a98-b1c7-7554-dc68d91da6e7/13UABIM56819.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Dare",
+      "collection_id": 724437555,
+      "track_id": 724437870,
+      "artist_name": "The Human League",
+      "release_date": "1981-10-16T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.949,
+        "saturation": 0.146,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#fffef9",
+            "share": 0.312
+          },
+          {
+            "hex": "#fffefa",
+            "share": 0.294
+          },
+          {
+            "hex": "#b9a295",
+            "share": 0.206
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.095
+          },
+          {
+            "hex": "#fefffa",
+            "share": 0.092
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

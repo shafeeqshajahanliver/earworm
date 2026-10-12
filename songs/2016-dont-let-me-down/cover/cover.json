@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d97c1e02-54bd-49bc-819e-0dbe46a825ba",
+      "release_title": "Don’t Let Me Down",
+      "release_date": "2016-02-05",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b351b954-4e76-450d-aecd-c4659c72f3dd/13401729254-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b351b954-4e76-450d-aecd-c4659c72f3dd",
+      "image_id": 13401729254,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.274,
+        "saturation": 0.3,
+        "dark_share": 0.683,
+        "palette": [
+          {
+            "hex": "#151e1d",
+            "share": 0.503
+          },
+          {
+            "hex": "#988381",
+            "share": 0.177
+          },
+          {
+            "hex": "#311e23",
+            "share": 0.162
+          },
+          {
+            "hex": "#141e1d",
+            "share": 0.113
+          },
+          {
+            "hex": "#1a1c1f",
+            "share": 0.045
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/f8/38/41f8380b-9b56-d5d4-31f7-a6411c0c9aaa/886446102054.jpg/1200x1200bb.jpg",
+      "collection": "Collage - EP",
+      "collection_id": 1170699510,
+      "track_id": 1170699706,
+      "artist_name": "The Chainsmokers",
+      "release_date": "2016-02-05T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.748,
+        "saturation": 0.286,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#b9a76e",
+            "share": 0.27
+          },
+          {
+            "hex": "#77694c",
+            "share": 0.218
+          },
+          {
+            "hex": "#d6cda1",
+            "share": 0.215
+          },
+          {
+            "hex": "#efefe1",
+            "share": 0.163
+          },
+          {
+            "hex": "#e4d9af",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

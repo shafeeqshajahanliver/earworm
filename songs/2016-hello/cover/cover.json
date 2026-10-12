@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "5537624c-3d2f-4f5c-8099-df916082c85c",
+      "release_title": "25",
+      "release_date": "2015-11-20",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 25",
+      "url": "http://coverartarchive.org/release/0fd7b9f9-5921-42c1-bb90-1a3f76b7b628/12266354356-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0fd7b9f9-5921-42c1-bb90-1a3f76b7b628",
+      "image_id": 12266354356,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.486,
+        "saturation": 0.195,
+        "dark_share": 0.287,
+        "palette": [
+          {
+            "hex": "#232019",
+            "share": 0.276
+          },
+          {
+            "hex": "#d8d2c2",
+            "share": 0.269
+          },
+          {
+            "hex": "#a49b8a",
+            "share": 0.21
+          },
+          {
+            "hex": "#655d51",
+            "share": 0.145
+          },
+          {
+            "hex": "#393429",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/1200x1200bb.jpg",
+      "collection": "25",
+      "collection_id": 1544494115,
+      "track_id": 1544494392,
+      "artist_name": "Adele",
+      "release_date": "2015-10-23T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.485,
+        "saturation": 0.185,
+        "dark_share": 0.287,
+        "palette": [
+          {
+            "hex": "#22201a",
+            "share": 0.313
+          },
+          {
+            "hex": "#a39a89",
+            "share": 0.214
+          },
+          {
+            "hex": "#4f493d",
+            "share": 0.175
+          },
+          {
+            "hex": "#cdc6b6",
+            "share": 0.165
+          },
+          {
+            "hex": "#e2dcce",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

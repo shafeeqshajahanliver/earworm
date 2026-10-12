@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "f5c6b55b-f332-4d09-8813-a533ba3f4db2",
+      "release_title": "Go Away Little Girl / Time to Ride",
+      "release_date": "1971",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/fe3f26ba-94dc-40d8-b6c1-0864da03196d/25052181941-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fe3f26ba-94dc-40d8-b6c1-0864da03196d",
+      "image_id": 25052181941,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "Side A",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.592,
+        "saturation": 0.568,
+        "dark_share": 0.312,
+        "palette": [
+          {
+            "hex": "#e13428",
+            "share": 0.455
+          },
+          {
+            "hex": "#000000",
+            "share": 0.287
+          },
+          {
+            "hex": "#e48142",
+            "share": 0.158
+          },
+          {
+            "hex": "#ae201a",
+            "share": 0.065
+          },
+          {
+            "hex": "#000101",
+            "share": 0.035
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9506af26-68a8-4d28-a4f8-fdb307fdb943",
+      "release_title": "To You With Love, Donny",
+      "release_date": "1971",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: To You With Love, Donny",
+      "url": "http://coverartarchive.org/release/21d4cde3-6a8c-4614-894d-6bbcf435af91/27380542634-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/21d4cde3-6a8c-4614-894d-6bbcf435af91",
+      "image_id": 27380542634,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.24,
+        "saturation": 0.191,
+        "dark_share": 0.713,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.367
+          },
+          {
+            "hex": "#010101",
+            "share": 0.281
+          },
+          {
+            "hex": "#dcc99e",
+            "share": 0.243
+          },
+          {
+            "hex": "#110d09",
+            "share": 0.103
+          },
+          {
+            "hex": "#000101",
+            "share": 0.006
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b8/c9/27/b8c9272d-4aa2-0844-4ddf-fdf9d11ee533/00602567280675.rgb.jpg/1200x1200bb.jpg",
+      "collection": "To You With Love, Donny",
+      "collection_id": 1356337987,
+      "track_id": 1356338144,
+      "artist_name": "Donny Osmond",
+      "release_date": "1971-10-11T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.251,
+        "saturation": 0.191,
+        "dark_share": 0.713,
+        "palette": [
+          {
+            "hex": "#050505",
+            "share": 0.387
+          },
+          {
+            "hex": "#020202",
+            "share": 0.215
+          },
+          {
+            "hex": "#f6eecd",
+            "share": 0.153
+          },
+          {
+            "hex": "#120f0b",
+            "share": 0.14
+          },
+          {
+            "hex": "#ba9966",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

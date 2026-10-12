@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1032aa29-9f9f-45ee-a27d-70c40ee255ea",
+      "release_title": "The Way We Were",
+      "release_date": "1973-09-26",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "0ec5d9f9-1af8-3747-8503-f9376a43d380",
+      "release_title": "The Way We Were",
+      "release_date": "1974-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Way We Were",
+      "url": "http://coverartarchive.org/release/297b5fd9-654c-3eb7-a41e-40fc4ae011c7/9800946084-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/297b5fd9-654c-3eb7-a41e-40fc4ae011c7",
+      "image_id": "9800946084",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.631,
+        "saturation": 0.248,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#ede6ec",
+            "share": 0.265
+          },
+          {
+            "hex": "#2a4a46",
+            "share": 0.262
+          },
+          {
+            "hex": "#d2b59e",
+            "share": 0.214
+          },
+          {
+            "hex": "#7c7875",
+            "share": 0.143
+          },
+          {
+            "hex": "#3b5b58",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1d/db/7f/1ddb7f0b-b6d4-ff4e-475a-61c453ab94e1/dj.kefgnnir.jpg/1200x1200bb.jpg",
+      "collection": "The Way We Were",
+      "collection_id": 193021926,
+      "track_id": 193022060,
+      "artist_name": "Barbra Streisand",
+      "release_date": "1973-09-27T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.504,
+        "saturation": 0.258,
+        "dark_share": 0.06,
+        "palette": [
+          {
+            "hex": "#c5bbc5",
+            "share": 0.265
+          },
+          {
+            "hex": "#203334",
+            "share": 0.254
+          },
+          {
+            "hex": "#a68671",
+            "share": 0.195
+          },
+          {
+            "hex": "#5c5a55",
+            "share": 0.164
+          },
+          {
+            "hex": "#2e4442",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

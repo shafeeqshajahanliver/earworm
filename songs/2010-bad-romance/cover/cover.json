@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4535cbfb-a9a8-49ac-ac19-8f64d7af3bc7",
+      "release_title": "Bad Romance",
+      "release_date": "2009-11-23",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/fc140606-5fef-49f5-a84b-5418e4c7a98a/42010860262-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fc140606-5fef-49f5-a84b-5418e4c7a98a",
+      "image_id": 42010860262,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.503,
+        "saturation": 0.566,
+        "dark_share": 0.154,
+        "palette": [
+          {
+            "hex": "#671919",
+            "share": 0.27
+          },
+          {
+            "hex": "#280e0e",
+            "share": 0.238
+          },
+          {
+            "hex": "#983b38",
+            "share": 0.211
+          },
+          {
+            "hex": "#c17b75",
+            "share": 0.152
+          },
+          {
+            "hex": "#e8e3e0",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/f1/23/4af123aa-c30e-db5d-c095-1c140fd37550/09UMGIM39393.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Bad Romance - Single",
+      "collection_id": 1444893386,
+      "track_id": 1444893703,
+      "artist_name": "Lady Gaga",
+      "release_date": "2009-10-26T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.505,
+        "saturation": 0.542,
+        "dark_share": 0.153,
+        "palette": [
+          {
+            "hex": "#681a1a",
+            "share": 0.269
+          },
+          {
+            "hex": "#291011",
+            "share": 0.243
+          },
+          {
+            "hex": "#993b37",
+            "share": 0.208
+          },
+          {
+            "hex": "#c17b75",
+            "share": 0.152
+          },
+          {
+            "hex": "#e8e3e0",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+      "release_title": "Teenage Dream",
+      "release_date": "2010-08-24",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Teenage Dream",
+      "url": "https://coverartarchive.org/release/c83e1420-66a4-4e1c-868c-1251df886564/38162677413-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c83e1420-66a4-4e1c-868c-1251df886564",
+      "image_id": 38162677413,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.764,
+        "saturation": 0.177,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#c1a8ae",
+            "share": 0.264
+          },
+          {
+            "hex": "#cbb7bd",
+            "share": 0.241
+          },
+          {
+            "hex": "#7f7284",
+            "share": 0.191
+          },
+          {
+            "hex": "#d2c2c6",
+            "share": 0.189
+          },
+          {
+            "hex": "#daccd0",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/d3/42/c8d342af-26d9-3ec2-c511-e1eaf860e299/13UABIM57787.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Teenage Dream",
+      "collection_id": 716192216,
+      "track_id": 716192625,
+      "artist_name": "Katy Perry",
+      "release_date": "2010-08-24T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.763,
+        "saturation": 0.176,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#c1a8af",
+            "share": 0.264
+          },
+          {
+            "hex": "#cbb7bd",
+            "share": 0.243
+          },
+          {
+            "hex": "#7e7183",
+            "share": 0.195
+          },
+          {
+            "hex": "#d2c2c7",
+            "share": 0.194
+          },
+          {
+            "hex": "#dbcdd1",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

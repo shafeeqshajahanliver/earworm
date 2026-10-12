@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "36f4ff5e-ff28-425e-815f-2500b85dcdaf",
+      "release_title": "Temperature",
+      "release_date": "2006-03-17",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/8d0b2768-cc39-4308-a39c-8e6324a8b311/45277699349-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8d0b2768-cc39-4308-a39c-8e6324a8b311",
+      "image_id": 45277699349,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.303,
+        "saturation": 0.3,
+        "dark_share": 0.464,
+        "palette": [
+          {
+            "hex": "#636b6b",
+            "share": 0.264
+          },
+          {
+            "hex": "#000000",
+            "share": 0.24
+          },
+          {
+            "hex": "#929582",
+            "share": 0.23
+          },
+          {
+            "hex": "#020405",
+            "share": 0.168
+          },
+          {
+            "hex": "#1c1d19",
+            "share": 0.098
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c29be412-d20a-4dab-bb92-ab826f0bba47",
+      "release_title": "The Trinity",
+      "release_date": "2005",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Trinity",
+      "url": "http://coverartarchive.org/release/4a9fd6bb-8070-4837-828e-e064f3f9c2ab/32684391820-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4a9fd6bb-8070-4837-828e-e064f3f9c2ab",
+      "image_id": 32684391820,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.468,
+        "saturation": 0.652,
+        "dark_share": 0.339,
+        "palette": [
+          {
+            "hex": "#020708",
+            "share": 0.338
+          },
+          {
+            "hex": "#ad490e",
+            "share": 0.333
+          },
+          {
+            "hex": "#cab095",
+            "share": 0.116
+          },
+          {
+            "hex": "#b0611b",
+            "share": 0.113
+          },
+          {
+            "hex": "#61250e",
+            "share": 0.1
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/a4/63/01a463c1-a951-eda2-291b-e601b6303c5a/mzi.eemlybcl.jpg/1200x1200bb.jpg",
+      "collection": "The Trinity (Bonus Version)",
+      "collection_id": 261648822,
+      "track_id": 261648942,
+      "artist_name": "Sean Paul",
+      "release_date": "2005-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.472,
+        "saturation": 0.644,
+        "dark_share": 0.34,
+        "palette": [
+          {
+            "hex": "#060b0b",
+            "share": 0.342
+          },
+          {
+            "hex": "#ad480f",
+            "share": 0.297
+          },
+          {
+            "hex": "#b06019",
+            "share": 0.143
+          },
+          {
+            "hex": "#caad92",
+            "share": 0.119
+          },
+          {
+            "hex": "#612610",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

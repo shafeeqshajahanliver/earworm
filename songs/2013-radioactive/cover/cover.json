@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "8aeb5c8f-cd86-40f1-8d9c-bcf716f3676b",
+      "release_title": "Hear Me",
+      "release_date": "2012-12-06",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/060c38c5-565e-4355-ad8c-2f39abc6a146/9498710972-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/060c38c5-565e-4355-ad8c-2f39abc6a146",
+      "image_id": "9498710972",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.608,
+        "saturation": 0.149,
+        "dark_share": 0.003,
+        "palette": [
+          {
+            "hex": "#827b91",
+            "share": 0.294
+          },
+          {
+            "hex": "#a09aa8",
+            "share": 0.242
+          },
+          {
+            "hex": "#493d59",
+            "share": 0.207
+          },
+          {
+            "hex": "#e0dde3",
+            "share": 0.147
+          },
+          {
+            "hex": "#c5c0c9",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "caef5f01-8568-4573-8458-c9e99ff7c734",
+      "release_title": "Night Visions",
+      "release_date": "2012",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Night Visions",
+      "url": "https://coverartarchive.org/release/6d29cb0e-9b13-4622-bcc3-d3ebf8745698/5902573066-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6d29cb0e-9b13-4622-bcc3-d3ebf8745698",
+      "image_id": 5902573066,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1197
+      ],
+      "measures": {
+        "brightness": 0.432,
+        "saturation": 0.095,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#a29f96",
+            "share": 0.254
+          },
+          {
+            "hex": "#7a7573",
+            "share": 0.214
+          },
+          {
+            "hex": "#3b383e",
+            "share": 0.196
+          },
+          {
+            "hex": "#48484b",
+            "share": 0.175
+          },
+          {
+            "hex": "#5c5458",
+            "share": 0.16
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/4b/10/234b10a6-95b6-db07-ff15-542b56aee927/22UMGIM65859.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Night Visions (Expanded Edition) [Super Deluxe]",
+      "collection_id": 1641821680,
+      "track_id": 1641822071,
+      "artist_name": "Imagine Dragons",
+      "release_date": "2012-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.667,
+        "saturation": 0.189,
+        "dark_share": 0.029,
+        "palette": [
+          {
+            "hex": "#a7b6c6",
+            "share": 0.243
+          },
+          {
+            "hex": "#6997b1",
+            "share": 0.237
+          },
+          {
+            "hex": "#4b4b4a",
+            "share": 0.23
+          },
+          {
+            "hex": "#c6c9d0",
+            "share": 0.169
+          },
+          {
+            "hex": "#e1e0e2",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "cb8e4abb-774d-4df3-aa40-d1d9770188b4",
+      "release_title": "ROCKSTAR",
+      "release_date": "2020-04-17",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "88f234a0-8e6d-4a12-b173-71173269f5ee",
+      "release_title": "BLAME IT ON BABY",
+      "release_date": "2020-04-17",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Blame It on Baby",
+      "url": "http://coverartarchive.org/release/441b7cf8-6ed7-4e73-9cc7-7fe3495e8fa0/29532072379-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/441b7cf8-6ed7-4e73-9cc7-7fe3495e8fa0",
+      "image_id": 29532072379,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1024,
+        1024
+      ],
+      "measures": {
+        "brightness": 0.568,
+        "saturation": 0.819,
+        "dark_share": 0.027,
+        "palette": [
+          {
+            "hex": "#065898",
+            "share": 0.395
+          },
+          {
+            "hex": "#043f7f",
+            "share": 0.234
+          },
+          {
+            "hex": "#4d2525",
+            "share": 0.159
+          },
+          {
+            "hex": "#6c94aa",
+            "share": 0.15
+          },
+          {
+            "hex": "#01408b",
+            "share": 0.062
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/97/1f/dc/971fdc0e-3b7f-dbf5-b586-ecc43e48b5b7/20UMGIM66718.rgb.jpg/1200x1200bb.jpg",
+      "collection": "BLAME IT ON BABY (DELUXE)",
+      "collection_id": 1527828146,
+      "track_id": 1527828411,
+      "artist_name": "DaBaby",
+      "release_date": "2020-04-17T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.691,
+        "saturation": 0.812,
+        "dark_share": 0.117,
+        "palette": [
+          {
+            "hex": "#eb691a",
+            "share": 0.283
+          },
+          {
+            "hex": "#2f1818",
+            "share": 0.271
+          },
+          {
+            "hex": "#c03008",
+            "share": 0.185
+          },
+          {
+            "hex": "#dc5917",
+            "share": 0.182
+          },
+          {
+            "hex": "#e8832f",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

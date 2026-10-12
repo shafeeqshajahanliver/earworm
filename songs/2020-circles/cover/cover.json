@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1d833231-c233-48ea-9bec-987bc117508a",
+      "release_title": "Circles",
+      "release_date": "2019-08-30",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9269d211-64c5-40e0-b0d5-c46a8d2f1e61/25473931983-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9269d211-64c5-40e0-b0d5-c46a8d2f1e61",
+      "image_id": 25473931983,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.477,
+        "saturation": 0.232,
+        "dark_share": 0.131,
+        "palette": [
+          {
+            "hex": "#7e748f",
+            "share": 0.244
+          },
+          {
+            "hex": "#b8adc2",
+            "share": 0.228
+          },
+          {
+            "hex": "#271f2d",
+            "share": 0.207
+          },
+          {
+            "hex": "#48425b",
+            "share": 0.164
+          },
+          {
+            "hex": "#60536a",
+            "share": 0.157
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8c9e2ca7-fad0-427c-a963-6bd535992a38",
+      "release_title": "Hollywood’s Bleeding",
+      "release_date": "2019-09-06",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Hollywood's Bleeding",
+      "url": "http://coverartarchive.org/release/0b751b1b-f420-46e9-b2b5-108615b8427f/24593316652-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0b751b1b-f420-46e9-b2b5-108615b8427f",
+      "image_id": 24593316652,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.111,
+        "saturation": 0.165,
+        "dark_share": 0.863,
+        "palette": [
+          {
+            "hex": "#151514",
+            "share": 0.348
+          },
+          {
+            "hex": "#020202",
+            "share": 0.213
+          },
+          {
+            "hex": "#1d201f",
+            "share": 0.18
+          },
+          {
+            "hex": "#0f100f",
+            "share": 0.151
+          },
+          {
+            "hex": "#2f4c56",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/13/27/6c13279a-399b-2631-3cb2-6233a91d7a53/19UMGIM78325.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Hollywood's Bleeding",
+      "collection_id": 1477886950,
+      "track_id": 1477887285,
+      "artist_name": "Post Malone",
+      "release_date": "2019-08-29T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.118,
+        "saturation": 0.126,
+        "dark_share": 0.868,
+        "palette": [
+          {
+            "hex": "#101010",
+            "share": 0.298
+          },
+          {
+            "hex": "#0e0e0e",
+            "share": 0.222
+          },
+          {
+            "hex": "#151515",
+            "share": 0.208
+          },
+          {
+            "hex": "#1d2021",
+            "share": 0.171
+          },
+          {
+            "hex": "#2e4b56",
+            "share": 0.1
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

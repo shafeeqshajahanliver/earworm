@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "47cf1c09-974a-4558-9a81-fbf1ecd17376",
+      "release_title": "Raymond v Raymond",
+      "release_date": "2010-03-30",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Raymond v. Raymond",
+      "url": "http://coverartarchive.org/release/c1e1ef69-2c9f-4029-bcbc-f339798c40c0/37565903174-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c1e1ef69-2c9f-4029-bcbc-f339798c40c0",
+      "image_id": 37565903174,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.271,
+        "saturation": 0.288,
+        "dark_share": 0.562,
+        "palette": [
+          {
+            "hex": "#3b3b38",
+            "share": 0.283
+          },
+          {
+            "hex": "#020204",
+            "share": 0.19
+          },
+          {
+            "hex": "#b3b5b3",
+            "share": 0.181
+          },
+          {
+            "hex": "#050608",
+            "share": 0.178
+          },
+          {
+            "hex": "#0e0d0f",
+            "share": 0.168
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/2d/20742d10-aae0-7a0c-0509-e8f611be5787/884977705362.jpg/1200x1200bb.jpg",
+      "collection": "Raymond v Raymond (Expanded Edition)",
+      "collection_id": 923691585,
+      "track_id": 923691591,
+      "artist_name": "USHER",
+      "release_date": "2010-03-22T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.459,
+        "saturation": 0.355,
+        "dark_share": 0.234,
+        "palette": [
+          {
+            "hex": "#0f1017",
+            "share": 0.264
+          },
+          {
+            "hex": "#604a83",
+            "share": 0.262
+          },
+          {
+            "hex": "#342d63",
+            "share": 0.226
+          },
+          {
+            "hex": "#eae2ec",
+            "share": 0.15
+          },
+          {
+            "hex": "#b3a4bd",
+            "share": 0.097
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

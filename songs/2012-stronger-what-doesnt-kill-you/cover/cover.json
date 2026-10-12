@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "cc073eb5-920b-4dad-a7f7-178a5cad1966",
+      "release_title": "Stronger",
+      "release_date": "2011-10-21",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Stronger",
+      "url": "http://coverartarchive.org/release/ae13c2c9-0d87-4653-9cc3-379a9602714a/10152453902-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ae13c2c9-0d87-4653-9cc3-379a9602714a",
+      "image_id": 10152453902,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.568,
+        "saturation": 0.072,
+        "dark_share": 0.239,
+        "palette": [
+          {
+            "hex": "#181919",
+            "share": 0.277
+          },
+          {
+            "hex": "#65615d",
+            "share": 0.212
+          },
+          {
+            "hex": "#eee9e4",
+            "share": 0.193
+          },
+          {
+            "hex": "#cfcac4",
+            "share": 0.182
+          },
+          {
+            "hex": "#f8f6f4",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d7/e8/b3/d7e8b337-a688-ff11-252c-3bf921cf1fc0/mzi.qfqukfyx.jpg/1200x1200bb.jpg",
+      "collection": "Stronger",
+      "collection_id": 464446088,
+      "track_id": 464446141,
+      "artist_name": "Kelly Clarkson",
+      "release_date": "2011-10-21T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.569,
+        "saturation": 0.072,
+        "dark_share": 0.238,
+        "palette": [
+          {
+            "hex": "#181919",
+            "share": 0.277
+          },
+          {
+            "hex": "#65615d",
+            "share": 0.213
+          },
+          {
+            "hex": "#eee9e4",
+            "share": 0.192
+          },
+          {
+            "hex": "#cfcac4",
+            "share": 0.182
+          },
+          {
+            "hex": "#f8f6f4",
+            "share": 0.136
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

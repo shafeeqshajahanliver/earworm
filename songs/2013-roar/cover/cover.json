@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "72a977ef-8907-4109-aaa0-46b7b3313558",
+      "release_title": "Roar",
+      "release_date": "2013-08-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/3c7a0d3b-682f-49d3-955f-04d3c9e9adc2/44694572219-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3c7a0d3b-682f-49d3-955f-04d3c9e9adc2",
+      "image_id": 44694572219,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.487,
+        "saturation": 0.385,
+        "dark_share": 0.144,
+        "palette": [
+          {
+            "hex": "#8b6b79",
+            "share": 0.338
+          },
+          {
+            "hex": "#1b1c3b",
+            "share": 0.231
+          },
+          {
+            "hex": "#b89890",
+            "share": 0.165
+          },
+          {
+            "hex": "#332a57",
+            "share": 0.161
+          },
+          {
+            "hex": "#734266",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0d8b973c-fcff-4830-b645-a877b8a9a08f",
+      "release_title": "PRISM",
+      "release_date": "2013-10-21",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Prism",
+      "url": "https://coverartarchive.org/release/4e1ea22d-be8f-4cbc-9099-dd75919ebd32/11418683802-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4e1ea22d-be8f-4cbc-9099-dd75919ebd32",
+      "image_id": 11418683802,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.898,
+        "saturation": 0.203,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#e0cdb3",
+            "share": 0.305
+          },
+          {
+            "hex": "#cd9878",
+            "share": 0.201
+          },
+          {
+            "hex": "#eadccc",
+            "share": 0.195
+          },
+          {
+            "hex": "#f9f6f3",
+            "share": 0.178
+          },
+          {
+            "hex": "#f8ecdb",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/1200x1200bb.jpg",
+      "collection": "PRISM (Deluxe Version)",
+      "collection_id": 1440818542,
+      "track_id": 1440818897,
+      "artist_name": "Katy Perry",
+      "release_date": "2013-08-10T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.893,
+        "saturation": 0.176,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#dcd0bc",
+            "share": 0.296
+          },
+          {
+            "hex": "#ebe0cc",
+            "share": 0.213
+          },
+          {
+            "hex": "#cf9d7e",
+            "share": 0.203
+          },
+          {
+            "hex": "#faf7f1",
+            "share": 0.151
+          },
+          {
+            "hex": "#e8e5ec",
+            "share": 0.137
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

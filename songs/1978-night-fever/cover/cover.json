@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c8cf8fa2-ebaf-4b24-a12a-2dee7c1e9de9",
+      "release_title": "Night Fever",
+      "release_date": "1977",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9228448e-79ba-467b-9b54-fbc3a98f4a1d/11222289646-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/9228448e-79ba-467b-9b54-fbc3a98f4a1d",
+      "image_id": "11222289646",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        400,
+        403
+      ],
+      "measures": {
+        "brightness": 0.354,
+        "saturation": 0.177,
+        "dark_share": 0.524,
+        "palette": [
+          {
+            "hex": "#b8c0b6",
+            "share": 0.245
+          },
+          {
+            "hex": "#2c242c",
+            "share": 0.243
+          },
+          {
+            "hex": "#262227",
+            "share": 0.185
+          },
+          {
+            "hex": "#211c22",
+            "share": 0.169
+          },
+          {
+            "hex": "#474447",
+            "share": 0.158
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "64a5e2a3-d8d8-31a7-83ec-a2c841f3da70",
+      "release_title": "Saturday Night Fever",
+      "release_date": "1993",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Saturday Night Fever",
+      "url": "http://coverartarchive.org/release/93a041c1-ec1b-437b-a69e-6e21db86b3a7/37262194341-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/93a041c1-ec1b-437b-a69e-6e21db86b3a7",
+      "image_id": 37262194341,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.553,
+        "saturation": 0.638,
+        "dark_share": 0.264,
+        "palette": [
+          {
+            "hex": "#12120a",
+            "share": 0.307
+          },
+          {
+            "hex": "#e9c04b",
+            "share": 0.206
+          },
+          {
+            "hex": "#6d341f",
+            "share": 0.203
+          },
+          {
+            "hex": "#bd8b3f",
+            "share": 0.16
+          },
+          {
+            "hex": "#f0d055",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/74/c1/73/74c17380-b75d-4d74-31d8-99f8e8b20c36/17UM1IM27905.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Saturday Night Fever (The Original Movie Soundtrack)",
+      "collection_id": 1445668458,
+      "track_id": 1445668465,
+      "artist_name": "Bee Gees",
+      "release_date": "1977-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.316,
+        "saturation": 0.366,
+        "dark_share": 0.597,
+        "palette": [
+          {
+            "hex": "#0c1214",
+            "share": 0.448
+          },
+          {
+            "hex": "#717b70",
+            "share": 0.166
+          },
+          {
+            "hex": "#dbd8c4",
+            "share": 0.143
+          },
+          {
+            "hex": "#281e1f",
+            "share": 0.128
+          },
+          {
+            "hex": "#151315",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

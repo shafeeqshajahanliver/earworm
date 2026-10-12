@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+      "release_title": "Some Nights",
+      "release_date": "2012-02-14",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Some Nights",
+      "url": "https://coverartarchive.org/release/b6d2d43a-c1df-4f2a-80aa-0b8b638e5847/2702022907-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b6d2d43a-c1df-4f2a-80aa-0b8b638e5847",
+      "image_id": 2702022907,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.496,
+        "saturation": 0.29,
+        "dark_share": 0.273,
+        "palette": [
+          {
+            "hex": "#2c1b23",
+            "share": 0.325
+          },
+          {
+            "hex": "#edeae1",
+            "share": 0.266
+          },
+          {
+            "hex": "#402430",
+            "share": 0.237
+          },
+          {
+            "hex": "#947372",
+            "share": 0.134
+          },
+          {
+            "hex": "#f1efe5",
+            "share": 0.037
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/b2/df/a3/b2dfa32c-ea54-7983-0da1-6964e60a1bd7/dj.aqphuayl.jpg/1200x1200bb.jpg",
+      "collection": "Some Nights",
+      "collection_id": 486040153,
+      "track_id": 486040195,
+      "artist_name": "Fun.",
+      "release_date": "2011-09-20T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.555,
+        "saturation": 0.178,
+        "dark_share": 0.104,
+        "palette": [
+          {
+            "hex": "#eeeee6",
+            "share": 0.356
+          },
+          {
+            "hex": "#32272b",
+            "share": 0.335
+          },
+          {
+            "hex": "#4c333a",
+            "share": 0.185
+          },
+          {
+            "hex": "#a8918c",
+            "share": 0.09
+          },
+          {
+            "hex": "#f2f2ea",
+            "share": 0.034
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9af98551-17ee-4882-90da-981bb9bede7c",
+      "release_title": "rockstar",
+      "release_date": "2017-09-15",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/067a0f7a-f63b-41ec-947d-7f07721119cb/18884561703-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/067a0f7a-f63b-41ec-947d-7f07721119cb",
+      "image_id": 18884561703,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        939,
+        939
+      ],
+      "measures": {
+        "brightness": 0.348,
+        "saturation": 0.301,
+        "dark_share": 0.437,
+        "palette": [
+          {
+            "hex": "#b19d4f",
+            "share": 0.291
+          },
+          {
+            "hex": "#1f201f",
+            "share": 0.21
+          },
+          {
+            "hex": "#2e2e2b",
+            "share": 0.207
+          },
+          {
+            "hex": "#242625",
+            "share": 0.162
+          },
+          {
+            "hex": "#605738",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a6045fe5-c283-4778-995c-04d953fe73e1",
+      "release_title": "beerbongs & bentleys",
+      "release_date": "2018-04-27",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Beerbongs & Bentleys",
+      "url": "http://coverartarchive.org/release/32ebdd0a-0c4a-4968-8c46-63ed02d3170d/33659052560-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/32ebdd0a-0c4a-4968-8c46-63ed02d3170d",
+      "image_id": 33659052560,
+      "types": [
+        "Front",
+        "Track"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.707,
+        "saturation": 0.556,
+        "dark_share": 0.088,
+        "palette": [
+          {
+            "hex": "#cfc614",
+            "share": 0.317
+          },
+          {
+            "hex": "#c0b512",
+            "share": 0.244
+          },
+          {
+            "hex": "#eeedef",
+            "share": 0.215
+          },
+          {
+            "hex": "#56532e",
+            "share": 0.193
+          },
+          {
+            "hex": "#e1deb9",
+            "share": 0.032
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/1200x1200bb.jpg",
+      "collection": "beerbongs & bentleys",
+      "collection_id": 1373504837,
+      "track_id": 1373506170,
+      "artist_name": "Post Malone",
+      "release_date": "2017-09-15T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.707,
+        "saturation": 0.545,
+        "dark_share": 0.09,
+        "palette": [
+          {
+            "hex": "#cfc618",
+            "share": 0.33
+          },
+          {
+            "hex": "#c0b517",
+            "share": 0.233
+          },
+          {
+            "hex": "#eeedef",
+            "share": 0.215
+          },
+          {
+            "hex": "#55522f",
+            "share": 0.192
+          },
+          {
+            "hex": "#e2deba",
+            "share": 0.03
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

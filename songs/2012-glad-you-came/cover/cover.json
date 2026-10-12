@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "ca78eb58-e3f6-4a8b-9350-3f1af5393d16",
+      "release_title": "Battleground",
+      "release_date": "2011-11-04",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Battleground",
+      "url": "https://coverartarchive.org/release/8d60ae1f-277d-4883-a3b6-b114241e1e25/26095558269-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8d60ae1f-277d-4883-a3b6-b114241e1e25",
+      "image_id": 26095558269,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.589,
+        "saturation": 0.434,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#5a476e",
+            "share": 0.227
+          },
+          {
+            "hex": "#896a6d",
+            "share": 0.218
+          },
+          {
+            "hex": "#2f2c69",
+            "share": 0.212
+          },
+          {
+            "hex": "#d1b79f",
+            "share": 0.194
+          },
+          {
+            "hex": "#9f3921",
+            "share": 0.149
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/b7/5c/f1b75ce8-3b6a-e8b6-f50a-48824be12cc3/11UMGIM34044.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Battleground (Deluxe Edition)",
+      "collection_id": 1443222679,
+      "track_id": 1443222682,
+      "artist_name": "The Wanted",
+      "release_date": "2011-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.623,
+        "saturation": 0.478,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#2c286b",
+            "share": 0.332
+          },
+          {
+            "hex": "#926a6d",
+            "share": 0.252
+          },
+          {
+            "hex": "#bc947c",
+            "share": 0.155
+          },
+          {
+            "hex": "#8d3c43",
+            "share": 0.139
+          },
+          {
+            "hex": "#f5dabf",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

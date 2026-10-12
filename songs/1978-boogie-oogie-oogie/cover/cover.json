@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "8d022e37-e78b-4c3a-beb8-3650710044c0",
+      "release_title": "Boogie Oogie Oogie / Disco Dancin’",
+      "release_date": "1978",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/1f765328-97b7-4af5-b96d-e9b7c5a15ca4/15799128345-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/1f765328-97b7-4af5-b96d-e9b7c5a15ca4",
+      "image_id": 15799128345,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        498,
+        500
+      ],
+      "measures": {
+        "brightness": 0.628,
+        "saturation": 0.467,
+        "dark_share": 0.198,
+        "palette": [
+          {
+            "hex": "#ccaf88",
+            "share": 0.257
+          },
+          {
+            "hex": "#22091e",
+            "share": 0.251
+          },
+          {
+            "hex": "#a25f5b",
+            "share": 0.206
+          },
+          {
+            "hex": "#d6c898",
+            "share": 0.155
+          },
+          {
+            "hex": "#e0dbac",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2fb1433a-dbe3-39c2-aed2-bc3ba0e7d8e4",
+      "release_title": "A Taste of Honey",
+      "release_date": "1978-05-15",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: A Taste of Honey",
+      "url": "http://coverartarchive.org/release/01536712-fd1c-46f1-b37d-531075765449/5803685674-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/01536712-fd1c-46f1-b37d-531075765449",
+      "image_id": "5803685674",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.593,
+        "saturation": 0.348,
+        "dark_share": 0.274,
+        "palette": [
+          {
+            "hex": "#0f0812",
+            "share": 0.31
+          },
+          {
+            "hex": "#e9d3bb",
+            "share": 0.231
+          },
+          {
+            "hex": "#ddc3a7",
+            "share": 0.213
+          },
+          {
+            "hex": "#eed7c1",
+            "share": 0.135
+          },
+          {
+            "hex": "#7d6659",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/15/20/7d152000-7ffc-ec70-8991-076c324bb426/00094636994758.jpg/1200x1200bb.jpg",
+      "collection": "A Taste of Honey",
+      "collection_id": 716553965,
+      "track_id": 716554423,
+      "artist_name": "A Taste of Honey",
+      "release_date": "1978-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.592,
+        "saturation": 0.27,
+        "dark_share": 0.28,
+        "palette": [
+          {
+            "hex": "#120d14",
+            "share": 0.315
+          },
+          {
+            "hex": "#e9d3bc",
+            "share": 0.233
+          },
+          {
+            "hex": "#ddc2a7",
+            "share": 0.216
+          },
+          {
+            "hex": "#eed7c1",
+            "share": 0.128
+          },
+          {
+            "hex": "#7a6357",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

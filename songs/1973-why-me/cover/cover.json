@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "935de87e-6a8a-3cbb-8cd0-c304c81002ec",
+      "release_title": "Jesus Was a Capricorn",
+      "release_date": "1972-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Jesus Was a Capricorn",
+      "url": "http://coverartarchive.org/release/1d7b5b99-81f3-4ef0-8d21-17aa7fb1743a/17097415613-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1d7b5b99-81f3-4ef0-8d21-17aa7fb1743a",
+      "image_id": 17097415613,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.486,
+        "saturation": 0.262,
+        "dark_share": 0.228,
+        "palette": [
+          {
+            "hex": "#1c2026",
+            "share": 0.248
+          },
+          {
+            "hex": "#c0c9d4",
+            "share": 0.245
+          },
+          {
+            "hex": "#6d7a8b",
+            "share": 0.212
+          },
+          {
+            "hex": "#393a48",
+            "share": 0.155
+          },
+          {
+            "hex": "#644645",
+            "share": 0.14
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/d8/3c/05/d83c0518-8b36-9265-fbba-75bc0282e3be/886445834611.jpg/1200x1200bb.jpg",
+      "collection": "Jesus Was a Capricorn",
+      "collection_id": 1118231505,
+      "track_id": 1118231743,
+      "artist_name": "Kris Kristofferson",
+      "release_date": "1972-11-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.316,
+        "saturation": 0.415,
+        "dark_share": 0.484,
+        "palette": [
+          {
+            "hex": "#4f3335",
+            "share": 0.237
+          },
+          {
+            "hex": "#b09995",
+            "share": 0.216
+          },
+          {
+            "hex": "#13080d",
+            "share": 0.213
+          },
+          {
+            "hex": "#2b1920",
+            "share": 0.179
+          },
+          {
+            "hex": "#1f0f17",
+            "share": 0.154
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

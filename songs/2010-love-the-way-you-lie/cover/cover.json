@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "43f85210-e770-44bb-9aba-cd3804e6a569",
+      "release_title": "Love the Way You Lie",
+      "release_date": "2010-08-09",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/c871fc9b-aeec-4e2f-b3ea-72657fd0799c/25652325750-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c871fc9b-aeec-4e2f-b3ea-72657fd0799c",
+      "image_id": 25652325750,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        597,
+        524
+      ],
+      "measures": {
+        "brightness": 0.461,
+        "saturation": 0.159,
+        "dark_share": 0.139,
+        "palette": [
+          {
+            "hex": "#55473d",
+            "share": 0.28
+          },
+          {
+            "hex": "#2e2b24",
+            "share": 0.247
+          },
+          {
+            "hex": "#7a736a",
+            "share": 0.209
+          },
+          {
+            "hex": "#bcb6b4",
+            "share": 0.136
+          },
+          {
+            "hex": "#ecebec",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a5056c3b-730f-493b-b10e-52f678d72b85",
+      "release_title": "Recovery",
+      "release_date": "2010",
+      "release_country": "CO",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Recovery",
+      "url": "https://coverartarchive.org/release/36ce239e-5aa0-43fa-9b94-ed4e320c567f/45424265465-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/36ce239e-5aa0-43fa-9b94-ed4e320c567f",
+      "image_id": 45424265465,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        599,
+        599
+      ],
+      "measures": {
+        "brightness": 0.574,
+        "saturation": 0.111,
+        "dark_share": 0.078,
+        "palette": [
+          {
+            "hex": "#adb1be",
+            "share": 0.301
+          },
+          {
+            "hex": "#5d5a54",
+            "share": 0.243
+          },
+          {
+            "hex": "#caced9",
+            "share": 0.223
+          },
+          {
+            "hex": "#3b3737",
+            "share": 0.159
+          },
+          {
+            "hex": "#7f7f7b",
+            "share": 0.073
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/95/a4/2c/95a42c0d-f3c8-c70d-3e3a-93cfa4a516d4/00602527394558.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Recovery",
+      "collection_id": 1440781199,
+      "track_id": 1440782199,
+      "artist_name": "Eminem",
+      "release_date": "2010-06-21T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.607,
+        "saturation": 0.137,
+        "dark_share": 0.072,
+        "palette": [
+          {
+            "hex": "#3a383d",
+            "share": 0.247
+          },
+          {
+            "hex": "#acbbcc",
+            "share": 0.244
+          },
+          {
+            "hex": "#6f7274",
+            "share": 0.217
+          },
+          {
+            "hex": "#bfccdb",
+            "share": 0.181
+          },
+          {
+            "hex": "#d8e0e9",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

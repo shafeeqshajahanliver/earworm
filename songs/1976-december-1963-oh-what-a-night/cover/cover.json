@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "6a20e8cd-87ec-38a5-86a5-a76a41305cdf",
+      "release_title": "Who Loves You",
+      "release_date": "1975-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Who Loves You",
+      "url": "http://coverartarchive.org/release/98cab0fc-d581-46bb-b241-dc496ed30451/15552573339-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/98cab0fc-d581-46bb-b241-dc496ed30451",
+      "image_id": 15552573339,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.299,
+        "saturation": 0.143,
+        "dark_share": 0.142,
+        "palette": [
+          {
+            "hex": "#4a4444",
+            "share": 0.257
+          },
+          {
+            "hex": "#755f5b",
+            "share": 0.208
+          },
+          {
+            "hex": "#2d2b2e",
+            "share": 0.188
+          },
+          {
+            "hex": "#36353a",
+            "share": 0.175
+          },
+          {
+            "hex": "#3e393c",
+            "share": 0.173
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/a7/b9/d1a7b951-fc48-8245-ce1d-88bf8fd745cb/603497902989.jpg/1200x1200bb.jpg",
+      "collection": "Who Loves You",
+      "collection_id": 870330918,
+      "track_id": 870331003,
+      "artist_name": "The Four Seasons",
+      "release_date": "1975-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.416,
+        "saturation": 0.438,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#324769",
+            "share": 0.242
+          },
+          {
+            "hex": "#27324c",
+            "share": 0.218
+          },
+          {
+            "hex": "#8a7d8b",
+            "share": 0.202
+          },
+          {
+            "hex": "#2d3a57",
+            "share": 0.193
+          },
+          {
+            "hex": "#23395a",
+            "share": 0.145
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

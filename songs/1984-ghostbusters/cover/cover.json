@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "21c78ab8-a692-396f-bc1a-1befad7cd825",
+      "release_title": "Ghostbusters",
+      "release_date": "1984",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9bf5ffaa-7b2a-4c8f-96b3-3cd6fdcd8dc6/33112062771-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9bf5ffaa-7b2a-4c8f-96b3-3cd6fdcd8dc6",
+      "image_id": 33112062771,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.46,
+        "saturation": 0.556,
+        "dark_share": 0.512,
+        "palette": [
+          {
+            "hex": "#020c0a",
+            "share": 0.362
+          },
+          {
+            "hex": "#e8e6e5",
+            "share": 0.228
+          },
+          {
+            "hex": "#ed0f28",
+            "share": 0.19
+          },
+          {
+            "hex": "#241616",
+            "share": 0.123
+          },
+          {
+            "hex": "#342727",
+            "share": 0.097
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "55cb1a6d-51db-383b-8e01-6fc50b2d25ca",
+      "release_title": "Ghostbusters: Original Soundtrack Album",
+      "release_date": "1984",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Ghostbusters: Original Soundtrack Album",
+      "url": "https://coverartarchive.org/release/f0b70866-9a94-41d3-a72c-afefeca87360/43317899342-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f0b70866-9a94-41d3-a72c-afefeca87360",
+      "image_id": 43317899342,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.326,
+        "saturation": 0.189,
+        "dark_share": 0.592,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.533
+          },
+          {
+            "hex": "#891319",
+            "share": 0.203
+          },
+          {
+            "hex": "#e1dddc",
+            "share": 0.2
+          },
+          {
+            "hex": "#020001",
+            "share": 0.05
+          },
+          {
+            "hex": "#000002",
+            "share": 0.014
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/1200x1200bb.jpg",
+      "collection": "Ghostbusters (Original Motion Picture Soundtrack)",
+      "collection_id": 1484413132,
+      "track_id": 1484413134,
+      "artist_name": "Ray Parker Jr.",
+      "release_date": "1984-06-08T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.363,
+        "saturation": 0.679,
+        "dark_share": 0.618,
+        "palette": [
+          {
+            "hex": "#0d0502",
+            "share": 0.561
+          },
+          {
+            "hex": "#cf838a",
+            "share": 0.204
+          },
+          {
+            "hex": "#a8051f",
+            "share": 0.163
+          },
+          {
+            "hex": "#0a0501",
+            "share": 0.041
+          },
+          {
+            "hex": "#240206",
+            "share": 0.031
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

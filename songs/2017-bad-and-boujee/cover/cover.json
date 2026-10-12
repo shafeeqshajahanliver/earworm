@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "691ae8e3-fbcf-4c87-924a-5a5c7df4b45b",
+      "release_title": "Bad and Boujee",
+      "release_date": "2016-10-28",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/42344c51-680a-49d4-b9b1-32882d428813/37720185641-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/42344c51-680a-49d4-b9b1-32882d428813",
+      "image_id": 37720185641,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.307,
+        "saturation": 0.211,
+        "dark_share": 0.543,
+        "palette": [
+          {
+            "hex": "#252525",
+            "share": 0.336
+          },
+          {
+            "hex": "#3f2c30",
+            "share": 0.246
+          },
+          {
+            "hex": "#a4664c",
+            "share": 0.22
+          },
+          {
+            "hex": "#242424",
+            "share": 0.145
+          },
+          {
+            "hex": "#242525",
+            "share": 0.053
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "5611e7a8-3b0d-48a1-820e-45b94229f653",
+      "release_title": "Culture",
+      "release_date": "2017-01-26",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Culture",
+      "url": "http://coverartarchive.org/release/e1045095-f738-4a38-933c-30f19a466516/15972358865-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/e1045095-f738-4a38-933c-30f19a466516",
+      "image_id": 15972358865,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.181,
+        "saturation": 0.165,
+        "dark_share": 0.709,
+        "palette": [
+          {
+            "hex": "#040303",
+            "share": 0.465
+          },
+          {
+            "hex": "#020202",
+            "share": 0.154
+          },
+          {
+            "hex": "#633829",
+            "share": 0.142
+          },
+          {
+            "hex": "#ab9e7d",
+            "share": 0.138
+          },
+          {
+            "hex": "#110a0a",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/3d/60/b93d604d-e3e4-813b-1feb-8be6d6d0af89/22UMGIM27531.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Culture",
+      "collection_id": 1615488284,
+      "track_id": 1615488589,
+      "artist_name": "Migos",
+      "release_date": "2016-10-28T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.197,
+        "saturation": 0.152,
+        "dark_share": 0.715,
+        "palette": [
+          {
+            "hex": "#0c0c0c",
+            "share": 0.557
+          },
+          {
+            "hex": "#8e7256",
+            "share": 0.205
+          },
+          {
+            "hex": "#1f1212",
+            "share": 0.151
+          },
+          {
+            "hex": "#0a0b0b",
+            "share": 0.083
+          },
+          {
+            "hex": "#0b0c0c",
+            "share": 0.004
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

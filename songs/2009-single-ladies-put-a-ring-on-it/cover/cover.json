@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "86ac9e29-f94d-31f4-921e-fad9c8693a53",
+      "release_title": "If I Were a Boy",
+      "release_date": "2008-10-08",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9be700d4-4243-3f28-a588-2896ebf35a53/35707878449-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9be700d4-4243-3f28-a588-2896ebf35a53",
+      "image_id": 35707878449,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1044
+      ],
+      "measures": {
+        "brightness": 0.625,
+        "saturation": 0.05,
+        "dark_share": 0.097,
+        "palette": [
+          {
+            "hex": "#9d9996",
+            "share": 0.315
+          },
+          {
+            "hex": "#b8b4b1",
+            "share": 0.236
+          },
+          {
+            "hex": "#4a4644",
+            "share": 0.173
+          },
+          {
+            "hex": "#d3cfcc",
+            "share": 0.142
+          },
+          {
+            "hex": "#e5e3e1",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "6f8e8119-de1b-39f0-85ca-b5252cb9211d",
+      "release_title": "I Am… Sasha Fierce",
+      "release_date": "2008-11-12",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: I Am... Sasha Fierce",
+      "url": "http://coverartarchive.org/release/c55502f4-8c53-4e80-92e7-38cbae32f6c2/35907722669-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c55502f4-8c53-4e80-92e7-38cbae32f6c2",
+      "image_id": 35907722669,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.658,
+        "saturation": 0.059,
+        "dark_share": 0.052,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.334
+          },
+          {
+            "hex": "#827b78",
+            "share": 0.302
+          },
+          {
+            "hex": "#484041",
+            "share": 0.219
+          },
+          {
+            "hex": "#bfbbb8",
+            "share": 0.114
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.031
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/52/f9/76/52f976b0-016e-a3bf-1897-f69fb5d002d7/mzi.csyboqno.jpg/1200x1200bb.jpg",
+      "collection": "I AM...SASHA FIERCE (Deluxe Version)",
+      "collection_id": 295783816,
+      "track_id": 295784137,
+      "artist_name": "Beyoncé",
+      "release_date": "2008-10-08T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.731,
+        "saturation": 0.021,
+        "dark_share": 0.042,
+        "palette": [
+          {
+            "hex": "#bcbbb9",
+            "share": 0.315
+          },
+          {
+            "hex": "#d5d4d2",
+            "share": 0.212
+          },
+          {
+            "hex": "#6d6b6a",
+            "share": 0.168
+          },
+          {
+            "hex": "#e6e5e3",
+            "share": 0.163
+          },
+          {
+            "hex": "#eceae8",
+            "share": 0.142
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

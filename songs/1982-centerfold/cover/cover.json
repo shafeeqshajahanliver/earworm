@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6a8e9458-0364-4cee-a273-99ff0f9a0128",
+      "release_title": "Centerfold",
+      "release_date": "1981",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/f0fa75c1-15e0-4e58-9570-e85bf26de9eb/21069577174-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f0fa75c1-15e0-4e58-9570-e85bf26de9eb",
+      "image_id": 21069577174,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        599
+      ],
+      "measures": {
+        "brightness": 0.546,
+        "saturation": 0.18,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#483e3a",
+            "share": 0.275
+          },
+          {
+            "hex": "#785351",
+            "share": 0.261
+          },
+          {
+            "hex": "#938a83",
+            "share": 0.168
+          },
+          {
+            "hex": "#cbc2af",
+            "share": 0.164
+          },
+          {
+            "hex": "#e2d7c0",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "70a3b013-4dd3-3868-9380-30ebd3cf958a",
+      "release_title": "Freeze‐Frame",
+      "release_date": "1981",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Freeze Frame",
+      "url": "http://coverartarchive.org/release/f9feeadd-8093-4cea-ad22-36e351cb1c59/13475064972-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f9feeadd-8093-4cea-ad22-36e351cb1c59",
+      "image_id": 13475064972,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.575,
+        "saturation": 0.371,
+        "dark_share": 0.129,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.311
+          },
+          {
+            "hex": "#1b1a36",
+            "share": 0.251
+          },
+          {
+            "hex": "#524949",
+            "share": 0.19
+          },
+          {
+            "hex": "#a7a38f",
+            "share": 0.128
+          },
+          {
+            "hex": "#50202f",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4d/d2/5a/4dd25afd-4260-d593-e8c6-d1d9c2ea5112/14UMGIM11053.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Freeze Frame",
+      "collection_id": 1452302453,
+      "track_id": 1452302709,
+      "artist_name": "The J. Geils Band",
+      "release_date": "1981-09-13T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.538,
+        "saturation": 0.213,
+        "dark_share": 0.266,
+        "palette": [
+          {
+            "hex": "#0e0f10",
+            "share": 0.271
+          },
+          {
+            "hex": "#595245",
+            "share": 0.238
+          },
+          {
+            "hex": "#b1b086",
+            "share": 0.204
+          },
+          {
+            "hex": "#fefefb",
+            "share": 0.202
+          },
+          {
+            "hex": "#f9faf6",
+            "share": 0.086
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

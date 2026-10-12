@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "f312446e-bb18-43a3-8af0-2cdbc2f98e19",
+      "release_title": "Hot Stuff",
+      "release_date": "1979",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/53f1ce6e-ed06-4fb7-bd66-c4cd4c18992b/20646419598-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/53f1ce6e-ed06-4fb7-bd66-c4cd4c18992b",
+      "image_id": 20646419598,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        787,
+        799
+      ],
+      "measures": {
+        "brightness": 0.773,
+        "saturation": 0.494,
+        "dark_share": 0.024,
+        "palette": [
+          {
+            "hex": "#d0193e",
+            "share": 0.316
+          },
+          {
+            "hex": "#e6ccad",
+            "share": 0.295
+          },
+          {
+            "hex": "#ac9595",
+            "share": 0.246
+          },
+          {
+            "hex": "#654753",
+            "share": 0.08
+          },
+          {
+            "hex": "#d1354b",
+            "share": 0.063
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f7568cc7-4c09-3a47-abbc-593e7aaac7d6",
+      "release_title": "Bad Girls",
+      "release_date": "1979-04-25",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Bad Girls",
+      "url": "http://coverartarchive.org/release/ccc73b94-e531-4807-b9e0-885dbb82c621/19879143495-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ccc73b94-e531-4807-b9e0-885dbb82c621",
+      "image_id": 19879143495,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1185
+      ],
+      "measures": {
+        "brightness": 0.559,
+        "saturation": 0.556,
+        "dark_share": 0.189,
+        "palette": [
+          {
+            "hex": "#3c85b7",
+            "share": 0.27
+          },
+          {
+            "hex": "#152629",
+            "share": 0.233
+          },
+          {
+            "hex": "#b89c84",
+            "share": 0.229
+          },
+          {
+            "hex": "#35648b",
+            "share": 0.179
+          },
+          {
+            "hex": "#82585c",
+            "share": 0.088
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/07/f5/1007f5f4-71b2-6ba1-65e0-52e75b450980/602567826309_Cover.jpg/1200x1200bb.jpg",
+      "collection": "Bad Girls",
+      "collection_id": 6793735689,
+      "track_id": 6793735690,
+      "artist_name": "Donna Summer",
+      "release_date": "1979-04-13T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.529,
+        "saturation": 0.572,
+        "dark_share": 0.177,
+        "palette": [
+          {
+            "hex": "#3c527c",
+            "share": 0.244
+          },
+          {
+            "hex": "#4b638f",
+            "share": 0.24
+          },
+          {
+            "hex": "#102035",
+            "share": 0.222
+          },
+          {
+            "hex": "#a4837d",
+            "share": 0.168
+          },
+          {
+            "hex": "#d8a88d",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

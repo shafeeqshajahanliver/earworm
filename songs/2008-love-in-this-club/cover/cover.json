@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "7f9fe29a-b7db-3218-be0e-a8abbf1b2683",
+      "release_title": "Here I Stand",
+      "release_date": "2008-05-26",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Here I Stand",
+      "url": "http://coverartarchive.org/release/63a26ff0-f522-4982-9d45-28148fdf9b69/29123091532-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/63a26ff0-f522-4982-9d45-28148fdf9b69",
+      "image_id": 29123091532,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.507,
+        "saturation": 0.161,
+        "dark_share": 0.343,
+        "palette": [
+          {
+            "hex": "#040000",
+            "share": 0.295
+          },
+          {
+            "hex": "#e7eced",
+            "share": 0.278
+          },
+          {
+            "hex": "#bdbfb1",
+            "share": 0.229
+          },
+          {
+            "hex": "#746151",
+            "share": 0.11
+          },
+          {
+            "hex": "#290d08",
+            "share": 0.087
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/1200x1200bb.jpg",
+      "collection": "Here I Stand",
+      "collection_id": 281698028,
+      "track_id": 281698335,
+      "artist_name": "USHER",
+      "release_date": "2008-02-22T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.569,
+        "saturation": 0.123,
+        "dark_share": 0.319,
+        "palette": [
+          {
+            "hex": "#111115",
+            "share": 0.327
+          },
+          {
+            "hex": "#cfc9c3",
+            "share": 0.247
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.164
+          },
+          {
+            "hex": "#644c48",
+            "share": 0.143
+          },
+          {
+            "hex": "#f6f4f0",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "221ff5cc-d3fa-361f-8fa9-667b31a7ef56",
+      "release_title": "Let It Be",
+      "release_date": "1970-03",
+      "release_country": "NZ",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/5dd15484-b41a-4749-a901-8027c3283169/1440143581-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/5dd15484-b41a-4749-a901-8027c3283169",
+      "image_id": "1440143581",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        290
+      ],
+      "measures": {
+        "brightness": 0.181,
+        "saturation": 0.241,
+        "dark_share": 0.739,
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.552
+          },
+          {
+            "hex": "#6f6751",
+            "share": 0.242
+          },
+          {
+            "hex": "#030104",
+            "share": 0.172
+          },
+          {
+            "hex": "#010002",
+            "share": 0.021
+          },
+          {
+            "hex": "#000102",
+            "share": 0.013
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "bff544a7-56e0-3ed6-9e0f-3b676cca9111",
+      "release_title": "Let It Be",
+      "release_date": "1970-05-08",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Let It Be",
+      "url": "http://coverartarchive.org/release/23f4c1d1-fd0e-3d56-ad43-4672e462e9fb/1229658004-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/23f4c1d1-fd0e-3d56-ad43-4672e462e9fb",
+      "image_id": 1229658004,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.311,
+        "saturation": 0.186,
+        "dark_share": 0.547,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.425
+          },
+          {
+            "hex": "#5a423a",
+            "share": 0.23
+          },
+          {
+            "hex": "#d2beae",
+            "share": 0.218
+          },
+          {
+            "hex": "#0c0f11",
+            "share": 0.107
+          },
+          {
+            "hex": "#000305",
+            "share": 0.02
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/98/4c/ae984c7a-cd06-a7cd-e8bf-32cb15ba698d/00602567705475.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Let It Be",
+      "collection_id": 1441164495,
+      "track_id": 1441164738,
+      "artist_name": "The Beatles",
+      "release_date": "1970-03-06T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.3,
+        "saturation": 0.194,
+        "dark_share": 0.562,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.423
+          },
+          {
+            "hex": "#523c37",
+            "share": 0.231
+          },
+          {
+            "hex": "#d0bbab",
+            "share": 0.217
+          },
+          {
+            "hex": "#07090c",
+            "share": 0.104
+          },
+          {
+            "hex": "#000203",
+            "share": 0.025
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

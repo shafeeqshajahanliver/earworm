@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "0cbcc50a-7009-324a-b321-30316b29f75c",
+      "release_title": "Y.M.C.A.",
+      "release_date": "1978",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b714218a-6224-4ba1-bf8f-56af0c7c597a/7825290110-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b714218a-6224-4ba1-bf8f-56af0c7c597a",
+      "image_id": "7825290110",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        487
+      ],
+      "measures": {
+        "brightness": 0.674,
+        "saturation": 0.351,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#e7caa9",
+            "share": 0.261
+          },
+          {
+            "hex": "#906b56",
+            "share": 0.216
+          },
+          {
+            "hex": "#8c6a55",
+            "share": 0.189
+          },
+          {
+            "hex": "#ad8c75",
+            "share": 0.179
+          },
+          {
+            "hex": "#8a6550",
+            "share": 0.154
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "598ddee4-bd79-4a79-bcd7-b3759b2a91e4",
+      "release_title": "Cruisin’",
+      "release_date": "1978-09-25",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Cruisin'",
+      "url": "https://coverartarchive.org/release/1723ac8e-5065-356d-9051-c6b82db43fb3/7819440608-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1723ac8e-5065-356d-9051-c6b82db43fb3",
+      "image_id": 7819440608,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.506,
+        "saturation": 0.316,
+        "dark_share": 0.152,
+        "palette": [
+          {
+            "hex": "#292e2d",
+            "share": 0.262
+          },
+          {
+            "hex": "#8a806e",
+            "share": 0.256
+          },
+          {
+            "hex": "#9299a0",
+            "share": 0.204
+          },
+          {
+            "hex": "#635545",
+            "share": 0.203
+          },
+          {
+            "hex": "#bcbfbf",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a7/70/df/a770dff5-0b2c-b260-0c10-eea7997d36eb/00731453217126.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Cruisin'",
+      "collection_id": 1443926621,
+      "track_id": 1443926626,
+      "artist_name": "Village People",
+      "release_date": "1978-09-25T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.519,
+        "saturation": 0.338,
+        "dark_share": 0.183,
+        "palette": [
+          {
+            "hex": "#27261f",
+            "share": 0.258
+          },
+          {
+            "hex": "#9398a2",
+            "share": 0.233
+          },
+          {
+            "hex": "#695944",
+            "share": 0.231
+          },
+          {
+            "hex": "#8a847a",
+            "share": 0.208
+          },
+          {
+            "hex": "#cac6c4",
+            "share": 0.07
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

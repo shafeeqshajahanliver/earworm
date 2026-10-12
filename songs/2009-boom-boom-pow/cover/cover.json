@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "39e68c14-7e31-33e7-9caf-e60058732adf",
+      "release_title": "Boom Boom Pow",
+      "release_date": "2009",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/52dc64b6-ac91-426f-a64b-6baab63999f8/37693701832-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/52dc64b6-ac91-426f-a64b-6baab63999f8",
+      "image_id": 37693701832,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        900,
+        900
+      ],
+      "measures": {
+        "brightness": 0.156,
+        "saturation": 0.316,
+        "dark_share": 0.774,
+        "palette": [
+          {
+            "hex": "#060709",
+            "share": 0.719
+          },
+          {
+            "hex": "#565b63",
+            "share": 0.213
+          },
+          {
+            "hex": "#050709",
+            "share": 0.035
+          },
+          {
+            "hex": "#040607",
+            "share": 0.025
+          },
+          {
+            "hex": "#060708",
+            "share": 0.007
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "bb022fc8-55f5-4f4d-82d9-0b504099a3b1",
+      "release_title": "The E•N•D",
+      "release_date": "2009-06-02",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The E.N.D.",
+      "url": "http://coverartarchive.org/release/b0f2f06b-09b5-44ba-9e5d-73a25944d3f1/26274757363-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b0f2f06b-09b5-44ba-9e5d-73a25944d3f1",
+      "image_id": 26274757363,
+      "types": [
+        "Front"
+      ],
+      "comment": "Cover",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.239,
+        "saturation": 0.609,
+        "dark_share": 0.574,
+        "palette": [
+          {
+            "hex": "#31391d",
+            "share": 0.303
+          },
+          {
+            "hex": "#110702",
+            "share": 0.201
+          },
+          {
+            "hex": "#1a1605",
+            "share": 0.176
+          },
+          {
+            "hex": "#20200e",
+            "share": 0.161
+          },
+          {
+            "hex": "#738b5a",
+            "share": 0.159
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

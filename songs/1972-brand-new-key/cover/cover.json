@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5224a1bb-03a4-32e7-9d99-871ca9b4d7f1",
+      "release_title": "Brand New Key",
+      "release_date": "1971",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/5c60af52-503b-4175-9bfc-b45b0498349d/18953018526-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/5c60af52-503b-4175-9bfc-b45b0498349d",
+      "image_id": 18953018526,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.635,
+        "saturation": 0.5,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#6c3e97",
+            "share": 0.287
+          },
+          {
+            "hex": "#724699",
+            "share": 0.272
+          },
+          {
+            "hex": "#673894",
+            "share": 0.211
+          },
+          {
+            "hex": "#d5c4bf",
+            "share": 0.131
+          },
+          {
+            "hex": "#92709f",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "10cb86f3-8821-38a2-9f7a-da6d076da0c3",
+      "release_title": "Gather Me",
+      "release_date": "1971-10",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Gather Me",
+      "url": "http://coverartarchive.org/release/87cda4b3-0408-4dde-a569-79d28bd06cf0/4277887552-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/87cda4b3-0408-4dde-a569-79d28bd06cf0",
+      "image_id": "4277887552",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.412,
+        "saturation": 0.476,
+        "dark_share": 0.266,
+        "palette": [
+          {
+            "hex": "#28261b",
+            "share": 0.286
+          },
+          {
+            "hex": "#403125",
+            "share": 0.267
+          },
+          {
+            "hex": "#74463a",
+            "share": 0.177
+          },
+          {
+            "hex": "#ad6350",
+            "share": 0.141
+          },
+          {
+            "hex": "#de9159",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8e/85/06/8e8506ba-fd84-e6cb-6308-77d15c453e64/886446921181.jpg/1200x1200bb.jpg",
+      "collection": "Gather Me",
+      "collection_id": 1373888275,
+      "track_id": 1373889435,
+      "artist_name": "Melanie",
+      "release_date": "1971-07-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.734,
+        "saturation": 0.437,
+        "dark_share": 0.013,
+        "palette": [
+          {
+            "hex": "#743c29",
+            "share": 0.297
+          },
+          {
+            "hex": "#e0cb93",
+            "share": 0.286
+          },
+          {
+            "hex": "#e4d19b",
+            "share": 0.158
+          },
+          {
+            "hex": "#e3ce98",
+            "share": 0.145
+          },
+          {
+            "hex": "#b48e60",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

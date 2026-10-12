@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6985c51b-7c0c-4339-8001-0cad8114aa58",
+      "release_title": "HUMBLE.",
+      "release_date": "2017-03-30",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/db101ef9-e27e-4fc3-ae02-ffc548f021c9/45070400975-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/db101ef9-e27e-4fc3-ae02-ffc548f021c9",
+      "image_id": 45070400975,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        675
+      ],
+      "measures": {
+        "brightness": 0.122,
+        "saturation": 0.385,
+        "dark_share": 0.827,
+        "palette": [
+          {
+            "hex": "#0d1717",
+            "share": 0.315
+          },
+          {
+            "hex": "#000001",
+            "share": 0.309
+          },
+          {
+            "hex": "#192728",
+            "share": 0.165
+          },
+          {
+            "hex": "#050b0d",
+            "share": 0.109
+          },
+          {
+            "hex": "#606f6b",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b88655ba-7469-48b8-a296-b9011ab73ef3",
+      "release_title": "DAMN.",
+      "release_date": "2017-04-14",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Damn",
+      "url": "https://coverartarchive.org/release/b292c647-e3f6-4991-a919-7bd4df4d99ff/46309689086-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b292c647-e3f6-4991-a919-7bd4df4d99ff",
+      "image_id": 46309689086,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.611,
+        "saturation": 0.316,
+        "dark_share": 0.055,
+        "palette": [
+          {
+            "hex": "#3e2b34",
+            "share": 0.298
+          },
+          {
+            "hex": "#912d37",
+            "share": 0.287
+          },
+          {
+            "hex": "#d7d8e7",
+            "share": 0.241
+          },
+          {
+            "hex": "#e8e7f2",
+            "share": 0.113
+          },
+          {
+            "hex": "#a48d9b",
+            "share": 0.061
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ab/16/ef/ab16efe9-e7f1-66ec-021c-5592a23f0f9e/17UMGIM88793.rgb.jpg/1200x1200bb.jpg",
+      "collection": "DAMN.",
+      "collection_id": 1440881722,
+      "track_id": 1440882165,
+      "artist_name": "Kendrick Lamar",
+      "release_date": "2017-03-30T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.612,
+        "saturation": 0.316,
+        "dark_share": 0.055,
+        "palette": [
+          {
+            "hex": "#e0e0ed",
+            "share": 0.344
+          },
+          {
+            "hex": "#6a3846",
+            "share": 0.319
+          },
+          {
+            "hex": "#3e2a34",
+            "share": 0.198
+          },
+          {
+            "hex": "#b7232b",
+            "share": 0.072
+          },
+          {
+            "hex": "#a58e9c",
+            "share": 0.068
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

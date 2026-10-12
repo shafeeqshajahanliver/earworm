@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "45c6de75-bea5-4dd9-a912-55fb9497c3fc",
+      "release_title": "Invasion of Privacy",
+      "release_date": "2018-04-05",
+      "release_country": "BH",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Invasion of Privacy",
+      "url": "http://coverartarchive.org/release/76086324-51a9-4bf8-bf6f-93c5795839ec/19750463430-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/76086324-51a9-4bf8-bf6f-93c5795839ec",
+      "image_id": 19750463430,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.473,
+        "saturation": 0.528,
+        "dark_share": 0.282,
+        "palette": [
+          {
+            "hex": "#3b7785",
+            "share": 0.31
+          },
+          {
+            "hex": "#020e17",
+            "share": 0.28
+          },
+          {
+            "hex": "#f3f5e1",
+            "share": 0.145
+          },
+          {
+            "hex": "#27353c",
+            "share": 0.144
+          },
+          {
+            "hex": "#aecab8",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/58/e5/ca58e5e3-acb7-8ca3-6af9-ad63af3b71f1/075679873675.jpg/1200x1200bb.jpg",
+      "collection": "Invasion of Privacy",
+      "collection_id": 1368105671,
+      "track_id": 1368105802,
+      "artist_name": "Cardi B, Bad Bunny & J Balvin",
+      "release_date": "2018-04-06T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.473,
+        "saturation": 0.549,
+        "dark_share": 0.284,
+        "palette": [
+          {
+            "hex": "#3a7684",
+            "share": 0.315
+          },
+          {
+            "hex": "#04121b",
+            "share": 0.278
+          },
+          {
+            "hex": "#d0dfcc",
+            "share": 0.239
+          },
+          {
+            "hex": "#3e3935",
+            "share": 0.09
+          },
+          {
+            "hex": "#0f2d3f",
+            "share": 0.078
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

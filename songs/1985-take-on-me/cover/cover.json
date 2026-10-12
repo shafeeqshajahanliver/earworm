@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d8aadff5-81d2-3490-b865-ca77e64ad0c1",
+      "release_title": "Take On Me (long version)",
+      "release_date": "1984",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/42b8af79-6ab2-4ad1-983a-db12d336d041/27848566460-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/42b8af79-6ab2-4ad1-983a-db12d336d041",
+      "image_id": 27848566460,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1182
+      ],
+      "measures": {
+        "brightness": 0.632,
+        "saturation": 0.102,
+        "dark_share": 0.144,
+        "palette": [
+          {
+            "hex": "#c6c6c6",
+            "share": 0.281
+          },
+          {
+            "hex": "#2d2e26",
+            "share": 0.26
+          },
+          {
+            "hex": "#dbd9dc",
+            "share": 0.184
+          },
+          {
+            "hex": "#98979d",
+            "share": 0.148
+          },
+          {
+            "hex": "#f0f0ed",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "af7347df-ef5a-3c41-826d-d884f8916c17",
+      "release_title": "Hunting High and Low",
+      "release_date": "1985",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "https://coverartarchive.org/release/181b9a01-0446-4601-99be-b011ab615631/13015069966-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/181b9a01-0446-4601-99be-b011ab615631",
+      "image_id": 13015069966,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.355,
+        "saturation": 0.145,
+        "dark_share": 0.488,
+        "palette": [
+          {
+            "hex": "#c6bcbb",
+            "share": 0.265
+          },
+          {
+            "hex": "#181e1a",
+            "share": 0.196
+          },
+          {
+            "hex": "#272724",
+            "share": 0.194
+          },
+          {
+            "hex": "#121915",
+            "share": 0.178
+          },
+          {
+            "hex": "#655e5d",
+            "share": 0.166
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/1f/e2/9a1fe295-e10c-0282-3139-7a01310e10d4/mzm.urxeodaj.jpg/1200x1200bb.jpg",
+      "collection": "Hunting High And Low",
+      "collection_id": 1035411368,
+      "track_id": 1035411884,
+      "artist_name": "a-ha",
+      "release_date": "1984-10-19T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.395,
+        "saturation": 0.01,
+        "dark_share": 0.399,
+        "palette": [
+          {
+            "hex": "#cecdcf",
+            "share": 0.278
+          },
+          {
+            "hex": "#111111",
+            "share": 0.245
+          },
+          {
+            "hex": "#3a3a3a",
+            "share": 0.171
+          },
+          {
+            "hex": "#807f81",
+            "share": 0.168
+          },
+          {
+            "hex": "#212121",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c0f05b21-25e0-4a78-8ac1-95b2112f077e",
+      "release_title": "Rhinestone Cowboy / Lovelight",
+      "release_date": "1975-05",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/5f07ed46-ab97-45e8-9a69-d6339ecde2ac/31686709557-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5f07ed46-ab97-45e8-9a69-d6339ecde2ac",
+      "image_id": 31686709557,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        596,
+        600
+      ],
+      "measures": {
+        "brightness": 0.803,
+        "saturation": 0.537,
+        "dark_share": 0.158,
+        "palette": [
+          {
+            "hex": "#f36a46",
+            "share": 0.31
+          },
+          {
+            "hex": "#f5734e",
+            "share": 0.266
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.207
+          },
+          {
+            "hex": "#4c2a1a",
+            "share": 0.177
+          },
+          {
+            "hex": "#e3bfa3",
+            "share": 0.041
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3c1f3919-7e22-483f-8592-4e23314d76a0",
+      "release_title": "Rhinestone Cowboy",
+      "release_date": "2005",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rhinestone Cowboy",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/0f/bd/3a0fbd0c-fa61-8295-68a4-16c44aadeda6/15UMGIM01121.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Rhinestone Cowboy (Expanded Edition)",
+      "collection_id": 1442453148,
+      "track_id": 1442453158,
+      "artist_name": "Glen Campbell",
+      "release_date": "1975-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.732,
+        "saturation": 0.599,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#215c83",
+            "share": 0.306
+          },
+          {
+            "hex": "#c59550",
+            "share": 0.276
+          },
+          {
+            "hex": "#f2b85f",
+            "share": 0.217
+          },
+          {
+            "hex": "#9f6f3d",
+            "share": 0.116
+          },
+          {
+            "hex": "#eed5ac",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

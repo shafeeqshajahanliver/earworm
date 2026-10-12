@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "e0544242-b800-3388-a698-5d5197183b78",
+      "release_title": "Stop and Smell the Roses",
+      "release_date": "1974",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Stop and Smell the Roses",
+      "url": "http://coverartarchive.org/release/b58e604b-99eb-438e-a0e9-52877dc06cd1/13536871131-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/b58e604b-99eb-438e-a0e9-52877dc06cd1",
+      "image_id": "13536871131",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        355,
+        355
+      ],
+      "measures": {
+        "brightness": 0.591,
+        "saturation": 0.44,
+        "dark_share": 0.132,
+        "palette": [
+          {
+            "hex": "#b79258",
+            "share": 0.267
+          },
+          {
+            "hex": "#9f6945",
+            "share": 0.259
+          },
+          {
+            "hex": "#312219",
+            "share": 0.227
+          },
+          {
+            "hex": "#d6d1bf",
+            "share": 0.137
+          },
+          {
+            "hex": "#c1b285",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a0/11/2c/a0112c9f-dd75-2801-7929-315c6602ff1c/mzi.krmlwxsq.jpg/1200x1200bb.jpg",
+      "collection": "Stop and Smell the Roses",
+      "collection_id": 216333543,
+      "track_id": 216333610,
+      "artist_name": "Mac Davis",
+      "release_date": "1974-08-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.687,
+        "saturation": 0.413,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#c9a069",
+            "share": 0.263
+          },
+          {
+            "hex": "#b77f59",
+            "share": 0.26
+          },
+          {
+            "hex": "#624634",
+            "share": 0.229
+          },
+          {
+            "hex": "#dfd4c4",
+            "share": 0.14
+          },
+          {
+            "hex": "#d0ba91",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

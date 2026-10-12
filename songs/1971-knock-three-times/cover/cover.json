@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9a4c0e3d-7f18-3e9d-afb2-74e7eb79db7c",
+      "release_title": "Knock Three Times",
+      "release_date": "1970",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/75123a8d-acb7-4f2d-ac6c-0f457964cfd6/13274107764-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/75123a8d-acb7-4f2d-ac6c-0f457964cfd6",
+      "image_id": "13274107764",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        484,
+        500
+      ],
+      "measures": {
+        "brightness": 0.238,
+        "saturation": 0.135,
+        "dark_share": 0.338,
+        "palette": [
+          {
+            "hex": "#36363a",
+            "share": 0.312
+          },
+          {
+            "hex": "#2c2c31",
+            "share": 0.229
+          },
+          {
+            "hex": "#14151b",
+            "share": 0.212
+          },
+          {
+            "hex": "#48484c",
+            "share": 0.141
+          },
+          {
+            "hex": "#7e7e82",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "05a44f00-1908-3107-805c-ca0bd1c24b25",
+      "release_title": "Candida",
+      "release_date": "1970",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Candida",
+      "url": "http://coverartarchive.org/release/522c378e-1bdd-4ae1-abe5-a92e5bff4f94/21321706264-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/522c378e-1bdd-4ae1-abe5-a92e5bff4f94",
+      "image_id": 21321706264,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        301,
+        300
+      ],
+      "measures": {
+        "brightness": 0.54,
+        "saturation": 0.265,
+        "dark_share": 0.067,
+        "palette": [
+          {
+            "hex": "#a38874",
+            "share": 0.259
+          },
+          {
+            "hex": "#36262d",
+            "share": 0.244
+          },
+          {
+            "hex": "#e2ded6",
+            "share": 0.207
+          },
+          {
+            "hex": "#5b353b",
+            "share": 0.145
+          },
+          {
+            "hex": "#6f4e48",
+            "share": 0.144
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/df/64/f0/df64f0cf-ac80-f7d8-7eab-802a262425c5/dj.ciyaqguw.jpg/1200x1200bb.jpg",
+      "collection": "Candida",
+      "collection_id": 278281860,
+      "track_id": 278281957,
+      "artist_name": "Tony Orlando & Dawn",
+      "release_date": "1970-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        614
+      ],
+      "measures": {
+        "brightness": 0.594,
+        "saturation": 0.286,
+        "dark_share": 0.064,
+        "palette": [
+          {
+            "hex": "#3c212d",
+            "share": 0.274
+          },
+          {
+            "hex": "#755151",
+            "share": 0.228
+          },
+          {
+            "hex": "#baa892",
+            "share": 0.19
+          },
+          {
+            "hex": "#dfd8c0",
+            "share": 0.156
+          },
+          {
+            "hex": "#f9f6e6",
+            "share": 0.152
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

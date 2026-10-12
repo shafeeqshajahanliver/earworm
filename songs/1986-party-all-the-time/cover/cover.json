@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "97c57f3b-1e42-40a4-85da-0a802c757e98",
+      "release_title": "Party All the Time",
+      "release_date": "1985",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/e7de9182-bf65-4c7c-8a32-2029b7f8b287/41922570056-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e7de9182-bf65-4c7c-8a32-2029b7f8b287",
+      "image_id": 41922570056,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1167
+      ],
+      "measures": {
+        "brightness": 0.356,
+        "saturation": 0.287,
+        "dark_share": 0.179,
+        "palette": [
+          {
+            "hex": "#534a3b",
+            "share": 0.252
+          },
+          {
+            "hex": "#615648",
+            "share": 0.238
+          },
+          {
+            "hex": "#202319",
+            "share": 0.212
+          },
+          {
+            "hex": "#6e6052",
+            "share": 0.209
+          },
+          {
+            "hex": "#a48076",
+            "share": 0.089
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "59006f54-8710-30db-ab9b-c94bec3ee985",
+      "release_title": "How Could It Be",
+      "release_date": "1985-02-05",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: How Could It Be",
+      "url": "http://coverartarchive.org/release/f3e6c9bd-656e-41d6-a537-cbb9df83d440/16559963156-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/f3e6c9bd-656e-41d6-a537-cbb9df83d440",
+      "image_id": 16559963156,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        496
+      ],
+      "measures": {
+        "brightness": 0.617,
+        "saturation": 0.176,
+        "dark_share": 0.023,
+        "palette": [
+          {
+            "hex": "#3e3335",
+            "share": 0.306
+          },
+          {
+            "hex": "#6c5250",
+            "share": 0.205
+          },
+          {
+            "hex": "#f4f2f4",
+            "share": 0.198
+          },
+          {
+            "hex": "#d7b4a0",
+            "share": 0.184
+          },
+          {
+            "hex": "#f0ecea",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/85/0b/9e850bbd-f46b-0c6a-6a34-afeda1aaee38/mzi.yhwriajn.jpg/1200x1200bb.jpg",
+      "collection": "How Could It Be",
+      "collection_id": 349975929,
+      "track_id": 349975966,
+      "artist_name": "Eddie Murphy",
+      "release_date": "1985-05-23T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        618,
+        600
+      ],
+      "measures": {
+        "brightness": 0.524,
+        "saturation": 0.208,
+        "dark_share": 0.295,
+        "palette": [
+          {
+            "hex": "#f0eeec",
+            "share": 0.26
+          },
+          {
+            "hex": "#1e1a1c",
+            "share": 0.25
+          },
+          {
+            "hex": "#be9a84",
+            "share": 0.208
+          },
+          {
+            "hex": "#5b3d38",
+            "share": 0.15
+          },
+          {
+            "hex": "#342526",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

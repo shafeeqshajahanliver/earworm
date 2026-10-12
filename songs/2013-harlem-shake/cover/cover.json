@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c2726cd5-1fde-4067-911a-ea173a6c7369",
+      "release_title": "Harlem Shake",
+      "release_date": "2012-05-17",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/43371ffd-7c6c-4c13-ad28-e11e3564b6f6/3413532406-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/43371ffd-7c6c-4c13-ad28-e11e3564b6f6",
+      "image_id": "3413532406",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.086,
+        "saturation": 0.089,
+        "dark_share": 0.844,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.74
+          },
+          {
+            "hex": "#999577",
+            "share": 0.112
+          },
+          {
+            "hex": "#201f18",
+            "share": 0.067
+          },
+          {
+            "hex": "#010001",
+            "share": 0.058
+          },
+          {
+            "hex": "#000002",
+            "share": 0.024
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/fc/36/e1fc3610-7985-814a-8faa-80ec14412c94/340.jpg/1200x1200bb.jpg",
+      "collection": "Harlem Shake - Single",
+      "collection_id": 601136812,
+      "track_id": 601136935,
+      "artist_name": "Baauer",
+      "release_date": "2012-05-22T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.082,
+        "saturation": 0.056,
+        "dark_share": 0.849,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.799
+          },
+          {
+            "hex": "#322f22",
+            "share": 0.085
+          },
+          {
+            "hex": "#a09a78",
+            "share": 0.083
+          },
+          {
+            "hex": "#010001",
+            "share": 0.03
+          },
+          {
+            "hex": "#000001",
+            "share": 0.003
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

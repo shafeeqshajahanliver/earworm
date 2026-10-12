@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "023b2825-d10c-43df-98a6-9d5a808e67ae",
+      "release_title": "Shut Up + Dance",
+      "release_date": "2014-11-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/db023f9e-4ae0-4e14-8857-8d44086ceee5/9995879738-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/db023f9e-4ae0-4e14-8857-8d44086ceee5",
+      "image_id": 9995879738,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.345,
+        "saturation": 0.205,
+        "dark_share": 0.525,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.345
+          },
+          {
+            "hex": "#1e1415",
+            "share": 0.252
+          },
+          {
+            "hex": "#f6ece5",
+            "share": 0.17
+          },
+          {
+            "hex": "#4f4945",
+            "share": 0.126
+          },
+          {
+            "hex": "#9ad5d5",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "08769001-ef8d-48cc-ad2f-14eaaaf8ec7f",
+      "release_title": "Talking Is Hard",
+      "release_date": "2014-11-28",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Talking Is Hard",
+      "url": "http://coverartarchive.org/release/8fd76c10-5529-4979-b90f-5748097b9e48/32349575042-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8fd76c10-5529-4979-b90f-5748097b9e48",
+      "image_id": 32349575042,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.843,
+        "saturation": 0.469,
+        "dark_share": 0.087,
+        "palette": [
+          {
+            "hex": "#e9d74f",
+            "share": 0.565
+          },
+          {
+            "hex": "#f8f0d3",
+            "share": 0.242
+          },
+          {
+            "hex": "#806e53",
+            "share": 0.132
+          },
+          {
+            "hex": "#e1d778",
+            "share": 0.046
+          },
+          {
+            "hex": "#e9d74d",
+            "share": 0.015
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/b6/76/bfb67621-b78d-3924-6d29-4f367697a674/886445045758.jpg/1200x1200bb.jpg",
+      "collection": "TALKING IS HARD (Expanded Edition)",
+      "collection_id": 961298415,
+      "track_id": 961298418,
+      "artist_name": "WALK THE MOON",
+      "release_date": "2014-12-02T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.842,
+        "saturation": 0.457,
+        "dark_share": 0.087,
+        "palette": [
+          {
+            "hex": "#e9d74f",
+            "share": 0.486
+          },
+          {
+            "hex": "#f7edc8",
+            "share": 0.261
+          },
+          {
+            "hex": "#816e52",
+            "share": 0.134
+          },
+          {
+            "hex": "#e9d752",
+            "share": 0.106
+          },
+          {
+            "hex": "#e9d74d",
+            "share": 0.013
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "52c0b2e4-ab53-3a4e-ad2b-389c6348796b",
+      "release_title": "Call Me",
+      "release_date": "1980",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/bb9422fe-8f25-46b4-927c-cdf4e9ef54c3/11370678457-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/bb9422fe-8f25-46b4-927c-cdf4e9ef54c3",
+      "image_id": "11370678457",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.808,
+        "saturation": 0.407,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f5949f",
+            "share": 0.619
+          },
+          {
+            "hex": "#6f4a6a",
+            "share": 0.248
+          },
+          {
+            "hex": "#f395a0",
+            "share": 0.075
+          },
+          {
+            "hex": "#f7949f",
+            "share": 0.031
+          },
+          {
+            "hex": "#f897a1",
+            "share": 0.027
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1c38d50b-aa42-3b9d-b54c-e84fe0e061f9",
+      "release_title": "American Gigolo",
+      "release_date": "1980-02-08",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: American Gigolo",
+      "url": "https://coverartarchive.org/release/b37c5dde-2423-4c86-8a4a-5116c452f5ec/43150660312-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b37c5dde-2423-4c86-8a4a-5116c452f5ec",
+      "image_id": 43150660312,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        640,
+        640
+      ],
+      "measures": {
+        "brightness": 0.356,
+        "saturation": 0.325,
+        "dark_share": 0.52,
+        "palette": [
+          {
+            "hex": "#020305",
+            "share": 0.343
+          },
+          {
+            "hex": "#c1d0de",
+            "share": 0.289
+          },
+          {
+            "hex": "#181714",
+            "share": 0.196
+          },
+          {
+            "hex": "#686a65",
+            "share": 0.153
+          },
+          {
+            "hex": "#000102",
+            "share": 0.019
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/79/cd/51/79cd5107-7557-584c-efff-9fefd00f2d29/19UMGIM53541.rgb.jpg/1200x1200bb.jpg",
+      "collection": "American Gigolo",
+      "collection_id": 1469083149,
+      "track_id": 1469083155,
+      "artist_name": "Blondie",
+      "release_date": "1980-02-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.358,
+        "saturation": 0.323,
+        "dark_share": 0.519,
+        "palette": [
+          {
+            "hex": "#020305",
+            "share": 0.34
+          },
+          {
+            "hex": "#c2d0df",
+            "share": 0.291
+          },
+          {
+            "hex": "#191715",
+            "share": 0.197
+          },
+          {
+            "hex": "#686965",
+            "share": 0.151
+          },
+          {
+            "hex": "#000102",
+            "share": 0.021
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c4055395-8b5f-4df9-a1de-9aff6a02fe9c",
+      "release_title": "Crazy Little Thing Called Love",
+      "release_date": "1979",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/89b89969-8716-425a-98ea-27986474aa5c/1586588067-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/89b89969-8716-425a-98ea-27986474aa5c",
+      "image_id": "1586588067",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        255,
+        254
+      ],
+      "measures": {
+        "brightness": 0.308,
+        "saturation": 0.586,
+        "dark_share": 0.503,
+        "palette": [
+          {
+            "hex": "#533829",
+            "share": 0.291
+          },
+          {
+            "hex": "#000501",
+            "share": 0.198
+          },
+          {
+            "hex": "#aba576",
+            "share": 0.182
+          },
+          {
+            "hex": "#010603",
+            "share": 0.176
+          },
+          {
+            "hex": "#18110e",
+            "share": 0.152
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "75702ddf-a46c-3cac-bace-0a466eb3c37c",
+      "release_title": "The Game",
+      "release_date": "1980",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Game",
+      "url": "http://coverartarchive.org/release/90ca3acb-1dd6-4e7c-8906-85bf6f746284/9616106825-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/90ca3acb-1dd6-4e7c-8906-85bf6f746284",
+      "image_id": "9616106825",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        480,
+        480
+      ],
+      "measures": {
+        "brightness": 0.288,
+        "saturation": 0.176,
+        "dark_share": 0.57,
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.372
+          },
+          {
+            "hex": "#b2b6bf",
+            "share": 0.321
+          },
+          {
+            "hex": "#030306",
+            "share": 0.133
+          },
+          {
+            "hex": "#4c5055",
+            "share": 0.112
+          },
+          {
+            "hex": "#010002",
+            "share": 0.063
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/ee/da/08eeda1f-d44d-aec1-ec9d-0c5b9f8c8536/602527717524.jpg/1200x1200bb.jpg",
+      "collection": "The Game (Deluxe Edition)",
+      "collection_id": 6781076388,
+      "track_id": 6781076401,
+      "artist_name": "Queen",
+      "release_date": "1979-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.394,
+        "saturation": 0.012,
+        "dark_share": 0.336,
+        "palette": [
+          {
+            "hex": "#908e8f",
+            "share": 0.317
+          },
+          {
+            "hex": "#1b1b1b",
+            "share": 0.302
+          },
+          {
+            "hex": "#3d3c3c",
+            "share": 0.187
+          },
+          {
+            "hex": "#c2c0c0",
+            "share": 0.117
+          },
+          {
+            "hex": "#828081",
+            "share": 0.078
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

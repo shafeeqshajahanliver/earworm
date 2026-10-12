@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "79796d6a-eed3-42d3-85fb-1b9a015bc1a8",
+      "release_title": "Happy",
+      "release_date": "2013-12-16",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/75f43353-fbe4-41b5-9ee8-c8c562e00480/6492977452-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/75f43353-fbe4-41b5-9ee8-c8c562e00480",
+      "image_id": "6492977452",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.748,
+        "saturation": 0.246,
+        "dark_share": 0.023,
+        "palette": [
+          {
+            "hex": "#b19e83",
+            "share": 0.358
+          },
+          {
+            "hex": "#dbc48f",
+            "share": 0.172
+          },
+          {
+            "hex": "#ebe0c6",
+            "share": 0.172
+          },
+          {
+            "hex": "#756455",
+            "share": 0.151
+          },
+          {
+            "hex": "#fcfcfb",
+            "share": 0.146
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+      "release_title": "G I R L",
+      "release_date": "2014-03",
+      "release_country": "KR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Girl",
+      "url": "http://coverartarchive.org/release/43d6af14-1349-4ff9-841e-34d6df11e782/11681308595-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/43d6af14-1349-4ff9-841e-34d6df11e782",
+      "image_id": 11681308595,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.545,
+        "saturation": 0.332,
+        "dark_share": 0.141,
+        "palette": [
+          {
+            "hex": "#2c1a19",
+            "share": 0.282
+          },
+          {
+            "hex": "#a89c83",
+            "share": 0.237
+          },
+          {
+            "hex": "#774c3b",
+            "share": 0.19
+          },
+          {
+            "hex": "#e1e2dc",
+            "share": 0.154
+          },
+          {
+            "hex": "#d3be82",
+            "share": 0.136
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ff/5e/76ff5ee0-7ab4-2ac2-2598-486a9ccc06e1/886444516877.jpg/1200x1200bb.jpg",
+      "collection": "G I R L",
+      "collection_id": 863835302,
+      "track_id": 863835363,
+      "artist_name": "Pharrell Williams",
+      "release_date": "2013-11-21T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1192
+      ],
+      "measures": {
+        "brightness": 0.554,
+        "saturation": 0.368,
+        "dark_share": 0.114,
+        "palette": [
+          {
+            "hex": "#351b19",
+            "share": 0.264
+          },
+          {
+            "hex": "#a9927e",
+            "share": 0.264
+          },
+          {
+            "hex": "#7c5341",
+            "share": 0.212
+          },
+          {
+            "hex": "#ded6ce",
+            "share": 0.155
+          },
+          {
+            "hex": "#d4b674",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

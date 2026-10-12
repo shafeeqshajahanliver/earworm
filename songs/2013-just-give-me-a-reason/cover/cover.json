@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "7a7723ae-c57a-4061-81e7-52e5fc8751a2",
+      "release_title": "Just Give Me a Reason",
+      "release_date": "2012-09-14",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/cd359e8d-5af7-4923-8adb-e791c8a2d189/33227638928-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cd359e8d-5af7-4923-8adb-e791c8a2d189",
+      "image_id": 33227638928,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.402,
+        "saturation": 0.285,
+        "dark_share": 0.53,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.314
+          },
+          {
+            "hex": "#120e07",
+            "share": 0.262
+          },
+          {
+            "hex": "#f5dbc4",
+            "share": 0.181
+          },
+          {
+            "hex": "#fef7f1",
+            "share": 0.147
+          },
+          {
+            "hex": "#886c54",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "74a65aea-6e59-477a-b48c-5e4d9c53dfb2",
+      "release_title": "The Truth About Love",
+      "release_date": "2012",
+      "release_country": "ZA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Truth About Love",
+      "url": "https://coverartarchive.org/release/be85344d-785a-49ed-b91e-e9cccc269673/34176982517-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/be85344d-785a-49ed-b91e-e9cccc269673",
+      "image_id": 34176982517,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.733,
+        "saturation": 0.291,
+        "dark_share": 0.094,
+        "palette": [
+          {
+            "hex": "#98b285",
+            "share": 0.347
+          },
+          {
+            "hex": "#f4edd7",
+            "share": 0.189
+          },
+          {
+            "hex": "#584733",
+            "share": 0.169
+          },
+          {
+            "hex": "#f2ddbb",
+            "share": 0.164
+          },
+          {
+            "hex": "#d9d2a7",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

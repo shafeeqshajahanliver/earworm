@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "89999d9c-598c-3c87-aae7-86c142901e50",
+      "release_title": "Every Home Should Have One",
+      "release_date": "1981",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Every Home Should Have One",
+      "url": "https://coverartarchive.org/release/d523be9b-6565-401d-a89d-bd8fe7cb263a/7815009809-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d523be9b-6565-401d-a89d-bd8fe7cb263a",
+      "image_id": 7815009809,
+      "types": [
+        "Front"
+      ],
+      "comment": "http://en.wikipedia.org/wiki/Every_Home_Should_Have_One_(album)",
+      "file": "cover/album.jpg",
+      "original_size": [
+        220,
+        220
+      ],
+      "measures": {
+        "brightness": 0.45,
+        "saturation": 0.688,
+        "dark_share": 0.189,
+        "palette": [
+          {
+            "hex": "#240c16",
+            "share": 0.292
+          },
+          {
+            "hex": "#67132c",
+            "share": 0.231
+          },
+          {
+            "hex": "#a03749",
+            "share": 0.226
+          },
+          {
+            "hex": "#8a263f",
+            "share": 0.151
+          },
+          {
+            "hex": "#c16f66",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/60/01/d060012e-e292-0337-b95d-30623c1090e1/18CRGIM06026.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Every Home Should Have One",
+      "collection_id": 1576788182,
+      "track_id": 1576788355,
+      "artist_name": "Patti Austin",
+      "release_date": "2024-02-05T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.407,
+        "saturation": 0.376,
+        "dark_share": 0.049,
+        "palette": [
+          {
+            "hex": "#2d2f3d",
+            "share": 0.29
+          },
+          {
+            "hex": "#5d3754",
+            "share": 0.221
+          },
+          {
+            "hex": "#6e496e",
+            "share": 0.191
+          },
+          {
+            "hex": "#694265",
+            "share": 0.172
+          },
+          {
+            "hex": "#8c686d",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

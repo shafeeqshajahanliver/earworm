@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "7e1fab99-b263-49f9-b7d2-578d906160ea",
+      "release_title": "Trap Queen",
+      "release_date": "2014-04-22",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/1e838c39-8805-41b6-8ab8-110341d1b420/10608147850-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/1e838c39-8805-41b6-8ab8-110341d1b420",
+      "image_id": "10608147850",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.791,
+        "saturation": 0.028,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#89797b",
+            "share": 0.238
+          },
+          {
+            "hex": "#e2e1e1",
+            "share": 0.22
+          },
+          {
+            "hex": "#c1bfc0",
+            "share": 0.219
+          },
+          {
+            "hex": "#f0f0ef",
+            "share": 0.184
+          },
+          {
+            "hex": "#f9f8f8",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3dcbab88-9b4c-4be4-a169-de105df24d0f",
+      "release_title": "Up Next",
+      "release_date": "2015-01-28",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Up Next",
+      "url": "http://coverartarchive.org/release/4522440d-e1cf-47e2-84f9-f60b8a4121e5/10748564354-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/4522440d-e1cf-47e2-84f9-f60b8a4121e5",
+      "image_id": "10748564354",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.463,
+        "saturation": 0.429,
+        "dark_share": 0.28,
+        "palette": [
+          {
+            "hex": "#04171b",
+            "share": 0.289
+          },
+          {
+            "hex": "#244144",
+            "share": 0.222
+          },
+          {
+            "hex": "#6c8d89",
+            "share": 0.212
+          },
+          {
+            "hex": "#f2f5e0",
+            "share": 0.146
+          },
+          {
+            "hex": "#bdd6c8",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/1200x1200bb.jpg",
+      "collection": "Fetty Wap",
+      "collection_id": 1039540785,
+      "track_id": 1039540875,
+      "artist_name": "Fetty Wap",
+      "release_date": "2014-04-22T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.256,
+        "saturation": 0.423,
+        "dark_share": 0.513,
+        "palette": [
+          {
+            "hex": "#3d3528",
+            "share": 0.282
+          },
+          {
+            "hex": "#080e0c",
+            "share": 0.234
+          },
+          {
+            "hex": "#93765d",
+            "share": 0.203
+          },
+          {
+            "hex": "#241e14",
+            "share": 0.146
+          },
+          {
+            "hex": "#0e1919",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

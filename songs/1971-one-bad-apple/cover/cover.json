@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "69af0b60-17bd-411f-a505-998e8e3b2358",
+      "release_title": "One Bad Apple / He Ain't Heavy... He's My Brother",
+      "release_date": "1970",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "aebe3e3a-29ae-30b5-85bf-da7c49a21389",
+      "release_title": "Osmonds",
+      "release_date": "1971",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Osmonds",
+      "url": "http://coverartarchive.org/release/68645ca7-a72a-4201-9925-edbebf3d86e1/16854517243-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/68645ca7-a72a-4201-9925-edbebf3d86e1",
+      "image_id": 16854517243,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.521,
+        "saturation": 0.252,
+        "dark_share": 0.108,
+        "palette": [
+          {
+            "hex": "#68606a",
+            "share": 0.271
+          },
+          {
+            "hex": "#8e8977",
+            "share": 0.231
+          },
+          {
+            "hex": "#322d35",
+            "share": 0.228
+          },
+          {
+            "hex": "#ada79a",
+            "share": 0.144
+          },
+          {
+            "hex": "#cac7c4",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c3/8f/de/c38fdeb0-247d-2abf-5d4e-799ed9351468/00602567280606.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Osmonds",
+      "collection_id": 1444059099,
+      "track_id": 1444059261,
+      "artist_name": "The Osmonds",
+      "release_date": "1970-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.592,
+        "saturation": 0.356,
+        "dark_share": 0.073,
+        "palette": [
+          {
+            "hex": "#aaa06b",
+            "share": 0.27
+          },
+          {
+            "hex": "#7d7261",
+            "share": 0.269
+          },
+          {
+            "hex": "#44353f",
+            "share": 0.206
+          },
+          {
+            "hex": "#d9ded0",
+            "share": 0.144
+          },
+          {
+            "hex": "#c0b981",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

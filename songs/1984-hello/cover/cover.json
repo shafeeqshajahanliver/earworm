@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "05d55ad3-1a09-428e-b5d3-c03181023235",
+      "release_title": "Hello",
+      "release_date": "1983",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8fa5f416-ee27-45bc-8ced-6c8f493f7200/12307270647-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/8fa5f416-ee27-45bc-8ced-6c8f493f7200",
+      "image_id": "12307270647",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.454,
+        "saturation": 0.187,
+        "dark_share": 0.398,
+        "palette": [
+          {
+            "hex": "#eadbba",
+            "share": 0.268
+          },
+          {
+            "hex": "#151515",
+            "share": 0.239
+          },
+          {
+            "hex": "#9c8469",
+            "share": 0.192
+          },
+          {
+            "hex": "#21201f",
+            "share": 0.151
+          },
+          {
+            "hex": "#3e3730",
+            "share": 0.15
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "cccdb1a1-333d-30e1-9486-81b8113e608a",
+      "release_title": "Can't Slow Down",
+      "release_date": "1983",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Can't Slow Down",
+      "url": "http://coverartarchive.org/release/0503f8b7-4637-4b14-90e0-550388f98081/9036543277-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/0503f8b7-4637-4b14-90e0-550388f98081",
+      "image_id": "9036543277",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.553,
+        "saturation": 0.141,
+        "dark_share": 0.047,
+        "palette": [
+          {
+            "hex": "#9f9590",
+            "share": 0.275
+          },
+          {
+            "hex": "#bbb8b2",
+            "share": 0.216
+          },
+          {
+            "hex": "#4d4343",
+            "share": 0.185
+          },
+          {
+            "hex": "#78736e",
+            "share": 0.182
+          },
+          {
+            "hex": "#8e8079",
+            "share": 0.142
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c8/5e/ce/c85ece5d-e44a-50c0-135f-30ca1f31c1d8/06UMGIM14183.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Can't Slow Down (Deluxe Edition)",
+      "collection_id": 1445749748,
+      "track_id": 1445750162,
+      "artist_name": "Lionel Richie",
+      "release_date": "1983-10-11T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.736,
+        "saturation": 0.086,
+        "dark_share": 0.017,
+        "palette": [
+          {
+            "hex": "#ebecee",
+            "share": 0.259
+          },
+          {
+            "hex": "#dadadc",
+            "share": 0.249
+          },
+          {
+            "hex": "#889ba4",
+            "share": 0.195
+          },
+          {
+            "hex": "#616d6c",
+            "share": 0.189
+          },
+          {
+            "hex": "#abb2b8",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

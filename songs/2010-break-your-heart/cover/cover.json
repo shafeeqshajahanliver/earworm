@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "f4fc9067-305b-412e-b507-c01ab34f4c2c",
+      "release_title": "Rokstarr",
+      "release_date": "2009-10-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rokstarr",
+      "url": "http://coverartarchive.org/release/0af227dc-2e0f-47df-8731-43a69f248b8e/17926189598-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0af227dc-2e0f-47df-8731-43a69f248b8e",
+      "image_id": 17926189598,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1197,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.18,
+        "saturation": 0.384,
+        "dark_share": 0.764,
+        "palette": [
+          {
+            "hex": "#120a0c",
+            "share": 0.301
+          },
+          {
+            "hex": "#150e0f",
+            "share": 0.258
+          },
+          {
+            "hex": "#0d080b",
+            "share": 0.201
+          },
+          {
+            "hex": "#a68876",
+            "share": 0.128
+          },
+          {
+            "hex": "#472a22",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/74/be/ed/74beed71-6a6c-df84-bb80-bf470dee2bf4/10UMGIM07696.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Rokstarr (Bonus Track Version)",
+      "collection_id": 1443147088,
+      "track_id": 1443147099,
+      "artist_name": "Taio Cruz",
+      "release_date": "2009-09-13T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.149,
+        "saturation": 0.468,
+        "dark_share": 0.777,
+        "palette": [
+          {
+            "hex": "#05090a",
+            "share": 0.336
+          },
+          {
+            "hex": "#040507",
+            "share": 0.252
+          },
+          {
+            "hex": "#776152",
+            "share": 0.196
+          },
+          {
+            "hex": "#030708",
+            "share": 0.178
+          },
+          {
+            "hex": "#010203",
+            "share": 0.038
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

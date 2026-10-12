@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1c625dd8-199a-47e0-ba35-6b4a029c199a",
+      "release_title": "Philadelphia Freedom",
+      "release_date": "1975",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "31edc094-37e7-3b02-b79b-f8442cc3fbdb",
+      "release_title": "Captain Fantastic and the Brown Dirt Cowboy",
+      "release_date": "1975-05-19",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Captain Fantastic and the Brown Dirt Cowboy",
+      "url": "https://coverartarchive.org/release/24994796-7316-4406-97f6-f79ce9060a52/6745252018-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/24994796-7316-4406-97f6-f79ce9060a52",
+      "image_id": 6745252018,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.438,
+        "saturation": 0.455,
+        "dark_share": 0.227,
+        "palette": [
+          {
+            "hex": "#0f0909",
+            "share": 0.261
+          },
+          {
+            "hex": "#845b47",
+            "share": 0.248
+          },
+          {
+            "hex": "#702d22",
+            "share": 0.234
+          },
+          {
+            "hex": "#cb9c6b",
+            "share": 0.141
+          },
+          {
+            "hex": "#8a8976",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/cf/dd/7acfdd96-a5c7-c79f-4d07-96e49601ac5d/06UMGIM53454.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Captain Fantastic and the Brown Dirt Cowboy",
+      "collection_id": 1440810893,
+      "track_id": 1440811169,
+      "artist_name": "Elton John",
+      "release_date": "1975-02-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.501,
+        "saturation": 0.298,
+        "dark_share": 0.162,
+        "palette": [
+          {
+            "hex": "#71514b",
+            "share": 0.247
+          },
+          {
+            "hex": "#1a2429",
+            "share": 0.242
+          },
+          {
+            "hex": "#897d6b",
+            "share": 0.239
+          },
+          {
+            "hex": "#d8bc87",
+            "share": 0.154
+          },
+          {
+            "hex": "#96aa94",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

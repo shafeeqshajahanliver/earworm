@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5fbaa359-c0ac-4456-b336-63205b69f3f5",
+      "release_title": "Will It Go Round In Circles / Blackbird",
+      "release_date": "1972",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/02229a64-7368-4f99-abff-e00850c673f5/35483155314-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/02229a64-7368-4f99-abff-e00850c673f5",
+      "image_id": 35483155314,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        596
+      ],
+      "measures": {
+        "brightness": 0.489,
+        "saturation": 0.276,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#766763",
+            "share": 0.236
+          },
+          {
+            "hex": "#c3c2a5",
+            "share": 0.209
+          },
+          {
+            "hex": "#66514d",
+            "share": 0.207
+          },
+          {
+            "hex": "#47312a",
+            "share": 0.202
+          },
+          {
+            "hex": "#5a4745",
+            "share": 0.146
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9c4545fe-04d7-414d-bf77-b875d7217843",
+      "release_title": "Music Is My Life",
+      "release_date": "1972-08-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Music Is My Life",
+      "url": "http://coverartarchive.org/release/c7a4a922-19bd-4353-863e-0ab58bf4e081/4162393521-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/c7a4a922-19bd-4353-863e-0ab58bf4e081",
+      "image_id": "4162393521",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        496
+      ],
+      "measures": {
+        "brightness": 0.236,
+        "saturation": 0.524,
+        "dark_share": 0.617,
+        "palette": [
+          {
+            "hex": "#2e282b",
+            "share": 0.216
+          },
+          {
+            "hex": "#081218",
+            "share": 0.215
+          },
+          {
+            "hex": "#6c7b68",
+            "share": 0.211
+          },
+          {
+            "hex": "#030b10",
+            "share": 0.191
+          },
+          {
+            "hex": "#12141a",
+            "share": 0.166
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/0b/66/000b66bb-1130-296f-c86d-dc7725c63c2c/21UMGIM81591.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Music Is My Life",
+      "collection_id": 1587981165,
+      "track_id": 1587981472,
+      "artist_name": "Billy Preston",
+      "release_date": "1972-10-08T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.261,
+        "saturation": 0.287,
+        "dark_share": 0.539,
+        "palette": [
+          {
+            "hex": "#46312f",
+            "share": 0.236
+          },
+          {
+            "hex": "#7e705b",
+            "share": 0.208
+          },
+          {
+            "hex": "#14141a",
+            "share": 0.188
+          },
+          {
+            "hex": "#19161b",
+            "share": 0.186
+          },
+          {
+            "hex": "#211b1e",
+            "share": 0.182
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

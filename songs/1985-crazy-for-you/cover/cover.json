@@ -1,0 +1,68 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a391b471-a81e-42ef-99ac-93ba561903a2",
+      "release_title": "Crazy for You",
+      "release_date": "1985-02",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "57ddf758-f3bf-48dc-b0a0-5612a6d74c50",
+      "release_title": "Vision Quest",
+      "release_date": "2010",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Vision Quest",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/32/fd/6e/32fd6e25-da2b-10e9-df38-2923c01b6c9b/dj.jaxugjvp.jpg/1200x1200bb.jpg",
+      "collection": "The Immaculate Collection",
+      "collection_id": 80812428,
+      "track_id": 80812063,
+      "artist_name": "Madonna",
+      "release_date": "1985-02-12T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.756,
+        "saturation": 0.408,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#8bb9d6",
+            "share": 0.383
+          },
+          {
+            "hex": "#90b9d4",
+            "share": 0.277
+          },
+          {
+            "hex": "#7a5e25",
+            "share": 0.206
+          },
+          {
+            "hex": "#8fb2c6",
+            "share": 0.074
+          },
+          {
+            "hex": "#9cc0d6",
+            "share": 0.059
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

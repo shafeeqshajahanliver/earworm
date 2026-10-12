@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "70363b9a-3756-4412-808f-80a389053eb1",
+      "release_title": "Mood",
+      "release_date": "2020-07-24",
+      "release_country": "AF",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8eac58d2-c46f-40a6-a9cf-a3f9691e65f0/27070204323-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8eac58d2-c46f-40a6-a9cf-a3f9691e65f0",
+      "image_id": 27070204323,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.688,
+        "saturation": 0.575,
+        "dark_share": 0.042,
+        "palette": [
+          {
+            "hex": "#aa2d8c",
+            "share": 0.266
+          },
+          {
+            "hex": "#2a0c4f",
+            "share": 0.249
+          },
+          {
+            "hex": "#cf6fb3",
+            "share": 0.193
+          },
+          {
+            "hex": "#e8a3da",
+            "share": 0.162
+          },
+          {
+            "hex": "#f2c8ea",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "499a3f73-ca91-4a3a-8b81-0d1ace0ecaa8",
+      "release_title": "El Dorado",
+      "release_date": "2021-03-24",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: El Dorado",
+      "url": "https://coverartarchive.org/release/d7099367-5068-40e1-a694-fdc4b4d1a250/33101929041-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d7099367-5068-40e1-a694-fdc4b4d1a250",
+      "image_id": 33101929041,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.411,
+        "saturation": 0.657,
+        "dark_share": 0.402,
+        "palette": [
+          {
+            "hex": "#02011e",
+            "share": 0.278
+          },
+          {
+            "hex": "#2d191c",
+            "share": 0.234
+          },
+          {
+            "hex": "#81552b",
+            "share": 0.21
+          },
+          {
+            "hex": "#c19153",
+            "share": 0.147
+          },
+          {
+            "hex": "#e7be83",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/fe/35/acfe3571-3872-92c6-e208-072fe362d7c3/886449095070.jpg/1200x1200bb.jpg",
+      "collection": "El Dorado",
+      "collection_id": 1559066377,
+      "track_id": 1559066401,
+      "artist_name": "24kGoldn",
+      "release_date": "2020-07-21T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.41,
+        "saturation": 0.608,
+        "dark_share": 0.404,
+        "palette": [
+          {
+            "hex": "#07081f",
+            "share": 0.301
+          },
+          {
+            "hex": "#2d1b1d",
+            "share": 0.216
+          },
+          {
+            "hex": "#81552b",
+            "share": 0.208
+          },
+          {
+            "hex": "#c19053",
+            "share": 0.147
+          },
+          {
+            "hex": "#e7be84",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

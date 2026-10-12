@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "782e2ec9-0e9f-4e83-9c57-8bd51e843ac5",
+      "release_title": "7 rings",
+      "release_date": "2019-01-18",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/31f98f2a-46a9-4ff6-9c8d-6d7290538bc3/22040179438-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/31f98f2a-46a9-4ff6-9c8d-6d7290538bc3",
+      "image_id": 22040179438,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.643,
+        "saturation": 0.197,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#a18389",
+            "share": 0.344
+          },
+          {
+            "hex": "#b39399",
+            "share": 0.204
+          },
+          {
+            "hex": "#bf9fa2",
+            "share": 0.182
+          },
+          {
+            "hex": "#735b58",
+            "share": 0.142
+          },
+          {
+            "hex": "#caaaab",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "485d3241-ef02-49a4-88df-a03eaa86d9cd",
+      "release_title": "thank u, next",
+      "release_date": "2019-02-08",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Thank U, Next",
+      "url": "http://coverartarchive.org/release/f3c1f76d-d436-4402-8888-1fdcf9e6cba8/27301517082-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f3c1f76d-d436-4402-8888-1fdcf9e6cba8",
+      "image_id": 27301517082,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1024,
+        1024
+      ],
+      "measures": {
+        "brightness": 0.591,
+        "saturation": 0.142,
+        "dark_share": 0.047,
+        "palette": [
+          {
+            "hex": "#ab93a0",
+            "share": 0.333
+          },
+          {
+            "hex": "#a38c96",
+            "share": 0.256
+          },
+          {
+            "hex": "#535248",
+            "share": 0.171
+          },
+          {
+            "hex": "#a9919e",
+            "share": 0.13
+          },
+          {
+            "hex": "#a5a5a3",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/69/07/bb6907de-8ad4-970b-3311-121320e1bf9c/19UMGIM03691.rgb.jpg/1200x1200bb.jpg",
+      "collection": "thank u, next",
+      "collection_id": 1450333975,
+      "track_id": 1450334168,
+      "artist_name": "Ariana Grande",
+      "release_date": "2019-01-18T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.592,
+        "saturation": 0.142,
+        "dark_share": 0.047,
+        "palette": [
+          {
+            "hex": "#ab93a0",
+            "share": 0.287
+          },
+          {
+            "hex": "#a58d97",
+            "share": 0.274
+          },
+          {
+            "hex": "#58564d",
+            "share": 0.174
+          },
+          {
+            "hex": "#ab929e",
+            "share": 0.153
+          },
+          {
+            "hex": "#a6a4a3",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

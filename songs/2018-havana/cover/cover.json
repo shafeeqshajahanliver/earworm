@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "e774d274-e3ee-434a-a5c0-4a113b3b5d8f",
+      "release_title": "Camila",
+      "release_date": "2018-01-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Camila",
+      "url": "http://coverartarchive.org/release/d5d56374-0f39-4f54-a604-3fd9005deb02/18513060312-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d5d56374-0f39-4f54-a604-3fd9005deb02",
+      "image_id": 18513060312,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.437,
+        "saturation": 0.589,
+        "dark_share": 0.298,
+        "palette": [
+          {
+            "hex": "#090530",
+            "share": 0.271
+          },
+          {
+            "hex": "#3a202e",
+            "share": 0.25
+          },
+          {
+            "hex": "#b57d54",
+            "share": 0.187
+          },
+          {
+            "hex": "#825039",
+            "share": 0.182
+          },
+          {
+            "hex": "#e0b184",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/28/70/85287029-19b9-cbe3-d1ab-300781875bf4/886446870298.jpg/1200x1200bb.jpg",
+      "collection": "Camila",
+      "collection_id": 1321216767,
+      "track_id": 1321217032,
+      "artist_name": "Camila Cabello",
+      "release_date": "2017-08-03T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.436,
+        "saturation": 0.563,
+        "dark_share": 0.274,
+        "palette": [
+          {
+            "hex": "#0d0930",
+            "share": 0.281
+          },
+          {
+            "hex": "#39202e",
+            "share": 0.242
+          },
+          {
+            "hex": "#b57c53",
+            "share": 0.187
+          },
+          {
+            "hex": "#824f38",
+            "share": 0.181
+          },
+          {
+            "hex": "#e0b183",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

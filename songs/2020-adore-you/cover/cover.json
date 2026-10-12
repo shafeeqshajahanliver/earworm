@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "67603251-ca6e-46dd-9d1c-7668121e3e2a",
+      "release_title": "Adore You",
+      "release_date": "2019-12-06",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/cb9a3a55-7663-48a1-8b32-5ca04e09994a/35646028476-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cb9a3a55-7663-48a1-8b32-5ca04e09994a",
+      "image_id": 35646028476,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        540,
+        540
+      ],
+      "measures": {
+        "brightness": 0.915,
+        "saturation": 0.097,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.466
+          },
+          {
+            "hex": "#bdc4a4",
+            "share": 0.29
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.193
+          },
+          {
+            "hex": "#fffffd",
+            "share": 0.05
+          },
+          {
+            "hex": "#fffeff",
+            "share": 0.001
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b9990da8-7953-4e64-aea5-065ca9cd3cb7",
+      "release_title": "Fine Line",
+      "release_date": "2019-12-13",
+      "release_country": "AF",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Fine Line",
+      "url": "http://coverartarchive.org/release/61210065-4118-43f9-866f-4038cfae5df4/24909263406-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/61210065-4118-43f9-866f-4038cfae5df4",
+      "image_id": 24909263406,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.585,
+        "saturation": 0.284,
+        "dark_share": 0.285,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.263
+          },
+          {
+            "hex": "#a25e6f",
+            "share": 0.26
+          },
+          {
+            "hex": "#72c2d6",
+            "share": 0.224
+          },
+          {
+            "hex": "#cdc0c5",
+            "share": 0.22
+          },
+          {
+            "hex": "#020004",
+            "share": 0.032
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/1200x1200bb.jpg",
+      "collection": "Fine Line",
+      "collection_id": 1485802965,
+      "track_id": 1485802970,
+      "artist_name": "Harry Styles",
+      "release_date": "2019-12-06T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.589,
+        "saturation": 0.416,
+        "dark_share": 0.285,
+        "palette": [
+          {
+            "hex": "#040203",
+            "share": 0.281
+          },
+          {
+            "hex": "#a25f6f",
+            "share": 0.261
+          },
+          {
+            "hex": "#72c3d7",
+            "share": 0.224
+          },
+          {
+            "hex": "#cdc0c5",
+            "share": 0.219
+          },
+          {
+            "hex": "#030002",
+            "share": 0.015
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

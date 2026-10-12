@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e56ea208-d428-4335-8826-0dd635420da6",
+      "release_title": "Wake Me Up Before You Go-Go",
+      "release_date": "1984",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/8c6080bb-54ec-42f9-97c6-acb89821d233/41692060495-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8c6080bb-54ec-42f9-97c6-acb89821d233",
+      "image_id": 41692060495,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.589,
+        "saturation": 0.482,
+        "dark_share": 0.201,
+        "palette": [
+          {
+            "hex": "#191722",
+            "share": 0.299
+          },
+          {
+            "hex": "#be9c74",
+            "share": 0.222
+          },
+          {
+            "hex": "#e0c59b",
+            "share": 0.183
+          },
+          {
+            "hex": "#8b4a36",
+            "share": 0.182
+          },
+          {
+            "hex": "#bcc5bd",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0e319e00-ac06-34ed-b4fa-f6d206d4a4e6",
+      "release_title": "Make It Big",
+      "release_date": "1984",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Make It Big",
+      "url": "http://coverartarchive.org/release/ec01ad0c-a28f-4d45-bed7-d73014161c38/2622532701-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/ec01ad0c-a28f-4d45-bed7-d73014161c38",
+      "image_id": "2622532701",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.88,
+        "saturation": 0.141,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f6feff",
+            "share": 0.343
+          },
+          {
+            "hex": "#f9ffff",
+            "share": 0.241
+          },
+          {
+            "hex": "#6e5d47",
+            "share": 0.179
+          },
+          {
+            "hex": "#efddba",
+            "share": 0.155
+          },
+          {
+            "hex": "#fafff9",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/49/ac/ee49accc-78bd-bcdb-1aff-c40c1ac3ccc4/074643959520.jpg/1200x1200bb.jpg",
+      "collection": "Make It Big",
+      "collection_id": 193084944,
+      "track_id": 193084947,
+      "artist_name": "Wham!",
+      "release_date": "1984-05-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.86,
+        "saturation": 0.09,
+        "dark_share": 0.054,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.592
+          },
+          {
+            "hex": "#60514d",
+            "share": 0.176
+          },
+          {
+            "hex": "#e4dacf",
+            "share": 0.157
+          },
+          {
+            "hex": "#fefffc",
+            "share": 0.058
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.018
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

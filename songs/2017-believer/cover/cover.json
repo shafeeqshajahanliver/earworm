@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "8bcb5dcd-88bd-4651-9822-51b069b5e0d9",
+      "release_title": "Believer",
+      "release_date": "2017-02-01",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9e182980-1696-4064-9071-6fe727128c02/15835209152-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/9e182980-1696-4064-9071-6fe727128c02",
+      "image_id": 15835209152,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.517,
+        "saturation": 0.493,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#3f2e2b",
+            "share": 0.247
+          },
+          {
+            "hex": "#736168",
+            "share": 0.246
+          },
+          {
+            "hex": "#86c694",
+            "share": 0.198
+          },
+          {
+            "hex": "#47363a",
+            "share": 0.165
+          },
+          {
+            "hex": "#633c30",
+            "share": 0.144
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8341c952-694d-4866-870e-df48c9e10f17",
+      "release_title": "Evolve",
+      "release_date": "2017-06-23",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Evolve",
+      "url": "http://coverartarchive.org/release/dd87fb34-57e1-41cb-9c68-3fad83068dd5/17061618036-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/dd87fb34-57e1-41cb-9c68-3fad83068dd5",
+      "image_id": 17061618036,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.269,
+        "saturation": 0.767,
+        "dark_share": 0.609,
+        "palette": [
+          {
+            "hex": "#1b2c32",
+            "share": 0.265
+          },
+          {
+            "hex": "#011b1b",
+            "share": 0.212
+          },
+          {
+            "hex": "#062020",
+            "share": 0.189
+          },
+          {
+            "hex": "#001b1b",
+            "share": 0.17
+          },
+          {
+            "hex": "#6e817d",
+            "share": 0.164
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Evolve",
+      "collection_id": 1411625594,
+      "track_id": 1411628233,
+      "artist_name": "Imagine Dragons",
+      "release_date": "2017-02-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.266,
+        "saturation": 0.555,
+        "dark_share": 0.613,
+        "palette": [
+          {
+            "hex": "#1e2a30",
+            "share": 0.285
+          },
+          {
+            "hex": "#0b1a1a",
+            "share": 0.247
+          },
+          {
+            "hex": "#0e1d1d",
+            "share": 0.221
+          },
+          {
+            "hex": "#6c7e7b",
+            "share": 0.167
+          },
+          {
+            "hex": "#0a191a",
+            "share": 0.08
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

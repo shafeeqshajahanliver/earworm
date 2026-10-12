@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b40b6717-bbe9-431e-829e-8147bf543ccb",
+      "release_title": "How Can You Mend a Broken Heart / Country Woman",
+      "release_date": "1971-06",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/95004e72-efa1-4d25-ba88-ffaf2521fde0/43316191936-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/95004e72-efa1-4d25-ba88-ffaf2521fde0",
+      "image_id": 43316191936,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        591
+      ],
+      "measures": {
+        "brightness": 0.91,
+        "saturation": 0.439,
+        "dark_share": 0.02,
+        "palette": [
+          {
+            "hex": "#f63c3c",
+            "share": 0.487
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.203
+          },
+          {
+            "hex": "#f0f0ee",
+            "share": 0.158
+          },
+          {
+            "hex": "#c33637",
+            "share": 0.098
+          },
+          {
+            "hex": "#e79290",
+            "share": 0.054
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "fe30770e-d417-3629-97ee-77d229c2d32f",
+      "release_title": "Trafalgar",
+      "release_date": "1971-09",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Trafalgar",
+      "missing": "Cover Art Archive error: HTTP Error 503: Service Unavailable"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/12/aa/2d12aa24-1a0e-f177-84c1-8ffd06bbe495/06UMGIM52004.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Trafalgar",
+      "collection_id": 1444155081,
+      "track_id": 1444155178,
+      "artist_name": "Bee Gees",
+      "release_date": "1971-05-28T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.638,
+        "saturation": 0.296,
+        "dark_share": 0.006,
+        "palette": [
+          {
+            "hex": "#d8c0af",
+            "share": 0.289
+          },
+          {
+            "hex": "#918055",
+            "share": 0.253
+          },
+          {
+            "hex": "#4a4b37",
+            "share": 0.25
+          },
+          {
+            "hex": "#ccb393",
+            "share": 0.127
+          },
+          {
+            "hex": "#e1c9ac",
+            "share": 0.081
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

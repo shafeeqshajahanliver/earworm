@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "719e575e-9abb-3bcb-9e91-e932f81a2e41",
+      "release_title": "Boulevard of Broken Dreams",
+      "release_date": "2004",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/7a1c5502-5497-44ca-a465-fb9a3f4920ab/36086237756-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/7a1c5502-5497-44ca-a465-fb9a3f4920ab",
+      "image_id": 36086237756,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.514,
+        "saturation": 0.384,
+        "dark_share": 0.069,
+        "palette": [
+          {
+            "hex": "#874542",
+            "share": 0.316
+          },
+          {
+            "hex": "#845450",
+            "share": 0.242
+          },
+          {
+            "hex": "#413127",
+            "share": 0.194
+          },
+          {
+            "hex": "#8b7975",
+            "share": 0.134
+          },
+          {
+            "hex": "#d1ccd2",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+      "release_title": "American Idiot",
+      "release_date": "2004-09-20",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: American Idiot",
+      "url": "http://coverartarchive.org/release/dd7cbde9-bffc-467f-8a39-bda4ea2d0633/4783139448-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/dd7cbde9-bffc-467f-8a39-bda4ea2d0633",
+      "image_id": 4783139448,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.37,
+        "saturation": 0.686,
+        "dark_share": 0.61,
+        "palette": [
+          {
+            "hex": "#000014",
+            "share": 0.513
+          },
+          {
+            "hex": "#bd999b",
+            "share": 0.34
+          },
+          {
+            "hex": "#03000d",
+            "share": 0.07
+          },
+          {
+            "hex": "#00000d",
+            "share": 0.048
+          },
+          {
+            "hex": "#000015",
+            "share": 0.029
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

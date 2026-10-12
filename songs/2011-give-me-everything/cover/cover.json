@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d6a5e156-735a-4d03-a307-16661de4214c",
+      "release_title": "Give Me Everything",
+      "release_date": "2011-03-23",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a075018a-2504-474c-b0fa-805837c76c7c/2009926909-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a075018a-2504-474c-b0fa-805837c76c7c",
+      "image_id": "2009926909",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.421,
+        "saturation": 0.64,
+        "dark_share": 0.472,
+        "palette": [
+          {
+            "hex": "#001718",
+            "share": 0.256
+          },
+          {
+            "hex": "#cfe9ed",
+            "share": 0.243
+          },
+          {
+            "hex": "#2c758a",
+            "share": 0.22
+          },
+          {
+            "hex": "#0a1c23",
+            "share": 0.152
+          },
+          {
+            "hex": "#031114",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2c7c65e2-c14c-471a-88b4-c9837b09449c",
+      "release_title": "Planet Pit",
+      "release_date": "2011-06",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Planet Pit",
+      "url": "https://coverartarchive.org/release/b5bda0aa-9a5d-44ea-b960-2d63577b2c31/2009346141-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b5bda0aa-9a5d-44ea-b960-2d63577b2c31",
+      "image_id": 2009346141,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        551,
+        551
+      ],
+      "measures": {
+        "brightness": 0.288,
+        "saturation": 0.54,
+        "dark_share": 0.496,
+        "palette": [
+          {
+            "hex": "#24130d",
+            "share": 0.295
+          },
+          {
+            "hex": "#0d0908",
+            "share": 0.237
+          },
+          {
+            "hex": "#4b271a",
+            "share": 0.204
+          },
+          {
+            "hex": "#814933",
+            "share": 0.155
+          },
+          {
+            "hex": "#c59169",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/72/5b/84/mzi.cpvzvkqh.jpg/1200x1200bb.jpg",
+      "collection": "Planet Pit",
+      "collection_id": 443232558,
+      "track_id": 443232565,
+      "artist_name": "Pitbull",
+      "release_date": "2011-03-17T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.31,
+        "saturation": 0.496,
+        "dark_share": 0.423,
+        "palette": [
+          {
+            "hex": "#0d0f13",
+            "share": 0.269
+          },
+          {
+            "hex": "#14192b",
+            "share": 0.259
+          },
+          {
+            "hex": "#1e3158",
+            "share": 0.199
+          },
+          {
+            "hex": "#305687",
+            "share": 0.179
+          },
+          {
+            "hex": "#6b96be",
+            "share": 0.095
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

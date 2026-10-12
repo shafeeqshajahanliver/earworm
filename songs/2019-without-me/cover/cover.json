@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2c388972-ddff-421d-af9f-6cbafd5203af",
+      "release_title": "Without Me",
+      "release_date": "2018-10-04",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ee7662b5-c586-442a-a460-21dbb92f2a69/21392292749-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ee7662b5-c586-442a-a460-21dbb92f2a69",
+      "image_id": 21392292749,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.418,
+        "saturation": 0.46,
+        "dark_share": 0.305,
+        "palette": [
+          {
+            "hex": "#181f1c",
+            "share": 0.289
+          },
+          {
+            "hex": "#3d3122",
+            "share": 0.235
+          },
+          {
+            "hex": "#676a4b",
+            "share": 0.192
+          },
+          {
+            "hex": "#d2b370",
+            "share": 0.154
+          },
+          {
+            "hex": "#32b8a4",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "50e1fb42-ac14-4487-a58d-ed5c847f701d",
+      "release_title": "Manic",
+      "release_date": "2020-01-17",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Manic",
+      "url": "http://coverartarchive.org/release/07eb2328-f783-472b-8796-54ae4ee200c6/25182528660-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/07eb2328-f783-472b-8796-54ae4ee200c6",
+      "image_id": 25182528660,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.667,
+        "saturation": 0.226,
+        "dark_share": 0.036,
+        "palette": [
+          {
+            "hex": "#a48496",
+            "share": 0.291
+          },
+          {
+            "hex": "#b0c1d0",
+            "share": 0.23
+          },
+          {
+            "hex": "#644a48",
+            "share": 0.222
+          },
+          {
+            "hex": "#aea4b7",
+            "share": 0.177
+          },
+          {
+            "hex": "#c0d1dc",
+            "share": 0.08
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/50/2f/09502f77-c2c9-0ae0-7e21-945a6bc80119/19UMGIM75722.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Manic",
+      "collection_id": 1481418637,
+      "track_id": 1481418646,
+      "artist_name": "Halsey",
+      "release_date": "2018-10-04T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.666,
+        "saturation": 0.227,
+        "dark_share": 0.036,
+        "palette": [
+          {
+            "hex": "#a38294",
+            "share": 0.272
+          },
+          {
+            "hex": "#b0c0cf",
+            "share": 0.234
+          },
+          {
+            "hex": "#624947",
+            "share": 0.218
+          },
+          {
+            "hex": "#ada2b6",
+            "share": 0.194
+          },
+          {
+            "hex": "#bfd0dc",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

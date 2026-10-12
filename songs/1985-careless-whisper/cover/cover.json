@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "91d9ccb1-0c30-3413-8b66-9c2e9a2d86a8",
+      "release_title": "Careless Whisper",
+      "release_date": "1984",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6dfb0aac-c859-4ebf-8bb7-2fe71c492746/8018121600-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/6dfb0aac-c859-4ebf-8bb7-2fe71c492746",
+      "image_id": "8018121600",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        499
+      ],
+      "measures": {
+        "brightness": 0.189,
+        "saturation": 0.039,
+        "dark_share": 0.715,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.547
+          },
+          {
+            "hex": "#b7b7b6",
+            "share": 0.202
+          },
+          {
+            "hex": "#201f1e",
+            "share": 0.159
+          },
+          {
+            "hex": "#010000",
+            "share": 0.085
+          },
+          {
+            "hex": "#000001",
+            "share": 0.007
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3a904946-6c02-44a4-92db-337608138d03",
+      "release_title": "Make It Big!",
+      "release_date": "2003",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Make It Big",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/49/ac/ee49accc-78bd-bcdb-1aff-c40c1ac3ccc4/074643959520.jpg/1200x1200bb.jpg",
+      "collection": "Make It Big",
+      "collection_id": 193084944,
+      "track_id": 193085066,
+      "artist_name": "George Michael",
+      "release_date": "1984-07-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.86,
+        "saturation": 0.09,
+        "dark_share": 0.054,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.592
+          },
+          {
+            "hex": "#60514d",
+            "share": 0.176
+          },
+          {
+            "hex": "#e4dacf",
+            "share": 0.157
+          },
+          {
+            "hex": "#fefffc",
+            "share": 0.058
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.018
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

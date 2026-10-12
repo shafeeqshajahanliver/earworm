@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9b25a3a8-5c48-4d58-94d2-6fe7bffbe098",
+      "release_title": "Ain't No Mountain High Enough",
+      "release_date": "1970-07-16",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/1abb2a67-27f6-43c9-8cdc-47081904bd21/6625642776-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/1abb2a67-27f6-43c9-8cdc-47081904bd21",
+      "image_id": "6625642776",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.696,
+        "saturation": 0.744,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f0cb74",
+            "share": 0.241
+          },
+          {
+            "hex": "#c6963e",
+            "share": 0.233
+          },
+          {
+            "hex": "#784e08",
+            "share": 0.223
+          },
+          {
+            "hex": "#8b5f10",
+            "share": 0.152
+          },
+          {
+            "hex": "#a0721e",
+            "share": 0.152
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "01591d78-3ba9-31a2-88d7-1f994be5e945",
+      "release_title": "Diana Ross",
+      "release_date": "1976-02-10",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Diana Ross",
+      "url": "http://coverartarchive.org/release/a58dc949-9aaa-42e9-aaeb-938e046de51e/7343626704-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a58dc949-9aaa-42e9-aaeb-938e046de51e",
+      "image_id": "7343626704",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        200,
+        200
+      ],
+      "measures": {
+        "brightness": 0.277,
+        "saturation": 0.464,
+        "dark_share": 0.638,
+        "palette": [
+          {
+            "hex": "#05030c",
+            "share": 0.425
+          },
+          {
+            "hex": "#c6ccbe",
+            "share": 0.256
+          },
+          {
+            "hex": "#02040a",
+            "share": 0.182
+          },
+          {
+            "hex": "#30322b",
+            "share": 0.124
+          },
+          {
+            "hex": "#05010b",
+            "share": 0.013
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/19/cb/a319cb81-1f37-31d2-7034-f5006bdca153/00044001681820.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Diana Ross (1970) [Expanded Edition]",
+      "collection_id": 1443200855,
+      "track_id": 1443201205,
+      "artist_name": "Diana Ross",
+      "release_date": "1970-06-19T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.582,
+        "saturation": 0.356,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#5c493a",
+            "share": 0.27
+          },
+          {
+            "hex": "#745c45",
+            "share": 0.25
+          },
+          {
+            "hex": "#caab8a",
+            "share": 0.196
+          },
+          {
+            "hex": "#aa8a6b",
+            "share": 0.174
+          },
+          {
+            "hex": "#e0c8a9",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

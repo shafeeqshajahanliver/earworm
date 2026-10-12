@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "aab6218c-5a42-4962-b470-972f2288fde2",
+      "release_title": "9 Singles Pack",
+      "release_date": "1983",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "f32fab67-77dd-3937-addc-9062e28e4c37",
+      "release_title": "Thriller",
+      "release_date": "1982",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Thriller",
+      "url": "http://coverartarchive.org/release/e1b94ba6-c63c-4c2d-8928-9d1a525b7000/22018478497-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e1b94ba6-c63c-4c2d-8928-9d1a525b7000",
+      "image_id": 22018478497,
+      "types": [
+        "Front"
+      ],
+      "comment": "new iTunes artwork",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.486,
+        "saturation": 0.278,
+        "dark_share": 0.323,
+        "palette": [
+          {
+            "hex": "#0c1619",
+            "share": 0.326
+          },
+          {
+            "hex": "#a19f96",
+            "share": 0.197
+          },
+          {
+            "hex": "#d1d3c6",
+            "share": 0.177
+          },
+          {
+            "hex": "#49433c",
+            "share": 0.161
+          },
+          {
+            "hex": "#e1e4d2",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/1200x1200bb.jpg",
+      "collection": "Thriller",
+      "collection_id": 269572838,
+      "track_id": 269573341,
+      "artist_name": "Michael Jackson",
+      "release_date": "1982-11-29T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.485,
+        "saturation": 0.2,
+        "dark_share": 0.323,
+        "palette": [
+          {
+            "hex": "#dadccc",
+            "share": 0.303
+          },
+          {
+            "hex": "#111418",
+            "share": 0.262
+          },
+          {
+            "hex": "#a09f96",
+            "share": 0.171
+          },
+          {
+            "hex": "#68584b",
+            "share": 0.146
+          },
+          {
+            "hex": "#26292b",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

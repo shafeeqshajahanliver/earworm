@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "fc1cfe8e-00fd-4947-99b3-0dce1cc9fbfa",
+      "release_title": "All of Me",
+      "release_date": "2013-08-08",
+      "release_country": "AF",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/904480fb-2957-47a3-bce9-361782497765/35674716066-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/904480fb-2957-47a3-bce9-361782497765",
+      "image_id": 35674716066,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.403,
+        "saturation": 0.493,
+        "dark_share": 0.27,
+        "palette": [
+          {
+            "hex": "#882925",
+            "share": 0.323
+          },
+          {
+            "hex": "#0d0e0d",
+            "share": 0.27
+          },
+          {
+            "hex": "#571a19",
+            "share": 0.204
+          },
+          {
+            "hex": "#bbb5bb",
+            "share": 0.141
+          },
+          {
+            "hex": "#98574e",
+            "share": 0.063
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "56c54ef0-e424-452e-9094-13c7ca755f7b",
+      "release_title": "Love in the Future",
+      "release_date": "2013",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Love in the Future",
+      "url": "https://coverartarchive.org/release/f57a01e5-3c8c-4663-a3d3-b835b33a7548/32774120227-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f57a01e5-3c8c-4663-a3d3-b835b33a7548",
+      "image_id": 32774120227,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.71,
+        "saturation": 0.178,
+        "dark_share": 0.04,
+        "palette": [
+          {
+            "hex": "#c3b2b1",
+            "share": 0.294
+          },
+          {
+            "hex": "#c7b6b6",
+            "share": 0.233
+          },
+          {
+            "hex": "#7c3e3d",
+            "share": 0.187
+          },
+          {
+            "hex": "#c5b5b5",
+            "share": 0.175
+          },
+          {
+            "hex": "#cbbcbb",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/71/b9/2271b906-85b3-06ee-e611-489b91df0b73/886444160742.jpg/1200x1200bb.jpg",
+      "collection": "Love in the Future (Expanded Edition)",
+      "collection_id": 1441844369,
+      "track_id": 1441844542,
+      "artist_name": "John Legend",
+      "release_date": "2013-08-12T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.711,
+        "saturation": 0.179,
+        "dark_share": 0.04,
+        "palette": [
+          {
+            "hex": "#c3b2b1",
+            "share": 0.294
+          },
+          {
+            "hex": "#c8b6b6",
+            "share": 0.209
+          },
+          {
+            "hex": "#c5b5b5",
+            "share": 0.189
+          },
+          {
+            "hex": "#7d3f3e",
+            "share": 0.187
+          },
+          {
+            "hex": "#cbbbbb",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

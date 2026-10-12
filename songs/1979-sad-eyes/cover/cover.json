@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2ab497f4-dc17-40f6-b659-a3be7067181a",
+      "release_title": "Sad Eyes",
+      "release_date": "1979",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "eecdcc29-bba7-3085-b826-8c0ae5f3082f",
+      "release_title": "Robert John",
+      "release_date": "1979-04-23",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Robert John",
+      "url": "https://coverartarchive.org/release/173f8121-1e21-4c0a-88eb-95c5714a22ad/45209605147-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/173f8121-1e21-4c0a-88eb-95c5714a22ad",
+      "image_id": 45209605147,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        590,
+        599
+      ],
+      "measures": {
+        "brightness": 0.599,
+        "saturation": 0.352,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#7f7d6c",
+            "share": 0.264
+          },
+          {
+            "hex": "#ad9a7c",
+            "share": 0.219
+          },
+          {
+            "hex": "#605854",
+            "share": 0.212
+          },
+          {
+            "hex": "#97907c",
+            "share": 0.163
+          },
+          {
+            "hex": "#b3a58b",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/3c/7b/863c7bc1-1dfa-20d0-5b6c-2fdae1743f12/25UMGIM53549.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Robert John",
+      "collection_id": 1807833848,
+      "track_id": 1807833855,
+      "artist_name": "Robert John",
+      "release_date": "1979-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.843,
+        "saturation": 0.238,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#aea9b5",
+            "share": 0.256
+          },
+          {
+            "hex": "#5962ac",
+            "share": 0.225
+          },
+          {
+            "hex": "#ebebe7",
+            "share": 0.218
+          },
+          {
+            "hex": "#e1ddd6",
+            "share": 0.187
+          },
+          {
+            "hex": "#f1eee5",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

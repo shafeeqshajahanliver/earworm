@@ -1,0 +1,59 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "6d1f6974-165d-36dc-aba5-269dea0c8de3",
+      "release_title": "Animal",
+      "release_date": "2005-08-08",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Animal",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/d2/a7/92d2a780-3aa9-8b58-b753-62e4175dd2ec/884977451856.jpg/1200x1200bb.jpg",
+      "collection": "Animal (Expanded Edition)",
+      "collection_id": 381237317,
+      "track_id": 381237322,
+      "artist_name": "Kesha",
+      "release_date": "2009-08-07T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.394,
+        "saturation": 0.19,
+        "dark_share": 0.345,
+        "palette": [
+          {
+            "hex": "#121211",
+            "share": 0.304
+          },
+          {
+            "hex": "#7e6f63",
+            "share": 0.242
+          },
+          {
+            "hex": "#3a3230",
+            "share": 0.187
+          },
+          {
+            "hex": "#a89c90",
+            "share": 0.161
+          },
+          {
+            "hex": "#dfd9d4",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

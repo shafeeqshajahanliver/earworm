@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "2a8a101c-7cfe-3aca-91cc-1e896a648a66",
+      "release_title": "Horizon",
+      "release_date": "1980",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Horizon",
+      "url": "http://coverartarchive.org/release/b69cf6bd-70b4-4e71-a3f8-ca7c78abe75e/5704200723-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b69cf6bd-70b4-4e71-a3f8-ca7c78abe75e",
+      "image_id": "5704200723",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        494,
+        500
+      ],
+      "measures": {
+        "brightness": 0.318,
+        "saturation": 0.223,
+        "dark_share": 0.339,
+        "palette": [
+          {
+            "hex": "#5d5447",
+            "share": 0.267
+          },
+          {
+            "hex": "#1b1917",
+            "share": 0.242
+          },
+          {
+            "hex": "#938578",
+            "share": 0.218
+          },
+          {
+            "hex": "#3c342f",
+            "share": 0.141
+          },
+          {
+            "hex": "#292627",
+            "share": 0.132
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/85/ed/6185edb0-6a0b-c6da-7825-9dcaf9c2d39f/mzi.tmfmvnos.jpg/1200x1200bb.jpg",
+      "collection": "Horizon",
+      "collection_id": 276970532,
+      "track_id": 276970701,
+      "artist_name": "Eddie Rabbitt",
+      "release_date": "1980-06-20T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.378,
+        "saturation": 0.201,
+        "dark_share": 0.286,
+        "palette": [
+          {
+            "hex": "#6f6d5c",
+            "share": 0.286
+          },
+          {
+            "hex": "#201f1e",
+            "share": 0.257
+          },
+          {
+            "hex": "#a79986",
+            "share": 0.21
+          },
+          {
+            "hex": "#463f3d",
+            "share": 0.13
+          },
+          {
+            "hex": "#2f2d32",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

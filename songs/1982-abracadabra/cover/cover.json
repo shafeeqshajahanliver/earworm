@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "fab1349b-3def-4b87-a14a-69cbde445202",
+      "release_title": "Abracadabra",
+      "release_date": "1982",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3603905d-5384-46ef-b442-82d83c5923f0/31860331766-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3603905d-5384-46ef-b442-82d83c5923f0",
+      "image_id": 31860331766,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        599,
+        600
+      ],
+      "measures": {
+        "brightness": 0.165,
+        "saturation": 0.116,
+        "dark_share": 0.839,
+        "palette": [
+          {
+            "hex": "#1a1b1c",
+            "share": 0.345
+          },
+          {
+            "hex": "#161718",
+            "share": 0.202
+          },
+          {
+            "hex": "#131616",
+            "share": 0.169
+          },
+          {
+            "hex": "#575853",
+            "share": 0.144
+          },
+          {
+            "hex": "#111314",
+            "share": 0.14
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "ac8ca6a0-b24b-314c-ba05-c6b22c564ac9",
+      "release_title": "Abracadabra",
+      "release_date": "1982-06-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Abracadabra",
+      "url": "http://coverartarchive.org/release/9c08cc3e-389e-41d7-84b4-c3de9fbfaa88/5946146924-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/9c08cc3e-389e-41d7-84b4-c3de9fbfaa88",
+      "image_id": "5946146924",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        493
+      ],
+      "measures": {
+        "brightness": 0.049,
+        "saturation": 0.129,
+        "dark_share": 0.914,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.763
+          },
+          {
+            "hex": "#766e61",
+            "share": 0.073
+          },
+          {
+            "hex": "#090705",
+            "share": 0.065
+          },
+          {
+            "hex": "#010001",
+            "share": 0.059
+          },
+          {
+            "hex": "#000001",
+            "share": 0.04
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/5a/b2/c75ab2fb-785b-2ff3-34b3-24e81208a35f/13ULAIM49443.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Abracadabra",
+      "collection_id": 1452258968,
+      "track_id": 1452258975,
+      "artist_name": "Steve Miller Band",
+      "release_date": "1982-06-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.178,
+        "saturation": 0.13,
+        "dark_share": 0.83,
+        "palette": [
+          {
+            "hex": "#1e1a1d",
+            "share": 0.282
+          },
+          {
+            "hex": "#252023",
+            "share": 0.233
+          },
+          {
+            "hex": "#191518",
+            "share": 0.203
+          },
+          {
+            "hex": "#2e2a2b",
+            "share": 0.197
+          },
+          {
+            "hex": "#736b6d",
+            "share": 0.086
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

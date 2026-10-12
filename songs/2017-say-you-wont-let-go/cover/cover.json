@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1685cf71-3ce2-4547-8d99-58b90f68e1db",
+      "release_title": "Say You Won't Let Go",
+      "release_date": "2016-09-09",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9e92d0d2-d6b4-4c8a-9e3a-88e0197514cc/14971822060-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/9e92d0d2-d6b4-4c8a-9e3a-88e0197514cc",
+      "image_id": "14971822060",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.474,
+        "saturation": 0.204,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#585d70",
+            "share": 0.398
+          },
+          {
+            "hex": "#575c6f",
+            "share": 0.197
+          },
+          {
+            "hex": "#b4b2b7",
+            "share": 0.194
+          },
+          {
+            "hex": "#2b2b47",
+            "share": 0.144
+          },
+          {
+            "hex": "#716f7e",
+            "share": 0.066
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a1ba915a-94a3-4725-a5cc-5abd475bd65c",
+      "release_title": "Back from the Edge",
+      "release_date": "2016-10-28",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Back from the Edge",
+      "url": "https://coverartarchive.org/release/c7aa2818-3330-4610-9854-1dec618840c2/21016081301-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c7aa2818-3330-4610-9854-1dec618840c2",
+      "image_id": 21016081301,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.473,
+        "saturation": 0.208,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#575c70",
+            "share": 0.482
+          },
+          {
+            "hex": "#b0adb3",
+            "share": 0.205
+          },
+          {
+            "hex": "#353550",
+            "share": 0.148
+          },
+          {
+            "hex": "#646677",
+            "share": 0.102
+          },
+          {
+            "hex": "#565c6f",
+            "share": 0.063
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/c2/89/9cc289cb-66fe-a754-8ec7-859d76d65c55/886445946789.jpg/1200x1200bb.jpg",
+      "collection": "Back from the Edge (Deluxe Edition)",
+      "collection_id": 1147252339,
+      "track_id": 1147252591,
+      "artist_name": "James Arthur",
+      "release_date": "2016-09-09T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.473,
+        "saturation": 0.206,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#595e71",
+            "share": 0.355
+          },
+          {
+            "hex": "#575c6f",
+            "share": 0.252
+          },
+          {
+            "hex": "#b7b5ba",
+            "share": 0.178
+          },
+          {
+            "hex": "#32324e",
+            "share": 0.147
+          },
+          {
+            "hex": "#807c88",
+            "share": 0.068
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

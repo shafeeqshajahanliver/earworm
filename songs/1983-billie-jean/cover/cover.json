@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d42503ec-54fd-3ac7-83ac-a5e37425509c",
+      "release_title": "Billie Jean",
+      "release_date": "1982",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b76de4ff-75d9-4da7-9dc1-9cff3b781ee2/12125138160-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b76de4ff-75d9-4da7-9dc1-9cff3b781ee2",
+      "image_id": 12125138160,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.27,
+        "saturation": 0.216,
+        "dark_share": 0.64,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.563
+          },
+          {
+            "hex": "#a8c5c3",
+            "share": 0.236
+          },
+          {
+            "hex": "#4d3d44",
+            "share": 0.12
+          },
+          {
+            "hex": "#000001",
+            "share": 0.053
+          },
+          {
+            "hex": "#020000",
+            "share": 0.027
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f32fab67-77dd-3937-addc-9062e28e4c37",
+      "release_title": "Thriller",
+      "release_date": "1982-11-30",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Thriller",
+      "url": "http://coverartarchive.org/release/e1b94ba6-c63c-4c2d-8928-9d1a525b7000/22018478497-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e1b94ba6-c63c-4c2d-8928-9d1a525b7000",
+      "image_id": 22018478497,
+      "types": [
+        "Front"
+      ],
+      "comment": "new iTunes artwork",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.486,
+        "saturation": 0.278,
+        "dark_share": 0.323,
+        "palette": [
+          {
+            "hex": "#0c1619",
+            "share": 0.326
+          },
+          {
+            "hex": "#a19f96",
+            "share": 0.197
+          },
+          {
+            "hex": "#d1d3c6",
+            "share": 0.177
+          },
+          {
+            "hex": "#49433c",
+            "share": 0.161
+          },
+          {
+            "hex": "#e1e4d2",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/58/d3/b558d32f-24fd-c889-d544-bc4c96f6113e/dj.oinzmlgt.jpg/1200x1200bb.jpg",
+      "collection": "Thriller (25th Anniversary) [Deluxe Edition]",
+      "collection_id": 273048762,
+      "track_id": 273048801,
+      "artist_name": "Michael Jackson",
+      "release_date": "1982-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.493,
+        "saturation": 0.131,
+        "dark_share": 0.399,
+        "palette": [
+          {
+            "hex": "#f7fafd",
+            "share": 0.329
+          },
+          {
+            "hex": "#000000",
+            "share": 0.256
+          },
+          {
+            "hex": "#c0b1a9",
+            "share": 0.176
+          },
+          {
+            "hex": "#312825",
+            "share": 0.136
+          },
+          {
+            "hex": "#010000",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

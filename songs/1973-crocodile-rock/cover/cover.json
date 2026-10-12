@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "328a540a-d1bb-4f16-80f4-eaa31b07a08f",
+      "release_title": "Crocodile Rock",
+      "release_date": "1972",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/234de484-c84b-4274-8edf-c3849a1a3e5d/13430037382-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/234de484-c84b-4274-8edf-c3849a1a3e5d",
+      "image_id": "13430037382",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "label",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        484
+      ],
+      "measures": {
+        "brightness": 0.515,
+        "saturation": 0.054,
+        "dark_share": 0.232,
+        "palette": [
+          {
+            "hex": "#f8f9f8",
+            "share": 0.321
+          },
+          {
+            "hex": "#262425",
+            "share": 0.213
+          },
+          {
+            "hex": "#363535",
+            "share": 0.176
+          },
+          {
+            "hex": "#4d4e4e",
+            "share": 0.161
+          },
+          {
+            "hex": "#a3a5a0",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0293c693-a065-395b-b9be-06a7f69b3e57",
+      "release_title": "Don't Shoot Me I'm Only The Piano Player",
+      "release_date": "1973",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Don't Shoot Me I'm Only the Piano Player",
+      "url": "http://coverartarchive.org/release/4d200a21-999e-4c27-a329-79a1b3fe1278/15879558270-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/4d200a21-999e-4c27-a329-79a1b3fe1278",
+      "image_id": 15879558270,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.357,
+        "saturation": 0.287,
+        "dark_share": 0.213,
+        "palette": [
+          {
+            "hex": "#55453c",
+            "share": 0.229
+          },
+          {
+            "hex": "#3a2b26",
+            "share": 0.207
+          },
+          {
+            "hex": "#ae9784",
+            "share": 0.204
+          },
+          {
+            "hex": "#2c2520",
+            "share": 0.2
+          },
+          {
+            "hex": "#362523",
+            "share": 0.16
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/cd/b8/49cdb8de-4752-8cec-f795-b7547930990d/06UMGIM34697.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Don't Shoot Me I'm Only The Piano Player (Bonus Tracks Version)",
+      "collection_id": 1440925614,
+      "track_id": 1440926343,
+      "artist_name": "Elton John",
+      "release_date": "1972-10-27T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "measures": {
+        "brightness": 0.251,
+        "saturation": 0.208,
+        "dark_share": 0.695,
+        "palette": [
+          {
+            "hex": "#111415",
+            "share": 0.294
+          },
+          {
+            "hex": "#a6958f",
+            "share": 0.205
+          },
+          {
+            "hex": "#1f1f22",
+            "share": 0.192
+          },
+          {
+            "hex": "#0d1112",
+            "share": 0.167
+          },
+          {
+            "hex": "#0f1314",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

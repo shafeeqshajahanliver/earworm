@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3425c651-1f31-4e57-be97-e99581c2ef37",
+      "release_title": "Bad, Bad Leroy Brown",
+      "release_date": "1973",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e208a665-15dd-4429-9ac6-acacb4ee42bf/4745342101-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/e208a665-15dd-4429-9ac6-acacb4ee42bf",
+      "image_id": "4745342101",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        487
+      ],
+      "measures": {
+        "brightness": 0.329,
+        "saturation": 0.265,
+        "dark_share": 0.612,
+        "palette": [
+          {
+            "hex": "#1d1d1d",
+            "share": 0.513
+          },
+          {
+            "hex": "#ccb546",
+            "share": 0.249
+          },
+          {
+            "hex": "#383124",
+            "share": 0.158
+          },
+          {
+            "hex": "#1b1b1c",
+            "share": 0.048
+          },
+          {
+            "hex": "#1e1b1d",
+            "share": 0.032
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7e127d77-c474-3f84-a849-b35bac2af651",
+      "release_title": "Life and Times",
+      "release_date": "1973",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Life and Times",
+      "url": "http://coverartarchive.org/release/e2e8231f-865b-409c-8557-31ff7df52fcf/1264937158-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/e2e8231f-865b-409c-8557-31ff7df52fcf",
+      "image_id": "1264937158",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.426,
+        "saturation": 0.299,
+        "dark_share": 0.135,
+        "palette": [
+          {
+            "hex": "#413030",
+            "share": 0.346
+          },
+          {
+            "hex": "#2f252b",
+            "share": 0.237
+          },
+          {
+            "hex": "#6f9fd1",
+            "share": 0.164
+          },
+          {
+            "hex": "#585053",
+            "share": 0.148
+          },
+          {
+            "hex": "#c1aeb5",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/9c/8b/ab9c8b40-2b62-dfb9-036b-2f4598400e04/5032698667338.jpg/1200x1200bb.jpg",
+      "collection": "Life & Times",
+      "collection_id": 1674575337,
+      "track_id": 1674575345,
+      "artist_name": "Jim Croce",
+      "release_date": "1973-04-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.43,
+        "saturation": 0.32,
+        "dark_share": 0.028,
+        "palette": [
+          {
+            "hex": "#434436",
+            "share": 0.296
+          },
+          {
+            "hex": "#3a2b28",
+            "share": 0.241
+          },
+          {
+            "hex": "#5c6051",
+            "share": 0.197
+          },
+          {
+            "hex": "#739799",
+            "share": 0.164
+          },
+          {
+            "hex": "#bec2b5",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

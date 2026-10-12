@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "3ead83f6-f7f1-34a8-88e9-d6f9617a7939",
+      "release_title": "PCD",
+      "release_date": "2005-09-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: PCD",
+      "url": "https://coverartarchive.org/release/c50bd4c6-bee9-4042-9f9f-63401925c63a/32951745886-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c50bd4c6-bee9-4042-9f9f-63401925c63a",
+      "image_id": 32951745886,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1194
+      ],
+      "measures": {
+        "brightness": 0.29,
+        "saturation": 0.297,
+        "dark_share": 0.498,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.327
+          },
+          {
+            "hex": "#5d4335",
+            "share": 0.238
+          },
+          {
+            "hex": "#b18d78",
+            "share": 0.237
+          },
+          {
+            "hex": "#16110d",
+            "share": 0.154
+          },
+          {
+            "hex": "#000909",
+            "share": 0.043
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/51/d0/ad51d0f5-b908-701d-b302-38a0811d5e75/06UMGIM20415.rgb.jpg/1200x1200bb.jpg",
+      "collection": "PCD",
+      "collection_id": 1440762224,
+      "track_id": 1440762326,
+      "artist_name": "The Pussycat Dolls & Busta Rhymes",
+      "release_date": "2005-04-19T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1194
+      ],
+      "measures": {
+        "brightness": 0.294,
+        "saturation": 0.47,
+        "dark_share": 0.5,
+        "palette": [
+          {
+            "hex": "#010204",
+            "share": 0.272
+          },
+          {
+            "hex": "#b08c77",
+            "share": 0.239
+          },
+          {
+            "hex": "#5c4235",
+            "share": 0.22
+          },
+          {
+            "hex": "#211915",
+            "share": 0.153
+          },
+          {
+            "hex": "#060809",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "4d9ec1c2-58ec-48a4-aa0a-916718adead0",
+      "release_title": "1989",
+      "release_date": "2014-10-27",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 1989",
+      "url": "https://coverartarchive.org/release/d5cb50d8-8897-4029-b9b3-32806df7e06d/9282848916-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d5cb50d8-8897-4029-b9b3-32806df7e06d",
+      "image_id": 9282848916,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.792,
+        "saturation": 0.154,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#cabaa0",
+            "share": 0.442
+          },
+          {
+            "hex": "#dadcd2",
+            "share": 0.197
+          },
+          {
+            "hex": "#a98f85",
+            "share": 0.155
+          },
+          {
+            "hex": "#e4e5db",
+            "share": 0.135
+          },
+          {
+            "hex": "#d1c8b3",
+            "share": 0.072
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/98/d8/a798d867-344d-2bf2-fbfe-d2d1412dcef8/14UMDIM03793.rgb.jpg/1200x1200bb.jpg",
+      "collection": "1989 (Deluxe Edition)",
+      "collection_id": 1440933512,
+      "track_id": 1440933517,
+      "artist_name": "Taylor Swift",
+      "release_date": "2014-10-27T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.73,
+        "saturation": 0.157,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#c5b19b",
+            "share": 0.324
+          },
+          {
+            "hex": "#68595b",
+            "share": 0.195
+          },
+          {
+            "hex": "#dbdad0",
+            "share": 0.194
+          },
+          {
+            "hex": "#d0c4ad",
+            "share": 0.158
+          },
+          {
+            "hex": "#e5e3da",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

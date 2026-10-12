@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "fdfbb315-e9d4-3280-bf4b-6f5de82b639a",
+      "release_title": "Reunited",
+      "release_date": "1978",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/25ac2254-8446-42aa-bdc8-8bceec069edf/13327009641-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/25ac2254-8446-42aa-bdc8-8bceec069edf",
+      "image_id": "13327009641",
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        485,
+        500
+      ],
+      "measures": {
+        "brightness": 0.401,
+        "saturation": 0.134,
+        "dark_share": 0.506,
+        "palette": [
+          {
+            "hex": "#1e1e22",
+            "share": 0.301
+          },
+          {
+            "hex": "#050507",
+            "share": 0.246
+          },
+          {
+            "hex": "#c3c8ce",
+            "share": 0.23
+          },
+          {
+            "hex": "#83868a",
+            "share": 0.114
+          },
+          {
+            "hex": "#f6f7f8",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d5bf60e2-6f6d-3fac-b30b-558cdb429bed",
+      "release_title": "2 Hot!",
+      "release_date": "1978-01-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 2 Hot",
+      "url": "http://coverartarchive.org/release/5cab421b-81ef-4558-a0a0-efd20d61f4f9/29797539325-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5cab421b-81ef-4558-a0a0-efd20d61f4f9",
+      "image_id": 29797539325,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        800,
+        800
+      ],
+      "measures": {
+        "brightness": 0.414,
+        "saturation": 0.372,
+        "dark_share": 0.193,
+        "palette": [
+          {
+            "hex": "#778eb9",
+            "share": 0.249
+          },
+          {
+            "hex": "#1e2434",
+            "share": 0.232
+          },
+          {
+            "hex": "#57475c",
+            "share": 0.223
+          },
+          {
+            "hex": "#282a3d",
+            "share": 0.168
+          },
+          {
+            "hex": "#403039",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/1d/93/fd1d938a-095f-31b3-dfa7-7c62ab847f95/06UMGIM72115.rgb.jpg/1200x1200bb.jpg",
+      "collection": "2 Hot!",
+      "collection_id": 1444965310,
+      "track_id": 1444965616,
+      "artist_name": "Peaches & Herb",
+      "release_date": "1978-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.549,
+        "saturation": 0.363,
+        "dark_share": 0.173,
+        "palette": [
+          {
+            "hex": "#95b2dc",
+            "share": 0.306
+          },
+          {
+            "hex": "#1c292e",
+            "share": 0.263
+          },
+          {
+            "hex": "#5a4857",
+            "share": 0.263
+          },
+          {
+            "hex": "#8c879f",
+            "share": 0.137
+          },
+          {
+            "hex": "#9fb8dd",
+            "share": 0.031
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

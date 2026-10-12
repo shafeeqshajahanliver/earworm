@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c7a9e7e3-5c22-4886-91ec-1823b8e3f473",
+      "release_title": "Counting Stars",
+      "release_date": "2013-06-14",
+      "release_country": "AT",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/351ed8ef-8ca6-469b-b138-a1854e39bd67/44893903343-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/351ed8ef-8ca6-469b-b138-a1854e39bd67",
+      "image_id": 44893903343,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        675
+      ],
+      "measures": {
+        "brightness": 0.285,
+        "saturation": 0.174,
+        "dark_share": 0.358,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.304
+          },
+          {
+            "hex": "#58614d",
+            "share": 0.244
+          },
+          {
+            "hex": "#6c7963",
+            "share": 0.228
+          },
+          {
+            "hex": "#292e24",
+            "share": 0.157
+          },
+          {
+            "hex": "#97a591",
+            "share": 0.066
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "294ecdcd-7dd3-4392-87fa-edeb1349bfd0",
+      "release_title": "Native",
+      "release_date": "2013-03",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Native",
+      "url": "http://coverartarchive.org/release/30f0b3db-b097-47f0-8204-2daccaa1ac42/6025871987-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/30f0b3db-b097-47f0-8204-2daccaa1ac42",
+      "image_id": "6025871987",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        240,
+        240
+      ],
+      "measures": {
+        "brightness": 0.586,
+        "saturation": 0.529,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#621d3b",
+            "share": 0.269
+          },
+          {
+            "hex": "#9a645c",
+            "share": 0.232
+          },
+          {
+            "hex": "#902b3a",
+            "share": 0.225
+          },
+          {
+            "hex": "#858d92",
+            "share": 0.177
+          },
+          {
+            "hex": "#c6ced5",
+            "share": 0.097
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Native (Deluxe)",
+      "collection_id": 1471704173,
+      "track_id": 1471704175,
+      "artist_name": "OneRepublic",
+      "release_date": "2013-06-14T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.589,
+        "saturation": 0.532,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#621d3c",
+            "share": 0.27
+          },
+          {
+            "hex": "#9a645b",
+            "share": 0.233
+          },
+          {
+            "hex": "#922a3a",
+            "share": 0.22
+          },
+          {
+            "hex": "#858d91",
+            "share": 0.18
+          },
+          {
+            "hex": "#c7d1d9",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

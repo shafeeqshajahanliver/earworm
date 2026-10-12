@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4977de41-d626-41ea-ae29-b6ebb29843eb",
+      "release_title": "Happier",
+      "release_date": "2018-08-17",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b97f8c10-64fd-435d-9ce2-4c4157b0a93e/32554228650-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b97f8c10-64fd-435d-9ce2-4c4157b0a93e",
+      "image_id": 32554228650,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.886,
+        "saturation": 0.933,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#e8ab02",
+            "share": 0.387
+          },
+          {
+            "hex": "#db9f01",
+            "share": 0.267
+          },
+          {
+            "hex": "#dda001",
+            "share": 0.222
+          },
+          {
+            "hex": "#f3c431",
+            "share": 0.092
+          },
+          {
+            "hex": "#ce9203",
+            "share": 0.032
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/e0/44/e7e0447e-5f6d-8c39-eddb-4d9e11b4ce3d/cover.jpg/1200x1200bb.jpg",
+      "collection": "Happier - Single",
+      "collection_id": 1706010427,
+      "track_id": 1706010428,
+      "artist_name": "Marshmello & Bastille",
+      "release_date": "2018-08-16T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.886,
+        "saturation": 0.907,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#dda006",
+            "share": 0.483
+          },
+          {
+            "hex": "#efb30b",
+            "share": 0.223
+          },
+          {
+            "hex": "#e7ab09",
+            "share": 0.19
+          },
+          {
+            "hex": "#f6cf55",
+            "share": 0.069
+          },
+          {
+            "hex": "#ce9207",
+            "share": 0.034
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

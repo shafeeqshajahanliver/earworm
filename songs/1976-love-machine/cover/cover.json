@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "00b782fd-aa47-49b5-80df-3a9bf8b32008",
+      "release_title": "Love Machine",
+      "release_date": "1975",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "5e5f692e-18c4-42da-990e-2fe9d70684c0",
+      "release_title": "City of Angels",
+      "release_date": "1975-09-17",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: City of Angels",
+      "url": "http://coverartarchive.org/release/15f3f24e-e681-4b12-b17c-788512f2e040/24136415326-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/15f3f24e-e681-4b12-b17c-788512f2e040",
+      "image_id": 24136415326,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        603
+      ],
+      "measures": {
+        "brightness": 0.509,
+        "saturation": 0.204,
+        "dark_share": 0.102,
+        "palette": [
+          {
+            "hex": "#ccc8bf",
+            "share": 0.249
+          },
+          {
+            "hex": "#312631",
+            "share": 0.225
+          },
+          {
+            "hex": "#8f8b87",
+            "share": 0.209
+          },
+          {
+            "hex": "#6b5f60",
+            "share": 0.187
+          },
+          {
+            "hex": "#3f5260",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/de/6e/85de6ed1-1145-13eb-38be-b6647bfc4fd5/08UMGIM27611.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Don't Quit Music: Motown Workout (Deluxe Edition)",
+      "collection_id": 1445946469,
+      "track_id": 1445946767,
+      "artist_name": "The Miracles",
+      "release_date": "1975-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.867,
+        "saturation": 0.788,
+        "dark_share": 0.061,
+        "palette": [
+          {
+            "hex": "#ed1b24",
+            "share": 0.634
+          },
+          {
+            "hex": "#ef1b24",
+            "share": 0.195
+          },
+          {
+            "hex": "#f04b51",
+            "share": 0.078
+          },
+          {
+            "hex": "#4f090c",
+            "share": 0.075
+          },
+          {
+            "hex": "#cb1b22",
+            "share": 0.018
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

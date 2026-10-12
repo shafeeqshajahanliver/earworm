@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6e376c75-2043-4d77-a324-e2319f5cfbe6",
+      "release_title": "First Class",
+      "release_date": "2022-04-08",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3866a31c-65ef-402c-90fa-72345fa6b243/32191138021-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3866a31c-65ef-402c-90fa-72345fa6b243",
+      "image_id": 32191138021,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.843,
+        "saturation": 0.092,
+        "dark_share": 0.062,
+        "palette": [
+          {
+            "hex": "#e4d6d2",
+            "share": 0.357
+          },
+          {
+            "hex": "#ebdfdc",
+            "share": 0.238
+          },
+          {
+            "hex": "#eee4e2",
+            "share": 0.157
+          },
+          {
+            "hex": "#f2e8e7",
+            "share": 0.142
+          },
+          {
+            "hex": "#918780",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d0c823fc-ad7c-434d-8555-ad8e7592c33c",
+      "release_title": "Come Home the Kids Miss You",
+      "release_date": "2022-05-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Come Home the Kids Miss You",
+      "url": "http://coverartarchive.org/release/648981fb-1575-45d3-b3f1-d44f1b59a784/32430859143-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/648981fb-1575-45d3-b3f1-d44f1b59a784",
+      "image_id": 32430859143,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.838,
+        "saturation": 0.079,
+        "dark_share": 0.062,
+        "palette": [
+          {
+            "hex": "#e2d7d3",
+            "share": 0.368
+          },
+          {
+            "hex": "#eadfdd",
+            "share": 0.236
+          },
+          {
+            "hex": "#eee4e3",
+            "share": 0.151
+          },
+          {
+            "hex": "#f1e9e7",
+            "share": 0.143
+          },
+          {
+            "hex": "#968d87",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cf/9a/0e/cf9a0ee1-3b03-c511-cf7c-4929265e261c/075679745118.jpg/1200x1200bb.jpg",
+      "collection": "Come Home The Kids Miss You",
+      "collection_id": 1622624421,
+      "track_id": 1622624618,
+      "artist_name": "Jack Harlow",
+      "release_date": "2022-04-08T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.839,
+        "saturation": 0.071,
+        "dark_share": 0.062,
+        "palette": [
+          {
+            "hex": "#e3d7d4",
+            "share": 0.387
+          },
+          {
+            "hex": "#eae0de",
+            "share": 0.229
+          },
+          {
+            "hex": "#eee4e3",
+            "share": 0.151
+          },
+          {
+            "hex": "#f1e9e7",
+            "share": 0.13
+          },
+          {
+            "hex": "#988f8a",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+      "release_title": "Can't Hold Us",
+      "release_date": "2011-08-16",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b1deaccb-ce91-4828-83ab-a123c07a8d88/4073327892-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b1deaccb-ce91-4828-83ab-a123c07a8d88",
+      "image_id": "4073327892",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        400,
+        400
+      ],
+      "measures": {
+        "brightness": 0.65,
+        "saturation": 0.185,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#8e8775",
+            "share": 0.311
+          },
+          {
+            "hex": "#6d615b",
+            "share": 0.211
+          },
+          {
+            "hex": "#cbd2b5",
+            "share": 0.179
+          },
+          {
+            "hex": "#9cb596",
+            "share": 0.172
+          },
+          {
+            "hex": "#e0e6d2",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "22315cdd-4ed9-427c-9492-560cf4afed58",
+      "release_title": "The Heist",
+      "release_date": "2012-10-09",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Heist",
+      "url": "http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a100f86e-ac89-4ced-98e9-799f4329622e",
+      "image_id": "2307424566",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.064,
+        "saturation": 0.309,
+        "dark_share": 0.943,
+        "palette": [
+          {
+            "hex": "#0a0d0e",
+            "share": 0.292
+          },
+          {
+            "hex": "#000001",
+            "share": 0.21
+          },
+          {
+            "hex": "#030405",
+            "share": 0.175
+          },
+          {
+            "hex": "#2a2a24",
+            "share": 0.17
+          },
+          {
+            "hex": "#010101",
+            "share": 0.153
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/5f/81/5e5f81c7-849e-63f6-6ffd-8801145bfd97/707541525398.jpg/1200x1200bb.jpg",
+      "collection": "The Heist",
+      "collection_id": 560148910,
+      "track_id": 560148920,
+      "artist_name": "Macklemore & Ryan Lewis",
+      "release_date": "2011-08-16T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.086,
+        "saturation": 0.228,
+        "dark_share": 0.946,
+        "palette": [
+          {
+            "hex": "#090c0d",
+            "share": 0.295
+          },
+          {
+            "hex": "#151818",
+            "share": 0.223
+          },
+          {
+            "hex": "#0d1011",
+            "share": 0.212
+          },
+          {
+            "hex": "#080a0b",
+            "share": 0.191
+          },
+          {
+            "hex": "#363329",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

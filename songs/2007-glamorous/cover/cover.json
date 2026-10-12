@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "21a03913-d3bd-3253-a12b-2a6c1d202f62",
+      "release_title": "Glamorous",
+      "release_date": "2007-01-23",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/02f61fe7-0de6-4e89-be13-a30209c15b86/37664207897-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/02f61fe7-0de6-4e89-be13-a30209c15b86",
+      "image_id": 37664207897,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        640,
+        640
+      ],
+      "measures": {
+        "brightness": 0.68,
+        "saturation": 0.485,
+        "dark_share": 0.07,
+        "palette": [
+          {
+            "hex": "#dca745",
+            "share": 0.283
+          },
+          {
+            "hex": "#3f2b12",
+            "share": 0.228
+          },
+          {
+            "hex": "#9d7d50",
+            "share": 0.197
+          },
+          {
+            "hex": "#efe9d8",
+            "share": 0.174
+          },
+          {
+            "hex": "#e1d6be",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "5a4599e9-7ec3-3346-8997-5d5f33377c78",
+      "release_title": "The Dutchess",
+      "release_date": "2006",
+      "release_country": "CN",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Dutchess",
+      "url": "http://coverartarchive.org/release/028388ff-2e86-4a86-ae46-9258fb3facbe/2487338128-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/028388ff-2e86-4a86-ae46-9258fb3facbe",
+      "image_id": "2487338128",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.728,
+        "saturation": 0.537,
+        "dark_share": 0.065,
+        "palette": [
+          {
+            "hex": "#c51631",
+            "share": 0.342
+          },
+          {
+            "hex": "#600d1b",
+            "share": 0.192
+          },
+          {
+            "hex": "#f3e1d8",
+            "share": 0.172
+          },
+          {
+            "hex": "#d09084",
+            "share": 0.151
+          },
+          {
+            "hex": "#ecd2cd",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/20/23/8d/20238d03-e59e-3293-869b-cdc0660f6f88/22UMGIM33705.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Dutchess (Deluxe)",
+      "collection_id": 1618974342,
+      "track_id": 1618974357,
+      "artist_name": "Fergie",
+      "release_date": "2006-09-13T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.698,
+        "saturation": 0.509,
+        "dark_share": 0.07,
+        "palette": [
+          {
+            "hex": "#b21030",
+            "share": 0.338
+          },
+          {
+            "hex": "#58121e",
+            "share": 0.194
+          },
+          {
+            "hex": "#f7e6dc",
+            "share": 0.185
+          },
+          {
+            "hex": "#c98c7d",
+            "share": 0.149
+          },
+          {
+            "hex": "#edd2cb",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

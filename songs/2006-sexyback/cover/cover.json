@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b2354b08-8f7b-30e2-a849-2ac8e113b60e",
+      "release_title": "SexyBack",
+      "release_date": "2006-08-23",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/6169b5eb-27bd-4c42-a72a-440f05d74a96/45013049283-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6169b5eb-27bd-4c42-a72a-440f05d74a96",
+      "image_id": 45013049283,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.493,
+        "saturation": 0.229,
+        "dark_share": 0.264,
+        "palette": [
+          {
+            "hex": "#9b8b86",
+            "share": 0.307
+          },
+          {
+            "hex": "#191919",
+            "share": 0.278
+          },
+          {
+            "hex": "#9c8e89",
+            "share": 0.228
+          },
+          {
+            "hex": "#c6b4ac",
+            "share": 0.093
+          },
+          {
+            "hex": "#765953",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "00de8e96-b902-3d80-b980-1298937b0b2a",
+      "release_title": "FutureSex/LoveSounds",
+      "release_date": "2006",
+      "release_country": "ID",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: FutureSex/LoveSounds",
+      "url": "http://coverartarchive.org/release/128db891-c1ee-4ade-ae35-c648e6b092d3/19114172489-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/128db891-c1ee-4ade-ae35-c648e6b092d3",
+      "image_id": 19114172489,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.77,
+        "saturation": 0.074,
+        "dark_share": 0.104,
+        "palette": [
+          {
+            "hex": "#e4e1da",
+            "share": 0.309
+          },
+          {
+            "hex": "#d2cdc6",
+            "share": 0.198
+          },
+          {
+            "hex": "#e8e3dd",
+            "share": 0.169
+          },
+          {
+            "hex": "#5b524b",
+            "share": 0.167
+          },
+          {
+            "hex": "#ece8e2",
+            "share": 0.156
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/1200x1200bb.jpg",
+      "collection": "FutureSex/LoveSounds (Deluxe Edition)",
+      "collection_id": 400946401,
+      "track_id": 400946435,
+      "artist_name": "Justin Timberlake",
+      "release_date": "2006-07-18T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.8,
+        "saturation": 0.173,
+        "dark_share": 0.026,
+        "palette": [
+          {
+            "hex": "#caaa98",
+            "share": 0.326
+          },
+          {
+            "hex": "#e3e9f1",
+            "share": 0.231
+          },
+          {
+            "hex": "#866a5d",
+            "share": 0.183
+          },
+          {
+            "hex": "#f9f9fa",
+            "share": 0.143
+          },
+          {
+            "hex": "#dcd5d3",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

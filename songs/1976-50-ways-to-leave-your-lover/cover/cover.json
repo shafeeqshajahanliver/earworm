@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "234d10ef-ee32-4010-b935-b0aa33a9e121",
+      "release_title": "50 Ways to Leave Your Lover",
+      "release_date": "1975-12",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "cd0c17f4-ff8d-3b1d-ac36-397ebbb069e9",
+      "release_title": "Still Crazy After All These Years",
+      "release_date": "1975",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Still Crazy After All These Years",
+      "url": "http://coverartarchive.org/release/3118f311-c87b-4476-af47-8d8d7a49573b/18612453749-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/3118f311-c87b-4476-af47-8d8d7a49573b",
+      "image_id": 18612453749,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.848,
+        "saturation": 0.352,
+        "dark_share": 0.013,
+        "palette": [
+          {
+            "hex": "#e8d3a0",
+            "share": 0.318
+          },
+          {
+            "hex": "#ead6a2",
+            "share": 0.193
+          },
+          {
+            "hex": "#ebd7a2",
+            "share": 0.189
+          },
+          {
+            "hex": "#988050",
+            "share": 0.154
+          },
+          {
+            "hex": "#ecdba4",
+            "share": 0.146
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bc/19/3f/bc193fef-9467-956f-9fe0-2b4be6770ed3/dj.dljuqezh.jpg/1200x1200bb.jpg",
+      "collection": "Still Crazy After All These Years (Bonus Tracks Edition)",
+      "collection_id": 380590574,
+      "track_id": 380590584,
+      "artist_name": "Paul Simon",
+      "release_date": "1975-10-25T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.846,
+        "saturation": 0.35,
+        "dark_share": 0.015,
+        "palette": [
+          {
+            "hex": "#e8d3a0",
+            "share": 0.33
+          },
+          {
+            "hex": "#ead6a2",
+            "share": 0.196
+          },
+          {
+            "hex": "#ebd7a2",
+            "share": 0.18
+          },
+          {
+            "hex": "#977e4f",
+            "share": 0.156
+          },
+          {
+            "hex": "#ecdba4",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

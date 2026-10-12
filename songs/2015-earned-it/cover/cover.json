@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2022a9b8-ee1c-45ab-976e-3c373f61a49f",
+      "release_title": "Earned It (Fifty Shades of Grey)",
+      "release_date": "2014-12-23",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d07a476d-dfc7-4d01-9390-036ba38b7d93/29171365019-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d07a476d-dfc7-4d01-9390-036ba38b7d93",
+      "image_id": 29171365019,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        640,
+        640
+      ],
+      "measures": {
+        "brightness": 0.124,
+        "saturation": 0.297,
+        "dark_share": 0.885,
+        "palette": [
+          {
+            "hex": "#120e0d",
+            "share": 0.42
+          },
+          {
+            "hex": "#0d0907",
+            "share": 0.207
+          },
+          {
+            "hex": "#0f0b0a",
+            "share": 0.202
+          },
+          {
+            "hex": "#494846",
+            "share": 0.118
+          },
+          {
+            "hex": "#0b0705",
+            "share": 0.053
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "85852629-ce4c-4bb8-8d4a-50299d56a06c",
+      "release_title": "Fifty Shades of Grey: Original Motion Picture Soundtrack",
+      "release_date": "2015-02-09",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Fifty Shades of Grey: Original Motion Picture Soundtrack",
+      "url": "https://coverartarchive.org/release/76a1a51d-1137-4c1e-97d4-8124a2edb08b/41938912617-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/76a1a51d-1137-4c1e-97d4-8124a2edb08b",
+      "image_id": 41938912617,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.178,
+        "saturation": 0.066,
+        "dark_share": 0.676,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.362
+          },
+          {
+            "hex": "#262628",
+            "share": 0.244
+          },
+          {
+            "hex": "#878788",
+            "share": 0.215
+          },
+          {
+            "hex": "#060609",
+            "share": 0.127
+          },
+          {
+            "hex": "#000002",
+            "share": 0.052
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Highlights",
+      "collection_id": 1550877895,
+      "track_id": 1550878106,
+      "artist_name": "The Weeknd",
+      "release_date": "2014-12-23T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.112,
+        "saturation": 0.489,
+        "dark_share": 0.822,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.432
+          },
+          {
+            "hex": "#280202",
+            "share": 0.183
+          },
+          {
+            "hex": "#150001",
+            "share": 0.146
+          },
+          {
+            "hex": "#442a24",
+            "share": 0.122
+          },
+          {
+            "hex": "#000001",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

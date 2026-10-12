@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "fe9200d2-6a79-4b3f-8f64-e54865342823",
+      "release_title": "Butter",
+      "release_date": "2021-05-21",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8e92c1d9-d77c-4110-84d6-5928bc8b752b/29404556284-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8e92c1d9-d77c-4110-84d6-5928bc8b752b",
+      "image_id": 29404556284,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.885,
+        "saturation": 0.891,
+        "dark_share": 0.082,
+        "palette": [
+          {
+            "hex": "#fedc00",
+            "share": 0.682
+          },
+          {
+            "hex": "#7f6e0e",
+            "share": 0.128
+          },
+          {
+            "hex": "#fddc00",
+            "share": 0.085
+          },
+          {
+            "hex": "#fdea54",
+            "share": 0.064
+          },
+          {
+            "hex": "#ffdf00",
+            "share": 0.042
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/1200x1200bb.jpg",
+      "collection": "Proof",
+      "collection_id": 1627573936,
+      "track_id": 1627575769,
+      "artist_name": "BTS",
+      "release_date": "2021-05-21T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.279,
+        "saturation": 0.001,
+        "dark_share": 0.63,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.63
+          },
+          {
+            "hex": "#aaa9aa",
+            "share": 0.126
+          },
+          {
+            "hex": "#f7f7f7",
+            "share": 0.102
+          },
+          {
+            "hex": "#d4d4d4",
+            "share": 0.096
+          },
+          {
+            "hex": "#605f60",
+            "share": 0.047
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

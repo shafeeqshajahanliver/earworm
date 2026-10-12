@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3636e1dd-ee7d-4208-b9c5-8d212b200c26",
+      "release_title": "Memories",
+      "release_date": "2019-09-20",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/5b914854-d3b9-4837-99a8-d429d3904c38/43371415894-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5b914854-d3b9-4837-99a8-d429d3904c38",
+      "image_id": 43371415894,
+      "types": [
+        "Front"
+      ],
+      "comment": "Spotify",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.714,
+        "saturation": 0.418,
+        "dark_share": 0.092,
+        "palette": [
+          {
+            "hex": "#491e0e",
+            "share": 0.246
+          },
+          {
+            "hex": "#e2cba0",
+            "share": 0.227
+          },
+          {
+            "hex": "#b37e55",
+            "share": 0.215
+          },
+          {
+            "hex": "#f8f4eb",
+            "share": 0.17
+          },
+          {
+            "hex": "#f6d5a4",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7ed5ba22-98c6-4688-8ab9-2099bac4dffe",
+      "release_title": "JORDI",
+      "release_date": "2021-06-11",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Jordi",
+      "url": "http://coverartarchive.org/release/713feaf2-ed79-4893-b819-51d4b1bb0e13/29588212796-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/713feaf2-ed79-4893-b819-51d4b1bb0e13",
+      "image_id": 29588212796,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.693,
+        "saturation": 0.294,
+        "dark_share": 0.064,
+        "palette": [
+          {
+            "hex": "#a87877",
+            "share": 0.278
+          },
+          {
+            "hex": "#523738",
+            "share": 0.217
+          },
+          {
+            "hex": "#cda9a0",
+            "share": 0.193
+          },
+          {
+            "hex": "#f8d7d0",
+            "share": 0.172
+          },
+          {
+            "hex": "#f2b8aa",
+            "share": 0.14
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/1e/d1/fc1ed177-3b51-aa2a-25c3-500a93da688d/21UMGIM37677.rgb.jpg/1200x1200bb.jpg",
+      "collection": "JORDI (Deluxe)",
+      "collection_id": 1570531956,
+      "track_id": 1570532673,
+      "artist_name": "Maroon 5",
+      "release_date": "2019-09-20T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.695,
+        "saturation": 0.311,
+        "dark_share": 0.073,
+        "palette": [
+          {
+            "hex": "#f3d0c4",
+            "share": 0.262
+          },
+          {
+            "hex": "#d6a59d",
+            "share": 0.218
+          },
+          {
+            "hex": "#4f3334",
+            "share": 0.199
+          },
+          {
+            "hex": "#896f6d",
+            "share": 0.174
+          },
+          {
+            "hex": "#c57d77",
+            "share": 0.146
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}
