@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Usher"
+  ],
+  "title_as_charted": [
+    "Nice & Slow"
+  ],
+  "debut_week": "1998-01-24",
+  "debut_position": 9,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1998-02-14",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 23,
+  "last_week": "1998-06-27",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1998-01-24",
+      9
+    ],
+    [
+      "1998-01-31",
+      3
+    ],
+    [
+      "1998-02-07",
+      2
+    ],
+    [
+      "1998-02-14",
+      1
+    ],
+    [
+      "1998-02-21",
+      1
+    ],
+    [
+      "1998-02-28",
+      2
+    ],
+    [
+      "1998-03-07",
+      3
+    ],
+    [
+      "1998-03-14",
+      3
+    ],
+    [
+      "1998-03-21",
+      2
+    ],
+    [
+      "1998-03-28",
+      2
+    ],
+    [
+      "1998-04-04",
+      3
+    ],
+    [
+      "1998-04-11",
+      7
+    ],
+    [
+      "1998-04-18",
+      7
+    ],
+    [
+      "1998-04-25",
+      9
+    ],
+    [
+      "1998-05-02",
+      14
+    ],
+    [
+      "1998-05-09",
+      17
+    ],
+    [
+      "1998-05-16",
+      21
+    ],
+    [
+      "1998-05-23",
+      26
+    ],
+    [
+      "1998-05-30",
+      36
+    ],
+    [
+      "1998-06-06",
+      34
+    ],
+    [
+      "1998-06-13",
+      34
+    ],
+    [
+      "1998-06-20",
+      40
+    ],
+    [
+      "1998-06-27",
+      45
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

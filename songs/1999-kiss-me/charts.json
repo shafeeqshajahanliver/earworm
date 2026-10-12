@@ -1,0 +1,157 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Sixpence None The Richer"
+  ],
+  "title_as_charted": [
+    "Kiss Me"
+  ],
+  "debut_week": "1998-11-28",
+  "debut_position": 90,
+  "peak_position": 2,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1999-05-01",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 33,
+  "last_week": "1999-09-18",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1998-11-28",
+      90
+    ],
+    [
+      "1999-02-13",
+      91
+    ],
+    [
+      "1999-02-20",
+      71
+    ],
+    [
+      "1999-02-27",
+      35
+    ],
+    [
+      "1999-03-06",
+      17
+    ],
+    [
+      "1999-03-13",
+      14
+    ],
+    [
+      "1999-03-20",
+      7
+    ],
+    [
+      "1999-03-27",
+      5
+    ],
+    [
+      "1999-04-03",
+      6
+    ],
+    [
+      "1999-04-10",
+      6
+    ],
+    [
+      "1999-04-17",
+      6
+    ],
+    [
+      "1999-04-24",
+      5
+    ],
+    [
+      "1999-05-01",
+      2
+    ],
+    [
+      "1999-05-08",
+      3
+    ],
+    [
+      "1999-05-15",
+      3
+    ],
+    [
+      "1999-05-22",
+      3
+    ],
+    [
+      "1999-05-29",
+      3
+    ],
+    [
+      "1999-06-05",
+      5
+    ],
+    [
+      "1999-06-12",
+      6
+    ],
+    [
+      "1999-06-19",
+      6
+    ],
+    [
+      "1999-06-26",
+      9
+    ],
+    [
+      "1999-07-03",
+      10
+    ],
+    [
+      "1999-07-10",
+      15
+    ],
+    [
+      "1999-07-17",
+      15
+    ],
+    [
+      "1999-07-24",
+      14
+    ],
+    [
+      "1999-07-31",
+      17
+    ],
+    [
+      "1999-08-07",
+      18
+    ],
+    [
+      "1999-08-14",
+      17
+    ],
+    [
+      "1999-08-21",
+      27
+    ],
+    [
+      "1999-08-28",
+      34
+    ],
+    [
+      "1999-09-04",
+      40
+    ],
+    [
+      "1999-09-11",
+      46
+    ],
+    [
+      "1999-09-18",
+      48
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

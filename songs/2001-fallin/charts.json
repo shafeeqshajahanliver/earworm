@@ -1,0 +1,161 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Alicia Keys"
+  ],
+  "title_as_charted": [
+    "Fallin'"
+  ],
+  "debut_week": "2001-06-16",
+  "debut_position": 98,
+  "peak_position": 1,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "2001-08-18",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 34,
+  "last_week": "2002-02-02",
+  "weeks_at_number_one": 6,
+  "run": [
+    [
+      "2001-06-16",
+      98
+    ],
+    [
+      "2001-06-23",
+      98
+    ],
+    [
+      "2001-06-30",
+      87
+    ],
+    [
+      "2001-07-07",
+      71
+    ],
+    [
+      "2001-07-14",
+      45
+    ],
+    [
+      "2001-07-21",
+      30
+    ],
+    [
+      "2001-07-28",
+      14
+    ],
+    [
+      "2001-08-04",
+      10
+    ],
+    [
+      "2001-08-11",
+      7
+    ],
+    [
+      "2001-08-18",
+      1
+    ],
+    [
+      "2001-08-25",
+      1
+    ],
+    [
+      "2001-09-01",
+      1
+    ],
+    [
+      "2001-09-08",
+      2
+    ],
+    [
+      "2001-09-15",
+      2
+    ],
+    [
+      "2001-09-22",
+      2
+    ],
+    [
+      "2001-09-29",
+      1
+    ],
+    [
+      "2001-10-06",
+      1
+    ],
+    [
+      "2001-10-13",
+      1
+    ],
+    [
+      "2001-10-20",
+      2
+    ],
+    [
+      "2001-10-27",
+      2
+    ],
+    [
+      "2001-11-03",
+      3
+    ],
+    [
+      "2001-11-10",
+      3
+    ],
+    [
+      "2001-11-17",
+      4
+    ],
+    [
+      "2001-11-24",
+      7
+    ],
+    [
+      "2001-12-01",
+      9
+    ],
+    [
+      "2001-12-08",
+      10
+    ],
+    [
+      "2001-12-15",
+      18
+    ],
+    [
+      "2001-12-22",
+      18
+    ],
+    [
+      "2001-12-29",
+      24
+    ],
+    [
+      "2002-01-05",
+      29
+    ],
+    [
+      "2002-01-12",
+      19
+    ],
+    [
+      "2002-01-19",
+      25
+    ],
+    [
+      "2002-01-26",
+      31
+    ],
+    [
+      "2002-02-02",
+      36
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

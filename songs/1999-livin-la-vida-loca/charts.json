@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Ricky Martin"
+  ],
+  "title_as_charted": [
+    "Livin' La Vida Loca"
+  ],
+  "debut_week": "1999-04-17",
+  "debut_position": 54,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1999-05-08",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 20,
+  "last_week": "1999-08-28",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1999-04-17",
+      54
+    ],
+    [
+      "1999-04-24",
+      32
+    ],
+    [
+      "1999-05-01",
+      8
+    ],
+    [
+      "1999-05-08",
+      1
+    ],
+    [
+      "1999-05-15",
+      1
+    ],
+    [
+      "1999-05-22",
+      1
+    ],
+    [
+      "1999-05-29",
+      1
+    ],
+    [
+      "1999-06-05",
+      1
+    ],
+    [
+      "1999-06-12",
+      2
+    ],
+    [
+      "1999-06-19",
+      2
+    ],
+    [
+      "1999-06-26",
+      3
+    ],
+    [
+      "1999-07-03",
+      2
+    ],
+    [
+      "1999-07-10",
+      4
+    ],
+    [
+      "1999-07-17",
+      5
+    ],
+    [
+      "1999-07-24",
+      8
+    ],
+    [
+      "1999-07-31",
+      10
+    ],
+    [
+      "1999-08-07",
+      15
+    ],
+    [
+      "1999-08-14",
+      20
+    ],
+    [
+      "1999-08-21",
+      44
+    ],
+    [
+      "1999-08-28",
+      55
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

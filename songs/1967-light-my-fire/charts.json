@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Doors"
+  ],
+  "title_as_charted": [
+    "Light My Fire"
+  ],
+  "debut_week": "1967-06-03",
+  "debut_position": 98,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1967-07-29",
+  "weeks_to_peak": 8,
+  "weeks_on_chart": 23,
+  "last_week": "1968-10-05",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1967-06-03",
+      98
+    ],
+    [
+      "1967-06-10",
+      61
+    ],
+    [
+      "1967-06-17",
+      50
+    ],
+    [
+      "1967-06-24",
+      24
+    ],
+    [
+      "1967-07-01",
+      19
+    ],
+    [
+      "1967-07-08",
+      12
+    ],
+    [
+      "1967-07-15",
+      8
+    ],
+    [
+      "1967-07-22",
+      3
+    ],
+    [
+      "1967-07-29",
+      1
+    ],
+    [
+      "1967-08-05",
+      1
+    ],
+    [
+      "1967-08-12",
+      1
+    ],
+    [
+      "1967-08-19",
+      2
+    ],
+    [
+      "1967-08-26",
+      4
+    ],
+    [
+      "1967-09-02",
+      4
+    ],
+    [
+      "1967-09-09",
+      8
+    ],
+    [
+      "1967-09-16",
+      18
+    ],
+    [
+      "1967-09-23",
+      32
+    ],
+    [
+      "1968-08-31",
+      91
+    ],
+    [
+      "1968-09-07",
+      91
+    ],
+    [
+      "1968-09-14",
+      90
+    ],
+    [
+      "1968-09-21",
+      89
+    ],
+    [
+      "1968-09-28",
+      87
+    ],
+    [
+      "1968-10-05",
+      87
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

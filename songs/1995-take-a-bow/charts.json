@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Madonna"
+  ],
+  "title_as_charted": [
+    "Take A Bow"
+  ],
+  "debut_week": "1994-12-17",
+  "debut_position": 45,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "1995-02-25",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 30,
+  "last_week": "1995-07-08",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "1994-12-17",
+      45
+    ],
+    [
+      "1994-12-24",
+      18
+    ],
+    [
+      "1994-12-31",
+      14
+    ],
+    [
+      "1995-01-07",
+      12
+    ],
+    [
+      "1995-01-14",
+      8
+    ],
+    [
+      "1995-01-21",
+      5
+    ],
+    [
+      "1995-01-28",
+      5
+    ],
+    [
+      "1995-02-04",
+      4
+    ],
+    [
+      "1995-02-11",
+      4
+    ],
+    [
+      "1995-02-18",
+      2
+    ],
+    [
+      "1995-02-25",
+      1
+    ],
+    [
+      "1995-03-04",
+      1
+    ],
+    [
+      "1995-03-11",
+      1
+    ],
+    [
+      "1995-03-18",
+      1
+    ],
+    [
+      "1995-03-25",
+      1
+    ],
+    [
+      "1995-04-01",
+      1
+    ],
+    [
+      "1995-04-08",
+      1
+    ],
+    [
+      "1995-04-15",
+      4
+    ],
+    [
+      "1995-04-22",
+      6
+    ],
+    [
+      "1995-04-29",
+      11
+    ],
+    [
+      "1995-05-06",
+      11
+    ],
+    [
+      "1995-05-13",
+      15
+    ],
+    [
+      "1995-05-20",
+      21
+    ],
+    [
+      "1995-05-27",
+      21
+    ],
+    [
+      "1995-06-03",
+      28
+    ],
+    [
+      "1995-06-10",
+      27
+    ],
+    [
+      "1995-06-17",
+      31
+    ],
+    [
+      "1995-06-24",
+      37
+    ],
+    [
+      "1995-07-01",
+      44
+    ],
+    [
+      "1995-07-08",
+      44
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

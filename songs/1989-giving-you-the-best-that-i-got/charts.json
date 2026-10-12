@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Anita Baker"
+  ],
+  "title_as_charted": [
+    "Giving You The Best That I Got"
+  ],
+  "debut_week": "1988-09-24",
+  "debut_position": 85,
+  "peak_position": 3,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1988-12-17",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 22,
+  "last_week": "1989-02-18",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1988-09-24",
+      85
+    ],
+    [
+      "1988-10-01",
+      61
+    ],
+    [
+      "1988-10-08",
+      51
+    ],
+    [
+      "1988-10-15",
+      43
+    ],
+    [
+      "1988-10-22",
+      36
+    ],
+    [
+      "1988-10-29",
+      28
+    ],
+    [
+      "1988-11-05",
+      22
+    ],
+    [
+      "1988-11-12",
+      16
+    ],
+    [
+      "1988-11-19",
+      13
+    ],
+    [
+      "1988-11-26",
+      9
+    ],
+    [
+      "1988-12-03",
+      6
+    ],
+    [
+      "1988-12-10",
+      5
+    ],
+    [
+      "1988-12-17",
+      3
+    ],
+    [
+      "1988-12-24",
+      4
+    ],
+    [
+      "1988-12-31",
+      4
+    ],
+    [
+      "1989-01-07",
+      4
+    ],
+    [
+      "1989-01-14",
+      16
+    ],
+    [
+      "1989-01-21",
+      27
+    ],
+    [
+      "1989-01-28",
+      38
+    ],
+    [
+      "1989-02-04",
+      46
+    ],
+    [
+      "1989-02-11",
+      61
+    ],
+    [
+      "1989-02-18",
+      86
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Santana Featuring The Product G&B"
+  ],
+  "title_as_charted": [
+    "Maria Maria"
+  ],
+  "debut_week": "2000-02-12",
+  "debut_position": 15,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "2000-04-08",
+  "weeks_to_peak": 8,
+  "weeks_on_chart": 26,
+  "last_week": "2000-08-05",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "2000-02-12",
+      15
+    ],
+    [
+      "2000-02-19",
+      8
+    ],
+    [
+      "2000-02-26",
+      6
+    ],
+    [
+      "2000-03-04",
+      5
+    ],
+    [
+      "2000-03-11",
+      2
+    ],
+    [
+      "2000-03-18",
+      3
+    ],
+    [
+      "2000-03-25",
+      2
+    ],
+    [
+      "2000-04-01",
+      2
+    ],
+    [
+      "2000-04-08",
+      1
+    ],
+    [
+      "2000-04-15",
+      1
+    ],
+    [
+      "2000-04-22",
+      1
+    ],
+    [
+      "2000-04-29",
+      1
+    ],
+    [
+      "2000-05-06",
+      1
+    ],
+    [
+      "2000-05-13",
+      1
+    ],
+    [
+      "2000-05-20",
+      1
+    ],
+    [
+      "2000-05-27",
+      1
+    ],
+    [
+      "2000-06-03",
+      1
+    ],
+    [
+      "2000-06-10",
+      1
+    ],
+    [
+      "2000-06-17",
+      8
+    ],
+    [
+      "2000-06-24",
+      15
+    ],
+    [
+      "2000-07-01",
+      19
+    ],
+    [
+      "2000-07-08",
+      21
+    ],
+    [
+      "2000-07-15",
+      26
+    ],
+    [
+      "2000-07-22",
+      36
+    ],
+    [
+      "2000-07-29",
+      48
+    ],
+    [
+      "2000-08-05",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

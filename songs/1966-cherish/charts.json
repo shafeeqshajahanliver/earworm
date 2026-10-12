@@ -1,0 +1,81 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Association"
+  ],
+  "title_as_charted": [
+    "Cherish"
+  ],
+  "debut_week": "1966-08-27",
+  "debut_position": 66,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1966-09-24",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 14,
+  "last_week": "1966-11-26",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1966-08-27",
+      66
+    ],
+    [
+      "1966-09-03",
+      27
+    ],
+    [
+      "1966-09-10",
+      14
+    ],
+    [
+      "1966-09-17",
+      4
+    ],
+    [
+      "1966-09-24",
+      1
+    ],
+    [
+      "1966-10-01",
+      1
+    ],
+    [
+      "1966-10-08",
+      1
+    ],
+    [
+      "1966-10-15",
+      2
+    ],
+    [
+      "1966-10-22",
+      4
+    ],
+    [
+      "1966-10-29",
+      13
+    ],
+    [
+      "1966-11-05",
+      21
+    ],
+    [
+      "1966-11-12",
+      32
+    ],
+    [
+      "1966-11-19",
+      36
+    ],
+    [
+      "1966-11-26",
+      44
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

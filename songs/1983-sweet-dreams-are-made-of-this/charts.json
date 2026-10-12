@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Eurythmics"
+  ],
+  "title_as_charted": [
+    "Sweet Dreams (Are Made Of This)"
+  ],
+  "debut_week": "1983-05-14",
+  "debut_position": 90,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1983-09-03",
+  "weeks_to_peak": 16,
+  "weeks_on_chart": 26,
+  "last_week": "1983-11-05",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1983-05-14",
+      90
+    ],
+    [
+      "1983-05-21",
+      78
+    ],
+    [
+      "1983-05-28",
+      57
+    ],
+    [
+      "1983-06-04",
+      52
+    ],
+    [
+      "1983-06-11",
+      46
+    ],
+    [
+      "1983-06-18",
+      37
+    ],
+    [
+      "1983-06-25",
+      32
+    ],
+    [
+      "1983-07-02",
+      26
+    ],
+    [
+      "1983-07-09",
+      20
+    ],
+    [
+      "1983-07-16",
+      15
+    ],
+    [
+      "1983-07-23",
+      11
+    ],
+    [
+      "1983-07-30",
+      6
+    ],
+    [
+      "1983-08-06",
+      2
+    ],
+    [
+      "1983-08-13",
+      2
+    ],
+    [
+      "1983-08-20",
+      2
+    ],
+    [
+      "1983-08-27",
+      2
+    ],
+    [
+      "1983-09-03",
+      1
+    ],
+    [
+      "1983-09-10",
+      2
+    ],
+    [
+      "1983-09-17",
+      5
+    ],
+    [
+      "1983-09-24",
+      6
+    ],
+    [
+      "1983-10-01",
+      16
+    ],
+    [
+      "1983-10-08",
+      22
+    ],
+    [
+      "1983-10-15",
+      48
+    ],
+    [
+      "1983-10-22",
+      66
+    ],
+    [
+      "1983-10-29",
+      77
+    ],
+    [
+      "1983-11-05",
+      83
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,153 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Lenny Kravitz"
+  ],
+  "title_as_charted": [
+    "Again"
+  ],
+  "debut_week": "2000-11-18",
+  "debut_position": 72,
+  "peak_position": 4,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "2001-02-17",
+  "weeks_to_peak": 13,
+  "weeks_on_chart": 32,
+  "last_week": "2001-06-23",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2000-11-18",
+      72
+    ],
+    [
+      "2000-11-25",
+      59
+    ],
+    [
+      "2000-12-02",
+      48
+    ],
+    [
+      "2000-12-09",
+      39
+    ],
+    [
+      "2000-12-16",
+      24
+    ],
+    [
+      "2000-12-23",
+      19
+    ],
+    [
+      "2000-12-30",
+      16
+    ],
+    [
+      "2001-01-06",
+      13
+    ],
+    [
+      "2001-01-13",
+      11
+    ],
+    [
+      "2001-01-20",
+      9
+    ],
+    [
+      "2001-01-27",
+      6
+    ],
+    [
+      "2001-02-03",
+      6
+    ],
+    [
+      "2001-02-10",
+      5
+    ],
+    [
+      "2001-02-17",
+      4
+    ],
+    [
+      "2001-02-24",
+      4
+    ],
+    [
+      "2001-03-03",
+      4
+    ],
+    [
+      "2001-03-10",
+      4
+    ],
+    [
+      "2001-03-17",
+      4
+    ],
+    [
+      "2001-03-24",
+      4
+    ],
+    [
+      "2001-03-31",
+      5
+    ],
+    [
+      "2001-04-07",
+      5
+    ],
+    [
+      "2001-04-14",
+      7
+    ],
+    [
+      "2001-04-21",
+      9
+    ],
+    [
+      "2001-04-28",
+      12
+    ],
+    [
+      "2001-05-05",
+      12
+    ],
+    [
+      "2001-05-12",
+      15
+    ],
+    [
+      "2001-05-19",
+      17
+    ],
+    [
+      "2001-05-26",
+      24
+    ],
+    [
+      "2001-06-02",
+      28
+    ],
+    [
+      "2001-06-09",
+      33
+    ],
+    [
+      "2001-06-16",
+      35
+    ],
+    [
+      "2001-06-23",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

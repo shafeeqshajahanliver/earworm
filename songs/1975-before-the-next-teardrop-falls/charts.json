@@ -1,0 +1,109 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Freddy Fender"
+  ],
+  "title_as_charted": [
+    "Before The Next Teardrop Falls"
+  ],
+  "debut_week": "1975-02-01",
+  "debut_position": 97,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1975-05-31",
+  "weeks_to_peak": 17,
+  "weeks_on_chart": 21,
+  "last_week": "1975-06-21",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1975-02-01",
+      97
+    ],
+    [
+      "1975-02-08",
+      92
+    ],
+    [
+      "1975-02-15",
+      82
+    ],
+    [
+      "1975-02-22",
+      61
+    ],
+    [
+      "1975-03-01",
+      48
+    ],
+    [
+      "1975-03-08",
+      40
+    ],
+    [
+      "1975-03-15",
+      32
+    ],
+    [
+      "1975-03-22",
+      26
+    ],
+    [
+      "1975-03-29",
+      21
+    ],
+    [
+      "1975-04-05",
+      17
+    ],
+    [
+      "1975-04-12",
+      14
+    ],
+    [
+      "1975-04-19",
+      10
+    ],
+    [
+      "1975-04-26",
+      7
+    ],
+    [
+      "1975-05-03",
+      3
+    ],
+    [
+      "1975-05-10",
+      2
+    ],
+    [
+      "1975-05-17",
+      2
+    ],
+    [
+      "1975-05-24",
+      2
+    ],
+    [
+      "1975-05-31",
+      1
+    ],
+    [
+      "1975-06-07",
+      7
+    ],
+    [
+      "1975-06-14",
+      19
+    ],
+    [
+      "1975-06-21",
+      44
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

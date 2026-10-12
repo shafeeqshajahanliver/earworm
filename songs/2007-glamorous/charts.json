@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Fergie Featuring Ludacris"
+  ],
+  "title_as_charted": [
+    "Glamorous"
+  ],
+  "debut_week": "2007-01-27",
+  "debut_position": 98,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "2007-03-24",
+  "weeks_to_peak": 8,
+  "weeks_on_chart": 29,
+  "last_week": "2007-08-11",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "2007-01-27",
+      98
+    ],
+    [
+      "2007-02-03",
+      77
+    ],
+    [
+      "2007-02-10",
+      51
+    ],
+    [
+      "2007-02-17",
+      31
+    ],
+    [
+      "2007-02-24",
+      9
+    ],
+    [
+      "2007-03-03",
+      33
+    ],
+    [
+      "2007-03-10",
+      55
+    ],
+    [
+      "2007-03-17",
+      8
+    ],
+    [
+      "2007-03-24",
+      1
+    ],
+    [
+      "2007-03-31",
+      1
+    ],
+    [
+      "2007-04-07",
+      2
+    ],
+    [
+      "2007-04-14",
+      4
+    ],
+    [
+      "2007-04-21",
+      4
+    ],
+    [
+      "2007-04-28",
+      4
+    ],
+    [
+      "2007-05-05",
+      4
+    ],
+    [
+      "2007-05-12",
+      7
+    ],
+    [
+      "2007-05-19",
+      7
+    ],
+    [
+      "2007-05-26",
+      8
+    ],
+    [
+      "2007-06-02",
+      10
+    ],
+    [
+      "2007-06-09",
+      16
+    ],
+    [
+      "2007-06-16",
+      15
+    ],
+    [
+      "2007-06-23",
+      21
+    ],
+    [
+      "2007-06-30",
+      24
+    ],
+    [
+      "2007-07-07",
+      26
+    ],
+    [
+      "2007-07-14",
+      29
+    ],
+    [
+      "2007-07-21",
+      24
+    ],
+    [
+      "2007-07-28",
+      31
+    ],
+    [
+      "2007-08-04",
+      41
+    ],
+    [
+      "2007-08-11",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

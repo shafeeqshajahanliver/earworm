@@ -1,0 +1,165 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Jordin Sparks Duet With Chris Brown"
+  ],
+  "title_as_charted": [
+    "No Air"
+  ],
+  "debut_week": "2008-01-19",
+  "debut_position": 95,
+  "peak_position": 3,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "2008-04-26",
+  "weeks_to_peak": 14,
+  "weeks_on_chart": 35,
+  "last_week": "2008-09-13",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2008-01-19",
+      95
+    ],
+    [
+      "2008-01-26",
+      69
+    ],
+    [
+      "2008-02-02",
+      53
+    ],
+    [
+      "2008-02-09",
+      51
+    ],
+    [
+      "2008-02-16",
+      42
+    ],
+    [
+      "2008-02-23",
+      32
+    ],
+    [
+      "2008-03-01",
+      23
+    ],
+    [
+      "2008-03-08",
+      13
+    ],
+    [
+      "2008-03-15",
+      6
+    ],
+    [
+      "2008-03-22",
+      6
+    ],
+    [
+      "2008-03-29",
+      6
+    ],
+    [
+      "2008-04-05",
+      6
+    ],
+    [
+      "2008-04-12",
+      5
+    ],
+    [
+      "2008-04-19",
+      7
+    ],
+    [
+      "2008-04-26",
+      3
+    ],
+    [
+      "2008-05-03",
+      3
+    ],
+    [
+      "2008-05-10",
+      3
+    ],
+    [
+      "2008-05-17",
+      3
+    ],
+    [
+      "2008-05-24",
+      4
+    ],
+    [
+      "2008-05-31",
+      5
+    ],
+    [
+      "2008-06-07",
+      5
+    ],
+    [
+      "2008-06-14",
+      7
+    ],
+    [
+      "2008-06-21",
+      7
+    ],
+    [
+      "2008-06-28",
+      7
+    ],
+    [
+      "2008-07-05",
+      12
+    ],
+    [
+      "2008-07-12",
+      18
+    ],
+    [
+      "2008-07-19",
+      19
+    ],
+    [
+      "2008-07-26",
+      21
+    ],
+    [
+      "2008-08-02",
+      25
+    ],
+    [
+      "2008-08-09",
+      28
+    ],
+    [
+      "2008-08-16",
+      37
+    ],
+    [
+      "2008-08-23",
+      35
+    ],
+    [
+      "2008-08-30",
+      39
+    ],
+    [
+      "2008-09-06",
+      43
+    ],
+    [
+      "2008-09-13",
+      50
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

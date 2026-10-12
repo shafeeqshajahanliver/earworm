@@ -1,0 +1,149 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Adele"
+  ],
+  "title_as_charted": [
+    "Easy On Me"
+  ],
+  "debut_week": "2021-10-23",
+  "debut_position": 68,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "2021-10-30",
+  "weeks_to_peak": 1,
+  "weeks_on_chart": 31,
+  "last_week": "2022-05-21",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "2021-10-23",
+      68
+    ],
+    [
+      "2021-10-30",
+      1
+    ],
+    [
+      "2021-11-06",
+      1
+    ],
+    [
+      "2021-11-13",
+      1
+    ],
+    [
+      "2021-11-20",
+      1
+    ],
+    [
+      "2021-11-27",
+      2
+    ],
+    [
+      "2021-12-04",
+      1
+    ],
+    [
+      "2021-12-11",
+      1
+    ],
+    [
+      "2021-12-18",
+      1
+    ],
+    [
+      "2021-12-25",
+      3
+    ],
+    [
+      "2022-01-01",
+      5
+    ],
+    [
+      "2022-01-08",
+      2
+    ],
+    [
+      "2022-01-15",
+      1
+    ],
+    [
+      "2022-01-22",
+      1
+    ],
+    [
+      "2022-01-29",
+      1
+    ],
+    [
+      "2022-02-05",
+      2
+    ],
+    [
+      "2022-02-12",
+      2
+    ],
+    [
+      "2022-02-19",
+      3
+    ],
+    [
+      "2022-02-26",
+      3
+    ],
+    [
+      "2022-03-05",
+      4
+    ],
+    [
+      "2022-03-12",
+      6
+    ],
+    [
+      "2022-03-19",
+      6
+    ],
+    [
+      "2022-03-26",
+      7
+    ],
+    [
+      "2022-04-02",
+      10
+    ],
+    [
+      "2022-04-09",
+      12
+    ],
+    [
+      "2022-04-16",
+      14
+    ],
+    [
+      "2022-04-23",
+      17
+    ],
+    [
+      "2022-04-30",
+      16
+    ],
+    [
+      "2022-05-07",
+      24
+    ],
+    [
+      "2022-05-14",
+      36
+    ],
+    [
+      "2022-05-21",
+      46
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

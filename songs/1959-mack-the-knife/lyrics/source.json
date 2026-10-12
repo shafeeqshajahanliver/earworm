@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 26422161,
+  "kind": "synced",
+  "matched": {
+    "track": "Mack The Knife",
+    "artist": "Bobby Darin",
+    "album": "Mack The Knife",
+    "duration_s": 188.5924719
+  },
+  "duration_matched_to": "musicbrainz recording length (188s)",
+  "duration_diff_s": 0.7,
+  "reference_lengths": [
+    {
+      "seconds": 187.866,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 184.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 191.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37176537 (Mack The Knife / Bobby Darin / 500 Greatest Songs - Rolling Stone Magazines 2010, 205.0s): duration matches no reference length",
+    "lrclib 37334456 (Mack The Knife / Bobby Darin / 75 Golden Pop Hits, 220.0s): duration matches no reference length",
+    "lrclib 37394144 (Mack the Knife / Bobby Darin / A&E Biography: Anthology, 202.0s): duration matches no reference length",
+    "lrclib 35065419 (Mack The Knife / Bobby Darin / Darin At The Copa, 212.0s): duration matches no reference length",
+    "lrclib 30639523 (Mack the Knife / Bobby Darin / Mack the Knife: The Best of Bobby Darin, Volume 2, 202.0s): duration matches no reference length",
+    "lrclib 33434168 (Mack the Knife / Bobby Darin / Mack the Knife, 220.0s): duration matches no reference length",
+    "lrclib 18834881 (Mack the Knife / Bobby Darin / Mack the Knife, 205.1689216s): duration matches no reference length",
+    "lrclib 22158577 (Mack the Knife / Bobby Darin / Mack the Knife, 217.060136s): duration matches no reference length",
+    "lrclib 37728848 (Mack The Knife / Bobby Darin / Bobby Darin, 215.0s): duration matches no reference length",
+    "lrclib 21002556 (Mack the Knife / Bobby Darin / Bobby Darin Live, 144.039175s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

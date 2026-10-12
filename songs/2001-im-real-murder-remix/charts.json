@@ -1,0 +1,149 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Jennifer Lopez Featuring Ja Rule"
+  ],
+  "title_as_charted": [
+    "I'm Real"
+  ],
+  "debut_week": "2001-07-07",
+  "debut_position": 66,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "2001-09-08",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 31,
+  "last_week": "2002-02-02",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "2001-07-07",
+      66
+    ],
+    [
+      "2001-07-14",
+      40
+    ],
+    [
+      "2001-07-21",
+      25
+    ],
+    [
+      "2001-07-28",
+      19
+    ],
+    [
+      "2001-08-04",
+      12
+    ],
+    [
+      "2001-08-11",
+      9
+    ],
+    [
+      "2001-08-18",
+      4
+    ],
+    [
+      "2001-08-25",
+      2
+    ],
+    [
+      "2001-09-01",
+      2
+    ],
+    [
+      "2001-09-08",
+      1
+    ],
+    [
+      "2001-09-15",
+      1
+    ],
+    [
+      "2001-09-22",
+      1
+    ],
+    [
+      "2001-09-29",
+      2
+    ],
+    [
+      "2001-10-06",
+      2
+    ],
+    [
+      "2001-10-13",
+      2
+    ],
+    [
+      "2001-10-20",
+      1
+    ],
+    [
+      "2001-10-27",
+      1
+    ],
+    [
+      "2001-11-03",
+      2
+    ],
+    [
+      "2001-11-10",
+      2
+    ],
+    [
+      "2001-11-17",
+      2
+    ],
+    [
+      "2001-11-24",
+      4
+    ],
+    [
+      "2001-12-01",
+      6
+    ],
+    [
+      "2001-12-08",
+      7
+    ],
+    [
+      "2001-12-15",
+      10
+    ],
+    [
+      "2001-12-22",
+      14
+    ],
+    [
+      "2001-12-29",
+      18
+    ],
+    [
+      "2002-01-05",
+      26
+    ],
+    [
+      "2002-01-12",
+      26
+    ],
+    [
+      "2002-01-19",
+      32
+    ],
+    [
+      "2002-01-26",
+      39
+    ],
+    [
+      "2002-02-02",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

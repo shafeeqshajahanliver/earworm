@@ -1,0 +1,149 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Black Eyed Peas"
+  ],
+  "title_as_charted": [
+    "Just Can't Get Enough"
+  ],
+  "debut_week": "2011-03-05",
+  "debut_position": 92,
+  "peak_position": 3,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "2011-04-16",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 31,
+  "last_week": "2011-10-01",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2011-03-05",
+      92
+    ],
+    [
+      "2011-03-12",
+      66
+    ],
+    [
+      "2011-03-19",
+      38
+    ],
+    [
+      "2011-03-26",
+      22
+    ],
+    [
+      "2011-04-02",
+      5
+    ],
+    [
+      "2011-04-09",
+      5
+    ],
+    [
+      "2011-04-16",
+      3
+    ],
+    [
+      "2011-04-23",
+      3
+    ],
+    [
+      "2011-04-30",
+      3
+    ],
+    [
+      "2011-05-07",
+      3
+    ],
+    [
+      "2011-05-14",
+      4
+    ],
+    [
+      "2011-05-21",
+      4
+    ],
+    [
+      "2011-05-28",
+      5
+    ],
+    [
+      "2011-06-04",
+      4
+    ],
+    [
+      "2011-06-11",
+      5
+    ],
+    [
+      "2011-06-18",
+      8
+    ],
+    [
+      "2011-06-25",
+      8
+    ],
+    [
+      "2011-07-02",
+      11
+    ],
+    [
+      "2011-07-09",
+      14
+    ],
+    [
+      "2011-07-16",
+      14
+    ],
+    [
+      "2011-07-23",
+      15
+    ],
+    [
+      "2011-07-30",
+      19
+    ],
+    [
+      "2011-08-06",
+      21
+    ],
+    [
+      "2011-08-13",
+      22
+    ],
+    [
+      "2011-08-20",
+      25
+    ],
+    [
+      "2011-08-27",
+      29
+    ],
+    [
+      "2011-09-03",
+      31
+    ],
+    [
+      "2011-09-10",
+      35
+    ],
+    [
+      "2011-09-17",
+      41
+    ],
+    [
+      "2011-09-24",
+      47
+    ],
+    [
+      "2011-10-01",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

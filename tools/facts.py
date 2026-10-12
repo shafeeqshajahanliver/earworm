@@ -230,11 +230,31 @@ def mb_details(rid):
 
 def main(only=None):
     songs = load_songs()
-    sel = {e["year"]: e for e in read_json(os.path.join(ROOT, "reference", "selection.json"))}
-    for s in songs:
+    sel = {e["id"]: e for e in read_json(os.path.join(ROOT, "reference", "selection.json")) if "id" in e}
+    for n, s in enumerate(songs):
         if only and s["id"] not in only:
             continue
-        sid, e = s["id"], sel[int(s["chart_year"])]
+        sid, e = s["id"], sel[s["id"]]
+        done = read_json(os.path.join(SONGS, sid, "facts.json"))
+        if not only and done and done.get("musicbrainz") and s["musicbrainz"]:
+            continue  # resumable: already collected
+        try:
+            collect(s, sid, e)
+        except Exception as ex:  # keep going; the song is retried on the next run
+            print("ERROR", sid, repr(ex)[:200], flush=True)
+        if n % 10 == 0:
+            save_csv(songs)
+    save_csv(songs)
+
+
+def save_csv(songs):
+    with open(os.path.join(ROOT, "songs.csv"), "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(songs[0]))
+        w.writeheader(); w.writerows(songs)
+
+
+def collect(s, sid, e):
+    if True:
         article, text = resolve(e["article"])
         alt = version_article(text, s["artist"])
         if alt:
@@ -280,9 +300,6 @@ def main(only=None):
                 s["country"] = ma["country"]
         write_json(song_dir(sid, "facts.json"), facts)
         print(sid, qid, rid, s["country"], flush=True)
-    with open(os.path.join(ROOT, "songs.csv"), "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(songs[0]))
-        w.writeheader(); w.writerows(songs)
 
 
 if __name__ == "__main__":

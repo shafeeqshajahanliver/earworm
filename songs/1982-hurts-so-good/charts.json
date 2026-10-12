@@ -1,0 +1,137 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "John Cougar"
+  ],
+  "title_as_charted": [
+    "Hurts So Good"
+  ],
+  "debut_week": "1982-04-24",
+  "debut_position": 82,
+  "peak_position": 2,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1982-08-07",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 28,
+  "last_week": "1982-10-30",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1982-04-24",
+      82
+    ],
+    [
+      "1982-05-01",
+      66
+    ],
+    [
+      "1982-05-08",
+      59
+    ],
+    [
+      "1982-05-15",
+      49
+    ],
+    [
+      "1982-05-22",
+      37
+    ],
+    [
+      "1982-05-29",
+      29
+    ],
+    [
+      "1982-06-05",
+      20
+    ],
+    [
+      "1982-06-12",
+      17
+    ],
+    [
+      "1982-06-19",
+      9
+    ],
+    [
+      "1982-06-26",
+      6
+    ],
+    [
+      "1982-07-03",
+      5
+    ],
+    [
+      "1982-07-10",
+      3
+    ],
+    [
+      "1982-07-17",
+      3
+    ],
+    [
+      "1982-07-24",
+      3
+    ],
+    [
+      "1982-07-31",
+      3
+    ],
+    [
+      "1982-08-07",
+      2
+    ],
+    [
+      "1982-08-14",
+      2
+    ],
+    [
+      "1982-08-21",
+      2
+    ],
+    [
+      "1982-08-28",
+      2
+    ],
+    [
+      "1982-09-04",
+      7
+    ],
+    [
+      "1982-09-11",
+      8
+    ],
+    [
+      "1982-09-18",
+      8
+    ],
+    [
+      "1982-09-25",
+      9
+    ],
+    [
+      "1982-10-02",
+      10
+    ],
+    [
+      "1982-10-09",
+      15
+    ],
+    [
+      "1982-10-16",
+      39
+    ],
+    [
+      "1982-10-23",
+      77
+    ],
+    [
+      "1982-10-30",
+      91
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

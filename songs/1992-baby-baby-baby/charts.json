@@ -1,0 +1,157 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "TLC"
+  ],
+  "title_as_charted": [
+    "Baby-Baby-Baby"
+  ],
+  "debut_week": "1992-06-06",
+  "debut_position": 86,
+  "peak_position": 2,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "1992-08-15",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 33,
+  "last_week": "1993-01-16",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1992-06-06",
+      86
+    ],
+    [
+      "1992-06-13",
+      60
+    ],
+    [
+      "1992-06-20",
+      45
+    ],
+    [
+      "1992-06-27",
+      25
+    ],
+    [
+      "1992-07-04",
+      16
+    ],
+    [
+      "1992-07-11",
+      15
+    ],
+    [
+      "1992-07-18",
+      5
+    ],
+    [
+      "1992-07-25",
+      3
+    ],
+    [
+      "1992-08-01",
+      3
+    ],
+    [
+      "1992-08-08",
+      3
+    ],
+    [
+      "1992-08-15",
+      2
+    ],
+    [
+      "1992-08-22",
+      2
+    ],
+    [
+      "1992-08-29",
+      2
+    ],
+    [
+      "1992-09-05",
+      2
+    ],
+    [
+      "1992-09-12",
+      2
+    ],
+    [
+      "1992-09-19",
+      2
+    ],
+    [
+      "1992-09-26",
+      3
+    ],
+    [
+      "1992-10-03",
+      4
+    ],
+    [
+      "1992-10-10",
+      5
+    ],
+    [
+      "1992-10-17",
+      9
+    ],
+    [
+      "1992-10-24",
+      18
+    ],
+    [
+      "1992-10-31",
+      20
+    ],
+    [
+      "1992-11-07",
+      25
+    ],
+    [
+      "1992-11-14",
+      31
+    ],
+    [
+      "1992-11-21",
+      34
+    ],
+    [
+      "1992-11-28",
+      40
+    ],
+    [
+      "1992-12-05",
+      40
+    ],
+    [
+      "1992-12-12",
+      41
+    ],
+    [
+      "1992-12-19",
+      42
+    ],
+    [
+      "1992-12-26",
+      44
+    ],
+    [
+      "1993-01-02",
+      46
+    ],
+    [
+      "1993-01-09",
+      50
+    ],
+    [
+      "1993-01-16",
+      44
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

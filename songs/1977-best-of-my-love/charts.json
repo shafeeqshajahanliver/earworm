@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Emotions"
+  ],
+  "title_as_charted": [
+    "Best Of My Love"
+  ],
+  "debut_week": "1977-06-11",
+  "debut_position": 82,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1977-08-20",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 23,
+  "last_week": "1977-11-12",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1977-06-11",
+      82
+    ],
+    [
+      "1977-06-18",
+      70
+    ],
+    [
+      "1977-06-25",
+      50
+    ],
+    [
+      "1977-07-02",
+      30
+    ],
+    [
+      "1977-07-09",
+      14
+    ],
+    [
+      "1977-07-16",
+      12
+    ],
+    [
+      "1977-07-23",
+      10
+    ],
+    [
+      "1977-07-30",
+      6
+    ],
+    [
+      "1977-08-06",
+      3
+    ],
+    [
+      "1977-08-13",
+      3
+    ],
+    [
+      "1977-08-20",
+      1
+    ],
+    [
+      "1977-08-27",
+      1
+    ],
+    [
+      "1977-09-03",
+      1
+    ],
+    [
+      "1977-09-10",
+      1
+    ],
+    [
+      "1977-09-17",
+      3
+    ],
+    [
+      "1977-09-24",
+      1
+    ],
+    [
+      "1977-10-01",
+      4
+    ],
+    [
+      "1977-10-08",
+      6
+    ],
+    [
+      "1977-10-15",
+      17
+    ],
+    [
+      "1977-10-22",
+      23
+    ],
+    [
+      "1977-10-29",
+      51
+    ],
+    [
+      "1977-11-05",
+      64
+    ],
+    [
+      "1977-11-12",
+      98
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

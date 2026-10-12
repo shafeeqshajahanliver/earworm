@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Glen Campbell"
+  ],
+  "title_as_charted": [
+    "Rhinestone Cowboy"
+  ],
+  "debut_week": "1975-05-31",
+  "debut_position": 81,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1975-09-06",
+  "weeks_to_peak": 14,
+  "weeks_on_chart": 23,
+  "last_week": "1975-11-01",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1975-05-31",
+      81
+    ],
+    [
+      "1975-06-07",
+      66
+    ],
+    [
+      "1975-06-14",
+      53
+    ],
+    [
+      "1975-06-21",
+      38
+    ],
+    [
+      "1975-06-28",
+      30
+    ],
+    [
+      "1975-07-05",
+      24
+    ],
+    [
+      "1975-07-12",
+      20
+    ],
+    [
+      "1975-07-19",
+      19
+    ],
+    [
+      "1975-07-26",
+      16
+    ],
+    [
+      "1975-08-02",
+      14
+    ],
+    [
+      "1975-08-09",
+      7
+    ],
+    [
+      "1975-08-16",
+      6
+    ],
+    [
+      "1975-08-23",
+      5
+    ],
+    [
+      "1975-08-30",
+      3
+    ],
+    [
+      "1975-09-06",
+      1
+    ],
+    [
+      "1975-09-13",
+      1
+    ],
+    [
+      "1975-09-20",
+      2
+    ],
+    [
+      "1975-09-27",
+      3
+    ],
+    [
+      "1975-10-04",
+      3
+    ],
+    [
+      "1975-10-11",
+      15
+    ],
+    [
+      "1975-10-18",
+      27
+    ],
+    [
+      "1975-10-25",
+      48
+    ],
+    [
+      "1975-11-01",
+      67
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

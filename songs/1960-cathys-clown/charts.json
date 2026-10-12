@@ -1,0 +1,93 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Everly Brothers"
+  ],
+  "title_as_charted": [
+    "Cathy's Clown"
+  ],
+  "debut_week": "1960-04-18",
+  "debut_position": 94,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1960-05-23",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 17,
+  "last_week": "1960-08-08",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1960-04-18",
+      94
+    ],
+    [
+      "1960-04-25",
+      74
+    ],
+    [
+      "1960-05-02",
+      15
+    ],
+    [
+      "1960-05-09",
+      3
+    ],
+    [
+      "1960-05-16",
+      2
+    ],
+    [
+      "1960-05-23",
+      1
+    ],
+    [
+      "1960-05-30",
+      1
+    ],
+    [
+      "1960-06-06",
+      1
+    ],
+    [
+      "1960-06-13",
+      1
+    ],
+    [
+      "1960-06-20",
+      1
+    ],
+    [
+      "1960-06-27",
+      2
+    ],
+    [
+      "1960-07-04",
+      5
+    ],
+    [
+      "1960-07-11",
+      13
+    ],
+    [
+      "1960-07-18",
+      16
+    ],
+    [
+      "1960-07-25",
+      31
+    ],
+    [
+      "1960-08-01",
+      45
+    ],
+    [
+      "1960-08-08",
+      52
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

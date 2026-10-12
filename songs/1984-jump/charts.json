@@ -1,0 +1,109 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Van Halen"
+  ],
+  "title_as_charted": [
+    "Jump"
+  ],
+  "debut_week": "1984-01-14",
+  "debut_position": 47,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1984-02-25",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 21,
+  "last_week": "1984-06-02",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1984-01-14",
+      47
+    ],
+    [
+      "1984-01-21",
+      34
+    ],
+    [
+      "1984-01-28",
+      20
+    ],
+    [
+      "1984-02-04",
+      11
+    ],
+    [
+      "1984-02-11",
+      5
+    ],
+    [
+      "1984-02-18",
+      2
+    ],
+    [
+      "1984-02-25",
+      1
+    ],
+    [
+      "1984-03-03",
+      1
+    ],
+    [
+      "1984-03-10",
+      1
+    ],
+    [
+      "1984-03-17",
+      1
+    ],
+    [
+      "1984-03-24",
+      1
+    ],
+    [
+      "1984-03-31",
+      3
+    ],
+    [
+      "1984-04-07",
+      5
+    ],
+    [
+      "1984-04-14",
+      10
+    ],
+    [
+      "1984-04-21",
+      14
+    ],
+    [
+      "1984-04-28",
+      23
+    ],
+    [
+      "1984-05-05",
+      42
+    ],
+    [
+      "1984-05-12",
+      62
+    ],
+    [
+      "1984-05-19",
+      73
+    ],
+    [
+      "1984-05-26",
+      89
+    ],
+    [
+      "1984-06-02",
+      100
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

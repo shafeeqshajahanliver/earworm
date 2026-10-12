@@ -1,0 +1,137 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Jack Harlow"
+  ],
+  "title_as_charted": [
+    "First Class"
+  ],
+  "debut_week": "2022-04-23",
+  "debut_position": 1,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "2022-04-23",
+  "weeks_to_peak": 0,
+  "weeks_on_chart": 28,
+  "last_week": "2022-10-29",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "2022-04-23",
+      1
+    ],
+    [
+      "2022-04-30",
+      2
+    ],
+    [
+      "2022-05-07",
+      2
+    ],
+    [
+      "2022-05-14",
+      3
+    ],
+    [
+      "2022-05-21",
+      1
+    ],
+    [
+      "2022-05-28",
+      1
+    ],
+    [
+      "2022-06-04",
+      2
+    ],
+    [
+      "2022-06-11",
+      2
+    ],
+    [
+      "2022-06-18",
+      2
+    ],
+    [
+      "2022-06-25",
+      2
+    ],
+    [
+      "2022-07-02",
+      3
+    ],
+    [
+      "2022-07-09",
+      2
+    ],
+    [
+      "2022-07-16",
+      3
+    ],
+    [
+      "2022-07-23",
+      3
+    ],
+    [
+      "2022-07-30",
+      4
+    ],
+    [
+      "2022-08-06",
+      4
+    ],
+    [
+      "2022-08-13",
+      6
+    ],
+    [
+      "2022-08-20",
+      9
+    ],
+    [
+      "2022-08-27",
+      12
+    ],
+    [
+      "2022-09-03",
+      16
+    ],
+    [
+      "2022-09-10",
+      18
+    ],
+    [
+      "2022-09-17",
+      16
+    ],
+    [
+      "2022-09-24",
+      19
+    ],
+    [
+      "2022-10-01",
+      20
+    ],
+    [
+      "2022-10-08",
+      24
+    ],
+    [
+      "2022-10-15",
+      25
+    ],
+    [
+      "2022-10-22",
+      30
+    ],
+    [
+      "2022-10-29",
+      44
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

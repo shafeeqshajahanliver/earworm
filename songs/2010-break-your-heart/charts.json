@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Taio Cruz Featuring Ludacris"
+  ],
+  "title_as_charted": [
+    "Break Your Heart"
+  ],
+  "debut_week": "2010-03-13",
+  "debut_position": 53,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "2010-03-20",
+  "weeks_to_peak": 1,
+  "weeks_on_chart": 29,
+  "last_week": "2010-09-25",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "2010-03-13",
+      53
+    ],
+    [
+      "2010-03-20",
+      1
+    ],
+    [
+      "2010-03-27",
+      3
+    ],
+    [
+      "2010-04-03",
+      5
+    ],
+    [
+      "2010-04-10",
+      6
+    ],
+    [
+      "2010-04-17",
+      6
+    ],
+    [
+      "2010-04-24",
+      4
+    ],
+    [
+      "2010-05-01",
+      4
+    ],
+    [
+      "2010-05-08",
+      3
+    ],
+    [
+      "2010-05-15",
+      4
+    ],
+    [
+      "2010-05-22",
+      4
+    ],
+    [
+      "2010-05-29",
+      5
+    ],
+    [
+      "2010-06-05",
+      4
+    ],
+    [
+      "2010-06-12",
+      5
+    ],
+    [
+      "2010-06-19",
+      6
+    ],
+    [
+      "2010-06-26",
+      7
+    ],
+    [
+      "2010-07-03",
+      10
+    ],
+    [
+      "2010-07-10",
+      12
+    ],
+    [
+      "2010-07-17",
+      14
+    ],
+    [
+      "2010-07-24",
+      14
+    ],
+    [
+      "2010-07-31",
+      15
+    ],
+    [
+      "2010-08-07",
+      17
+    ],
+    [
+      "2010-08-14",
+      19
+    ],
+    [
+      "2010-08-21",
+      21
+    ],
+    [
+      "2010-08-28",
+      23
+    ],
+    [
+      "2010-09-04",
+      30
+    ],
+    [
+      "2010-09-11",
+      37
+    ],
+    [
+      "2010-09-18",
+      42
+    ],
+    [
+      "2010-09-25",
+      48
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

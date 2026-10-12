@@ -1,0 +1,109 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Paul McCartney And Wings"
+  ],
+  "title_as_charted": [
+    "Coming Up (Live At Glasgow)"
+  ],
+  "debut_week": "1980-04-26",
+  "debut_position": 73,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1980-06-28",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 21,
+  "last_week": "1980-09-13",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1980-04-26",
+      73
+    ],
+    [
+      "1980-05-03",
+      53
+    ],
+    [
+      "1980-05-10",
+      27
+    ],
+    [
+      "1980-05-17",
+      19
+    ],
+    [
+      "1980-05-24",
+      14
+    ],
+    [
+      "1980-05-31",
+      3
+    ],
+    [
+      "1980-06-07",
+      2
+    ],
+    [
+      "1980-06-14",
+      2
+    ],
+    [
+      "1980-06-21",
+      2
+    ],
+    [
+      "1980-06-28",
+      1
+    ],
+    [
+      "1980-07-05",
+      1
+    ],
+    [
+      "1980-07-12",
+      1
+    ],
+    [
+      "1980-07-19",
+      2
+    ],
+    [
+      "1980-07-26",
+      6
+    ],
+    [
+      "1980-08-02",
+      7
+    ],
+    [
+      "1980-08-09",
+      9
+    ],
+    [
+      "1980-08-16",
+      12
+    ],
+    [
+      "1980-08-23",
+      34
+    ],
+    [
+      "1980-08-30",
+      47
+    ],
+    [
+      "1980-09-06",
+      82
+    ],
+    [
+      "1980-09-13",
+      93
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

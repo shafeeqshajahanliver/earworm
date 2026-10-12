@@ -1,0 +1,149 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Nicki Minaj"
+  ],
+  "title_as_charted": [
+    "Starships"
+  ],
+  "debut_week": "2012-03-03",
+  "debut_position": 9,
+  "peak_position": 5,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "2012-04-07",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 31,
+  "last_week": "2012-09-29",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2012-03-03",
+      9
+    ],
+    [
+      "2012-03-10",
+      10
+    ],
+    [
+      "2012-03-17",
+      6
+    ],
+    [
+      "2012-03-24",
+      9
+    ],
+    [
+      "2012-03-31",
+      6
+    ],
+    [
+      "2012-04-07",
+      5
+    ],
+    [
+      "2012-04-14",
+      6
+    ],
+    [
+      "2012-04-21",
+      6
+    ],
+    [
+      "2012-04-28",
+      7
+    ],
+    [
+      "2012-05-05",
+      9
+    ],
+    [
+      "2012-05-12",
+      8
+    ],
+    [
+      "2012-05-19",
+      7
+    ],
+    [
+      "2012-05-26",
+      6
+    ],
+    [
+      "2012-06-02",
+      5
+    ],
+    [
+      "2012-06-09",
+      5
+    ],
+    [
+      "2012-06-16",
+      5
+    ],
+    [
+      "2012-06-23",
+      6
+    ],
+    [
+      "2012-06-30",
+      7
+    ],
+    [
+      "2012-07-07",
+      8
+    ],
+    [
+      "2012-07-14",
+      8
+    ],
+    [
+      "2012-07-21",
+      9
+    ],
+    [
+      "2012-07-28",
+      12
+    ],
+    [
+      "2012-08-04",
+      15
+    ],
+    [
+      "2012-08-11",
+      20
+    ],
+    [
+      "2012-08-18",
+      22
+    ],
+    [
+      "2012-08-25",
+      28
+    ],
+    [
+      "2012-09-01",
+      31
+    ],
+    [
+      "2012-09-08",
+      32
+    ],
+    [
+      "2012-09-15",
+      34
+    ],
+    [
+      "2012-09-22",
+      34
+    ],
+    [
+      "2012-09-29",
+      48
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

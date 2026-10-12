@@ -1,0 +1,137 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Dolly Parton"
+  ],
+  "title_as_charted": [
+    "9 To 5"
+  ],
+  "debut_week": "1980-11-29",
+  "debut_position": 73,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1981-02-21",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 28,
+  "last_week": "2026-09-12",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1980-11-29",
+      73
+    ],
+    [
+      "1980-12-06",
+      60
+    ],
+    [
+      "1980-12-13",
+      45
+    ],
+    [
+      "1980-12-20",
+      39
+    ],
+    [
+      "1980-12-27",
+      33
+    ],
+    [
+      "1981-01-03",
+      33
+    ],
+    [
+      "1981-01-10",
+      26
+    ],
+    [
+      "1981-01-17",
+      22
+    ],
+    [
+      "1981-01-24",
+      18
+    ],
+    [
+      "1981-01-31",
+      8
+    ],
+    [
+      "1981-02-07",
+      4
+    ],
+    [
+      "1981-02-14",
+      2
+    ],
+    [
+      "1981-02-21",
+      1
+    ],
+    [
+      "1981-02-28",
+      2
+    ],
+    [
+      "1981-03-07",
+      2
+    ],
+    [
+      "1981-03-14",
+      1
+    ],
+    [
+      "1981-03-21",
+      4
+    ],
+    [
+      "1981-03-28",
+      7
+    ],
+    [
+      "1981-04-04",
+      16
+    ],
+    [
+      "1981-04-11",
+      16
+    ],
+    [
+      "1981-04-18",
+      17
+    ],
+    [
+      "1981-04-25",
+      41
+    ],
+    [
+      "1981-05-02",
+      51
+    ],
+    [
+      "1981-05-09",
+      61
+    ],
+    [
+      "1981-05-16",
+      91
+    ],
+    [
+      "1981-05-23",
+      100
+    ],
+    [
+      "2026-09-05",
+      18
+    ],
+    [
+      "2026-09-12",
+      19
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

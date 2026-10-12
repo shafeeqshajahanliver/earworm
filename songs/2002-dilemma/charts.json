@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Nelly Featuring Kelly Rowland"
+  ],
+  "title_as_charted": [
+    "Dilemma"
+  ],
+  "debut_week": "2002-07-13",
+  "debut_position": 54,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "2002-08-17",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 29,
+  "last_week": "2003-01-25",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "2002-07-13",
+      54
+    ],
+    [
+      "2002-07-20",
+      26
+    ],
+    [
+      "2002-07-27",
+      8
+    ],
+    [
+      "2002-08-03",
+      3
+    ],
+    [
+      "2002-08-10",
+      2
+    ],
+    [
+      "2002-08-17",
+      1
+    ],
+    [
+      "2002-08-24",
+      1
+    ],
+    [
+      "2002-08-31",
+      1
+    ],
+    [
+      "2002-09-07",
+      1
+    ],
+    [
+      "2002-09-14",
+      1
+    ],
+    [
+      "2002-09-21",
+      1
+    ],
+    [
+      "2002-09-28",
+      1
+    ],
+    [
+      "2002-10-05",
+      2
+    ],
+    [
+      "2002-10-12",
+      2
+    ],
+    [
+      "2002-10-19",
+      1
+    ],
+    [
+      "2002-10-26",
+      1
+    ],
+    [
+      "2002-11-02",
+      1
+    ],
+    [
+      "2002-11-09",
+      2
+    ],
+    [
+      "2002-11-16",
+      3
+    ],
+    [
+      "2002-11-23",
+      6
+    ],
+    [
+      "2002-11-30",
+      9
+    ],
+    [
+      "2002-12-07",
+      11
+    ],
+    [
+      "2002-12-14",
+      17
+    ],
+    [
+      "2002-12-21",
+      18
+    ],
+    [
+      "2002-12-28",
+      26
+    ],
+    [
+      "2003-01-04",
+      37
+    ],
+    [
+      "2003-01-11",
+      30
+    ],
+    [
+      "2003-01-18",
+      33
+    ],
+    [
+      "2003-01-25",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

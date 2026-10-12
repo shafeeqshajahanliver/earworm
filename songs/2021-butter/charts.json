@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "BTS"
+  ],
+  "title_as_charted": [
+    "Butter"
+  ],
+  "debut_week": "2021-06-05",
+  "debut_position": 1,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "2021-06-05",
+  "weeks_to_peak": 0,
+  "weeks_on_chart": 20,
+  "last_week": "2021-10-16",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "2021-06-05",
+      1
+    ],
+    [
+      "2021-06-12",
+      1
+    ],
+    [
+      "2021-06-19",
+      1
+    ],
+    [
+      "2021-06-26",
+      1
+    ],
+    [
+      "2021-07-03",
+      1
+    ],
+    [
+      "2021-07-10",
+      1
+    ],
+    [
+      "2021-07-17",
+      1
+    ],
+    [
+      "2021-07-24",
+      7
+    ],
+    [
+      "2021-07-31",
+      1
+    ],
+    [
+      "2021-08-07",
+      1
+    ],
+    [
+      "2021-08-14",
+      4
+    ],
+    [
+      "2021-08-21",
+      7
+    ],
+    [
+      "2021-08-28",
+      8
+    ],
+    [
+      "2021-09-04",
+      7
+    ],
+    [
+      "2021-09-11",
+      1
+    ],
+    [
+      "2021-09-18",
+      17
+    ],
+    [
+      "2021-09-25",
+      14
+    ],
+    [
+      "2021-10-02",
+      24
+    ],
+    [
+      "2021-10-09",
+      36
+    ],
+    [
+      "2021-10-16",
+      58
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

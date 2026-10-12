@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bette Midler"
+  ],
+  "title_as_charted": [
+    "Wind Beneath My Wings (From \"Beaches\")"
+  ],
+  "debut_week": "1989-03-04",
+  "debut_position": 97,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1989-06-10",
+  "weeks_to_peak": 14,
+  "weeks_on_chart": 29,
+  "last_week": "1989-09-16",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1989-03-04",
+      97
+    ],
+    [
+      "1989-03-11",
+      87
+    ],
+    [
+      "1989-03-18",
+      72
+    ],
+    [
+      "1989-03-25",
+      63
+    ],
+    [
+      "1989-04-01",
+      55
+    ],
+    [
+      "1989-04-08",
+      47
+    ],
+    [
+      "1989-04-15",
+      35
+    ],
+    [
+      "1989-04-22",
+      27
+    ],
+    [
+      "1989-04-29",
+      20
+    ],
+    [
+      "1989-05-06",
+      19
+    ],
+    [
+      "1989-05-13",
+      10
+    ],
+    [
+      "1989-05-20",
+      7
+    ],
+    [
+      "1989-05-27",
+      6
+    ],
+    [
+      "1989-06-03",
+      3
+    ],
+    [
+      "1989-06-10",
+      1
+    ],
+    [
+      "1989-06-17",
+      2
+    ],
+    [
+      "1989-06-24",
+      6
+    ],
+    [
+      "1989-07-01",
+      15
+    ],
+    [
+      "1989-07-08",
+      24
+    ],
+    [
+      "1989-07-15",
+      25
+    ],
+    [
+      "1989-07-22",
+      36
+    ],
+    [
+      "1989-07-29",
+      42
+    ],
+    [
+      "1989-08-05",
+      46
+    ],
+    [
+      "1989-08-12",
+      56
+    ],
+    [
+      "1989-08-19",
+      63
+    ],
+    [
+      "1989-08-26",
+      68
+    ],
+    [
+      "1989-09-02",
+      80
+    ],
+    [
+      "1989-09-09",
+      86
+    ],
+    [
+      "1989-09-16",
+      93
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

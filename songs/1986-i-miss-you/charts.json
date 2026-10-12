@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Klymaxx"
+  ],
+  "title_as_charted": [
+    "I Miss You"
+  ],
+  "debut_week": "1985-09-14",
+  "debut_position": 86,
+  "peak_position": 5,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1985-12-28",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 29,
+  "last_week": "1986-03-29",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1985-09-14",
+      86
+    ],
+    [
+      "1985-09-21",
+      74
+    ],
+    [
+      "1985-09-28",
+      61
+    ],
+    [
+      "1985-10-05",
+      56
+    ],
+    [
+      "1985-10-12",
+      49
+    ],
+    [
+      "1985-10-19",
+      46
+    ],
+    [
+      "1985-10-26",
+      40
+    ],
+    [
+      "1985-11-02",
+      36
+    ],
+    [
+      "1985-11-09",
+      31
+    ],
+    [
+      "1985-11-16",
+      23
+    ],
+    [
+      "1985-11-23",
+      19
+    ],
+    [
+      "1985-11-30",
+      16
+    ],
+    [
+      "1985-12-07",
+      13
+    ],
+    [
+      "1985-12-14",
+      9
+    ],
+    [
+      "1985-12-21",
+      7
+    ],
+    [
+      "1985-12-28",
+      5
+    ],
+    [
+      "1986-01-04",
+      5
+    ],
+    [
+      "1986-01-11",
+      5
+    ],
+    [
+      "1986-01-18",
+      5
+    ],
+    [
+      "1986-01-25",
+      8
+    ],
+    [
+      "1986-02-01",
+      14
+    ],
+    [
+      "1986-02-08",
+      22
+    ],
+    [
+      "1986-02-15",
+      31
+    ],
+    [
+      "1986-02-22",
+      42
+    ],
+    [
+      "1986-03-01",
+      50
+    ],
+    [
+      "1986-03-08",
+      63
+    ],
+    [
+      "1986-03-15",
+      68
+    ],
+    [
+      "1986-03-22",
+      75
+    ],
+    [
+      "1986-03-29",
+      98
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,109 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Kris Kross"
+  ],
+  "title_as_charted": [
+    "Jump"
+  ],
+  "debut_week": "1992-04-04",
+  "debut_position": 61,
+  "peak_position": 1,
+  "weeks_at_peak": 8,
+  "first_week_at_peak": "1992-04-25",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 21,
+  "last_week": "1992-08-22",
+  "weeks_at_number_one": 8,
+  "run": [
+    [
+      "1992-04-04",
+      61
+    ],
+    [
+      "1992-04-11",
+      12
+    ],
+    [
+      "1992-04-18",
+      3
+    ],
+    [
+      "1992-04-25",
+      1
+    ],
+    [
+      "1992-05-02",
+      1
+    ],
+    [
+      "1992-05-09",
+      1
+    ],
+    [
+      "1992-05-16",
+      1
+    ],
+    [
+      "1992-05-23",
+      1
+    ],
+    [
+      "1992-05-30",
+      1
+    ],
+    [
+      "1992-06-06",
+      1
+    ],
+    [
+      "1992-06-13",
+      1
+    ],
+    [
+      "1992-06-20",
+      3
+    ],
+    [
+      "1992-06-27",
+      4
+    ],
+    [
+      "1992-07-04",
+      4
+    ],
+    [
+      "1992-07-11",
+      7
+    ],
+    [
+      "1992-07-18",
+      15
+    ],
+    [
+      "1992-07-25",
+      22
+    ],
+    [
+      "1992-08-01",
+      29
+    ],
+    [
+      "1992-08-08",
+      36
+    ],
+    [
+      "1992-08-15",
+      42
+    ],
+    [
+      "1992-08-22",
+      46
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

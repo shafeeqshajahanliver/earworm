@@ -1,0 +1,125 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Surface"
+  ],
+  "title_as_charted": [
+    "The First Time"
+  ],
+  "debut_week": "1990-11-03",
+  "debut_position": 82,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1991-01-26",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 25,
+  "last_week": "1991-04-20",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1990-11-03",
+      82
+    ],
+    [
+      "1990-11-10",
+      63
+    ],
+    [
+      "1990-11-17",
+      49
+    ],
+    [
+      "1990-11-24",
+      40
+    ],
+    [
+      "1990-12-01",
+      33
+    ],
+    [
+      "1990-12-08",
+      27
+    ],
+    [
+      "1990-12-15",
+      19
+    ],
+    [
+      "1990-12-22",
+      16
+    ],
+    [
+      "1990-12-29",
+      16
+    ],
+    [
+      "1991-01-05",
+      9
+    ],
+    [
+      "1991-01-12",
+      7
+    ],
+    [
+      "1991-01-19",
+      4
+    ],
+    [
+      "1991-01-26",
+      1
+    ],
+    [
+      "1991-02-02",
+      1
+    ],
+    [
+      "1991-02-09",
+      2
+    ],
+    [
+      "1991-02-16",
+      4
+    ],
+    [
+      "1991-02-23",
+      6
+    ],
+    [
+      "1991-03-02",
+      11
+    ],
+    [
+      "1991-03-09",
+      22
+    ],
+    [
+      "1991-03-16",
+      28
+    ],
+    [
+      "1991-03-23",
+      39
+    ],
+    [
+      "1991-03-30",
+      53
+    ],
+    [
+      "1991-04-06",
+      64
+    ],
+    [
+      "1991-04-13",
+      88
+    ],
+    [
+      "1991-04-20",
+      100
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

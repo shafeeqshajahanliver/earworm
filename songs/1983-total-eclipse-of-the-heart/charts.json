@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bonnie Tyler"
+  ],
+  "title_as_charted": [
+    "Total Eclipse Of The Heart"
+  ],
+  "debut_week": "1983-07-16",
+  "debut_position": 75,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1983-10-01",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 29,
+  "last_week": "1984-01-28",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1983-07-16",
+      75
+    ],
+    [
+      "1983-07-23",
+      66
+    ],
+    [
+      "1983-07-30",
+      58
+    ],
+    [
+      "1983-08-06",
+      47
+    ],
+    [
+      "1983-08-13",
+      40
+    ],
+    [
+      "1983-08-20",
+      30
+    ],
+    [
+      "1983-08-27",
+      20
+    ],
+    [
+      "1983-09-03",
+      15
+    ],
+    [
+      "1983-09-10",
+      8
+    ],
+    [
+      "1983-09-17",
+      4
+    ],
+    [
+      "1983-09-24",
+      2
+    ],
+    [
+      "1983-10-01",
+      1
+    ],
+    [
+      "1983-10-08",
+      1
+    ],
+    [
+      "1983-10-15",
+      1
+    ],
+    [
+      "1983-10-22",
+      1
+    ],
+    [
+      "1983-10-29",
+      2
+    ],
+    [
+      "1983-11-05",
+      3
+    ],
+    [
+      "1983-11-12",
+      5
+    ],
+    [
+      "1983-11-19",
+      6
+    ],
+    [
+      "1983-11-26",
+      12
+    ],
+    [
+      "1983-12-03",
+      21
+    ],
+    [
+      "1983-12-10",
+      25
+    ],
+    [
+      "1983-12-17",
+      42
+    ],
+    [
+      "1983-12-24",
+      68
+    ],
+    [
+      "1983-12-31",
+      68
+    ],
+    [
+      "1984-01-07",
+      73
+    ],
+    [
+      "1984-01-14",
+      80
+    ],
+    [
+      "1984-01-21",
+      87
+    ],
+    [
+      "1984-01-28",
+      96
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

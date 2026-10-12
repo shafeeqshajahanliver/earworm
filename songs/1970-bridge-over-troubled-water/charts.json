@@ -1,0 +1,81 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Simon & Garfunkel"
+  ],
+  "title_as_charted": [
+    "Bridge Over Troubled Water"
+  ],
+  "debut_week": "1970-02-07",
+  "debut_position": 49,
+  "peak_position": 1,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "1970-02-28",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 14,
+  "last_week": "1970-05-09",
+  "weeks_at_number_one": 6,
+  "run": [
+    [
+      "1970-02-07",
+      49
+    ],
+    [
+      "1970-02-14",
+      13
+    ],
+    [
+      "1970-02-21",
+      3
+    ],
+    [
+      "1970-02-28",
+      1
+    ],
+    [
+      "1970-03-07",
+      1
+    ],
+    [
+      "1970-03-14",
+      1
+    ],
+    [
+      "1970-03-21",
+      1
+    ],
+    [
+      "1970-03-28",
+      1
+    ],
+    [
+      "1970-04-04",
+      1
+    ],
+    [
+      "1970-04-11",
+      5
+    ],
+    [
+      "1970-04-18",
+      6
+    ],
+    [
+      "1970-04-25",
+      9
+    ],
+    [
+      "1970-05-02",
+      14
+    ],
+    [
+      "1970-05-09",
+      21
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

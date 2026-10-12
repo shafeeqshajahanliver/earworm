@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Neil Sedaka"
+  ],
+  "title_as_charted": [
+    "Laughter In The Rain"
+  ],
+  "debut_week": "1974-10-19",
+  "debut_position": 95,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1975-02-01",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 20,
+  "last_week": "1975-03-01",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1974-10-19",
+      95
+    ],
+    [
+      "1974-10-26",
+      78
+    ],
+    [
+      "1974-11-02",
+      65
+    ],
+    [
+      "1974-11-09",
+      50
+    ],
+    [
+      "1974-11-16",
+      39
+    ],
+    [
+      "1974-11-23",
+      32
+    ],
+    [
+      "1974-11-30",
+      24
+    ],
+    [
+      "1974-12-07",
+      20
+    ],
+    [
+      "1974-12-14",
+      16
+    ],
+    [
+      "1974-12-21",
+      12
+    ],
+    [
+      "1974-12-28",
+      8
+    ],
+    [
+      "1975-01-04",
+      5
+    ],
+    [
+      "1975-01-11",
+      4
+    ],
+    [
+      "1975-01-18",
+      3
+    ],
+    [
+      "1975-01-25",
+      2
+    ],
+    [
+      "1975-02-01",
+      1
+    ],
+    [
+      "1975-02-08",
+      8
+    ],
+    [
+      "1975-02-15",
+      16
+    ],
+    [
+      "1975-02-22",
+      33
+    ],
+    [
+      "1975-03-01",
+      61
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

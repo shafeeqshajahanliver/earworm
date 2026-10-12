@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Nelly Furtado"
+  ],
+  "title_as_charted": [
+    "Say It Right"
+  ],
+  "debut_week": "2006-11-25",
+  "debut_position": 93,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "2007-02-24",
+  "weeks_to_peak": 13,
+  "weeks_on_chart": 30,
+  "last_week": "2007-06-16",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "2006-11-25",
+      93
+    ],
+    [
+      "2006-12-02",
+      66
+    ],
+    [
+      "2006-12-09",
+      25
+    ],
+    [
+      "2006-12-16",
+      12
+    ],
+    [
+      "2006-12-23",
+      6
+    ],
+    [
+      "2006-12-30",
+      6
+    ],
+    [
+      "2007-01-06",
+      6
+    ],
+    [
+      "2007-01-13",
+      10
+    ],
+    [
+      "2007-01-20",
+      5
+    ],
+    [
+      "2007-01-27",
+      4
+    ],
+    [
+      "2007-02-03",
+      3
+    ],
+    [
+      "2007-02-10",
+      3
+    ],
+    [
+      "2007-02-17",
+      2
+    ],
+    [
+      "2007-02-24",
+      1
+    ],
+    [
+      "2007-03-03",
+      3
+    ],
+    [
+      "2007-03-10",
+      6
+    ],
+    [
+      "2007-03-17",
+      10
+    ],
+    [
+      "2007-03-24",
+      10
+    ],
+    [
+      "2007-03-31",
+      11
+    ],
+    [
+      "2007-04-07",
+      11
+    ],
+    [
+      "2007-04-14",
+      12
+    ],
+    [
+      "2007-04-21",
+      16
+    ],
+    [
+      "2007-04-28",
+      17
+    ],
+    [
+      "2007-05-05",
+      22
+    ],
+    [
+      "2007-05-12",
+      30
+    ],
+    [
+      "2007-05-19",
+      33
+    ],
+    [
+      "2007-05-26",
+      35
+    ],
+    [
+      "2007-06-02",
+      39
+    ],
+    [
+      "2007-06-09",
+      44
+    ],
+    [
+      "2007-06-16",
+      42
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

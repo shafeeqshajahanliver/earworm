@@ -1,0 +1,161 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Rihanna Featuring Jay-Z"
+  ],
+  "title_as_charted": [
+    "Umbrella"
+  ],
+  "debut_week": "2007-04-28",
+  "debut_position": 91,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "2007-06-09",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 34,
+  "last_week": "2023-02-25",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "2007-04-28",
+      91
+    ],
+    [
+      "2007-05-05",
+      72
+    ],
+    [
+      "2007-05-12",
+      63
+    ],
+    [
+      "2007-05-19",
+      52
+    ],
+    [
+      "2007-05-26",
+      44
+    ],
+    [
+      "2007-06-02",
+      41
+    ],
+    [
+      "2007-06-09",
+      1
+    ],
+    [
+      "2007-06-16",
+      1
+    ],
+    [
+      "2007-06-23",
+      1
+    ],
+    [
+      "2007-06-30",
+      1
+    ],
+    [
+      "2007-07-07",
+      1
+    ],
+    [
+      "2007-07-14",
+      1
+    ],
+    [
+      "2007-07-21",
+      1
+    ],
+    [
+      "2007-07-28",
+      2
+    ],
+    [
+      "2007-08-04",
+      3
+    ],
+    [
+      "2007-08-11",
+      4
+    ],
+    [
+      "2007-08-18",
+      5
+    ],
+    [
+      "2007-08-25",
+      5
+    ],
+    [
+      "2007-09-01",
+      8
+    ],
+    [
+      "2007-09-08",
+      10
+    ],
+    [
+      "2007-09-15",
+      13
+    ],
+    [
+      "2007-09-22",
+      17
+    ],
+    [
+      "2007-09-29",
+      17
+    ],
+    [
+      "2007-10-06",
+      21
+    ],
+    [
+      "2007-10-13",
+      23
+    ],
+    [
+      "2007-10-20",
+      26
+    ],
+    [
+      "2007-10-27",
+      30
+    ],
+    [
+      "2007-11-03",
+      32
+    ],
+    [
+      "2007-11-10",
+      35
+    ],
+    [
+      "2007-11-17",
+      41
+    ],
+    [
+      "2007-11-24",
+      46
+    ],
+    [
+      "2007-12-01",
+      50
+    ],
+    [
+      "2007-12-08",
+      44
+    ],
+    [
+      "2023-02-25",
+      37
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,137 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Fat Joe Featuring Ashanti"
+  ],
+  "title_as_charted": [
+    "What's Luv?"
+  ],
+  "debut_week": "2002-02-16",
+  "debut_position": 68,
+  "peak_position": 2,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "2002-04-06",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 28,
+  "last_week": "2002-08-24",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2002-02-16",
+      68
+    ],
+    [
+      "2002-02-23",
+      36
+    ],
+    [
+      "2002-03-02",
+      23
+    ],
+    [
+      "2002-03-09",
+      15
+    ],
+    [
+      "2002-03-16",
+      12
+    ],
+    [
+      "2002-03-23",
+      8
+    ],
+    [
+      "2002-03-30",
+      5
+    ],
+    [
+      "2002-04-06",
+      2
+    ],
+    [
+      "2002-04-13",
+      2
+    ],
+    [
+      "2002-04-20",
+      2
+    ],
+    [
+      "2002-04-27",
+      2
+    ],
+    [
+      "2002-05-04",
+      2
+    ],
+    [
+      "2002-05-11",
+      2
+    ],
+    [
+      "2002-05-18",
+      2
+    ],
+    [
+      "2002-05-25",
+      3
+    ],
+    [
+      "2002-06-01",
+      3
+    ],
+    [
+      "2002-06-08",
+      3
+    ],
+    [
+      "2002-06-15",
+      5
+    ],
+    [
+      "2002-06-22",
+      7
+    ],
+    [
+      "2002-06-29",
+      11
+    ],
+    [
+      "2002-07-06",
+      15
+    ],
+    [
+      "2002-07-13",
+      15
+    ],
+    [
+      "2002-07-20",
+      19
+    ],
+    [
+      "2002-07-27",
+      24
+    ],
+    [
+      "2002-08-03",
+      27
+    ],
+    [
+      "2002-08-10",
+      31
+    ],
+    [
+      "2002-08-17",
+      43
+    ],
+    [
+      "2002-08-24",
+      46
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

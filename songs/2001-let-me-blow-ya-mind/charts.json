@@ -1,0 +1,157 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Eve Featuring Gwen Stefani"
+  ],
+  "title_as_charted": [
+    "Let Me Blow Ya Mind"
+  ],
+  "debut_week": "2001-04-28",
+  "debut_position": 80,
+  "peak_position": 2,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "2001-08-18",
+  "weeks_to_peak": 16,
+  "weeks_on_chart": 33,
+  "last_week": "2001-12-08",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2001-04-28",
+      80
+    ],
+    [
+      "2001-05-05",
+      54
+    ],
+    [
+      "2001-05-12",
+      42
+    ],
+    [
+      "2001-05-19",
+      27
+    ],
+    [
+      "2001-05-26",
+      20
+    ],
+    [
+      "2001-06-02",
+      14
+    ],
+    [
+      "2001-06-09",
+      14
+    ],
+    [
+      "2001-06-16",
+      14
+    ],
+    [
+      "2001-06-23",
+      12
+    ],
+    [
+      "2001-06-30",
+      9
+    ],
+    [
+      "2001-07-07",
+      5
+    ],
+    [
+      "2001-07-14",
+      4
+    ],
+    [
+      "2001-07-21",
+      3
+    ],
+    [
+      "2001-07-28",
+      4
+    ],
+    [
+      "2001-08-04",
+      6
+    ],
+    [
+      "2001-08-11",
+      3
+    ],
+    [
+      "2001-08-18",
+      2
+    ],
+    [
+      "2001-08-25",
+      3
+    ],
+    [
+      "2001-09-01",
+      5
+    ],
+    [
+      "2001-09-08",
+      5
+    ],
+    [
+      "2001-09-15",
+      7
+    ],
+    [
+      "2001-09-22",
+      8
+    ],
+    [
+      "2001-09-29",
+      9
+    ],
+    [
+      "2001-10-06",
+      8
+    ],
+    [
+      "2001-10-13",
+      8
+    ],
+    [
+      "2001-10-20",
+      10
+    ],
+    [
+      "2001-10-27",
+      15
+    ],
+    [
+      "2001-11-03",
+      26
+    ],
+    [
+      "2001-11-10",
+      28
+    ],
+    [
+      "2001-11-17",
+      31
+    ],
+    [
+      "2001-11-24",
+      36
+    ],
+    [
+      "2001-12-01",
+      44
+    ],
+    [
+      "2001-12-08",
+      44
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

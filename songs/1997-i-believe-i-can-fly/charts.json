@@ -1,0 +1,161 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "R. Kelly"
+  ],
+  "title_as_charted": [
+    "I Believe I Can Fly (From \"Space Jam\")"
+  ],
+  "debut_week": "1996-12-14",
+  "debut_position": 26,
+  "peak_position": 2,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1996-12-21",
+  "weeks_to_peak": 1,
+  "weeks_on_chart": 34,
+  "last_week": "1997-08-02",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1996-12-14",
+      26
+    ],
+    [
+      "1996-12-21",
+      2
+    ],
+    [
+      "1996-12-28",
+      2
+    ],
+    [
+      "1997-01-04",
+      2
+    ],
+    [
+      "1997-01-11",
+      2
+    ],
+    [
+      "1997-01-18",
+      3
+    ],
+    [
+      "1997-01-25",
+      3
+    ],
+    [
+      "1997-02-01",
+      3
+    ],
+    [
+      "1997-02-08",
+      3
+    ],
+    [
+      "1997-02-15",
+      4
+    ],
+    [
+      "1997-02-22",
+      4
+    ],
+    [
+      "1997-03-01",
+      4
+    ],
+    [
+      "1997-03-08",
+      5
+    ],
+    [
+      "1997-03-15",
+      6
+    ],
+    [
+      "1997-03-22",
+      7
+    ],
+    [
+      "1997-03-29",
+      10
+    ],
+    [
+      "1997-04-05",
+      10
+    ],
+    [
+      "1997-04-12",
+      11
+    ],
+    [
+      "1997-04-19",
+      13
+    ],
+    [
+      "1997-04-26",
+      17
+    ],
+    [
+      "1997-05-03",
+      21
+    ],
+    [
+      "1997-05-10",
+      24
+    ],
+    [
+      "1997-05-17",
+      25
+    ],
+    [
+      "1997-05-24",
+      28
+    ],
+    [
+      "1997-05-31",
+      26
+    ],
+    [
+      "1997-06-07",
+      27
+    ],
+    [
+      "1997-06-14",
+      27
+    ],
+    [
+      "1997-06-21",
+      31
+    ],
+    [
+      "1997-06-28",
+      31
+    ],
+    [
+      "1997-07-05",
+      36
+    ],
+    [
+      "1997-07-12",
+      35
+    ],
+    [
+      "1997-07-19",
+      43
+    ],
+    [
+      "1997-07-26",
+      43
+    ],
+    [
+      "1997-08-02",
+      46
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

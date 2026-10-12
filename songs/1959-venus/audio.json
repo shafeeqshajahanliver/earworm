@@ -1,0 +1,80 @@
+{
+  "id": "1959-venus",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3785447102,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "QZPL52104858",
+    "title": "Venus",
+    "artist": "Frankie Avalon",
+    "album": "A Whole Lotta Frankie",
+    "track_duration_s": 137,
+    "link": "https://www.deezer.com/track/3785447102",
+    "duration_matched_to": "wikipedia infobox length (140s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 116.8,
+    "tempo_bpm_grid": 116.1,
+    "tempo_candidates_bpm": [
+      234.9,
+      117.5,
+      78.3
+    ],
+    "beats_detected": 58,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.682,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.584,
+    "chroma_profile": [
+      0.992,
+      0.63,
+      0.651,
+      0.67,
+      0.591,
+      1.0,
+      0.906,
+      0.829,
+      0.7,
+      0.749,
+      0.991,
+      0.614
+    ],
+    "rms_dbfs": -15.98,
+    "rms_dbfs_p95_frame": -12.93,
+    "peak_dbfs": -4.14,
+    "loudness_lufs_approx": -16.32,
+    "spectral_centroid_hz_mean": 1629.8,
+    "spectral_centroid_hz_median": 1598.9,
+    "onsets": 85,
+    "onset_density_per_s": 2.834,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3785447102",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3785447102",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc DEU241001119: matched but no preview available (readable=False)",
+    "deezer isrc ITCF41404545: matched but no preview available (readable=False)",
+    "deezer isrc US2430629871: matched but no preview available (readable=False)",
+    "deezer 6645948: duration 154s matches no reference length",
+    "deezer 62646644: version (Venus (Disco))",
+    "deezer 62646636: version (Venus)",
+    "deezer 3116792041: version (Venus (Live))",
+    "deezer 1719204067: version (Venus (Rerecorded))"
+  ]
+}

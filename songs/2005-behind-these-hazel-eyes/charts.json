@@ -1,0 +1,161 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Kelly Clarkson"
+  ],
+  "title_as_charted": [
+    "Behind These Hazel Eyes"
+  ],
+  "debut_week": "2005-04-23",
+  "debut_position": 87,
+  "peak_position": 6,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "2005-06-11",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 34,
+  "last_week": "2005-12-10",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2005-04-23",
+      87
+    ],
+    [
+      "2005-04-30",
+      65
+    ],
+    [
+      "2005-05-07",
+      46
+    ],
+    [
+      "2005-05-14",
+      38
+    ],
+    [
+      "2005-05-21",
+      24
+    ],
+    [
+      "2005-05-28",
+      18
+    ],
+    [
+      "2005-06-04",
+      8
+    ],
+    [
+      "2005-06-11",
+      6
+    ],
+    [
+      "2005-06-18",
+      6
+    ],
+    [
+      "2005-06-25",
+      6
+    ],
+    [
+      "2005-07-02",
+      6
+    ],
+    [
+      "2005-07-09",
+      7
+    ],
+    [
+      "2005-07-16",
+      8
+    ],
+    [
+      "2005-07-23",
+      7
+    ],
+    [
+      "2005-07-30",
+      7
+    ],
+    [
+      "2005-08-06",
+      7
+    ],
+    [
+      "2005-08-13",
+      7
+    ],
+    [
+      "2005-08-20",
+      7
+    ],
+    [
+      "2005-08-27",
+      7
+    ],
+    [
+      "2005-09-03",
+      8
+    ],
+    [
+      "2005-09-10",
+      9
+    ],
+    [
+      "2005-09-17",
+      13
+    ],
+    [
+      "2005-09-24",
+      17
+    ],
+    [
+      "2005-10-01",
+      16
+    ],
+    [
+      "2005-10-08",
+      20
+    ],
+    [
+      "2005-10-15",
+      23
+    ],
+    [
+      "2005-10-22",
+      20
+    ],
+    [
+      "2005-10-29",
+      22
+    ],
+    [
+      "2005-11-05",
+      26
+    ],
+    [
+      "2005-11-12",
+      31
+    ],
+    [
+      "2005-11-19",
+      34
+    ],
+    [
+      "2005-11-26",
+      38
+    ],
+    [
+      "2005-12-03",
+      40
+    ],
+    [
+      "2005-12-10",
+      42
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

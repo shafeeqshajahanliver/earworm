@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Frankie Valli"
+  ],
+  "title_as_charted": [
+    "My Eyes Adored You"
+  ],
+  "debut_week": "1974-11-23",
+  "debut_position": 94,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1975-03-22",
+  "weeks_to_peak": 17,
+  "weeks_on_chart": 23,
+  "last_week": "1975-04-26",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1974-11-23",
+      94
+    ],
+    [
+      "1974-11-30",
+      90
+    ],
+    [
+      "1974-12-07",
+      79
+    ],
+    [
+      "1974-12-14",
+      68
+    ],
+    [
+      "1974-12-21",
+      65
+    ],
+    [
+      "1974-12-28",
+      55
+    ],
+    [
+      "1975-01-04",
+      52
+    ],
+    [
+      "1975-01-11",
+      48
+    ],
+    [
+      "1975-01-18",
+      40
+    ],
+    [
+      "1975-01-25",
+      32
+    ],
+    [
+      "1975-02-01",
+      28
+    ],
+    [
+      "1975-02-08",
+      12
+    ],
+    [
+      "1975-02-15",
+      9
+    ],
+    [
+      "1975-02-22",
+      7
+    ],
+    [
+      "1975-03-01",
+      4
+    ],
+    [
+      "1975-03-08",
+      3
+    ],
+    [
+      "1975-03-15",
+      2
+    ],
+    [
+      "1975-03-22",
+      1
+    ],
+    [
+      "1975-03-29",
+      8
+    ],
+    [
+      "1975-04-05",
+      10
+    ],
+    [
+      "1975-04-12",
+      27
+    ],
+    [
+      "1975-04-19",
+      36
+    ],
+    [
+      "1975-04-26",
+      72
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

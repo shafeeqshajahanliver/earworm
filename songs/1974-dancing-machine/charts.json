@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Jackson 5"
+  ],
+  "title_as_charted": [
+    "Dancing Machine"
+  ],
+  "debut_week": "1974-03-16",
+  "debut_position": 79,
+  "peak_position": 2,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1974-05-18",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 22,
+  "last_week": "1974-08-10",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1974-03-16",
+      79
+    ],
+    [
+      "1974-03-23",
+      58
+    ],
+    [
+      "1974-03-30",
+      40
+    ],
+    [
+      "1974-04-06",
+      31
+    ],
+    [
+      "1974-04-13",
+      19
+    ],
+    [
+      "1974-04-20",
+      13
+    ],
+    [
+      "1974-04-27",
+      8
+    ],
+    [
+      "1974-05-04",
+      5
+    ],
+    [
+      "1974-05-11",
+      3
+    ],
+    [
+      "1974-05-18",
+      2
+    ],
+    [
+      "1974-05-25",
+      2
+    ],
+    [
+      "1974-06-01",
+      3
+    ],
+    [
+      "1974-06-08",
+      4
+    ],
+    [
+      "1974-06-15",
+      6
+    ],
+    [
+      "1974-06-22",
+      8
+    ],
+    [
+      "1974-06-29",
+      16
+    ],
+    [
+      "1974-07-06",
+      19
+    ],
+    [
+      "1974-07-13",
+      33
+    ],
+    [
+      "1974-07-20",
+      47
+    ],
+    [
+      "1974-07-27",
+      49
+    ],
+    [
+      "1974-08-03",
+      59
+    ],
+    [
+      "1974-08-10",
+      69
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

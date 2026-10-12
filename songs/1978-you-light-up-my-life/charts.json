@@ -1,0 +1,125 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Debby Boone"
+  ],
+  "title_as_charted": [
+    "You Light Up My Life"
+  ],
+  "debut_week": "1977-09-03",
+  "debut_position": 71,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "1977-10-15",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 25,
+  "last_week": "1978-02-18",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "1977-09-03",
+      71
+    ],
+    [
+      "1977-09-10",
+      58
+    ],
+    [
+      "1977-09-17",
+      35
+    ],
+    [
+      "1977-09-24",
+      21
+    ],
+    [
+      "1977-10-01",
+      15
+    ],
+    [
+      "1977-10-08",
+      3
+    ],
+    [
+      "1977-10-15",
+      1
+    ],
+    [
+      "1977-10-22",
+      1
+    ],
+    [
+      "1977-10-29",
+      1
+    ],
+    [
+      "1977-11-05",
+      1
+    ],
+    [
+      "1977-11-12",
+      1
+    ],
+    [
+      "1977-11-19",
+      1
+    ],
+    [
+      "1977-11-26",
+      1
+    ],
+    [
+      "1977-12-03",
+      1
+    ],
+    [
+      "1977-12-10",
+      1
+    ],
+    [
+      "1977-12-17",
+      1
+    ],
+    [
+      "1977-12-24",
+      2
+    ],
+    [
+      "1977-12-31",
+      2
+    ],
+    [
+      "1978-01-07",
+      6
+    ],
+    [
+      "1978-01-14",
+      11
+    ],
+    [
+      "1978-01-21",
+      22
+    ],
+    [
+      "1978-01-28",
+      22
+    ],
+    [
+      "1978-02-04",
+      32
+    ],
+    [
+      "1978-02-11",
+      56
+    ],
+    [
+      "1978-02-18",
+      96
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

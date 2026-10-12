@@ -1,0 +1,93 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Carpenters"
+  ],
+  "title_as_charted": [
+    "(They Long To Be) Close To You"
+  ],
+  "debut_week": "1970-06-20",
+  "debut_position": 56,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1970-07-25",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 17,
+  "last_week": "1970-10-10",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1970-06-20",
+      56
+    ],
+    [
+      "1970-06-27",
+      37
+    ],
+    [
+      "1970-07-04",
+      14
+    ],
+    [
+      "1970-07-11",
+      7
+    ],
+    [
+      "1970-07-18",
+      3
+    ],
+    [
+      "1970-07-25",
+      1
+    ],
+    [
+      "1970-08-01",
+      1
+    ],
+    [
+      "1970-08-08",
+      1
+    ],
+    [
+      "1970-08-15",
+      1
+    ],
+    [
+      "1970-08-22",
+      2
+    ],
+    [
+      "1970-08-29",
+      3
+    ],
+    [
+      "1970-09-05",
+      5
+    ],
+    [
+      "1970-09-12",
+      8
+    ],
+    [
+      "1970-09-19",
+      8
+    ],
+    [
+      "1970-09-26",
+      17
+    ],
+    [
+      "1970-10-03",
+      31
+    ],
+    [
+      "1970-10-10",
+      57
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

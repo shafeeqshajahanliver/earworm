@@ -1,0 +1,165 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bruno Mars"
+  ],
+  "title_as_charted": [
+    "When I Was Your Man"
+  ],
+  "debut_week": "2012-12-22",
+  "debut_position": 69,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "2013-04-20",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 35,
+  "last_week": "2013-08-31",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "2012-12-22",
+      69
+    ],
+    [
+      "2013-01-05",
+      62
+    ],
+    [
+      "2013-01-12",
+      94
+    ],
+    [
+      "2013-01-26",
+      89
+    ],
+    [
+      "2013-02-02",
+      74
+    ],
+    [
+      "2013-02-09",
+      49
+    ],
+    [
+      "2013-02-16",
+      22
+    ],
+    [
+      "2013-02-23",
+      9
+    ],
+    [
+      "2013-03-02",
+      8
+    ],
+    [
+      "2013-03-09",
+      3
+    ],
+    [
+      "2013-03-16",
+      3
+    ],
+    [
+      "2013-03-23",
+      3
+    ],
+    [
+      "2013-03-30",
+      3
+    ],
+    [
+      "2013-04-06",
+      4
+    ],
+    [
+      "2013-04-13",
+      2
+    ],
+    [
+      "2013-04-20",
+      1
+    ],
+    [
+      "2013-04-27",
+      3
+    ],
+    [
+      "2013-05-04",
+      4
+    ],
+    [
+      "2013-05-11",
+      6
+    ],
+    [
+      "2013-05-18",
+      5
+    ],
+    [
+      "2013-05-25",
+      4
+    ],
+    [
+      "2013-06-01",
+      4
+    ],
+    [
+      "2013-06-08",
+      10
+    ],
+    [
+      "2013-06-15",
+      11
+    ],
+    [
+      "2013-06-22",
+      14
+    ],
+    [
+      "2013-06-29",
+      17
+    ],
+    [
+      "2013-07-06",
+      20
+    ],
+    [
+      "2013-07-13",
+      26
+    ],
+    [
+      "2013-07-20",
+      29
+    ],
+    [
+      "2013-07-27",
+      31
+    ],
+    [
+      "2013-08-03",
+      31
+    ],
+    [
+      "2013-08-10",
+      33
+    ],
+    [
+      "2013-08-17",
+      34
+    ],
+    [
+      "2013-08-24",
+      39
+    ],
+    [
+      "2013-08-31",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

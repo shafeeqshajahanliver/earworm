@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Mario Winans Featuring Enya & P. Diddy"
+  ],
+  "title_as_charted": [
+    "I Don't Wanna Know"
+  ],
+  "debut_week": "2004-02-21",
+  "debut_position": 72,
+  "peak_position": 2,
+  "weeks_at_peak": 8,
+  "first_week_at_peak": "2004-04-24",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 30,
+  "last_week": "2004-09-11",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2004-02-21",
+      72
+    ],
+    [
+      "2004-02-28",
+      63
+    ],
+    [
+      "2004-03-06",
+      38
+    ],
+    [
+      "2004-03-13",
+      26
+    ],
+    [
+      "2004-03-20",
+      22
+    ],
+    [
+      "2004-03-27",
+      11
+    ],
+    [
+      "2004-04-03",
+      9
+    ],
+    [
+      "2004-04-10",
+      4
+    ],
+    [
+      "2004-04-17",
+      3
+    ],
+    [
+      "2004-04-24",
+      2
+    ],
+    [
+      "2004-05-01",
+      2
+    ],
+    [
+      "2004-05-08",
+      2
+    ],
+    [
+      "2004-05-15",
+      2
+    ],
+    [
+      "2004-05-22",
+      2
+    ],
+    [
+      "2004-05-29",
+      2
+    ],
+    [
+      "2004-06-05",
+      2
+    ],
+    [
+      "2004-06-12",
+      2
+    ],
+    [
+      "2004-06-19",
+      3
+    ],
+    [
+      "2004-06-26",
+      4
+    ],
+    [
+      "2004-07-03",
+      6
+    ],
+    [
+      "2004-07-10",
+      11
+    ],
+    [
+      "2004-07-17",
+      18
+    ],
+    [
+      "2004-07-24",
+      17
+    ],
+    [
+      "2004-07-31",
+      24
+    ],
+    [
+      "2004-08-07",
+      29
+    ],
+    [
+      "2004-08-14",
+      34
+    ],
+    [
+      "2004-08-21",
+      38
+    ],
+    [
+      "2004-08-28",
+      47
+    ],
+    [
+      "2004-09-04",
+      47
+    ],
+    [
+      "2004-09-11",
+      50
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

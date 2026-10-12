@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bobbie Gentry"
+  ],
+  "title_as_charted": [
+    "Ode To Billie Joe"
+  ],
+  "debut_week": "1967-08-05",
+  "debut_position": 71,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1967-08-26",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 20,
+  "last_week": "1976-08-21",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1967-08-05",
+      71
+    ],
+    [
+      "1967-08-12",
+      21
+    ],
+    [
+      "1967-08-19",
+      7
+    ],
+    [
+      "1967-08-26",
+      1
+    ],
+    [
+      "1967-09-02",
+      1
+    ],
+    [
+      "1967-09-09",
+      1
+    ],
+    [
+      "1967-09-16",
+      1
+    ],
+    [
+      "1967-09-23",
+      2
+    ],
+    [
+      "1967-09-30",
+      2
+    ],
+    [
+      "1967-10-07",
+      3
+    ],
+    [
+      "1967-10-14",
+      5
+    ],
+    [
+      "1967-10-21",
+      14
+    ],
+    [
+      "1967-10-28",
+      29
+    ],
+    [
+      "1967-11-04",
+      43
+    ],
+    [
+      "1976-07-17",
+      88
+    ],
+    [
+      "1976-07-24",
+      77
+    ],
+    [
+      "1976-07-31",
+      67
+    ],
+    [
+      "1976-08-07",
+      57
+    ],
+    [
+      "1976-08-14",
+      54
+    ],
+    [
+      "1976-08-21",
+      58
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

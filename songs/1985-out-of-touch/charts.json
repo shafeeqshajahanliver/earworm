@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Daryl Hall John Oates"
+  ],
+  "title_as_charted": [
+    "Out Of Touch"
+  ],
+  "debut_week": "1984-09-29",
+  "debut_position": 48,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1984-12-08",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 23,
+  "last_week": "1985-03-02",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1984-09-29",
+      48
+    ],
+    [
+      "1984-10-06",
+      38
+    ],
+    [
+      "1984-10-13",
+      32
+    ],
+    [
+      "1984-10-20",
+      26
+    ],
+    [
+      "1984-10-27",
+      20
+    ],
+    [
+      "1984-11-03",
+      12
+    ],
+    [
+      "1984-11-10",
+      6
+    ],
+    [
+      "1984-11-17",
+      6
+    ],
+    [
+      "1984-11-24",
+      4
+    ],
+    [
+      "1984-12-01",
+      2
+    ],
+    [
+      "1984-12-08",
+      1
+    ],
+    [
+      "1984-12-15",
+      1
+    ],
+    [
+      "1984-12-22",
+      3
+    ],
+    [
+      "1984-12-29",
+      3
+    ],
+    [
+      "1985-01-05",
+      7
+    ],
+    [
+      "1985-01-12",
+      12
+    ],
+    [
+      "1985-01-19",
+      22
+    ],
+    [
+      "1985-01-26",
+      51
+    ],
+    [
+      "1985-02-02",
+      71
+    ],
+    [
+      "1985-02-09",
+      75
+    ],
+    [
+      "1985-02-16",
+      91
+    ],
+    [
+      "1985-02-23",
+      97
+    ],
+    [
+      "1985-03-02",
+      100
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

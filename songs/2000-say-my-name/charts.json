@@ -1,0 +1,153 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Destiny's Child"
+  ],
+  "title_as_charted": [
+    "Say My Name"
+  ],
+  "debut_week": "1999-12-25",
+  "debut_position": 83,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "2000-03-18",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 32,
+  "last_week": "2000-07-29",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1999-12-25",
+      83
+    ],
+    [
+      "2000-01-01",
+      56
+    ],
+    [
+      "2000-01-08",
+      44
+    ],
+    [
+      "2000-01-15",
+      38
+    ],
+    [
+      "2000-01-22",
+      16
+    ],
+    [
+      "2000-01-29",
+      13
+    ],
+    [
+      "2000-02-05",
+      16
+    ],
+    [
+      "2000-02-12",
+      16
+    ],
+    [
+      "2000-02-19",
+      16
+    ],
+    [
+      "2000-02-26",
+      18
+    ],
+    [
+      "2000-03-04",
+      17
+    ],
+    [
+      "2000-03-11",
+      14
+    ],
+    [
+      "2000-03-18",
+      1
+    ],
+    [
+      "2000-03-25",
+      1
+    ],
+    [
+      "2000-04-01",
+      1
+    ],
+    [
+      "2000-04-08",
+      2
+    ],
+    [
+      "2000-04-15",
+      2
+    ],
+    [
+      "2000-04-22",
+      3
+    ],
+    [
+      "2000-04-29",
+      5
+    ],
+    [
+      "2000-05-06",
+      5
+    ],
+    [
+      "2000-05-13",
+      5
+    ],
+    [
+      "2000-05-20",
+      7
+    ],
+    [
+      "2000-05-27",
+      10
+    ],
+    [
+      "2000-06-03",
+      13
+    ],
+    [
+      "2000-06-10",
+      14
+    ],
+    [
+      "2000-06-17",
+      18
+    ],
+    [
+      "2000-06-24",
+      23
+    ],
+    [
+      "2000-07-01",
+      23
+    ],
+    [
+      "2000-07-08",
+      34
+    ],
+    [
+      "2000-07-15",
+      37
+    ],
+    [
+      "2000-07-22",
+      43
+    ],
+    [
+      "2000-07-29",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

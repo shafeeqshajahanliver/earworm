@@ -1,0 +1,466 @@
+{
+  "id": "1959-venus",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Venus (Frankie Avalon song)",
+  "wikidata": {
+    "qid": "Q1631481",
+    "label": "Venus",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q468635",
+          "label": "Frankie Avalon"
+        },
+        {
+          "qid": "Q302762",
+          "label": "Barry Manilow"
+        },
+        {
+          "qid": "Q295919",
+          "label": "Sam Cooke"
+        },
+        {
+          "qid": "Q342778",
+          "label": "Pat Boone"
+        },
+        {
+          "qid": "Q449612",
+          "label": "Johnny Mathis"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q93160854",
+          "label": "Ed Marshall"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q93160854",
+          "label": "Ed Marshall"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1959-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "6ffe7f81-b321-3471-9ac3-39f5e369e689"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 4a628ffc-4080-3462-ae6f-e57d31022f71 (1959)",
+  "musicbrainz": {
+    "recording_id": "39c4d4a8-e7ae-43b5-aabf-d7bb35d1122d",
+    "title": "Venus",
+    "length_ms": 142226,
+    "first_release_date": "1959",
+    "artist_credit": "Frankie Avalon",
+    "artists": [
+      {
+        "name": "Frankie Avalon",
+        "mbid": "a21c1636-c622-48b7-bf6a-d9032645aa55"
+      }
+    ],
+    "isrcs": [
+      "DEU241001119",
+      "GBAJE5800094",
+      "ITCF41404545",
+      "US2430629871"
+    ],
+    "recording_credits": [
+      {
+        "role": "chorus master",
+        "attributes": [],
+        "name": "Peter de Angelis",
+        "mbid": "659e5755-afcf-4be9-9483-45124be8afb5"
+      },
+      {
+        "role": "conductor",
+        "attributes": [],
+        "name": "Peter de Angelis",
+        "mbid": "659e5755-afcf-4be9-9483-45124be8afb5"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Frankie Avalon",
+        "mbid": "a21c1636-c622-48b7-bf6a-d9032645aa55"
+      }
+    ],
+    "urls": [],
+    "genres": [
+      "doo-wop",
+      "pop",
+      "pop rock",
+      "rock",
+      "rock and roll"
+    ],
+    "tags": [
+      "rock and roll",
+      "doo-wop",
+      "pop",
+      "rock",
+      "early pop",
+      "oldies",
+      "pop rock",
+      "pop; rock and roll; doo wop",
+      "rock roll"
+    ],
+    "releases": [
+      {
+        "id": "18924ce3-3ca0-4005-9108-65c869285fe5",
+        "title": "Venus / I’m Broke",
+        "date": "1959",
+        "country": "US",
+        "status": "Official",
+        "release_group": "4a628ffc-4080-3462-ae6f-e57d31022f71",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "0b99bb3c-94e3-40f8-8516-e7d500eb9381",
+        "title": "Jukebox Classics, Volume 1",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7fa80380-3caf-3d5c-80c4-d15bdd6c6d09",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "92843a66-d7b1-47a7-8eaa-9c1e203b987f",
+        "title": "Heart ’n’ Soul of Rock ’n’ Roll",
+        "date": "1987",
+        "country": "US",
+        "status": "Official",
+        "release_group": "b070ac71-ff14-3bf4-9f2e-ddd0cbb566f5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c1126385-3ed9-49ec-9be2-e6147c0028ac",
+        "title": "The Best of 50s Love",
+        "date": "1987",
+        "country": "US",
+        "status": "Official",
+        "release_group": "8e397c7a-8cf7-465c-8e93-57d2f8faf814",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c8d1dcde-4829-45c5-b4a3-d0133320b5d0",
+        "title": "The Heart ’n’ Soul of Rock ’n’ Roll",
+        "date": "1987",
+        "country": "US",
+        "status": "Official",
+        "release_group": "b070ac71-ff14-3bf4-9f2e-ddd0cbb566f5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c17ba49b-37c7-4760-af1d-af64be4cf13d",
+        "title": "Welcome to the Sixties",
+        "date": "1987",
+        "country": null,
+        "status": "Official",
+        "release_group": "d301fab3-c0df-4e34-887e-99fbbbe0e0e3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bd19aa6e-1d9b-41fb-873b-e67f0fe6e890",
+        "title": "Yesterdays Gold: 120 Golden Oldies, Volume 2",
+        "date": "1987",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "04e23c6a-6a83-4ec1-9efb-52b6df994681",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e0144454-bb69-45ec-84b4-56b62ad24bec",
+        "title": "20 Greatest Hits 1960",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "180a38cf-8a90-3eab-8636-cb4520bf718c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3a7d9f2c-1be4-4446-bcea-3ba2793748d3",
+        "title": "40 Years No. 1 Hits From the 50’s",
+        "date": "1988",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "e5846b61-ed46-475e-9d8c-7a62c8e418a6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c75138dc-6d6d-4513-aa0e-a12d2a1b6ba1",
+        "title": "50 Romantic Records",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ae33da14-92a6-43f0-896c-c363624e3dd4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dfffec73-69ff-45d6-bebe-6c1b4d9c0b56",
+        "title": "72 Golden Pop Memories",
+        "date": "1988",
+        "country": null,
+        "status": "Official",
+        "release_group": "6bb9452b-49e9-41c2-ae73-48f37b7081ac",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a960fd10-ef6f-4ded-9342-fad93b7cff79",
+        "title": "Baby Boomer Classics: Lovin’ Fifties",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60b639b7-c555-33ae-9de1-692c4a96cfd1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1c313167-9ec2-3eee-b009-6fb9d5e86def",
+        "title": "Baby Boomer Classics: Lovin’ Fifties",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60b639b7-c555-33ae-9de1-692c4a96cfd1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0a6cb5d1-e2ca-47d2-af08-2650fd177dcb",
+        "title": "Billboard Top Rock’n’Roll Hits: 1959",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f0efca1f-ce8c-3416-9af6-9b9b8c915ce6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d94829ab-e270-4cac-b2b6-582d2abb66bc",
+        "title": "The Heart & Soul of Rock & Roll",
+        "date": "1988",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "e5b82b26-0545-3cb6-bcaa-649717c187d6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f96e4d50-3c35-4f29-bc8e-fab82f8d9497",
+        "title": "The Heroes of Pop Music: 32 Masterwork of Pop Music",
+        "date": "1988",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "ad8f6783-fa71-499c-97eb-14f9de1e27b1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1393b267-1057-41d7-b2a5-35cb6460edec",
+        "title": "The Rock Box: The History of Rock ’n’ Roll",
+        "date": "1988",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "d81abcf1-0924-4f8c-bb96-2e305816b1d4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "39f6d105-fe69-4838-8a1e-9cb3848cfc92",
+        "title": "Venus & Other Hits",
+        "date": "1988",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "1cdd0c32-d529-3e18-9f53-4cd294d5516a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "44cbd9ad-4df9-4cd3-a31e-da000f2d785b",
+        "title": "Born on the Fourth of July",
+        "date": "1989",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "b1c0ae82-321a-3a8b-b4a5-6152ebb7a5f9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "efb91939-7b63-4cf3-89d5-0ea58793a793",
+        "title": "Born on the Fourth of July",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "b1c0ae82-321a-3a8b-b4a5-6152ebb7a5f9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "d92509a5-c0a9-4262-9eb0-5d240755f92c",
+        "title": "Born on the Fourth of July",
+        "date": "1989",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "b1c0ae82-321a-3a8b-b4a5-6152ebb7a5f9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "85032cd7-e712-4c15-aa91-61efdebbd357",
+        "title": "Born on the Fourth of July: Motion Picture Soundtrack Album",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "b1c0ae82-321a-3a8b-b4a5-6152ebb7a5f9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "5b214068-7c6b-4b72-9c1f-c56d1ede544f",
+        "title": "More 50's Jukebox Favorites",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c4f4fa4a-b2f5-31d0-a976-c48755aba08d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7eaefd5c-6063-4673-b86f-0e16c8d53a46",
+        "title": "More 70 Ounces of Gold",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "235cd690-dc45-31e2-a6f0-b8bdd4f1f375",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0f6ae24c-3fbe-4797-98d9-f7fb314c85d4",
+        "title": "The Rock ’n’ Roll Era: 1959",
+        "date": "1989",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "d920322b-0104-3bcc-9ffc-de0396c3c05d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "6ffe7f81-b321-3471-9ac3-39f5e369e689",
+      "title": "Venus",
+      "iswcs": [
+        "T-070.195.316-3"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Ed Marshall",
+          "mbid": "1eecae18-a0b6-4ca8-821a-14fea60c0c59"
+        },
+        {
+          "role": "lyricist",
+          "name": "Ed Marshall",
+          "mbid": "1eecae18-a0b6-4ca8-821a-14fea60c0c59"
+        }
+      ],
+      "urls": [
+        "https://genius.com/Barry-manilow-venus-lyrics",
+        "https://genius.com/Frankie-avalon-venus-lyrics",
+        "https://secondhandsongs.com/work/47101",
+        "https://www.wikidata.org/wiki/Q1631481"
+      ]
+    },
+    "main_artist": {
+      "name": "Frankie Avalon",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Philadelphia"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

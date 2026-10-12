@@ -1,0 +1,97 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Sam The Sham and the Pharaohs"
+  ],
+  "title_as_charted": [
+    "Wooly Bully"
+  ],
+  "debut_week": "1965-04-03",
+  "debut_position": 87,
+  "peak_position": 2,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1965-06-05",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 18,
+  "last_week": "1965-07-31",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1965-04-03",
+      87
+    ],
+    [
+      "1965-04-10",
+      82
+    ],
+    [
+      "1965-04-17",
+      61
+    ],
+    [
+      "1965-04-24",
+      45
+    ],
+    [
+      "1965-05-01",
+      24
+    ],
+    [
+      "1965-05-08",
+      14
+    ],
+    [
+      "1965-05-15",
+      10
+    ],
+    [
+      "1965-05-22",
+      8
+    ],
+    [
+      "1965-05-29",
+      5
+    ],
+    [
+      "1965-06-05",
+      2
+    ],
+    [
+      "1965-06-12",
+      2
+    ],
+    [
+      "1965-06-19",
+      3
+    ],
+    [
+      "1965-06-26",
+      3
+    ],
+    [
+      "1965-07-03",
+      4
+    ],
+    [
+      "1965-07-10",
+      5
+    ],
+    [
+      "1965-07-17",
+      11
+    ],
+    [
+      "1965-07-24",
+      17
+    ],
+    [
+      "1965-07-31",
+      36
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

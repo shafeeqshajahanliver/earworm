@@ -1,0 +1,85 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bobby Goldsboro"
+  ],
+  "title_as_charted": [
+    "Honey"
+  ],
+  "debut_week": "1968-03-23",
+  "debut_position": 64,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1968-04-13",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 15,
+  "last_week": "1968-06-29",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1968-03-23",
+      64
+    ],
+    [
+      "1968-03-30",
+      23
+    ],
+    [
+      "1968-04-06",
+      10
+    ],
+    [
+      "1968-04-13",
+      1
+    ],
+    [
+      "1968-04-20",
+      1
+    ],
+    [
+      "1968-04-27",
+      1
+    ],
+    [
+      "1968-05-04",
+      1
+    ],
+    [
+      "1968-05-11",
+      1
+    ],
+    [
+      "1968-05-18",
+      3
+    ],
+    [
+      "1968-05-25",
+      5
+    ],
+    [
+      "1968-06-01",
+      5
+    ],
+    [
+      "1968-06-08",
+      10
+    ],
+    [
+      "1968-06-15",
+      12
+    ],
+    [
+      "1968-06-22",
+      26
+    ],
+    [
+      "1968-06-29",
+      41
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

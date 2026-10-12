@@ -1,0 +1,109 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Rod Stewart"
+  ],
+  "title_as_charted": [
+    "Da Ya Think I'm Sexy?"
+  ],
+  "debut_week": "1978-12-23",
+  "debut_position": 40,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1979-02-10",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 21,
+  "last_week": "1979-05-12",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1978-12-23",
+      40
+    ],
+    [
+      "1978-12-30",
+      40
+    ],
+    [
+      "1979-01-06",
+      27
+    ],
+    [
+      "1979-01-13",
+      22
+    ],
+    [
+      "1979-01-20",
+      10
+    ],
+    [
+      "1979-01-27",
+      4
+    ],
+    [
+      "1979-02-03",
+      3
+    ],
+    [
+      "1979-02-10",
+      1
+    ],
+    [
+      "1979-02-17",
+      1
+    ],
+    [
+      "1979-02-24",
+      1
+    ],
+    [
+      "1979-03-03",
+      1
+    ],
+    [
+      "1979-03-10",
+      2
+    ],
+    [
+      "1979-03-17",
+      3
+    ],
+    [
+      "1979-03-24",
+      6
+    ],
+    [
+      "1979-03-31",
+      7
+    ],
+    [
+      "1979-04-07",
+      8
+    ],
+    [
+      "1979-04-14",
+      19
+    ],
+    [
+      "1979-04-21",
+      27
+    ],
+    [
+      "1979-04-28",
+      50
+    ],
+    [
+      "1979-05-05",
+      81
+    ],
+    [
+      "1979-05-12",
+      97
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,77 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Nancy Sinatra & Frank Sinatra"
+  ],
+  "title_as_charted": [
+    "Somethin' Stupid"
+  ],
+  "debut_week": "1967-03-18",
+  "debut_position": 50,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1967-04-15",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 13,
+  "last_week": "1967-06-10",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1967-03-18",
+      50
+    ],
+    [
+      "1967-03-25",
+      29
+    ],
+    [
+      "1967-04-01",
+      9
+    ],
+    [
+      "1967-04-08",
+      3
+    ],
+    [
+      "1967-04-15",
+      1
+    ],
+    [
+      "1967-04-22",
+      1
+    ],
+    [
+      "1967-04-29",
+      1
+    ],
+    [
+      "1967-05-06",
+      1
+    ],
+    [
+      "1967-05-13",
+      3
+    ],
+    [
+      "1967-05-20",
+      4
+    ],
+    [
+      "1967-05-27",
+      9
+    ],
+    [
+      "1967-06-03",
+      16
+    ],
+    [
+      "1967-06-10",
+      41
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

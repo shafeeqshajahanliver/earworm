@@ -1,0 +1,165 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Plain White T's"
+  ],
+  "title_as_charted": [
+    "Hey There Delilah"
+  ],
+  "debut_week": "2007-04-14",
+  "debut_position": 79,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "2007-07-28",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 35,
+  "last_week": "2007-12-08",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "2007-04-14",
+      79
+    ],
+    [
+      "2007-04-21",
+      66
+    ],
+    [
+      "2007-04-28",
+      53
+    ],
+    [
+      "2007-05-05",
+      53
+    ],
+    [
+      "2007-05-12",
+      44
+    ],
+    [
+      "2007-05-19",
+      41
+    ],
+    [
+      "2007-05-26",
+      37
+    ],
+    [
+      "2007-06-02",
+      27
+    ],
+    [
+      "2007-06-09",
+      27
+    ],
+    [
+      "2007-06-16",
+      16
+    ],
+    [
+      "2007-06-23",
+      6
+    ],
+    [
+      "2007-06-30",
+      5
+    ],
+    [
+      "2007-07-07",
+      4
+    ],
+    [
+      "2007-07-14",
+      3
+    ],
+    [
+      "2007-07-21",
+      2
+    ],
+    [
+      "2007-07-28",
+      1
+    ],
+    [
+      "2007-08-04",
+      1
+    ],
+    [
+      "2007-08-11",
+      2
+    ],
+    [
+      "2007-08-18",
+      3
+    ],
+    [
+      "2007-08-25",
+      4
+    ],
+    [
+      "2007-09-01",
+      4
+    ],
+    [
+      "2007-09-08",
+      6
+    ],
+    [
+      "2007-09-15",
+      7
+    ],
+    [
+      "2007-09-22",
+      7
+    ],
+    [
+      "2007-09-29",
+      13
+    ],
+    [
+      "2007-10-06",
+      14
+    ],
+    [
+      "2007-10-13",
+      22
+    ],
+    [
+      "2007-10-20",
+      20
+    ],
+    [
+      "2007-10-27",
+      20
+    ],
+    [
+      "2007-11-03",
+      26
+    ],
+    [
+      "2007-11-10",
+      29
+    ],
+    [
+      "2007-11-17",
+      29
+    ],
+    [
+      "2007-11-24",
+      35
+    ],
+    [
+      "2007-12-01",
+      39
+    ],
+    [
+      "2007-12-08",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

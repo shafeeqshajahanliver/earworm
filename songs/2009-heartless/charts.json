@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Kanye West"
+  ],
+  "title_as_charted": [
+    "Heartless"
+  ],
+  "debut_week": "2008-11-22",
+  "debut_position": 4,
+  "peak_position": 2,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "2009-02-21",
+  "weeks_to_peak": 13,
+  "weeks_on_chart": 30,
+  "last_week": "2009-06-13",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2008-11-22",
+      4
+    ],
+    [
+      "2008-11-29",
+      12
+    ],
+    [
+      "2008-12-06",
+      21
+    ],
+    [
+      "2008-12-13",
+      19
+    ],
+    [
+      "2008-12-20",
+      16
+    ],
+    [
+      "2008-12-27",
+      7
+    ],
+    [
+      "2009-01-03",
+      4
+    ],
+    [
+      "2009-01-10",
+      4
+    ],
+    [
+      "2009-01-17",
+      5
+    ],
+    [
+      "2009-01-24",
+      3
+    ],
+    [
+      "2009-01-31",
+      3
+    ],
+    [
+      "2009-02-07",
+      4
+    ],
+    [
+      "2009-02-14",
+      3
+    ],
+    [
+      "2009-02-21",
+      2
+    ],
+    [
+      "2009-02-28",
+      4
+    ],
+    [
+      "2009-03-07",
+      3
+    ],
+    [
+      "2009-03-14",
+      6
+    ],
+    [
+      "2009-03-21",
+      8
+    ],
+    [
+      "2009-03-28",
+      7
+    ],
+    [
+      "2009-04-04",
+      8
+    ],
+    [
+      "2009-04-11",
+      16
+    ],
+    [
+      "2009-04-18",
+      19
+    ],
+    [
+      "2009-04-25",
+      19
+    ],
+    [
+      "2009-05-02",
+      32
+    ],
+    [
+      "2009-05-09",
+      33
+    ],
+    [
+      "2009-05-16",
+      33
+    ],
+    [
+      "2009-05-23",
+      45
+    ],
+    [
+      "2009-05-30",
+      35
+    ],
+    [
+      "2009-06-06",
+      48
+    ],
+    [
+      "2009-06-13",
+      51
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

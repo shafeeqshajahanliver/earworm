@@ -1,0 +1,153 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Sean Paul"
+  ],
+  "title_as_charted": [
+    "Get Busy"
+  ],
+  "debut_week": "2003-02-22",
+  "debut_position": 82,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "2003-05-10",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 32,
+  "last_week": "2003-09-27",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "2003-02-22",
+      82
+    ],
+    [
+      "2003-03-01",
+      65
+    ],
+    [
+      "2003-03-08",
+      46
+    ],
+    [
+      "2003-03-15",
+      34
+    ],
+    [
+      "2003-03-22",
+      19
+    ],
+    [
+      "2003-03-29",
+      16
+    ],
+    [
+      "2003-04-05",
+      6
+    ],
+    [
+      "2003-04-12",
+      3
+    ],
+    [
+      "2003-04-19",
+      3
+    ],
+    [
+      "2003-04-26",
+      3
+    ],
+    [
+      "2003-05-03",
+      2
+    ],
+    [
+      "2003-05-10",
+      1
+    ],
+    [
+      "2003-05-17",
+      1
+    ],
+    [
+      "2003-05-24",
+      1
+    ],
+    [
+      "2003-05-31",
+      2
+    ],
+    [
+      "2003-06-07",
+      2
+    ],
+    [
+      "2003-06-14",
+      2
+    ],
+    [
+      "2003-06-21",
+      2
+    ],
+    [
+      "2003-06-28",
+      4
+    ],
+    [
+      "2003-07-05",
+      6
+    ],
+    [
+      "2003-07-12",
+      6
+    ],
+    [
+      "2003-07-19",
+      6
+    ],
+    [
+      "2003-07-26",
+      8
+    ],
+    [
+      "2003-08-02",
+      15
+    ],
+    [
+      "2003-08-09",
+      20
+    ],
+    [
+      "2003-08-16",
+      20
+    ],
+    [
+      "2003-08-23",
+      26
+    ],
+    [
+      "2003-08-30",
+      33
+    ],
+    [
+      "2003-09-06",
+      38
+    ],
+    [
+      "2003-09-13",
+      38
+    ],
+    [
+      "2003-09-20",
+      43
+    ],
+    [
+      "2003-09-27",
+      50
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

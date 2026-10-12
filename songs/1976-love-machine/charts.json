@@ -1,0 +1,137 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Miracles"
+  ],
+  "title_as_charted": [
+    "Love Machine (Part 1)"
+  ],
+  "debut_week": "1975-10-25",
+  "debut_position": 90,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1976-03-06",
+  "weeks_to_peak": 19,
+  "weeks_on_chart": 28,
+  "last_week": "1976-05-01",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1975-10-25",
+      90
+    ],
+    [
+      "1975-11-01",
+      85
+    ],
+    [
+      "1975-11-08",
+      78
+    ],
+    [
+      "1975-11-15",
+      76
+    ],
+    [
+      "1975-11-22",
+      63
+    ],
+    [
+      "1975-11-29",
+      52
+    ],
+    [
+      "1975-12-06",
+      42
+    ],
+    [
+      "1975-12-13",
+      38
+    ],
+    [
+      "1975-12-20",
+      34
+    ],
+    [
+      "1975-12-27",
+      26
+    ],
+    [
+      "1976-01-03",
+      22
+    ],
+    [
+      "1976-01-10",
+      20
+    ],
+    [
+      "1976-01-17",
+      18
+    ],
+    [
+      "1976-01-24",
+      16
+    ],
+    [
+      "1976-01-31",
+      15
+    ],
+    [
+      "1976-02-07",
+      11
+    ],
+    [
+      "1976-02-14",
+      8
+    ],
+    [
+      "1976-02-21",
+      5
+    ],
+    [
+      "1976-02-28",
+      3
+    ],
+    [
+      "1976-03-06",
+      1
+    ],
+    [
+      "1976-03-13",
+      3
+    ],
+    [
+      "1976-03-20",
+      6
+    ],
+    [
+      "1976-03-27",
+      21
+    ],
+    [
+      "1976-04-03",
+      22
+    ],
+    [
+      "1976-04-10",
+      22
+    ],
+    [
+      "1976-04-17",
+      26
+    ],
+    [
+      "1976-04-24",
+      56
+    ],
+    [
+      "1976-05-01",
+      71
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

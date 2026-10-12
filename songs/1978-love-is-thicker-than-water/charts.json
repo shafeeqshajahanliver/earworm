@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Andy Gibb"
+  ],
+  "title_as_charted": [
+    "(Love Is) Thicker Than Water"
+  ],
+  "debut_week": "1977-11-05",
+  "debut_position": 89,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1978-03-04",
+  "weeks_to_peak": 17,
+  "weeks_on_chart": 29,
+  "last_week": "1978-05-20",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1977-11-05",
+      89
+    ],
+    [
+      "1977-11-12",
+      78
+    ],
+    [
+      "1977-11-19",
+      67
+    ],
+    [
+      "1977-11-26",
+      53
+    ],
+    [
+      "1977-12-03",
+      43
+    ],
+    [
+      "1977-12-10",
+      39
+    ],
+    [
+      "1977-12-17",
+      37
+    ],
+    [
+      "1977-12-24",
+      32
+    ],
+    [
+      "1977-12-31",
+      32
+    ],
+    [
+      "1978-01-07",
+      23
+    ],
+    [
+      "1978-01-14",
+      20
+    ],
+    [
+      "1978-01-21",
+      14
+    ],
+    [
+      "1978-01-28",
+      10
+    ],
+    [
+      "1978-02-04",
+      5
+    ],
+    [
+      "1978-02-11",
+      3
+    ],
+    [
+      "1978-02-18",
+      2
+    ],
+    [
+      "1978-02-25",
+      2
+    ],
+    [
+      "1978-03-04",
+      1
+    ],
+    [
+      "1978-03-11",
+      1
+    ],
+    [
+      "1978-03-18",
+      5
+    ],
+    [
+      "1978-03-25",
+      6
+    ],
+    [
+      "1978-04-01",
+      8
+    ],
+    [
+      "1978-04-08",
+      8
+    ],
+    [
+      "1978-04-15",
+      17
+    ],
+    [
+      "1978-04-22",
+      27
+    ],
+    [
+      "1978-04-29",
+      27
+    ],
+    [
+      "1978-05-06",
+      35
+    ],
+    [
+      "1978-05-13",
+      47
+    ],
+    [
+      "1978-05-20",
+      93
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

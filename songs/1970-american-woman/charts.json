@@ -1,0 +1,85 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Guess Who"
+  ],
+  "title_as_charted": [
+    "American Woman/No Sugar Tonight"
+  ],
+  "debut_week": "1970-03-21",
+  "debut_position": 46,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1970-05-09",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 15,
+  "last_week": "1970-06-27",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1970-03-21",
+      46
+    ],
+    [
+      "1970-03-28",
+      34
+    ],
+    [
+      "1970-04-04",
+      17
+    ],
+    [
+      "1970-04-11",
+      15
+    ],
+    [
+      "1970-04-18",
+      9
+    ],
+    [
+      "1970-04-25",
+      5
+    ],
+    [
+      "1970-05-02",
+      4
+    ],
+    [
+      "1970-05-09",
+      1
+    ],
+    [
+      "1970-05-16",
+      1
+    ],
+    [
+      "1970-05-23",
+      1
+    ],
+    [
+      "1970-05-30",
+      2
+    ],
+    [
+      "1970-06-06",
+      8
+    ],
+    [
+      "1970-06-13",
+      18
+    ],
+    [
+      "1970-06-20",
+      19
+    ],
+    [
+      "1970-06-27",
+      28
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

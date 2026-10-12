@@ -1,0 +1,149 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Chamillionaire Featuring Krayzie Bone"
+  ],
+  "title_as_charted": [
+    "Ridin'"
+  ],
+  "debut_week": "2006-03-04",
+  "debut_position": 88,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "2006-06-03",
+  "weeks_to_peak": 13,
+  "weeks_on_chart": 31,
+  "last_week": "2006-09-30",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "2006-03-04",
+      88
+    ],
+    [
+      "2006-03-11",
+      73
+    ],
+    [
+      "2006-03-18",
+      57
+    ],
+    [
+      "2006-03-25",
+      36
+    ],
+    [
+      "2006-04-01",
+      27
+    ],
+    [
+      "2006-04-08",
+      21
+    ],
+    [
+      "2006-04-15",
+      17
+    ],
+    [
+      "2006-04-22",
+      13
+    ],
+    [
+      "2006-04-29",
+      12
+    ],
+    [
+      "2006-05-06",
+      4
+    ],
+    [
+      "2006-05-13",
+      4
+    ],
+    [
+      "2006-05-20",
+      4
+    ],
+    [
+      "2006-05-27",
+      3
+    ],
+    [
+      "2006-06-03",
+      1
+    ],
+    [
+      "2006-06-10",
+      1
+    ],
+    [
+      "2006-06-17",
+      2
+    ],
+    [
+      "2006-06-24",
+      4
+    ],
+    [
+      "2006-07-01",
+      5
+    ],
+    [
+      "2006-07-08",
+      7
+    ],
+    [
+      "2006-07-15",
+      7
+    ],
+    [
+      "2006-07-22",
+      9
+    ],
+    [
+      "2006-07-29",
+      11
+    ],
+    [
+      "2006-08-05",
+      14
+    ],
+    [
+      "2006-08-12",
+      23
+    ],
+    [
+      "2006-08-19",
+      24
+    ],
+    [
+      "2006-08-26",
+      28
+    ],
+    [
+      "2006-09-02",
+      33
+    ],
+    [
+      "2006-09-09",
+      35
+    ],
+    [
+      "2006-09-16",
+      40
+    ],
+    [
+      "2006-09-23",
+      46
+    ],
+    [
+      "2006-09-30",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

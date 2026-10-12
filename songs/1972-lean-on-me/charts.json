@@ -1,0 +1,101 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bill Withers"
+  ],
+  "title_as_charted": [
+    "Lean On Me"
+  ],
+  "debut_week": "1972-04-22",
+  "debut_position": 83,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1972-07-08",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 19,
+  "last_week": "1972-08-26",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1972-04-22",
+      83
+    ],
+    [
+      "1972-04-29",
+      75
+    ],
+    [
+      "1972-05-06",
+      71
+    ],
+    [
+      "1972-05-13",
+      61
+    ],
+    [
+      "1972-05-20",
+      42
+    ],
+    [
+      "1972-05-27",
+      36
+    ],
+    [
+      "1972-06-03",
+      26
+    ],
+    [
+      "1972-06-10",
+      20
+    ],
+    [
+      "1972-06-17",
+      10
+    ],
+    [
+      "1972-06-24",
+      7
+    ],
+    [
+      "1972-07-01",
+      4
+    ],
+    [
+      "1972-07-08",
+      1
+    ],
+    [
+      "1972-07-15",
+      1
+    ],
+    [
+      "1972-07-22",
+      1
+    ],
+    [
+      "1972-07-29",
+      9
+    ],
+    [
+      "1972-08-05",
+      11
+    ],
+    [
+      "1972-08-12",
+      15
+    ],
+    [
+      "1972-08-19",
+      25
+    ],
+    [
+      "1972-08-26",
+      31
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

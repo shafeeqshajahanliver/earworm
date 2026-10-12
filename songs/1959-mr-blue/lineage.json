@@ -1,0 +1,61 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/45153",
+    "title": "Mr. Blue",
+    "performer": "The Fleetwoods",
+    "is_original": true,
+    "first_release_date": "1959-08",
+    "releases": [
+      {
+        "title": "Mr. Blue",
+        "uri": "https://api.secondhandsongs.com/release/2253",
+        "performer": "The Fleetwoods"
+      },
+      {
+        "title": "Mr. Blue",
+        "uri": "https://api.secondhandsongs.com/release/17797",
+        "performer": "The Fleetwoods"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 38,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/45153",
+    "title": "Mr. Blue",
+    "language": "English",
+    "writers": [
+      "Dewayne Blackwell"
+    ],
+    "original_performer": "The Fleetwoods",
+    "versions": 39,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Mister Blue",
+        "uri": "https://api.secondhandsongs.com/work/207583"
+      },
+      {
+        "title": "Mr. Blue",
+        "uri": "https://api.secondhandsongs.com/work/224689"
+      },
+      {
+        "title": "Mr. Blue",
+        "uri": "https://api.secondhandsongs.com/work/224690"
+      },
+      {
+        "title": "Mister Blue",
+        "uri": "https://api.secondhandsongs.com/work/224691"
+      },
+      {
+        "title": "More Money for You and Me",
+        "uri": "https://api.secondhandsongs.com/work/265641"
+      }
+    ]
+  }
+}

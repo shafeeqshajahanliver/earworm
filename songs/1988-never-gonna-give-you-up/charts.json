@@ -1,0 +1,121 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Rick Astley"
+  ],
+  "title_as_charted": [
+    "Never Gonna Give You Up"
+  ],
+  "debut_week": "1987-12-19",
+  "debut_position": 71,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1988-03-12",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 24,
+  "last_week": "1988-05-28",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1987-12-19",
+      71
+    ],
+    [
+      "1987-12-26",
+      61
+    ],
+    [
+      "1988-01-02",
+      61
+    ],
+    [
+      "1988-01-09",
+      52
+    ],
+    [
+      "1988-01-16",
+      41
+    ],
+    [
+      "1988-01-23",
+      34
+    ],
+    [
+      "1988-01-30",
+      24
+    ],
+    [
+      "1988-02-06",
+      16
+    ],
+    [
+      "1988-02-13",
+      11
+    ],
+    [
+      "1988-02-20",
+      8
+    ],
+    [
+      "1988-02-27",
+      4
+    ],
+    [
+      "1988-03-05",
+      2
+    ],
+    [
+      "1988-03-12",
+      1
+    ],
+    [
+      "1988-03-19",
+      1
+    ],
+    [
+      "1988-03-26",
+      3
+    ],
+    [
+      "1988-04-02",
+      8
+    ],
+    [
+      "1988-04-09",
+      18
+    ],
+    [
+      "1988-04-16",
+      25
+    ],
+    [
+      "1988-04-23",
+      35
+    ],
+    [
+      "1988-04-30",
+      50
+    ],
+    [
+      "1988-05-07",
+      62
+    ],
+    [
+      "1988-05-14",
+      68
+    ],
+    [
+      "1988-05-21",
+      72
+    ],
+    [
+      "1988-05-28",
+      91
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

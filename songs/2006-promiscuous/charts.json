@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Nelly Furtado Featuring Timbaland"
+  ],
+  "title_as_charted": [
+    "Promiscuous"
+  ],
+  "debut_week": "2006-05-20",
+  "debut_position": 64,
+  "peak_position": 1,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "2006-07-08",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 26,
+  "last_week": "2006-11-11",
+  "weeks_at_number_one": 6,
+  "run": [
+    [
+      "2006-05-20",
+      64
+    ],
+    [
+      "2006-05-27",
+      30
+    ],
+    [
+      "2006-06-03",
+      9
+    ],
+    [
+      "2006-06-10",
+      3
+    ],
+    [
+      "2006-06-17",
+      3
+    ],
+    [
+      "2006-06-24",
+      2
+    ],
+    [
+      "2006-07-01",
+      3
+    ],
+    [
+      "2006-07-08",
+      1
+    ],
+    [
+      "2006-07-15",
+      1
+    ],
+    [
+      "2006-07-22",
+      1
+    ],
+    [
+      "2006-07-29",
+      1
+    ],
+    [
+      "2006-08-05",
+      1
+    ],
+    [
+      "2006-08-12",
+      1
+    ],
+    [
+      "2006-08-19",
+      3
+    ],
+    [
+      "2006-08-26",
+      3
+    ],
+    [
+      "2006-09-02",
+      3
+    ],
+    [
+      "2006-09-09",
+      6
+    ],
+    [
+      "2006-09-16",
+      6
+    ],
+    [
+      "2006-09-23",
+      10
+    ],
+    [
+      "2006-09-30",
+      16
+    ],
+    [
+      "2006-10-07",
+      19
+    ],
+    [
+      "2006-10-14",
+      23
+    ],
+    [
+      "2006-10-21",
+      30
+    ],
+    [
+      "2006-10-28",
+      30
+    ],
+    [
+      "2006-11-04",
+      39
+    ],
+    [
+      "2006-11-11",
+      46
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

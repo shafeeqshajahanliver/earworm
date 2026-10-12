@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Starship"
+  ],
+  "title_as_charted": [
+    "Nothing's Gonna Stop Us Now"
+  ],
+  "debut_week": "1987-01-31",
+  "debut_position": 64,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1987-04-04",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 22,
+  "last_week": "1987-06-27",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1987-01-31",
+      64
+    ],
+    [
+      "1987-02-07",
+      42
+    ],
+    [
+      "1987-02-14",
+      35
+    ],
+    [
+      "1987-02-21",
+      26
+    ],
+    [
+      "1987-02-28",
+      21
+    ],
+    [
+      "1987-03-07",
+      13
+    ],
+    [
+      "1987-03-14",
+      10
+    ],
+    [
+      "1987-03-21",
+      3
+    ],
+    [
+      "1987-03-28",
+      2
+    ],
+    [
+      "1987-04-04",
+      1
+    ],
+    [
+      "1987-04-11",
+      1
+    ],
+    [
+      "1987-04-18",
+      2
+    ],
+    [
+      "1987-04-25",
+      6
+    ],
+    [
+      "1987-05-02",
+      9
+    ],
+    [
+      "1987-05-09",
+      20
+    ],
+    [
+      "1987-05-16",
+      34
+    ],
+    [
+      "1987-05-23",
+      37
+    ],
+    [
+      "1987-05-30",
+      47
+    ],
+    [
+      "1987-06-06",
+      53
+    ],
+    [
+      "1987-06-13",
+      67
+    ],
+    [
+      "1987-06-20",
+      78
+    ],
+    [
+      "1987-06-27",
+      99
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

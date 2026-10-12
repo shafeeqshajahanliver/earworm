@@ -1,0 +1,125 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Andy Gibb"
+  ],
+  "title_as_charted": [
+    "Shadow Dancing"
+  ],
+  "debut_week": "1978-04-15",
+  "debut_position": 69,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "1978-06-17",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 25,
+  "last_week": "1978-09-30",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "1978-04-15",
+      69
+    ],
+    [
+      "1978-04-22",
+      30
+    ],
+    [
+      "1978-04-29",
+      22
+    ],
+    [
+      "1978-05-06",
+      14
+    ],
+    [
+      "1978-05-13",
+      11
+    ],
+    [
+      "1978-05-20",
+      6
+    ],
+    [
+      "1978-05-27",
+      4
+    ],
+    [
+      "1978-06-03",
+      3
+    ],
+    [
+      "1978-06-10",
+      2
+    ],
+    [
+      "1978-06-17",
+      1
+    ],
+    [
+      "1978-06-24",
+      1
+    ],
+    [
+      "1978-07-01",
+      1
+    ],
+    [
+      "1978-07-08",
+      1
+    ],
+    [
+      "1978-07-15",
+      1
+    ],
+    [
+      "1978-07-22",
+      1
+    ],
+    [
+      "1978-07-29",
+      1
+    ],
+    [
+      "1978-08-05",
+      5
+    ],
+    [
+      "1978-08-12",
+      15
+    ],
+    [
+      "1978-08-19",
+      30
+    ],
+    [
+      "1978-08-26",
+      40
+    ],
+    [
+      "1978-09-02",
+      50
+    ],
+    [
+      "1978-09-09",
+      67
+    ],
+    [
+      "1978-09-16",
+      98
+    ],
+    [
+      "1978-09-23",
+      96
+    ],
+    [
+      "1978-09-30",
+      96
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

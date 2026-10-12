@@ -1,0 +1,169 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Migos Featuring Lil Uzi Vert"
+  ],
+  "title_as_charted": [
+    "Bad And Boujee"
+  ],
+  "debut_week": "2016-12-03",
+  "debut_position": 76,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "2017-01-21",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 36,
+  "last_week": "2017-08-05",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "2016-12-03",
+      76
+    ],
+    [
+      "2016-12-10",
+      54
+    ],
+    [
+      "2016-12-17",
+      49
+    ],
+    [
+      "2016-12-24",
+      24
+    ],
+    [
+      "2016-12-31",
+      26
+    ],
+    [
+      "2017-01-07",
+      13
+    ],
+    [
+      "2017-01-14",
+      2
+    ],
+    [
+      "2017-01-21",
+      1
+    ],
+    [
+      "2017-01-28",
+      2
+    ],
+    [
+      "2017-02-04",
+      1
+    ],
+    [
+      "2017-02-11",
+      1
+    ],
+    [
+      "2017-02-18",
+      2
+    ],
+    [
+      "2017-02-25",
+      2
+    ],
+    [
+      "2017-03-04",
+      3
+    ],
+    [
+      "2017-03-11",
+      2
+    ],
+    [
+      "2017-03-18",
+      2
+    ],
+    [
+      "2017-03-25",
+      2
+    ],
+    [
+      "2017-04-01",
+      3
+    ],
+    [
+      "2017-04-08",
+      4
+    ],
+    [
+      "2017-04-15",
+      6
+    ],
+    [
+      "2017-04-22",
+      12
+    ],
+    [
+      "2017-04-29",
+      18
+    ],
+    [
+      "2017-05-06",
+      26
+    ],
+    [
+      "2017-05-13",
+      22
+    ],
+    [
+      "2017-05-20",
+      22
+    ],
+    [
+      "2017-05-27",
+      21
+    ],
+    [
+      "2017-06-03",
+      22
+    ],
+    [
+      "2017-06-10",
+      28
+    ],
+    [
+      "2017-06-17",
+      29
+    ],
+    [
+      "2017-06-24",
+      30
+    ],
+    [
+      "2017-07-01",
+      35
+    ],
+    [
+      "2017-07-08",
+      38
+    ],
+    [
+      "2017-07-15",
+      35
+    ],
+    [
+      "2017-07-22",
+      38
+    ],
+    [
+      "2017-07-29",
+      43
+    ],
+    [
+      "2017-08-05",
+      45
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

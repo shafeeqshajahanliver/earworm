@@ -1,0 +1,85 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Petula Clark"
+  ],
+  "title_as_charted": [
+    "Downtown"
+  ],
+  "debut_week": "1964-12-19",
+  "debut_position": 87,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1965-01-23",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 15,
+  "last_week": "1965-03-27",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1964-12-19",
+      87
+    ],
+    [
+      "1964-12-26",
+      41
+    ],
+    [
+      "1965-01-02",
+      12
+    ],
+    [
+      "1965-01-09",
+      5
+    ],
+    [
+      "1965-01-16",
+      4
+    ],
+    [
+      "1965-01-23",
+      1
+    ],
+    [
+      "1965-01-30",
+      1
+    ],
+    [
+      "1965-02-06",
+      2
+    ],
+    [
+      "1965-02-13",
+      2
+    ],
+    [
+      "1965-02-20",
+      3
+    ],
+    [
+      "1965-02-27",
+      4
+    ],
+    [
+      "1965-03-06",
+      10
+    ],
+    [
+      "1965-03-13",
+      15
+    ],
+    [
+      "1965-03-20",
+      27
+    ],
+    [
+      "1965-03-27",
+      36
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

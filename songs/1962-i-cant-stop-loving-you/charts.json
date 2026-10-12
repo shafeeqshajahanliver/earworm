@@ -1,0 +1,97 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Ray Charles"
+  ],
+  "title_as_charted": [
+    "I Can't Stop Loving You"
+  ],
+  "debut_week": "1962-05-05",
+  "debut_position": 86,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1962-06-02",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 18,
+  "last_week": "1962-09-01",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1962-05-05",
+      86
+    ],
+    [
+      "1962-05-12",
+      53
+    ],
+    [
+      "1962-05-19",
+      21
+    ],
+    [
+      "1962-05-26",
+      4
+    ],
+    [
+      "1962-06-02",
+      1
+    ],
+    [
+      "1962-06-09",
+      1
+    ],
+    [
+      "1962-06-16",
+      1
+    ],
+    [
+      "1962-06-23",
+      1
+    ],
+    [
+      "1962-06-30",
+      1
+    ],
+    [
+      "1962-07-07",
+      3
+    ],
+    [
+      "1962-07-14",
+      3
+    ],
+    [
+      "1962-07-21",
+      3
+    ],
+    [
+      "1962-07-28",
+      4
+    ],
+    [
+      "1962-08-04",
+      7
+    ],
+    [
+      "1962-08-11",
+      19
+    ],
+    [
+      "1962-08-18",
+      29
+    ],
+    [
+      "1962-08-25",
+      41
+    ],
+    [
+      "1962-09-01",
+      64
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

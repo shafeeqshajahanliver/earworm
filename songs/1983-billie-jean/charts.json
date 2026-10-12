@@ -1,0 +1,153 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Michael Jackson"
+  ],
+  "title_as_charted": [
+    "Billie Jean"
+  ],
+  "debut_week": "1983-01-22",
+  "debut_position": 47,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "1983-03-05",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 32,
+  "last_week": "2026-06-20",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "1983-01-22",
+      47
+    ],
+    [
+      "1983-01-29",
+      37
+    ],
+    [
+      "1983-02-05",
+      27
+    ],
+    [
+      "1983-02-12",
+      23
+    ],
+    [
+      "1983-02-19",
+      6
+    ],
+    [
+      "1983-02-26",
+      4
+    ],
+    [
+      "1983-03-05",
+      1
+    ],
+    [
+      "1983-03-12",
+      1
+    ],
+    [
+      "1983-03-19",
+      1
+    ],
+    [
+      "1983-03-26",
+      1
+    ],
+    [
+      "1983-04-02",
+      1
+    ],
+    [
+      "1983-04-09",
+      1
+    ],
+    [
+      "1983-04-16",
+      1
+    ],
+    [
+      "1983-04-23",
+      5
+    ],
+    [
+      "1983-04-30",
+      7
+    ],
+    [
+      "1983-05-07",
+      14
+    ],
+    [
+      "1983-05-14",
+      24
+    ],
+    [
+      "1983-05-21",
+      29
+    ],
+    [
+      "1983-05-28",
+      42
+    ],
+    [
+      "1983-06-04",
+      58
+    ],
+    [
+      "1983-06-11",
+      65
+    ],
+    [
+      "1983-06-18",
+      70
+    ],
+    [
+      "1983-06-25",
+      73
+    ],
+    [
+      "1983-07-02",
+      98
+    ],
+    [
+      "2014-06-07",
+      14
+    ],
+    [
+      "2026-05-09",
+      38
+    ],
+    [
+      "2026-05-16",
+      17
+    ],
+    [
+      "2026-05-23",
+      15
+    ],
+    [
+      "2026-05-30",
+      32
+    ],
+    [
+      "2026-06-06",
+      19
+    ],
+    [
+      "2026-06-13",
+      19
+    ],
+    [
+      "2026-06-20",
+      18
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,125 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Christina Aguilera"
+  ],
+  "title_as_charted": [
+    "Genie In A Bottle"
+  ],
+  "debut_week": "1999-07-03",
+  "debut_position": 61,
+  "peak_position": 1,
+  "weeks_at_peak": 5,
+  "first_week_at_peak": "1999-07-31",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 25,
+  "last_week": "1999-12-18",
+  "weeks_at_number_one": 5,
+  "run": [
+    [
+      "1999-07-03",
+      61
+    ],
+    [
+      "1999-07-10",
+      12
+    ],
+    [
+      "1999-07-17",
+      4
+    ],
+    [
+      "1999-07-24",
+      3
+    ],
+    [
+      "1999-07-31",
+      1
+    ],
+    [
+      "1999-08-07",
+      1
+    ],
+    [
+      "1999-08-14",
+      1
+    ],
+    [
+      "1999-08-21",
+      1
+    ],
+    [
+      "1999-08-28",
+      1
+    ],
+    [
+      "1999-09-04",
+      2
+    ],
+    [
+      "1999-09-11",
+      4
+    ],
+    [
+      "1999-09-18",
+      5
+    ],
+    [
+      "1999-09-25",
+      4
+    ],
+    [
+      "1999-10-02",
+      6
+    ],
+    [
+      "1999-10-09",
+      6
+    ],
+    [
+      "1999-10-16",
+      7
+    ],
+    [
+      "1999-10-23",
+      12
+    ],
+    [
+      "1999-10-30",
+      13
+    ],
+    [
+      "1999-11-06",
+      15
+    ],
+    [
+      "1999-11-13",
+      19
+    ],
+    [
+      "1999-11-20",
+      18
+    ],
+    [
+      "1999-11-27",
+      22
+    ],
+    [
+      "1999-12-04",
+      28
+    ],
+    [
+      "1999-12-11",
+      32
+    ],
+    [
+      "1999-12-18",
+      45
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

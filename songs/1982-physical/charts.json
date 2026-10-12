@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Olivia Newton-John"
+  ],
+  "title_as_charted": [
+    "Physical"
+  ],
+  "debut_week": "1981-10-03",
+  "debut_position": 66,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "1981-11-21",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 26,
+  "last_week": "1982-03-27",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "1981-10-03",
+      66
+    ],
+    [
+      "1981-10-10",
+      47
+    ],
+    [
+      "1981-10-17",
+      31
+    ],
+    [
+      "1981-10-24",
+      26
+    ],
+    [
+      "1981-10-31",
+      23
+    ],
+    [
+      "1981-11-07",
+      14
+    ],
+    [
+      "1981-11-14",
+      3
+    ],
+    [
+      "1981-11-21",
+      1
+    ],
+    [
+      "1981-11-28",
+      1
+    ],
+    [
+      "1981-12-05",
+      1
+    ],
+    [
+      "1981-12-12",
+      1
+    ],
+    [
+      "1981-12-19",
+      1
+    ],
+    [
+      "1981-12-26",
+      1
+    ],
+    [
+      "1982-01-02",
+      1
+    ],
+    [
+      "1982-01-09",
+      1
+    ],
+    [
+      "1982-01-16",
+      1
+    ],
+    [
+      "1982-01-23",
+      1
+    ],
+    [
+      "1982-01-30",
+      4
+    ],
+    [
+      "1982-02-06",
+      7
+    ],
+    [
+      "1982-02-13",
+      8
+    ],
+    [
+      "1982-02-20",
+      9
+    ],
+    [
+      "1982-02-27",
+      17
+    ],
+    [
+      "1982-03-06",
+      31
+    ],
+    [
+      "1982-03-13",
+      46
+    ],
+    [
+      "1982-03-20",
+      56
+    ],
+    [
+      "1982-03-27",
+      95
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

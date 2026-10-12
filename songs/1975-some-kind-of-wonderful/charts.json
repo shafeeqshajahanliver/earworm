@@ -1,0 +1,77 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Grand Funk"
+  ],
+  "title_as_charted": [
+    "Some Kind Of Wonderful"
+  ],
+  "debut_week": "1974-12-14",
+  "debut_position": 67,
+  "peak_position": 3,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1975-02-22",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 13,
+  "last_week": "1975-03-08",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1974-12-14",
+      67
+    ],
+    [
+      "1974-12-21",
+      38
+    ],
+    [
+      "1974-12-28",
+      29
+    ],
+    [
+      "1975-01-04",
+      23
+    ],
+    [
+      "1975-01-11",
+      19
+    ],
+    [
+      "1975-01-18",
+      15
+    ],
+    [
+      "1975-01-25",
+      12
+    ],
+    [
+      "1975-02-01",
+      10
+    ],
+    [
+      "1975-02-08",
+      6
+    ],
+    [
+      "1975-02-15",
+      4
+    ],
+    [
+      "1975-02-22",
+      3
+    ],
+    [
+      "1975-03-01",
+      5
+    ],
+    [
+      "1975-03-08",
+      30
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

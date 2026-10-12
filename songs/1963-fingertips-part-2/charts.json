@@ -1,0 +1,85 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Little Stevie Wonder"
+  ],
+  "title_as_charted": [
+    "Fingertips - Pt 2"
+  ],
+  "debut_week": "1963-06-22",
+  "debut_position": 85,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1963-08-10",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 15,
+  "last_week": "1963-09-28",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1963-06-22",
+      85
+    ],
+    [
+      "1963-06-29",
+      58
+    ],
+    [
+      "1963-07-06",
+      18
+    ],
+    [
+      "1963-07-13",
+      11
+    ],
+    [
+      "1963-07-20",
+      6
+    ],
+    [
+      "1963-07-27",
+      3
+    ],
+    [
+      "1963-08-03",
+      2
+    ],
+    [
+      "1963-08-10",
+      1
+    ],
+    [
+      "1963-08-17",
+      1
+    ],
+    [
+      "1963-08-24",
+      1
+    ],
+    [
+      "1963-08-31",
+      3
+    ],
+    [
+      "1963-09-07",
+      11
+    ],
+    [
+      "1963-09-14",
+      23
+    ],
+    [
+      "1963-09-21",
+      33
+    ],
+    [
+      "1963-09-28",
+      61
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "title variant (fingertipspt2 / littlesteviewonder)"
+}

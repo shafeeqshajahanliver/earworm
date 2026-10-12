@@ -1,0 +1,153 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Mariah Carey"
+  ],
+  "title_as_charted": [
+    "Always Be My Baby"
+  ],
+  "debut_week": "1996-04-06",
+  "debut_position": 2,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1996-05-04",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 32,
+  "last_week": "1996-11-09",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1996-04-06",
+      2
+    ],
+    [
+      "1996-04-13",
+      2
+    ],
+    [
+      "1996-04-20",
+      2
+    ],
+    [
+      "1996-04-27",
+      2
+    ],
+    [
+      "1996-05-04",
+      1
+    ],
+    [
+      "1996-05-11",
+      1
+    ],
+    [
+      "1996-05-18",
+      2
+    ],
+    [
+      "1996-05-25",
+      2
+    ],
+    [
+      "1996-06-01",
+      2
+    ],
+    [
+      "1996-06-08",
+      2
+    ],
+    [
+      "1996-06-15",
+      2
+    ],
+    [
+      "1996-06-22",
+      4
+    ],
+    [
+      "1996-06-29",
+      5
+    ],
+    [
+      "1996-07-06",
+      6
+    ],
+    [
+      "1996-07-13",
+      7
+    ],
+    [
+      "1996-07-20",
+      11
+    ],
+    [
+      "1996-07-27",
+      14
+    ],
+    [
+      "1996-08-03",
+      17
+    ],
+    [
+      "1996-08-10",
+      20
+    ],
+    [
+      "1996-08-17",
+      20
+    ],
+    [
+      "1996-08-24",
+      22
+    ],
+    [
+      "1996-08-31",
+      24
+    ],
+    [
+      "1996-09-07",
+      26
+    ],
+    [
+      "1996-09-14",
+      31
+    ],
+    [
+      "1996-09-21",
+      31
+    ],
+    [
+      "1996-09-28",
+      32
+    ],
+    [
+      "1996-10-05",
+      42
+    ],
+    [
+      "1996-10-12",
+      41
+    ],
+    [
+      "1996-10-19",
+      41
+    ],
+    [
+      "1996-10-26",
+      43
+    ],
+    [
+      "1996-11-02",
+      44
+    ],
+    [
+      "1996-11-09",
+      48
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

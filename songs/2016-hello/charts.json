@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Adele"
+  ],
+  "title_as_charted": [
+    "Hello"
+  ],
+  "debut_week": "2015-11-14",
+  "debut_position": 1,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "2015-11-14",
+  "weeks_to_peak": 0,
+  "weeks_on_chart": 26,
+  "last_week": "2016-05-07",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "2015-11-14",
+      1
+    ],
+    [
+      "2015-11-21",
+      1
+    ],
+    [
+      "2015-11-28",
+      1
+    ],
+    [
+      "2015-12-05",
+      1
+    ],
+    [
+      "2015-12-12",
+      1
+    ],
+    [
+      "2015-12-19",
+      1
+    ],
+    [
+      "2015-12-26",
+      1
+    ],
+    [
+      "2016-01-02",
+      1
+    ],
+    [
+      "2016-01-09",
+      1
+    ],
+    [
+      "2016-01-16",
+      1
+    ],
+    [
+      "2016-01-23",
+      2
+    ],
+    [
+      "2016-01-30",
+      2
+    ],
+    [
+      "2016-02-06",
+      3
+    ],
+    [
+      "2016-02-13",
+      4
+    ],
+    [
+      "2016-02-20",
+      5
+    ],
+    [
+      "2016-02-27",
+      6
+    ],
+    [
+      "2016-03-05",
+      7
+    ],
+    [
+      "2016-03-12",
+      8
+    ],
+    [
+      "2016-03-19",
+      11
+    ],
+    [
+      "2016-03-26",
+      12
+    ],
+    [
+      "2016-04-02",
+      16
+    ],
+    [
+      "2016-04-09",
+      19
+    ],
+    [
+      "2016-04-16",
+      19
+    ],
+    [
+      "2016-04-23",
+      25
+    ],
+    [
+      "2016-04-30",
+      27
+    ],
+    [
+      "2016-05-07",
+      36
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

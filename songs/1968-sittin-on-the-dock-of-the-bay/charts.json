@@ -1,0 +1,89 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Otis Redding"
+  ],
+  "title_as_charted": [
+    "(Sittin' On) The Dock Of The Bay"
+  ],
+  "debut_week": "1968-01-27",
+  "debut_position": 67,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1968-03-16",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 16,
+  "last_week": "1968-05-11",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1968-01-27",
+      67
+    ],
+    [
+      "1968-02-03",
+      47
+    ],
+    [
+      "1968-02-10",
+      28
+    ],
+    [
+      "1968-02-17",
+      6
+    ],
+    [
+      "1968-02-24",
+      5
+    ],
+    [
+      "1968-03-02",
+      3
+    ],
+    [
+      "1968-03-09",
+      3
+    ],
+    [
+      "1968-03-16",
+      1
+    ],
+    [
+      "1968-03-23",
+      1
+    ],
+    [
+      "1968-03-30",
+      1
+    ],
+    [
+      "1968-04-06",
+      1
+    ],
+    [
+      "1968-04-13",
+      3
+    ],
+    [
+      "1968-04-20",
+      6
+    ],
+    [
+      "1968-04-27",
+      7
+    ],
+    [
+      "1968-05-04",
+      19
+    ],
+    [
+      "1968-05-11",
+      35
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

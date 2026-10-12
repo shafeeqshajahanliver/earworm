@@ -1,0 +1,133 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Gary Wright"
+  ],
+  "title_as_charted": [
+    "Love Is Alive"
+  ],
+  "debut_week": "1976-04-17",
+  "debut_position": 83,
+  "peak_position": 2,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1976-07-31",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 27,
+  "last_week": "1976-10-16",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1976-04-17",
+      83
+    ],
+    [
+      "1976-04-24",
+      73
+    ],
+    [
+      "1976-05-01",
+      63
+    ],
+    [
+      "1976-05-08",
+      53
+    ],
+    [
+      "1976-05-15",
+      40
+    ],
+    [
+      "1976-05-22",
+      34
+    ],
+    [
+      "1976-05-29",
+      26
+    ],
+    [
+      "1976-06-05",
+      18
+    ],
+    [
+      "1976-06-12",
+      15
+    ],
+    [
+      "1976-06-19",
+      13
+    ],
+    [
+      "1976-06-26",
+      11
+    ],
+    [
+      "1976-07-04",
+      10
+    ],
+    [
+      "1976-07-10",
+      8
+    ],
+    [
+      "1976-07-17",
+      6
+    ],
+    [
+      "1976-07-24",
+      5
+    ],
+    [
+      "1976-07-31",
+      2
+    ],
+    [
+      "1976-08-07",
+      2
+    ],
+    [
+      "1976-08-14",
+      6
+    ],
+    [
+      "1976-08-21",
+      15
+    ],
+    [
+      "1976-08-28",
+      15
+    ],
+    [
+      "1976-09-04",
+      22
+    ],
+    [
+      "1976-09-11",
+      33
+    ],
+    [
+      "1976-09-18",
+      51
+    ],
+    [
+      "1976-09-25",
+      54
+    ],
+    [
+      "1976-10-02",
+      54
+    ],
+    [
+      "1976-10-09",
+      72
+    ],
+    [
+      "1976-10-16",
+      72
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,93 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Del Shannon"
+  ],
+  "title_as_charted": [
+    "Runaway"
+  ],
+  "debut_week": "1961-03-06",
+  "debut_position": 77,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1961-04-24",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 17,
+  "last_week": "1961-06-26",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1961-03-06",
+      77
+    ],
+    [
+      "1961-03-13",
+      57
+    ],
+    [
+      "1961-03-20",
+      47
+    ],
+    [
+      "1961-03-27",
+      21
+    ],
+    [
+      "1961-04-03",
+      9
+    ],
+    [
+      "1961-04-10",
+      4
+    ],
+    [
+      "1961-04-17",
+      2
+    ],
+    [
+      "1961-04-24",
+      1
+    ],
+    [
+      "1961-05-01",
+      1
+    ],
+    [
+      "1961-05-08",
+      1
+    ],
+    [
+      "1961-05-15",
+      1
+    ],
+    [
+      "1961-05-22",
+      2
+    ],
+    [
+      "1961-05-29",
+      6
+    ],
+    [
+      "1961-06-05",
+      15
+    ],
+    [
+      "1961-06-12",
+      29
+    ],
+    [
+      "1961-06-19",
+      42
+    ],
+    [
+      "1961-06-26",
+      55
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

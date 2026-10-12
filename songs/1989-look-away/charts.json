@@ -1,0 +1,121 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Chicago"
+  ],
+  "title_as_charted": [
+    "Look Away"
+  ],
+  "debut_week": "1988-09-24",
+  "debut_position": 77,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1988-12-10",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 24,
+  "last_week": "1989-03-04",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1988-09-24",
+      77
+    ],
+    [
+      "1988-10-01",
+      56
+    ],
+    [
+      "1988-10-08",
+      43
+    ],
+    [
+      "1988-10-15",
+      35
+    ],
+    [
+      "1988-10-22",
+      29
+    ],
+    [
+      "1988-10-29",
+      23
+    ],
+    [
+      "1988-11-05",
+      17
+    ],
+    [
+      "1988-11-12",
+      12
+    ],
+    [
+      "1988-11-19",
+      9
+    ],
+    [
+      "1988-11-26",
+      6
+    ],
+    [
+      "1988-12-03",
+      2
+    ],
+    [
+      "1988-12-10",
+      1
+    ],
+    [
+      "1988-12-17",
+      1
+    ],
+    [
+      "1988-12-24",
+      3
+    ],
+    [
+      "1988-12-31",
+      3
+    ],
+    [
+      "1989-01-07",
+      8
+    ],
+    [
+      "1989-01-14",
+      18
+    ],
+    [
+      "1989-01-21",
+      29
+    ],
+    [
+      "1989-01-28",
+      35
+    ],
+    [
+      "1989-02-04",
+      44
+    ],
+    [
+      "1989-02-11",
+      53
+    ],
+    [
+      "1989-02-18",
+      63
+    ],
+    [
+      "1989-02-25",
+      74
+    ],
+    [
+      "1989-03-04",
+      99
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

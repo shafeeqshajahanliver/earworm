@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Drake"
+  ],
+  "title_as_charted": [
+    "In My Feelings"
+  ],
+  "debut_week": "2018-07-14",
+  "debut_position": 6,
+  "peak_position": 1,
+  "weeks_at_peak": 10,
+  "first_week_at_peak": "2018-07-21",
+  "weeks_to_peak": 1,
+  "weeks_on_chart": 22,
+  "last_week": "2018-12-08",
+  "weeks_at_number_one": 10,
+  "run": [
+    [
+      "2018-07-14",
+      6
+    ],
+    [
+      "2018-07-21",
+      1
+    ],
+    [
+      "2018-07-28",
+      1
+    ],
+    [
+      "2018-08-04",
+      1
+    ],
+    [
+      "2018-08-11",
+      1
+    ],
+    [
+      "2018-08-18",
+      1
+    ],
+    [
+      "2018-08-25",
+      1
+    ],
+    [
+      "2018-09-01",
+      1
+    ],
+    [
+      "2018-09-08",
+      1
+    ],
+    [
+      "2018-09-15",
+      1
+    ],
+    [
+      "2018-09-22",
+      1
+    ],
+    [
+      "2018-09-29",
+      2
+    ],
+    [
+      "2018-10-06",
+      4
+    ],
+    [
+      "2018-10-13",
+      9
+    ],
+    [
+      "2018-10-20",
+      11
+    ],
+    [
+      "2018-10-27",
+      15
+    ],
+    [
+      "2018-11-03",
+      23
+    ],
+    [
+      "2018-11-10",
+      23
+    ],
+    [
+      "2018-11-17",
+      27
+    ],
+    [
+      "2018-11-24",
+      29
+    ],
+    [
+      "2018-12-01",
+      25
+    ],
+    [
+      "2018-12-08",
+      37
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

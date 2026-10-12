@@ -1,0 +1,85 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Herman's Hermits"
+  ],
+  "title_as_charted": [
+    "Can't You Hear My Heartbeat"
+  ],
+  "debut_week": "1965-01-30",
+  "debut_position": 85,
+  "peak_position": 2,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1965-03-27",
+  "weeks_to_peak": 8,
+  "weeks_on_chart": 15,
+  "last_week": "1965-05-08",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1965-01-30",
+      85
+    ],
+    [
+      "1965-02-06",
+      59
+    ],
+    [
+      "1965-02-13",
+      48
+    ],
+    [
+      "1965-02-20",
+      38
+    ],
+    [
+      "1965-02-27",
+      27
+    ],
+    [
+      "1965-03-06",
+      19
+    ],
+    [
+      "1965-03-13",
+      8
+    ],
+    [
+      "1965-03-20",
+      5
+    ],
+    [
+      "1965-03-27",
+      2
+    ],
+    [
+      "1965-04-03",
+      2
+    ],
+    [
+      "1965-04-10",
+      3
+    ],
+    [
+      "1965-04-17",
+      6
+    ],
+    [
+      "1965-04-24",
+      16
+    ],
+    [
+      "1965-05-01",
+      25
+    ],
+    [
+      "1965-05-08",
+      43
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

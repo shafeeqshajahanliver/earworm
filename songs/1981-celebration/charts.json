@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Kool & The Gang"
+  ],
+  "title_as_charted": [
+    "Celebration"
+  ],
+  "debut_week": "1980-10-25",
+  "debut_position": 87,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1981-02-07",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 30,
+  "last_week": "1981-05-16",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1980-10-25",
+      87
+    ],
+    [
+      "1980-11-01",
+      77
+    ],
+    [
+      "1980-11-08",
+      59
+    ],
+    [
+      "1980-11-15",
+      50
+    ],
+    [
+      "1980-11-22",
+      35
+    ],
+    [
+      "1980-11-29",
+      32
+    ],
+    [
+      "1980-12-06",
+      28
+    ],
+    [
+      "1980-12-13",
+      25
+    ],
+    [
+      "1980-12-20",
+      20
+    ],
+    [
+      "1980-12-27",
+      17
+    ],
+    [
+      "1981-01-03",
+      17
+    ],
+    [
+      "1981-01-10",
+      16
+    ],
+    [
+      "1981-01-17",
+      14
+    ],
+    [
+      "1981-01-24",
+      12
+    ],
+    [
+      "1981-01-31",
+      3
+    ],
+    [
+      "1981-02-07",
+      1
+    ],
+    [
+      "1981-02-14",
+      1
+    ],
+    [
+      "1981-02-21",
+      3
+    ],
+    [
+      "1981-02-28",
+      4
+    ],
+    [
+      "1981-03-07",
+      6
+    ],
+    [
+      "1981-03-14",
+      10
+    ],
+    [
+      "1981-03-21",
+      13
+    ],
+    [
+      "1981-03-28",
+      17
+    ],
+    [
+      "1981-04-04",
+      17
+    ],
+    [
+      "1981-04-11",
+      30
+    ],
+    [
+      "1981-04-18",
+      44
+    ],
+    [
+      "1981-04-25",
+      46
+    ],
+    [
+      "1981-05-02",
+      54
+    ],
+    [
+      "1981-05-09",
+      72
+    ],
+    [
+      "1981-05-16",
+      92
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

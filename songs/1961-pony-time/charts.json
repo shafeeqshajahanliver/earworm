@@ -1,0 +1,89 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Chubby Checker"
+  ],
+  "title_as_charted": [
+    "Pony Time"
+  ],
+  "debut_week": "1961-01-23",
+  "debut_position": 49,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1961-02-27",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 16,
+  "last_week": "1961-05-08",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1961-01-23",
+      49
+    ],
+    [
+      "1961-01-30",
+      31
+    ],
+    [
+      "1961-02-06",
+      15
+    ],
+    [
+      "1961-02-13",
+      9
+    ],
+    [
+      "1961-02-20",
+      4
+    ],
+    [
+      "1961-02-27",
+      1
+    ],
+    [
+      "1961-03-06",
+      1
+    ],
+    [
+      "1961-03-13",
+      1
+    ],
+    [
+      "1961-03-20",
+      2
+    ],
+    [
+      "1961-03-27",
+      2
+    ],
+    [
+      "1961-04-03",
+      4
+    ],
+    [
+      "1961-04-10",
+      11
+    ],
+    [
+      "1961-04-17",
+      15
+    ],
+    [
+      "1961-04-24",
+      23
+    ],
+    [
+      "1961-05-01",
+      30
+    ],
+    [
+      "1961-05-08",
+      54
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

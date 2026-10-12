@@ -1,0 +1,81 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Kyu Sakamoto"
+  ],
+  "title_as_charted": [
+    "Sukiyaki"
+  ],
+  "debut_week": "1963-05-11",
+  "debut_position": 79,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1963-06-15",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 14,
+  "last_week": "1963-08-10",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1963-05-11",
+      79
+    ],
+    [
+      "1963-05-18",
+      45
+    ],
+    [
+      "1963-05-25",
+      20
+    ],
+    [
+      "1963-06-01",
+      10
+    ],
+    [
+      "1963-06-08",
+      2
+    ],
+    [
+      "1963-06-15",
+      1
+    ],
+    [
+      "1963-06-22",
+      1
+    ],
+    [
+      "1963-06-29",
+      1
+    ],
+    [
+      "1963-07-06",
+      2
+    ],
+    [
+      "1963-07-13",
+      6
+    ],
+    [
+      "1963-07-20",
+      8
+    ],
+    [
+      "1963-07-27",
+      14
+    ],
+    [
+      "1963-08-03",
+      18
+    ],
+    [
+      "1963-08-10",
+      37
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

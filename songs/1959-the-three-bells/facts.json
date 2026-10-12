@@ -1,0 +1,103 @@
+{
+  "id": "1959-the-three-bells",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "The Three Bells",
+  "wikidata": {
+    "qid": "Q7768953",
+    "label": "The Three Bells",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q2410071",
+          "label": "The Browns"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q3175041",
+          "label": "Jean Villard"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q3175041",
+          "label": "Jean Villard"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1959-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q106298881",
+          "label": "contemporary folk music"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "ddfd3a37-d2fa-42c7-bcdf-712f9d39bdd5"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ],
+      "has_quality": [
+        {
+          "qid": "Q63141557",
+          "label": "translated song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 435cb186-145e-4215-ba4f-f148c06564dd (1959)",
+  "musicbrainz": {
+    "recording_id": "defeaae9-0f1d-4558-9c08-37ff0f1db4c5",
+    "title": "The Three Bells",
+    "length_ms": 167000,
+    "first_release_date": "1959",
+    "artist_credit": "The Browns",
+    "artists": [
+      {
+        "name": "The Browns",
+        "mbid": "008b3e9a-ffd5-49d9-b3fc-95efa2826e3a"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "bc8e41d8-88e5-47d5-8a73-762e98aa5f00",
+        "title": "The Three Bells",
+        "date": "1959",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "435cb186-145e-4215-ba4f-f148c06564dd",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "The Browns",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Sparkman"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

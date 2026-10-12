@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Ray Parker Jr."
+  ],
+  "title_as_charted": [
+    "Ghostbusters"
+  ],
+  "debut_week": "1984-06-16",
+  "debut_position": 68,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1984-08-11",
+  "weeks_to_peak": 8,
+  "weeks_on_chart": 26,
+  "last_week": "2025-11-15",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1984-06-16",
+      68
+    ],
+    [
+      "1984-06-23",
+      46
+    ],
+    [
+      "1984-06-30",
+      29
+    ],
+    [
+      "1984-07-07",
+      19
+    ],
+    [
+      "1984-07-14",
+      8
+    ],
+    [
+      "1984-07-21",
+      3
+    ],
+    [
+      "1984-07-28",
+      2
+    ],
+    [
+      "1984-08-04",
+      2
+    ],
+    [
+      "1984-08-11",
+      1
+    ],
+    [
+      "1984-08-18",
+      1
+    ],
+    [
+      "1984-08-25",
+      1
+    ],
+    [
+      "1984-09-01",
+      4
+    ],
+    [
+      "1984-09-08",
+      4
+    ],
+    [
+      "1984-09-15",
+      9
+    ],
+    [
+      "1984-09-22",
+      13
+    ],
+    [
+      "1984-09-29",
+      19
+    ],
+    [
+      "1984-10-06",
+      43
+    ],
+    [
+      "1984-10-13",
+      53
+    ],
+    [
+      "1984-10-20",
+      66
+    ],
+    [
+      "1984-10-27",
+      95
+    ],
+    [
+      "1984-11-03",
+      98
+    ],
+    [
+      "2021-11-13",
+      40
+    ],
+    [
+      "2022-11-12",
+      49
+    ],
+    [
+      "2023-11-11",
+      45
+    ],
+    [
+      "2024-11-09",
+      28
+    ],
+    [
+      "2025-11-15",
+      22
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

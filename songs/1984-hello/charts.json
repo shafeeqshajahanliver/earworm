@@ -1,0 +1,121 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Lionel Richie"
+  ],
+  "title_as_charted": [
+    "Hello"
+  ],
+  "debut_week": "1984-02-25",
+  "debut_position": 75,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1984-05-12",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 24,
+  "last_week": "1984-08-04",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1984-02-25",
+      75
+    ],
+    [
+      "1984-03-03",
+      50
+    ],
+    [
+      "1984-03-10",
+      37
+    ],
+    [
+      "1984-03-17",
+      26
+    ],
+    [
+      "1984-03-24",
+      17
+    ],
+    [
+      "1984-03-31",
+      13
+    ],
+    [
+      "1984-04-07",
+      10
+    ],
+    [
+      "1984-04-14",
+      4
+    ],
+    [
+      "1984-04-21",
+      3
+    ],
+    [
+      "1984-04-28",
+      2
+    ],
+    [
+      "1984-05-05",
+      2
+    ],
+    [
+      "1984-05-12",
+      1
+    ],
+    [
+      "1984-05-19",
+      1
+    ],
+    [
+      "1984-05-26",
+      2
+    ],
+    [
+      "1984-06-02",
+      3
+    ],
+    [
+      "1984-06-09",
+      7
+    ],
+    [
+      "1984-06-16",
+      15
+    ],
+    [
+      "1984-06-23",
+      18
+    ],
+    [
+      "1984-06-30",
+      40
+    ],
+    [
+      "1984-07-07",
+      62
+    ],
+    [
+      "1984-07-14",
+      69
+    ],
+    [
+      "1984-07-21",
+      73
+    ],
+    [
+      "1984-07-28",
+      75
+    ],
+    [
+      "1984-08-04",
+      92
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

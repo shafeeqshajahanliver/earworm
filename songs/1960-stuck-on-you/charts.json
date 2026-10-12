@@ -1,0 +1,89 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Elvis Presley With The Jordanaires"
+  ],
+  "title_as_charted": [
+    "Stuck On You"
+  ],
+  "debut_week": "1960-04-04",
+  "debut_position": 84,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1960-04-25",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 16,
+  "last_week": "1960-07-18",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1960-04-04",
+      84
+    ],
+    [
+      "1960-04-11",
+      17
+    ],
+    [
+      "1960-04-18",
+      6
+    ],
+    [
+      "1960-04-25",
+      1
+    ],
+    [
+      "1960-05-02",
+      1
+    ],
+    [
+      "1960-05-09",
+      1
+    ],
+    [
+      "1960-05-16",
+      1
+    ],
+    [
+      "1960-05-23",
+      2
+    ],
+    [
+      "1960-05-30",
+      2
+    ],
+    [
+      "1960-06-06",
+      2
+    ],
+    [
+      "1960-06-13",
+      8
+    ],
+    [
+      "1960-06-20",
+      10
+    ],
+    [
+      "1960-06-27",
+      22
+    ],
+    [
+      "1960-07-04",
+      39
+    ],
+    [
+      "1960-07-11",
+      50
+    ],
+    [
+      "1960-07-18",
+      93
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

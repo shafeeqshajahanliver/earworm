@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Culture Club"
+  ],
+  "title_as_charted": [
+    "Karma Chameleon"
+  ],
+  "debut_week": "1983-12-03",
+  "debut_position": 52,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1984-02-04",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 22,
+  "last_week": "1984-04-28",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1983-12-03",
+      52
+    ],
+    [
+      "1983-12-10",
+      35
+    ],
+    [
+      "1983-12-17",
+      27
+    ],
+    [
+      "1983-12-24",
+      17
+    ],
+    [
+      "1983-12-31",
+      17
+    ],
+    [
+      "1984-01-07",
+      13
+    ],
+    [
+      "1984-01-14",
+      9
+    ],
+    [
+      "1984-01-21",
+      3
+    ],
+    [
+      "1984-01-28",
+      2
+    ],
+    [
+      "1984-02-04",
+      1
+    ],
+    [
+      "1984-02-11",
+      1
+    ],
+    [
+      "1984-02-18",
+      1
+    ],
+    [
+      "1984-02-25",
+      2
+    ],
+    [
+      "1984-03-03",
+      6
+    ],
+    [
+      "1984-03-10",
+      10
+    ],
+    [
+      "1984-03-17",
+      16
+    ],
+    [
+      "1984-03-24",
+      24
+    ],
+    [
+      "1984-03-31",
+      55
+    ],
+    [
+      "1984-04-07",
+      69
+    ],
+    [
+      "1984-04-14",
+      80
+    ],
+    [
+      "1984-04-21",
+      90
+    ],
+    [
+      "1984-04-28",
+      97
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

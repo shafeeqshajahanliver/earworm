@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Usher"
+  ],
+  "title_as_charted": [
+    "Burn"
+  ],
+  "debut_week": "2004-03-13",
+  "debut_position": 65,
+  "peak_position": 1,
+  "weeks_at_peak": 8,
+  "first_week_at_peak": "2004-05-22",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 30,
+  "last_week": "2004-10-02",
+  "weeks_at_number_one": 8,
+  "run": [
+    [
+      "2004-03-13",
+      65
+    ],
+    [
+      "2004-03-20",
+      32
+    ],
+    [
+      "2004-03-27",
+      24
+    ],
+    [
+      "2004-04-03",
+      15
+    ],
+    [
+      "2004-04-10",
+      10
+    ],
+    [
+      "2004-04-17",
+      5
+    ],
+    [
+      "2004-04-24",
+      4
+    ],
+    [
+      "2004-05-01",
+      3
+    ],
+    [
+      "2004-05-08",
+      3
+    ],
+    [
+      "2004-05-15",
+      3
+    ],
+    [
+      "2004-05-22",
+      1
+    ],
+    [
+      "2004-05-29",
+      1
+    ],
+    [
+      "2004-06-05",
+      1
+    ],
+    [
+      "2004-06-12",
+      1
+    ],
+    [
+      "2004-06-19",
+      1
+    ],
+    [
+      "2004-06-26",
+      1
+    ],
+    [
+      "2004-07-03",
+      1
+    ],
+    [
+      "2004-07-10",
+      2
+    ],
+    [
+      "2004-07-17",
+      1
+    ],
+    [
+      "2004-07-24",
+      3
+    ],
+    [
+      "2004-07-31",
+      3
+    ],
+    [
+      "2004-08-07",
+      8
+    ],
+    [
+      "2004-08-14",
+      12
+    ],
+    [
+      "2004-08-21",
+      18
+    ],
+    [
+      "2004-08-28",
+      23
+    ],
+    [
+      "2004-09-04",
+      26
+    ],
+    [
+      "2004-09-11",
+      31
+    ],
+    [
+      "2004-09-18",
+      35
+    ],
+    [
+      "2004-09-25",
+      42
+    ],
+    [
+      "2004-10-02",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

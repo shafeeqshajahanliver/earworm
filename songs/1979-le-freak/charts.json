@@ -1,0 +1,125 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Chic"
+  ],
+  "title_as_charted": [
+    "Le Freak"
+  ],
+  "debut_week": "1978-10-28",
+  "debut_position": 82,
+  "peak_position": 1,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "1978-12-09",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 25,
+  "last_week": "1979-04-14",
+  "weeks_at_number_one": 6,
+  "run": [
+    [
+      "1978-10-28",
+      82
+    ],
+    [
+      "1978-11-04",
+      70
+    ],
+    [
+      "1978-11-11",
+      54
+    ],
+    [
+      "1978-11-18",
+      37
+    ],
+    [
+      "1978-11-25",
+      6
+    ],
+    [
+      "1978-12-02",
+      4
+    ],
+    [
+      "1978-12-09",
+      1
+    ],
+    [
+      "1978-12-16",
+      2
+    ],
+    [
+      "1978-12-23",
+      1
+    ],
+    [
+      "1978-12-30",
+      1
+    ],
+    [
+      "1979-01-06",
+      2
+    ],
+    [
+      "1979-01-13",
+      2
+    ],
+    [
+      "1979-01-20",
+      1
+    ],
+    [
+      "1979-01-27",
+      1
+    ],
+    [
+      "1979-02-03",
+      1
+    ],
+    [
+      "1979-02-10",
+      3
+    ],
+    [
+      "1979-02-17",
+      7
+    ],
+    [
+      "1979-02-24",
+      7
+    ],
+    [
+      "1979-03-03",
+      7
+    ],
+    [
+      "1979-03-10",
+      11
+    ],
+    [
+      "1979-03-17",
+      15
+    ],
+    [
+      "1979-03-24",
+      24
+    ],
+    [
+      "1979-03-31",
+      41
+    ],
+    [
+      "1979-04-07",
+      69
+    ],
+    [
+      "1979-04-14",
+      99
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

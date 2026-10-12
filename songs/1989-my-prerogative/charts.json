@@ -1,0 +1,121 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bobby Brown"
+  ],
+  "title_as_charted": [
+    "My Prerogative"
+  ],
+  "debut_week": "1988-10-22",
+  "debut_position": 78,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1989-01-14",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 24,
+  "last_week": "1989-04-01",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1988-10-22",
+      78
+    ],
+    [
+      "1988-10-29",
+      61
+    ],
+    [
+      "1988-11-05",
+      45
+    ],
+    [
+      "1988-11-12",
+      33
+    ],
+    [
+      "1988-11-19",
+      22
+    ],
+    [
+      "1988-11-26",
+      18
+    ],
+    [
+      "1988-12-03",
+      13
+    ],
+    [
+      "1988-12-10",
+      8
+    ],
+    [
+      "1988-12-17",
+      4
+    ],
+    [
+      "1988-12-24",
+      2
+    ],
+    [
+      "1988-12-31",
+      2
+    ],
+    [
+      "1989-01-07",
+      2
+    ],
+    [
+      "1989-01-14",
+      1
+    ],
+    [
+      "1989-01-21",
+      4
+    ],
+    [
+      "1989-01-28",
+      12
+    ],
+    [
+      "1989-02-04",
+      22
+    ],
+    [
+      "1989-02-11",
+      31
+    ],
+    [
+      "1989-02-18",
+      38
+    ],
+    [
+      "1989-02-25",
+      45
+    ],
+    [
+      "1989-03-04",
+      53
+    ],
+    [
+      "1989-03-11",
+      69
+    ],
+    [
+      "1989-03-18",
+      80
+    ],
+    [
+      "1989-03-25",
+      87
+    ],
+    [
+      "1989-04-01",
+      97
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

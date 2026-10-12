@@ -1,0 +1,141 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Deborah Cox"
+  ],
+  "title_as_charted": [
+    "Nobody's Supposed To Be Here"
+  ],
+  "debut_week": "1998-10-03",
+  "debut_position": 52,
+  "peak_position": 2,
+  "weeks_at_peak": 8,
+  "first_week_at_peak": "1998-12-05",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 29,
+  "last_week": "1999-04-17",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1998-10-03",
+      52
+    ],
+    [
+      "1998-10-10",
+      35
+    ],
+    [
+      "1998-10-17",
+      29
+    ],
+    [
+      "1998-10-24",
+      23
+    ],
+    [
+      "1998-10-31",
+      17
+    ],
+    [
+      "1998-11-07",
+      10
+    ],
+    [
+      "1998-11-14",
+      8
+    ],
+    [
+      "1998-11-21",
+      5
+    ],
+    [
+      "1998-11-28",
+      3
+    ],
+    [
+      "1998-12-05",
+      2
+    ],
+    [
+      "1998-12-12",
+      2
+    ],
+    [
+      "1998-12-19",
+      2
+    ],
+    [
+      "1998-12-26",
+      2
+    ],
+    [
+      "1999-01-02",
+      2
+    ],
+    [
+      "1999-01-09",
+      2
+    ],
+    [
+      "1999-01-16",
+      2
+    ],
+    [
+      "1999-01-23",
+      2
+    ],
+    [
+      "1999-01-30",
+      3
+    ],
+    [
+      "1999-02-06",
+      4
+    ],
+    [
+      "1999-02-13",
+      3
+    ],
+    [
+      "1999-02-20",
+      5
+    ],
+    [
+      "1999-02-27",
+      6
+    ],
+    [
+      "1999-03-06",
+      7
+    ],
+    [
+      "1999-03-13",
+      7
+    ],
+    [
+      "1999-03-20",
+      10
+    ],
+    [
+      "1999-03-27",
+      17
+    ],
+    [
+      "1999-04-03",
+      28
+    ],
+    [
+      "1999-04-10",
+      34
+    ],
+    [
+      "1999-04-17",
+      43
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

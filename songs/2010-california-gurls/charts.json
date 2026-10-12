@@ -1,0 +1,133 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Katy Perry Featuring Snoop Dogg"
+  ],
+  "title_as_charted": [
+    "California Gurls"
+  ],
+  "debut_week": "2010-05-29",
+  "debut_position": 2,
+  "peak_position": 1,
+  "weeks_at_peak": 6,
+  "first_week_at_peak": "2010-06-19",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 27,
+  "last_week": "2010-11-27",
+  "weeks_at_number_one": 6,
+  "run": [
+    [
+      "2010-05-29",
+      2
+    ],
+    [
+      "2010-06-05",
+      3
+    ],
+    [
+      "2010-06-12",
+      2
+    ],
+    [
+      "2010-06-19",
+      1
+    ],
+    [
+      "2010-06-26",
+      1
+    ],
+    [
+      "2010-07-03",
+      1
+    ],
+    [
+      "2010-07-10",
+      1
+    ],
+    [
+      "2010-07-17",
+      1
+    ],
+    [
+      "2010-07-24",
+      1
+    ],
+    [
+      "2010-07-31",
+      2
+    ],
+    [
+      "2010-08-07",
+      2
+    ],
+    [
+      "2010-08-14",
+      2
+    ],
+    [
+      "2010-08-21",
+      4
+    ],
+    [
+      "2010-08-28",
+      3
+    ],
+    [
+      "2010-09-04",
+      8
+    ],
+    [
+      "2010-09-11",
+      7
+    ],
+    [
+      "2010-09-18",
+      10
+    ],
+    [
+      "2010-09-25",
+      12
+    ],
+    [
+      "2010-10-02",
+      17
+    ],
+    [
+      "2010-10-09",
+      17
+    ],
+    [
+      "2010-10-16",
+      20
+    ],
+    [
+      "2010-10-23",
+      19
+    ],
+    [
+      "2010-10-30",
+      26
+    ],
+    [
+      "2010-11-06",
+      31
+    ],
+    [
+      "2010-11-13",
+      37
+    ],
+    [
+      "2010-11-20",
+      44
+    ],
+    [
+      "2010-11-27",
+      50
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,93 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Browns"
+  ],
+  "title_as_charted": [
+    "The Three Bells"
+  ],
+  "debut_week": "1959-07-27",
+  "debut_position": 63,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1959-08-24",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 17,
+  "last_week": "1959-11-16",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1959-07-27",
+      63
+    ],
+    [
+      "1959-08-03",
+      32
+    ],
+    [
+      "1959-08-10",
+      16
+    ],
+    [
+      "1959-08-17",
+      7
+    ],
+    [
+      "1959-08-24",
+      1
+    ],
+    [
+      "1959-08-31",
+      1
+    ],
+    [
+      "1959-09-07",
+      1
+    ],
+    [
+      "1959-09-14",
+      1
+    ],
+    [
+      "1959-09-21",
+      2
+    ],
+    [
+      "1959-09-28",
+      3
+    ],
+    [
+      "1959-10-05",
+      5
+    ],
+    [
+      "1959-10-12",
+      8
+    ],
+    [
+      "1959-10-19",
+      10
+    ],
+    [
+      "1959-10-26",
+      16
+    ],
+    [
+      "1959-11-02",
+      32
+    ],
+    [
+      "1959-11-09",
+      52
+    ],
+    [
+      "1959-11-16",
+      80
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

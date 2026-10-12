@@ -1,0 +1,72 @@
+{
+  "id": "1959-lonely-boy",
+  "preview": {
+    "service": "itunes",
+    "track_id": 282219337,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Lonely Boy",
+    "artist": "Paul Anka",
+    "album": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+    "track_duration_s": 151.1,
+    "link": "https://music.apple.com/us/album/lonely-boy/282219304?i=282219337&uo=4",
+    "duration_matched_to": "musicbrainz recording length (151s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 107.7,
+    "tempo_bpm_grid": 106.6,
+    "tempo_candidates_bpm": [
+      215.3,
+      198.8,
+      107.7
+    ],
+    "beats_detected": 52,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.934,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.621,
+    "chroma_profile": [
+      0.728,
+      0.62,
+      0.916,
+      0.554,
+      0.781,
+      0.68,
+      0.7,
+      1.0,
+      0.576,
+      0.659,
+      0.657,
+      0.765
+    ],
+    "rms_dbfs": -14.36,
+    "rms_dbfs_p95_frame": -10.75,
+    "peak_dbfs": -1.05,
+    "loudness_lufs_approx": -12.93,
+    "spectral_centroid_hz_mean": 2848.2,
+    "spectral_centroid_hz_median": 2721.2,
+    "onsets": 108,
+    "onset_density_per_s": 3.603,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 282219337",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 964946: duration 145s matches no reference length",
+    "deezer 2619266572: duration 132s matches no reference length",
+    "deezer 1728916377: duration 166s matches no reference length",
+    "deezer 116260654: duration 77s matches no reference length",
+    "itunes 1620590737: duration 166s matches no reference length",
+    "itunes 282239809: version (Lonely Boy (Re-Recorded))",
+    "itunes 1798581790: duration 157s matches no reference length"
+  ]
+}

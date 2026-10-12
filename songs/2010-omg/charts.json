@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Usher Featuring will.i.am"
+  ],
+  "title_as_charted": [
+    "OMG"
+  ],
+  "debut_week": "2010-04-17",
+  "debut_position": 14,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "2010-05-15",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 30,
+  "last_week": "2010-11-06",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "2010-04-17",
+      14
+    ],
+    [
+      "2010-04-24",
+      10
+    ],
+    [
+      "2010-05-01",
+      8
+    ],
+    [
+      "2010-05-08",
+      6
+    ],
+    [
+      "2010-05-15",
+      1
+    ],
+    [
+      "2010-05-22",
+      2
+    ],
+    [
+      "2010-05-29",
+      1
+    ],
+    [
+      "2010-06-05",
+      1
+    ],
+    [
+      "2010-06-12",
+      1
+    ],
+    [
+      "2010-06-19",
+      2
+    ],
+    [
+      "2010-06-26",
+      2
+    ],
+    [
+      "2010-07-03",
+      2
+    ],
+    [
+      "2010-07-10",
+      3
+    ],
+    [
+      "2010-07-17",
+      3
+    ],
+    [
+      "2010-07-24",
+      4
+    ],
+    [
+      "2010-07-31",
+      5
+    ],
+    [
+      "2010-08-07",
+      8
+    ],
+    [
+      "2010-08-14",
+      10
+    ],
+    [
+      "2010-08-21",
+      13
+    ],
+    [
+      "2010-08-28",
+      15
+    ],
+    [
+      "2010-09-04",
+      20
+    ],
+    [
+      "2010-09-11",
+      20
+    ],
+    [
+      "2010-09-18",
+      22
+    ],
+    [
+      "2010-09-25",
+      21
+    ],
+    [
+      "2010-10-02",
+      24
+    ],
+    [
+      "2010-10-09",
+      33
+    ],
+    [
+      "2010-10-16",
+      34
+    ],
+    [
+      "2010-10-23",
+      38
+    ],
+    [
+      "2010-10-30",
+      44
+    ],
+    [
+      "2010-11-06",
+      43
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

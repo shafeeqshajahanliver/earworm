@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Eddie Murphy"
+  ],
+  "title_as_charted": [
+    "Party All The Time"
+  ],
+  "debut_week": "1985-10-05",
+  "debut_position": 82,
+  "peak_position": 2,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1985-12-28",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 22,
+  "last_week": "1986-03-01",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1985-10-05",
+      82
+    ],
+    [
+      "1985-10-12",
+      72
+    ],
+    [
+      "1985-10-19",
+      66
+    ],
+    [
+      "1985-10-26",
+      59
+    ],
+    [
+      "1985-11-02",
+      43
+    ],
+    [
+      "1985-11-09",
+      35
+    ],
+    [
+      "1985-11-16",
+      24
+    ],
+    [
+      "1985-11-23",
+      17
+    ],
+    [
+      "1985-11-30",
+      9
+    ],
+    [
+      "1985-12-07",
+      9
+    ],
+    [
+      "1985-12-14",
+      4
+    ],
+    [
+      "1985-12-21",
+      3
+    ],
+    [
+      "1985-12-28",
+      2
+    ],
+    [
+      "1986-01-04",
+      2
+    ],
+    [
+      "1986-01-11",
+      2
+    ],
+    [
+      "1986-01-18",
+      3
+    ],
+    [
+      "1986-01-25",
+      9
+    ],
+    [
+      "1986-02-01",
+      19
+    ],
+    [
+      "1986-02-08",
+      29
+    ],
+    [
+      "1986-02-15",
+      44
+    ],
+    [
+      "1986-02-22",
+      58
+    ],
+    [
+      "1986-03-01",
+      79
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

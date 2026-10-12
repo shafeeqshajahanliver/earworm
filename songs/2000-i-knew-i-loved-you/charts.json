@@ -1,0 +1,157 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Savage Garden"
+  ],
+  "title_as_charted": [
+    "I Knew I Loved You"
+  ],
+  "debut_week": "1999-10-23",
+  "debut_position": 71,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "2000-01-29",
+  "weeks_to_peak": 14,
+  "weeks_on_chart": 33,
+  "last_week": "2000-06-03",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1999-10-23",
+      71
+    ],
+    [
+      "1999-10-30",
+      48
+    ],
+    [
+      "1999-11-06",
+      43
+    ],
+    [
+      "1999-11-13",
+      31
+    ],
+    [
+      "1999-11-20",
+      20
+    ],
+    [
+      "1999-11-27",
+      13
+    ],
+    [
+      "1999-12-04",
+      7
+    ],
+    [
+      "1999-12-11",
+      6
+    ],
+    [
+      "1999-12-18",
+      4
+    ],
+    [
+      "1999-12-25",
+      4
+    ],
+    [
+      "2000-01-01",
+      5
+    ],
+    [
+      "2000-01-08",
+      6
+    ],
+    [
+      "2000-01-15",
+      4
+    ],
+    [
+      "2000-01-22",
+      2
+    ],
+    [
+      "2000-01-29",
+      1
+    ],
+    [
+      "2000-02-05",
+      1
+    ],
+    [
+      "2000-02-12",
+      1
+    ],
+    [
+      "2000-02-19",
+      2
+    ],
+    [
+      "2000-02-26",
+      1
+    ],
+    [
+      "2000-03-04",
+      2
+    ],
+    [
+      "2000-03-11",
+      4
+    ],
+    [
+      "2000-03-18",
+      8
+    ],
+    [
+      "2000-03-25",
+      8
+    ],
+    [
+      "2000-04-01",
+      12
+    ],
+    [
+      "2000-04-08",
+      14
+    ],
+    [
+      "2000-04-15",
+      17
+    ],
+    [
+      "2000-04-22",
+      21
+    ],
+    [
+      "2000-04-29",
+      24
+    ],
+    [
+      "2000-05-06",
+      30
+    ],
+    [
+      "2000-05-13",
+      34
+    ],
+    [
+      "2000-05-20",
+      37
+    ],
+    [
+      "2000-05-27",
+      46
+    ],
+    [
+      "2000-06-03",
+      47
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

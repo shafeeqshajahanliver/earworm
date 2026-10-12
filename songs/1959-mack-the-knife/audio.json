@@ -1,0 +1,73 @@
+{
+  "id": "1959-mack-the-knife",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3613202,
+    "matched_by": "isrc",
+    "isrc": "USEW10000025",
+    "title": "Mack the Knife (LP Version)",
+    "artist": "Bobby Darin",
+    "album": "Music From The House That Ahmet Built",
+    "track_duration_s": 184,
+    "link": "https://www.deezer.com/track/3613202",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 167.5,
+    "tempo_bpm_grid": 166.7,
+    "tempo_candidates_bpm": [
+      172.3,
+      161.5,
+      83.4
+    ],
+    "beats_detected": 84,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.82,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.632,
+    "chroma_profile": [
+      0.587,
+      0.54,
+      0.525,
+      0.639,
+      0.768,
+      0.61,
+      0.661,
+      0.578,
+      0.618,
+      0.548,
+      0.64,
+      1.0
+    ],
+    "rms_dbfs": -17.59,
+    "rms_dbfs_p95_frame": -12.98,
+    "peak_dbfs": -2.77,
+    "loudness_lufs_approx": -16.11,
+    "spectral_centroid_hz_mean": 2291.5,
+    "spectral_centroid_hz_median": 2109.1,
+    "onsets": 98,
+    "onset_density_per_s": 3.268,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3613202",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 84,
+    "gain": -14.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3613202",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about double Deezer's bpm (84.0): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

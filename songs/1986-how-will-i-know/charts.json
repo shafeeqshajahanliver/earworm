@@ -1,0 +1,121 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Whitney Houston"
+  ],
+  "title_as_charted": [
+    "How Will I Know"
+  ],
+  "debut_week": "1985-12-07",
+  "debut_position": 60,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1986-02-15",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 24,
+  "last_week": "2012-03-03",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1985-12-07",
+      60
+    ],
+    [
+      "1985-12-14",
+      50
+    ],
+    [
+      "1985-12-21",
+      42
+    ],
+    [
+      "1985-12-28",
+      36
+    ],
+    [
+      "1986-01-04",
+      36
+    ],
+    [
+      "1986-01-11",
+      31
+    ],
+    [
+      "1986-01-18",
+      23
+    ],
+    [
+      "1986-01-25",
+      17
+    ],
+    [
+      "1986-02-01",
+      11
+    ],
+    [
+      "1986-02-08",
+      5
+    ],
+    [
+      "1986-02-15",
+      1
+    ],
+    [
+      "1986-02-22",
+      1
+    ],
+    [
+      "1986-03-01",
+      2
+    ],
+    [
+      "1986-03-08",
+      3
+    ],
+    [
+      "1986-03-15",
+      5
+    ],
+    [
+      "1986-03-22",
+      12
+    ],
+    [
+      "1986-03-29",
+      18
+    ],
+    [
+      "1986-04-05",
+      26
+    ],
+    [
+      "1986-04-12",
+      35
+    ],
+    [
+      "1986-04-19",
+      47
+    ],
+    [
+      "1986-04-26",
+      59
+    ],
+    [
+      "1986-05-03",
+      74
+    ],
+    [
+      "1986-05-10",
+      97
+    ],
+    [
+      "2012-03-03",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

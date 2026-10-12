@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Wayne Newton"
+  ],
+  "title_as_charted": [
+    "Daddy Don't You Walk So Fast"
+  ],
+  "debut_week": "1972-04-22",
+  "debut_position": 100,
+  "peak_position": 4,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1972-08-05",
+  "weeks_to_peak": 15,
+  "weeks_on_chart": 20,
+  "last_week": "1972-09-02",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1972-04-22",
+      100
+    ],
+    [
+      "1972-04-29",
+      88
+    ],
+    [
+      "1972-05-06",
+      73
+    ],
+    [
+      "1972-05-13",
+      63
+    ],
+    [
+      "1972-05-20",
+      55
+    ],
+    [
+      "1972-05-27",
+      49
+    ],
+    [
+      "1972-06-03",
+      42
+    ],
+    [
+      "1972-06-10",
+      36
+    ],
+    [
+      "1972-06-17",
+      26
+    ],
+    [
+      "1972-06-24",
+      15
+    ],
+    [
+      "1972-07-01",
+      10
+    ],
+    [
+      "1972-07-08",
+      8
+    ],
+    [
+      "1972-07-15",
+      7
+    ],
+    [
+      "1972-07-22",
+      6
+    ],
+    [
+      "1972-07-29",
+      5
+    ],
+    [
+      "1972-08-05",
+      4
+    ],
+    [
+      "1972-08-12",
+      4
+    ],
+    [
+      "1972-08-19",
+      7
+    ],
+    [
+      "1972-08-26",
+      15
+    ],
+    [
+      "1972-09-02",
+      25
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

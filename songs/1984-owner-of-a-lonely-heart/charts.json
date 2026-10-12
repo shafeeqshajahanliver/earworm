@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Yes"
+  ],
+  "title_as_charted": [
+    "Owner Of A Lonely Heart"
+  ],
+  "debut_week": "1983-11-05",
+  "debut_position": 62,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1984-01-21",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 23,
+  "last_week": "1984-04-07",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1983-11-05",
+      62
+    ],
+    [
+      "1983-11-12",
+      45
+    ],
+    [
+      "1983-11-19",
+      37
+    ],
+    [
+      "1983-11-26",
+      27
+    ],
+    [
+      "1983-12-03",
+      14
+    ],
+    [
+      "1983-12-10",
+      11
+    ],
+    [
+      "1983-12-17",
+      7
+    ],
+    [
+      "1983-12-24",
+      4
+    ],
+    [
+      "1983-12-31",
+      4
+    ],
+    [
+      "1984-01-07",
+      4
+    ],
+    [
+      "1984-01-14",
+      2
+    ],
+    [
+      "1984-01-21",
+      1
+    ],
+    [
+      "1984-01-28",
+      1
+    ],
+    [
+      "1984-02-04",
+      2
+    ],
+    [
+      "1984-02-11",
+      4
+    ],
+    [
+      "1984-02-18",
+      8
+    ],
+    [
+      "1984-02-25",
+      19
+    ],
+    [
+      "1984-03-03",
+      22
+    ],
+    [
+      "1984-03-10",
+      39
+    ],
+    [
+      "1984-03-17",
+      57
+    ],
+    [
+      "1984-03-24",
+      69
+    ],
+    [
+      "1984-03-31",
+      79
+    ],
+    [
+      "1984-04-07",
+      97
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,85 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Roy Orbison And The Candy Men"
+  ],
+  "title_as_charted": [
+    "Oh, Pretty Woman"
+  ],
+  "debut_week": "1964-08-29",
+  "debut_position": 51,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1964-09-26",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 15,
+  "last_week": "1964-12-05",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1964-08-29",
+      51
+    ],
+    [
+      "1964-09-05",
+      27
+    ],
+    [
+      "1964-09-12",
+      10
+    ],
+    [
+      "1964-09-19",
+      4
+    ],
+    [
+      "1964-09-26",
+      1
+    ],
+    [
+      "1964-10-03",
+      1
+    ],
+    [
+      "1964-10-10",
+      1
+    ],
+    [
+      "1964-10-17",
+      3
+    ],
+    [
+      "1964-10-24",
+      5
+    ],
+    [
+      "1964-10-31",
+      8
+    ],
+    [
+      "1964-11-07",
+      11
+    ],
+    [
+      "1964-11-14",
+      11
+    ],
+    [
+      "1964-11-21",
+      13
+    ],
+    [
+      "1964-11-28",
+      21
+    ],
+    [
+      "1964-12-05",
+      34
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

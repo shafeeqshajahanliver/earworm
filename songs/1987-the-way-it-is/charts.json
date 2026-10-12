@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Bruce Hornsby & The Range"
+  ],
+  "title_as_charted": [
+    "The Way It Is"
+  ],
+  "debut_week": "1986-09-20",
+  "debut_position": 86,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1986-12-13",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 22,
+  "last_week": "1987-02-14",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1986-09-20",
+      86
+    ],
+    [
+      "1986-09-27",
+      70
+    ],
+    [
+      "1986-10-04",
+      60
+    ],
+    [
+      "1986-10-11",
+      49
+    ],
+    [
+      "1986-10-18",
+      40
+    ],
+    [
+      "1986-10-25",
+      30
+    ],
+    [
+      "1986-11-01",
+      27
+    ],
+    [
+      "1986-11-08",
+      18
+    ],
+    [
+      "1986-11-15",
+      14
+    ],
+    [
+      "1986-11-22",
+      9
+    ],
+    [
+      "1986-11-29",
+      8
+    ],
+    [
+      "1986-12-06",
+      4
+    ],
+    [
+      "1986-12-13",
+      1
+    ],
+    [
+      "1986-12-20",
+      2
+    ],
+    [
+      "1986-12-27",
+      5
+    ],
+    [
+      "1987-01-03",
+      5
+    ],
+    [
+      "1987-01-10",
+      7
+    ],
+    [
+      "1987-01-17",
+      15
+    ],
+    [
+      "1987-01-24",
+      27
+    ],
+    [
+      "1987-01-31",
+      42
+    ],
+    [
+      "1987-02-07",
+      55
+    ],
+    [
+      "1987-02-14",
+      81
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

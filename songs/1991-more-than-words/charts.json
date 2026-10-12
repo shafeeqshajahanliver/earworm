@@ -1,0 +1,121 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Extreme"
+  ],
+  "title_as_charted": [
+    "More Than Words"
+  ],
+  "debut_week": "1991-03-23",
+  "debut_position": 81,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1991-06-08",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 24,
+  "last_week": "1991-08-31",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1991-03-23",
+      81
+    ],
+    [
+      "1991-03-30",
+      60
+    ],
+    [
+      "1991-04-06",
+      52
+    ],
+    [
+      "1991-04-13",
+      37
+    ],
+    [
+      "1991-04-20",
+      30
+    ],
+    [
+      "1991-04-27",
+      23
+    ],
+    [
+      "1991-05-04",
+      16
+    ],
+    [
+      "1991-05-11",
+      9
+    ],
+    [
+      "1991-05-18",
+      9
+    ],
+    [
+      "1991-05-25",
+      3
+    ],
+    [
+      "1991-06-01",
+      2
+    ],
+    [
+      "1991-06-08",
+      1
+    ],
+    [
+      "1991-06-15",
+      3
+    ],
+    [
+      "1991-06-22",
+      3
+    ],
+    [
+      "1991-06-29",
+      6
+    ],
+    [
+      "1991-07-06",
+      6
+    ],
+    [
+      "1991-07-13",
+      15
+    ],
+    [
+      "1991-07-20",
+      21
+    ],
+    [
+      "1991-07-27",
+      30
+    ],
+    [
+      "1991-08-03",
+      39
+    ],
+    [
+      "1991-08-10",
+      46
+    ],
+    [
+      "1991-08-17",
+      55
+    ],
+    [
+      "1991-08-24",
+      70
+    ],
+    [
+      "1991-08-31",
+      88
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

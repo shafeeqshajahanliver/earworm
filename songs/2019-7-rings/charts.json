@@ -1,0 +1,157 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Ariana Grande"
+  ],
+  "title_as_charted": [
+    "7 Rings"
+  ],
+  "debut_week": "2019-02-02",
+  "debut_position": 1,
+  "peak_position": 1,
+  "weeks_at_peak": 8,
+  "first_week_at_peak": "2019-02-02",
+  "weeks_to_peak": 0,
+  "weeks_on_chart": 33,
+  "last_week": "2019-09-14",
+  "weeks_at_number_one": 8,
+  "run": [
+    [
+      "2019-02-02",
+      1
+    ],
+    [
+      "2019-02-09",
+      1
+    ],
+    [
+      "2019-02-16",
+      1
+    ],
+    [
+      "2019-02-23",
+      1
+    ],
+    [
+      "2019-03-02",
+      1
+    ],
+    [
+      "2019-03-09",
+      2
+    ],
+    [
+      "2019-03-16",
+      2
+    ],
+    [
+      "2019-03-23",
+      1
+    ],
+    [
+      "2019-03-30",
+      1
+    ],
+    [
+      "2019-04-06",
+      1
+    ],
+    [
+      "2019-04-13",
+      3
+    ],
+    [
+      "2019-04-20",
+      4
+    ],
+    [
+      "2019-04-27",
+      4
+    ],
+    [
+      "2019-05-04",
+      4
+    ],
+    [
+      "2019-05-11",
+      6
+    ],
+    [
+      "2019-05-18",
+      10
+    ],
+    [
+      "2019-05-25",
+      11
+    ],
+    [
+      "2019-06-01",
+      12
+    ],
+    [
+      "2019-06-08",
+      14
+    ],
+    [
+      "2019-06-15",
+      13
+    ],
+    [
+      "2019-06-22",
+      16
+    ],
+    [
+      "2019-06-29",
+      19
+    ],
+    [
+      "2019-07-06",
+      23
+    ],
+    [
+      "2019-07-13",
+      23
+    ],
+    [
+      "2019-07-20",
+      24
+    ],
+    [
+      "2019-07-27",
+      30
+    ],
+    [
+      "2019-08-03",
+      33
+    ],
+    [
+      "2019-08-10",
+      30
+    ],
+    [
+      "2019-08-17",
+      30
+    ],
+    [
+      "2019-08-24",
+      29
+    ],
+    [
+      "2019-08-31",
+      37
+    ],
+    [
+      "2019-09-07",
+      43
+    ],
+    [
+      "2019-09-14",
+      40
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

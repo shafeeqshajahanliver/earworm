@@ -1,0 +1,117 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Hi-Five"
+  ],
+  "title_as_charted": [
+    "I Like The Way (The Kissing Game)"
+  ],
+  "debut_week": "1991-02-23",
+  "debut_position": 90,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1991-05-18",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 23,
+  "last_week": "1991-07-27",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1991-02-23",
+      90
+    ],
+    [
+      "1991-03-02",
+      73
+    ],
+    [
+      "1991-03-09",
+      47
+    ],
+    [
+      "1991-03-16",
+      35
+    ],
+    [
+      "1991-03-23",
+      32
+    ],
+    [
+      "1991-03-30",
+      24
+    ],
+    [
+      "1991-04-06",
+      19
+    ],
+    [
+      "1991-04-13",
+      13
+    ],
+    [
+      "1991-04-20",
+      8
+    ],
+    [
+      "1991-04-27",
+      4
+    ],
+    [
+      "1991-05-04",
+      3
+    ],
+    [
+      "1991-05-11",
+      3
+    ],
+    [
+      "1991-05-18",
+      1
+    ],
+    [
+      "1991-05-25",
+      4
+    ],
+    [
+      "1991-06-01",
+      6
+    ],
+    [
+      "1991-06-08",
+      7
+    ],
+    [
+      "1991-06-15",
+      10
+    ],
+    [
+      "1991-06-22",
+      14
+    ],
+    [
+      "1991-06-29",
+      22
+    ],
+    [
+      "1991-07-06",
+      34
+    ],
+    [
+      "1991-07-13",
+      44
+    ],
+    [
+      "1991-07-20",
+      67
+    ],
+    [
+      "1991-07-27",
+      91
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

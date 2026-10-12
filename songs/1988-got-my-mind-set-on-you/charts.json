@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "George Harrison"
+  ],
+  "title_as_charted": [
+    "Got My Mind Set On You"
+  ],
+  "debut_week": "1987-10-24",
+  "debut_position": 66,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1988-01-16",
+  "weeks_to_peak": 12,
+  "weeks_on_chart": 22,
+  "last_week": "1988-03-19",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1987-10-24",
+      66
+    ],
+    [
+      "1987-10-31",
+      54
+    ],
+    [
+      "1987-11-07",
+      44
+    ],
+    [
+      "1987-11-14",
+      38
+    ],
+    [
+      "1987-11-21",
+      26
+    ],
+    [
+      "1987-11-28",
+      19
+    ],
+    [
+      "1987-12-05",
+      11
+    ],
+    [
+      "1987-12-12",
+      10
+    ],
+    [
+      "1987-12-19",
+      5
+    ],
+    [
+      "1987-12-26",
+      4
+    ],
+    [
+      "1988-01-02",
+      4
+    ],
+    [
+      "1988-01-09",
+      2
+    ],
+    [
+      "1988-01-16",
+      1
+    ],
+    [
+      "1988-01-23",
+      4
+    ],
+    [
+      "1988-01-30",
+      7
+    ],
+    [
+      "1988-02-06",
+      18
+    ],
+    [
+      "1988-02-13",
+      25
+    ],
+    [
+      "1988-02-20",
+      36
+    ],
+    [
+      "1988-02-27",
+      51
+    ],
+    [
+      "1988-03-05",
+      65
+    ],
+    [
+      "1988-03-12",
+      93
+    ],
+    [
+      "1988-03-19",
+      99
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

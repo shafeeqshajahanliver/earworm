@@ -1,0 +1,153 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Boyz II Men"
+  ],
+  "title_as_charted": [
+    "End Of The Road (From \"Boomerang\")"
+  ],
+  "debut_week": "1992-07-18",
+  "debut_position": 53,
+  "peak_position": 1,
+  "weeks_at_peak": 13,
+  "first_week_at_peak": "1992-08-15",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 32,
+  "last_week": "1993-02-20",
+  "weeks_at_number_one": 13,
+  "run": [
+    [
+      "1992-07-18",
+      53
+    ],
+    [
+      "1992-07-25",
+      32
+    ],
+    [
+      "1992-08-01",
+      8
+    ],
+    [
+      "1992-08-08",
+      4
+    ],
+    [
+      "1992-08-15",
+      1
+    ],
+    [
+      "1992-08-22",
+      1
+    ],
+    [
+      "1992-08-29",
+      1
+    ],
+    [
+      "1992-09-05",
+      1
+    ],
+    [
+      "1992-09-12",
+      1
+    ],
+    [
+      "1992-09-19",
+      1
+    ],
+    [
+      "1992-09-26",
+      1
+    ],
+    [
+      "1992-10-03",
+      1
+    ],
+    [
+      "1992-10-10",
+      1
+    ],
+    [
+      "1992-10-17",
+      1
+    ],
+    [
+      "1992-10-24",
+      1
+    ],
+    [
+      "1992-10-31",
+      1
+    ],
+    [
+      "1992-11-07",
+      1
+    ],
+    [
+      "1992-11-14",
+      2
+    ],
+    [
+      "1992-11-21",
+      4
+    ],
+    [
+      "1992-11-28",
+      6
+    ],
+    [
+      "1992-12-05",
+      10
+    ],
+    [
+      "1992-12-12",
+      14
+    ],
+    [
+      "1992-12-19",
+      17
+    ],
+    [
+      "1992-12-26",
+      21
+    ],
+    [
+      "1993-01-02",
+      32
+    ],
+    [
+      "1993-01-09",
+      41
+    ],
+    [
+      "1993-01-16",
+      34
+    ],
+    [
+      "1993-01-23",
+      30
+    ],
+    [
+      "1993-01-30",
+      33
+    ],
+    [
+      "1993-02-06",
+      34
+    ],
+    [
+      "1993-02-13",
+      42
+    ],
+    [
+      "1993-02-20",
+      45
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

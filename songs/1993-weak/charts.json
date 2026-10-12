@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "SWV"
+  ],
+  "title_as_charted": [
+    "Weak"
+  ],
+  "debut_week": "1993-04-24",
+  "debut_position": 58,
+  "peak_position": 1,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1993-07-10",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 26,
+  "last_week": "1993-10-16",
+  "weeks_at_number_one": 2,
+  "run": [
+    [
+      "1993-04-24",
+      58
+    ],
+    [
+      "1993-05-01",
+      46
+    ],
+    [
+      "1993-05-08",
+      22
+    ],
+    [
+      "1993-05-15",
+      12
+    ],
+    [
+      "1993-05-22",
+      8
+    ],
+    [
+      "1993-05-29",
+      4
+    ],
+    [
+      "1993-06-05",
+      4
+    ],
+    [
+      "1993-06-12",
+      4
+    ],
+    [
+      "1993-06-19",
+      2
+    ],
+    [
+      "1993-06-26",
+      2
+    ],
+    [
+      "1993-07-03",
+      2
+    ],
+    [
+      "1993-07-10",
+      1
+    ],
+    [
+      "1993-07-17",
+      1
+    ],
+    [
+      "1993-07-24",
+      2
+    ],
+    [
+      "1993-07-31",
+      3
+    ],
+    [
+      "1993-08-07",
+      3
+    ],
+    [
+      "1993-08-14",
+      3
+    ],
+    [
+      "1993-08-21",
+      6
+    ],
+    [
+      "1993-08-28",
+      10
+    ],
+    [
+      "1993-09-04",
+      13
+    ],
+    [
+      "1993-09-11",
+      17
+    ],
+    [
+      "1993-09-18",
+      22
+    ],
+    [
+      "1993-09-25",
+      27
+    ],
+    [
+      "1993-10-02",
+      37
+    ],
+    [
+      "1993-10-09",
+      46
+    ],
+    [
+      "1993-10-16",
+      46
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

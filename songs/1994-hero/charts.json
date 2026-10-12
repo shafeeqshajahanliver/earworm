@@ -1,0 +1,145 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Mariah Carey"
+  ],
+  "title_as_charted": [
+    "Hero"
+  ],
+  "debut_week": "1993-10-23",
+  "debut_position": 71,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1993-12-25",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 30,
+  "last_week": "1994-05-14",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1993-10-23",
+      71
+    ],
+    [
+      "1993-10-30",
+      45
+    ],
+    [
+      "1993-11-06",
+      21
+    ],
+    [
+      "1993-11-13",
+      12
+    ],
+    [
+      "1993-11-20",
+      8
+    ],
+    [
+      "1993-11-27",
+      7
+    ],
+    [
+      "1993-12-04",
+      6
+    ],
+    [
+      "1993-12-11",
+      4
+    ],
+    [
+      "1993-12-18",
+      3
+    ],
+    [
+      "1993-12-25",
+      1
+    ],
+    [
+      "1994-01-01",
+      1
+    ],
+    [
+      "1994-01-08",
+      1
+    ],
+    [
+      "1994-01-15",
+      1
+    ],
+    [
+      "1994-01-22",
+      2
+    ],
+    [
+      "1994-01-29",
+      2
+    ],
+    [
+      "1994-02-05",
+      2
+    ],
+    [
+      "1994-02-12",
+      4
+    ],
+    [
+      "1994-02-19",
+      6
+    ],
+    [
+      "1994-02-26",
+      7
+    ],
+    [
+      "1994-03-05",
+      10
+    ],
+    [
+      "1994-03-12",
+      14
+    ],
+    [
+      "1994-03-19",
+      17
+    ],
+    [
+      "1994-03-26",
+      20
+    ],
+    [
+      "1994-04-02",
+      22
+    ],
+    [
+      "1994-04-09",
+      26
+    ],
+    [
+      "1994-04-16",
+      34
+    ],
+    [
+      "1994-04-23",
+      36
+    ],
+    [
+      "1994-04-30",
+      45
+    ],
+    [
+      "1994-05-07",
+      49
+    ],
+    [
+      "1994-05-14",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

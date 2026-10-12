@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Earth, Wind & Fire"
+  ],
+  "title_as_charted": [
+    "Shining Star"
+  ],
+  "debut_week": "1975-02-15",
+  "debut_position": 86,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1975-05-24",
+  "weeks_to_peak": 14,
+  "weeks_on_chart": 20,
+  "last_week": "1975-06-28",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1975-02-15",
+      86
+    ],
+    [
+      "1975-02-22",
+      75
+    ],
+    [
+      "1975-03-01",
+      63
+    ],
+    [
+      "1975-03-08",
+      51
+    ],
+    [
+      "1975-03-15",
+      41
+    ],
+    [
+      "1975-03-22",
+      31
+    ],
+    [
+      "1975-03-29",
+      25
+    ],
+    [
+      "1975-04-05",
+      20
+    ],
+    [
+      "1975-04-12",
+      17
+    ],
+    [
+      "1975-04-19",
+      14
+    ],
+    [
+      "1975-04-26",
+      11
+    ],
+    [
+      "1975-05-03",
+      7
+    ],
+    [
+      "1975-05-10",
+      5
+    ],
+    [
+      "1975-05-17",
+      4
+    ],
+    [
+      "1975-05-24",
+      1
+    ],
+    [
+      "1975-05-31",
+      8
+    ],
+    [
+      "1975-06-07",
+      13
+    ],
+    [
+      "1975-06-14",
+      16
+    ],
+    [
+      "1975-06-21",
+      29
+    ],
+    [
+      "1975-06-28",
+      43
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,93 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Carly Simon"
+  ],
+  "title_as_charted": [
+    "You're So Vain"
+  ],
+  "debut_week": "1972-12-02",
+  "debut_position": 99,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1973-01-06",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 17,
+  "last_week": "1973-03-24",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1972-12-02",
+      99
+    ],
+    [
+      "1972-12-09",
+      60
+    ],
+    [
+      "1972-12-16",
+      37
+    ],
+    [
+      "1972-12-23",
+      9
+    ],
+    [
+      "1972-12-30",
+      4
+    ],
+    [
+      "1973-01-06",
+      1
+    ],
+    [
+      "1973-01-13",
+      1
+    ],
+    [
+      "1973-01-20",
+      1
+    ],
+    [
+      "1973-01-27",
+      2
+    ],
+    [
+      "1973-02-03",
+      2
+    ],
+    [
+      "1973-02-10",
+      2
+    ],
+    [
+      "1973-02-17",
+      2
+    ],
+    [
+      "1973-02-24",
+      4
+    ],
+    [
+      "1973-03-03",
+      6
+    ],
+    [
+      "1973-03-10",
+      11
+    ],
+    [
+      "1973-03-17",
+      26
+    ],
+    [
+      "1973-03-24",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

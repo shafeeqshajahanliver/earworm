@@ -1,0 +1,93 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Ray Stevens"
+  ],
+  "title_as_charted": [
+    "The Streak"
+  ],
+  "debut_week": "1974-04-13",
+  "debut_position": 84,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1974-05-18",
+  "weeks_to_peak": 5,
+  "weeks_on_chart": 17,
+  "last_week": "1974-08-03",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1974-04-13",
+      84
+    ],
+    [
+      "1974-04-20",
+      54
+    ],
+    [
+      "1974-04-27",
+      19
+    ],
+    [
+      "1974-05-04",
+      6
+    ],
+    [
+      "1974-05-11",
+      2
+    ],
+    [
+      "1974-05-18",
+      1
+    ],
+    [
+      "1974-05-25",
+      1
+    ],
+    [
+      "1974-06-01",
+      1
+    ],
+    [
+      "1974-06-08",
+      2
+    ],
+    [
+      "1974-06-15",
+      4
+    ],
+    [
+      "1974-06-22",
+      4
+    ],
+    [
+      "1974-06-29",
+      14
+    ],
+    [
+      "1974-07-06",
+      18
+    ],
+    [
+      "1974-07-13",
+      29
+    ],
+    [
+      "1974-07-20",
+      41
+    ],
+    [
+      "1974-07-27",
+      58
+    ],
+    [
+      "1974-08-03",
+      80
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

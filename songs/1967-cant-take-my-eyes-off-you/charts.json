@@ -1,0 +1,89 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Frankie Valli"
+  ],
+  "title_as_charted": [
+    "Can't Take My Eyes Off You"
+  ],
+  "debut_week": "1967-05-20",
+  "debut_position": 74,
+  "peak_position": 2,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1967-07-22",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 16,
+  "last_week": "1967-09-02",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1967-05-20",
+      74
+    ],
+    [
+      "1967-05-27",
+      53
+    ],
+    [
+      "1967-06-03",
+      33
+    ],
+    [
+      "1967-06-10",
+      17
+    ],
+    [
+      "1967-06-17",
+      11
+    ],
+    [
+      "1967-06-24",
+      8
+    ],
+    [
+      "1967-07-01",
+      7
+    ],
+    [
+      "1967-07-08",
+      3
+    ],
+    [
+      "1967-07-15",
+      3
+    ],
+    [
+      "1967-07-22",
+      2
+    ],
+    [
+      "1967-07-29",
+      4
+    ],
+    [
+      "1967-08-05",
+      6
+    ],
+    [
+      "1967-08-12",
+      6
+    ],
+    [
+      "1967-08-19",
+      14
+    ],
+    [
+      "1967-08-26",
+      24
+    ],
+    [
+      "1967-09-02",
+      35
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

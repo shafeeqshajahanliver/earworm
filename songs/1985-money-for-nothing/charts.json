@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Dire Straits"
+  ],
+  "title_as_charted": [
+    "Money For Nothing"
+  ],
+  "debut_week": "1985-07-13",
+  "debut_position": 87,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1985-09-21",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 22,
+  "last_week": "1985-12-07",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1985-07-13",
+      87
+    ],
+    [
+      "1985-07-20",
+      74
+    ],
+    [
+      "1985-07-27",
+      58
+    ],
+    [
+      "1985-08-03",
+      43
+    ],
+    [
+      "1985-08-10",
+      28
+    ],
+    [
+      "1985-08-17",
+      23
+    ],
+    [
+      "1985-08-24",
+      17
+    ],
+    [
+      "1985-08-31",
+      10
+    ],
+    [
+      "1985-09-07",
+      6
+    ],
+    [
+      "1985-09-14",
+      3
+    ],
+    [
+      "1985-09-21",
+      1
+    ],
+    [
+      "1985-09-28",
+      1
+    ],
+    [
+      "1985-10-05",
+      1
+    ],
+    [
+      "1985-10-12",
+      2
+    ],
+    [
+      "1985-10-19",
+      7
+    ],
+    [
+      "1985-10-26",
+      12
+    ],
+    [
+      "1985-11-02",
+      24
+    ],
+    [
+      "1985-11-09",
+      41
+    ],
+    [
+      "1985-11-16",
+      55
+    ],
+    [
+      "1985-11-23",
+      56
+    ],
+    [
+      "1985-11-30",
+      68
+    ],
+    [
+      "1985-12-07",
+      79
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

@@ -1,0 +1,89 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Dee Clark"
+  ],
+  "title_as_charted": [
+    "Raindrops"
+  ],
+  "debut_week": "1961-05-01",
+  "debut_position": 90,
+  "peak_position": 2,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1961-06-26",
+  "weeks_to_peak": 8,
+  "weeks_on_chart": 16,
+  "last_week": "1961-08-14",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1961-05-01",
+      90
+    ],
+    [
+      "1961-05-08",
+      62
+    ],
+    [
+      "1961-05-15",
+      51
+    ],
+    [
+      "1961-05-22",
+      38
+    ],
+    [
+      "1961-05-29",
+      15
+    ],
+    [
+      "1961-06-05",
+      9
+    ],
+    [
+      "1961-06-12",
+      5
+    ],
+    [
+      "1961-06-19",
+      5
+    ],
+    [
+      "1961-06-26",
+      2
+    ],
+    [
+      "1961-07-03",
+      4
+    ],
+    [
+      "1961-07-10",
+      4
+    ],
+    [
+      "1961-07-17",
+      4
+    ],
+    [
+      "1961-07-24",
+      7
+    ],
+    [
+      "1961-07-31",
+      12
+    ],
+    [
+      "1961-08-07",
+      31
+    ],
+    [
+      "1961-08-14",
+      50
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

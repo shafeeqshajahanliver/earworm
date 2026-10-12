@@ -1,0 +1,161 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "TLC"
+  ],
+  "title_as_charted": [
+    "Waterfalls"
+  ],
+  "debut_week": "1995-06-10",
+  "debut_position": 39,
+  "peak_position": 1,
+  "weeks_at_peak": 7,
+  "first_week_at_peak": "1995-07-08",
+  "weeks_to_peak": 4,
+  "weeks_on_chart": 34,
+  "last_week": "1996-01-27",
+  "weeks_at_number_one": 7,
+  "run": [
+    [
+      "1995-06-10",
+      39
+    ],
+    [
+      "1995-06-17",
+      12
+    ],
+    [
+      "1995-06-24",
+      8
+    ],
+    [
+      "1995-07-01",
+      7
+    ],
+    [
+      "1995-07-08",
+      1
+    ],
+    [
+      "1995-07-15",
+      1
+    ],
+    [
+      "1995-07-22",
+      1
+    ],
+    [
+      "1995-07-29",
+      1
+    ],
+    [
+      "1995-08-05",
+      1
+    ],
+    [
+      "1995-08-12",
+      1
+    ],
+    [
+      "1995-08-19",
+      1
+    ],
+    [
+      "1995-08-26",
+      2
+    ],
+    [
+      "1995-09-02",
+      4
+    ],
+    [
+      "1995-09-09",
+      4
+    ],
+    [
+      "1995-09-16",
+      4
+    ],
+    [
+      "1995-09-23",
+      4
+    ],
+    [
+      "1995-09-30",
+      6
+    ],
+    [
+      "1995-10-07",
+      6
+    ],
+    [
+      "1995-10-14",
+      6
+    ],
+    [
+      "1995-10-21",
+      7
+    ],
+    [
+      "1995-10-28",
+      14
+    ],
+    [
+      "1995-11-04",
+      17
+    ],
+    [
+      "1995-11-11",
+      20
+    ],
+    [
+      "1995-11-18",
+      29
+    ],
+    [
+      "1995-11-25",
+      27
+    ],
+    [
+      "1995-12-02",
+      28
+    ],
+    [
+      "1995-12-09",
+      32
+    ],
+    [
+      "1995-12-16",
+      40
+    ],
+    [
+      "1995-12-23",
+      43
+    ],
+    [
+      "1995-12-30",
+      44
+    ],
+    [
+      "1996-01-06",
+      48
+    ],
+    [
+      "1996-01-13",
+      49
+    ],
+    [
+      "1996-01-20",
+      48
+    ],
+    [
+      "1996-01-27",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

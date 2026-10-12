@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Queen"
+  ],
+  "title_as_charted": [
+    "Crazy Little Thing Called Love"
+  ],
+  "debut_week": "1979-12-22",
+  "debut_position": 58,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "1980-02-23",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 22,
+  "last_week": "1980-05-17",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "1979-12-22",
+      58
+    ],
+    [
+      "1979-12-29",
+      58
+    ],
+    [
+      "1980-01-05",
+      43
+    ],
+    [
+      "1980-01-12",
+      30
+    ],
+    [
+      "1980-01-19",
+      18
+    ],
+    [
+      "1980-01-26",
+      8
+    ],
+    [
+      "1980-02-02",
+      5
+    ],
+    [
+      "1980-02-09",
+      5
+    ],
+    [
+      "1980-02-16",
+      2
+    ],
+    [
+      "1980-02-23",
+      1
+    ],
+    [
+      "1980-03-01",
+      1
+    ],
+    [
+      "1980-03-08",
+      1
+    ],
+    [
+      "1980-03-15",
+      1
+    ],
+    [
+      "1980-03-22",
+      3
+    ],
+    [
+      "1980-03-29",
+      3
+    ],
+    [
+      "1980-04-05",
+      4
+    ],
+    [
+      "1980-04-12",
+      8
+    ],
+    [
+      "1980-04-19",
+      15
+    ],
+    [
+      "1980-04-26",
+      27
+    ],
+    [
+      "1980-05-03",
+      36
+    ],
+    [
+      "1980-05-10",
+      67
+    ],
+    [
+      "1980-05-17",
+      93
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

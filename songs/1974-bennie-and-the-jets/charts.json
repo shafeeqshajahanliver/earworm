@@ -1,0 +1,97 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Elton John"
+  ],
+  "title_as_charted": [
+    "Bennie And The Jets"
+  ],
+  "debut_week": "1974-02-16",
+  "debut_position": 69,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1974-04-13",
+  "weeks_to_peak": 8,
+  "weeks_on_chart": 18,
+  "last_week": "1974-06-15",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1974-02-16",
+      69
+    ],
+    [
+      "1974-02-23",
+      51
+    ],
+    [
+      "1974-03-02",
+      32
+    ],
+    [
+      "1974-03-09",
+      23
+    ],
+    [
+      "1974-03-16",
+      12
+    ],
+    [
+      "1974-03-23",
+      6
+    ],
+    [
+      "1974-03-30",
+      4
+    ],
+    [
+      "1974-04-06",
+      2
+    ],
+    [
+      "1974-04-13",
+      1
+    ],
+    [
+      "1974-04-20",
+      2
+    ],
+    [
+      "1974-04-27",
+      2
+    ],
+    [
+      "1974-05-04",
+      3
+    ],
+    [
+      "1974-05-11",
+      5
+    ],
+    [
+      "1974-05-18",
+      6
+    ],
+    [
+      "1974-05-25",
+      18
+    ],
+    [
+      "1974-06-01",
+      21
+    ],
+    [
+      "1974-06-08",
+      26
+    ],
+    [
+      "1974-06-15",
+      38
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

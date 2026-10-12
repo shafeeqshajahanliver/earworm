@@ -1,0 +1,113 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Survivor"
+  ],
+  "title_as_charted": [
+    "Burning Heart"
+  ],
+  "debut_week": "1985-11-02",
+  "debut_position": 64,
+  "peak_position": 2,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "1986-02-01",
+  "weeks_to_peak": 13,
+  "weeks_on_chart": 22,
+  "last_week": "1986-03-29",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1985-11-02",
+      64
+    ],
+    [
+      "1985-11-09",
+      51
+    ],
+    [
+      "1985-11-16",
+      46
+    ],
+    [
+      "1985-11-23",
+      36
+    ],
+    [
+      "1985-11-30",
+      34
+    ],
+    [
+      "1985-12-07",
+      27
+    ],
+    [
+      "1985-12-14",
+      22
+    ],
+    [
+      "1985-12-21",
+      17
+    ],
+    [
+      "1985-12-28",
+      15
+    ],
+    [
+      "1986-01-04",
+      15
+    ],
+    [
+      "1986-01-11",
+      12
+    ],
+    [
+      "1986-01-18",
+      8
+    ],
+    [
+      "1986-01-25",
+      3
+    ],
+    [
+      "1986-02-01",
+      2
+    ],
+    [
+      "1986-02-08",
+      2
+    ],
+    [
+      "1986-02-15",
+      3
+    ],
+    [
+      "1986-02-22",
+      9
+    ],
+    [
+      "1986-03-01",
+      14
+    ],
+    [
+      "1986-03-08",
+      34
+    ],
+    [
+      "1986-03-15",
+      50
+    ],
+    [
+      "1986-03-22",
+      64
+    ],
+    [
+      "1986-03-29",
+      84
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

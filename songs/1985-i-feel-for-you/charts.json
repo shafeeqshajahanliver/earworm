@@ -1,0 +1,129 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Chaka Khan"
+  ],
+  "title_as_charted": [
+    "I Feel For You"
+  ],
+  "debut_week": "1984-09-08",
+  "debut_position": 73,
+  "peak_position": 3,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1984-11-24",
+  "weeks_to_peak": 11,
+  "weeks_on_chart": 26,
+  "last_week": "1985-03-02",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "1984-09-08",
+      73
+    ],
+    [
+      "1984-09-15",
+      58
+    ],
+    [
+      "1984-09-22",
+      49
+    ],
+    [
+      "1984-09-29",
+      38
+    ],
+    [
+      "1984-10-06",
+      33
+    ],
+    [
+      "1984-10-13",
+      30
+    ],
+    [
+      "1984-10-20",
+      24
+    ],
+    [
+      "1984-10-27",
+      15
+    ],
+    [
+      "1984-11-03",
+      10
+    ],
+    [
+      "1984-11-10",
+      5
+    ],
+    [
+      "1984-11-17",
+      4
+    ],
+    [
+      "1984-11-24",
+      3
+    ],
+    [
+      "1984-12-01",
+      3
+    ],
+    [
+      "1984-12-08",
+      3
+    ],
+    [
+      "1984-12-15",
+      4
+    ],
+    [
+      "1984-12-22",
+      7
+    ],
+    [
+      "1984-12-29",
+      7
+    ],
+    [
+      "1985-01-05",
+      12
+    ],
+    [
+      "1985-01-12",
+      21
+    ],
+    [
+      "1985-01-19",
+      29
+    ],
+    [
+      "1985-01-26",
+      55
+    ],
+    [
+      "1985-02-02",
+      67
+    ],
+    [
+      "1985-02-09",
+      74
+    ],
+    [
+      "1985-02-16",
+      90
+    ],
+    [
+      "1985-02-23",
+      96
+    ],
+    [
+      "1985-03-02",
+      99
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

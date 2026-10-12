@@ -1,0 +1,137 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "REO Speedwagon"
+  ],
+  "title_as_charted": [
+    "Keep On Loving You"
+  ],
+  "debut_week": "1980-11-29",
+  "debut_position": 88,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1981-03-21",
+  "weeks_to_peak": 16,
+  "weeks_on_chart": 28,
+  "last_week": "1981-06-06",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1980-11-29",
+      88
+    ],
+    [
+      "1980-12-06",
+      79
+    ],
+    [
+      "1980-12-13",
+      67
+    ],
+    [
+      "1980-12-20",
+      53
+    ],
+    [
+      "1980-12-27",
+      39
+    ],
+    [
+      "1981-01-03",
+      39
+    ],
+    [
+      "1981-01-10",
+      34
+    ],
+    [
+      "1981-01-17",
+      28
+    ],
+    [
+      "1981-01-24",
+      23
+    ],
+    [
+      "1981-01-31",
+      19
+    ],
+    [
+      "1981-02-07",
+      13
+    ],
+    [
+      "1981-02-14",
+      8
+    ],
+    [
+      "1981-02-21",
+      6
+    ],
+    [
+      "1981-02-28",
+      5
+    ],
+    [
+      "1981-03-07",
+      4
+    ],
+    [
+      "1981-03-14",
+      2
+    ],
+    [
+      "1981-03-21",
+      1
+    ],
+    [
+      "1981-03-28",
+      4
+    ],
+    [
+      "1981-04-04",
+      8
+    ],
+    [
+      "1981-04-11",
+      9
+    ],
+    [
+      "1981-04-18",
+      12
+    ],
+    [
+      "1981-04-25",
+      14
+    ],
+    [
+      "1981-05-02",
+      26
+    ],
+    [
+      "1981-05-09",
+      35
+    ],
+    [
+      "1981-05-16",
+      42
+    ],
+    [
+      "1981-05-23",
+      64
+    ],
+    [
+      "1981-05-30",
+      95
+    ],
+    [
+      "1981-06-06",
+      98
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

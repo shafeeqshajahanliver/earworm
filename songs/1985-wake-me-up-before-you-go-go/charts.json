@@ -1,0 +1,121 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Wham!"
+  ],
+  "title_as_charted": [
+    "Wake Me Up Before You Go-Go"
+  ],
+  "debut_week": "1984-09-08",
+  "debut_position": 80,
+  "peak_position": 1,
+  "weeks_at_peak": 3,
+  "first_week_at_peak": "1984-11-17",
+  "weeks_to_peak": 10,
+  "weeks_on_chart": 24,
+  "last_week": "1985-02-16",
+  "weeks_at_number_one": 3,
+  "run": [
+    [
+      "1984-09-08",
+      80
+    ],
+    [
+      "1984-09-15",
+      59
+    ],
+    [
+      "1984-09-22",
+      48
+    ],
+    [
+      "1984-09-29",
+      41
+    ],
+    [
+      "1984-10-06",
+      32
+    ],
+    [
+      "1984-10-13",
+      26
+    ],
+    [
+      "1984-10-20",
+      13
+    ],
+    [
+      "1984-10-27",
+      6
+    ],
+    [
+      "1984-11-03",
+      5
+    ],
+    [
+      "1984-11-10",
+      4
+    ],
+    [
+      "1984-11-17",
+      1
+    ],
+    [
+      "1984-11-24",
+      1
+    ],
+    [
+      "1984-12-01",
+      1
+    ],
+    [
+      "1984-12-08",
+      2
+    ],
+    [
+      "1984-12-15",
+      8
+    ],
+    [
+      "1984-12-22",
+      11
+    ],
+    [
+      "1984-12-29",
+      11
+    ],
+    [
+      "1985-01-05",
+      27
+    ],
+    [
+      "1985-01-12",
+      41
+    ],
+    [
+      "1985-01-19",
+      55
+    ],
+    [
+      "1985-01-26",
+      69
+    ],
+    [
+      "1985-02-02",
+      77
+    ],
+    [
+      "1985-02-09",
+      92
+    ],
+    [
+      "1985-02-16",
+      98
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

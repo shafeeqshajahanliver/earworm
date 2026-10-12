@@ -1,0 +1,133 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Beyonce"
+  ],
+  "title_as_charted": [
+    "Single Ladies (Put A Ring On It)"
+  ],
+  "debut_week": "2008-11-01",
+  "debut_position": 72,
+  "peak_position": 1,
+  "weeks_at_peak": 4,
+  "first_week_at_peak": "2008-12-13",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 27,
+  "last_week": "2009-05-02",
+  "weeks_at_number_one": 4,
+  "run": [
+    [
+      "2008-11-01",
+      72
+    ],
+    [
+      "2008-11-08",
+      56
+    ],
+    [
+      "2008-11-15",
+      44
+    ],
+    [
+      "2008-11-22",
+      39
+    ],
+    [
+      "2008-11-29",
+      28
+    ],
+    [
+      "2008-12-06",
+      2
+    ],
+    [
+      "2008-12-13",
+      1
+    ],
+    [
+      "2008-12-20",
+      2
+    ],
+    [
+      "2008-12-27",
+      1
+    ],
+    [
+      "2009-01-03",
+      1
+    ],
+    [
+      "2009-01-10",
+      1
+    ],
+    [
+      "2009-01-17",
+      2
+    ],
+    [
+      "2009-01-24",
+      2
+    ],
+    [
+      "2009-01-31",
+      2
+    ],
+    [
+      "2009-02-07",
+      3
+    ],
+    [
+      "2009-02-14",
+      2
+    ],
+    [
+      "2009-02-21",
+      5
+    ],
+    [
+      "2009-02-28",
+      9
+    ],
+    [
+      "2009-03-07",
+      11
+    ],
+    [
+      "2009-03-14",
+      16
+    ],
+    [
+      "2009-03-21",
+      20
+    ],
+    [
+      "2009-03-28",
+      24
+    ],
+    [
+      "2009-04-04",
+      30
+    ],
+    [
+      "2009-04-11",
+      31
+    ],
+    [
+      "2009-04-18",
+      35
+    ],
+    [
+      "2009-04-25",
+      47
+    ],
+    [
+      "2009-05-02",
+      50
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-12",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}
