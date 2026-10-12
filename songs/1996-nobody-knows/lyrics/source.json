@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 30332025,
+  "kind": "synced",
+  "matched": {
+    "track": "Nobody Knows",
+    "artist": "The Tony Rich Project",
+    "album": "Nobody Knows",
+    "duration_s": 307.0
+  },
+  "duration_matched_to": "musicbrainz recording length (308s)",
+  "duration_diff_s": 1.5,
+  "reference_lengths": [
+    {
+      "seconds": 308.466,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 306.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 13,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37014486 (Nobody Knows / The Tony Rich Project / Body & Soul: Midnight Grooves, 267.0s): duration matches no reference length",
+    "lrclib 37499769 (Nobody Knows / The Tony Rich Project / Big Softies, 262.0s): duration matches no reference length",
+    "lrclib 37122371 (Nobody Knows / The Tony Rich Project / 100 Hits: The Best R&B Album - CD3, 286.0s): duration matches no reference length",
+    "lrclib 37191466 (Nobody Knows / The Tony Rich Project / 1996 - Top 100, 264.0s): duration matches no reference length",
+    "lrclib 37298978 (Nobody Knows / The Tony Rich Project - / Essential R&B 90's Anthems - CD2(BSBT-RG), 258.0s): duration matches no reference length",
+    "lrclib 37245118 (Nobody Knows / The Tony Rich Project / TOP 40 Hitdossier One Hit Wonders, 261.0s): duration matches no reference length",
+    "lrclib 37233147 (Nobody Knows / The Tony Rich Project / Music, 259.0s): duration matches no reference length",
+    "lrclib 35297967 (nobody knows / the tony rich project / words, 266.0s): duration matches no reference length",
+    "lrclib 34943297 (Nobody Knows / The Tony Rich Project / R&B Love Songs, 261.0s): duration matches no reference length",
+    "lrclib 33350497 (Nobody Knows / The Tony Rich Project / Brit Awards 97, 262.0s): duration matches no reference length",
+    "lrclib 33715336 (Nobody Knows / The Tony Rich Project / Sky Box: 10 Jaar Radio Hits, 251.0s): duration matches no reference length",
+    "lrclib 33672804 (Nobody Knows / The Tony Rich Project / Pure… 90s, 263.0s): duration matches no reference length",
+    "lrclib 33493910 (Nobody Knows / The Tony Rich Project / One Hit Wonders (5CD), 263.0s): duration matches no reference length",
+    "lrclib 33567008 (Nobody Knows / The Tony Rich Project / The Hits Album - The R&B Album - CD1, 259.0s): duration matches no reference length",
+    "lrclib 36219434 (Nobody Knows / The Tony Rich Project / Billboard Top Hits 1996, 261.0s): duration matches no reference length",
+    "lrclib 36683850 (Nobody Knows / The Tony Rich Project / Pure...90s r&b, 262.0s): duration matches no reference length",
+    "lrclib 35482439 (Nobody Knows / The Tony Rich Project / Billboard USA - Top 100 Hits Of 1996, 263.0s): duration matches no reference length",
+    "lrclib 8595819 (Nobody Knows (Video Version) / The Tony Rich Project / The Tony Rich Project Videos, 258.0s): live/remix/other version",
+    "lrclib 10968730 (Nobody Knows (Video Version) / The Tony Rich Project / The Tony Rich Project Songs, 258.0s): live/remix/other version",
+    "lrclib 18183191 (Nobody Knows (album instrumental) / The Tony Rich Project / Nobody Knows, 306.92s): live/remix/other version",
+    "lrclib 7503933 (Nobody Knows (radio edit) / The Tony Rich Project / Nobody Knows, 264.0s): duration matches no reference length",
+    "lrclib 26800131 (Nobody Knows (radio edit) / The Tony Rich Project / Nobody Knows, 266.704399s): duration matches no reference length",
+    "lrclib 9644188 (Nobody Knows (Radio Edit) / The Tony Rich Project / Nobody Knows [Single] [LaFace Records-73008-24116-1-Vinyl], 262.0s): duration matches no reference length",
+    "lrclib 9644189 (Nobody Knows (Album Instrumental) / The Tony Rich Project / Nobody Knows [Single] [LaFace Records-73008-24116-1-Vinyl], 309.0s): live/remix/other version",
+    "lrclib 34475681 (Nobody Knows / Tony Rich Project / Cosmopolitan The Music, 264.0s): duration matches no reference length",
+    "lrclib 28690849 (Nobody Knows / Tony Rich Project / Top 100 of the 90's, 264.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

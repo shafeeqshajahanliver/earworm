@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33711893,
+  "kind": "synced",
+  "matched": {
+    "track": "Hold On",
+    "artist": "En Vogue",
+    "album": "Grand 90s [vol 12]",
+    "duration_s": 262.0
+  },
+  "duration_matched_to": "musicbrainz recording length (263s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 263.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 304.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 263.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 303.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34011217 (Hold On / En Vogue / Born to Sing, 232.0s): duration matches no reference length",
+    "lrclib 34212138 (Hold On / En Vogue / Born to Sing, 282.0s): duration matches no reference length",
+    "lrclib 20472484 (Hold On / En Vogue / En Vogue - Best of En Vogue, 183.8112s): duration matches no reference length",
+    "lrclib 35376264 (Hold On (Live) / En Vogue / En Vogue: Live In the USA, 263.0s): live/remix/other version",
+    "lrclib 20209370 (Hold On [Remix] / En Vogue / The Best of En Vogue [Australia], 377.49725s): live/remix/other version",
+    "lrclib 31476743 (Hold On (LP Version) / En Vogue / Rhino Hi-Five: En Vogue, 241.0s): duration matches no reference length",
+    "lrclib 31266652 (Hold On (Hip-Hop Remix) / En Vogue / The Best Of En Vogue, 378.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

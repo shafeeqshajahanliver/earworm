@@ -1,0 +1,41 @@
+{
+  "id": "2003-get-busy",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1005996,
+  "lines": 112,
+  "words": 723,
+  "unique_words": 134,
+  "type_token_ratio": 0.185,
+  "repeated_line_share": 0.571,
+  "distinct_lines": 48,
+  "zlib_compression_ratio": 0.195,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "get busy",
+  "title_phrase_occurrences": 2,
+  "pronouns": {
+    "first_singular": 38,
+    "second": 21,
+    "first_plural": 30
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.87,
+  "last_line_s": 209.29,
+  "sung_time_s": 209.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 207.0,
+  "words_per_minute_track": 204.8,
+  "longest_gap_between_lines_s": 3.72,
+  "longest_gap_starts_at_s": 65.53,
+  "first_repeated_block": {
+    "first_at_s": 29.15,
+    "recurs_at_s": 72.86,
+    "lines": [
+      "Yo sexy ladies want par with us",
+      "In a the car with us"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1005996",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,61 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37134693,
+  "kind": "synced",
+  "matched": {
+    "track": "Broken Wings",
+    "artist": "Mr. Mister",
+    "album": "Top 100 over 1986",
+    "duration_s": 269.0
+  },
+  "duration_matched_to": "musicbrainz recording length (269s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 269.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 269.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 270.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 283.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 342.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37530914 (Broken Wings / Mr. Mister / Top of the Pop Hits the 80's, Disc 3, 276.0s): duration matches no reference length",
+    "lrclib 37171876 (Broken Wings / Mr. Mister / Simply the Best, 335.0s): duration matches no reference length",
+    "lrclib 37143039 (Broken Wings / Mr. Mister / 80s 100 Hits, 261.0s): duration matches no reference length",
+    "lrclib 37194789 (Broken Wings / Mr. Mister / Millennium Hits 1980-1989 (Pop · Love · Rock & Eigen Bodem), 334.0s): duration matches no reference length",
+    "lrclib 37163988 (Broken Wings / Mr Mister / The All Time Greatest Rock Songs Of The 60S, 70S, 80S & 90S Disco 2, 336.0s): duration matches no reference length",
+    "lrclib 37101579 (Broken Wings / Mr. Mister / Rock Box, 331.0s): duration matches no reference length",
+    "lrclib 37078069 (Broken Wings / Mr. Mister / Mastermix Warm Ups & Re-heats Vol. 1, 374.0s): duration matches no reference length",
+    "lrclib 37062559 (Broken Wings / Mr Mister / The Best of Mr. Mister, 336.0s): duration matches no reference length",
+    "lrclib 37339095 (Broken Wings / Mr. Mister / Now The Music • The 80's Generation, 334.0s): duration matches no reference length",
+    "lrclib 9649659 (Broken Wings / Mr. Mister / Broken Wings: The Best of Mr. Mister, 336.0s): duration matches no reference length",
+    "lrclib 14242013 (Broken Wings / Mr. Mister / Broken Wings: Best Of Mister Mister, 335.999s): duration matches no reference length",
+    "lrclib 38080884 (Broken Wings / Mr.Mister / Broken Wings-Best Of Mister Mister, 333.0s): duration matches no reference length",
+    "lrclib 34330201 (Broken Wings / Mr Mister / Mr Mister, 333.0s): duration matches no reference length",
+    "lrclib 38785436 (Broken Wings / Mr. Mister / Mr. Mister, 289.0s): duration matches no reference length",
+    "lrclib 25168392 (Broken Wings / Mr. Mister / Broken WingsThe Best Of Mr. Mister, 335.946667s): duration matches no reference length",
+    "lrclib 20369266 (Broken Wings / Mr. Mister / Broken Wings, 336.039184s): duration matches no reference length",
+    "lrclib 9642229 (Broken Wings / Mr. Mister / Broken Wings, 334.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

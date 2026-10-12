@@ -1,0 +1,72 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 8298199,
+  "kind": "synced",
+  "matched": {
+    "track": "Crazy in Love",
+    "artist": "Beyoncé Featuring Jay-Z",
+    "album": "Dangerously in Love",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "musicbrainz recording length (236s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 235.933,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 235.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 236.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 42,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37187784 (Crazy In Love / Beyonce Featuring Jay-Z / 2004 Grammy Nominees, 225.0s): duration matches no reference length",
+    "lrclib 37289376 (Crazy In Love / Beyoncé Featuring Jay-Z / Woman, 249.0s): duration matches no reference length",
+    "lrclib 34522738 (Crazy in Love / Beyoncé featuring Jay‐Z / Crazy in Love, 243.0s): duration matches no reference length",
+    "lrclib 34738945 (Crazy In Love / Beyoncé featuring Jay-Z / Crazy In Love  - Single, 244.0s): duration matches no reference length",
+    "lrclib 18732513 (Crazy In Love / Beyonce featuring Jay Z / Now That's What I Call Music 56 - CD 1, 249.78275s): duration matches no reference length",
+    "lrclib 20731192 (Crazy In Love / Beyonce Featuring Jay-Z / Grammy Nominees 2004, 226.906667s): duration matches no reference length",
+    "lrclib 2158620 (Crazy in Love / Beyoncé featuring Jay‐Z / Dangerously in Love, 249.0s): duration matches no reference length",
+    "lrclib 29719764 (Crazy In Love / Beyonce featuring Jay Z / Now Thats What I Call Music - 56, 250.0s): duration matches no reference length",
+    "lrclib 32364648 (Crazy In Love / Beyonce Featuring Jay Z / Now That's What I Call 500 Tracks (Part 1), 250.0s): duration matches no reference length",
+    "lrclib 37499718 (Crazy In Love / Beyoncé Feat. Jay-Z / Hits Comerciais Radio, 250.0s): duration matches no reference length",
+    "lrclib 37475772 (Crazy In Love / Beyoncé Feat. Jay-Z / Dangerously In Love, 154.0s): duration matches no reference length",
+    "lrclib 37491090 (Crazy in Love / Beyoncé feat. JAY‐Z / I Am... World Tour, 324.0s): duration matches no reference length",
+    "lrclib 35162722 (Crazy in Love / Beyoncé feat. JAY‐Z / Live In Brooklyn, 187.0s): live/remix/other version",
+    "lrclib 33727514 (Crazy in Love / Beyonce feat. Jay-Z / The 500 Greatest Songs of All Time (2024 Edition), 250.0s): duration matches no reference length",
+    "lrclib 33499967 (Crazy In Love / Beyoncé feat. Jay-Z / New Woman 2006, 251.0s): duration matches no reference length",
+    "lrclib 36198214 (Crazy In Love / Beyoncé Feat. Jay-Z / Greatest Hits, 280.0s): duration matches no reference length",
+    "lrclib 18342808 (Crazy in Love / Beyoncé feat. Jay‐Z / Dangerously in Love, 242.0s): duration matches no reference length",
+    "lrclib 18757586 (Crazy in Love / Beyonce feat. Jay-Z / Grammy Nominees 2004, 225.0s): duration matches no reference length",
+    "lrclib 18757606 (Crazy In Love / Beyonce Feat. Jay-Z / NOW 56 (Disc 1) [UK], 250.0s): duration matches no reference length",
+    "lrclib 37471630 (Crazy In Love / Beyonce / Get Your Party Started, 226.0s): duration matches no reference length",
+    "lrclib 37029605 (Crazy In Love / Beyonce / Pop Party 3, 254.0s): duration matches no reference length",
+    "lrclib 36882165 (Crazy In Love / Beyoncé / I Am… Yours: An Intimate Performance at Wynn Las Vegas, 226.0s): duration matches no reference length",
+    "lrclib 36877372 (crazy in love / beyonce / dangerously in love, 549.0s): duration matches no reference length",
+    "lrclib 35067509 (Crazy in Love / Beyoncé / Now That's What I Call Music! Ultimate 'oos, 226.0s): duration matches no reference length",
+    "lrclib 35067601 (Crazy In Love / Beyoncé / undefined, Nones): duration matches no reference length",
+    "lrclib 35067651 (Crazy In Love / Beyoncé / Now That's What I Call Music! Ultimate 'oos, 193.0s): duration matches no reference length",
+    "lrclib 33436845 (Crazy in Love / Beyoncé / Live In Brooklyn, 187.0s): live/remix/other version",
+    "lrclib 35963998 (Crazy In Love / Beyoncé / Crazy In Love, 244.0s): duration matches no reference length",
+    "lrclib 18714941 (Crazy in Love / Beyoncé / Crazy In Love, 249.0s): duration matches no reference length",
+    "lrclib 25006429 (Crazy in Love / Beyoncé / Crazy in Love, 226.0s): duration matches no reference length",
+    "lrclib 23731271 (Crazy In Love / Beyoncé / Crazy In Love, 222.563265s): duration matches no reference length",
+    "lrclib 38922882 (Crazy In Love / Beyoncé / Crazy In Love, 96.0s): duration matches no reference length",
+    "lrclib 38934627 (Crazy In Love (Remix) / Beyoncé / Crazy In Love, 30.0s): live/remix/other version",
+    "lrclib 30236731 (Crazy In Love / Beyoncé / Crazy In Love (Remix), 227.0s): live/remix/other version",
+    "lrclib 34398011 (Crazy in Love (URM version) / Beyoncé / Crazy in Love, 251.0s): live/remix/other version",
+    "lrclib 19277605 (Crazy in Love (single version) / Beyoncé / Crazy in Love, 246.181969s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

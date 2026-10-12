@@ -1,0 +1,74 @@
+{
+  "id": "1996-i-love-you-always-forever",
+  "preview": {
+    "service": "deezer",
+    "track_id": 846048,
+    "matched_by": "isrc",
+    "isrc": "USAT29600040",
+    "title": "I Love You Always Forever",
+    "artist": "Donna Lewis",
+    "album": "Now in a Minute",
+    "track_duration_s": 239,
+    "link": "https://www.deezer.com/track/846048",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 103.9,
+    "tempo_bpm_grid": 103.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      215.3,
+      51.7
+    ],
+    "beats_detected": 53,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.57,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.555,
+    "chroma_profile": [
+      1.0,
+      0.807,
+      0.643,
+      0.501,
+      0.697,
+      0.814,
+      0.488,
+      0.587,
+      0.451,
+      0.443,
+      0.647,
+      0.573
+    ],
+    "rms_dbfs": -11.37,
+    "rms_dbfs_p95_frame": -7.79,
+    "peak_dbfs": -1.03,
+    "loudness_lufs_approx": -12.15,
+    "spectral_centroid_hz_mean": 1528.9,
+    "spectral_centroid_hz_median": 1312.8,
+    "onsets": 193,
+    "onset_density_per_s": 6.436,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 846048",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 103.6,
+    "gain": -13.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/846048",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C major and F major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAT20615894: matched but no preview available (readable=False)"
+  ]
+}

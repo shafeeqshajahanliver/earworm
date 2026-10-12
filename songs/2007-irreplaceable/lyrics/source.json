@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 769599,
+  "kind": "synced",
+  "matched": {
+    "track": "Irreplaceable",
+    "artist": "Beyoncé",
+    "album": "B'Day",
+    "duration_s": 228.0
+  },
+  "duration_matched_to": "musicbrainz recording length (228s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 227.666,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 227.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37463982 (Irreplaceable / Beyoncé / I Am… Yours: An Intimate Performance at Wynn Las Vegas, 426.0s): duration matches no reference length",
+    "lrclib 37057657 (Irreplaceable / Beyoncé / B’Day (deluxe edition), 244.0s): duration matches no reference length",
+    "lrclib 37433889 (Irreplaceable / Beyoncé / Now That's What I Call Music! 24, 239.0s): duration matches no reference length",
+    "lrclib 33740597 (Irreplaceable / Beyoncé / B'Day, 271.0s): duration matches no reference length",
+    "lrclib 33635017 (Irreplaceable / Beyoncé / single, 252.0s): duration matches no reference length",
+    "lrclib 35976197 (Irreplaceable / Beyoncé / Listen (from the motion picture Dreamgirls), 244.0s): duration matches no reference length",
+    "lrclib 36164443 (Irreplaceable / Beyoncé / B'Day, 193.0s): duration matches no reference length",
+    "lrclib 36387480 (Irreplaceable / Beyoncé / Irreplaceable (remixes), 243.0s): live/remix/other version",
+    "lrclib 11832450 (Irreplaceable / Beyoncé / Irreplaceable, 253.0s): duration matches no reference length",
+    "lrclib 20376113 (Irreplaceable / Beyoncé / Irreplaceable: Remixes, 285.0742859s): live/remix/other version",
+    "lrclib 20519861 (Irreplaceable / Beyoncé / Irreplaceable - Single, 252.0s): duration matches no reference length",
+    "lrclib 32619633 (Irreplaceable / Beyoncé / Irreplaceable (remixes), 531.0s): live/remix/other version",
+    "lrclib 30368099 (Irreplaceable / Beyoncé / Irreplaceable (remixes), 249.0s): live/remix/other version",
+    "lrclib 30368170 (Irreplaceable / Beyoncé / Irreplaceable (remixes), 427.0s): live/remix/other version",
+    "lrclib 28924761 (Irreplaceable (Instrumental) / Beyoncé / Irreplaceable, 354.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

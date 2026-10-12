@@ -1,0 +1,68 @@
+{
+  "id": "1982-jack-diane",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1418216928,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Jack & Diane",
+    "artist": "John Cougar",
+    "album": "Words & Music: John Mellencamp's Greatest Hits",
+    "track_duration_s": 256.1,
+    "link": "https://music.apple.com/us/album/jack-diane/1418215963?i=1418216928&uo=4",
+    "duration_matched_to": "wikipedia infobox length (256s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 105.3,
+    "tempo_bpm_grid": 104.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      107.7,
+      69.8
+    ],
+    "beats_detected": 51,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.404,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.389,
+    "chroma_profile": [
+      0.291,
+      0.51,
+      0.706,
+      0.783,
+      1.0,
+      0.708,
+      0.591,
+      0.395,
+      0.423,
+      0.52,
+      0.287,
+      0.465
+    ],
+    "rms_dbfs": -10.47,
+    "rms_dbfs_p95_frame": -4.82,
+    "peak_dbfs": 0.17,
+    "loudness_lufs_approx": -10.82,
+    "spectral_centroid_hz_mean": 2348.5,
+    "spectral_centroid_hz_median": 2272.3,
+    "onsets": 120,
+    "onset_density_per_s": 4.003,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1418216928",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between A major and E major"
+  ],
+  "rejected_candidates": [
+    "itunes 1469582051: duration 356s matches no reference length"
+  ]
+}

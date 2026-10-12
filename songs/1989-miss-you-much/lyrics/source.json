@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 30939023,
+  "kind": "synced",
+  "matched": {
+    "track": "Miss You Much (1989)",
+    "artist": "Janet Jackson",
+    "album": "Janet Jackson - Miss You Much",
+    "duration_s": 252.0
+  },
+  "duration_matched_to": "itunes preview track matched by search (252s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 363.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 252.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 232.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (252s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 33485391 (Miss You Much / Janet Jackson / New Playlist 64, 265.0s): duration matches no reference length",
+    "lrclib 35542287 (Miss You Much / Janet Jackson / Black Cat, 444.0s): duration matches no reference length",
+    "lrclib 18395108 (Miss You Much / Janet Jackson / Rhythmn Nation, 260.2260319s): duration matches no reference length",
+    "lrclib 17847163 (Miss You Much (Mama mix) / Janet Jackson / Miss You Much, 444.333333s): live/remix/other version",
+    "lrclib 22707313 (Miss You Much (Mama Mix) / Janet Jackson / Miss You Much, 442.0s): live/remix/other version",
+    "lrclib 31981983 (Miss You Much / Janet Jackson / Miss You Much: The Remixes, 258.0s): live/remix/other version",
+    "lrclib 31531209 (Miss You Much / Janet Jackson / Miss You Much: The Remixes, 207.0s): live/remix/other version",
+    "lrclib 17008530 (Miss You Much / Janet Jackson / Miss You Much: The Remixes, 261.0s): live/remix/other version",
+    "lrclib 26926298 (Miss You Much (7\" House Mix) / Janet Jackson / Miss You Much, 296.44s): live/remix/other version",
+    "lrclib 34319805 (Miss You Much (Mama Mix) / Janet Jackson / Miss You Much  (single), 443.0s): live/remix/other version",
+    "lrclib 12785307 (Miss You Much (7\" Edit) / Janet Jackson / Miss You Much [Remixes], 236.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

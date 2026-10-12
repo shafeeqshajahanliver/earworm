@@ -1,0 +1,68 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37171142,
+  "kind": "synced",
+  "matched": {
+    "track": "I'll Be Missing You",
+    "artist": "Puff Daddy & Faith Evans",
+    "album": "De Nederlandse Top 40 Van 1997",
+    "duration_s": 303.0
+  },
+  "duration_matched_to": "wikipedia infobox length (301s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 243.933,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 209.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 248.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 301.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 343.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 6,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched wikipedia infobox length (301s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37079278 (I'll be missing you / Puff Daddy and Faith Evans / Tribute to the Notorious BIG, 309.0s): live/remix/other version",
+    "lrclib 36013066 (Ill Be Missing You / Puff Daddy and Faith Evans / Billboard Top 100 Hits of 1997, 310.0s): duration matches no reference length",
+    "lrclib 10641747 (I'll Be Missing You / Puff Daddy and Faith Evans / Billboard Hot 100 Singles 1997, 308.0s): duration matches no reference length",
+    "lrclib 9601213 (Ill Be Missing You / Puff Daddy And Faith Evans / 1997 Billboard Top 100 Hits, 308.0s): duration matches no reference length",
+    "lrclib 30527384 (I'll Be Missing You / Puff Daddy and Faith Evans / Billboard Year-End Chart of 1997, 308.0s): duration matches no reference length",
+    "lrclib 30945364 (I'll Be Missing You / Puff Daddy and Faith Evans / Billboard Top 100 of 1997, 310.0s): duration matches no reference length",
+    "lrclib 26622698 (I'll Be Missing You (Feat 112) / Puff Daddy And Faith Evans / Billboard Top 99 (1990-1999), 309.797083s): duration matches no reference length",
+    "lrclib 37189330 (I'll Be Missing You / Puff Daddy & Faith Evans / 1997 - Top 100, 310.0s): duration matches no reference length",
+    "lrclib 37309085 (I'll Be Missing You / Puff Daddy & Faith Evans / The No. 1 Dj Collection Of The 90's Vol. 9, 313.0s): duration matches no reference length",
+    "lrclib 36927134 (I'll Be Missing You / Puff Daddy & Faith Evans / The No.1 DJ Collection: 90's, Volume 9, 307.0s): duration matches no reference length",
+    "lrclib 34609853 (I'll Be Missing You / Puff Daddy & Faith Evans / Much Dance 1997, 197.0s): duration matches no reference length",
+    "lrclib 33530763 (I'll Be Missing You / Puff Daddy & Faith Evans / [Unknown Album], 310.0s): duration matches no reference length",
+    "lrclib 33432494 (I'll Be Missing You / Puff Daddy & Faith Evans / Hits i Grew up with, 272.0s): duration matches no reference length",
+    "lrclib 35384895 (I’ll Be Missing You / Puff Daddy & Faith Evans / Absolute Love 2, 308.0s): duration matches no reference length",
+    "lrclib 35538813 (I'll Be Missing You / Puff Daddy & Faith Evans / Absolute Music, vol. 16 [DK], 308.0s): duration matches no reference length",
+    "lrclib 20089760 (I'll be missing you / Puff Daddy & Faith Evans / Album, 301.06925s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 20051209 (I'll Be Missing You / Puff Daddy & Faith Evans / Time Life Music (theme) 90s collection (musicfromrizzo), 306.599184s): duration matches no reference length",
+    "lrclib 21275104 (I'll Be Missing You / Puff Daddy & Faith Evans / Billboard Hot 100 Singles 1997, 312.550187s): duration matches no reference length",
+    "lrclib 21027256 (I'll Be Missing You / Puff Daddy & Faith Evans / Romantic Collection, 305.171875s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 20369105 (I'll Be Missing You / Puff Daddy & Faith Evans / Billboard 1997, 310.204063s): duration matches no reference length",
+    "lrclib 20372494 (I’ll Be Missing You / Puff Daddy & Faith Evans / Tribute to The Notorious B.I.G., 306.5875s): live/remix/other version",
+    "lrclib 20982589 (I'll Be Missing You / Puff Daddy & Faith Evans (feat. 112) / The Best of 80s and 90s, 308.9011499s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 24184669,
+  "kind": "synced",
+  "matched": {
+    "track": "Wherever You Will Go",
+    "artist": "The Calling",
+    "album": "Wherever You Will Go [Single]",
+    "duration_s": 207.365333
+  },
+  "duration_matched_to": "musicbrainz recording length (208s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 208.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 208.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 209.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37196576 (Wherever You Will Go / The Calling / CB8526-26, 230.0s): duration matches no reference length",
+    "lrclib 31191591 (Wherever You Will Go / The Calling / Wherever You Will Go, 199.0s): duration matches no reference length",
+    "lrclib 12289613 (Wherever You Will Go (acoustic) / The Calling / Wherever You Will Go, 205.0s): live/remix/other version",
+    "lrclib 16111187 (Wherever You Will Go (acoustic) / The Calling / Wherever You Will Go, 207.0745619s): live/remix/other version",
+    "lrclib 19278551 (Wherever You Will Go (Album Version) / The Calling / Wherever You Will Go, 202.312375s): duration matches no reference length",
+    "lrclib 19283106 (Wherever You Will Go (Album Version) / The Calling / Wherever You Will Go, 202.32125s): duration matches no reference length",
+    "lrclib 26322667 (Wherever You Will Go (rock mix) / The Calling / Wherever You Will Go, 208.0s): live/remix/other version",
+    "lrclib 17651364 (Wherever You Will Go (Acoustic) / The Calling / Wherever You Will Go-(Single), 204.88s): live/remix/other version",
+    "lrclib 15860174 (Wherever You Will Go (acoustic) / The Calling / Wherever You Will Go [#2], 207.07456s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

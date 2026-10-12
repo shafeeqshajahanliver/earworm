@@ -1,0 +1,72 @@
+{
+  "id": "1985-wake-me-up-before-you-go-go",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15626267,
+    "matched_by": "isrc",
+    "isrc": "GBARL0601596",
+    "title": "Wake Me Up Before You Go-Go (Remastered)",
+    "artist": "Wham!",
+    "album": "Twenty Five",
+    "track_duration_s": 232,
+    "link": "https://www.deezer.com/track/15626267",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 81.2,
+    "tempo_bpm_grid": 81.4,
+    "tempo_candidates_bpm": [
+      80.7,
+      161.5,
+      40.4
+    ],
+    "beats_detected": 40,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.742,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.497,
+    "chroma_profile": [
+      1.0,
+      0.697,
+      0.584,
+      0.425,
+      0.587,
+      0.574,
+      0.559,
+      0.765,
+      0.577,
+      0.682,
+      0.619,
+      0.638
+    ],
+    "rms_dbfs": -10.49,
+    "rms_dbfs_p95_frame": -7.24,
+    "peak_dbfs": 0.39,
+    "loudness_lufs_approx": -10.07,
+    "spectral_centroid_hz_mean": 2526.7,
+    "spectral_centroid_hz_median": 2386.5,
+    "onsets": 116,
+    "onset_density_per_s": 3.868,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15626267",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 81.23,
+    "gain": -9.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15626267",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBBBN0500713: matched but no preview available (readable=False)"
+  ]
+}

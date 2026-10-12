@@ -1,0 +1,75 @@
+{
+  "id": "1984-footloose",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4253421,
+    "matched_by": "isrc",
+    "isrc": "USSM19803320",
+    "title": "Footloose (From \"Footloose\" Soundtrack)",
+    "artist": "Kenny Loggins",
+    "album": "Get The Party Started: Essential Pop and Dance Anthems",
+    "track_duration_s": 226,
+    "link": "https://www.deezer.com/track/4253421",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 87.0,
+    "tempo_bpm_grid": 86.9,
+    "tempo_candidates_bpm": [
+      172.3,
+      86.1,
+      184.6
+    ],
+    "beats_detected": 43,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.816,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.631,
+    "chroma_profile": [
+      0.787,
+      0.854,
+      0.835,
+      0.675,
+      0.879,
+      0.707,
+      0.762,
+      0.792,
+      0.705,
+      1.0,
+      0.766,
+      0.686
+    ],
+    "rms_dbfs": -10.17,
+    "rms_dbfs_p95_frame": -7.14,
+    "peak_dbfs": 1.44,
+    "loudness_lufs_approx": -8.55,
+    "spectral_centroid_hz_mean": 2623.7,
+    "spectral_centroid_hz_median": 2541.3,
+    "onsets": 63,
+    "onset_density_per_s": 2.101,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4253421",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 173.7,
+    "gain": -8.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4253421",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (173.7): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USSM18400522: matched but no preview available (readable=False)",
+    "deezer isrc USSM18400908: matched but no preview available (readable=False)"
+  ]
+}

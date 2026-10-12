@@ -1,0 +1,73 @@
+{
+  "id": "2007-hey-there-delilah",
+  "preview": {
+    "service": "deezer",
+    "track_id": 133098890,
+    "matched_by": "isrc",
+    "isrc": "US5260507213",
+    "title": "Hey There Delilah",
+    "artist": "Plain White T's",
+    "album": "All That We Needed",
+    "track_duration_s": 232,
+    "link": "https://www.deezer.com/track/133098890",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 104.2,
+    "tempo_bpm_grid": 104.4,
+    "tempo_candidates_bpm": [
+      215.3,
+      103.4,
+      198.8
+    ],
+    "beats_detected": 53,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.868,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.774,
+    "chroma_profile": [
+      0.246,
+      0.544,
+      1.0,
+      0.289,
+      0.444,
+      0.452,
+      0.979,
+      0.461,
+      0.322,
+      0.748,
+      0.289,
+      0.686
+    ],
+    "rms_dbfs": -10.23,
+    "rms_dbfs_p95_frame": -8.16,
+    "peak_dbfs": -1.04,
+    "loudness_lufs_approx": -10.96,
+    "spectral_centroid_hz_mean": 1443.1,
+    "spectral_centroid_hz_median": 1311.6,
+    "onsets": 135,
+    "onset_density_per_s": 4.502,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 133098890",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 103.88,
+    "gain": -11,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/133098890",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USHR10722838: matched but no preview available (readable=False)",
+    "deezer isrc USHR10723093: matched but no preview available (readable=False)"
+  ]
+}

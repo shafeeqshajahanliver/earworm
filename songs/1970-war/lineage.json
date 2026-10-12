@@ -1,0 +1,61 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/804",
+    "title": "War",
+    "performer": "Edwin Starr",
+    "is_original": false,
+    "first_release_date": "1970-06-09",
+    "releases": [
+      {
+        "title": "War and Peace",
+        "uri": "https://api.secondhandsongs.com/release/521",
+        "performer": "Edwin Starr"
+      },
+      {
+        "title": "War",
+        "uri": "https://api.secondhandsongs.com/release/107509",
+        "performer": "Edwin Starr"
+      },
+      {
+        "title": "Involved",
+        "uri": "https://api.secondhandsongs.com/release/2640",
+        "performer": "Edwin Starr"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "War",
+      "uri": "https://api.secondhandsongs.com/work/803"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/803",
+    "title": "War",
+    "language": "English",
+    "writers": [
+      "Barrett Strong",
+      "Norman Whitfield"
+    ],
+    "original_performer": "The Temptations [US1]",
+    "versions": 38,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Nač nám je válka",
+        "uri": "https://api.secondhandsongs.com/work/183925"
+      }
+    ]
+  }
+}

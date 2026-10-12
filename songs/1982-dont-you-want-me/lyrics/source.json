@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35803501,
+  "kind": "synced",
+  "matched": {
+    "track": "Don't You Want Me",
+    "artist": "The Human League",
+    "album": "Don't You Want Me (UK 12\")",
+    "duration_s": 237.0
+  },
+  "duration_matched_to": "musicbrainz recording length (237s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 237.226,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 237.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 207.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 237.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37179947 (Don't You Want Me / The Human League / Dare!, 260.0s): duration matches no reference length",
+    "lrclib 37365407 (Don't You Want Me / The Human League / NOW 100 Hits 80s, 244.0s): duration matches no reference length",
+    "lrclib 36025821 (Don't You Want Me / The Human League / The Human League - Don't You Want Me (Dim Zach edit), 274.0s): duration matches no reference length",
+    "lrclib 20670412 (Don’t You Want Me / The Human League / Don’t You Want Me, 468.0s): duration matches no reference length",
+    "lrclib 19991767 (Don’t You Want Me / The Human League / Don’t You Want Me (remixes), 375.0s): live/remix/other version",
+    "lrclib 29923949 (Don't You Want Me / The Human League / Don't You Want Me (UK 12\"), 450.0s): duration matches no reference length",
+    "lrclib 19961572 (Don't You Want Me (extended dance mix) / The Human League / Don't You Want Me, 449.52345s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

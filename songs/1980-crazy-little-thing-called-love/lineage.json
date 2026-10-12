@@ -1,0 +1,66 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/6390",
+    "title": "Crazy Little Thing Called Love",
+    "performer": "Queen",
+    "is_original": true,
+    "first_release_date": "1979-10-05",
+    "releases": [
+      {
+        "title": "The Game",
+        "uri": "https://api.secondhandsongs.com/release/3028",
+        "performer": "Queen"
+      },
+      {
+        "title": "Crazy Little Thing Called Love",
+        "uri": "https://api.secondhandsongs.com/release/268168",
+        "performer": "Queen"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 182,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/6390",
+    "title": "Crazy Little Thing Called Love",
+    "language": "English",
+    "writers": [
+      "Freddie Mercury"
+    ],
+    "original_performer": "Queen",
+    "versions": 183,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Casi loco por tu amor",
+        "uri": "https://api.secondhandsongs.com/work/51720"
+      },
+      {
+        "title": "Crazy Little King God Loves",
+        "uri": "https://api.secondhandsongs.com/work/128419"
+      },
+      {
+        "title": "Andere dingen aan mijn hoofd",
+        "uri": "https://api.secondhandsongs.com/work/135621"
+      },
+      {
+        "title": "Cosita loca llamada amor",
+        "uri": "https://api.secondhandsongs.com/work/226239"
+      },
+      {
+        "title": "Maitasuna ergelkeria da",
+        "uri": "https://api.secondhandsongs.com/work/313461"
+      }
+    ]
+  }
+}

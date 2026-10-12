@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 24230225,
+  "kind": "synced",
+  "matched": {
+    "track": "Kyrie",
+    "artist": "Mr. Mister",
+    "album": "Welcome to the Real World",
+    "duration_s": 253.802437
+  },
+  "duration_matched_to": "musicbrainz recording length (254s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 253.857,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 253.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 250.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 265.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37010903 (Kyrie / Mr. Mister / Welcome to the Real World, 295.0s): duration matches no reference length",
+    "lrclib 37025136 (Kyrie / Mr. Mister / The Best of Mr. Mister, 216.0s): duration matches no reference length",
+    "lrclib 37100892 (Kyrie / Mr. Mister / 100% Rock Vol. 3, 168.0s): duration matches no reference length",
+    "lrclib 38015244 (Kyrie (Extended Version) / Mr. Mister / Kyrie, 267.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

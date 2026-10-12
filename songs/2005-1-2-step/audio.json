@@ -1,0 +1,72 @@
+{
+  "id": "2005-1-2-step",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13145326,
+    "matched_by": "isrc",
+    "isrc": "USLF20400121",
+    "title": "1, 2 Step (feat. Missy Elliott)",
+    "artist": "Ciara",
+    "album": "Goodies",
+    "track_duration_s": 202,
+    "link": "https://www.deezer.com/track/13145326",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 113.1,
+    "tempo_bpm_grid": 112.3,
+    "tempo_candidates_bpm": [
+      112.3,
+      56.2,
+      234.9
+    ],
+    "beats_detected": 52,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.36,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.216,
+    "chroma_profile": [
+      0.576,
+      0.513,
+      0.501,
+      0.422,
+      0.413,
+      0.596,
+      0.798,
+      1.0,
+      0.894,
+      0.688,
+      0.565,
+      0.405
+    ],
+    "rms_dbfs": -10.9,
+    "rms_dbfs_p95_frame": -3.15,
+    "peak_dbfs": 1.51,
+    "loudness_lufs_approx": -12.85,
+    "spectral_centroid_hz_mean": 3692.5,
+    "spectral_centroid_hz_median": 3642.4,
+    "onsets": 132,
+    "onset_density_per_s": 4.402,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13145326",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13145326",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USLF20400135: matched but no preview available (readable=False)"
+  ]
+}

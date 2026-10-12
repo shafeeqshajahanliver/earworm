@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 29020203,
+  "kind": "synced",
+  "matched": {
+    "track": "Straight Up",
+    "artist": "Paula Abdul",
+    "album": "Paula Abdul - Straight Up (Greatest Hits)",
+    "duration_s": 231.0
+  },
+  "duration_matched_to": "musicbrainz recording length (230s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 230.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 222.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 227.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 251.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34628806 (Straight Up / Paula Abdul / Greatest Hits - Straight Up!, 236.0s): duration matches no reference length",
+    "lrclib 34906545 (Straight Up / Paula Abdul / Forever Your Girl, 157.0s): duration matches no reference length",
+    "lrclib 28575369 (Straight Up / Paula Abdul / Paula Abdul, 169.0s): duration matches no reference length",
+    "lrclib 33542807 (Straight Up / Paula Abdul / Straight Up! The Very Best of Paula Abdul, 245.0s): duration matches no reference length",
+    "lrclib 33543141 (Straight Up (Ultimix Mix) / Paula Abdul / Paula Abdul - Shut Up And Dance Mixes, 415.0s): live/remix/other version",
+    "lrclib 35661701 (Straight Up / Paula Abdul / Straight Up, 261.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1993-weak",
+  "preview": {
+    "service": "deezer",
+    "track_id": 568706072,
+    "matched_by": "isrc",
+    "isrc": "USRC10202387",
+    "title": "Weak (Radio Edit)",
+    "artist": "SWV",
+    "album": "Weak - EP",
+    "track_duration_s": 260,
+    "link": "https://www.deezer.com/track/568706072",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.9,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      83.4,
+      129.2,
+      63.0
+    ],
+    "beats_detected": 65,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.481,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.473,
+    "chroma_profile": [
+      0.803,
+      0.497,
+      0.694,
+      0.486,
+      0.649,
+      0.621,
+      0.504,
+      1.0,
+      0.901,
+      0.916,
+      0.757,
+      0.588
+    ],
+    "rms_dbfs": -15.38,
+    "rms_dbfs_p95_frame": -10.24,
+    "peak_dbfs": -0.45,
+    "loudness_lufs_approx": -15.81,
+    "spectral_centroid_hz_mean": 2862.1,
+    "spectral_centroid_hz_median": 2675.3,
+    "onsets": 97,
+    "onset_density_per_s": 3.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 568706072",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126.82,
+    "gain": -15.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/568706072",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C major and G minor"
+  ],
+  "rejected_candidates": []
+}

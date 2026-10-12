@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3984166,
+  "kind": "synced",
+  "matched": {
+    "track": "Nothing Compares 2 U",
+    "artist": "Sinéad O'Connor",
+    "album": "I Do Not Want What I Haven't Got",
+    "duration_s": 308.0
+  },
+  "duration_matched_to": "musicbrainz recording length (308s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 307.746,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 310.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 310.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36983860 (Nothing Compares 2 U / Sinéad O'Connor / Now That's What I Call a No. 1 (CD3), 299.0s): duration matches no reference length",
+    "lrclib 36999815 (Nothing Compares 2 U / Sinéad O'Connor / Twogether POP [Disc 1], 280.0s): duration matches no reference length",
+    "lrclib 37190598 (Nothing Compares 2 U / Sinéad O'connor / 101 From The 80's & 90's, 280.0s): duration matches no reference length",
+    "lrclib 37083130 (Nothing Compares 2 U / Sinéad O'Connor / So Far... The Best Of Sinéad O'Connor [International], 323.0s): duration matches no reference length",
+    "lrclib 20386482 (Nothing Compares 2 U / Sinéad O'Connor / Nothing Compares 2 U, 292.0s): duration matches no reference length",
+    "lrclib 3289149 (Nothing Compares 2 U / Sinéad O’Connor / Nothing Compares 2 U, 280.0s): duration matches no reference length",
+    "lrclib 10695590 (Nothing Compares 2 U / Sinéad O’Connor / Nothing Compares 2 U, 298.0s): duration matches no reference length",
+    "lrclib 11605964 (Nothing Compares 2 U / Sinéad O’Connor / Nothing Compares 2 U, 332.0s): duration matches no reference length",
+    "lrclib 33691909 (Nothing Compares 2 U / Sinéad O'Connor / Sinéad O'Connor, 280.0s): duration matches no reference length",
+    "lrclib 111397 (Nothing Compares 2 U / Sinéad O'Connor / Nothing Compares 2 U (Single), 280.0s): duration matches no reference length",
+    "lrclib 13095365 (Nothing Compares 2 U / Sinéad O'Connor / Nothing Compares 2 U Single, 300.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

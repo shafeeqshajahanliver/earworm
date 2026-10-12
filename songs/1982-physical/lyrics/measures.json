@@ -1,0 +1,41 @@
+{
+  "id": "1982-physical",
+  "lyrics_kind": "synced",
+  "lrclib_id": 2998312,
+  "lines": 23,
+  "words": 215,
+  "unique_words": 76,
+  "type_token_ratio": 0.353,
+  "repeated_line_share": 0.304,
+  "distinct_lines": 16,
+  "zlib_compression_ratio": 0.321,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "physical",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 26,
+    "second": 22,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 14.93,
+  "last_line_s": 177.39,
+  "sung_time_s": 139.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 92.7,
+  "words_per_minute_track": 57.8,
+  "longest_gap_between_lines_s": 38.11,
+  "longest_gap_starts_at_s": 130.91,
+  "first_repeated_block": {
+    "first_at_s": 45.29,
+    "recurs_at_s": 60.51,
+    "lines": [
+      "Let's get physical, physical,",
+      "I wanna get physical, let's get into physical"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 2998312",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

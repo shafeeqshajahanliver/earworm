@@ -1,0 +1,72 @@
+{
+  "id": "2002-whats-luv",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3886133,
+    "matched_by": "isrc",
+    "isrc": "USAT20111228",
+    "title": "What's Luv? (feat. Ashanti)",
+    "artist": "Fat Joe",
+    "album": "What's Luv? (feat. Ashanti)",
+    "track_duration_s": 231,
+    "link": "https://www.deezer.com/track/3886133",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.4,
+    "tempo_bpm_grid": 94.0,
+    "tempo_candidates_bpm": [
+      92.3,
+      47.0,
+      184.6
+    ],
+    "beats_detected": 48,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.742,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.582,
+    "chroma_profile": [
+      0.906,
+      0.896,
+      0.839,
+      0.84,
+      0.713,
+      0.985,
+      0.831,
+      0.96,
+      1.0,
+      0.771,
+      0.712,
+      0.717
+    ],
+    "rms_dbfs": -8.07,
+    "rms_dbfs_p95_frame": -2.71,
+    "peak_dbfs": 2.09,
+    "loudness_lufs_approx": -9.45,
+    "spectral_centroid_hz_mean": 3048.1,
+    "spectral_centroid_hz_median": 2664.5,
+    "onsets": 165,
+    "onset_density_per_s": 5.502,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3886133",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 187.9,
+    "gain": -10,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3886133",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (187.9): octave error likely"
+  ],
+  "rejected_candidates": []
+}

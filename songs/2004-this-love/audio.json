@@ -1,0 +1,78 @@
+{
+  "id": "2004-this-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1165301,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USJAY0300080",
+    "title": "This Love",
+    "artist": "Maroon 5",
+    "album": "Songs About Jane",
+    "track_duration_s": 206,
+    "link": "https://www.deezer.com/track/1165301",
+    "duration_matched_to": "wikipedia infobox length (207s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.0,
+    "tempo_bpm_grid": 94.8,
+    "tempo_candidates_bpm": [
+      95.7,
+      184.6,
+      198.8
+    ],
+    "beats_detected": 47,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.357,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.324,
+    "chroma_profile": [
+      0.839,
+      0.754,
+      0.811,
+      0.875,
+      0.85,
+      0.941,
+      1.0,
+      0.964,
+      0.964,
+      0.831,
+      0.875,
+      0.732
+    ],
+    "rms_dbfs": -8.6,
+    "rms_dbfs_p95_frame": -5.26,
+    "peak_dbfs": 0.99,
+    "loudness_lufs_approx": -8.8,
+    "spectral_centroid_hz_mean": 2749.8,
+    "spectral_centroid_hz_median": 2618.7,
+    "onsets": 81,
+    "onset_density_per_s": 2.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1165301",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95,
+    "gain": -8.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1165301",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 933406: version (This Love (Acoustic))",
+    "deezer 6903502: version (This Love (Live))",
+    "deezer 33382421: version (This Love (Demo))",
+    "deezer 2653112: version (This Love (Cut Copy Galactic Beach House Mix))",
+    "deezer 2653100: version (This Love (C. \"Tricky\" Stewart Remix))",
+    "deezer 688199222: version (This Love (Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005))"
+  ]
+}

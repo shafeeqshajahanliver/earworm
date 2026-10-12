@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37188174,
+  "kind": "synced",
+  "matched": {
+    "track": "I'll Make Love To You",
+    "artist": "Boyz II Men",
+    "album": "R & B Classics",
+    "duration_s": 233.0
+  },
+  "duration_matched_to": "musicbrainz recording length (230s)",
+  "duration_diff_s": 3.3,
+  "reference_lengths": [
+    {
+      "seconds": 229.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 236.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 236.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37479303 (I’ll Make Love to You / Boyz II Men / The Motown Story, 244.0s): duration matches no reference length",
+    "lrclib 37402394 (I'll Make Love To You / Boyz II Men / I Love You Be My Valentine, 246.0s): duration matches no reference length",
+    "lrclib 37247130 (I'll Make Love To You / Boyz II Men / CB8526-08, 242.0s): duration matches no reference length",
+    "lrclib 34653918 (I'll Make Love To You / Boyz II Men / Football Party Hits 2022, 246.0s): duration matches no reference length",
+    "lrclib 34800320 (I'll Make Love To You / Boyz II Men / Twenty, 245.0s): duration matches no reference length",
+    "lrclib 34553467 (i'll make love to you / boyz ii men / then 2 now, 284.0s): duration matches no reference length",
+    "lrclib 34181828 (I'll Make Love To You / Boyz II Men / I'll Make Love To You, 260.0s): duration matches no reference length",
+    "lrclib 31594764 (I'll Make Love To You / Boyz II Men / I'll Make Love To You, 246.0s): duration matches no reference length",
+    "lrclib 8595216 (I'll Make Love To You / Boyz II Men / Boyz II Men Videos, 260.0s): duration matches no reference length",
+    "lrclib 10972030 (I'll Make Love To You / Boyz II Men / Boyz II Men Songs, 260.0s): duration matches no reference length",
+    "lrclib 22641765 (I'll Make Love To You (LP Version) / Boyz II Men / I'll Make Love To You, 247.733333s): duration matches no reference length",
+    "lrclib 34111185 (I'll Make Love to You (LP version) / Boyz II Men / I'll Make Love to You  (single), 250.0s): duration matches no reference length",
+    "lrclib 38800906 (I'll Make Love To You / Boyz II Men / 4 Seasons of Boyz II Men: Summer Love, 245.0s): duration matches no reference length",
+    "lrclib 34309575 (I'll Make Love To You (Official Music Video) / Boyz II Men / Boyz II Men Videos, 260.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

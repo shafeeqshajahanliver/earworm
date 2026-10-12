@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 591851,
+  "kind": "synced",
+  "matched": {
+    "track": "The Reason",
+    "artist": "Hoobastank",
+    "album": "The Reason",
+    "duration_s": 233.0
+  },
+  "duration_matched_to": "musicbrainz recording length (233s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 233.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 232.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 233.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37497144 (The Reason / Hoobastank / Best of English Songs, 251.0s): duration matches no reference length",
+    "lrclib 37242540 (The Reason / Hoobastank / Водопад хитов. №2, 2005, 251.0s): duration matches no reference length",
+    "lrclib 36862540 (The Reason / Hoobastank / The Reason (20th Anniversary), 210.0s): duration matches no reference length",
+    "lrclib 34733612 (The Reason / Hoobastank / Best Of, 221.0s): duration matches no reference length",
+    "lrclib 33035687 (The Reason / Hoobastank / YouTube Search - Hoobastank The Reason, 251.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

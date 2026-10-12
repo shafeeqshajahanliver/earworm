@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 27363611,
+  "kind": "synced",
+  "matched": {
+    "track": "Take A Bow",
+    "artist": "Madonna",
+    "album": "Take A Bow [Single]",
+    "duration_s": 321.1755
+  },
+  "duration_matched_to": "musicbrainz recording length (322s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 321.533,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 321.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 321.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36965907 (Take A Bow / Madonna / Babies Go Madonna, 216.0s): duration matches no reference length",
+    "lrclib 37028373 (Take a Bow / Madonna / Celebration (Deluxe Version) CD 2, 320.0s): live/remix/other version",
+    "lrclib 37064646 (Take a Bow / Madonna / Bedtime Stories, 336.0s): duration matches no reference length",
+    "lrclib 37373914 (Take a Bow / Madonna / Bedtime Stories, 387.0s): duration matches no reference length",
+    "lrclib 37382559 (Take a bow / Madonna / Celebration, 462.0s): duration matches no reference length",
+    "lrclib 37389924 (Take a Bow / Madonna / Vol. 27 Disc 3, 273.0s): duration matches no reference length",
+    "lrclib 36867428 (Take a Bow / Madonna / 2009 - Celebration (double disc version), 320.0s): live/remix/other version",
+    "lrclib 34435896 (Take A Bow / Madonna / GHV 2, 272.0s): duration matches no reference length",
+    "lrclib 34197237 (Take a Bow / Madonna / Take a Bow, 243.0s): duration matches no reference length",
+    "lrclib 22532205 (Take a Bow / Madonna / Take a Bow, 251.219575s): duration matches no reference length",
+    "lrclib 22553970 (Take a Bow / Madonna / Take a Bow, 298.501225s): duration matches no reference length",
+    "lrclib 12863368 (Take a Bow / Madonna / Take a Bow, 268.0s): duration matches no reference length",
+    "lrclib 38870304 (Take a Bow / Madonna / Take a Bow, 191.0s): duration matches no reference length",
+    "lrclib 22024111 (Take a Bow (edit) / Madonna / Take a Bow, 271.777959s): duration matches no reference length",
+    "lrclib 23343703 (Take a Bow (Instrumental) / Madonna / Take a Bow, 321.410612s): live/remix/other version",
+    "lrclib 23349371 (Take a Bow (Instrumental) / Madonna / Take a Bow, 321.0s): live/remix/other version",
+    "lrclib 23350105 (Take a Bow (edit) / Madonna / Take a Bow, 286.356063s): duration matches no reference length",
+    "lrclib 23334045 (Take a Bow  (Instrumental) / Madonna / Take a Bow, 321.36s): live/remix/other version",
+    "lrclib 613163 (Take a Bow (Edit) / Madonna / Take a Bow, 269.0s): duration matches no reference length",
+    "lrclib 28973879 (Take a Bow (edit) / Madonna / Take a Bow, 274.0s): duration matches no reference length",
+    "lrclib 21878213 (Take a Bow / Madonna / Frozen / Take a Bow, 264.0s): duration matches no reference length",
+    "lrclib 21669813 (Take a Bow / Madonna / Take a Bow - Remixes, 318.246438s): live/remix/other version",
+    "lrclib 25120200 (Take a Bow / Madonna / Take a Bow - Single, 274.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

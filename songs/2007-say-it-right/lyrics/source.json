@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36558398,
+  "kind": "synced",
+  "matched": {
+    "track": "Say It Right - Main",
+    "artist": "Nelly Furtado",
+    "album": "Loose (Spanish Limited Edition)",
+    "duration_s": 222.0
+  },
+  "duration_matched_to": "musicbrainz recording length (222s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 222.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 223.1,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 223.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 0.933,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36325958 (Say It Right (Main) / Nelly Furtado / Loose (International Version), 223.0s): live/remix/other version",
+    "lrclib 22094627 (Say It Right (Main) / Nelly Furtado / Say It Right, 229.198367s): duration matches no reference length",
+    "lrclib 11078266 (Say It Right - Main / Nelly Furtado / The Best of Nelly Furtado (International Version), 223.0s): live/remix/other version",
+    "lrclib 12518571 (Say It Right - Main / Nelly Furtado / The Best of Nelly Furtado (Spanish Version), 223.0s): live/remix/other version",
+    "lrclib 14613861 (Say It Right - Main / Nelly Furtado / Ultimate R&B Love 2008 (International Version), 223.0s): live/remix/other version",
+    "lrclib 37016434 (Say It Right / Nelly Furtado / Losse Nummers, 214.0s): duration matches no reference length",
+    "lrclib 37474601 (Say It Right / Nelly Furtado / Say It Right (International Version), 215.0s): live/remix/other version",
+    "lrclib 37515707 (Say it Right / Nelly Furtado / Studio 33 - Studio Hits Edition 56 Bootleg, 248.0s): duration matches no reference length",
+    "lrclib 37106939 (Say It Right / Nelly Furtado / Die ultimative Chart Show: Die erfolgreichsten Download-Hits aller Zeiten, 235.0s): duration matches no reference length",
+    "lrclib 37342422 (Say It Right / Nelly Furtado / Essential Songs 2008, 215.0s): duration matches no reference length",
+    "lrclib 37388431 (Say It Right / Nelly Furtado / Clubland 11 Disc 2, 180.0s): duration matches no reference length",
+    "lrclib 36893318 (Say It Right / Nelly Furtado / Billboard Hot 100 2007, 216.0s): duration matches no reference length",
+    "lrclib 34630361 (Say It Right / Nelly Furtado / The Best Of Nelly Furtado (Deluxe Version) Interscope, 224.0s): live/remix/other version",
+    "lrclib 34745193 (Say It Right / Nelly Furtado / Loose, 176.0s): duration matches no reference length",
+    "lrclib 34781447 (Say It right / Nelly Furtado / [Unknown Album], 234.0s): duration matches no reference length",
+    "lrclib 23428010 (Say It Right / Nelly Furtado / Nelly Furtado, 236.379138s): duration matches no reference length",
+    "lrclib 21307736 (Say It Right / Nelly Furtado / Nelly Furtado Songs, 235.0s): duration matches no reference length",
+    "lrclib 19120882 (Say It Right / Nelly Furtado / Nelly Furtado Videos, 235.0s): duration matches no reference length",
+    "lrclib 36620893 (Say It Right / Nelly Furtado / Say It Right, 215.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

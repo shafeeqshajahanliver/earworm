@@ -1,0 +1,62 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36860171,
+  "kind": "synced",
+  "matched": {
+    "track": "Here I go again",
+    "artist": "Whitesnake",
+    "album": "Here I go again",
+    "duration_s": 304.0
+  },
+  "duration_matched_to": "musicbrainz recording length (303s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 303.0,
+      "source": "musicbrainz recording length"
+    }
+  ],
+  "matching_candidates": 3,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36889398 (Here i go again / Whitesnake / Best Hits of the 80s, 274.0s): duration matches no reference length",
+    "lrclib 37015404 (Here I Go Again / Whitesnake / Whitesnake’s Greatest Hits, 236.0s): duration matches no reference length",
+    "lrclib 36987752 (Here I Go Again / Whitesnake / Monster Ballads: The Ultimate Set, 275.0s): duration matches no reference length",
+    "lrclib 37494168 (Here I Go Again / Whitesnake / Germany, 345.0s): duration matches no reference length",
+    "lrclib 37497356 (Here I Go Again / Whitesnake / Metal Masters, 232.0s): duration matches no reference length",
+    "lrclib 37518443 (Here I Go Again / Whitesnake / Disco Total: 45 exitos de una epoca, 277.0s): duration matches no reference length",
+    "lrclib 37487241 (Here I Go Again / Whitesnake / Jukebox Heroes, 273.0s): duration matches no reference length",
+    "lrclib 37127466 (Here I Go Again / Whitesnake / Saints & Sinners, 360.0s): duration matches no reference length",
+    "lrclib 37188018 (Here I Go Again / Whitesnake / 50 Jaar Radio Veronica The 80's )CD2', 274.0s): duration matches no reference length",
+    "lrclib 37189830 (Here I Go Again / Whitesnake / The Best of the Best Air Guitar Albums in the World… Ever!, 233.0s): duration matches no reference length",
+    "lrclib 37179513 (Here I Go Again / Whitesnake / Bayern 3/Kult-80er, 274.0s): duration matches no reference length",
+    "lrclib 37091307 (Here I Go Again / Whitesnake / Time Life - Guitar Rock - The Heavy 80s, 277.0s): duration matches no reference length",
+    "lrclib 37100569 (Here I Go Again / Whitesnake / Best Of Whitesnake (Remastered), 277.0s): duration matches no reference length",
+    "lrclib 37107815 (Here I Go Again / Whitesnake / Live.... In The Still Of The Night, 416.0s): live/remix/other version",
+    "lrclib 37284509 (Here I Go Again / Whitesnake / Made in Japan (Deluxe Version), 362.0s): live/remix/other version",
+    "lrclib 37328281 (Here I go again / Whitesnake / Chartshow : Die erfolgreichsten Rock-Hymnen, 275.0s): duration matches no reference length",
+    "lrclib 37343732 (Here I Go Again / Whitesnake / Heavy 100 CD2, 235.0s): duration matches no reference length",
+    "lrclib 37387649 (Here I Go Again / Whitesnake / Gold CD2, 275.0s): duration matches no reference length",
+    "lrclib 22778401 (Here I Go Again / Whitesnake / Here I Go Again: The Whitesnake Collection, 279.849796s): duration matches no reference length",
+    "lrclib 24949066 (Here I Go Again / Whitesnake / Here I Go Again: The Whitesnake Collection, 277.455238s): duration matches no reference length",
+    "lrclib 10671041 (Here I Go Again / Whitesnake / Here I Go Again - The Whitesnake Collection, 274.0s): duration matches no reference length",
+    "lrclib 37649055 (Here I Go Again / WHITESNAKE / HERE I GO AGAIN: THE WHITESNAKE COLLECTION, 234.0s): duration matches no reference length",
+    "lrclib 19279397 (Here I Go Again / Whitesnake / Here I Go Again, 279.294875s): duration matches no reference length",
+    "lrclib 19283327 (Here I Go Again / Whitesnake / Here I Go Again, 279.30375s): duration matches no reference length",
+    "lrclib 17924617 (Here I Go Again / Whitesnake / Here I Go Again, 275.464425s): duration matches no reference length",
+    "lrclib 13405851 (Here I Go Again / Whitesnake / Here I Go Again, 232.0s): duration matches no reference length",
+    "lrclib 11645768 (Here I Go Again (radio version) / Whitesnake / Here I Go Again: The Whitesnake Collection, 234.0s): live/remix/other version",
+    "lrclib 26533239 (Here I Go Again / Whitesnake / Here I Go Again: The Whitesnake Collection (CD 1), 274.337959s): duration matches no reference length",
+    "lrclib 14719106 (Here I Go Again / Whitesnake / Here I Go Again: The Whitesnake Collection - Disc 1, 274.207347s): duration matches no reference length",
+    "lrclib 21788505 (Here I Go Again (Edit) / Whitesnake / Here I Go Again, 232.202449s): duration matches no reference length",
+    "lrclib 33321203 (Here I Go Again - (Unplugged) / Whitesnake / Here I go again, 253.0s): live/remix/other version",
+    "lrclib 18699654 (Here I Go Again (edit/remix) / Whitesnake / Here I Go Again, 233.38435s): live/remix/other version",
+    "lrclib 24919209 (Here I Go Again (edit/remix) / Whitesnake / Here I Go Again, 279.1524999s): live/remix/other version",
+    "lrclib 16799851 (Here I Go Again (Radio Mix) / Whitesnake / Here I Go Again, 232.202449s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

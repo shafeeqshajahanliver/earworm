@@ -1,0 +1,50 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/19438",
+    "title": "I Gotcha",
+    "performer": "Joe Tex",
+    "is_original": true,
+    "first_release_date": "1971-12",
+    "releases": [
+      {
+        "title": "I Gotcha",
+        "uri": "https://api.secondhandsongs.com/release/7966",
+        "performer": "Joe Tex"
+      },
+      {
+        "title": "I Gotcha",
+        "uri": "https://api.secondhandsongs.com/release/288450",
+        "performer": "Joe Tex"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 9,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/19438",
+    "title": "I Gotcha",
+    "language": "English",
+    "writers": [
+      "Joe Tex"
+    ],
+    "original_performer": "Joe Tex",
+    "versions": 10,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Ci ho preso",
+        "uri": "https://api.secondhandsongs.com/work/347005"
+      }
+    ]
+  }
+}

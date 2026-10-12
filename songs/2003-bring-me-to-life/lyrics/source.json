@@ -1,0 +1,40 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 962692,
+  "kind": "synced",
+  "matched": {
+    "track": "Bring Me to Life",
+    "artist": "Evanescence",
+    "album": "Bring Me to Life",
+    "duration_s": 236.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (235s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 235.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 236.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (235s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37009963 (Bring Me To Life / Evanescence / Live X-Scape - Salt Lake City - March 11, 2003, 222.0s): live/remix/other version",
+    "lrclib 37152925 (Bring Me To Life / Evanescence / Evanescence - Anywhere But Home, 284.0s): duration matches no reference length",
+    "lrclib 37260748 (Bring Me To Life / Evanescence / Bring Me To Life (Demo / Remastered), 244.0s): live/remix/other version",
+    "lrclib 28006643 (Bring Me To Life (Bliss Mix) / Evanescence / Evanescence - Bring Me To Life, 239.0s): live/remix/other version",
+    "lrclib 20727128 (Bring Me to Life / Evanescence / Bring Me to Life, 393.7959179s): duration matches no reference length",
+    "lrclib 24098944 (Bring Me to Life / Evanescence / Bring Me to Life, 226.045562s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

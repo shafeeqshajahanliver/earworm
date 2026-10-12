@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18059757,
+  "kind": "synced",
+  "matched": {
+    "track": "Let Me Blow Ya Mind",
+    "artist": "Eve Featuring Gwen Stefani",
+    "album": "Let Me Blow Ya Mind",
+    "duration_s": 229.0
+  },
+  "duration_matched_to": "musicbrainz recording length (228s)",
+  "duration_diff_s": 1.4,
+  "reference_lengths": [
+    {
+      "seconds": 227.626,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 230.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 231.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 61,
+  "agreement_with_other_candidates": 0.93,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34955947 (Let Me Blow Ya Mind / Eve / Scorpion, 207.0s): duration matches no reference length",
+    "lrclib 33399357 (Let Me Blow Ya Mind / Eve / Funkymix 051, 390.0s): duration matches no reference length",
+    "lrclib 36207786 (Let Me Blow Ya Mind / Eve / Straight Outta Old Skool, 246.0s): duration matches no reference length",
+    "lrclib 33885000 (Let Me Blow Ya Mind / Eve / Scorpion, 240.0s): duration matches no reference length",
+    "lrclib 18685876 (Let Me Blow Ya Mind / Eve / Let Me Blow Ya Mind (MTV), 246.296s): duration matches no reference length",
+    "lrclib 19242958 (Let Me Blow Ya Mind / Eve / The Source-Top 115 Artists (19, 140.173061s): duration matches no reference length",
+    "lrclib 18994844 (Let Me Blow Ya Mind / Eve / Higrabe, 73.958s): duration matches no reference length",
+    "lrclib 36563586 (Let Me Blow Ya Mind / Eve featuring Gwen Stefani / Scorpion, 344.0s): duration matches no reference length",
+    "lrclib 37245481 (Let Me Blow Ya Mind / Eve feat. Gwen Stefani / Ministry of Sound: Rappers Delight, 196.0s): duration matches no reference length",
+    "lrclib 20266032 (Let Me Blow Ya Mind / Eve feat. Gwen Stefani / Scorpion, 214.0s): duration matches no reference length",
+    "lrclib 20768060 (Let Me Blow Ya Mind / Eve Feat. Gwen Stefani / Urban Kiss, Vol. 1 [Disc 1], 220.235s): duration matches no reference length",
+    "lrclib 29594630 (Let Me Blow Ya Mind / Eve And Gwen Stefani / Let Me Blow Ya Mind, 246.0s): duration matches no reference length",
+    "lrclib 16823940 (Let Me Blow Ya Mind (feat. Gwen Stefani) (Radio Version) / Eve / Let Me Blow Ya Mind, 229.088073s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

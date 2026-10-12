@@ -1,0 +1,75 @@
+{
+  "id": "1992-all-4-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4089647,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USGI10000096",
+    "title": "All 4 Love",
+    "artist": "Color Me Badd",
+    "album": "C.M.B.",
+    "track_duration_s": 211,
+    "link": "https://www.deezer.com/track/4089647",
+    "duration_matched_to": "musicbrainz recording length (215s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.3,
+    "tempo_bpm_grid": 106.6,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      71.8
+    ],
+    "beats_detected": 52,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.577,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.503,
+    "chroma_profile": [
+      0.417,
+      0.42,
+      0.738,
+      0.618,
+      0.729,
+      0.69,
+      0.719,
+      1.0,
+      0.574,
+      0.51,
+      0.399,
+      0.527
+    ],
+    "rms_dbfs": -11.02,
+    "rms_dbfs_p95_frame": -7.46,
+    "peak_dbfs": 1.15,
+    "loudness_lufs_approx": -11.32,
+    "spectral_centroid_hz_mean": 2973.7,
+    "spectral_centroid_hz_median": 2967.0,
+    "onsets": 110,
+    "onset_density_per_s": 3.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4089647",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 106.3,
+    "gain": -11.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4089647",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 6762895: version (All 4 Love (Re-Recorded / Remastered))",
+    "deezer 2264296867: version (All 4 Love (Re-Recorded - Sped Up))",
+    "deezer 2264296887: version (All 4 Love (Re-Recorded - Slowed + Reverb))"
+  ]
+}

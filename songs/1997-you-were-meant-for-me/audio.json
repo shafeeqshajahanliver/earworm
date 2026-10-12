@@ -1,0 +1,70 @@
+{
+  "id": "1997-you-were-meant-for-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1444389282,
+    "matched_by": "isrc",
+    "isrc": "USC4R2003805",
+    "title": "You Were Meant For Me (Album Edit)",
+    "artist": "Jewel",
+    "album": "Pieces Of You (25th Anniversary Edition)",
+    "track_duration_s": 229,
+    "link": "https://www.deezer.com/track/1444389282",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 115.6,
+    "tempo_bpm_grid": 114.8,
+    "tempo_candidates_bpm": [
+      117.5,
+      112.3,
+      57.4
+    ],
+    "beats_detected": 58,
+    "key": "B minor",
+    "key_tonic": "B",
+    "key_mode": "minor",
+    "key_correlation": 0.811,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.728,
+    "chroma_profile": [
+      0.784,
+      0.723,
+      0.896,
+      0.681,
+      0.846,
+      0.461,
+      0.804,
+      0.859,
+      0.541,
+      0.662,
+      0.641,
+      1.0
+    ],
+    "rms_dbfs": -14.36,
+    "rms_dbfs_p95_frame": -11.33,
+    "peak_dbfs": -2.44,
+    "loudness_lufs_approx": -14.59,
+    "spectral_centroid_hz_mean": 1940.9,
+    "spectral_centroid_hz_median": 1740.2,
+    "onsets": 77,
+    "onset_density_per_s": 2.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1444389282",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1444389282",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

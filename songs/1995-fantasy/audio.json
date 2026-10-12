@@ -1,0 +1,72 @@
+{
+  "id": "1995-fantasy",
+  "preview": {
+    "service": "deezer",
+    "track_id": 99675078,
+    "matched_by": "isrc",
+    "isrc": "USSM19501035",
+    "title": "Fantasy (feat. O.D.B.) (Bad Boy Fantasy)",
+    "artist": "Mariah Carey",
+    "album": "#1 to Infinity",
+    "track_duration_s": 293,
+    "link": "https://www.deezer.com/track/99675078",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.4,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      103.4,
+      51.7,
+      198.8
+    ],
+    "beats_detected": 51,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.322,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.296,
+    "chroma_profile": [
+      0.585,
+      0.56,
+      0.774,
+      0.858,
+      0.946,
+      0.782,
+      0.898,
+      1.0,
+      0.963,
+      0.996,
+      0.838,
+      0.798
+    ],
+    "rms_dbfs": -9.71,
+    "rms_dbfs_p95_frame": -5.26,
+    "peak_dbfs": 0.08,
+    "loudness_lufs_approx": -10.01,
+    "spectral_centroid_hz_mean": 3233.6,
+    "spectral_centroid_hz_median": 3015.5,
+    "onsets": 131,
+    "onset_density_per_s": 4.368,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 99675078",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 102.3,
+    "gain": -9.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/99675078",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between E minor and E major"
+  ],
+  "rejected_candidates": []
+}

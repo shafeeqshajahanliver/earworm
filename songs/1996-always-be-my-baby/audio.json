@@ -1,0 +1,72 @@
+{
+  "id": "1996-always-be-my-baby",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1012940,
+    "matched_by": "isrc",
+    "isrc": "USSM19501119",
+    "title": "Always Be My Baby",
+    "artist": "Mariah Carey",
+    "album": "Daydream",
+    "track_duration_s": 258,
+    "link": "https://www.deezer.com/track/1012940",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 79.0,
+    "tempo_bpm_grid": 78.9,
+    "tempo_candidates_bpm": [
+      78.3,
+      161.5,
+      152.0
+    ],
+    "beats_detected": 39,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.685,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.635,
+    "chroma_profile": [
+      0.436,
+      0.714,
+      0.435,
+      0.517,
+      0.798,
+      0.446,
+      1.0,
+      0.734,
+      0.774,
+      0.828,
+      0.472,
+      0.768
+    ],
+    "rms_dbfs": -12.59,
+    "rms_dbfs_p95_frame": -9.37,
+    "peak_dbfs": 0.89,
+    "loudness_lufs_approx": -13.45,
+    "spectral_centroid_hz_mean": 2583.0,
+    "spectral_centroid_hz_median": 2478.8,
+    "onsets": 85,
+    "onset_density_per_s": 2.834,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1012940",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 157.8,
+    "gain": -12.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1012940",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (157.8): octave error likely"
+  ],
+  "rejected_candidates": []
+}

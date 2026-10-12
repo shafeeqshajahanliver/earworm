@@ -1,0 +1,72 @@
+{
+  "id": "1981-keep-on-loving-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 581979,
+    "matched_by": "isrc",
+    "isrc": "USSM10012808",
+    "title": "Keep on Loving You",
+    "artist": "REO Speedwagon",
+    "album": "The Essential REO Speedwagon",
+    "track_duration_s": 201,
+    "link": "https://www.deezer.com/track/581979",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 87.1,
+    "tempo_bpm_grid": 87.6,
+    "tempo_candidates_bpm": [
+      86.1,
+      172.3,
+      43.8
+    ],
+    "beats_detected": 43,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.814,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.65,
+    "chroma_profile": [
+      0.725,
+      0.368,
+      0.444,
+      0.367,
+      0.443,
+      1.0,
+      0.402,
+      0.447,
+      0.299,
+      0.402,
+      0.264,
+      0.318
+    ],
+    "rms_dbfs": -13.03,
+    "rms_dbfs_p95_frame": -10.35,
+    "peak_dbfs": 0.0,
+    "loudness_lufs_approx": -11.92,
+    "spectral_centroid_hz_mean": 2838.6,
+    "spectral_centroid_hz_median": 2726.1,
+    "onsets": 42,
+    "onset_density_per_s": 1.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 581979",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 174.4,
+    "gain": -10.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/581979",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (174.4): octave error likely"
+  ],
+  "rejected_candidates": []
+}

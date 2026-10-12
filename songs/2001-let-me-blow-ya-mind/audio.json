@@ -1,0 +1,72 @@
+{
+  "id": "2001-let-me-blow-ya-mind",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4302497,
+    "matched_by": "isrc",
+    "isrc": "USIR10110173",
+    "title": "Let Me Blow Ya Mind",
+    "artist": "Eve",
+    "album": "Scorpion",
+    "track_duration_s": 230,
+    "link": "https://www.deezer.com/track/4302497",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.1,
+    "tempo_bpm_grid": 89.9,
+    "tempo_candidates_bpm": [
+      89.1,
+      45.3,
+      198.8
+    ],
+    "beats_detected": 41,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.41,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.389,
+    "chroma_profile": [
+      0.564,
+      0.671,
+      0.614,
+      0.8,
+      0.607,
+      0.711,
+      0.947,
+      0.9,
+      1.0,
+      0.662,
+      0.644,
+      0.607
+    ],
+    "rms_dbfs": -9.79,
+    "rms_dbfs_p95_frame": -4.17,
+    "peak_dbfs": 2.49,
+    "loudness_lufs_approx": -10.81,
+    "spectral_centroid_hz_mean": 2506.9,
+    "spectral_centroid_hz_median": 2423.3,
+    "onsets": 103,
+    "onset_density_per_s": 3.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4302497",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 90.1,
+    "gain": -11.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4302497",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Ab minor and C# major"
+  ],
+  "rejected_candidates": []
+}

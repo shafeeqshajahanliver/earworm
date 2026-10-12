@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1005996,
+  "kind": "synced",
+  "matched": {
+    "track": "Get Busy",
+    "artist": "Sean Paul",
+    "album": "Dutty Rock",
+    "duration_s": 212.0
+  },
+  "duration_matched_to": "musicbrainz recording length (212s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 211.84,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 211.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 212.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37209217 (Get Busy / Sean Paul / REMIX: The Hip-Hop Mixtape, 179.0s): live/remix/other version",
+    "lrclib 34622637 (Get Busy / Sean Paul / Dutty Rock (20th Anniversary), 82.0s): duration matches no reference length",
+    "lrclib 24297591 (Get Busy / Sean Paul / Get Busy, 165.91s): duration matches no reference length",
+    "lrclib 30206485 (Get Busy / Sean Paul / Get Busy, 265.0s): duration matches no reference length",
+    "lrclib 28012581 (Get Busy / Sean Paul / Sean Paul - Reggae Tribute To Sean Paul, 220.0s): live/remix/other version",
+    "lrclib 35320170 (Get Busy / Sean Paul / Sean Paul Songs, 265.0s): duration matches no reference length",
+    "lrclib 24630725 (Get Busy / Sean Paul / Sean Paul - Singles, 385.624958s): duration matches no reference length",
+    "lrclib 31700757 (Get Busy / Sean Paul / Sean Paul Videos, 265.0s): duration matches no reference length",
+    "lrclib 38513807 (Get Busy / Sean Paul, &friends / Get Busy, 223.0s): duration matches no reference length",
+    "lrclib 20126827 (Get Busy / Sean Paul / Get Busy - Single, 258.2987759s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

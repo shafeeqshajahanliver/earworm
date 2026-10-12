@@ -1,0 +1,197 @@
+{
+  "id": "2023-flowers",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Flowers (Miley Cyrus song)",
+  "wikidata": {
+    "qid": "Q115945493",
+    "label": "Flowers",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q4235",
+          "label": "Miley Cyrus"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q4235",
+          "label": "Miley Cyrus"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q183387",
+          "label": "Columbia Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2023-01-12"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q116036412",
+          "label": "Endless Summer Vacation"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "award_received": [
+        {
+          "qid": "Q843219",
+          "label": "Grammy Award for Record of the Year"
+        },
+        {
+          "qid": "Q5593866",
+          "label": "Grammy Award for Best Pop Solo Performance"
+        }
+      ],
+      "nominated_for": [
+        {
+          "qid": "Q1027904",
+          "label": "Grammy Award for Song of the Year"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q105626158",
+          "label": "Angels like You"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q117038871",
+          "label": "River"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "5ce43a90-760d-4737-9d7e-800434879dab"
+      ],
+      "musicbrainz_release_group_id": [
+        "95ff5306-2b74-46c4-9f7a-a9d5c439efa6"
+      ],
+      "genius_song_id": [
+        "Miley-cyrus-flowers-lyrics"
+      ],
+      "youtube_video_id": [
+        "G7KNmW9a75Y"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 95ff5306-2b74-46c4-9f7a-a9d5c439efa6 (2023-01-13)",
+  "musicbrainz": {
+    "recording_id": "bf1d33fb-031b-49e9-bb11-3bbf30f15f06",
+    "title": "Flowers",
+    "length_ms": 201000,
+    "first_release_date": "2023-01-13",
+    "artist_credit": "Miley Cyrus",
+    "artists": [
+      {
+        "name": "MILEY",
+        "mbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
+      }
+    ],
+    "isrcs": [
+      "USSM12300183"
+    ],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "pop music"
+    ],
+    "releases": [
+      {
+        "id": "010980aa-c401-4a4c-b68b-ddacb786017b",
+        "title": "Flowers",
+        "date": "2023-01-13",
+        "country": null,
+        "status": "Official",
+        "release_group": "95ff5306-2b74-46c4-9f7a-a9d5c439efa6",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "3ea12205-e91e-41c8-a91e-a620ba571e6c",
+        "title": "Endless Summer Vacation",
+        "date": "2023-03-10",
+        "country": null,
+        "status": "Official",
+        "release_group": "a09823c3-9fe5-4529-ab5e-aceea40810e2",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8c0b32c5-5747-4aff-acd2-4686c3b91844",
+        "title": "Endless Summer Vacation",
+        "date": "2023-08-25",
+        "country": null,
+        "status": "Official",
+        "release_group": "a09823c3-9fe5-4529-ab5e-aceea40810e2",
+        "primary_type": "Album",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "5ce43a90-760d-4737-9d7e-800434879dab",
+      "title": "Flowers",
+      "iswcs": [
+        "T-315.068.833-4"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Gregory Hein",
+          "mbid": "384dfb61-c597-4303-97be-667b571041f9"
+        },
+        {
+          "role": "writer",
+          "name": "MILEY",
+          "mbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
+        },
+        {
+          "role": "writer",
+          "name": "Michael Pollack",
+          "mbid": "76c5e552-688e-4e9d-afa0-36e77526495a"
+        }
+      ],
+      "urls": [
+        "https://www.allmusic.com/song/mt0061920371",
+        "https://genius.com/Miley-cyrus-flowers-lyrics",
+        "https://www.songfacts.com/facts/miley-cyrus/flowers",
+        "https://www.wikidata.org/wiki/Q115945493"
+      ]
+    },
+    "main_artist": {
+      "name": "MILEY",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Franklin"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

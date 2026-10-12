@@ -1,0 +1,67 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/13440",
+    "title": "Sunshine of Your Love",
+    "performer": "Cream",
+    "is_original": true,
+    "first_release_date": "1967-11",
+    "releases": [
+      {
+        "title": "Disraeli Gears",
+        "uri": "https://api.secondhandsongs.com/release/5673",
+        "performer": "Cream"
+      },
+      {
+        "title": "Sunshine of Your Love",
+        "uri": "https://api.secondhandsongs.com/release/124010",
+        "performer": "Cream"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 157,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/13440",
+    "title": "Sunshine of Your Love",
+    "language": "English",
+    "writers": [
+      "Pete Brown [GB1]",
+      "Jack Bruce",
+      "Eric Clapton"
+    ],
+    "original_performer": "Cream",
+    "versions": 158,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Some Sign from Above",
+        "uri": "https://api.secondhandsongs.com/work/194340"
+      },
+      {
+        "title": "Ritorno da te",
+        "uri": "https://api.secondhandsongs.com/work/69981"
+      },
+      {
+        "title": "Keskiyön aikaan",
+        "uri": "https://api.secondhandsongs.com/work/148838"
+      },
+      {
+        "title": "Žarek tvoje ljubezni",
+        "uri": "https://api.secondhandsongs.com/work/225788"
+      },
+      {
+        "title": "El brillo de tu amor",
+        "uri": "https://api.secondhandsongs.com/work/259288"
+      },
+      {
+        "title": "Hitler Was a Vegetarian",
+        "uri": "https://api.secondhandsongs.com/work/137688"
+      }
+    ]
+  }
+}

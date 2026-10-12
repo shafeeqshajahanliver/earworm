@@ -1,0 +1,59 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/6256",
+    "title": "A Fifth of Beethoven",
+    "performer": "Walter Murphy & The Big Apple Band",
+    "is_original": false,
+    "first_release_date": "1976-04",
+    "releases": [
+      {
+        "title": "A Fifth of Beethoven",
+        "uri": "https://api.secondhandsongs.com/release/101191",
+        "performer": "Walter Murphy & The Big Apple Band"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Sinfonie Nr. 5 in c-Moll, erster Satz",
+      "uri": "https://api.secondhandsongs.com/work/1167"
+    }
+  ],
+  "covers_of_this_recording": 12,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/6256",
+    "title": "A Fifth of Beethoven",
+    "language": null,
+    "writers": [
+      "Walter Murphy"
+    ],
+    "original_performer": "Walter Murphy & The Big Apple Band",
+    "versions": 13,
+    "based_on": [
+      {
+        "title": "Sinfonie Nr. 5 in c-Moll, erster Satz",
+        "uri": "https://api.secondhandsongs.com/work/1167"
+      }
+    ],
+    "derived_works": [
+      {
+        "title": "When I Get You Alone",
+        "uri": "https://api.secondhandsongs.com/work/1170"
+      }
+    ]
+  }
+}

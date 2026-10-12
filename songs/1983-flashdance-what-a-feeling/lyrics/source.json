@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 4709258,
+  "kind": "synced",
+  "matched": {
+    "track": "Flashdance... What A Feeling",
+    "artist": "Irene Cara",
+    "album": "Flashdance... What A Feeling",
+    "duration_s": 234.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (234s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 436.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 234.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (234s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 38306216 (Flashdance....  What a Feeling (Rerecorded) -  (Flashdance....  What a Feeling) / Irene Cara / (Ep & Single Collections), 246.0s): live/remix/other version",
+    "lrclib 37500861 (Flashdance... What A Feeling / Irene Cara / Mastermix - Professional K - 60S 70S, 227.0s): duration matches no reference length",
+    "lrclib 37443782 (Flashdance...What A Feeling / Irene Cara / Mastermix Flashback 1979 - 1983, 77.0s): duration matches no reference length",
+    "lrclib 37228209 (Flashdance... What a Feeling / Irene Cara / Die ultimative Chart Show: Die erfolgreichsten Party Knaller, 228.0s): duration matches no reference length",
+    "lrclib 27271609 (Flashdance... What a Feeling (Jellybean remix) / Irene Cara / Dance Classics Pop Edition, Volume 7, 429.666667s): live/remix/other version",
+    "lrclib 31513899 (Flashdance... What A Feeling (Jellybean Remix) / Irene Cara / Dance Classics Pop Edition Vol.7, 430.0s): live/remix/other version",
+    "lrclib 18838046 (Flashdance… What A Feeling / Irene Cara / Flashdance… What A Feeling, 249.093333s): duration matches no reference length",
+    "lrclib 20069058 (Flashdance… What a Feeling / Irene Cara / Flashdance… What a Feeling, 427.218417s): duration matches no reference length",
+    "lrclib 20859869 (Flashdance… What a Feeling / Irene Cara / Flashdance… What a Feeling, 223.64225s): duration matches no reference length",
+    "lrclib 24640384 (Flashdance… What a Feeling / Irene Cara / Flashdance… What a Feeling, 246.746667s): duration matches no reference length",
+    "lrclib 1005721 (Flashdance... What A Feeling / Irene Cara / Flashdance... What A Feeling, 247.0s): duration matches no reference length",
+    "lrclib 28087582 (Flashdance… What a Feeling / Irene Cara / Flashdance… What a Feeling, 259.0s): duration matches no reference length",
+    "lrclib 25539532 (Flashdance, What a Feeling / Irene Cara / Flashdance, What a Feeling, 244.58449s): duration matches no reference length",
+    "lrclib 27551265 (Flashdance...What A Feeling / Irene Cara / Flashdance...What A Feeling, 249.443265s): duration matches no reference length",
+    "lrclib 27238808 (Flashdance, What a Feeling / Irene Cara / Flashdance, What a Feeling, 341.446531s): duration matches no reference length",
+    "lrclib 9847373 (Flashdance... What a Feeling / Irene Cara / Flashdance… What a Feeling, 249.0s): duration matches no reference length",
+    "lrclib 10102311 (Flashdance... What a Feeling / Irene Cara / Flashdance… What a Feeling, 244.0s): duration matches no reference length",
+    "lrclib 30584286 (Flashdance… What a Feeling / Irene Cara / Flashdance… What a Feeling, 227.0s): duration matches no reference length",
+    "lrclib 36749715 (Flashdance... What A Feeling / Irene Cara / Irene Cara, 241.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

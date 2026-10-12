@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37016484,
+  "kind": "synced",
+  "matched": {
+    "track": "The Sign",
+    "artist": "Ace of Base",
+    "album": "Formel Eins: Hits on Ice",
+    "duration_s": 192.0
+  },
+  "duration_matched_to": "musicbrainz recording length (190s)",
+  "duration_diff_s": 2.2,
+  "reference_lengths": [
+    {
+      "seconds": 189.826,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 191.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 188.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36845253 (the sign / ace of base / happy nation, 32.0s): duration matches no reference length",
+    "lrclib 20382276 (The Sign / Ace Of Base / Ace Of Base - The Sign, 285.518367s): duration matches no reference length",
+    "lrclib 28570604 (The Sign (Dub Version) / Ace Of Base / Ace Of Base - The Sign, 310.0s): live/remix/other version",
+    "lrclib 29095946 (The Sign (Long Version) / Ace Of Base / Ace Of Base - The Sign, 285.0s): live/remix/other version",
+    "lrclib 28808561 (The Sign / Ace Of Base / Ace Of Base - Hits, 281.0s): duration matches no reference length",
+    "lrclib 11830342 (The Sign / Ace of Base / Ace of Base Videos, 198.0s): duration matches no reference length",
+    "lrclib 13539705 (The Sign / Ace of Base / Ace of Base Songs, 198.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

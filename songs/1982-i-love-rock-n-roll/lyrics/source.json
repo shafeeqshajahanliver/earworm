@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37829892,
+  "kind": "synced",
+  "matched": {
+    "track": "I Love Rock 'N Roll",
+    "artist": "Joan Jett & the Blackhearts",
+    "album": "Joan Jett & the Blackhearts - I Love Rock 'N' Roll (Expanded Edition)",
+    "duration_s": 175.0
+  },
+  "duration_matched_to": "musicbrainz recording length (175s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 175.173,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 175.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 165.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 175.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33791561 (I Love Rock 'n' Roll / Joan Jett & the Blackhearts / I Love Rock 'n' Roll, 134.0s): duration matches no reference length",
+    "lrclib 35983911 (I Love Rock 'N Roll / Joan Jett & the Blackhearts / I Love Rock 'N' Roll (Expanded Edition), Nones): duration matches no reference length",
+    "lrclib 36600689 (I Love Rock 'N Roll / Joan Jett & the Blackhearts / I Love Rock 'N' Roll (Expanded Edition), Nones): duration matches no reference length",
+    "lrclib 10596457 (I Love Rock 'n' Roll / Joan Jett & The Blackhearts & Joan Jett / Joan Jett & The Blackhearts & Joan Jett Videos, 221.0s): duration matches no reference length",
+    "lrclib 15916916 (I Love Rock 'n' Roll / Joan Jett & Joan Jett & The Blackhearts / Joan Jett & Joan Jett & The Blackhearts Songs, 221.0s): duration matches no reference length",
+    "lrclib 12306176 (I Love Rock 'n' Roll / Joan Jett & The Blackhearts & Joan Jett / Joan Jett and the Blackhearts, 221.0s): duration matches no reference length",
+    "lrclib 20633154 (I Love Rock 'n' Roll / Joan Jett & The Blackhearts / Joan Jett & The Blackhearts Videos, 221.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

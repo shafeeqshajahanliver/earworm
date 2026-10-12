@@ -1,0 +1,76 @@
+{
+  "id": "2007-i-wanna-love-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 979042,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM70615283",
+    "title": "I Wanna Love You",
+    "artist": "Akon",
+    "album": "Konvicted",
+    "track_duration_s": 247,
+    "link": "https://www.deezer.com/track/979042",
+    "duration_matched_to": "musicbrainz recording length (251s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 100.1,
+    "tempo_bpm_grid": 99.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      49.7,
+      198.8
+    ],
+    "beats_detected": 48,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.442,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.339,
+    "chroma_profile": [
+      0.31,
+      0.276,
+      0.37,
+      0.476,
+      0.827,
+      0.787,
+      0.636,
+      1.0,
+      0.601,
+      0.734,
+      0.336,
+      0.299
+    ],
+    "rms_dbfs": -6.65,
+    "rms_dbfs_p95_frame": -3.5,
+    "peak_dbfs": 1.33,
+    "loudness_lufs_approx": -10.25,
+    "spectral_centroid_hz_mean": 2166.5,
+    "spectral_centroid_hz_median": 1982.6,
+    "onsets": 137,
+    "onset_density_per_s": 4.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 979042",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/979042",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1667129812: version (I Wanna Love You (Remix))",
+    "deezer 7553494: duration 179s matches no reference length",
+    "deezer 4144923972: version (I Wanna Love You (Instrumental))",
+    "deezer 1667129862: version (I Wanna Love You (Live AOL Session))"
+  ]
+}

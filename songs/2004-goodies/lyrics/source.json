@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 27338728,
+  "kind": "synced",
+  "matched": {
+    "track": "Goodies",
+    "artist": "Ciara Featuring Petey Pablo",
+    "album": "Street Beatz",
+    "duration_s": 224.530438
+  },
+  "duration_matched_to": "musicbrainz recording length (224s)",
+  "duration_diff_s": 0.7,
+  "reference_lengths": [
+    {
+      "seconds": 223.866,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 223.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 223.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 56,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 19636137 (Goodies / Ciara Feat. Petey Pablo / Old Skool, 217.28975s): duration matches no reference length",
+    "lrclib 23490712 (Goodies / Ciara feat. Petey Pablo / Goodies, 236.0s): duration matches no reference length",
+    "lrclib 37024725 (Goodies / Ciara / Throwback Party Jamz, 198.0s): duration matches no reference length",
+    "lrclib 33606547 (Goodies / Ciara / Kisstory 2014 - The Best Old Skool & Anthems, 264.0s): duration matches no reference length",
+    "lrclib 33388221 (Goodies / Ciara / Goodies, 231.0s): duration matches no reference length",
+    "lrclib 36571645 (Goodies / Ciara / So Fresh, 192.0s): duration matches no reference length",
+    "lrclib 34235460 (Goodies / Ciara / Now Millennium 2004-2005, 237.0s): duration matches no reference length",
+    "lrclib 19125175 (Goodies / Ciara / Goodies, 262.34775s): duration matches no reference length",
+    "lrclib 19070856 (Goodies / Ciara / Goodies, 264.646531s): duration matches no reference length",
+    "lrclib 19526229 (Goodies / Ciara / Goodies, 332.0s): duration matches no reference length",
+    "lrclib 22334393 (Goodies / Ciara / Goodies, 286.73775s): duration matches no reference length",
+    "lrclib 23768426 (Goodies / Ciara / Goodies, 256.371519s): duration matches no reference length",
+    "lrclib 23003796 (Goodies / Ciara / Goodies, 274.029792s): duration matches no reference length",
+    "lrclib 28780835 (Goodies / Ciara / Goodies, 195.0s): duration matches no reference length",
+    "lrclib 16857278 (Goodies / Ciara / Goodies, 215.0s): duration matches no reference length",
+    "lrclib 19782733 (Goodies (Instrumental) / Ciara / Goodies, 213.623583s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

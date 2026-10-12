@@ -1,0 +1,41 @@
+{
+  "id": "1982-i-love-rock-n-roll",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37829892,
+  "lines": 47,
+  "words": 344,
+  "unique_words": 79,
+  "type_token_ratio": 0.23,
+  "repeated_line_share": 0.574,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.224,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i love rock n roll",
+  "title_phrase_occurrences": 14,
+  "pronouns": {
+    "first_singular": 37,
+    "second": 9,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 15.33,
+  "last_line_s": 170.5,
+  "sung_time_s": 145.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 141.7,
+  "words_per_minute_track": 117.8,
+  "longest_gap_between_lines_s": 13.32,
+  "longest_gap_starts_at_s": 94.81,
+  "first_repeated_block": {
+    "first_at_s": 42.33,
+    "recurs_at_s": 83.57,
+    "lines": [
+      "\"I love rock 'n roll",
+      "So put another dime in the jukebox, baby"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37829892",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1988-sweet-child-o-mine",
+  "preview": {
+    "service": "deezer",
+    "track_id": 518457332,
+    "matched_by": "isrc",
+    "isrc": "USGF18714809",
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "track_duration_s": 355,
+    "link": "https://www.deezer.com/track/518457332",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.6,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      129.2,
+      63.0,
+      123.0
+    ],
+    "beats_detected": 60,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.716,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.647,
+    "chroma_profile": [
+      0.621,
+      0.902,
+      0.618,
+      0.786,
+      0.796,
+      0.841,
+      1.0,
+      0.764,
+      0.984,
+      0.744,
+      0.754,
+      0.749
+    ],
+    "rms_dbfs": -11.79,
+    "rms_dbfs_p95_frame": -9.17,
+    "peak_dbfs": -0.15,
+    "loudness_lufs_approx": -11.12,
+    "spectral_centroid_hz_mean": 2510.6,
+    "spectral_centroid_hz_median": 2506.8,
+    "onsets": 56,
+    "onset_density_per_s": 1.867,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 518457332",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.53,
+    "gain": -10.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/518457332",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

@@ -1,0 +1,189 @@
+{
+  "id": "2023-anti-hero",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Anti-Hero (song)",
+  "wikidata": {
+    "qid": "Q114721508",
+    "label": "Anti-Hero",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q26876",
+          "label": "Taylor Swift"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q26876",
+          "label": "Taylor Swift"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q151304",
+          "label": "Jack Antonoff"
+        },
+        {
+          "qid": "Q26876",
+          "label": "Taylor Swift"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2022-10-21"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q484641",
+          "label": "pop rock"
+        },
+        {
+          "qid": "Q1298934",
+          "label": "synth-pop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q113640799",
+          "label": "Midnights"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "200",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "nominated_for": [
+        {
+          "qid": "Q843219",
+          "label": "Grammy Award for Record of the Year"
+        }
+      ],
+      "spotify_track_id": [
+        "02Zkkf2zMkwRGQjZ7T4p8f"
+      ],
+      "musicbrainz_work_id": [
+        "aae062a3-a98c-48e0-ab5f-d52a7953c414"
+      ],
+      "musicbrainz_release_group_id": [
+        "d3f575f1-1492-4135-96f5-2534dd901f12"
+      ],
+      "genius_song_id": [
+        "Taylor-swift-anti-hero-lyrics"
+      ],
+      "youtube_video_id": [
+        "b1kbLwvqugk"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group d3f575f1-1492-4135-96f5-2534dd901f12 (2022-10-21)",
+  "musicbrainz": {
+    "recording_id": "617b29ec-df5d-473e-87b8-9ac2b8d28ec7",
+    "title": "Anti‐Hero",
+    "length_ms": 309000,
+    "first_release_date": "2022-10-21",
+    "artist_credit": "Taylor Swift",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "mbid": "20244d07-534f-4eff-b4d4-930878889970"
+      }
+    ],
+    "isrcs": [
+      "USUMV2203078"
+    ],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "cee0afea-e307-409d-bb8c-a6f75e356468",
+        "title": "Anti‐Hero",
+        "date": "2022-10-21",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "d3f575f1-1492-4135-96f5-2534dd901f12",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "bb5932c6-3477-47c7-a901-1ab7eee874e0",
+        "title": "Midnights",
+        "date": "2022-10-25",
+        "country": null,
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "29f0a09c-dbad-4855-9b64-9682149da33d",
+        "title": "Midnights",
+        "date": "2022-10-25",
+        "country": null,
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4c107d0d-85c9-404c-8d1e-f87eb307f226",
+        "title": "Anti‐Hero",
+        "date": "2026-09-16",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "d3f575f1-1492-4135-96f5-2534dd901f12",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "aae062a3-a98c-48e0-ab5f-d52a7953c414",
+      "title": "Anti‐Hero",
+      "iswcs": [
+        "T-313.567.750-4"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Jack Antonoff",
+          "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+        },
+        {
+          "role": "writer",
+          "name": "Taylor Swift",
+          "mbid": "20244d07-534f-4eff-b4d4-930878889970"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q114721508"
+      ]
+    },
+    "main_artist": {
+      "name": "Taylor Swift",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "West Reading"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/2857",
+    "title": "Everyday People",
+    "performer": "Sly & The Family Stone",
+    "is_original": true,
+    "first_release_date": "1968-11",
+    "releases": [
+      {
+        "title": "Stand!",
+        "uri": "https://api.secondhandsongs.com/release/1345",
+        "performer": "Sly & The Family Stone"
+      },
+      {
+        "title": "Everyday People",
+        "uri": "https://api.secondhandsongs.com/release/82881",
+        "performer": "Sly & The Family Stone"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 61,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/2857",
+    "title": "Everyday People",
+    "language": "English",
+    "writers": [
+      "Sly Stone"
+    ],
+    "original_performer": "Sly & The Family Stone",
+    "versions": 62,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "People Everyday",
+        "uri": "https://api.secondhandsongs.com/work/23593"
+      },
+      {
+        "title": "Vanliga människor",
+        "uri": "https://api.secondhandsongs.com/work/181382"
+      },
+      {
+        "title": "Tous les gens sont les mêmes",
+        "uri": "https://api.secondhandsongs.com/work/329900"
+      }
+    ]
+  }
+}

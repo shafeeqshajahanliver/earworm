@@ -1,0 +1,41 @@
+{
+  "id": "1990-nothing-compares-2-u",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3984166,
+  "lines": 33,
+  "words": 209,
+  "unique_words": 106,
+  "type_token_ratio": 0.507,
+  "repeated_line_share": 0.182,
+  "distinct_lines": 27,
+  "zlib_compression_ratio": 0.433,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "nothing compares 2 u",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 19,
+    "second": 17,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.67,
+  "last_line_s": 261.02,
+  "sung_time_s": 180.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 69.5,
+  "words_per_minute_track": 40.7,
+  "longest_gap_between_lines_s": 46.78,
+  "longest_gap_starts_at_s": 153.38,
+  "first_repeated_block": {
+    "first_at_s": 232.85,
+    "recurs_at_s": 244.48,
+    "lines": [
+      "Nothing compares",
+      "Nothing compares to you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3984166",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

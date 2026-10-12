@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34013922,
+  "kind": "synced",
+  "matched": {
+    "track": "Angel of Mine",
+    "artist": "Monica",
+    "album": "Pure… 90s R&B",
+    "duration_s": 251.0
+  },
+  "duration_matched_to": "musicbrainz recording length (251s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 251.493,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 250.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 250.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33913744 (Angel of Mine / Monica / Unknown, 292.0s): duration matches no reference length",
+    "lrclib 33868275 (Angel Of Mine / Monica / Angel Of Mine, 227.0s): duration matches no reference length",
+    "lrclib 34240839 (Angel of Mine (instrumental) / Monica / Angel of Mine, 270.0s): live/remix/other version",
+    "lrclib 5015961 (Angel of Mine (Instrumental) / Monica / Angel Of Mine, 250.0s): live/remix/other version",
+    "lrclib 38537886 (Angel Of Mine (Instrumental) / Monica / Angel Of Mine, 259.0s): live/remix/other version",
+    "lrclib 30160846 (Angel of Mine (radio mix) / Monica / Angel of Mine, 250.0s): live/remix/other version",
+    "lrclib 5015960 (Angel of Mine (Instrumental) / Monica / Angel of Mine - Single, 250.0s): live/remix/other version",
+    "lrclib 2701120 (Angel of Mine (Radio Mix) / Monica / Angel of Mine - Single, 250.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

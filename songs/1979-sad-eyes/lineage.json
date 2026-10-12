@@ -1,0 +1,44 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/294043",
+    "title": "Sad Eyes",
+    "performer": "Robert John",
+    "is_original": true,
+    "first_release_date": "1979",
+    "releases": [
+      {
+        "title": "Robert John",
+        "uri": "https://api.secondhandsongs.com/release/101199",
+        "performer": "Robert John"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 13,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/135310",
+    "title": "Sad Eyes",
+    "language": "English",
+    "writers": [
+      "Robert John"
+    ],
+    "original_performer": "Robert John",
+    "versions": 14,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Leben",
+        "uri": "https://api.secondhandsongs.com/work/202221"
+      },
+      {
+        "title": "Gråt ej",
+        "uri": "https://api.secondhandsongs.com/work/262323"
+      }
+    ]
+  }
+}

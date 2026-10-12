@@ -1,0 +1,75 @@
+{
+  "id": "2003-miss-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3380594271,
+    "matched_by": "isrc",
+    "isrc": "USUYG1352910",
+    "title": "Miss You",
+    "artist": "Aaliyah",
+    "album": "I Care 4 U",
+    "track_duration_s": 245,
+    "link": "https://www.deezer.com/track/3380594271",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 54.9,
+    "tempo_bpm_grid": 55.0,
+    "tempo_candidates_bpm": [
+      55.0,
+      112.3,
+      107.7
+    ],
+    "beats_detected": 28,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.594,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.582,
+    "chroma_profile": [
+      0.557,
+      0.536,
+      0.702,
+      0.697,
+      0.648,
+      1.0,
+      0.665,
+      0.577,
+      0.487,
+      0.591,
+      0.625,
+      0.458
+    ],
+    "rms_dbfs": -11.39,
+    "rms_dbfs_p95_frame": -5.65,
+    "peak_dbfs": 0.91,
+    "loudness_lufs_approx": -12.08,
+    "spectral_centroid_hz_mean": 2705.8,
+    "spectral_centroid_hz_median": 2570.5,
+    "onsets": 88,
+    "onset_density_per_s": 2.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3380594271",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -11.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3380594271",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading",
+    "key is close between F major and D minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USBGR0200029: matched but no preview available (readable=False)"
+  ]
+}

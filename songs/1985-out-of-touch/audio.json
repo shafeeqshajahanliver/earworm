@@ -1,0 +1,72 @@
+{
+  "id": "1985-out-of-touch",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13179766,
+    "matched_by": "isrc",
+    "isrc": "USRC10400608",
+    "title": "Out of Touch",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Big Bam Boom (Expanded Edition)",
+    "track_duration_s": 261,
+    "link": "https://www.deezer.com/track/13179766",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 114.9,
+    "tempo_bpm_grid": 114.8,
+    "tempo_candidates_bpm": [
+      57.4,
+      117.5,
+      112.3
+    ],
+    "beats_detected": 55,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.699,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.575,
+    "chroma_profile": [
+      0.787,
+      0.595,
+      1.0,
+      0.7,
+      0.745,
+      0.749,
+      0.632,
+      0.736,
+      0.613,
+      0.743,
+      0.518,
+      0.577
+    ],
+    "rms_dbfs": -12.54,
+    "rms_dbfs_p95_frame": -8.87,
+    "peak_dbfs": 0.68,
+    "loudness_lufs_approx": -12.18,
+    "spectral_centroid_hz_mean": 2907.9,
+    "spectral_centroid_hz_median": 2871.7,
+    "onsets": 109,
+    "onset_density_per_s": 3.635,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13179766",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 114.8,
+    "gain": -11.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13179766",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USRC18403649: version: Out of Touch (Video Mix)"
+  ]
+}

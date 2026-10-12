@@ -1,0 +1,41 @@
+{
+  "id": "1998-nice-slow",
+  "lyrics_kind": "synced",
+  "lrclib_id": 771341,
+  "lines": 71,
+  "words": 466,
+  "unique_words": 160,
+  "type_token_ratio": 0.343,
+  "repeated_line_share": 0.239,
+  "distinct_lines": 54,
+  "zlib_compression_ratio": 0.338,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "nice slow",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 62,
+    "second": 31,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.79,
+  "last_line_s": 211.84,
+  "sung_time_s": 191.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 146.0,
+  "words_per_minute_track": 122.6,
+  "longest_gap_between_lines_s": 8.75,
+  "longest_gap_starts_at_s": 194.97,
+  "first_repeated_block": {
+    "first_at_s": 64.02,
+    "recurs_at_s": 143.88,
+    "lines": [
+      "Let me take you to a place nice and quiet",
+      "There ain't no one there to interrupt"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 771341",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

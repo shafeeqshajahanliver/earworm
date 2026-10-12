@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 29982081,
+  "kind": "synced",
+  "matched": {
+    "track": "Just Another Day",
+    "artist": "Jon Secada",
+    "album": "Jon Secada",
+    "duration_s": 259.0
+  },
+  "duration_matched_to": "wikipedia infobox length (255s)",
+  "duration_diff_s": 4.0,
+  "reference_lengths": [
+    {
+      "seconds": 349.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 354.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 255.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 327.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched wikipedia infobox length (255s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37122075 (just another day / jon secada / just another day, 338.0s): duration matches no reference length",
+    "lrclib 37122299 (just another day / jon secada / hit parade international 692, 261.0s): duration matches no reference length",
+    "lrclib 36889080 (Just Another Day / Jon Secada / Just Another Day (Maxi CD Single), 338.0s): duration matches no reference length",
+    "lrclib 34461428 (Just Another Day / Jon Secada / Radio Songs - Volume 1, 261.0s): duration matches no reference length",
+    "lrclib 34464620 (Just Another Day / Jon Secada / Mr Music Hits 1992 Vol. 10, 242.0s): duration matches no reference length",
+    "lrclib 33402177 (Just Another Day / Jon Secada / Now That’s What I Call Music! 23, 279.0s): duration matches no reference length",
+    "lrclib 33447637 (Just Another Day / Jon Secada / Now That’s What I Call Music! 1992: The Millennium Series, 275.0s): duration matches no reference length",
+    "lrclib 28432194 (Just Another Day / Jon Secada / Jon Secada, 269.0s): duration matches no reference length",
+    "lrclib 29722029 (Just Another Day / Jon Secada / Jon Secada, 211.0s): duration matches no reference length",
+    "lrclib 32807743 (Just Another Day / Jon Secada / Jon Secada, 333.0s): duration matches no reference length",
+    "lrclib 32237209 (Just Another Day / Jon Secada / Jon Secada, 239.0s): duration matches no reference length",
+    "lrclib 38571754 (Just Another Day / Jon Secada / Jon Secada, 193.0s): duration matches no reference length",
+    "lrclib 34252720 (Just Another Day (dance mix) / Jon Secada / Just Another Day, 338.0s): live/remix/other version",
+    "lrclib 29410289 (Just Another Day (dance mix) / Jon Secada / Just Another Day, 325.0s): live/remix/other version",
+    "lrclib 14494597 (Just Another Day (English edit) / Jon Secada / Just Another Day, 261.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

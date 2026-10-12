@@ -1,0 +1,66 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 38566974,
+  "kind": "synced",
+  "matched": {
+    "track": "Macarena",
+    "artist": "Los Del Rio",
+    "album": "Los Del Rio",
+    "duration_s": 250.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (252s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 214.626,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 250.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 3,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (252s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37220057 (Macarena (Bayside Boys Mix) / Los Del Rio / 1997 - Top 100, 225.0s): live/remix/other version",
+    "lrclib 34921763 (Macarena [Bayside Boys Mix] / Los del Rio / Fiesta Macarena, 234.0s): duration matches no reference length",
+    "lrclib 33449830 (Macarena (Bayside Boys mix) / Los del Río / Calentito, 232.0s): live/remix/other version",
+    "lrclib 33600310 (Macarena (Bayside Boys Mix) / Los Del Rio / Billboard Year-End Chart of 1997, 235.0s): live/remix/other version",
+    "lrclib 36468316 (Macarena (Bayside Boys Mix) / Los Del Rio / Billboard Usa - Top 100 Hits Of 1996, 231.0s): live/remix/other version",
+    "lrclib 36648447 (Macarena (Bayside Boys Mix) / Los Del Rio / Billboard Top Hits 1997, 232.0s): live/remix/other version",
+    "lrclib 36815050 (Macarena (Bayside Boys Mix) / Los Del Rio / Billboard Year-End Hot 100 Songs 1997, 235.0s): live/remix/other version",
+    "lrclib 19913560 (Macarena [Bayside Boys Mix] / Los Del Rio / Qmusic Top 1500 2024, 227.134694s): duration matches no reference length",
+    "lrclib 19918652 (Macarena (Bayside Boys Mix) / Los Del Rio / MB 10, 232.80965s): live/remix/other version",
+    "lrclib 20045266 (Macarena (Bayside Boys mix) / Los del Río / Macarena Non Stop, 238.3476s): live/remix/other version",
+    "lrclib 19997950 (Macarena (Bayside Boys Mix) / Los Del Rio / Macarena (Non Stop) (FC), 233.06449s): live/remix/other version",
+    "lrclib 20791103 (Macarena (Bayside Boys Mix) / Los Del Rio / Single-Charts 1996, 234.09125s): live/remix/other version",
+    "lrclib 20756991 (Macarena (Bayside Boys Mix) / Los Del Rio / 1997 Hot 100, 235.0s): live/remix/other version",
+    "lrclib 18209160 (Macarena (Bayside Boys mix) / Los del Río / Calentito, 234.083188s): live/remix/other version",
+    "lrclib 19644825 (Macarena [Bayside Boys Mix] / Los Del Rio / Q-Music Top 1500 Lijst Van Je Leven Editie 2024, 227.134694s): duration matches no reference length",
+    "lrclib 19833677 (Macarena (Bayside Boys Mix) / Los Del Rio / Sky Radio Zomer Hits Top 101, 224.757551s): live/remix/other version",
+    "lrclib 19457746 (Macarena (Bayside Boys mix) / Los del Río / Macarena Non Stop, 253.0s): live/remix/other version",
+    "lrclib 21775333 (Macarena (Bayside Boys Mix) / Los Del Rio / Billboard Top 100, 224.862063s): live/remix/other version",
+    "lrclib 5425607 (Macarena (feat. Los Del Río) (Original Mix) / Los del Río / Macarena (feat. Los Del Río), 223.0s): duration matches no reference length",
+    "lrclib 28321896 (Macarena / Los del Río / Los del Río, 230.0s): duration matches no reference length",
+    "lrclib 37715100 (Macarena / Los Del Rio / Los Del Rio, 304.0s): duration matches no reference length",
+    "lrclib 7718203 (Macarena (Bayside Boys Remix) / Los Del Río / Los Del Río, 252.0s): live/remix/other version",
+    "lrclib 30404761 (Macarena (River Re-Mix) / Los Del Rio / Los Del Rio, 304.0s): live/remix/other version",
+    "lrclib 15821700 (Macarena (Jon Secada Mix) / Los Del Río / Los Del Río, 209.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34341310,
+  "kind": "synced",
+  "matched": {
+    "track": "Hey There Delilah",
+    "artist": "Plain White T's",
+    "album": "All That We Needed (Deluxe Edition)",
+    "duration_s": 232.0
+  },
+  "duration_matched_to": "musicbrainz recording length (233s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 232.826,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 232.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 232.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37111264 (Hey There Delilah / Plain White T's / Hey There Delilah, 4.0s): duration matches no reference length",
+    "lrclib 37107618 (Hey There Delilah / Plain White T’s / It’s a Music Match, 243.0s): duration matches no reference length",
+    "lrclib 34735693 (Hey There Delilah / Plain White Ts / Songs, 238.0s): duration matches no reference length",
+    "lrclib 34377577 (Hey there delilah / Plain White T's / Plain White T's, 238.0s): duration matches no reference length",
+    "lrclib 35773028 (Hey There Delilah / Plain White T's / Hey There Delilah, 27.0s): duration matches no reference length",
+    "lrclib 35773006 (Hey There Delilah / Plain White T's / Hey There Delilah, 29.0s): duration matches no reference length",
+    "lrclib 35773023 (Hey There Delilah / Plain White T's / Hey There Delilah, 32.0s): duration matches no reference length",
+    "lrclib 35773040 (Hey There Delilah / Plain White T's / Hey There Delilah, 34.0s): duration matches no reference length",
+    "lrclib 21283619 (Hey There Delilah / Plain White T's / Hey There Delilah, 137.28s): duration matches no reference length",
+    "lrclib 23326849 (Hey There Delilah / Plain White T's / Hey There Delilah, 247.118367s): duration matches no reference length",
+    "lrclib 9888613 (Hey There Delilah / Plain White T’s / Hey There Delilah, 243.0s): duration matches no reference length",
+    "lrclib 31314733 (Hey There Delilah / Plain White T's / Hey There Delilah, 226.0s): duration matches no reference length",
+    "lrclib 20366401 (Hey There Delilah / Plain White T's / Plain White T's Songs, 243.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

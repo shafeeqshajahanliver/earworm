@@ -1,0 +1,60 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 7887566,
+  "kind": "synced",
+  "matched": {
+    "track": "Check on It",
+    "artist": "Beyoncé featuring Bun B & Slim Thug",
+    "album": "Check on It",
+    "duration_s": 210.0
+  },
+  "duration_matched_to": "musicbrainz recording length (210s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 210.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 209.7,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 210.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 0.596,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37240246 (Check on It / Beyoncé / Much Dance 2007, 186.0s): duration matches no reference length",
+    "lrclib 36876162 (check on it / beyonce / check on it, 254.0s): duration matches no reference length",
+    "lrclib 33608076 (Check On It / Beyoncé / I AmWorld Tour, 129.0s): duration matches no reference length",
+    "lrclib 36388503 (Check On It / Beyoncé / Check On It (Remix 5 Pak), 511.0s): live/remix/other version",
+    "lrclib 36560605 (Check on It / Beyoncé / B’Day, 129.0s): duration matches no reference length",
+    "lrclib 18408481 (Check On It / Beyoncé / Check On It (Remix 5 Pak), 210.706667s): live/remix/other version",
+    "lrclib 18791321 (Check on It / Beyoncé / B’Day, 858.08s): duration matches no reference length",
+    "lrclib 20162737 (Check on It / Beyoncé / Speak My Mind, 215.640816s): duration matches no reference length",
+    "lrclib 21046882 (Check on It / Beyoncé / HOMECOMING: THE LIVE ALBUM, 85.89465s): live/remix/other version",
+    "lrclib 20847516 (Check on It / Beyoncé / The Beyoncé Experience Live, 116.0s): live/remix/other version",
+    "lrclib 19229200 (Check On It / Beyonce / Bravo The Hits 2006, 187.742041s): duration matches no reference length",
+    "lrclib 18886603 (Check on It / Beyoncé / I Am… World Tour, 128.6399999s): duration matches no reference length",
+    "lrclib 18904014 (Check on It / Beyoncé / HOMECOMING: THE LIVE ALBUM, 76.214229s): live/remix/other version",
+    "lrclib 36515985 (Check on It (instrumental) / Beyoncé featuring Bun B & Slim Thug / Check on It, 210.0s): live/remix/other version",
+    "lrclib 7887587 (Check on It (Bama Boyz remix) / Beyoncé featuring Bun B & Slim Thug / Check on It, 234.0s): live/remix/other version",
+    "lrclib 16549101 (Check on It (Maurice Nu Soul mix) / Beyoncé featuring Bun B & Slim Thug / Check on It, 359.413333s): live/remix/other version",
+    "lrclib 24823882 (Check on It / Beyoncé / Check on It, 223.256352s): duration matches no reference length",
+    "lrclib 39004239 (Check on It / Beyoncé / Check on It, 359.0s): duration matches no reference length",
+    "lrclib 34892129 (Check on It (instrumental) / Beyoncé / Check on It, 212.0s): live/remix/other version",
+    "lrclib 19521555 (Check On It (Instrumental) / Beyonce / Check On It, 209.04s): live/remix/other version",
+    "lrclib 29064047 (Check on It (instrumental) / Beyoncé / Check on It, 116.0s): live/remix/other version",
+    "lrclib 29636708 (Check on It (album version) / Beyoncé / Check on It, 116.0s): duration matches no reference length",
+    "lrclib 36890111 (Check on It / Beyoncé feat. Slim Thug / Check on It, 199.0s): duration matches no reference length",
+    "lrclib 23668644 (Check on It / Beyoncé featuring Slim Thug / Check on It, 511.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

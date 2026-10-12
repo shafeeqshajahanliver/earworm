@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/295035",
+    "title": "Love Machine",
+    "performer": "The Miracles",
+    "is_original": true,
+    "first_release_date": "1975-09-17",
+    "releases": [
+      {
+        "title": "City of Angels",
+        "uri": "https://api.secondhandsongs.com/release/101492",
+        "performer": "The Miracles"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 10,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/135433",
+    "title": "Love Machine",
+    "language": "English",
+    "writers": [
+      "Billy Griffin",
+      "Warren Moore"
+    ],
+    "original_performer": "The Miracles",
+    "versions": 11,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kärleksmaskinen",
+        "uri": "https://api.secondhandsongs.com/work/234019"
+      }
+    ]
+  }
+}

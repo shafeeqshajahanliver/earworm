@@ -1,0 +1,70 @@
+{
+  "id": "2002-blurry",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7408922,
+    "matched_by": "isrc",
+    "isrc": "USIR10120222",
+    "title": "Blurry (Radio Edit)",
+    "artist": "Puddle Of Mudd",
+    "album": "Best Of",
+    "track_duration_s": 258,
+    "link": "https://www.deezer.com/track/7408922",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 157.5,
+    "tempo_bpm_grid": 156.6,
+    "tempo_candidates_bpm": [
+      161.5,
+      78.3,
+      152.0
+    ],
+    "beats_detected": 67,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.823,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.71,
+    "chroma_profile": [
+      0.487,
+      0.9,
+      0.587,
+      1.0,
+      0.623,
+      0.825,
+      0.863,
+      0.618,
+      0.687,
+      0.519,
+      0.82,
+      0.766
+    ],
+    "rms_dbfs": -6.91,
+    "rms_dbfs_p95_frame": -5.36,
+    "peak_dbfs": 1.62,
+    "loudness_lufs_approx": -6.84,
+    "spectral_centroid_hz_mean": 2535.2,
+    "spectral_centroid_hz_median": 2443.9,
+    "onsets": 73,
+    "onset_density_per_s": 2.434,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7408922",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 157.2,
+    "gain": -7.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7408922",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

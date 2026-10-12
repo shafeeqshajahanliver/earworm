@@ -1,0 +1,75 @@
+{
+  "id": "2002-dilemma",
+  "preview": {
+    "service": "deezer",
+    "track_id": 24971411,
+    "matched_by": "isrc",
+    "isrc": "USUR10200357",
+    "title": "Dilemma",
+    "artist": "Nelly",
+    "album": "Nellyville",
+    "track_duration_s": 289,
+    "link": "https://www.deezer.com/track/24971411",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 168.0,
+    "tempo_bpm_grid": 169.4,
+    "tempo_candidates_bpm": [
+      172.3,
+      83.4,
+      56.2
+    ],
+    "beats_detected": 79,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.787,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.668,
+    "chroma_profile": [
+      0.677,
+      0.519,
+      0.585,
+      0.514,
+      0.599,
+      0.496,
+      0.559,
+      1.0,
+      0.451,
+      0.464,
+      0.423,
+      0.477
+    ],
+    "rms_dbfs": -10.11,
+    "rms_dbfs_p95_frame": -5.13,
+    "peak_dbfs": 1.24,
+    "loudness_lufs_approx": -11.26,
+    "spectral_centroid_hz_mean": 2694.6,
+    "spectral_centroid_hz_median": 2459.1,
+    "onsets": 136,
+    "onset_density_per_s": 4.535,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 24971411",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 168.1,
+    "gain": -11.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/24971411",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USIR10200370: matched but no preview available (readable=False)",
+    "deezer isrc USUM71200805: matched but no preview available (readable=False)"
+  ]
+}

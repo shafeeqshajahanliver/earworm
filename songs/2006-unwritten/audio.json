@@ -1,0 +1,70 @@
+{
+  "id": "2006-unwritten",
+  "preview": {
+    "service": "deezer",
+    "track_id": 560504,
+    "matched_by": "isrc",
+    "isrc": "GBARL0400707",
+    "title": "Unwritten",
+    "artist": "Natasha Bedingfield",
+    "album": "The Sisterhood Of The Traveling Pants - Music From The Motion Picture",
+    "track_duration_s": 254,
+    "link": "https://www.deezer.com/track/560504",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 100.1,
+    "tempo_bpm_grid": 100.3,
+    "tempo_candidates_bpm": [
+      49.7,
+      99.4,
+      198.8
+    ],
+    "beats_detected": 51,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.463,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.432,
+    "chroma_profile": [
+      0.608,
+      0.53,
+      0.723,
+      0.641,
+      0.688,
+      1.0,
+      0.733,
+      0.923,
+      0.677,
+      0.679,
+      0.516,
+      0.379
+    ],
+    "rms_dbfs": -10.23,
+    "rms_dbfs_p95_frame": -6.71,
+    "peak_dbfs": 1.91,
+    "loudness_lufs_approx": -10.08,
+    "spectral_centroid_hz_mean": 3052.7,
+    "spectral_centroid_hz_median": 2805.8,
+    "onsets": 114,
+    "onset_density_per_s": 3.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 560504",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 99.9,
+    "gain": -10.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/560504",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

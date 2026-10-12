@@ -1,0 +1,73 @@
+{
+  "id": "1991-i-like-the-way-the-kissing-game",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15390985,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USJI19400017",
+    "title": "I Like The Way",
+    "artist": "Hi-Five",
+    "album": "Greatest Hits",
+    "track_duration_s": 352,
+    "link": "https://www.deezer.com/track/15390985",
+    "duration_matched_to": "wikipedia infobox length (349s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 104.1,
+    "tempo_bpm_grid": 104.4,
+    "tempo_candidates_bpm": [
+      51.7,
+      103.4,
+      215.3
+    ],
+    "beats_detected": 49,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.471,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.451,
+    "chroma_profile": [
+      0.696,
+      0.809,
+      0.632,
+      1.0,
+      0.766,
+      0.779,
+      0.642,
+      0.581,
+      0.599,
+      0.513,
+      0.661,
+      0.498
+    ],
+    "rms_dbfs": -12.24,
+    "rms_dbfs_p95_frame": -8.45,
+    "peak_dbfs": 2.54,
+    "loudness_lufs_approx": -12.43,
+    "spectral_centroid_hz_mean": 2653.3,
+    "spectral_centroid_hz_median": 2336.2,
+    "onsets": 115,
+    "onset_density_per_s": 3.835,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15390985",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 104.1,
+    "gain": -12.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15390985",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb minor and Eb major"
+  ],
+  "rejected_candidates": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1991-the-first-time",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15614050,
+    "matched_by": "isrc",
+    "isrc": "USSM19000386",
+    "title": "The First Time",
+    "artist": "Surface",
+    "album": "Soul Love Vol. 1 - Soul Love Vol. 2 - Soul Love Vol. 3",
+    "track_duration_s": 256,
+    "link": "https://www.deezer.com/track/15614050",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 63.2,
+    "tempo_bpm_grid": 63.4,
+    "tempo_candidates_bpm": [
+      63.0,
+      83.4,
+      129.2
+    ],
+    "beats_detected": 32,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.749,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.617,
+    "chroma_profile": [
+      1.0,
+      0.542,
+      0.426,
+      0.648,
+      0.432,
+      0.994,
+      0.477,
+      0.553,
+      0.742,
+      0.857,
+      0.942,
+      0.52
+    ],
+    "rms_dbfs": -13.63,
+    "rms_dbfs_p95_frame": -9.8,
+    "peak_dbfs": 0.16,
+    "loudness_lufs_approx": -14.31,
+    "spectral_centroid_hz_mean": 2281.5,
+    "spectral_centroid_hz_median": 2142.3,
+    "onsets": 65,
+    "onset_density_per_s": 2.167,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15614050",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 126.4,
+    "gain": -14.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15614050",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (126.4): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

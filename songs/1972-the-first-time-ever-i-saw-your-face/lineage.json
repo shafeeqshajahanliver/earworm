@@ -1,0 +1,82 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/50201",
+    "title": "The First Time Ever I Saw Your Face",
+    "performer": "Roberta Flack",
+    "is_original": false,
+    "first_release_date": "1969-06-20",
+    "releases": [
+      {
+        "title": "First Take",
+        "uri": "https://api.secondhandsongs.com/release/8351",
+        "performer": "Roberta Flack"
+      },
+      {
+        "title": "The First Time Ever I Saw Your Face",
+        "uri": "https://api.secondhandsongs.com/release/21775",
+        "performer": "Roberta Flack"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "The First Time Ever I Saw Your Face",
+      "uri": "https://api.secondhandsongs.com/work/31003"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/31003",
+    "title": "The First Time Ever I Saw Your Face",
+    "language": "English",
+    "writers": [
+      "Ewan MacColl"
+    ],
+    "original_performer": "Bonnie Dobson",
+    "versions": 355,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "La prima volta",
+        "uri": "https://api.secondhandsongs.com/work/59921"
+      },
+      {
+        "title": "La première fois",
+        "uri": "https://api.secondhandsongs.com/work/112994"
+      },
+      {
+        "title": "Už víckrát viděl jsem já tu tvář",
+        "uri": "https://api.secondhandsongs.com/work/170729"
+      },
+      {
+        "title": "Ik leef pas (vanaf je eerste blik)",
+        "uri": "https://api.secondhandsongs.com/work/229489"
+      },
+      {
+        "title": "Den första gången jag såg på dig",
+        "uri": "https://api.secondhandsongs.com/work/261798"
+      },
+      {
+        "title": "Poprvé",
+        "uri": "https://api.secondhandsongs.com/work/265589"
+      },
+      {
+        "title": "The First Time",
+        "uri": "https://api.secondhandsongs.com/work/319577"
+      },
+      {
+        "title": "כשראיתי את פנייך לראשונה",
+        "uri": "https://api.secondhandsongs.com/work/341299"
+      },
+      {
+        "title": "Þegar ég sá þig fyrst",
+        "uri": "https://api.secondhandsongs.com/work/347433"
+      }
+    ]
+  }
+}

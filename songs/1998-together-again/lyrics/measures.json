@@ -1,0 +1,41 @@
+{
+  "id": "1998-together-again",
+  "lyrics_kind": "synced",
+  "lrclib_id": 26446050,
+  "lines": 66,
+  "words": 432,
+  "unique_words": 108,
+  "type_token_ratio": 0.25,
+  "repeated_line_share": 0.485,
+  "distinct_lines": 34,
+  "zlib_compression_ratio": 0.239,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "together again",
+  "title_phrase_occurrences": 16,
+  "pronouns": {
+    "first_singular": 66,
+    "second": 27,
+    "first_plural": 9
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 20.05,
+  "last_line_s": 240.62,
+  "sung_time_s": 219.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 118.3,
+  "words_per_minute_track": 104.7,
+  "longest_gap_between_lines_s": 11.24,
+  "longest_gap_starts_at_s": 156.37,
+  "first_repeated_block": {
+    "first_at_s": 20.05,
+    "recurs_at_s": 33.17,
+    "lines": [
+      "There are times when I look above and beyond",
+      "There are times when I feel your love around me, baby"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 26446050",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

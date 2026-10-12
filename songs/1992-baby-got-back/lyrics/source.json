@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 7714734,
+  "kind": "synced",
+  "matched": {
+    "track": "Baby Got Back",
+    "artist": "Sir Mix-A-Lot",
+    "album": "Baby Got Back",
+    "duration_s": 263.0
+  },
+  "duration_matched_to": "itunes preview track matched by search (262s)",
+  "duration_diff_s": 1.2,
+  "reference_lengths": [
+    {
+      "seconds": 406.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 261.8,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 261.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (262s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37353612 (Baby Got Back / Sir Mix-A-Lot / Throwback Party Jamz, 228.0s): duration matches no reference length",
+    "lrclib 37260167 (Baby Got Back / Sir Mix-a-Lot / All the Crap, 244.0s): duration matches no reference length",
+    "lrclib 34678132 (Baby Got Back / Sir Mix-A-Lot / Mack Daddy, 237.0s): duration matches no reference length",
+    "lrclib 34777395 (Baby Got Back / Sir Mix-A-Lot / Bootyz in Motion, 227.0s): duration matches no reference length",
+    "lrclib 35032298 (Baby Got Back / Sir Mix-A-Lot / Straight Up Detroit Shit Vol 4, 28.0s): duration matches no reference length",
+    "lrclib 35182778 (Baby Got Back / Sir Mix-A-Lot / Demos for Your Memo, 262.0s): live/remix/other version",
+    "lrclib 35096524 (Baby Got Back / Sir Mix-A-Lot / Bootyz in Motion, 222.0s): duration matches no reference length",
+    "lrclib 34115580 (Baby Got Back / Sir Mix-A-Lot / Baby Got Back, 482.0s): duration matches no reference length",
+    "lrclib 28794390 (Baby Got Back / Sir Mix-A-Lot / Baby Got Back, 253.0s): duration matches no reference length",
+    "lrclib 34884089 (Baby Got Back (Official Music Video) / Sir Mix-A-Lot / Sir Mix-A-Lot Songs, 254.0s): duration matches no reference length",
+    "lrclib 11308778 (Baby Got Back (Official Music Video) / Sir Mix-A-Lot / Sir Mix-A-Lot Videos, 254.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

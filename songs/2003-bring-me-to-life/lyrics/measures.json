@@ -1,0 +1,41 @@
+{
+  "id": "2003-bring-me-to-life",
+  "lyrics_kind": "synced",
+  "lrclib_id": 962692,
+  "lines": 42,
+  "words": 330,
+  "unique_words": 104,
+  "type_token_ratio": 0.315,
+  "repeated_line_share": 0.405,
+  "distinct_lines": 25,
+  "zlib_compression_ratio": 0.302,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "bring me to life",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 67,
+    "second": 8,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.55,
+  "last_line_s": 210.82,
+  "sung_time_s": 171.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 115.3,
+  "words_per_minute_track": 83.9,
+  "longest_gap_between_lines_s": 11.73,
+  "longest_gap_starts_at_s": 147.12,
+  "first_repeated_block": {
+    "first_at_s": 52.48,
+    "recurs_at_s": 97.22,
+    "lines": [
+      "(Wake me up) wake me up inside",
+      "(I can't wake up) wake me up inside"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 962692",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

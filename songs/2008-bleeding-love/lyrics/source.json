@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5512747,
+  "kind": "synced",
+  "matched": {
+    "track": "Bleeding Love",
+    "artist": "Leona Lewis",
+    "album": "Spirit",
+    "duration_s": 240.0
+  },
+  "duration_matched_to": "musicbrainz recording length (240s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 240.222,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 239.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 262.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37131788 (Bleeding Love / Leona Lewis / Italia Power House 69, 326.0s): duration matches no reference length",
+    "lrclib 37242308 (Bleeding Love / Leona Lewis / Pilates & Workout All Time Best & Chart Hits CD 2, 250.0s): duration matches no reference length",
+    "lrclib 34751855 (Bleeding love / Leona Lewis / En Vrac & Youtube, 269.0s): duration matches no reference length",
+    "lrclib 38791449 (Bleeding Love (US Version - Official Video) / Leona Lewis / Leona Lewis Videos, 279.0s): duration matches no reference length",
+    "lrclib 37629082 (Bleeding Love (US Version - Official Video) / Leona Lewis / Leona Lewis Songs, 279.0s): duration matches no reference length",
+    "lrclib 33737489 (Bleeding Love / Leona Lewis / Bleeding Love, 504.0s): duration matches no reference length",
+    "lrclib 34295777 (Bleeding Love / Leona Lewis / Bleeding Love, 209.0s): duration matches no reference length",
+    "lrclib 9399786 (Bleeding Love / Leona Lewis / Bleeding Love, 279.0s): duration matches no reference length",
+    "lrclib 31898100 (Bleeding Love / Leona Lewis / Bleeding Love, 4.0s): duration matches no reference length",
+    "lrclib 38735559 (Bleeding Love / Leona Lewis / Bleeding Love, 216.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

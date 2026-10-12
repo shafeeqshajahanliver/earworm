@@ -1,0 +1,70 @@
+{
+  "id": "1988-hands-to-heaven",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4220963,
+    "matched_by": "isrc",
+    "isrc": "GBAAA8800267",
+    "title": "Hands To Heaven",
+    "artist": "Breathe",
+    "album": "All That Jazz",
+    "track_duration_s": 258,
+    "link": "https://www.deezer.com/track/4220963",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 128.8,
+    "tempo_bpm_grid": 129.2,
+    "tempo_candidates_bpm": [
+      129.2,
+      64.6,
+      123.0
+    ],
+    "beats_detected": 64,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.742,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.639,
+    "chroma_profile": [
+      0.519,
+      0.384,
+      0.389,
+      1.0,
+      0.659,
+      0.64,
+      0.462,
+      0.743,
+      0.843,
+      0.464,
+      0.531,
+      0.317
+    ],
+    "rms_dbfs": -19.67,
+    "rms_dbfs_p95_frame": -16.55,
+    "peak_dbfs": -4.88,
+    "loudness_lufs_approx": -19.52,
+    "spectral_centroid_hz_mean": 2589.0,
+    "spectral_centroid_hz_median": 2515.5,
+    "onsets": 35,
+    "onset_density_per_s": 1.167,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4220963",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 128.8,
+    "gain": -18.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4220963",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

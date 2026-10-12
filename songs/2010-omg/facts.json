@@ -1,0 +1,158 @@
+{
+  "id": "2010-omg",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "OMG (Usher song)",
+  "wikidata": {
+    "qid": "Q1923082",
+    "label": "OMG",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q165911",
+          "label": "Usher"
+        },
+        {
+          "qid": "Q185610",
+          "label": "will.i.am"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q185610",
+          "label": "will.i.am"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q185610",
+          "label": "will.i.am"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1338446",
+          "label": "LaFace Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2010-03-22"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q1298934",
+          "label": "synth-pop"
+        },
+        {
+          "qid": "Q45981",
+          "label": "rhythm and blues"
+        },
+        {
+          "qid": "Q211756",
+          "label": "dance-pop"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q3247624",
+          "label": "Lil Freak"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q2436385",
+          "label": "There Goes My Baby"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "adf994e4-38b2-471f-ab32-5f23d5433e67"
+      ],
+      "musicbrainz_release_group_id": [
+        "e66efebb-21bb-4ec0-89d0-ff452bf1069f"
+      ],
+      "youtube_video_id": [
+        "1RnPB76mjxI"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group e66efebb-21bb-4ec0-89d0-ff452bf1069f (2010-03-12)",
+  "musicbrainz": {
+    "recording_id": "aae00618-2ce5-4639-b934-ea2138eb49f4",
+    "title": "OMG (vocal Up)",
+    "length_ms": 269000,
+    "first_release_date": "2010",
+    "artist_credit": "Usher feat. will.i.am",
+    "artists": [
+      {
+        "name": "Usher",
+        "mbid": "3414d446-735a-443c-931f-10634f57e5b9"
+      },
+      {
+        "name": "will.i.am",
+        "mbid": "d574c9bd-46f6-440a-8d6a-8412a283eeb1"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "1f37c780-04a5-4279-ad57-c2cf4794c12f",
+        "title": "OMG",
+        "date": "2010",
+        "country": "GB",
+        "status": "Promotion",
+        "release_group": "e66efebb-21bb-4ec0-89d0-ff452bf1069f",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "adf994e4-38b2-471f-ab32-5f23d5433e67",
+      "title": "OMG",
+      "iswcs": [
+        "T-903.348.710-4"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "will.i.am",
+          "mbid": "d574c9bd-46f6-440a-8d6a-8412a283eeb1"
+        },
+        {
+          "role": "lyricist",
+          "name": "will.i.am",
+          "mbid": "d574c9bd-46f6-440a-8d6a-8412a283eeb1"
+        }
+      ],
+      "urls": [
+        "https://www.imdb.com/title/tt7479538/",
+        "https://genius.com/Usher-omg-lyrics",
+        "https://www.whosampled.com/Usher/OMG/",
+        "https://secondhandsongs.com/work/133465",
+        "https://www.songfacts.com/facts/usher/omg",
+        "https://www.wikidata.org/wiki/Q1923082"
+      ]
+    },
+    "main_artist": {
+      "name": "Usher",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Dallas"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

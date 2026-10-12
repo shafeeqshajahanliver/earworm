@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37203184,
+  "kind": "synced",
+  "matched": {
+    "track": "Whoomp! (There It Is)",
+    "artist": "Tag Team",
+    "album": "Mega Music Dance Experience 1994",
+    "duration_s": 224.0
+  },
+  "duration_matched_to": "musicbrainz recording length (224s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 224.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 225.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 11,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37127671 (Whoomp! (There it is) / Tag Team / DanceMix93, 237.0s): duration matches no reference length",
+    "lrclib 37180160 (Whoomp! (There It Is) / Tag Team / The '90s Pop Box, 270.0s): duration matches no reference length",
+    "lrclib 37075602 (Whoomp (There It Is) / Tag Team / Hot Tracks: 15th Anniversary Collector's Set (Disc 16), 329.0s): duration matches no reference length",
+    "lrclib 37311152 (Whoomp! (There It Is) / Tag Team / Billboard Top Hits∶ 1993, 268.0s): duration matches no reference length",
+    "lrclib 37373375 (Whoomp ! (There It Is) / Tag Team / DJ Hits Vol.7, 278.0s): duration matches no reference length",
+    "lrclib 34661054 (Whoomp! (There It Is) / Tag Team / Foreign, 237.0s): duration matches no reference length",
+    "lrclib 34661060 (Whoomp! (There It Is) / Tag Team / Foreign, 238.0s): duration matches no reference length",
+    "lrclib 34803345 (Whoomp! (There It Is) / Tag Team / Whoomp!, 236.0s): duration matches no reference length",
+    "lrclib 35161222 (Whoomp! (There It Is) / Tag Team / 20th Century Hits for a New Millennium: 36 Hits of 1990-1994  (Compilation), 272.0s): duration matches no reference length",
+    "lrclib 35205501 (Whoomp! (There It Is) / Tag Team / Only Rock'N Roll 1990-1994: #1 Radio Hits, 216.0s): duration matches no reference length",
+    "lrclib 35229669 (Whoomp! (There It Is) / Tag Team / Bootylicious [Relativity], 238.0s): duration matches no reference length",
+    "lrclib 33742175 (Whoomp! (There It Is) / Tag Team / Fan Jams, 270.0s): duration matches no reference length",
+    "lrclib 24058663 (Whoomp! (There It Is) / Tag Team / Tag Team - Whoomp! (There It Is), 235.031688s): duration matches no reference length",
+    "lrclib 37515391 (Whoomp! / Tag Team / Whoomp! (Single), 271.0s): duration matches no reference length",
+    "lrclib 36169753 (Whoomp! / Tag Team / Whoomp! (There It Is), 274.0s): duration matches no reference length",
+    "lrclib 33927634 (Whoomp! / Tag Team / Whoomp! (There It Is), 91.0s): duration matches no reference length",
+    "lrclib 25418523 (Whoomp! / Tag Team / Whoomp! (There It Is), 262.0s): duration matches no reference length",
+    "lrclib 33494812 (Whoomp! (club mix) / Tag Team / Whoomp! The Album, 271.0s): live/remix/other version",
+    "lrclib 36464524 (Whoomp! (There It Is) / Tag Team / Whoomp! The Album, 380.0s): duration matches no reference length",
+    "lrclib 35556870 (Whoomp! (There It Is) / Tag Team / Whoomp! The Album, 216.0s): duration matches no reference length",
+    "lrclib 20614441 (Whoomp! (There It Is) / Tag Team / Whoomp! The Album, 235.973333s): duration matches no reference length",
+    "lrclib 22999858 (Whoomp! (Club Mix) / Tag Team / Whoomp! (There It Is), 274.733333s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

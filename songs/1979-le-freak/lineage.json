@@ -1,0 +1,63 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/65990",
+    "title": "Le Freak",
+    "performer": "Chic",
+    "is_original": true,
+    "first_release_date": "1978",
+    "releases": [
+      {
+        "title": "C'est Chic",
+        "uri": "https://api.secondhandsongs.com/release/18911",
+        "performer": "Chic"
+      },
+      {
+        "title": "Le Freak",
+        "uri": "https://api.secondhandsongs.com/release/80401",
+        "performer": "Chic"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 34,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/65990",
+    "title": "Le Freak",
+    "language": "English",
+    "writers": [
+      "Bernard Edwards",
+      "Nile Rodgers"
+    ],
+    "original_performer": "Chic",
+    "versions": 35,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "She's JAP",
+        "uri": "https://api.secondhandsongs.com/work/214495"
+      },
+      {
+        "title": "'k Ben ziek!",
+        "uri": "https://api.secondhandsongs.com/work/217132"
+      },
+      {
+        "title": "So Fabulous, So Fierce",
+        "uri": "https://api.secondhandsongs.com/work/251653"
+      },
+      {
+        "title": "嗖! 嗖!",
+        "uri": "https://api.secondhandsongs.com/work/316120"
+      }
+    ]
+  }
+}

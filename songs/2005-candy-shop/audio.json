@@ -1,0 +1,73 @@
+{
+  "id": "2005-candy-shop",
+  "preview": {
+    "service": "deezer",
+    "track_id": 60722933,
+    "matched_by": "isrc",
+    "isrc": "USIR10500072",
+    "title": "Candy Shop",
+    "artist": "50 Cent",
+    "album": "The Massacre",
+    "track_duration_s": 208,
+    "link": "https://www.deezer.com/track/60722933",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 196.2,
+    "tempo_bpm_grid": 195.0,
+    "tempo_candidates_bpm": [
+      198.8,
+      184.6,
+      99.4
+    ],
+    "beats_detected": 98,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.501,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.467,
+    "chroma_profile": [
+      0.371,
+      0.403,
+      0.42,
+      0.494,
+      0.518,
+      0.548,
+      1.0,
+      0.667,
+      0.475,
+      0.453,
+      0.445,
+      0.403
+    ],
+    "rms_dbfs": -7.28,
+    "rms_dbfs_p95_frame": -2.06,
+    "peak_dbfs": 2.75,
+    "loudness_lufs_approx": -8.9,
+    "spectral_centroid_hz_mean": 2351.1,
+    "spectral_centroid_hz_median": 2167.6,
+    "onsets": 137,
+    "onset_density_per_s": 4.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 60722933",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 97.97,
+    "gain": -9.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/60722933",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about double Deezer's bpm (98.0): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

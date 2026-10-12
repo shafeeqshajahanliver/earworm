@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3231468,
+  "kind": "synced",
+  "matched": {
+    "track": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "album": "Sweet Dreams",
+    "duration_s": 292.0
+  },
+  "duration_matched_to": "musicbrainz recording length (293s)",
+  "duration_diff_s": 0.7,
+  "reference_lengths": [
+    {
+      "seconds": 292.666,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 290.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 12,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36978895 (Sweet Dreams (Are Made of This) / Eurythmics / Greatest Hits, 1329.0s): duration matches no reference length",
+    "lrclib 36938041 (Sweet Dreams (Are Made Of This) / Eurythmics / M_Old, 214.0s): duration matches no reference length",
+    "lrclib 37004660 (Sweet Dreams (Are Made of This) / Eurythmics / Billboard Year End Hits 1980-89/1983, 218.0s): duration matches no reference length",
+    "lrclib 37461046 (Sweet Dreams (Are Made Of This) / Eurythmics / The Rolling Stone Magazines 500 Greatest Songs Of All Time, 218.0s): duration matches no reference length",
+    "lrclib 37536265 (Sweet Dreams (Are Made Of This) / Eurythmics / Super DISCOTEKA 70s/80s, 215.0s): duration matches no reference length",
+    "lrclib 37133262 (Sweet Dreams [Are Made of This] / Eurythmics / Synth Pop [CD-1], 218.0s): duration matches no reference length",
+    "lrclib 37193922 (Sweet Dreams (Are Made Of This) / Eurythmics / Veronica Top 1000 Allertijden (2022), 214.0s): duration matches no reference length",
+    "lrclib 37028004 (Sweet Dreams (Are Made of This) / Eurythmics / 80's Hits, 208.0s): duration matches no reference length",
+    "lrclib 37065256 (Sweet Dreams (Are Made of This) / Eurythmics / Collection 2000, 278.0s): duration matches no reference length",
+    "lrclib 37342097 (Sweet Dreams (Are Made of This) / Eurythmics / Singles, 166.0s): duration matches no reference length",
+    "lrclib 37389215 (Sweet Dreams (Are Made of This) / Eurythmics / Our Friends Electric, 216.0s): duration matches no reference length",
+    "lrclib 37408128 (Sweet Dreams (Are Made Of This) / Eurythmics / Nostalgie Classic Top 2020, 211.0s): duration matches no reference length",
+    "lrclib 37201286 (Sweet Dreams (Are Made Of This) / Eurythmics / Veronica Top 1000 Allertijden, 214.0s): duration matches no reference length",
+    "lrclib 36850879 (sweet dreams / eurythmics / sweet dreams, 220.0s): duration matches no reference length",
+    "lrclib 3936110 (Sweet Dreams / Eurythmics / Sweet Dreams, 217.0s): duration matches no reference length",
+    "lrclib 26288155 (Sweet Dreams / Eurythmics / Sweet Dreams, 961.0s): duration matches no reference length",
+    "lrclib 30694951 (sweet dreams / eurythmics / sweet dreams, 320.0s): duration matches no reference length",
+    "lrclib 35745978 (Sweet Dreams / Eurythmics / Eurythmics, 1329.0s): duration matches no reference length",
+    "lrclib 21291879 (Sweet Dreams (Megamix) / Eurythmics / Sweet Dreams, 219.95102s): duration matches no reference length",
+    "lrclib 14823690 (Sweet Dreams (Megamix) / Eurythmics / Sweet Dreams, 214.0s): duration matches no reference length",
+    "lrclib 26400863 (Sweet Dreams / Eurythmics / Sweet Dreams [Video], 154.7835s): duration matches no reference length",
+    "lrclib 36285417 (Sweet Dreams (dance mix) / Eurythmics / Sweet Dreams, 218.0s): live/remix/other version",
+    "lrclib 37414822 (Sweet Dreams / Eurythmics / Sweet Dreams (2018 Remastered), 217.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

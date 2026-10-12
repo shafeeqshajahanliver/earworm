@@ -1,0 +1,59 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/1422",
+    "title": "Seasons in the Sun",
+    "performer": "Terry Jacks",
+    "is_original": false,
+    "first_release_date": "1973-10",
+    "releases": [
+      {
+        "title": "Seasons in the Sun",
+        "uri": "https://api.secondhandsongs.com/release/896",
+        "performer": "Terry Jacks"
+      },
+      {
+        "title": "Seasons in the Sun",
+        "uri": "https://api.secondhandsongs.com/release/311430",
+        "performer": "Terry Jacks"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Seasons in the Sun",
+      "uri": "https://api.secondhandsongs.com/work/1421"
+    },
+    {
+      "title": "Le moribond",
+      "uri": "https://api.secondhandsongs.com/work/934"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/1421",
+    "title": "Seasons in the Sun",
+    "language": "English",
+    "writers": [
+      "Rod McKuen"
+    ],
+    "original_performer": "Rod McKuen",
+    "versions": 66,
+    "based_on": [
+      {
+        "title": "Le moribond",
+        "uri": "https://api.secondhandsongs.com/work/934"
+      }
+    ],
+    "derived_works": []
+  }
+}

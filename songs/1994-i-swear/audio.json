@@ -1,0 +1,74 @@
+{
+  "id": "1994-i-swear",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4209355,
+    "matched_by": "isrc",
+    "isrc": "USAT20901474",
+    "title": "I Swear (45 Version)",
+    "artist": "All-4-One",
+    "album": "I Swear / So Much Love",
+    "track_duration_s": 259,
+    "link": "https://www.deezer.com/track/4209355",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 166.4,
+    "tempo_bpm_grid": 166.7,
+    "tempo_candidates_bpm": [
+      172.3,
+      161.5,
+      83.4
+    ],
+    "beats_detected": 84,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.843,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.602,
+    "chroma_profile": [
+      0.35,
+      0.309,
+      0.789,
+      0.447,
+      0.46,
+      0.34,
+      0.629,
+      0.563,
+      0.457,
+      1.0,
+      0.501,
+      0.569
+    ],
+    "rms_dbfs": -16.09,
+    "rms_dbfs_p95_frame": -12.93,
+    "peak_dbfs": -1.51,
+    "loudness_lufs_approx": -16.04,
+    "spectral_centroid_hz_mean": 2175.3,
+    "spectral_centroid_hz_median": 2138.4,
+    "onsets": 42,
+    "onset_density_per_s": 1.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4209355",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 166.7,
+    "gain": -13.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4209355",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAT21205863: matched but no preview available (readable=False)"
+  ]
+}

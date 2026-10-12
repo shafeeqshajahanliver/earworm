@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1008621,
+  "kind": "synced",
+  "matched": {
+    "track": "Livin' la Vida Loca",
+    "artist": "Ricky Martin",
+    "album": "Ricky Martin",
+    "duration_s": 243.0
+  },
+  "duration_matched_to": "musicbrainz recording length (243s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 243.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 243.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 222.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36985489 (Livin' La Vida Loca / Ricky Martin / Latin Hits, 235.0s): duration matches no reference length",
+    "lrclib 37287536 (Livin' La Vida Loca / Ricky Martin / Billboard Top 100 Hits Of 1999, 571.0s): duration matches no reference length",
+    "lrclib 37373319 (Livin' La Vida Loca / Ricky Martin / Mastermix - Issue 159, 167.0s): duration matches no reference length",
+    "lrclib 34916225 (Livin’ la Vida Loca / Ricky Martin / Livin’ la vida loca, 278.0s): duration matches no reference length",
+    "lrclib 36595499 (Livin’ la vida loca / Ricky Martin / Livin’ la vida loca, 528.0s): duration matches no reference length",
+    "lrclib 35371519 (Livin' La Vida Loca / Ricky Martin / Livin' la Vida Loca, 479.0s): duration matches no reference length",
+    "lrclib 19690681 (Livin La Vida Loca / Ricky Martin / Livin La Vida Loca, 605.69055s): duration matches no reference length",
+    "lrclib 17620924 (Livin La Vida Loca / Ricky Martin / Livin La Vida Loca, 248.30385s): duration matches no reference length",
+    "lrclib 28049283 (Livin' la Vida Loca / Ricky Martin / Livin' la Vida Loca, 431.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

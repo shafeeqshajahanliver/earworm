@@ -1,0 +1,41 @@
+{
+  "id": "1985-out-of-touch",
+  "lyrics_kind": "synced",
+  "lrclib_id": 460076,
+  "lines": 59,
+  "words": 403,
+  "unique_words": 95,
+  "type_token_ratio": 0.236,
+  "repeated_line_share": 0.39,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.241,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "out of touch",
+  "title_phrase_occurrences": 17,
+  "pronouns": {
+    "first_singular": 36,
+    "second": 24,
+    "first_plural": 7
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 40.58,
+  "last_line_s": 238.5,
+  "sung_time_s": 197.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 122.4,
+  "words_per_minute_track": 92.4,
+  "longest_gap_between_lines_s": 12.71,
+  "longest_gap_starts_at_s": 153.72,
+  "first_repeated_block": {
+    "first_at_s": 73.39,
+    "recurs_at_s": 80.85,
+    "lines": [
+      "You're out of touch",
+      "I'm out of time (time)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 460076",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

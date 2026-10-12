@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37458257,
+  "kind": "synced",
+  "matched": {
+    "track": "I Wanna Sex You Up",
+    "artist": "Color Me Badd",
+    "album": "Now That's What I Call 500 Tracks",
+    "duration_s": 245.0
+  },
+  "duration_matched_to": "musicbrainz recording length (244s)",
+  "duration_diff_s": 0.7,
+  "reference_lengths": [
+    {
+      "seconds": 244.333,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 244.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 246.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37264729 (I Wanna Sex You Up / Color Me Badd / Gold: New Jack Swing, 311.0s): duration matches no reference length",
+    "lrclib 34409584 (I Wanna Sex You Up / Color Me Badd / Classic R&B (disc 1), 236.0s): duration matches no reference length",
+    "lrclib 34800243 (I Wanna Sex You Up / Color Me Badd / C.M.B., 219.0s): duration matches no reference length",
+    "lrclib 35002295 (I Wanna Sex You Up / Color Me Badd / 100 Hit Tracks Ultimate 90s Anthems, 237.0s): duration matches no reference length",
+    "lrclib 27314236 (I Wanna Sex You Up / Color Me Badd / I Wanna Sex You Up, 263.0s): duration matches no reference length",
+    "lrclib 12692848 (I Wanna Sex You Up / Color Me Badd / I Wanna Sex You Up, 236.0s): duration matches no reference length",
+    "lrclib 12667168 (I wanna sex you up (reprise) / Color Me Badd / Color Me Badd, 69.0s): duration matches no reference length",
+    "lrclib 17159369 (I Wanna Sex You Up ( Long) / Color Me Badd / I Wanna Sex You Up, 314.226667s): duration matches no reference length",
+    "lrclib 37087559 (I Wanna Sex You Up (Master mix) / Color Me Badd / I Wanna Sex You Up, 219.0s): live/remix/other version",
+    "lrclib 24825455 (I Wanna Sex You Up (Master mix) / Color Me Badd / I Wanna Sex You Up, 264.256625s): live/remix/other version",
+    "lrclib 5035925 (I Wanna Sex You Up (Freeze Mix) / Color Me Badd / I Wanna Sex You Up, 248.0s): live/remix/other version",
+    "lrclib 16548653 (I Wanna Sex You Up (Master mix) / Color Me Badd / I Wanna Sex You Up, 242.0s): live/remix/other version",
+    "lrclib 34150071 (I Wanna Sex You Up (Love You Up Mix) / Color Me Badd / I Wanna Sex You Up  EP, 236.0s): live/remix/other version",
+    "lrclib 15273807 (I Wanna Sex You Up (Love You Up Mix) / Color Me Badd / I Wanna Sex You Up (Remixes), 232.0s): live/remix/other version",
+    "lrclib 15365270 (I Wanna Sex You Up / Color Me Badd / Rhino Hi-Five: Color Me Badd, 237.0s): duration matches no reference length",
+    "lrclib 15696910 (I Wanna Sex You Up / Color Me Badd / The Best of Color Me Badd, 236.982857s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

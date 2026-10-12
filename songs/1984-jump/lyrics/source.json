@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36990765,
+  "kind": "synced",
+  "matched": {
+    "track": "Jump",
+    "artist": "Van Halen",
+    "album": "1984（黑胶版）",
+    "duration_s": 243.0
+  },
+  "duration_matched_to": "musicbrainz recording length (243s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 243.48,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 242.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37005174 (Jump / Van Halen / Secret Gig II L.A., 254.0s): duration matches no reference length",
+    "lrclib 37528800 (Jump / Van Halen / Right Here, Right Now (CD2), 233.0s): duration matches no reference length",
+    "lrclib 37030672 (Jump / Van Halen / Right Here, Right Now (CD2), 267.0s): duration matches no reference length",
+    "lrclib 37048403 (Jump / Van Halen / The Best Of Dmc - Bootlegs Cut-Up's And Two Trackers Vol.7, 319.0s): duration matches no reference length",
+    "lrclib 37307629 (Jump / Van Halen / 1984, 294.0s): duration matches no reference length",
+    "lrclib 34574913 (Jump / Van Halen / GENESIS, 408.0s): duration matches no reference length",
+    "lrclib 33704475 (Jump (Armin van Buuren Remix) / Van Halen / 100% Van Halen, 220.0s): live/remix/other version",
+    "lrclib 35078701 (Jump (Van Halen) / Van Halen / Live Right Here, Right Now, 267.0s): live/remix/other version",
+    "lrclib 32198066 (Jump (Live) / Van Halen / Van Halen Live Radio Broadcast: JUMP 1992, 246.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

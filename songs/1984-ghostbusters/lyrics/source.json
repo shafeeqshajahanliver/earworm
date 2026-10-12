@@ -1,0 +1,41 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 17007847,
+  "kind": "synced",
+  "matched": {
+    "track": "Ghostbusters",
+    "artist": "Ray Parker Jr.",
+    "album": "Ray Parker Jr. Greatest Hits",
+    "duration_s": 241.0
+  },
+  "duration_matched_to": "musicbrainz recording length (245s)",
+  "duration_diff_s": 4.0,
+  "reference_lengths": [
+    {
+      "seconds": 245.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 245.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 236.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 246.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 0.927,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33950508 (Ghostbusters (Ghostbusters) / Ray Parker Jr. / The Best 80s Movies Album In The World... Ever!, 262.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

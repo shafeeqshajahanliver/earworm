@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 17518327,
+  "kind": "synced",
+  "matched": {
+    "track": "Smooth",
+    "artist": "Santana featuring Rob Thomas",
+    "album": "Grammy Nominees 2000",
+    "duration_s": 295.733333
+  },
+  "duration_matched_to": "musicbrainz recording length (296s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 296.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 296.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 295.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 0.868,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 19656223 (Smooth / Santana Featuring Rob Thomas / Billboard Hot 100 Singles 1999, 240.3852s): duration matches no reference length",
+    "lrclib 21678832 (Smooth / Santana Featuring Rob Thomas / Billboard Hot 100 Singles 2000, 240.046542s): duration matches no reference length",
+    "lrclib 28388421 (Smooth / Santana featuring Rob Thomas / Totally Hits, 243.0s): duration matches no reference length",
+    "lrclib 27454776 (Smooth / Santana featuring Rob Thomas / NOW That’s What I Call the 00s, 240.439s): duration matches no reference length",
+    "lrclib 27511528 (Smooth / Santana featuring Rob Thomas / NOW That’s What I Call the 00s, 240.037958s): duration matches no reference length",
+    "lrclib 27483358 (Smooth / Santana featuring Rob Thomas / Totally Hits, 240.037958s): duration matches no reference length",
+    "lrclib 36926439 (Smooth / Santana / Smooth, 216.0s): duration matches no reference length",
+    "lrclib 37461921 (Smooth / Santana / 2025/09/20 Las Vegas, NV, 371.0s): duration matches no reference length",
+    "lrclib 34424796 (Smooth / Santana / Supernatural, 66.0s): duration matches no reference length",
+    "lrclib 34378991 (Smooth / Santana / Santana, 404.0s): duration matches no reference length",
+    "lrclib 33594479 (Smooth / Santana / Totally Hits, 363.0s): duration matches no reference length",
+    "lrclib 33370845 (Smooth / Santana / live at montreux 2011, 276.0s): live/remix/other version",
+    "lrclib 33431401 (Smooth / Santana / MTV Top 100 Greatest Pop Songs, 285.0s): duration matches no reference length",
+    "lrclib 35466691 (Smooth / Santana / Now That’s What I Call 20th Century, 256.0s): duration matches no reference length",
+    "lrclib 18362638 (Smooth / Santana / Billboard Hot 100 Singles 2000, 240.037958s): duration matches no reference length",
+    "lrclib 18573166 (Smooth / Santana / Supernatural, 256.0s): duration matches no reference length",
+    "lrclib 24844024 (Smooth / Santana / Santana, 240.046542s): duration matches no reference length",
+    "lrclib 15450047 (Smooth / Santana / Smooth, 244.6446848s): duration matches no reference length",
+    "lrclib 22643882 (Smooth / Santana / Ultimate Santana, 262.217143s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

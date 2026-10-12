@@ -1,0 +1,56 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/1145",
+    "title": "Ring My Bell",
+    "performer": "Anita Ward",
+    "is_original": true,
+    "first_release_date": "1979",
+    "releases": [
+      {
+        "title": "Songs of Love",
+        "uri": "https://api.secondhandsongs.com/release/724",
+        "performer": "Anita Ward"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 40,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/1145",
+    "title": "Ring My Bell",
+    "language": "English",
+    "writers": [
+      "Frederick Knight"
+    ],
+    "original_performer": "Anita Ward",
+    "versions": 41,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Sonho real",
+        "uri": "https://api.secondhandsongs.com/work/181214"
+      },
+      {
+        "title": "Soita kelloain",
+        "uri": "https://api.secondhandsongs.com/work/128152"
+      },
+      {
+        "title": "Rinkel mijn bel",
+        "uri": "https://api.secondhandsongs.com/work/172230"
+      },
+      {
+        "title": "En bagatell",
+        "uri": "https://api.secondhandsongs.com/work/256005"
+      },
+      {
+        "title": "Llamaré a tu puerta",
+        "uri": "https://api.secondhandsongs.com/work/299664"
+      }
+    ]
+  }
+}

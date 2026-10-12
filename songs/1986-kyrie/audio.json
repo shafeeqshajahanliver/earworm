@@ -1,0 +1,72 @@
+{
+  "id": "1986-kyrie",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2847598,
+    "matched_by": "isrc",
+    "isrc": "USRC10100412",
+    "title": "Kyrie (Single Version)",
+    "artist": "Mr. Mister",
+    "album": "LOVE",
+    "track_duration_s": 253,
+    "link": "https://www.deezer.com/track/2847598",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 119.2,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      184.6,
+      89.1,
+      172.3
+    ],
+    "beats_detected": 60,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.518,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.48,
+    "chroma_profile": [
+      0.563,
+      0.41,
+      0.699,
+      0.41,
+      0.542,
+      1.0,
+      0.67,
+      0.829,
+      0.425,
+      0.394,
+      0.366,
+      0.453
+    ],
+    "rms_dbfs": -18.2,
+    "rms_dbfs_p95_frame": -13.31,
+    "peak_dbfs": -0.87,
+    "loudness_lufs_approx": -17.06,
+    "spectral_centroid_hz_mean": 2577.2,
+    "spectral_centroid_hz_median": 2379.8,
+    "onsets": 140,
+    "onset_density_per_s": 4.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2847598",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 179.8,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2847598",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (179.8) by 34%"
+  ],
+  "rejected_candidates": []
+}

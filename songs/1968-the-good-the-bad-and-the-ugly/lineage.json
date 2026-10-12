@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/149438",
+    "title": "The Good, the Bad and the Ugly",
+    "performer": "Hugo Montenegro, His Orchestra and Chorus",
+    "is_original": false,
+    "first_release_date": "1967-12",
+    "releases": [
+      {
+        "title": "Music from \"A Fistful of Dollars\" & \"For a Few Dollars More\" & \"The Good, the Bad and the Ugly\"",
+        "uri": "https://api.secondhandsongs.com/release/56986",
+        "performer": "Hugo Montenegro and His Orchestra"
+      },
+      {
+        "title": "The Good, the Bad and the Ugly",
+        "uri": "https://api.secondhandsongs.com/release/56987",
+        "performer": "Hugo Montenegro, His Orchestra and Chorus"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Il buono, il brutto, il cattivo",
+      "uri": "https://api.secondhandsongs.com/work/57907"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/57907",
+    "title": "Il buono, il brutto, il cattivo",
+    "language": null,
+    "writers": [
+      "Ennio Morricone"
+    ],
+    "original_performer": "Ennio Morricone",
+    "versions": 120,
+    "based_on": [],
+    "derived_works": []
+  }
+}

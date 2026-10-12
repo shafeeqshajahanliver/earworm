@@ -1,0 +1,73 @@
+{
+  "id": "2000-he-wasnt-man-enough",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15392662,
+    "matched_by": "isrc",
+    "isrc": "USLF20000048",
+    "title": "He Wasn't Man Enough (Radio Edit)",
+    "artist": "Toni Braxton",
+    "album": "Ultimate Toni Braxton",
+    "track_duration_s": 240,
+    "link": "https://www.deezer.com/track/15392662",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 88.0,
+    "tempo_bpm_grid": 88.3,
+    "tempo_candidates_bpm": [
+      172.3,
+      89.1,
+      58.7
+    ],
+    "beats_detected": 42,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.467,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.442,
+    "chroma_profile": [
+      0.516,
+      0.534,
+      0.559,
+      0.627,
+      1.0,
+      0.794,
+      0.683,
+      0.537,
+      0.532,
+      0.525,
+      0.448,
+      0.518
+    ],
+    "rms_dbfs": -8.08,
+    "rms_dbfs_p95_frame": -4.77,
+    "peak_dbfs": 2.84,
+    "loudness_lufs_approx": -8.0,
+    "spectral_centroid_hz_mean": 3314.5,
+    "spectral_centroid_hz_median": 3310.8,
+    "onsets": 159,
+    "onset_density_per_s": 5.302,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15392662",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 175.9,
+    "gain": -8.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15392662",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (175.9): octave error likely",
+    "key is close between E minor and E major"
+  ],
+  "rejected_candidates": []
+}

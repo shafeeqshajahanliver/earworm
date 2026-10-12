@@ -1,0 +1,70 @@
+{
+  "id": "1987-the-way-it-is",
+  "preview": {
+    "service": "deezer",
+    "track_id": 565256,
+    "matched_by": "isrc",
+    "isrc": "USRC10301338",
+    "title": "The Way It Is (Remastered)",
+    "artist": "Bruce Hornsby & The Range",
+    "album": "Dig'Hits All 80'S",
+    "track_duration_s": 297,
+    "link": "https://www.deezer.com/track/565256",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 111.1,
+    "tempo_bpm_grid": 111.1,
+    "tempo_candidates_bpm": [
+      112.3,
+      215.3,
+      55.0
+    ],
+    "beats_detected": 56,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.893,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.804,
+    "chroma_profile": [
+      1.0,
+      0.498,
+      0.717,
+      0.331,
+      0.719,
+      0.546,
+      0.514,
+      0.905,
+      0.415,
+      0.64,
+      0.484,
+      0.696
+    ],
+    "rms_dbfs": -11.32,
+    "rms_dbfs_p95_frame": -9.11,
+    "peak_dbfs": -0.75,
+    "loudness_lufs_approx": -11.25,
+    "spectral_centroid_hz_mean": 2258.3,
+    "spectral_centroid_hz_median": 2187.6,
+    "onsets": 106,
+    "onset_density_per_s": 3.535,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 565256",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 111.1,
+    "gain": -11.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/565256",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

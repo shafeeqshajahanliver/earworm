@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3614207,
+  "kind": "synced",
+  "matched": {
+    "track": "Hey Ya!",
+    "artist": "OutKast",
+    "album": "Speakerboxxx/The Love Below",
+    "duration_s": 235.0
+  },
+  "duration_matched_to": "musicbrainz recording length (235s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 235.16,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 235.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 16,
+  "agreement_with_other_candidates": 0.713,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36842104 (Hey Ya! / Outkast / Hey Ya! - Single, 250.0s): duration matches no reference length",
+    "lrclib 36941240 (Hey Ya / OutKast / OutKast, 261.0s): duration matches no reference length",
+    "lrclib 36966975 (Hey Ya! / Outkast / Singles, 304.0s): duration matches no reference length",
+    "lrclib 37506259 (Hey Ya! / Outkast / The Way You Move / Hey Ya!, 304.0s): duration matches no reference length",
+    "lrclib 37535404 (Hey Ya! / OutKast / Life is Music: 100 onsterfelijke Studio Brussel songs, 251.0s): duration matches no reference length",
+    "lrclib 37133348 (Hey Ya! / OutKast / Pure...party Disc 2, 228.0s): duration matches no reference length",
+    "lrclib 37179927 (Hey Ya / Outkast / Absolute Music 44, 247.0s): duration matches no reference length",
+    "lrclib 34916811 (Hey Ya! / OutKast / Hey Ya!, 3.0s): duration matches no reference length",
+    "lrclib 33868283 (Hey Ya! / OutKast / Hey Ya!, 305.0s): duration matches no reference length",
+    "lrclib 4632999 (Hey Ya / Outkast / Hey Ya, 229.0s): duration matches no reference length",
+    "lrclib 7007644 (Hey Ya! / OutKast / Hey Ya!, 302.0s): duration matches no reference length",
+    "lrclib 28287497 (Hey Ya / Outkast / Hey Ya, 103.0s): duration matches no reference length",
+    "lrclib 9963067 (Hey Ya / Outkast / Hey Ya, 249.0s): duration matches no reference length",
+    "lrclib 10267062 (Hey Ya! / Outkast / Hey Ya!, 241.0s): duration matches no reference length",
+    "lrclib 32701007 (Hey Ya / OutKast / Hey Ya, 246.0s): duration matches no reference length",
+    "lrclib 27386400 (Hey Ya! / OutKast / Hey Ya! - Single, 261.668571s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

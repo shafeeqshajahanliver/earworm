@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 15111034,
+  "kind": "synced",
+  "matched": {
+    "track": "Hollaback Girl (album version)",
+    "artist": "Gwen Stefani",
+    "album": "Hollaback Girl",
+    "duration_s": 199.86
+  },
+  "duration_matched_to": "musicbrainz recording length (200s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 199.866,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 200.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 199.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 0.924,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36967081 (Hollaback Girl / Gwen Stefani / Singles, 210.0s): duration matches no reference length",
+    "lrclib 37180635 (Hollaback Girl / Gwen Stefani / Mashup Urban - Goodvibes Vinyls, 146.0s): duration matches no reference length",
+    "lrclib 37023183 (Hollaback Girl / Gwen Stefani / 50 Jahre Bravo2 Disc 2, 236.0s): duration matches no reference length",
+    "lrclib 37096893 (Hollaback Girl / Gwen Stefani / Love Angel Music Baby, 191.0s): duration matches no reference length",
+    "lrclib 34726016 (Hollaback Girl / Gwen Stefani / Love. Angel. Music. Baby. (Deluxe Version), 190.0s): live/remix/other version",
+    "lrclib 34793967 (Hollaback Girl / Gwen Stefani / Love․ Angel․ Music․ Baby․, 412.0s): duration matches no reference length",
+    "lrclib 34526531 (Hollaback Girl / Gwen Stefani / Shower Karaoke, 200.0s): live/remix/other version",
+    "lrclib 36372830 (Hollaback Girl / Gwen Stefani / Gwen Stefani Videos, 207.0s): duration matches no reference length",
+    "lrclib 38340292 (Hollaback Girl / Gwen Stefani / Gwen Stefani – Singles, 207.0s): duration matches no reference length",
+    "lrclib 9773675 (Hollaback Girl (instrumental) / Gwen Stefani / Hollaback Girl, 200.0s): live/remix/other version",
+    "lrclib 15976155 (Hollaback Girl (Instrumental) / Gwen Stefani / Hollaback Girl, 202.013605s): live/remix/other version",
+    "lrclib 35304468 (Hollaback Girl (album version) / Gwen Stefani / Hollaback Girl, 163.0s): duration matches no reference length",
+    "lrclib 9609084 (Hollaback Girl (Hollatronix remix) / Gwen Stefani / Hollaback Girl, 163.0s): live/remix/other version",
+    "lrclib 38228612 (Hollaback Girl (a cappella) / Gwen Stefani / Hollaback Girl, 198.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

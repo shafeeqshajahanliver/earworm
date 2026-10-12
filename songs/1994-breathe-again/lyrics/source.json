@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37035171,
+  "kind": "synced",
+  "matched": {
+    "track": "Breathe Again",
+    "artist": "Toni Braxton",
+    "album": "Divas 2008",
+    "duration_s": 257.0
+  },
+  "duration_matched_to": "musicbrainz recording length (257s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 256.71,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 254.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 255.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 269.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37188790 (Breathe Again / Toni Braxton / 1994 - Top 100, 245.0s): duration matches no reference length",
+    "lrclib 34505190 (Breathe Again / Toni Braxton / 100 Hits: 90s Pop, 280.0s): duration matches no reference length",
+    "lrclib 33373369 (Breathe Again / Toni Braxton / Kuschelrock 9, 192.0s): duration matches no reference length",
+    "lrclib 36363876 (Breathe Again / Toni Braxton / Toni Braxton, 299.0s): duration matches no reference length",
+    "lrclib 36703347 (breathe again / toni braxton / toni braxton, 420.0s): duration matches no reference length",
+    "lrclib 26374658 (Breathe Again / Toni Braxton / Toni Braxton, 76.67229s): duration matches no reference length",
+    "lrclib 35787391 (Breathe Again (reprise) / Toni Braxton / Toni Braxton, 241.0s): duration matches no reference length",
+    "lrclib 9081920 (Breathe Again (reprise) / Toni Braxton / Toni Braxton, 81.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

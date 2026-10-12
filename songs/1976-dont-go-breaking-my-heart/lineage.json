@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/22988",
+    "title": "Don't Go Breaking My Heart",
+    "performer": "Elton John & Kiki Dee",
+    "is_original": true,
+    "first_release_date": "1976-06",
+    "releases": [
+      {
+        "title": "Don't Go Breaking My Heart",
+        "uri": "https://api.secondhandsongs.com/release/36981",
+        "performer": "Elton John & Kiki Dee"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 70,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/22988",
+    "title": "Don't Go Breaking My Heart",
+    "language": "English",
+    "writers": [
+      "Elton John",
+      "Bernie Taupin"
+    ],
+    "original_performer": "Elton John & Kiki Dee",
+    "versions": 71,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Du bist das, was ich will",
+        "uri": "https://api.secondhandsongs.com/work/126883"
+      },
+      {
+        "title": "Kan vi träffas nå'n gång",
+        "uri": "https://api.secondhandsongs.com/work/165032"
+      }
+    ]
+  }
+}

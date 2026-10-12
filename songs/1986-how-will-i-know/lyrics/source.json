@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35280149,
+  "kind": "synced",
+  "matched": {
+    "track": "How Will I Know",
+    "artist": "Whitney Houston",
+    "album": "The Greatest Hits (2000 FLAC) 88 CD2 - Throw Down - 13 - How Will I Know",
+    "duration_s": 273.0
+  },
+  "duration_matched_to": "musicbrainz recording length (274s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 273.998,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 275.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 270.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37305418 (How Will I Know / Whitney Houston / Mastermix Dj Edits 30, 171.0s): duration matches no reference length",
+    "lrclib 37371829 (How Will I Know / Whitney Houston / Ultimix 50, 530.0s): duration matches no reference length",
+    "lrclib 36864458 (How Will I Know / Whitney Houston / Whitney Houston, 260.0s): duration matches no reference length",
+    "lrclib 34987445 (How Will I Know / Whitney Houston / Whitney Houston, 4.0s): duration matches no reference length",
+    "lrclib 33743621 (How Will I Know / Whitney Houston / The Greatest Hits, Disc 2 - Throw Down, 131.0s): duration matches no reference length",
+    "lrclib 27857603 (How Will I Know / Whitney Houston & Clean Bandit / How Will I Know Whitney Houston, 213.0s): duration matches no reference length",
+    "lrclib 19478818 (How Will I Know / Whitney Houston / How Will I Know, 225.790839s): duration matches no reference length",
+    "lrclib 5207158 (How Will I Know / Whitney Houston / How Will I Know, 214.0s): duration matches no reference length",
+    "lrclib 29283817 (How Will I Know / Whitney Houston / How Will I Know, 181.0s): duration matches no reference length",
+    "lrclib 31654459 (How Will I Know / Whitney Houston / How Will I Know, 246.0s): duration matches no reference length",
+    "lrclib 38304226 (How Will I Know / Whitney Houston / How Will I Know, 230.0s): duration matches no reference length",
+    "lrclib 14929974 (How Will I Know / Whitney Houston / Whitney Houston/Whitney Houston Live, 241.0s): live/remix/other version",
+    "lrclib 28220383 (How Will I Know / Whitney Houston / How Will I Know - Single, 213.0s): duration matches no reference length",
+    "lrclib 36341813 (how will i know / whitney houston / whitney houston, 241.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20208160,
+  "kind": "synced",
+  "matched": {
+    "track": "I Feel For You",
+    "artist": "Chaka Khan",
+    "album": "I Feel For You",
+    "duration_s": 245.9535
+  },
+  "duration_matched_to": "musicbrainz recording length (246s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 245.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 245.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 243.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 346.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36986014 (I Feel For You / Chaka Khan / Best Of Chaka Khan, 338.0s): duration matches no reference length",
+    "lrclib 37105716 (I Feel for You / Chaka Khan / I Feel for You, 368.0s): duration matches no reference length",
+    "lrclib 37070826 (I Feel for You / Chaka Khan / NOW 100 Hits 80s, 223.0s): duration matches no reference length",
+    "lrclib 37203397 (I Feel For You / Chaka Khan / Funky Grooves - Cd1, 337.0s): duration matches no reference length",
+    "lrclib 34380663 (I Feel for You / Chaka Khan / Life Is a Dance (The Remix Project), 300.0s): live/remix/other version",
+    "lrclib 34601100 (i feel for you / chaka khan / the many faces of prince, 224.0s): duration matches no reference length",
+    "lrclib 35150066 (I Feel For You / Chaka Khan / CD2, 251.0s): duration matches no reference length",
+    "lrclib 33380265 (I Feel for You / CHAKA KHAN / Atrapados en los Ochenta, 219.0s): duration matches no reference length",
+    "lrclib 33681580 (I Feel for You / Chaka Khan / I Feel for You, 333.0s): duration matches no reference length",
+    "lrclib 23086821 (I Feel For You / Chaka Khan / Chaka Khan, 375.398562s): duration matches no reference length",
+    "lrclib 27856505 (I Feel for You / Chaka Khan / Chaka Khan Live, 222.0s): live/remix/other version",
+    "lrclib 38198498 (I Feel for You / Chaka Khan / I Feel for You, 310.0s): duration matches no reference length",
+    "lrclib 37708119 (I Feel for You / Chaka Khan / I Feel For You, 3.0s): duration matches no reference length",
+    "lrclib 20801780 (I Feel for You / Chaka Khan / I Feel for You, 283.128s): duration matches no reference length",
+    "lrclib 21893821 (I Feel for You / Chaka Khan / I Feel for You, 338.369417s): duration matches no reference length",
+    "lrclib 24720094 (I Feel for You / Chaka Khan / I Feel For You, 222.48s): duration matches no reference length",
+    "lrclib 22380070 (I Feel for You / Chaka Khan / I Feel For You, 206.55s): duration matches no reference length",
+    "lrclib 13405859 (I Feel For You / Chaka Khan / I Feel For You, 219.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

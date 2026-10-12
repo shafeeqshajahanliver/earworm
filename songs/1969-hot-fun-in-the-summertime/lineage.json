@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/32387",
+    "title": "Hot Fun in the Summertime",
+    "performer": "Sly & The Family Stone",
+    "is_original": true,
+    "first_release_date": "1969-07-21",
+    "releases": [
+      {
+        "title": "Hot Fun in the Summertime",
+        "uri": "https://api.secondhandsongs.com/release/38419",
+        "performer": "Sly & The Family Stone"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 15,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/32387",
+    "title": "Hot Fun in the Summertime",
+    "language": "English",
+    "writers": [
+      "Sly Stone"
+    ],
+    "original_performer": "Sly & The Family Stone",
+    "versions": 16,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "What You Don't Do",
+        "uri": "https://api.secondhandsongs.com/work/177369"
+      }
+    ]
+  }
+}

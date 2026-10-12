@@ -1,0 +1,41 @@
+{
+  "id": "1986-party-all-the-time",
+  "lyrics_kind": "synced",
+  "lrclib_id": 32879560,
+  "lines": 36,
+  "words": 266,
+  "unique_words": 76,
+  "type_token_ratio": 0.286,
+  "repeated_line_share": 0.333,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.284,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "party all the time",
+  "title_phrase_occurrences": 26,
+  "pronouns": {
+    "first_singular": 14,
+    "second": 13,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 25.25,
+  "last_line_s": 242.59,
+  "sung_time_s": 173.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 92.0,
+  "words_per_minute_track": 50.3,
+  "longest_gap_between_lines_s": 27.7,
+  "longest_gap_starts_at_s": 25.25,
+  "first_repeated_block": {
+    "first_at_s": 89.28,
+    "recurs_at_s": 103.6,
+    "lines": [
+      "Whoooohooohoohoo (party all the time)",
+      "She likes to party all the time (party all the time)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 32879560",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

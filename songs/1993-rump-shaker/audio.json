@@ -1,0 +1,81 @@
+{
+  "id": "1993-rump-shaker",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4279523982,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMC19238699",
+    "title": "Rump Shaker (Percapella)",
+    "artist": "Wreckx-N-Effect",
+    "album": "Rump Shaker",
+    "track_duration_s": 200,
+    "link": "https://www.deezer.com/track/4279523982",
+    "duration_matched_to": "musicbrainz recording length (199s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 103.4,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      103.4,
+      198.8,
+      215.3
+    ],
+    "beats_detected": 52,
+    "key": "C minor",
+    "key_tonic": "C",
+    "key_mode": "minor",
+    "key_correlation": 0.396,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.389,
+    "chroma_profile": [
+      0.744,
+      0.782,
+      0.79,
+      1.0,
+      0.883,
+      0.726,
+      0.667,
+      0.89,
+      0.829,
+      0.742,
+      0.595,
+      0.602
+    ],
+    "rms_dbfs": -20.66,
+    "rms_dbfs_p95_frame": -17.25,
+    "peak_dbfs": -4.25,
+    "loudness_lufs_approx": -20.11,
+    "spectral_centroid_hz_mean": 3711.4,
+    "spectral_centroid_hz_median": 3704.7,
+    "onsets": 172,
+    "onset_density_per_s": 5.736,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4279523982",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -21.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4279523982",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C minor and Ab major"
+  ],
+  "rejected_candidates": [
+    "deezer 4279523952: duration 236s matches no reference length",
+    "deezer 668941342: duration 301s matches no reference length",
+    "deezer 3740176742: version (Rump Shaker (Radio Remix))",
+    "deezer 649766712: duration 360s matches no reference length",
+    "deezer 4279523992: duration 362s matches no reference length",
+    "deezer 4279523972: duration 363s matches no reference length",
+    "deezer 4279524002: duration 353s matches no reference length"
+  ]
+}

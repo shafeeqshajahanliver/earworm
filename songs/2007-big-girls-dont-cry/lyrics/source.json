@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33895320,
+  "kind": "synced",
+  "matched": {
+    "track": "Big Girls Don't Cry",
+    "artist": "Fergie",
+    "album": "The Dutchess (Japanese Edition)",
+    "duration_s": 268.0
+  },
+  "duration_matched_to": "musicbrainz recording length (269s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 268.8,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 268.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36843958 (Big Girls Don't Cry / Fergie / Big Girls Don't Cry, 307.0s): duration matches no reference length",
+    "lrclib 37454393 (Big Girls Don't Cry / Fergie / 100% Summer 2008, 256.0s): duration matches no reference length",
+    "lrclib 36887757 (Big Girls Don't Cry / Fergie / Billboard OLD TOP 1000, 256.0s): duration matches no reference length",
+    "lrclib 36267950 (Big Girls Don't Cry / Fergie / BRITs Hits: The Album of the Year 2008, 259.0s): duration matches no reference length",
+    "lrclib 36102911 (Big Girls Dont Cry / Fergie / The Dutchess, 284.0s): duration matches no reference length",
+    "lrclib 34068715 (Big Girls Don't Cry / Fergie / The Dutchess∶ Deluxe, 551.0s): duration matches no reference length",
+    "lrclib 2115501 (Big Girls Don’t Cry / Fergie / Big Girls Don’t Cry, 258.0s): duration matches no reference length",
+    "lrclib 30461070 (Big Girls Don't Cry / Fergie / Big Girls Don't Cry, 191.0s): duration matches no reference length",
+    "lrclib 31393650 (Big Girls Don’t Cry (Personal) (remix) / Fergie / Big Girls Don’t Cry, 233.0s): live/remix/other version",
+    "lrclib 8314384 (big girls don't cry (personal) / fergie / Big Girls Don't Cry (International Version), 268.0s): live/remix/other version",
+    "lrclib 36235603 (Big Girls Don't Cry (Personal) (remix) / Fergie / Big Girls Don’t Cry (Personal) (remix), 234.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

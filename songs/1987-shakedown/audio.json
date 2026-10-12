@@ -1,0 +1,67 @@
+{
+  "id": "1987-shakedown",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1440894312,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Shakedown",
+    "artist": "Bob Seger",
+    "album": "Greatest Hits 2",
+    "track_duration_s": 241.9,
+    "link": "https://music.apple.com/us/album/shakedown/1440894137?i=1440894312&uo=4",
+    "duration_matched_to": "musicbrainz recording length (243s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 85.4,
+    "tempo_bpm_grid": 85.4,
+    "tempo_candidates_bpm": [
+      86.1,
+      172.3,
+      112.3
+    ],
+    "beats_detected": 41,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.576,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.526,
+    "chroma_profile": [
+      0.364,
+      0.492,
+      0.605,
+      0.665,
+      1.0,
+      0.636,
+      0.499,
+      0.501,
+      0.506,
+      0.572,
+      0.385,
+      0.518
+    ],
+    "rms_dbfs": -8.26,
+    "rms_dbfs_p95_frame": -6.04,
+    "peak_dbfs": 0.55,
+    "loudness_lufs_approx": -8.0,
+    "spectral_centroid_hz_mean": 2540.6,
+    "spectral_centroid_hz_median": 2437.3,
+    "onsets": 157,
+    "onset_density_per_s": 5.238,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1440894312",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USCA20300669: matched but no preview available (readable=False)",
+    "deezer isrc USHRD1123200: matched but no preview available (readable=False)"
+  ]
+}

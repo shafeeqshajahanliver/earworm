@@ -1,0 +1,83 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/39056",
+    "title": "Go Away Little Girl",
+    "performer": "Donny Osmond",
+    "is_original": false,
+    "first_release_date": "1971-08",
+    "releases": [
+      {
+        "title": "To You with Love, Donny",
+        "uri": "https://api.secondhandsongs.com/release/10778",
+        "performer": "Donny Osmond"
+      },
+      {
+        "title": "Go Away Little Girl",
+        "uri": "https://api.secondhandsongs.com/release/100457",
+        "performer": "Donny Osmond"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Go Away Little Girl",
+      "uri": "https://api.secondhandsongs.com/work/39055"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/39055",
+    "title": "Go Away Little Girl",
+    "language": "English",
+    "writers": [
+      "Gerry Goffin",
+      "Carole King"
+    ],
+    "original_performer": "Bobby Vee with The Johnny Mann Singers",
+    "versions": 102,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Va t'en vit' mon amour",
+        "uri": "https://api.secondhandsongs.com/work/70615"
+      },
+      {
+        "title": "Lass mich geh'n, Madeleine",
+        "uri": "https://api.secondhandsongs.com/work/139441"
+      },
+      {
+        "title": "Où es-tu grand-papa",
+        "uri": "https://api.secondhandsongs.com/work/152981"
+      },
+      {
+        "title": "Non amarmi così",
+        "uri": "https://api.secondhandsongs.com/work/158756"
+      },
+      {
+        "title": "ゴー・アウェ・リトル・ガール [Go Away Little Girl]",
+        "uri": "https://api.secondhandsongs.com/work/174837"
+      },
+      {
+        "title": "Vete lejos de mi",
+        "uri": "https://api.secondhandsongs.com/work/204837"
+      },
+      {
+        "title": "Hasta luego mi amor",
+        "uri": "https://api.secondhandsongs.com/work/299870"
+      },
+      {
+        "title": "Bleib' bei mir, little Girl",
+        "uri": "https://api.secondhandsongs.com/work/315196"
+      },
+      {
+        "title": "Vild med din mor",
+        "uri": "https://api.secondhandsongs.com/work/322989"
+      }
+    ]
+  }
+}

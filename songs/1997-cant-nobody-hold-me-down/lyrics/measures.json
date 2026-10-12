@@ -1,0 +1,41 @@
+{
+  "id": "1997-cant-nobody-hold-me-down",
+  "lyrics_kind": "synced",
+  "lrclib_id": 35367677,
+  "lines": 94,
+  "words": 586,
+  "unique_words": 298,
+  "type_token_ratio": 0.509,
+  "repeated_line_share": 0.043,
+  "distinct_lines": 90,
+  "zlib_compression_ratio": 0.471,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "can't nobody hold me down",
+  "title_phrase_occurrences": 2,
+  "pronouns": {
+    "first_singular": 42,
+    "second": 23,
+    "first_plural": 11
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.16,
+  "last_line_s": 191.89,
+  "sung_time_s": 181.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 193.9,
+  "words_per_minute_track": 151.6,
+  "longest_gap_between_lines_s": 13.91,
+  "longest_gap_starts_at_s": 175.73,
+  "first_repeated_block": {
+    "first_at_s": 84.93,
+    "recurs_at_s": 189.64,
+    "lines": [
+      "Can't nobody take my pride",
+      "Can't nobody hold me down. Oh no"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 35367677",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

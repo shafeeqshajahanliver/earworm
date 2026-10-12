@@ -1,0 +1,81 @@
+{
+  "id": "2001-fallin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 959183,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USJAY0100057",
+    "title": "Fallin'",
+    "artist": "Alicia Keys",
+    "album": "Songs In A Minor",
+    "track_duration_s": 208,
+    "link": "https://www.deezer.com/track/959183",
+    "duration_matched_to": "wikipedia infobox length (210s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.6,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      95.7,
+      64.6,
+      184.6
+    ],
+    "beats_detected": 47,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.507,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.471,
+    "chroma_profile": [
+      0.573,
+      0.814,
+      0.689,
+      0.558,
+      0.761,
+      0.559,
+      0.831,
+      1.0,
+      0.76,
+      0.585,
+      0.512,
+      0.722
+    ],
+    "rms_dbfs": -11.23,
+    "rms_dbfs_p95_frame": -6.4,
+    "peak_dbfs": 0.85,
+    "loudness_lufs_approx": -12.27,
+    "spectral_centroid_hz_mean": 2182.5,
+    "spectral_centroid_hz_median": 2148.4,
+    "onsets": 94,
+    "onset_density_per_s": 3.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 959183",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95.9,
+    "gain": -10.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/959183",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 15413120: version (Fallin' (Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005))",
+    "deezer 4046525601: version (Fallin' (feat. Busta Rhymes & Rampage) (Radio Remix))",
+    "deezer 68152073: version (Fallin' (Live at Metropolis Studios, New York, NY - May 2013))",
+    "deezer 2274978297: version (Fallin' (Live From Allianz Parque Sao Paulo Brazil))",
+    "deezer 4046525391: version (Fallin' (\"Ali\" Soundtrack Version))",
+    "deezer 2292071275: version (Fallin' (Live from Movistar Arena Buenos Aires, Argentina))",
+    "deezer 2325005835: version (Fallin' (Live From Auditorio Nacional Mexico City, Mexico))",
+    "deezer 2300103925: version (Fallin' (Live From Movistar Arena Bogota, Colombia))",
+    "deezer 2294782305: version (Fallin' (Live from Movistar Arena Santiago, Chile))"
+  ]
+}

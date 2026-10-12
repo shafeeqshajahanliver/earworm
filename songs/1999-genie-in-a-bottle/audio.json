@@ -1,0 +1,70 @@
+{
+  "id": "1999-genie-in-a-bottle",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1000194,
+    "matched_by": "isrc",
+    "isrc": "USRC19900032",
+    "title": "Genie In a Bottle",
+    "artist": "Christina Aguilera",
+    "album": "Arabella Kiesbauer präsentiert Girl Power",
+    "track_duration_s": 216,
+    "link": "https://www.deezer.com/track/1000194",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 87.9,
+    "tempo_bpm_grid": 87.6,
+    "tempo_candidates_bpm": [
+      172.3,
+      89.1,
+      58.7
+    ],
+    "beats_detected": 44,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.918,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.704,
+    "chroma_profile": [
+      0.917,
+      0.907,
+      0.727,
+      0.86,
+      0.848,
+      1.0,
+      0.756,
+      0.798,
+      0.942,
+      0.698,
+      0.772,
+      0.733
+    ],
+    "rms_dbfs": -9.46,
+    "rms_dbfs_p95_frame": -5.97,
+    "peak_dbfs": 0.99,
+    "loudness_lufs_approx": -8.89,
+    "spectral_centroid_hz_mean": 2722.9,
+    "spectral_centroid_hz_median": 2705.5,
+    "onsets": 127,
+    "onset_density_per_s": 4.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1000194",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1000194",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

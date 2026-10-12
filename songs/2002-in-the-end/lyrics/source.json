@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3660137,
+  "kind": "synced",
+  "matched": {
+    "track": "In the End",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "duration_s": 216.0
+  },
+  "duration_matched_to": "musicbrainz recording length (216s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 216.293,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 216.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 216.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 13,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37002855 (In The End / Linkin Park / Road to Revolution, 441.0s): duration matches no reference length",
+    "lrclib 37475162 (In The End / Linkin Park / 03.25.01 - Apollo Theatre (Manchester, England), 227.0s): duration matches no reference length",
+    "lrclib 37475169 (In The End / Linkin Park / 02.12.02 - Patriot Center (Fairfax, VA), 228.0s): duration matches no reference length",
+    "lrclib 37175408 (In the End / Linkin Park / Hybrid Theory (20th anniversary edition), 206.0s): duration matches no reference length",
+    "lrclib 37139399 (In The End / Linkin Park / Juke Joint, Springfield, 230.0s): duration matches no reference length",
+    "lrclib 37139400 (In The End / Linkin Park / Legendary Horseshoe Tavern, Toronto, 248.0s): duration matches no reference length",
+    "lrclib 37139609 (In The End / Linkin Park / Roseland Ballroom, New York City, 230.0s): duration matches no reference length",
+    "lrclib 37372909 (In The End / Linkin Park / Live in Germany 2001, 208.0s): live/remix/other version",
+    "lrclib 1123178 (In the End / Linkin Park / Linkin Park, 276.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

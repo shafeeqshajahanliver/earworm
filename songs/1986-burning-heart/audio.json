@@ -1,0 +1,72 @@
+{
+  "id": "1986-burning-heart",
+  "preview": {
+    "service": "deezer",
+    "track_id": 576423,
+    "matched_by": "isrc",
+    "isrc": "USVR19300003",
+    "title": "Burning Heart (From \"Rocky IV\" Soundtrack)",
+    "artist": "Survivor",
+    "album": "Rocky IV",
+    "track_duration_s": 231,
+    "link": "https://www.deezer.com/track/576423",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 97.9,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      198.8,
+      184.6
+    ],
+    "beats_detected": 49,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.828,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.755,
+    "chroma_profile": [
+      0.719,
+      0.356,
+      0.484,
+      0.393,
+      0.594,
+      0.904,
+      0.461,
+      0.65,
+      0.518,
+      1.0,
+      0.458,
+      0.532
+    ],
+    "rms_dbfs": -13.67,
+    "rms_dbfs_p95_frame": -10.8,
+    "peak_dbfs": -0.14,
+    "loudness_lufs_approx": -11.82,
+    "spectral_centroid_hz_mean": 3105.0,
+    "spectral_centroid_hz_median": 3006.4,
+    "onsets": 36,
+    "onset_density_per_s": 1.2,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 576423",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 98,
+    "gain": -12.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/576423",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USSB18580010: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/278992",
+    "title": "Baby Come Back",
+    "performer": "Player",
+    "is_original": true,
+    "first_release_date": "1977-09",
+    "releases": [
+      {
+        "title": "Player",
+        "uri": "https://api.secondhandsongs.com/release/96898",
+        "performer": "Player"
+      },
+      {
+        "title": "Baby Come Back",
+        "uri": "https://api.secondhandsongs.com/release/297080",
+        "performer": "Player"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 37,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/133696",
+    "title": "Baby Come Back",
+    "language": "English",
+    "writers": [
+      "J.C. Crowley",
+      "Peter Beckett"
+    ],
+    "original_performer": "Player",
+    "versions": 38,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Nechte mě tak",
+        "uri": "https://api.secondhandsongs.com/work/187075"
+      },
+      {
+        "title": "Come Back to Me",
+        "uri": "https://api.secondhandsongs.com/work/202417"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2004-i-dont-wanna-know",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1738587096,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
+    "artist": "Mario Winans",
+    "album": "Hurt No More",
+    "track_duration_s": 257.4,
+    "link": "https://music.apple.com/us/album/i-dont-wanna-know-feat-enya-and-p-diddy/1738587079?i=1738587096&uo=4",
+    "duration_matched_to": "musicbrainz recording length (262s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 96.9,
+    "tempo_bpm_grid": 96.6,
+    "tempo_candidates_bpm": [
+      95.7,
+      48.8,
+      64.6
+    ],
+    "beats_detected": 48,
+    "key": "B minor",
+    "key_tonic": "B",
+    "key_mode": "minor",
+    "key_correlation": 0.452,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.304,
+    "chroma_profile": [
+      1.0,
+      0.74,
+      0.936,
+      0.607,
+      0.408,
+      0.485,
+      0.869,
+      0.728,
+      0.816,
+      0.661,
+      0.771,
+      0.912
+    ],
+    "rms_dbfs": -8.87,
+    "rms_dbfs_p95_frame": -3.13,
+    "peak_dbfs": 0.47,
+    "loudness_lufs_approx": -10.43,
+    "spectral_centroid_hz_mean": 2026.9,
+    "spectral_centroid_hz_median": 1906.0,
+    "onsets": 141,
+    "onset_density_per_s": 4.704,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1738587096",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USBB40400040: matched but no preview available (readable=False)"
+  ]
+}

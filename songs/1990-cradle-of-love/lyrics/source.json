@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 160342,
+  "kind": "synced",
+  "matched": {
+    "track": "Cradle Of Love",
+    "artist": "Billy Idol",
+    "album": "Charmed Life",
+    "duration_s": 281.0
+  },
+  "duration_matched_to": "musicbrainz recording length (279s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 279.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 279.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 279.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36994349 (Cradle of Love / Billy Idol / Live New York 2003, 266.0s): live/remix/other version",
+    "lrclib 36685829 (Cradle Of Love / Billy Idol / Cradle Of Love, 388.0s): duration matches no reference length",
+    "lrclib 36771117 (Cradle Of Love / Billy Idol / Grammy’S Greatest Moments. Cd 1, 267.0s): duration matches no reference length",
+    "lrclib 34230687 (Cradle Of Love / Billy Idol / Live In Atlantic City, NJ, 349.0s): live/remix/other version",
+    "lrclib 35424313 (Cradle Of Love / Billy Idol / Cradle Of Love (Single Cd), 245.0s): duration matches no reference length",
+    "lrclib 26410403 (Cradle Of Love / Billy Idol / Billy Idol, 284.125125s): duration matches no reference length",
+    "lrclib 23158878 (Cradle of Love / Billy Idol / Cradle of Love, 248.553417s): duration matches no reference length",
+    "lrclib 19153317 (Cradle Of Love / Billy Idol / Cradle Of Love (Live), 272.0s): live/remix/other version",
+    "lrclib 18959830 (Cradle Of Love / Billy Idol / Billy Idol - Greatest Hits, 268.068571s): duration matches no reference length",
+    "lrclib 8913882 (Cradle of Love / Billy Idol / VH1 Storytellers: Billy Idol, 272.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1992-jump",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1056838,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSM19200533",
+    "title": "Jump",
+    "artist": "Kris Kross",
+    "album": "Totally Krossed Out",
+    "track_duration_s": 194,
+    "link": "https://www.deezer.com/track/1056838",
+    "duration_matched_to": "musicbrainz recording length (196s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 103.9,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      198.8,
+      103.4,
+      68.0
+    ],
+    "beats_detected": 52,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.76,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.456,
+    "chroma_profile": [
+      0.511,
+      0.666,
+      0.645,
+      0.569,
+      0.544,
+      0.664,
+      1.0,
+      0.71,
+      0.673,
+      0.662,
+      0.435,
+      0.55
+    ],
+    "rms_dbfs": -13.19,
+    "rms_dbfs_p95_frame": -10.23,
+    "peak_dbfs": -1.51,
+    "loudness_lufs_approx": -14.02,
+    "spectral_centroid_hz_mean": 2723.6,
+    "spectral_centroid_hz_median": 2635.5,
+    "onsets": 176,
+    "onset_density_per_s": 5.869,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1056838",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 102.1,
+    "gain": -14.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1056838",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1057239: version (Jump (Extended Mix))",
+    "deezer 1719353657: version (Jump (Super Cat Mix))",
+    "deezer 1719353637: version (Jump (Extended Dance Mix))",
+    "deezer 1719353667: version (Jump (Instrumental))",
+    "deezer 13232793: version (Jump (Super Cat Dessork Mix))"
+  ]
+}

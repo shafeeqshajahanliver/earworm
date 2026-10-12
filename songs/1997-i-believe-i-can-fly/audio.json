@@ -1,0 +1,70 @@
+{
+  "id": "1997-i-believe-i-can-fly",
+  "preview": {
+    "service": "deezer",
+    "track_id": 636216,
+    "matched_by": "isrc",
+    "isrc": "GBAHK9600240",
+    "title": "I Believe I Can Fly (Radio Edit)",
+    "artist": "R.Kelly",
+    "album": "Die Jury - Die besten Rock-Popballaden",
+    "track_duration_s": 282,
+    "link": "https://www.deezer.com/track/636216",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.5,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      123.0,
+      117.5,
+      60.1
+    ],
+    "beats_detected": 60,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.614,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.568,
+    "chroma_profile": [
+      0.752,
+      0.308,
+      0.798,
+      0.422,
+      0.595,
+      0.416,
+      0.335,
+      0.948,
+      0.791,
+      1.0,
+      0.352,
+      0.357
+    ],
+    "rms_dbfs": -9.72,
+    "rms_dbfs_p95_frame": -7.09,
+    "peak_dbfs": 0.07,
+    "loudness_lufs_approx": -10.46,
+    "spectral_centroid_hz_mean": 2034.6,
+    "spectral_centroid_hz_median": 1897.5,
+    "onsets": 108,
+    "onset_density_per_s": 3.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 636216",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/636216",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

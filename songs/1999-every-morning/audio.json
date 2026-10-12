@@ -1,0 +1,74 @@
+{
+  "id": "1999-every-morning",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4288270,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAT20902980",
+    "title": "Every Morning",
+    "artist": "Sugar Ray",
+    "album": "14:59",
+    "track_duration_s": 219,
+    "link": "https://www.deezer.com/track/4288270",
+    "duration_matched_to": "wikipedia infobox length (219s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 109.4,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      215.3,
+      73.8,
+      55.0
+    ],
+    "beats_detected": 41,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.939,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.668,
+    "chroma_profile": [
+      0.872,
+      0.769,
+      0.506,
+      0.959,
+      0.533,
+      0.629,
+      0.536,
+      0.679,
+      1.0,
+      0.532,
+      0.547,
+      0.48
+    ],
+    "rms_dbfs": -8.07,
+    "rms_dbfs_p95_frame": -5.51,
+    "peak_dbfs": 0.97,
+    "loudness_lufs_approx": -8.4,
+    "spectral_centroid_hz_mean": 2456.0,
+    "spectral_centroid_hz_median": 2411.4,
+    "onsets": 113,
+    "onset_density_per_s": 3.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4288270",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 110,
+    "gain": -8.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4288270",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USAT29900045: matched but no preview available (readable=False)",
+    "deezer 3830313: version (Every Morning [Live Acoustic Version])"
+  ]
+}

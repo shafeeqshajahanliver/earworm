@@ -1,0 +1,73 @@
+{
+  "id": "1999-angel-of-mine",
+  "preview": {
+    "service": "deezer",
+    "track_id": 958976,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAR19800077",
+    "title": "Angel of Mine",
+    "artist": "Monica",
+    "album": "The Boy Is Mine",
+    "track_duration_s": 250,
+    "link": "https://www.deezer.com/track/958976",
+    "duration_matched_to": "musicbrainz recording length (251s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.1,
+    "tempo_bpm_grid": 89.9,
+    "tempo_candidates_bpm": [
+      89.1,
+      45.3,
+      184.6
+    ],
+    "beats_detected": 38,
+    "key": "F# major",
+    "key_tonic": "F#",
+    "key_mode": "major",
+    "key_correlation": 0.823,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.776,
+    "chroma_profile": [
+      0.631,
+      0.859,
+      0.494,
+      0.719,
+      0.467,
+      0.723,
+      1.0,
+      0.516,
+      0.7,
+      0.447,
+      0.651,
+      0.488
+    ],
+    "rms_dbfs": -10.72,
+    "rms_dbfs_p95_frame": -6.99,
+    "peak_dbfs": 0.55,
+    "loudness_lufs_approx": -11.46,
+    "spectral_centroid_hz_mean": 2554.6,
+    "spectral_centroid_hz_median": 2564.3,
+    "onsets": 100,
+    "onset_density_per_s": 3.335,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 958976",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 90.1,
+    "gain": -11.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/958976",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 407496482: version (Angel of Mine (Instrumental))"
+  ]
+}

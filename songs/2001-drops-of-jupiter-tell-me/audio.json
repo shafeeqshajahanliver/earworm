@@ -1,0 +1,70 @@
+{
+  "id": "2001-drops-of-jupiter-tell-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13132946,
+    "matched_by": "isrc",
+    "isrc": "USSM10019751",
+    "title": "Drops of Jupiter (Tell Me)",
+    "artist": "Train",
+    "album": "Nice 2000s",
+    "track_duration_s": 260,
+    "link": "https://www.deezer.com/track/13132946",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 159.7,
+    "tempo_bpm_grid": 159.0,
+    "tempo_candidates_bpm": [
+      161.5,
+      80.7,
+      152.0
+    ],
+    "beats_detected": 80,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.751,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.674,
+    "chroma_profile": [
+      0.705,
+      0.349,
+      1.0,
+      0.352,
+      0.442,
+      0.658,
+      0.403,
+      0.895,
+      0.276,
+      0.568,
+      0.245,
+      0.329
+    ],
+    "rms_dbfs": -10.56,
+    "rms_dbfs_p95_frame": -7.96,
+    "peak_dbfs": 0.41,
+    "loudness_lufs_approx": -10.47,
+    "spectral_centroid_hz_mean": 2101.8,
+    "spectral_centroid_hz_median": 1924.1,
+    "onsets": 87,
+    "onset_density_per_s": 2.901,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13132946",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 159.6,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13132946",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

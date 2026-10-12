@@ -1,0 +1,41 @@
+{
+  "id": "1997-dont-let-go-love",
+  "lyrics_kind": "synced",
+  "lrclib_id": 19631187,
+  "lines": 52,
+  "words": 405,
+  "unique_words": 105,
+  "type_token_ratio": 0.259,
+  "repeated_line_share": 0.25,
+  "distinct_lines": 39,
+  "zlib_compression_ratio": 0.266,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "don't let go",
+  "title_phrase_occurrences": 24,
+  "pronouns": {
+    "first_singular": 26,
+    "second": 22,
+    "first_plural": 6
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.39,
+  "last_line_s": 287.04,
+  "sung_time_s": 273.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 88.9,
+  "words_per_minute_track": 99.6,
+  "longest_gap_between_lines_s": 12.31,
+  "longest_gap_starts_at_s": 228.06,
+  "first_repeated_block": {
+    "first_at_s": 38.31,
+    "recurs_at_s": 100.24,
+    "lines": [
+      "Hold me tight and don't let go (don't let go)",
+      "You have the right to lose control (don't let go)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 19631187",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

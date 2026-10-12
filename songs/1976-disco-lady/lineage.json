@@ -1,0 +1,52 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/295865",
+    "title": "Disco Lady",
+    "performer": "Johnnie Taylor",
+    "is_original": true,
+    "first_release_date": "1976-01",
+    "releases": [
+      {
+        "title": "Eargasm",
+        "uri": "https://api.secondhandsongs.com/release/143030",
+        "performer": "Johnnie Taylor"
+      },
+      {
+        "title": "Disco Lady",
+        "uri": "https://api.secondhandsongs.com/release/101721",
+        "performer": "Johnnie Taylor"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 8,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/135525",
+    "title": "Disco Lady",
+    "language": "English",
+    "writers": [
+      "Don Davis [US1]",
+      "Harvey Scales",
+      "Albert Vance"
+    ],
+    "original_performer": "Johnnie Taylor",
+    "versions": 9,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Jewish Lady",
+        "uri": "https://api.secondhandsongs.com/work/214503"
+      }
+    ]
+  }
+}

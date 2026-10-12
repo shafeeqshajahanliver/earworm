@@ -1,0 +1,50 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/15814",
+    "title": "Silly Love Songs",
+    "performer": "Wings",
+    "is_original": true,
+    "first_release_date": "1976-03-25",
+    "releases": [
+      {
+        "title": "Wings at the Speed of Sound",
+        "uri": "https://api.secondhandsongs.com/release/6552",
+        "performer": "Wings"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 42,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/15814",
+    "title": "Silly Love Songs",
+    "language": "English",
+    "writers": [
+      "Linda McCartney",
+      "Paul McCartney"
+    ],
+    "original_performer": "Wings",
+    "versions": 43,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Tyhmät lemmenlaulut",
+        "uri": "https://api.secondhandsongs.com/work/147385"
+      },
+      {
+        "title": "Come Rain Come Shine",
+        "uri": "https://api.secondhandsongs.com/work/212576"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1996-youre-makin-me-high",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1267680,
+  "lines": 36,
+  "words": 337,
+  "unique_words": 96,
+  "type_token_ratio": 0.285,
+  "repeated_line_share": 0.222,
+  "distinct_lines": 28,
+  "zlib_compression_ratio": 0.297,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "you're makin me high",
+  "title_phrase_occurrences": 4,
+  "pronouns": {
+    "first_singular": 52,
+    "second": 31,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 31.48,
+  "last_line_s": 253.09,
+  "sung_time_s": 212.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 95.3,
+  "words_per_minute_track": 75.7,
+  "longest_gap_between_lines_s": 17.0,
+  "longest_gap_starts_at_s": 179.68,
+  "first_repeated_block": {
+    "first_at_s": 65.17,
+    "recurs_at_s": 127.62,
+    "lines": [
+      "You know, I want you so bad, baby, baby, baby (baby, baby, baby, baby)",
+      "Ooh, I get so high when I'm around you, baby"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1267680",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

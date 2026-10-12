@@ -1,0 +1,44 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/69116",
+    "title": "Love's Theme",
+    "performer": "Love Unlimited Orchestra",
+    "is_original": true,
+    "first_release_date": "1973-11",
+    "releases": [
+      {
+        "title": "Love's Theme",
+        "uri": "https://api.secondhandsongs.com/release/27571",
+        "performer": "Love Unlimited Orchestra"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 59,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/69116",
+    "title": "Love's Theme",
+    "language": null,
+    "writers": [
+      "Barry White"
+    ],
+    "original_performer": "Love Unlimited Orchestra",
+    "versions": 60,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Love's Theme",
+        "uri": "https://api.secondhandsongs.com/work/69117"
+      },
+      {
+        "title": "Píseň na téma lásky",
+        "uri": "https://api.secondhandsongs.com/work/296821"
+      }
+    ]
+  }
+}

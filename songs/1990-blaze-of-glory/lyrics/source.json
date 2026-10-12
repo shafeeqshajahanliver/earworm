@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 26390081,
+  "kind": "synced",
+  "matched": {
+    "track": "Blaze Of Glory",
+    "artist": "Jon Bon Jovi",
+    "album": "Blaze Of Glory Soundtrack",
+    "duration_s": 335.36
+  },
+  "duration_matched_to": "musicbrainz recording length (335s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 335.24,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 335.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 264.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 335.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 35,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37484604 (Blaze of Glory / Jon Bon Jovi / Cross Road: The Best of Bon Jovi, 344.0s): duration matches no reference length",
+    "lrclib 37167695 (Blaze Of Glory / Jon Bon Jovi / Cross Road, 345.0s): duration matches no reference length",
+    "lrclib 37103114 (Blaze of Glory / Jon Bon Jovi / Billboard Top 100 of the 90s (1990), 343.0s): duration matches no reference length",
+    "lrclib 37043451 (Blaze of Glory / Jon Bon Jovi / Greatest Hits: The Ultimate Collection, 396.0s): duration matches no reference length",
+    "lrclib 34644717 (Blaze of Glory / Jon Bon Jovi / The No. 1 Movies Album, 344.0s): duration matches no reference length",
+    "lrclib 34895227 (Blaze Of Glory / Jon Bon Jovi / Cross Road (Sound & Vision) [2CD/DVD Sound & Vision], 343.0s): duration matches no reference length",
+    "lrclib 34895228 (Blaze Of Glory / Jon Bon Jovi / Cross Road (Sound & Vision) [2CD/DVD Sound & Vision], 344.0s): duration matches no reference length",
+    "lrclib 35043304 (Blaze Of Glory / Jon Bon Jovi / Bon Jovi Greatest Hits, 231.0s): duration matches no reference length",
+    "lrclib 36280419 (Blaze of Glory / Jon Bon Jovi / Power and the Glory, 343.0s): duration matches no reference length",
+    "lrclib 23795811 (Blaze Of Glory / Jon Bon Jovi / Bon Jovi #1 Albums - Blaze Of Glory - Young Guns II, 345.773s): duration matches no reference length",
+    "lrclib 18846778 (Blaze Of Glory / Jon Bon Jovi / Blaze Of Glory, 342.0933329s): duration matches no reference length",
+    "lrclib 20674709 (Blaze of Glory / Jon Bon Jovi / Blaze of Glory, 308.1909999s): duration matches no reference length",
+    "lrclib 363186 (Blaze of Glory / Jon Bon Jovi / Blaze of Glory, 360.0s): duration matches no reference length",
+    "lrclib 9081901 (Blaze of Glory / Jon Bon Jovi / Blaze of Glory, 345.0s): duration matches no reference length",
+    "lrclib 26495110 (Blaze of Glory / Jon Bon Jovi / Blaze of Glory, 215.0s): duration matches no reference length",
+    "lrclib 26171118 (Blaze of Glory / Jon Bon Jovi / Blaze of Glory, 348.0s): duration matches no reference length",
+    "lrclib 29661916 (Blaze of Glory / Jon Bon Jovi / Blaze of Glory, 401.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

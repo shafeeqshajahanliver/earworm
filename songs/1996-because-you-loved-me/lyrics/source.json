@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37312258,
+  "kind": "synced",
+  "matched": {
+    "track": "Because You Loved Me",
+    "artist": "Céline Dion",
+    "album": "Because You Loved Me EP",
+    "duration_s": 274.0
+  },
+  "duration_matched_to": "musicbrainz recording length (274s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 274.493,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 273.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36961227 (Because You Loved Me / Céline Dion / Diana, Princess of Wales: Tribute, 276.0s): live/remix/other version",
+    "lrclib 37490818 (Because You Loved Me / Céline Dion / Divas Live, 275.0s): live/remix/other version",
+    "lrclib 37069607 (Because You Loved Me / Celine Dion / Diana - Tribute - Disc 2, 273.0s): live/remix/other version",
+    "lrclib 34638429 (Because you loved me / Celine Dion / Falling into you, 306.0s): duration matches no reference length",
+    "lrclib 19383460 (Because you loved me / Céline Dion / Because you loved me, 458.998453s): duration matches no reference length",
+    "lrclib 23349961 (Because You Loved Me / Céline Dion / Because You Loved Me, 151.644917s): duration matches no reference length",
+    "lrclib 32693122 (Because You Loved Me / Celine Dion / Celine Dion, 253.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

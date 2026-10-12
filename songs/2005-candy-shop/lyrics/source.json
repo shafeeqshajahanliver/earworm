@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37414825,
+  "kind": "synced",
+  "matched": {
+    "track": "Candy Shop",
+    "artist": "50 Cent featuring Olivia",
+    "album": "The Massacre",
+    "duration_s": 209.0
+  },
+  "duration_matched_to": "musicbrainz recording length (209s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 208.813,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 208.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 209.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 49,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34634863 (Candy Shop / 50 Cent feat. Olivia / Anthems Hip-Hop II, 248.0s): duration matches no reference length",
+    "lrclib 33449286 (Candy Shop / 50 Cent feat. Olivia / Funkymix 86, 326.0s): duration matches no reference length",
+    "lrclib 37445456 (Candy Shop / 50 Cent / The Massacre, 215.0s): duration matches no reference length",
+    "lrclib 36935082 (Candy Shop / 50 Cent / The Massacre, 193.0s): duration matches no reference length",
+    "lrclib 34369727 (Candy Shop / 50 Cent / The Massacre, 246.0s): duration matches no reference length",
+    "lrclib 34798699 (Candy Shop / 50 Cent / Get Rich or Die Tryin', 239.0s): duration matches no reference length",
+    "lrclib 33746952 (Candy shop / 50 Cent / Unplugged Live-Level 2, 101.0s): live/remix/other version",
+    "lrclib 36002539 (Candy Shop / 50 Cent / SKYBEATS, 158.0s): duration matches no reference length",
+    "lrclib 36042973 (Candy Shop / 50 Cent / Hot 97, Volume 45, 186.0s): duration matches no reference length",
+    "lrclib 36481261 (Candy Shop / 50 Cent / Best Of 50 Cent, 349.0s): duration matches no reference length",
+    "lrclib 16457682 (Candy Shop / 50 Cent / Candy Shop, 251.0s): duration matches no reference length",
+    "lrclib 27805777 (Candy Shop / 50 Cent / Candy Shop CDS, 50.0s): duration matches no reference length",
+    "lrclib 32727062 (Candy Shop / 50 Cent / Candy Shop (Single), 184.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

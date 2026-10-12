@@ -1,0 +1,74 @@
+{
+  "id": "1990-cradle-of-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 354284151,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USCH39000011",
+    "title": "Cradle Of Love",
+    "artist": "Billy Idol",
+    "album": "Charmed Life",
+    "track_duration_s": 279,
+    "link": "https://www.deezer.com/track/354284151",
+    "duration_matched_to": "musicbrainz recording length (279s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 144.0,
+    "tempo_bpm_grid": 143.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      71.8,
+      47.9
+    ],
+    "beats_detected": 71,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.673,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.619,
+    "chroma_profile": [
+      0.623,
+      0.579,
+      0.782,
+      0.854,
+      0.886,
+      0.899,
+      0.761,
+      1.0,
+      0.739,
+      0.655,
+      0.954,
+      0.616
+    ],
+    "rms_dbfs": -8.09,
+    "rms_dbfs_p95_frame": -5.69,
+    "peak_dbfs": 1.62,
+    "loudness_lufs_approx": -8.17,
+    "spectral_centroid_hz_mean": 2235.9,
+    "spectral_centroid_hz_median": 2139.1,
+    "onsets": 76,
+    "onset_density_per_s": 2.534,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 354284151",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 144.05,
+    "gain": -8.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/354284151",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 4279519902: version (Cradle Of Love (R3HAB Remix))",
+    "deezer 1896967767: version (Cradle of Love (Live in Nashville))"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1999-heartbreak-hotel",
+  "lyrics_kind": "synced",
+  "lrclib_id": 6772364,
+  "lines": 61,
+  "words": 506,
+  "unique_words": 99,
+  "type_token_ratio": 0.196,
+  "repeated_line_share": 0.607,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.193,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "heartbreak hotel",
+  "title_phrase_occurrences": 16,
+  "pronouns": {
+    "first_singular": 60,
+    "second": 56,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.27,
+  "last_line_s": 265.35,
+  "sung_time_s": 266.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 114.0,
+  "words_per_minute_track": 107.9,
+  "longest_gap_between_lines_s": 8.97,
+  "longest_gap_starts_at_s": 106.18,
+  "first_repeated_block": {
+    "first_at_s": 57.85,
+    "recurs_at_s": 129.52,
+    "lines": [
+      "Since you're not around for me",
+      "To tell you baby face to face"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 6772364",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

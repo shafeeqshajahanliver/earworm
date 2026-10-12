@@ -1,0 +1,70 @@
+{
+  "id": "1993-dreamlover",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1039125572,
+    "matched_by": "isrc",
+    "isrc": "USSM19303184",
+    "title": "Dreamlover (USA Love Dub)",
+    "artist": "Mariah Carey",
+    "album": "Dreamlover EP",
+    "track_duration_s": 430,
+    "link": "https://www.deezer.com/track/1039125572",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 121.0,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      60.1,
+      234.9
+    ],
+    "beats_detected": 61,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.485,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.428,
+    "chroma_profile": [
+      0.963,
+      0.91,
+      0.901,
+      0.931,
+      1.0,
+      0.931,
+      0.855,
+      0.992,
+      0.923,
+      0.73,
+      0.701,
+      0.824
+    ],
+    "rms_dbfs": -11.39,
+    "rms_dbfs_p95_frame": -5.34,
+    "peak_dbfs": 0.34,
+    "loudness_lufs_approx": -11.47,
+    "spectral_centroid_hz_mean": 3613.2,
+    "spectral_centroid_hz_median": 3239.4,
+    "onsets": 121,
+    "onset_density_per_s": 4.035,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1039125572",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1039125572",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

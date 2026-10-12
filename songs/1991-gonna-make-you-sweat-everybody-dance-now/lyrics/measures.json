@@ -1,0 +1,41 @@
+{
+  "id": "1991-gonna-make-you-sweat-everybody-dance-now",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1021259,
+  "lines": 64,
+  "words": 346,
+  "unique_words": 130,
+  "type_token_ratio": 0.376,
+  "repeated_line_share": 0.312,
+  "distinct_lines": 44,
+  "zlib_compression_ratio": 0.365,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "gonna make you sweat",
+  "title_phrase_occurrences": 1,
+  "pronouns": {
+    "first_singular": 15,
+    "second": 16,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.06,
+  "last_line_s": 220.12,
+  "sung_time_s": 205.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 101.0,
+  "words_per_minute_track": 84.4,
+  "longest_gap_between_lines_s": 17.11,
+  "longest_gap_starts_at_s": 154.54,
+  "first_repeated_block": {
+    "first_at_s": 31.8,
+    "recurs_at_s": 42.11,
+    "lines": [
+      "Everybody Dance Now ...",
+      "Yeah ... Yeah ... Yeah"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1021259",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

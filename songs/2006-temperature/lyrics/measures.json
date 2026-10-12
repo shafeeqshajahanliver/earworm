@@ -1,0 +1,41 @@
+{
+  "id": "2006-temperature",
+  "lyrics_kind": "synced",
+  "lrclib_id": 18086493,
+  "lines": 62,
+  "words": 703,
+  "unique_words": 162,
+  "type_token_ratio": 0.23,
+  "repeated_line_share": 0.403,
+  "distinct_lines": 37,
+  "zlib_compression_ratio": 0.251,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "temperature",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 43,
+    "second": 53,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.29,
+  "last_line_s": 195.92,
+  "sung_time_s": 195.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 216.0,
+  "words_per_minute_track": 193.8,
+  "longest_gap_between_lines_s": 8.18,
+  "longest_gap_starts_at_s": 180.17,
+  "first_repeated_block": {
+    "first_at_s": 15.08,
+    "recurs_at_s": 45.88,
+    "lines": [
+      "Well, woman the way the time cold, I wanna be keepin' you warm",
+      "I got the right temperature fi shelter you from the storm"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 18086493",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

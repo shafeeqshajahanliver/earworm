@@ -1,0 +1,66 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37276573,
+  "kind": "synced",
+  "matched": {
+    "track": "Umbrella",
+    "artist": "Rihanna Feat․ JAY-Z",
+    "album": "Now That's What I Call Music! 67",
+    "duration_s": 256.0
+  },
+  "duration_matched_to": "musicbrainz recording length (255s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 255.493,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 256.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 257.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 276.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 35,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 15186068 (Umbrella (The Lindbergh Palace Remix) / Rihanna featuring Jay-Z / Umbrella (The Lindbergh Palace Remix) - Single, 473.0s): live/remix/other version",
+    "lrclib 15990293 (Umbrella (Seamus Haji & Paul Emanuel Club Remix) / Rihanna featuring Jay-Z / Umbrella (Seamus Haji & Paul Emanuel Club Remix) - Single, 394.692789s): live/remix/other version",
+    "lrclib 16257525 (Umbrella (The Lindbergh Palace Remix) [feat. Jay-Z] / Rihanna featuring Jay-Z / Umbrella (The Lindbergh Palace Mix) - Single, 474.615873s): live/remix/other version",
+    "lrclib 14046164 (Umbrella (feat. JAY-Z) [Seamus Haji & Paul Emanuel Club Remix] / Rihanna featuring Jay-Z / Umbrella (Seamus Haji & Paul Emanuel Club Remix) - Single [feat. JAY-Z] - Single, 395.0s): live/remix/other version",
+    "lrclib 36899219 (Umbrella / Rihanna / Good Girl Gone Bad: Reloaded, 268.0s): duration matches no reference length",
+    "lrclib 37528294 (Umbrella / Rihanna / Good Girl Gone Bad: Reloaded, 363.0s): duration matches no reference length",
+    "lrclib 37483066 (umbrella / Rihanna / Hot Wet & Sexy CD1, 226.0s): duration matches no reference length",
+    "lrclib 37278812 (Umbrella / Rihanna / Good Girl Gone Bad: Reloaded, 234.0s): duration matches no reference length",
+    "lrclib 36874104 (Umbrella / Rihanna / Good Girl Gone Bad, 233.0s): duration matches no reference length",
+    "lrclib 34358864 (Umbrella / Rihanna / Good Girl Gone Bad: Reloaded, 30.0s): duration matches no reference length",
+    "lrclib 34689160 (Umbrella / Rihanna / Good Girl Gone Bad, 227.0s): duration matches no reference length",
+    "lrclib 34365190 (Umbrella / Rihanna / Good Girl Gone Bad: Reloaded, 228.0s): duration matches no reference length",
+    "lrclib 37479990 (Umbrella / Rihanna feat. JAY‐Z / Good Girl Gone Bad, 239.0s): duration matches no reference length",
+    "lrclib 37095233 (Umbrella / Rihanna Feat. Jay-Z / MuchDance 2008, 238.0s): duration matches no reference length",
+    "lrclib 37052692 (Umbrella / Rihanna Feat. Jay-Z / Mastermix - Dj Edits Rnb 1, 172.0s): duration matches no reference length",
+    "lrclib 35168056 (Umbrella / Rihanna feat. JAY‐Z / Good Girl Gone Bad, 387.0s): duration matches no reference length",
+    "lrclib 33380531 (Umbrella / Rihanna feat. JAY-Z / Good Girl Gone Bad: The Remixes, 238.0s): live/remix/other version",
+    "lrclib 35928653 (Umbrella / Rihanna feat. Jay‐Z / Now That’s What I Call a Number One, 246.0s): duration matches no reference length",
+    "lrclib 36338508 (Umbrella / Rihanna / Umbrella, 263.0s): duration matches no reference length",
+    "lrclib 24662994 (Umbrella / Rihanna / Umbrella, 223.584943s): duration matches no reference length",
+    "lrclib 29185361 (Umbrella / Rihanna / Umbrella, 268.0s): duration matches no reference length",
+    "lrclib 32163742 (Umbrella / Rihanna / Umbrella, 214.0s): duration matches no reference length",
+    "lrclib 38895837 (Umbrella / Rihanna / Umbrella, 308.0s): duration matches no reference length",
+    "lrclib 20312059 (Umbrella / Rihanna / Umbrella (Remixes), 476.0s): live/remix/other version",
+    "lrclib 20299511 (Umbrella / Rihanna / Umbrella (Remixes), 264.7600128s): live/remix/other version",
+    "lrclib 20279040 (Umbrella / Rihanna / Umbrella (Remixes), 264.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2007-buy-u-a-drank-shawty-snappin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 87675701,
+    "matched_by": "isrc",
+    "isrc": "USJI10700121",
+    "title": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
+    "artist": "T-Pain",
+    "album": "Happy Hour: The Greatest Hits",
+    "track_duration_s": 229,
+    "link": "https://www.deezer.com/track/87675701",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 160.0,
+    "tempo_bpm_grid": 159.0,
+    "tempo_candidates_bpm": [
+      161.5,
+      80.7,
+      53.8
+    ],
+    "beats_detected": 79,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.392,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.273,
+    "chroma_profile": [
+      0.335,
+      0.418,
+      0.598,
+      0.7,
+      0.625,
+      0.934,
+      1.0,
+      0.545,
+      0.433,
+      0.342,
+      0.361,
+      0.263
+    ],
+    "rms_dbfs": -7.49,
+    "rms_dbfs_p95_frame": -4.13,
+    "peak_dbfs": 0.45,
+    "loudness_lufs_approx": -10.21,
+    "spectral_centroid_hz_mean": 2514.4,
+    "spectral_centroid_hz_median": 2515.3,
+    "onsets": 108,
+    "onset_density_per_s": 3.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 87675701",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.2,
+    "gain": -10.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/87675701",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

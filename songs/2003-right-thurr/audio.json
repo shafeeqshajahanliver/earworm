@@ -1,0 +1,80 @@
+{
+  "id": "2003-right-thurr",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3112414,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USCA20300283",
+    "title": "Right Thurr",
+    "artist": "Chingy",
+    "album": "Jackpot",
+    "track_duration_s": 250,
+    "link": "https://www.deezer.com/track/3112414",
+    "duration_matched_to": "wikipedia infobox length (250s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 92.2,
+    "tempo_bpm_grid": 92.3,
+    "tempo_candidates_bpm": [
+      92.3,
+      184.6,
+      46.1
+    ],
+    "beats_detected": 44,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.334,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.226,
+    "chroma_profile": [
+      0.369,
+      0.409,
+      0.718,
+      0.475,
+      0.501,
+      0.608,
+      0.619,
+      0.734,
+      1.0,
+      0.714,
+      0.45,
+      0.378
+    ],
+    "rms_dbfs": -8.47,
+    "rms_dbfs_p95_frame": -3.54,
+    "peak_dbfs": 0.97,
+    "loudness_lufs_approx": -9.25,
+    "spectral_centroid_hz_mean": 2574.7,
+    "spectral_centroid_hz_median": 2504.7,
+    "onsets": 141,
+    "onset_density_per_s": 4.702,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3112414",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 184.6,
+    "gain": -9.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3112414",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (184.6): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USCA20300292: version: Right Thurr (Radio Version)",
+    "deezer isrc USPO10300003: matched but no preview available (readable=False)",
+    "deezer 3112427: version (Right Thurr (Remix/Explicit))",
+    "deezer 3416726: version (Right Thurr (Live At Sessions@AOL))",
+    "deezer 8060634: version (Right Thurr (Karaoke Version))",
+    "deezer 3112712: duration 335s matches no reference length"
+  ]
+}

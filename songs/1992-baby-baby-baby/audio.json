@@ -1,0 +1,73 @@
+{
+  "id": "1992-baby-baby-baby",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1076496,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USLF29200128",
+    "title": "Baby-Baby-Baby",
+    "artist": "TLC",
+    "album": "Ooooooohhh... On The TLC Tip",
+    "track_duration_s": 315,
+    "link": "https://www.deezer.com/track/1076496",
+    "duration_matched_to": "wikipedia infobox length (312s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 92.1,
+    "tempo_bpm_grid": 92.3,
+    "tempo_candidates_bpm": [
+      92.3,
+      46.1,
+      184.6
+    ],
+    "beats_detected": 45,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.347,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.307,
+    "chroma_profile": [
+      0.461,
+      0.561,
+      0.461,
+      0.506,
+      0.947,
+      1.0,
+      0.611,
+      0.474,
+      0.446,
+      0.548,
+      0.397,
+      0.564
+    ],
+    "rms_dbfs": -15.68,
+    "rms_dbfs_p95_frame": -12.1,
+    "peak_dbfs": 1.44,
+    "loudness_lufs_approx": -15.93,
+    "spectral_centroid_hz_mean": 3359.6,
+    "spectral_centroid_hz_median": 3413.8,
+    "onsets": 102,
+    "onset_density_per_s": 3.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1076496",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 92.1,
+    "gain": -15.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1076496",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 74506447: duration 245s matches no reference length"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1992-save-the-best-for-last",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1121716,
+    "matched_by": "isrc",
+    "isrc": "USPG19190052",
+    "title": "Save The Best For Last",
+    "artist": "Vanessa Williams",
+    "album": "Love Songs",
+    "track_duration_s": 219,
+    "link": "https://www.deezer.com/track/1121716",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 96.4,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      184.6,
+      198.8,
+      95.7
+    ],
+    "beats_detected": 49,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.862,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.645,
+    "chroma_profile": [
+      0.732,
+      0.297,
+      0.493,
+      0.765,
+      0.277,
+      0.595,
+      0.286,
+      0.717,
+      0.858,
+      0.31,
+      1.0,
+      0.294
+    ],
+    "rms_dbfs": -17.56,
+    "rms_dbfs_p95_frame": -14.19,
+    "peak_dbfs": -3.14,
+    "loudness_lufs_approx": -16.56,
+    "spectral_centroid_hz_mean": 2349.7,
+    "spectral_centroid_hz_median": 2107.4,
+    "onsets": 42,
+    "onset_density_per_s": 1.401,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1121716",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95.9,
+    "gain": -16.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1121716",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

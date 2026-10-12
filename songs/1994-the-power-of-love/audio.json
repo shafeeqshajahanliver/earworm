@@ -1,0 +1,70 @@
+{
+  "id": "1994-the-power-of-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 14552287,
+    "matched_by": "isrc",
+    "isrc": "CAC229900141",
+    "title": "The Power of Love (Radio Edit)",
+    "artist": "Céline Dion",
+    "album": "My Love Essential Collection",
+    "track_duration_s": 287,
+    "link": "https://www.deezer.com/track/14552287",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 140.0,
+    "tempo_bpm_grid": 139.7,
+    "tempo_candidates_bpm": [
+      143.6,
+      136.0,
+      69.8
+    ],
+    "beats_detected": 66,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.844,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.656,
+    "chroma_profile": [
+      0.843,
+      0.832,
+      0.574,
+      0.885,
+      0.462,
+      0.767,
+      0.362,
+      0.534,
+      0.982,
+      0.506,
+      1.0,
+      0.495
+    ],
+    "rms_dbfs": -11.17,
+    "rms_dbfs_p95_frame": -6.97,
+    "peak_dbfs": 0.58,
+    "loudness_lufs_approx": -10.03,
+    "spectral_centroid_hz_mean": 2331.3,
+    "spectral_centroid_hz_median": 2311.2,
+    "onsets": 93,
+    "onset_density_per_s": 3.101,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 14552287",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 140.2,
+    "gain": -9.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/14552287",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

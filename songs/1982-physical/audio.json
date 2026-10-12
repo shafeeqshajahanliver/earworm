@@ -1,0 +1,75 @@
+{
+  "id": "1982-physical",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3837084801,
+    "matched_by": "isrc",
+    "isrc": "US86A2100406",
+    "title": "Physical (Remastered 2021)",
+    "artist": "Olivia Newton-John",
+    "album": "Physical (Remastered 2021)",
+    "track_duration_s": 225,
+    "link": "https://www.deezer.com/track/3837084801",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.2,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      61.5,
+      83.4
+    ],
+    "beats_detected": 63,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.645,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.563,
+    "chroma_profile": [
+      0.892,
+      0.689,
+      0.95,
+      0.888,
+      1.0,
+      0.614,
+      0.618,
+      0.839,
+      0.657,
+      0.617,
+      0.545,
+      0.771
+    ],
+    "rms_dbfs": -11.48,
+    "rms_dbfs_p95_frame": -7.98,
+    "peak_dbfs": 0.71,
+    "loudness_lufs_approx": -10.91,
+    "spectral_centroid_hz_mean": 1975.7,
+    "spectral_centroid_hz_median": 1960.8,
+    "onsets": 108,
+    "onset_density_per_s": 3.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3837084801",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -11.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3837084801",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc AUFE08100018: matched but no preview available (readable=False)",
+    "deezer isrc AUFE09800744: matched but no preview available (readable=False)",
+    "deezer isrc USCK30700911: matched but no preview available (readable=False)",
+    "deezer isrc USMC18112103: matched but no preview available (readable=False)"
+  ]
+}

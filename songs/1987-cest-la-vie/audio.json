@@ -1,0 +1,70 @@
+{
+  "id": "1987-cest-la-vie",
+  "preview": {
+    "service": "deezer",
+    "track_id": 102186066,
+    "matched_by": "isrc",
+    "isrc": "USEM38900136",
+    "title": "C'est La Vie",
+    "artist": "Robbie Nevil",
+    "album": "20 #1's: 80's Club Classics",
+    "track_duration_s": 208,
+    "link": "https://www.deezer.com/track/102186066",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.0,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      103.4,
+      198.8,
+      68.0
+    ],
+    "beats_detected": 50,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.774,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.61,
+    "chroma_profile": [
+      0.885,
+      0.796,
+      0.916,
+      0.728,
+      0.849,
+      0.848,
+      0.807,
+      0.895,
+      0.861,
+      1.0,
+      0.811,
+      0.824
+    ],
+    "rms_dbfs": -11.4,
+    "rms_dbfs_p95_frame": -8.52,
+    "peak_dbfs": 0.97,
+    "loudness_lufs_approx": -10.11,
+    "spectral_centroid_hz_mean": 3288.6,
+    "spectral_centroid_hz_median": 3269.3,
+    "onsets": 95,
+    "onset_density_per_s": 3.168,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 102186066",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 102.08,
+    "gain": -10.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/102186066",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

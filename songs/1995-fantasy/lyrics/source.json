@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34441597,
+  "kind": "synced",
+  "matched": {
+    "track": "Fantasy",
+    "artist": "Mariah Carey",
+    "album": "Fantasy  (single) [HD]",
+    "duration_s": 293.0
+  },
+  "duration_matched_to": "musicbrainz recording length (293s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 292.973,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 293.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 244.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 40,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37131202 (Fantasy / Mariah Carey feat. O.D.B. / No.1s, 284.0s): duration matches no reference length",
+    "lrclib 29705128 (Fantasy / Mariah Carey feat. O.D.B. / #1’s, 282.0s): duration matches no reference length",
+    "lrclib 30255150 (Fantasy / Mariah Carey feat. O.D.B. / The Trevor Nelson Collection, 285.0s): duration matches no reference length",
+    "lrclib 32299819 (Fantasy / Mariah Carey feat․ O․D․B․ / The Remixes, 290.0s): live/remix/other version",
+    "lrclib 33151303 (Fantasy / Mariah Carey feat. O.D.B. / The Remixes, 288.0s): live/remix/other version",
+    "lrclib 16841267 (Fantasy / Mariah Carey feat. O.D.B. / The Remixes, 292.0s): live/remix/other version",
+    "lrclib 38817782 (Fantasy / Mariah Carey feat. O.D.B. / The Remixes [Clean], 291.0s): live/remix/other version",
+    "lrclib 4832397 (Fantasy (remix) / Mariah Carey feat. O.D.B. / Good times RnB, 285.0s): live/remix/other version",
+    "lrclib 37170865 (Fantasy / Mariah Carey / Daydream, 259.0s): duration matches no reference length",
+    "lrclib 37195415 (Fantasy / Mariah Carey / 1995 - Top 100, 282.0s): duration matches no reference length",
+    "lrclib 37088803 (Fantasy / Mariah Carey / Daydream, 676.0s): duration matches no reference length",
+    "lrclib 34607637 (Fantasy / Mariah Carey / null, 203.0s): duration matches no reference length",
+    "lrclib 34749823 (Fantasy / Mariah Carey / Singles, 281.0s): duration matches no reference length",
+    "lrclib 35570953 (Fantasy / Mariah Carey / Mariah Carey Greatest Hits, 229.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

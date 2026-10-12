@@ -1,0 +1,80 @@
+{
+  "id": "1990-vogue",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1041827532,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USWB10300196",
+    "title": "Vogue (Bette Davis Dub)",
+    "artist": "Madonna",
+    "album": "Vogue",
+    "track_duration_s": 448,
+    "link": "https://www.deezer.com/track/1041827532",
+    "duration_matched_to": "musicbrainz recording length (446s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 30.01,
+    "tempo_bpm": 116.3,
+    "tempo_bpm_grid": 116.1,
+    "tempo_candidates_bpm": [
+      234.9,
+      117.5,
+      78.3
+    ],
+    "beats_detected": 59,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.393,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.392,
+    "chroma_profile": [
+      0.407,
+      0.63,
+      0.585,
+      0.767,
+      0.657,
+      0.536,
+      1.0,
+      0.917,
+      0.779,
+      0.549,
+      0.632,
+      0.462
+    ],
+    "rms_dbfs": -14.82,
+    "rms_dbfs_p95_frame": -11.73,
+    "peak_dbfs": -1.58,
+    "loudness_lufs_approx": -15.24,
+    "spectral_centroid_hz_mean": 3378.9,
+    "spectral_centroid_hz_median": 3388.0,
+    "onsets": 160,
+    "onset_density_per_s": 5.331,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1041827532",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -16.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1041827532",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb minor and F# major"
+  ],
+  "rejected_candidates": [
+    "deezer 1041827522: version (Vogue (12\" Version))",
+    "deezer 3723483012: version (Vogue (MDNA World Tour / Live 2012))",
+    "deezer 1516217632: version (Vogue (Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020))",
+    "deezer 1041827542: duration 456s matches no reference length",
+    "deezer 139633177: duration 348s matches no reference length",
+    "deezer 2647929712: version (Vogue (Live))"
+  ]
+}

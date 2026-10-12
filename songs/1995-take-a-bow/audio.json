@@ -1,0 +1,70 @@
+{
+  "id": "1995-take-a-bow",
+  "preview": {
+    "service": "deezer",
+    "track_id": 775674,
+    "matched_by": "isrc",
+    "isrc": "USWB19400272",
+    "title": "Take a Bow",
+    "artist": "Madonna",
+    "album": "Bedtime Stories",
+    "track_duration_s": 321,
+    "link": "https://www.deezer.com/track/775674",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 80.0,
+    "tempo_bpm_grid": 80.1,
+    "tempo_candidates_bpm": [
+      80.7,
+      161.5,
+      53.8
+    ],
+    "beats_detected": 40,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.661,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.557,
+    "chroma_profile": [
+      0.835,
+      0.889,
+      0.863,
+      0.812,
+      0.658,
+      0.603,
+      0.778,
+      0.491,
+      1.0,
+      0.505,
+      0.6,
+      0.532
+    ],
+    "rms_dbfs": -11.4,
+    "rms_dbfs_p95_frame": -7.87,
+    "peak_dbfs": 1.27,
+    "loudness_lufs_approx": -11.95,
+    "spectral_centroid_hz_mean": 2282.7,
+    "spectral_centroid_hz_median": 2170.9,
+    "onsets": 80,
+    "onset_density_per_s": 2.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 775674",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 80,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/775674",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

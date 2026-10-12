@@ -1,0 +1,57 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/158780",
+    "title": "Shadow Dancing",
+    "performer": "Andy Gibb",
+    "is_original": true,
+    "first_release_date": "1978-04",
+    "releases": [
+      {
+        "title": "Shadow Dancing",
+        "uri": "https://api.secondhandsongs.com/release/59908",
+        "performer": "Andy Gibb"
+      },
+      {
+        "title": "Shadow Dancing",
+        "uri": "https://api.secondhandsongs.com/release/117753",
+        "performer": "Andy Gibb"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 16,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/118208",
+    "title": "Shadow Dancing",
+    "language": "English",
+    "writers": [
+      "Andy Gibb",
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ],
+    "original_performer": "Andy Gibb",
+    "versions": 17,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Anna aikaa",
+        "uri": "https://api.secondhandsongs.com/work/118209"
+      },
+      {
+        "title": "Som en skugga",
+        "uri": "https://api.secondhandsongs.com/work/169438"
+      }
+    ]
+  }
+}

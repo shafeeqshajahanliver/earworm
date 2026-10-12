@@ -1,0 +1,76 @@
+{
+  "id": "2006-ridin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1172093,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USUM70503088",
+    "title": "Ridin'",
+    "artist": "Chamillionaire",
+    "album": "The Sound of Revenge",
+    "track_duration_s": 303,
+    "link": "https://www.deezer.com/track/1172093",
+    "duration_matched_to": "wikipedia infobox length (302s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.7,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      95.7,
+      71.8,
+      143.6
+    ],
+    "beats_detected": 53,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.498,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.489,
+    "chroma_profile": [
+      0.711,
+      0.662,
+      0.72,
+      0.819,
+      0.708,
+      0.697,
+      0.807,
+      0.831,
+      1.0,
+      0.853,
+      0.931,
+      0.76
+    ],
+    "rms_dbfs": -7.81,
+    "rms_dbfs_p95_frame": -2.46,
+    "peak_dbfs": 1.82,
+    "loudness_lufs_approx": -9.06,
+    "spectral_centroid_hz_mean": 2648.0,
+    "spectral_centroid_hz_median": 2310.7,
+    "onsets": 149,
+    "onset_density_per_s": 4.969,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1172093",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 143.06,
+    "gain": -9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1172093",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (143.1) by 33%",
+    "key is close between Ab minor and Eb major"
+  ],
+  "rejected_candidates": [
+    "deezer 1760900247: duration 291s matches no reference length"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2007-umbrella",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1171629,
+    "matched_by": "isrc",
+    "isrc": "USUM70731242",
+    "title": "Umbrella (Radio Edit)",
+    "artist": "Rihanna",
+    "album": "Umbrella",
+    "track_duration_s": 256,
+    "link": "https://www.deezer.com/track/1171629",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 119.7,
+    "tempo_bpm_grid": 116.1,
+    "tempo_candidates_bpm": [
+      172.3,
+      86.1,
+      117.5
+    ],
+    "beats_detected": 57,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.419,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.402,
+    "chroma_profile": [
+      0.612,
+      0.752,
+      0.589,
+      0.742,
+      0.648,
+      0.654,
+      0.79,
+      1.0,
+      0.937,
+      0.653,
+      0.723,
+      0.473
+    ],
+    "rms_dbfs": -8.45,
+    "rms_dbfs_p95_frame": -3.5,
+    "peak_dbfs": 1.54,
+    "loudness_lufs_approx": -8.61,
+    "spectral_centroid_hz_mean": 3041.0,
+    "spectral_centroid_hz_median": 3022.0,
+    "onsets": 126,
+    "onset_density_per_s": 4.202,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1171629",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 173.7,
+    "gain": -8.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1171629",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (173.7) by 31%",
+    "key is close between Ab major and C# major"
+  ],
+  "rejected_candidates": []
+}

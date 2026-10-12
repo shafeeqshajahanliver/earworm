@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 34980558,
+  "kind": "synced",
+  "matched": {
+    "track": "On Bended Knee",
+    "artist": "Boyz II Men",
+    "album": "II∶ Yo Te Voy A Amar",
+    "duration_s": 330.0
+  },
+  "duration_matched_to": "musicbrainz recording length (330s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 330.16,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 330.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 329.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34421442 (On Bended Knee / Boyz II Men / II, 262.0s): duration matches no reference length",
+    "lrclib 33985958 (On Bended Knee / Boyz II Men / On Bended Knee, 275.0s): duration matches no reference length",
+    "lrclib 18186962 (On Bended Knee (Instrumental) / Boyz II Men / On Bended Knee, 332.115011s): live/remix/other version",
+    "lrclib 5645721 (On Bended Knee (Human Rhythm remix) / Boyz II Men / On Bended Knee, 329.0s): live/remix/other version",
+    "lrclib 24126765 (On Bended Knee (Pop Edit (Single Version)) / Boyz II Men / On Bended Knee, 275.0s): duration matches no reference length",
+    "lrclib 23394670 (On Bended Knee / Boyz II Men / Boyz II Men Songs, 353.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

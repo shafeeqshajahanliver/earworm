@@ -1,0 +1,75 @@
+{
+  "id": "1994-stay-i-missed-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 393731742,
+    "matched_by": "isrc",
+    "isrc": "USGF19573414",
+    "title": "Stay (I Missed You)",
+    "artist": "Lisa Loeb",
+    "album": "Stay (I Missed You)",
+    "track_duration_s": 184,
+    "link": "https://www.deezer.com/track/393731742",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 160.6,
+    "tempo_bpm_grid": 161.5,
+    "tempo_candidates_bpm": [
+      80.7,
+      161.5,
+      53.8
+    ],
+    "beats_detected": 79,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.96,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.658,
+    "chroma_profile": [
+      0.47,
+      1.0,
+      0.47,
+      0.703,
+      0.532,
+      0.747,
+      0.744,
+      0.475,
+      0.792,
+      0.488,
+      0.658,
+      0.381
+    ],
+    "rms_dbfs": -12.41,
+    "rms_dbfs_p95_frame": -7.99,
+    "peak_dbfs": 0.71,
+    "loudness_lufs_approx": -12.33,
+    "spectral_centroid_hz_mean": 2227.4,
+    "spectral_centroid_hz_median": 2153.8,
+    "onsets": 116,
+    "onset_density_per_s": 3.868,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 393731742",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.87,
+    "gain": -11.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/393731742",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USCST0500015: title/artist mismatch: Going Away / Lisa Loeb",
+    "deezer isrc USBMG0700647: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1986-on-my-own",
+  "preview": {
+    "service": "deezer",
+    "track_id": 25856691,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMC18618950",
+    "title": "On My Own",
+    "artist": "Patti LaBelle",
+    "album": "Winner In You",
+    "track_duration_s": 290,
+    "link": "https://www.deezer.com/track/25856691",
+    "duration_matched_to": "wikipedia infobox length (290s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 92.1,
+    "tempo_bpm_grid": 92.3,
+    "tempo_candidates_bpm": [
+      92.3,
+      46.1,
+      184.6
+    ],
+    "beats_detected": 45,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.821,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.674,
+    "chroma_profile": [
+      1.0,
+      0.597,
+      0.642,
+      0.481,
+      0.527,
+      0.728,
+      0.401,
+      0.659,
+      0.354,
+      0.505,
+      0.417,
+      0.366
+    ],
+    "rms_dbfs": -19.07,
+    "rms_dbfs_p95_frame": -15.21,
+    "peak_dbfs": -3.23,
+    "loudness_lufs_approx": -19.48,
+    "spectral_centroid_hz_mean": 1983.7,
+    "spectral_centroid_hz_median": 1947.8,
+    "onsets": 93,
+    "onset_density_per_s": 3.101,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 25856691",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -16.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/25856691",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 597451842: duration 283s matches no reference length"
+  ]
+}

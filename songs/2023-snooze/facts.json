@@ -1,0 +1,172 @@
+{
+  "id": "2023-snooze",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Snooze (SZA song)",
+  "wikidata": {
+    "qid": "Q117842122",
+    "label": "Snooze",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q16210722",
+          "label": "SZA"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q16210722",
+          "label": "SZA"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q344983",
+          "label": "Babyface"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q202585",
+          "label": "RCA Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2023-04-25"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q850412",
+          "label": "contemporary R&B"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q115271946",
+          "label": "SOS"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "182",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q115706733",
+          "label": "Kill Bill"
+        }
+      ],
+      "musicbrainz_release_group_id": [
+        "14cb0ff3-0b86-46d4-a907-b2764ce39b2b"
+      ],
+      "genius_song_id": [
+        "Sza-snooze-lyrics"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 14cb0ff3-0b86-46d4-a907-b2764ce39b2b (2023-08-25)",
+  "musicbrainz": {
+    "recording_id": "48b334f4-2c05-429a-bc03-dadef309185b",
+    "title": "Snooze",
+    "length_ms": 280000,
+    "first_release_date": "2023-08-25",
+    "artist_credit": "SZA",
+    "artists": [
+      {
+        "name": "SZA",
+        "mbid": "272989c8-5535-492d-a25c-9f58803e027f"
+      }
+    ],
+    "isrcs": [
+      "USRV82301074"
+    ],
+    "recording_credits": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=LDY_XyxBu8A"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/music-video/1704240876"
+      }
+    ],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "1f0081a3-a438-4786-a0b0-8f553653b209",
+        "title": "Snooze",
+        "date": "2023-08-25",
+        "country": null,
+        "status": "Official",
+        "release_group": "14cb0ff3-0b86-46d4-a907-b2764ce39b2b",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "c5bc6e32-5e00-4701-8bb3-89aaba774fc9",
+      "title": "Snooze",
+      "iswcs": [
+        "T-315.294.615-7"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Babyface",
+          "mbid": "7fa62c0b-2c74-491e-a2a1-17c3b043f326"
+        },
+        {
+          "role": "writer",
+          "name": "Blair Ferguson",
+          "mbid": "3208d3ea-f036-45f3-876d-5c7f6e0cd096"
+        },
+        {
+          "role": "writer",
+          "name": "Khristopher Riddick‐Tynes",
+          "mbid": "710d8ffa-749f-41e8-8eb7-5f82b28e13f1"
+        },
+        {
+          "role": "writer",
+          "name": "SZA",
+          "mbid": "272989c8-5535-492d-a25c-9f58803e027f"
+        },
+        {
+          "role": "writer",
+          "name": "Leon Thomas",
+          "mbid": "412ff65d-26bf-4849-ba19-d2a58030fd1a"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/289662"
+      ]
+    },
+    "main_artist": {
+      "name": "SZA",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "St. Louis"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

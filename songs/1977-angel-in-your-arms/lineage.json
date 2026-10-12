@@ -1,0 +1,51 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/266762",
+    "title": "Angel in Your Arms",
+    "performer": "Hot",
+    "is_original": true,
+    "first_release_date": "1976-12",
+    "releases": [
+      {
+        "title": "Angel in Your Arms",
+        "uri": "https://api.secondhandsongs.com/release/93305",
+        "performer": "Hot"
+      },
+      {
+        "title": "Hot",
+        "uri": "https://api.secondhandsongs.com/release/175559",
+        "performer": "Hot"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 12,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/132039",
+    "title": "Angel in Your Arms",
+    "language": "English",
+    "writers": [
+      "Tom Brasfield",
+      "Clayton Ivey",
+      "Terry Woodford"
+    ],
+    "original_performer": "Hot",
+    "versions": 13,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Alä kysy kuka on sylissäin",
+        "uri": "https://api.secondhandsongs.com/work/132042"
+      },
+      {
+        "title": "Svala läppar",
+        "uri": "https://api.secondhandsongs.com/work/220523"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2000-say-my-name",
+  "lyrics_kind": "synced",
+  "lrclib_id": 161721,
+  "lines": 109,
+  "words": 805,
+  "unique_words": 150,
+  "type_token_ratio": 0.186,
+  "repeated_line_share": 0.615,
+  "distinct_lines": 42,
+  "zlib_compression_ratio": 0.2,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "say my name",
+  "title_phrase_occurrences": 46,
+  "pronouns": {
+    "first_singular": 96,
+    "second": 79,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.98,
+  "last_line_s": 264.82,
+  "sung_time_s": 264.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 182.8,
+  "words_per_minute_track": 179.2,
+  "longest_gap_between_lines_s": 4.48,
+  "longest_gap_starts_at_s": 189.08,
+  "first_repeated_block": {
+    "first_at_s": 1.98,
+    "recurs_at_s": 15.6,
+    "lines": [
+      "Say my name, say my name",
+      "If no one is around you, say, \"Baby I love you\""
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 161721",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1982-hard-to-say-im-sorry",
+  "lyrics_kind": "synced",
+  "lrclib_id": 25454445,
+  "lines": 29,
+  "words": 192,
+  "unique_words": 73,
+  "type_token_ratio": 0.38,
+  "repeated_line_share": 0.31,
+  "distinct_lines": 20,
+  "zlib_compression_ratio": 0.36,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "hard to say i'm sorry",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 24,
+    "second": 11,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 19.91,
+  "last_line_s": 202.36,
+  "sung_time_s": 165.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 69.8,
+  "words_per_minute_track": 51.9,
+  "longest_gap_between_lines_s": 27.55,
+  "longest_gap_starts_at_s": 174.81,
+  "first_repeated_block": {
+    "first_at_s": 45.84,
+    "recurs_at_s": 115.53,
+    "lines": [
+      "Hold me now",
+      "It's hard for me to say I'm sorry"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 25454445",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

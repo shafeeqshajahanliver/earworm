@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3842348,
+  "kind": "synced",
+  "matched": {
+    "track": "Shake You Down",
+    "artist": "Gregory Abbott",
+    "album": "Shake You Down",
+    "duration_s": 245.0
+  },
+  "duration_matched_to": "musicbrainz recording length (245s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 244.84,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 245.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 245.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37500672 (Shake You Down / Gregory Abbott / The Most Beautiful Soul Album On Earth CD2, 238.0s): duration matches no reference length",
+    "lrclib 37265229 (Shake You Down / Gregory Abbott / Classic Rare Hits Of The 80's, CD2, 238.0s): duration matches no reference length",
+    "lrclib 29009562 (Shake You Down / Gregory Abbott / Shake You Down, 356.0s): duration matches no reference length",
+    "lrclib 25928776 (Shake You Down / Gregory Abbott / Shake You Down, 239.232575s): duration matches no reference length",
+    "lrclib 32662485 (Shake You Down / Gregory Abbott / Shake You Down, 212.0s): duration matches no reference length",
+    "lrclib 35940778 (Shake You Down / Gregory Abbott / Shake You Down (Expanded Edition), 80.0s): duration matches no reference length",
+    "lrclib 35940799 (Shake You Down / Gregory Abbott / Shake You Down (Expanded Edition), 220.0s): duration matches no reference length",
+    "lrclib 33649968 (Shake You Down (extended club mix) / Gregory Abbott / Shake You Down, 356.0s): live/remix/other version",
+    "lrclib 25592915 (Shake You Down (extended club mix) / Gregory Abbott / Shake You Down, 358.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

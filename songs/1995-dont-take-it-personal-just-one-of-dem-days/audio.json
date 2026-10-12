@@ -1,0 +1,79 @@
+{
+  "id": "1995-dont-take-it-personal-just-one-of-dem-days",
+  "preview": {
+    "service": "deezer",
+    "track_id": 407499782,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "DEA819500734",
+    "title": "Don't Take It Personal (Just One Of Dem Days) (Acappella)",
+    "artist": "Monica",
+    "album": "Don't Take It Personal (Just One Of Dem Days)",
+    "track_duration_s": 280,
+    "link": "https://www.deezer.com/track/407499782",
+    "duration_matched_to": "musicbrainz recording length (280s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 180.0,
+    "tempo_bpm_grid": 178.2,
+    "tempo_candidates_bpm": [
+      172.3,
+      184.6,
+      198.8
+    ],
+    "beats_detected": 90,
+    "key": "F# major",
+    "key_tonic": "F#",
+    "key_mode": "major",
+    "key_correlation": 0.486,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.444,
+    "chroma_profile": [
+      0.794,
+      0.885,
+      0.773,
+      0.818,
+      0.676,
+      0.728,
+      0.743,
+      0.7,
+      0.699,
+      0.593,
+      0.968,
+      1.0
+    ],
+    "rms_dbfs": -17.3,
+    "rms_dbfs_p95_frame": -11.86,
+    "peak_dbfs": 0.15,
+    "loudness_lufs_approx": -14.17,
+    "spectral_centroid_hz_mean": 3014.8,
+    "spectral_centroid_hz_median": 2884.2,
+    "onsets": 67,
+    "onset_density_per_s": 2.234,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 407499782",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": 0,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/407499782",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer 408711432: version (Don't Take It Personal (Just One Of Dem Days) (Mainstream Mix))",
+    "deezer 408711442: version (Don't Take It Personal (Just One Of Dem Days) (Dallas Austin Mix))",
+    "deezer 408711452: version (Don't Take It Personal (Just One Of Dem Days) [Dallas Austin Mix] (With Rap))",
+    "deezer 408711462: version (Don't Take It Personal (Just One Of Dem Days) (Biz Markie / K.O. Mix))",
+    "deezer 407499772: version (Don't Take It Personal (Just One Of Dem Days) (Instrumental))"
+  ]
+}

@@ -1,0 +1,833 @@
+{
+  "id": "2012-payphone",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Payphone (song)",
+  "wikidata": {
+    "qid": "Q738895",
+    "label": "Payphone",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q182223",
+          "label": "Maroon 5"
+        },
+        {
+          "qid": "Q117139",
+          "label": null
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q219631",
+          "label": "Adam Levine"
+        },
+        {
+          "qid": "Q818048",
+          "label": null
+        },
+        {
+          "qid": "Q4747186",
+          "label": "Ammar Malik"
+        },
+        {
+          "qid": "Q286501",
+          "label": "Shellback"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q117139",
+          "label": null
+        },
+        {
+          "qid": "Q219631",
+          "label": "Adam Levine"
+        },
+        {
+          "qid": "Q818048",
+          "label": null
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q286501",
+          "label": "Shellback"
+        },
+        {
+          "qid": "Q818048",
+          "label": null
+        },
+        {
+          "qid": "Q7353300",
+          "label": "Robopop"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q800080",
+          "label": "A&M Octone Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2012-04-18"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q3358928",
+          "label": "Overexposed"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q309727",
+          "label": "Moves Like Jagger"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q210452",
+          "label": "One More Night"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "c33d5c55-160e-4718-9e6a-e4d6ed3e1ef3"
+      ],
+      "youtube_video_id": [
+        "KRaWnd3LJfs"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 8216c4a7-7295-4f6f-b0a5-5153bf41467b (2012-04-17)",
+  "musicbrainz": {
+    "recording_id": "bcd54ab6-9552-44cd-a09d-d46a8a374c35",
+    "title": "Payphone",
+    "length_ms": 231640,
+    "first_release_date": "2012-04-17",
+    "artist_credit": "Maroon 5 feat. Wiz Khalifa",
+    "artists": [
+      {
+        "name": "Maroon 5",
+        "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+      },
+      {
+        "name": "Wiz Khalifa",
+        "mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94"
+      }
+    ],
+    "isrcs": [
+      "USUM71203347"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Eric Eylands",
+        "mbid": "e1195b8a-6fe4-4adf-8d03-140addf93eeb"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "John Hanes",
+        "mbid": "8cb2b8cd-34e5-4197-8a51-7eaf795b65c1"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Sam Holland",
+        "mbid": "f34721e5-6c0f-47c2-a232-187447c9a94c"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Andrew Luftman",
+        "mbid": "1d6e25bf-17fb-4fcd-8b2e-822bd55647c9"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Jonathan Mann",
+        "mbid": "cd2b12f6-d43d-4846-9b57-d6682b51e642"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Chris Sclafani",
+        "mbid": "75714230-b81e-48ce-903a-bb4c0b1ce12e"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Phil Seaford",
+        "mbid": "4562a5d1-7fb2-4226-8043-0ca633bf57a5"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Bradford Smith",
+        "mbid": "dbd4af8c-23cc-4a86-ab6f-260afdd30684"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Scott Yarmovsky",
+        "mbid": "b0247f33-ec42-4972-9091-101788cc8b26"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "keyboard"
+        ],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "synthesizer"
+        ],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Matt Flynn",
+        "mbid": "b955101e-19b8-4faf-8d68-6bfc2a3e9059"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "percussion"
+        ],
+        "name": "Matt Flynn",
+        "mbid": "b955101e-19b8-4faf-8d68-6bfc2a3e9059"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "electric bass guitar"
+        ],
+        "name": "Mickey Madden",
+        "mbid": "7bfe45a0-f000-43ee-965f-39a564980022"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "PJ Morton",
+        "mbid": "d0bb100a-c0d6-4ef7-bde2-cc5095a31d24"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "synthesizer"
+        ],
+        "name": "PJ Morton",
+        "mbid": "d0bb100a-c0d6-4ef7-bde2-cc5095a31d24"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "guitar"
+        ],
+        "name": "Robopop",
+        "mbid": "dbfa33c8-f5f2-4b9a-8f17-b322208bfd66"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "keyboard"
+        ],
+        "name": "Robopop",
+        "mbid": "dbfa33c8-f5f2-4b9a-8f17-b322208bfd66"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "synthesizer"
+        ],
+        "name": "Robopop",
+        "mbid": "dbfa33c8-f5f2-4b9a-8f17-b322208bfd66"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "keyboard"
+        ],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "bass"
+        ],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "acoustic guitar",
+          "additional"
+        ],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "synthesizer"
+        ],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "James Valentine",
+        "mbid": "f8abfd32-73f9-49e7-9b88-3e47ea27a2cd"
+      },
+      {
+        "role": "misc",
+        "attributes": [
+          "task"
+        ],
+        "name": "Jeremy Levin",
+        "mbid": "64a4c791-b997-4e56-9294-44f2645ba8b6"
+      },
+      {
+        "role": "misc",
+        "attributes": [
+          "task"
+        ],
+        "name": "David Silberstein",
+        "mbid": "0a7179e6-e4ef-4b01-8e1d-3ab99ceabb53"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Robopop",
+        "mbid": "dbfa33c8-f5f2-4b9a-8f17-b322208bfd66"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "James Valentine",
+        "mbid": "f8abfd32-73f9-49e7-9b88-3e47ea27a2cd"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Noah Passovoy",
+        "mbid": "9fafb136-d4ce-4eac-95c7-556172ce29a7"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Adam Levine",
+        "mbid": "a1421d73-1a21-484b-97ad-77c9a5676daf"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "PJ Morton",
+        "mbid": "d0bb100a-c0d6-4ef7-bde2-cc5095a31d24"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "additional",
+          "background vocals"
+        ],
+        "name": "Shellback",
+        "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "guest",
+          "lead vocals"
+        ],
+        "name": "Wiz Khalifa",
+        "mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=3ssXSY7f3s4"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/1Yg5ZRctvs3yj5EDUJVsVh"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/5bOjYdFImRMhXSi0O2Z7uu"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/107369610"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/de/song/1440841083"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/de/song/1440841083"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/51079087"
+      }
+    ],
+    "genres": [
+      "electropop",
+      "house",
+      "pop",
+      "pop rap",
+      "pop rock",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "electropop",
+      "pop rock",
+      "rock",
+      "adult alternative pop",
+      "pop rap",
+      "adult alternative pop/rock",
+      "contemporary pop/rock",
+      "house",
+      "maroon 5"
+    ],
+    "releases": [
+      {
+        "id": "aa431756-a157-4126-a576-77f85e82fa12",
+        "title": "Payphone",
+        "date": "2012-04-17",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "8216c4a7-7295-4f6f-b0a5-5153bf41467b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "91bfc2bb-b5f1-4e14-91ea-bbd141b5ea96",
+        "title": "Payphone",
+        "date": "2012-04-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "8216c4a7-7295-4f6f-b0a5-5153bf41467b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "a59eac1d-c402-4f5e-baca-f1dd31cfa357",
+        "title": "Overexposed",
+        "date": "2012-06",
+        "country": "NZ",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "69bd5975-d35a-41b4-a274-bd666e56e340",
+        "title": "So Fresh: The Hits of Winter 2012",
+        "date": "2012-06-15",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "c1fe06d7-d958-466e-9c9a-bdbd183904e7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "49694f0c-77e8-4d80-86b6-3f6a491fcc04",
+        "title": "Overexposed",
+        "date": "2012-06-20",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "74ea9329-ed93-4d95-bee2-8543f78bfada",
+        "title": "Overexposed",
+        "date": "2012-06-20",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f9aaa857-7567-4dc1-afca-086601e1db95",
+        "title": "Overexposed",
+        "date": "2012-06-25",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "16b4835a-0f40-44c3-8f57-703f08a0623e",
+        "title": "Overexposed",
+        "date": "2012-06-25",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0701383f-2289-4ee6-8e9e-90e0a731e989",
+        "title": "Overexposed",
+        "date": "2012-06-26",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b398c154-5e47-439f-b283-6b1aced5ac5c",
+        "title": "Overexposed",
+        "date": "2012-06-26",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3fbf5706-9a22-4ce8-90c3-4d3559583537",
+        "title": "Overexposed",
+        "date": "2012-06-26",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "80d285d1-c1e3-4f17-a82a-018bbcb9ab93",
+        "title": "Overexposed",
+        "date": "2012-06-26",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "433666a3-683c-46fa-80f6-2fc869bac7f9",
+        "title": "Overexposed",
+        "date": "2012-06-26",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d715cffb-769b-4241-ae3d-ae590139f1f2",
+        "title": "Overexposed",
+        "date": "2012-06-26",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c870093e-5d68-4842-a663-291701678229",
+        "title": "Overexposed",
+        "date": "2012-06-26",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "63dba509-4939-49ae-846d-9ba894c803bb",
+        "title": "Striscia la compilation Summer 2012",
+        "date": "2012-06-29",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "33242139-111a-4250-8308-90145de16312",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bcc11023-c3e1-46c9-99a7-9394889ef631",
+        "title": "Overexposed",
+        "date": "2012-07-17",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e37ce4a9-2d60-4437-b563-521302cbb497",
+        "title": "Overexposed",
+        "date": "2012-07-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1081ab15-7ff5-47d9-8dfa-487bd74a20f0",
+        "title": "Beach Party 2012",
+        "date": "2012-07-21",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "79273039-6200-4d5c-90fd-dc70e74f909e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "91c4eb83-524d-42bd-8140-316b686b1afb",
+        "title": "Bravo Hits 78",
+        "date": "2012-07-27",
+        "country": "CH",
+        "status": "Official",
+        "release_group": "59d5f40e-f287-43c3-99b8-65c641fad6db",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "baeeee2b-ae2b-40dd-a74c-d0b4997c920c",
+        "title": "Bravo Hits 78",
+        "date": "2012-07-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "59d5f40e-f287-43c3-99b8-65c641fad6db",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9d5955c2-4de7-4124-a659-f7d05f986e7b",
+        "title": "Bravo Hits 78",
+        "date": "2012-07-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "59d5f40e-f287-43c3-99b8-65c641fad6db",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9d6e5207-aaf8-46d7-858e-3e94b26f1a1b",
+        "title": "NRJ Extravadance 2012, Volume 2",
+        "date": "2012-07-30",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "3f65f9f7-7b64-44f6-a73a-0c28ae0ee7f8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "14570387-5d62-410a-9603-af6cef8a2788",
+        "title": "Overexposed",
+        "date": "2012-08-14",
+        "country": "KR",
+        "status": "Official",
+        "release_group": "ed3c55b6-e49d-4d4e-a338-62b823b1e2d4",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2a006468-1bec-47f4-8c33-21fc3085028b",
+        "title": "Festivalitis",
+        "date": "2012-08-17",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "2f6e00dd-57e6-4b1b-b30d-a32f17f061c0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "c33d5c55-160e-4718-9e6a-e4d6ed3e1ef3",
+      "title": "Payphone",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "arranger",
+          "name": "Robopop",
+          "mbid": "dbfa33c8-f5f2-4b9a-8f17-b322208bfd66"
+        },
+        {
+          "role": "arranger",
+          "name": "Shellback",
+          "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+        },
+        {
+          "role": "composer",
+          "name": "benny blanco",
+          "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+        },
+        {
+          "role": "composer",
+          "name": "Ammar Malik",
+          "mbid": "5180f77d-cd2e-423e-94ba-67fc95c11e19"
+        },
+        {
+          "role": "composer",
+          "name": "Robopop",
+          "mbid": "dbfa33c8-f5f2-4b9a-8f17-b322208bfd66"
+        },
+        {
+          "role": "composer",
+          "name": "Shellback",
+          "mbid": "ed58ed4e-fd99-4903-878b-7518f4d7465a"
+        },
+        {
+          "role": "lyricist",
+          "name": "benny blanco",
+          "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+        },
+        {
+          "role": "lyricist",
+          "name": "Adam Levine",
+          "mbid": "a1421d73-1a21-484b-97ad-77c9a5676daf"
+        },
+        {
+          "role": "lyricist",
+          "name": "Wiz Khalifa",
+          "mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/132870",
+        "https://www.wikidata.org/wiki/Q738895"
+      ]
+    },
+    "main_artist": {
+      "name": "Maroon 5",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Los Angeles"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

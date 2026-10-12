@@ -1,0 +1,72 @@
+{
+  "id": "2005-since-u-been-gone",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10101569,
+    "matched_by": "isrc",
+    "isrc": "GBCTA0400231",
+    "title": "Since U Been Gone",
+    "artist": "Kelly Clarkson",
+    "album": "10th Anniversary - The Hits - Volume 1",
+    "track_duration_s": 188,
+    "link": "https://www.deezer.com/track/10101569",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 131.2,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      66.3,
+      136.0
+    ],
+    "beats_detected": 64,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.641,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.627,
+    "chroma_profile": [
+      0.491,
+      0.394,
+      0.523,
+      0.444,
+      0.697,
+      0.541,
+      0.587,
+      1.0,
+      0.609,
+      0.755,
+      0.473,
+      0.581
+    ],
+    "rms_dbfs": -8.49,
+    "rms_dbfs_p95_frame": -5.3,
+    "peak_dbfs": 1.02,
+    "loudness_lufs_approx": -8.31,
+    "spectral_centroid_hz_mean": 2541.2,
+    "spectral_centroid_hz_median": 2715.1,
+    "onsets": 75,
+    "onset_density_per_s": 2.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10101569",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 130.8,
+    "gain": -8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10101569",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between G major and E minor"
+  ],
+  "rejected_candidates": []
+}

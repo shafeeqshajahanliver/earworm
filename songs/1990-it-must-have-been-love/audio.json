@@ -1,0 +1,70 @@
+{
+  "id": "1990-it-must-have-been-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 91935376,
+    "matched_by": "isrc",
+    "isrc": "SEAMA8777130",
+    "title": "It Must Have Been Love (Christmas for the Broken Hearted)",
+    "artist": "Roxette",
+    "album": "Pearls of Passion",
+    "track_duration_s": 287,
+    "link": "https://www.deezer.com/track/91935376",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 160.0,
+    "tempo_bpm_grid": 161.5,
+    "tempo_candidates_bpm": [
+      161.5,
+      80.7,
+      107.7
+    ],
+    "beats_detected": 79,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.871,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.74,
+    "chroma_profile": [
+      0.984,
+      0.423,
+      0.813,
+      0.511,
+      0.672,
+      1.0,
+      0.531,
+      0.953,
+      0.562,
+      0.758,
+      0.436,
+      0.601
+    ],
+    "rms_dbfs": -13.26,
+    "rms_dbfs_p95_frame": -10.14,
+    "peak_dbfs": 0.18,
+    "loudness_lufs_approx": -12.99,
+    "spectral_centroid_hz_mean": 2640.0,
+    "spectral_centroid_hz_median": 2552.7,
+    "onsets": 78,
+    "onset_density_per_s": 2.601,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 91935376",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.2,
+    "gain": -12.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/91935376",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

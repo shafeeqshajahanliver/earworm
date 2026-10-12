@@ -1,0 +1,41 @@
+{
+  "id": "1999-genie-in-a-bottle",
+  "lyrics_kind": "synced",
+  "lrclib_id": 25529605,
+  "lines": 72,
+  "words": 556,
+  "unique_words": 103,
+  "type_token_ratio": 0.185,
+  "repeated_line_share": 0.361,
+  "distinct_lines": 46,
+  "zlib_compression_ratio": 0.231,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "genie in a bottle",
+  "title_phrase_occurrences": 13,
+  "pronouns": {
+    "first_singular": 57,
+    "second": 31,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.88,
+  "last_line_s": 213.88,
+  "sung_time_s": 212.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 157.0,
+  "words_per_minute_track": 153.4,
+  "longest_gap_between_lines_s": 5.57,
+  "longest_gap_starts_at_s": 8.54,
+  "first_repeated_block": {
+    "first_at_s": 30.86,
+    "recurs_at_s": 96.01,
+    "lines": [
+      "Baby, baby, baby (baby, baby, baby)",
+      "Oh-oh-oh-oh-oh"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 25529605",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

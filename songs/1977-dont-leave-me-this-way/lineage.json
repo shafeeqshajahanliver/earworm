@@ -1,0 +1,68 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/29192",
+    "title": "Don't Leave Me This Way",
+    "performer": "Thelma Houston",
+    "is_original": false,
+    "first_release_date": "1976-11",
+    "releases": [
+      {
+        "title": "Any Way You Like It",
+        "uri": "https://api.secondhandsongs.com/release/11516",
+        "performer": "Thelma Houston"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Don't Leave Me This Way",
+      "uri": "https://api.secondhandsongs.com/work/29190"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/29190",
+    "title": "Don't Leave Me This Way",
+    "language": "English",
+    "writers": [
+      "Kenny Gamble",
+      "Hippy",
+      "Leon Huff [US1]"
+    ],
+    "original_performer": "Harold Melvin & The Blue Notes",
+    "versions": 72,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Hrej mi",
+        "uri": "https://api.secondhandsongs.com/work/177789"
+      },
+      {
+        "title": "Killeri",
+        "uri": "https://api.secondhandsongs.com/work/191766"
+      },
+      {
+        "title": "Wie leeft met je mee",
+        "uri": "https://api.secondhandsongs.com/work/56537"
+      },
+      {
+        "title": "Nespím",
+        "uri": "https://api.secondhandsongs.com/work/228152"
+      },
+      {
+        "title": "Aşk Kavgam Şimdi",
+        "uri": "https://api.secondhandsongs.com/work/246598"
+      }
+    ]
+  }
+}

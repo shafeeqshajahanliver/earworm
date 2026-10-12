@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/375955",
+    "title": "One Hell of a Woman",
+    "performer": "Mac Davis",
+    "is_original": true,
+    "first_release_date": "1974-02-05",
+    "releases": [
+      {
+        "title": "One Hell of a Woman",
+        "uri": "https://api.secondhandsongs.com/release/125086",
+        "performer": "Mac Davis"
+      },
+      {
+        "title": "Stop and Smell the Roses",
+        "uri": "https://api.secondhandsongs.com/release/130212",
+        "performer": "Mac Davis"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 4,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/146132",
+    "title": "One Hell of a Woman",
+    "language": "English",
+    "writers": [
+      "Mac Davis",
+      "Mark James [US1]"
+    ],
+    "original_performer": "Mac Davis",
+    "versions": 5,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Mujer diabólica",
+        "uri": "https://api.secondhandsongs.com/work/294055"
+      }
+    ]
+  }
+}

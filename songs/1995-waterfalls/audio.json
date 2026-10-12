@@ -1,0 +1,74 @@
+{
+  "id": "1995-waterfalls",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10357342,
+    "matched_by": "isrc",
+    "isrc": "USLF20400001",
+    "title": "Waterfalls (No Rap Radio Edit)",
+    "artist": "TLC",
+    "album": "Essential - Soul Love",
+    "track_duration_s": 212,
+    "link": "https://www.deezer.com/track/10357342",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 171.7,
+    "tempo_bpm_grid": 172.3,
+    "tempo_candidates_bpm": [
+      172.3,
+      43.1,
+      57.4
+    ],
+    "beats_detected": 82,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.685,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.682,
+    "chroma_profile": [
+      0.703,
+      0.769,
+      0.624,
+      0.981,
+      0.711,
+      0.928,
+      0.821,
+      0.689,
+      0.868,
+      0.624,
+      1.0,
+      0.58
+    ],
+    "rms_dbfs": -11.18,
+    "rms_dbfs_p95_frame": -7.27,
+    "peak_dbfs": -0.08,
+    "loudness_lufs_approx": -11.74,
+    "spectral_centroid_hz_mean": 2495.0,
+    "spectral_centroid_hz_median": 2511.8,
+    "onsets": 96,
+    "onset_density_per_s": 3.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10357342",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 85.8,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10357342",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about double Deezer's bpm (85.8): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading",
+    "key is close between Bb minor and Eb major"
+  ],
+  "rejected_candidates": []
+}

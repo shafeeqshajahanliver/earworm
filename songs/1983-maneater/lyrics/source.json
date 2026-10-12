@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18162177,
+  "kind": "synced",
+  "matched": {
+    "track": "Maneater",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Maneater - Hall & Oates - Best",
+    "duration_s": 268.72
+  },
+  "duration_matched_to": "musicbrainz recording length (272s)",
+  "duration_diff_s": 3.2,
+  "reference_lengths": [
+    {
+      "seconds": 271.92,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 272.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37501793 (Maneater / Daryl Hall & John Oates / Rock'n Soul Part1, 253.0s): duration matches no reference length",
+    "lrclib 37050406 (Maneater / Daryl Hall & John Oates / Essential The 80's, 243.0s): duration matches no reference length",
+    "lrclib 37293265 (Maneater / Daryl Hall & John Oates / Rock 'N Soul, Pt. 1 (Bonus Track Version), 271.0s): live/remix/other version",
+    "lrclib 37323017 (Maneater / Daryl Hall & John Oates / H2O, 242.0s): duration matches no reference length",
+    "lrclib 37362392 (Maneater / Daryl Hall & John Oates / American Road Trip, 246.0s): duration matches no reference length",
+    "lrclib 37404797 (Maneater / Daryl Hall & John Oates / Maneater (Single), 266.0s): duration matches no reference length",
+    "lrclib 37428584 (Maneater / Daryl Hall & John Oates / Die Hit Giganten - Radioklassiker (CD 2), 255.0s): duration matches no reference length",
+    "lrclib 37216719 (Maneater / Daryl Hall & John Oates / H2O, 521.0s): duration matches no reference length",
+    "lrclib 12899705 (Maneater [The Very Best of Daryl Hall / John Oates, 2001] / Daryl Hall & John Oates / The Very Best of Daryl Hall / John Oates, 272.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 15671843 (Maneater / Daryl Hall & John Oates / The Essential Daryl Hall & John Oates, 274.259592s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 15266438 (Maneater / Daryl Hall & John Oates / Ultimate Daryl Hall + John Oates CD2, 273.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 37991146 (Maneater / Daryl Hall & John Oates / The Essential Daryl Hall & John Oates, 206.0s): duration matches no reference length",
+    "lrclib 34488628 (Maneater (Official Video) / Daryl Hall & John Oates / Daryl Hall & John Oates Songs, 265.0s): duration matches no reference length",
+    "lrclib 25890722 (Maneater (Official Video) / Daryl Hall & John Oates / Daryl Hall & John Oates Videos, 265.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

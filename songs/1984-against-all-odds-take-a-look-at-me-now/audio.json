@@ -1,0 +1,72 @@
+{
+  "id": "1984-against-all-odds-take-a-look-at-me-now",
+  "preview": {
+    "service": "deezer",
+    "track_id": 134036230,
+    "matched_by": "isrc",
+    "isrc": "USRH11603367",
+    "title": "Against All Odds (Take a Look at Me Now) (2016 Remaster)",
+    "artist": "Phil Collins",
+    "album": "The Singles (Expanded)",
+    "track_duration_s": 206,
+    "link": "https://www.deezer.com/track/134036230",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 116.0,
+    "tempo_bpm_grid": 114.8,
+    "tempo_candidates_bpm": [
+      234.9,
+      215.3,
+      112.3
+    ],
+    "beats_detected": 58,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.814,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.687,
+    "chroma_profile": [
+      0.141,
+      0.202,
+      0.126,
+      0.594,
+      0.128,
+      0.23,
+      0.279,
+      0.195,
+      1.0,
+      0.177,
+      0.46,
+      0.108
+    ],
+    "rms_dbfs": -11.96,
+    "rms_dbfs_p95_frame": -9.72,
+    "peak_dbfs": -0.63,
+    "loudness_lufs_approx": -12.61,
+    "spectral_centroid_hz_mean": 1681.2,
+    "spectral_centroid_hz_median": 1589.1,
+    "onsets": 43,
+    "onset_density_per_s": 1.434,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 134036230",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 116.13,
+    "gain": -11.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/134036230",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USWI19600231: matched but no preview available (readable=False)"
+  ]
+}

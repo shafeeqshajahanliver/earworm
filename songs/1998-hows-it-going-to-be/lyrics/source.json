@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 722240,
+  "kind": "synced",
+  "matched": {
+    "track": "How's It Going to Be",
+    "artist": "Third Eye Blind",
+    "album": "Third Eye Blind",
+    "duration_s": 253.0
+  },
+  "duration_matched_to": "musicbrainz recording length (253s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 253.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 253.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 253.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36881642 (How's It Going to Be / Third Eye Blind / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 35874445 (How's It Going to Be / Third Eye Blind / Third Eye Blind, 1997.0s): duration matches no reference length",
+    "lrclib 20862093 (How’s It Going to Be / Third Eye Blind / Third Eye Blind, 245.34525s): duration matches no reference length",
+    "lrclib 19262003 (How’s It Going to Be / Third Eye Blind / Third Eye Blind, 219.4s): duration matches no reference length",
+    "lrclib 18862108 (How's It Going To Be / Third Eye Blind / 1995 Demo, 224.600812s): live/remix/other version",
+    "lrclib 23223659 (How’s It Going to Be / Third Eye Blind / Third Eye Blind, 276.186667s): duration matches no reference length",
+    "lrclib 28934765 (How's It Going to Be / Third Eye Blind / Third Eye Blind, 262.0s): duration matches no reference length",
+    "lrclib 15339109 (How’s It Going to Be / Third Eye Blind / Third Eye Blind, 243.260312s): duration matches no reference length",
+    "lrclib 13003579 (How's It Going to Be (acoustic) / Third Eye Blind / How’s It Going to Be (acoustic), 224.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

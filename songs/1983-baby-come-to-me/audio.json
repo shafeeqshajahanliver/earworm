@@ -1,0 +1,72 @@
+{
+  "id": "1983-baby-come-to-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1444368952,
+    "matched_by": "isrc",
+    "isrc": "USQW18100001",
+    "title": "Baby, Come To Me",
+    "artist": "Patti Austin",
+    "album": "Every Home Should Have One",
+    "track_duration_s": 217,
+    "link": "https://www.deezer.com/track/1444368952",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.2,
+    "tempo_bpm_grid": 89.9,
+    "tempo_candidates_bpm": [
+      89.1,
+      184.6,
+      45.3
+    ],
+    "beats_detected": 46,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.8,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.689,
+    "chroma_profile": [
+      0.796,
+      0.58,
+      0.92,
+      0.727,
+      0.576,
+      0.744,
+      0.566,
+      1.0,
+      0.548,
+      0.77,
+      0.677,
+      0.57
+    ],
+    "rms_dbfs": -15.42,
+    "rms_dbfs_p95_frame": -11.17,
+    "peak_dbfs": -0.88,
+    "loudness_lufs_approx": -15.36,
+    "spectral_centroid_hz_mean": 1839.3,
+    "spectral_centroid_hz_median": 1713.9,
+    "onsets": 99,
+    "onset_density_per_s": 3.301,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1444368952",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -14.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1444368952",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USQW19900084: matched but no preview available (readable=False)"
+  ]
+}

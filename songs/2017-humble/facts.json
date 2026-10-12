@@ -1,0 +1,181 @@
+{
+  "id": "2017-humble",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Humble (song)",
+  "wikidata": {
+    "qid": "Q29352319",
+    "label": "Humble",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q130798",
+          "label": null
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q130798",
+          "label": null
+        },
+        {
+          "qid": "Q65658838",
+          "label": "Asheton Hogan"
+        },
+        {
+          "qid": "Q61830903",
+          "label": "Anthony Tiffith"
+        },
+        {
+          "qid": "Q6849262",
+          "label": "Mike WiLL Made-It"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q130798",
+          "label": null
+        },
+        {
+          "qid": "Q6849262",
+          "label": "Mike WiLL Made-It"
+        },
+        {
+          "qid": "Q65658838",
+          "label": "Asheton Hogan"
+        },
+        {
+          "qid": "Q61830903",
+          "label": "Anthony Tiffith"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q6849262",
+          "label": "Mike WiLL Made-It"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2017-03-30"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q11401",
+          "label": "hip-hop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q29349514",
+          "label": "DAMN."
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "award_received": [
+        {
+          "qid": "Q5593871",
+          "label": "Grammy Award for Best Rap Performance"
+        },
+        {
+          "qid": "Q1123766",
+          "label": "Grammy Award for Best Rap Song"
+        }
+      ],
+      "nominated_for": [
+        {
+          "qid": "Q843219",
+          "label": "Grammy Award for Record of the Year"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "49bf6fb0-bd76-431c-a65c-48033dc5676f"
+      ],
+      "youtube_video_id": [
+        "tvTRZJ-4EyI"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 6985c51b-7c0c-4339-8001-0cad8114aa58 (2017-03-30)",
+  "musicbrainz": {
+    "recording_id": "e9c6dcc8-6c03-439e-bbda-67402d530353",
+    "title": "HUMBLE.",
+    "length_ms": 184601,
+    "first_release_date": "2017-03-30",
+    "artist_credit": "Kendrick Lamar",
+    "artists": [
+      {
+        "name": "Kendrick Lamar",
+        "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077"
+      }
+    ],
+    "isrcs": [
+      "USUV71700785"
+    ],
+    "recording_credits": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI"
+      }
+    ],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "db101ef9-e27e-4fc3-ae02-ffc548f021c9",
+        "title": "HUMBLE.",
+        "date": "2017-03-30",
+        "country": null,
+        "status": "Official",
+        "release_group": "6985c51b-7c0c-4339-8001-0cad8114aa58",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "49bf6fb0-bd76-431c-a65c-48033dc5676f",
+      "title": "HUMBLE.",
+      "iswcs": [
+        "T-921.214.940-1"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Kendrick Lamar",
+          "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077"
+        },
+        {
+          "role": "writer",
+          "name": "Mike WiLL Made‐It",
+          "mbid": "5a2071aa-0787-49fb-931c-fa85ba86e681"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q29352319"
+      ]
+    },
+    "main_artist": {
+      "name": "Kendrick Lamar",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Compton"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

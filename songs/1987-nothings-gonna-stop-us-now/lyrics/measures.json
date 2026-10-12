@@ -1,0 +1,41 @@
+{
+  "id": "1987-nothings-gonna-stop-us-now",
+  "lyrics_kind": "synced",
+  "lrclib_id": 4636253,
+  "lines": 76,
+  "words": 377,
+  "unique_words": 102,
+  "type_token_ratio": 0.271,
+  "repeated_line_share": 0.434,
+  "distinct_lines": 43,
+  "zlib_compression_ratio": 0.247,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "nothing's gonna stop us now",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 15,
+    "second": 12,
+    "first_plural": 33
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 22.41,
+  "last_line_s": 264.61,
+  "sung_time_s": 224.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 100.6,
+  "words_per_minute_track": 84.1,
+  "longest_gap_between_lines_s": 18.37,
+  "longest_gap_starts_at_s": 178.08,
+  "first_repeated_block": {
+    "first_at_s": 52.83,
+    "recurs_at_s": 120.26,
+    "lines": [
+      "Let the world around us",
+      "Just fall apart"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 4636253",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

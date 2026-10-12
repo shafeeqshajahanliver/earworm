@@ -1,0 +1,137 @@
+{
+  "id": "2016-hello",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Hello (Adele song)",
+  "wikidata": {
+    "qid": "Q21172725",
+    "label": "Hello",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q23215",
+          "label": "Adele"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q23215",
+          "label": "Adele"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1123947",
+          "label": "XL Recordings"
+        },
+        {
+          "qid": "Q183387",
+          "label": "Columbia Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2015-10-23"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q131272",
+          "label": "soul"
+        },
+        {
+          "qid": "Q46046",
+          "label": "baroque pop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q21168841",
+          "label": "25"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q283741",
+          "label": "F minor"
+        },
+        {
+          "qid": "Q3303410",
+          "label": "G-sharp major"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "award_received": [
+        {
+          "qid": "Q223313",
+          "label": "BRIT Awards"
+        }
+      ],
+      "nominated_for": [
+        {
+          "qid": "Q1027904",
+          "label": "Grammy Award for Song of the Year"
+        },
+        {
+          "qid": "Q5593866",
+          "label": "Grammy Award for Best Pop Solo Performance"
+        }
+      ],
+      "youtube_video_id": [
+        "YQHsXMglC9A"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 3250b6bc-b6b5-4f64-a800-f9b3895f8ad8 (2015-10-23)",
+  "musicbrainz": {
+    "recording_id": "88b5cc4f-9ee3-4230-93ca-49d1c4d16868",
+    "title": "Hello (Dave Aude Extended)",
+    "length_ms": 277000,
+    "first_release_date": "2015",
+    "artist_credit": "Adele",
+    "artists": [
+      {
+        "name": "Adele",
+        "mbid": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "076c5130-ac33-46f4-8ef8-1693d3911542",
+        "title": "Hello (Remixes)",
+        "date": "2015",
+        "country": "BR",
+        "status": "Bootleg",
+        "release_group": "3250b6bc-b6b5-4f64-a800-f9b3895f8ad8",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Adele",
+      "type": "Person",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": "Tottenham"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

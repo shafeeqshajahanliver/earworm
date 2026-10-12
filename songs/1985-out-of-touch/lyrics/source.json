@@ -1,0 +1,65 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 460076,
+  "kind": "synced",
+  "matched": {
+    "track": "Out of Touch",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Big Bam Boom",
+    "duration_s": 261.0
+  },
+  "duration_matched_to": "musicbrainz recording length (262s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 261.76,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 235.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 273.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 11,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37517546 (Out Of Touch / Daryl Hall & John Oates / Now That's What I Call Rock Anthems Disc 3, 247.0s): duration matches no reference length",
+    "lrclib 37165554 (Out of Touch / Daryl Hall & John Oates / Trucking Songs - Trucking All Over the World, 243.0s): duration matches no reference length",
+    "lrclib 37303561 (Out Of Touch / Daryl Hall & John Oates / Best Of Hall & Oates (Starting All Over Again), 250.0s): duration matches no reference length",
+    "lrclib 36859858 (Out of Touch / Daryl Hall & John Oates / The Very Best of Daryl Hall / John Oates, 227.0s): duration matches no reference length",
+    "lrclib 34819198 (Out Of Touch / Daryl Hall & John Oates / Big Bam Boom, 462.0s): duration matches no reference length",
+    "lrclib 34620231 (Out of Touch / Daryl Hall & John Oates / Do What You Want, Be What You Are: The Music of Daryl Hall & John Oates, 246.0s): duration matches no reference length",
+    "lrclib 34623124 (Out of Touch / Daryl Hall & John Oates / Ultimate Hall and Oates (Disc 2), 248.0s): duration matches no reference length",
+    "lrclib 35227908 (Out of Touch / Daryl Hall & John Oates / Legendary, 250.0s): duration matches no reference length",
+    "lrclib 35147214 (Out Of Touch / Daryl Hall & John Oates / CD1, 246.0s): duration matches no reference length",
+    "lrclib 35227911 (Out of Touch / Daryl Hall & John Oates / The 80’s: Daryl Hall & John Oates, 250.0s): duration matches no reference length",
+    "lrclib 35227910 (Out of Touch / Daryl Hall & John Oates / Best of Daryl Hall & John Oates, 250.0s): duration matches no reference length",
+    "lrclib 29215906 (Out Of Touch / Daryl Hall & John Oates / Hall & Oates: The Essential Daryl Hall & John Oates, 247.0s): duration matches no reference length",
+    "lrclib 1124 (Out of Touch (Remastered) / Daryl Hall & John Oates / Ultimate Daryl Hall & John Oates, 247.0s): duration matches no reference length",
+    "lrclib 20105232 (Out Of Touch / Daryl Hall & John Oates / The Essential Daryl Hall & John Oates, 250.122449s): duration matches no reference length",
+    "lrclib 19738561 (Out of Touch / Daryl Hall & John Oates / The Essential Daryl Hall & John Oates, 248.0266752s): duration matches no reference length",
+    "lrclib 28828345 (Out of Touch / Daryl Hall & John Oates / The Essential Daryl Hall & John Oates, 252.0s): duration matches no reference length",
+    "lrclib 3761802 (Out of Touch (Single Version) / Daryl Hall & John Oates / Discover Daryl Hall & John Oates, 245.0s): duration matches no reference length",
+    "lrclib 5868636 (Out of Touch (Single Version) / Daryl Hall & John Oates / Ultimate Daryl Hall & John Oates, 245.0s): duration matches no reference length",
+    "lrclib 12609042 (Out of Touch (Single Version) / Daryl Hall & John Oates / Ultimate Daryl Hall & John Oates, 248.0s): duration matches no reference length",
+    "lrclib 13646289 (Out of Touch (Single Version) / Daryl Hall & John Oates / Discover Daryl Hall & John Oates, 247.771429s): duration matches no reference length",
+    "lrclib 38577358 (Out of Touch / Daryl Hall & John Oates / The Very Best of Daryl Hall / John Oates, 114.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

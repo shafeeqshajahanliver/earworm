@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36993981,
+  "kind": "synced",
+  "matched": {
+    "track": "Kiss From a Rose",
+    "artist": "Seal",
+    "album": "Seal (Atmos)",
+    "duration_s": 288.0
+  },
+  "duration_matched_to": "musicbrainz recording length (288s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 288.173,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 288.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 218.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 287.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36986298 (Kiss from a Rose / Seal / Best 1991-2004 (Acoustic), 323.0s): live/remix/other version",
+    "lrclib 37117386 (Kiss From a Rose / Seal / On a Dance Tip 3, 170.0s): duration matches no reference length",
+    "lrclib 19871147 (Kiss From a Rose / Seal / Kiss From a Rose, 517.37718s): duration matches no reference length",
+    "lrclib 2174243 (Kiss from a Rose / Seal / Kiss From a Rose, 310.0s): duration matches no reference length",
+    "lrclib 32317449 (Kiss from a Rose - Live / Seal / Kiss from a rose, 323.0s): live/remix/other version",
+    "lrclib 38395534 (Kiss From a Rose (Kicks From a Rhodes) / Seal / Kiss From a Rose, 405.0s): duration matches no reference length",
+    "lrclib 38399358 (Kiss From a Rose (Kicks From a Rhodes) / Seal / Kiss From a Rose, 408.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,618 @@
+{
+  "id": "2012-call-me-maybe",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Call Me Maybe",
+  "wikidata": {
+    "qid": "Q326835",
+    "label": "Call Me Maybe",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q52583",
+          "label": "Carly Rae Jepsen"
+        },
+        {
+          "qid": "Q52583",
+          "label": "Carly Rae Jepsen"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q6289279",
+          "label": "Josh Ramsay"
+        },
+        {
+          "qid": "Q52583",
+          "label": "Carly Rae Jepsen"
+        },
+        {
+          "qid": "Q121867006",
+          "label": "Tavish Crowe"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q6289279",
+          "label": "Josh Ramsay"
+        },
+        {
+          "qid": "Q52583",
+          "label": "Carly Rae Jepsen"
+        },
+        {
+          "qid": "Q121867006",
+          "label": "Tavish Crowe"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q247212",
+          "label": "604 Records"
+        },
+        {
+          "qid": "Q7432151",
+          "label": "School Boy Records"
+        },
+        {
+          "qid": "Q231694",
+          "label": "Interscope Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2011-00-00"
+        },
+        {
+          "time": "2011-09-20"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q2700575",
+          "label": "Curiosity"
+        },
+        {
+          "qid": "Q56071503",
+          "label": "Carly Rae Jepsen singles discography"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q5728362",
+          "label": "G major"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "award_received": [
+        {
+          "qid": "Q120442881",
+          "label": "SNEP diamond single"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "cb1d1c9b-6f10-4e17-9a78-61f7169e9f8a"
+      ],
+      "musicbrainz_release_group_id": [
+        "09ae8c7a-594a-442c-b5f2-47f3bbfb105a"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 09ae8c7a-594a-442c-b5f2-47f3bbfb105a (2011-09-20)",
+  "musicbrainz": {
+    "recording_id": "cac5b2b9-5fda-4856-b71a-31c94bb5da9d",
+    "title": "Call Me Maybe",
+    "length_ms": 193747,
+    "first_release_date": "2011-09-20",
+    "artist_credit": "Carly Rae Jepsen",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1"
+      }
+    ],
+    "isrcs": [
+      "CAB391100615"
+    ],
+    "recording_credits": [
+      {
+        "role": "editor",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Nik Pesut",
+        "mbid": "88fed269-f089-4ffa-b978-a22592999d55"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Josh Ramsay",
+        "mbid": "8edd0d60-522a-4548-b8d4-1bf7a00f421e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass guitar"
+        ],
+        "name": "Tavish Crowe",
+        "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Tavish Crowe",
+        "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Tavish Crowe",
+        "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Tavish Crowe",
+        "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "strings"
+        ],
+        "name": "Tavish Crowe",
+        "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Zach Blackstone",
+        "mbid": "4e62a2d4-301f-4c85-9034-c12045bd8cd4"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Brock McFarlane",
+        "mbid": "d91d420a-ff51-46ee-a7eb-4e0579ffa658"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Dave Ogilvie",
+        "mbid": "9007d5ec-8abb-496d-9f49-8c89b9ba1381"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Josh Ramsay",
+        "mbid": "8edd0d60-522a-4548-b8d4-1bf7a00f421e"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Tavish Crowe",
+        "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Carly Rae Jepsen",
+        "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=HKVfpP7ZN8Y"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/5unfeZUhKhICP73CDYBW4N"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/94298448"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=fWNaR-rxAic"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=dlObDivWgx8"
+      },
+      {
+        "type": "other databases",
+        "url": "https://www.whosampled.com/Carly-Rae-Jepsen/Call-Me-Maybe/"
+      },
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/performance/243872"
+      }
+    ],
+    "genres": [
+      "dance-pop",
+      "electronic",
+      "europop",
+      "house",
+      "jazz",
+      "nu disco",
+      "pop",
+      "teen pop"
+    ],
+    "tags": [
+      "pop",
+      "teen pop",
+      "dance-pop",
+      "pop general",
+      "remark/catchy",
+      "remark/well-known",
+      "electronic",
+      "europop",
+      "house",
+      "jazz"
+    ],
+    "releases": [
+      {
+        "id": "117fb955-8a3d-4d02-9eb2-99513b8ab20e",
+        "title": "Call Me Maybe",
+        "date": "2011",
+        "country": null,
+        "status": null,
+        "release_group": "09ae8c7a-594a-442c-b5f2-47f3bbfb105a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "d7c9689c-c077-4eaa-81cb-cc97012cd19d",
+        "title": "Call Me Maybe",
+        "date": "2011-09-20",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "09ae8c7a-594a-442c-b5f2-47f3bbfb105a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "9025661d-6574-4559-86b2-b37a13fd285e",
+        "title": "Call Me Maybe",
+        "date": "2012-01-01",
+        "country": "MX",
+        "status": "Official",
+        "release_group": "09ae8c7a-594a-442c-b5f2-47f3bbfb105a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "06d81cb8-69d8-4dc4-b691-53c2eb4418cd",
+        "title": "Kiss",
+        "date": "2012-01-01",
+        "country": null,
+        "status": "Official",
+        "release_group": "e7ce6cac-d26e-470c-b8a1-97ecc07354df",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "faefb383-d974-4aa6-919d-ae16479b7715",
+        "title": "Now 20",
+        "date": "2012-01-01",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "31f0bc39-5783-410c-bd72-5bf3319d5495",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e2a06d76-ba36-4d90-8bd3-dae0ada2576d",
+        "title": "Curiosity",
+        "date": "2012-02-14",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "7f7be0e9-e789-4d7f-a946-34f63bdad3df",
+        "primary_type": "EP",
+        "secondary_types": []
+      },
+      {
+        "id": "f9863d8d-3e0d-41ea-b52f-6e5fd518d923",
+        "title": "Curiosity",
+        "date": "2012-02-14",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "7f7be0e9-e789-4d7f-a946-34f63bdad3df",
+        "primary_type": "EP",
+        "secondary_types": []
+      },
+      {
+        "id": "0a75a18e-1fc6-444d-a3b3-414c5a0ce853",
+        "title": "Curiosity",
+        "date": "2012-02-14",
+        "country": "CA",
+        "status": "Cancelled",
+        "release_group": "7f7be0e9-e789-4d7f-a946-34f63bdad3df",
+        "primary_type": "EP",
+        "secondary_types": []
+      },
+      {
+        "id": "c0d3287e-6924-4f78-b1c1-29126cb30dd2",
+        "title": "Call Me Maybe",
+        "date": "2012-02-22",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "09ae8c7a-594a-442c-b5f2-47f3bbfb105a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "d60f50a5-3f39-4427-9a0e-00abdefee797",
+        "title": "Promo Only: Mainstream Radio, April 2012",
+        "date": "2012-04-01",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "089305ec-71e6-4cb2-9d28-8e1aea931945",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a0a8a27b-0d03-4798-88fe-847f01deb8e9",
+        "title": "Call Me Maybe",
+        "date": "2012-04-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "09ae8c7a-594a-442c-b5f2-47f3bbfb105a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "4df061b7-db29-4be1-ae26-bdb8c3866925",
+        "title": "Call Me Maybe",
+        "date": "2012-05-04",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "09ae8c7a-594a-442c-b5f2-47f3bbfb105a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "b53f7b52-a66b-4918-a910-823ee772bff1",
+        "title": "Dance Party 2012",
+        "date": "2012-05-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "50790333-f1f4-4088-b571-c7a8bec91d1e",
+        "primary_type": "Other",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5449275c-8ea3-458e-a042-e01faafa4d0a",
+        "title": "Toggo Music 31",
+        "date": "2012-05-25",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "917a51ac-a223-47ca-a133-adf5d30acb6a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "79da8f8f-3371-4be5-92da-49aeeacc6690",
+        "title": "Maximum Hit Music: 02 2012",
+        "date": "2012-05-28",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "3697b557-2e11-4de3-9c2d-399a228a7d07",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "358af6cc-630f-4258-9dda-c7ee63e5822f",
+        "title": "La música de Carrusel Deportivo",
+        "date": "2012-06-05",
+        "country": null,
+        "status": "Official",
+        "release_group": "98656bba-40df-4e05-877d-0784d511e3ae",
+        "primary_type": null,
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "997b9ce3-3903-4e1e-9af6-b75838c64cbe",
+        "title": "NRJ Summer Hits Only 2012",
+        "date": "2012-06-06",
+        "country": "CH",
+        "status": "Official",
+        "release_group": "2807806f-8f01-45c6-a14f-33314dc6cf93",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "aaa8c338-1443-48a6-952a-0d5bc5e7791b",
+        "title": "MNM Big Hits 2012•2",
+        "date": "2012-06-07",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "f29b7d00-6920-46ba-aaf9-3872a2d91136",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "69bd5975-d35a-41b4-a274-bd666e56e340",
+        "title": "So Fresh: The Hits of Winter 2012",
+        "date": "2012-06-15",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "c1fe06d7-d958-466e-9c9a-bdbd183904e7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "57a6eeed-95a9-416b-a5c3-b48068d32c2a",
+        "title": "Ö3 Greatest Hits 58",
+        "date": "2012-06-22",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "3461ca3f-04ec-431a-9fb2-3ca419df9f1c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e3d407bc-c2f7-4cef-b115-9992db564db9",
+        "title": "More Music 6",
+        "date": "2012-06-25",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "3767f58a-77cb-4a18-afb8-57cd3b7de546",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8ddbe328-608a-4026-af0b-7d01e77c3abd",
+        "title": "Cafe Puls Sommerhits 12",
+        "date": "2012-06-29",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "db3d48a9-fcf9-4731-a5ef-812bc5a618de",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c9ac833c-0856-45c4-aae6-dfab44ed2c7e",
+        "title": "Radio 538: Hitzone 62",
+        "date": "2012-06-29",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "f553d72d-f01a-456d-95fa-503f3ec1bddb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "63dba509-4939-49ae-846d-9ba894c803bb",
+        "title": "Striscia la compilation Summer 2012",
+        "date": "2012-06-29",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "33242139-111a-4250-8308-90145de16312",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2dfc1dc6-669b-458f-8873-7fa414ffd735",
+        "title": "Hit Mania estate 2012",
+        "date": "2012-07-03",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "e667ad84-c6f2-48cd-9914-ee691f4ac4d7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation",
+          "DJ-mix"
+        ]
+      }
+    ],
+    "work": {
+      "id": "cb1d1c9b-6f10-4e17-9a78-61f7169e9f8a",
+      "title": "Call Me Maybe",
+      "iswcs": [
+        "T-911.051.470-0"
+      ],
+      "credits": [
+        {
+          "role": "publishing",
+          "name": "Tavish Crowe",
+          "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+        },
+        {
+          "role": "writer",
+          "name": "Tavish Crowe",
+          "mbid": "9609f459-bd58-42ca-a6c2-68b118467257"
+        },
+        {
+          "role": "writer",
+          "name": "Carly Rae Jepsen",
+          "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1"
+        },
+        {
+          "role": "writer",
+          "name": "Josh Ramsay",
+          "mbid": "8edd0d60-522a-4548-b8d4-1bf7a00f421e"
+        }
+      ],
+      "urls": [
+        "https://www.allmusic.com/song/mt0045605848",
+        "https://genius.com/Carly-rae-jepsen-call-me-maybe-lyrics",
+        "https://secondhandsongs.com/work/128993",
+        "https://www.songfacts.com/facts/carly-rae-jepsen/call-me-maybe",
+        "https://www.wikidata.org/wiki/Q326835"
+      ]
+    },
+    "main_artist": {
+      "name": "Carly Rae Jepsen",
+      "type": "Person",
+      "country": "CA",
+      "area": "Canada",
+      "begin_area": "Mission"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

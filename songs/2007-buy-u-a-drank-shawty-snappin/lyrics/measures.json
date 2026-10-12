@@ -1,0 +1,41 @@
+{
+  "id": "2007-buy-u-a-drank-shawty-snappin",
+  "lyrics_kind": "synced",
+  "lrclib_id": 22648634,
+  "lines": 73,
+  "words": 571,
+  "unique_words": 167,
+  "type_token_ratio": 0.292,
+  "repeated_line_share": 0.329,
+  "distinct_lines": 49,
+  "zlib_compression_ratio": 0.301,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "buy u a drank",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 35,
+    "second": 38,
+    "first_plural": 10
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 2.5,
+  "last_line_s": 220.52,
+  "sung_time_s": 224.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 152.6,
+  "words_per_minute_track": 149.8,
+  "longest_gap_between_lines_s": 6.52,
+  "longest_gap_starts_at_s": 64.57,
+  "first_repeated_block": {
+    "first_at_s": 49.68,
+    "recurs_at_s": 98.79,
+    "lines": [
+      "And then I'ma take you home with me",
+      "I got money in the bank"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 22648634",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

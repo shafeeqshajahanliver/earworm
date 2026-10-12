@@ -1,0 +1,70 @@
+{
+  "id": "1988-got-my-mind-set-on-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3164587,
+    "matched_by": "isrc",
+    "isrc": "GBEXP0300054",
+    "title": "Got My Mind Set on You",
+    "artist": "George Harrison",
+    "album": "Cloud Nine",
+    "track_duration_s": 232,
+    "link": "https://www.deezer.com/track/3164587",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.7,
+    "tempo_bpm_grid": 99.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      152.0,
+      73.8
+    ],
+    "beats_detected": 47,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.866,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.595,
+    "chroma_profile": [
+      0.618,
+      0.77,
+      0.636,
+      0.654,
+      1.0,
+      0.656,
+      0.724,
+      0.691,
+      0.861,
+      0.725,
+      0.836,
+      0.917
+    ],
+    "rms_dbfs": -11.74,
+    "rms_dbfs_p95_frame": -8.48,
+    "peak_dbfs": 0.61,
+    "loudness_lufs_approx": -10.81,
+    "spectral_centroid_hz_mean": 2337.5,
+    "spectral_centroid_hz_median": 2196.5,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3164587",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3164587",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

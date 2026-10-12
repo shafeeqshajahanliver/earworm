@@ -1,0 +1,41 @@
+{
+  "id": "1995-creep",
+  "lyrics_kind": "synced",
+  "lrclib_id": 33441168,
+  "lines": 67,
+  "words": 458,
+  "unique_words": 117,
+  "type_token_ratio": 0.255,
+  "repeated_line_share": 0.313,
+  "distinct_lines": 46,
+  "zlib_compression_ratio": 0.308,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "creep",
+  "title_phrase_occurrences": 22,
+  "pronouns": {
+    "first_singular": 89,
+    "second": 4,
+    "first_plural": 4
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.64,
+  "last_line_s": 263.34,
+  "sung_time_s": 259.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 106.0,
+  "words_per_minute_track": 102.9,
+  "longest_gap_between_lines_s": 9.78,
+  "longest_gap_starts_at_s": 196.32,
+  "first_repeated_block": {
+    "first_at_s": 11.28,
+    "recurs_at_s": 21.19,
+    "lines": [
+      "Oh I, oh I, oh I, baby (creep)",
+      "Oh I, oh I, oh I, yeah (creep)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 33441168",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

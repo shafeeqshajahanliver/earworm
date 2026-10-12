@@ -1,0 +1,842 @@
+{
+  "id": "2012-we-are-young",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "We Are Young",
+  "wikidata": {
+    "qid": "Q119452",
+    "label": "We Are Young",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q838984",
+          "label": "Fun"
+        },
+        {
+          "qid": "Q234356",
+          "label": "Janelle Monáe"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q2760347",
+          "label": "Nate Ruess"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q11989370",
+          "label": "Jeff Bhasker"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1046066",
+          "label": "Fueled by Ramen"
+        },
+        {
+          "qid": "Q1029135",
+          "label": "Nettwerk"
+        },
+        {
+          "qid": "Q202440",
+          "label": "Atlantic Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2011-09-20"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q842324",
+          "label": "indie pop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q2030332",
+          "label": "Some Nights"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q913790",
+          "label": "F major"
+        }
+      ],
+      "beats_per_minute": [
+        {
+          "amount": "116",
+          "unit": "1"
+        },
+        {
+          "amount": "92",
+          "unit": "1"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q5142408",
+          "label": "Cold War"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q2697907",
+          "label": "Some Nights"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "df0d446c-8a30-4f23-ab08-65df320c7cfe"
+      ],
+      "musicbrainz_release_group_id": [
+        "862a6d1b-0c65-436c-b5b6-55471dd8da5b"
+      ],
+      "youtube_video_id": [
+        "Sv6dMFF_yts"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 862a6d1b-0c65-436c-b5b6-55471dd8da5b (2011-09-20)",
+  "musicbrainz": {
+    "recording_id": "9f7bac6a-0231-4fc3-b277-2a4c000ee606",
+    "title": "We Are Young",
+    "length_ms": 250626,
+    "first_release_date": "2011-09-20",
+    "artist_credit": "Fun. featuring Janelle Monáe",
+    "artists": [
+      {
+        "name": "Fun",
+        "mbid": "136c4166-85b3-4994-aa04-59857c434199"
+      },
+      {
+        "name": "Janelle Monáe",
+        "mbid": "ee190f6b-7d98-43ec-b924-da5f8018eca0"
+      }
+    ],
+    "isrcs": [
+      "USAT21101399"
+    ],
+    "recording_credits": [
+      {
+        "role": "conductor",
+        "attributes": [],
+        "name": "Barbara Klaskin Silberg",
+        "mbid": "da1cd00e-5c69-45e0-a654-522e53bdc245"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Andrew Dawson",
+        "mbid": "90b8de7b-70eb-4b0c-bf4f-a9addd0fd197"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "strings"
+        ],
+        "name": "Sonny",
+        "mbid": "a5674002-84b3-4dcd-9469-57ae1371805b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Stuart White",
+        "mbid": "427e6a1b-c195-4619-80d6-43d2122e9e98"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "French horn"
+        ],
+        "name": "Richard Ashton",
+        "mbid": "35fa8888-f0cc-4c4c-bfbf-a99def95f74e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "French horn"
+        ],
+        "name": "Corinne Bailey",
+        "mbid": "d5a74bb9-51aa-4575-82e1-26b2bb9ccd7c"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Jeff Bhasker",
+        "mbid": "a2fdc044-010f-4317-97d2-a1c67e978543"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "French horn"
+        ],
+        "name": "Richard Bissill",
+        "mbid": "5ba4cc56-1227-4405-8bfc-3af15a195e23"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Natalia Bonner",
+        "mbid": "9a8f6e02-f8cf-48c4-a323-84f1c520d92e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "viola"
+        ],
+        "name": "Natalie Cavey",
+        "mbid": "950d45ee-3a9f-44b3-a7bc-2222eb517203"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Stephanie Cavey",
+        "mbid": "5712b6c4-9d18-4efa-873d-d1334acc31dd"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "cello"
+        ],
+        "name": "Rosie Danvers",
+        "mbid": "7481f4a7-2a2a-4fa7-8a53-128e247e493d"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trombone"
+        ],
+        "name": "Mark Frost",
+        "mbid": "8707aba3-625c-4a6b-a10c-834651a7788b"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trombone"
+        ],
+        "name": "Pat Hartley",
+        "mbid": "20e83ec6-cb6d-449a-9915-8b3290759814"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Sally Jackson",
+        "mbid": "daeda762-ccc1-4e05-b613-896940e61a47"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trombone"
+        ],
+        "name": "Trevor Mires",
+        "mbid": "d86cafc4-ab59-4403-803e-43f9c51203b5"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "cello"
+        ],
+        "name": "Jane Oliver",
+        "mbid": "95704c78-86dd-4316-8077-087df70e8132"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "viola"
+        ],
+        "name": "Emma Owens",
+        "mbid": "a04629db-e421-4020-b7e4-1040ce10924f"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Jenny Sacha",
+        "mbid": "a772d4df-70dd-4044-86c4-9c7b10319edf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "double bass"
+        ],
+        "name": "Lucy Shaw",
+        "mbid": "58ab665b-4fa1-441f-bbe8-c0125e86b59a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "flute"
+        ],
+        "name": "Chloe Vincent",
+        "mbid": "cfb31d3d-5a6b-4fc8-9c77-a1c440e0eeb6"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "strings"
+        ],
+        "name": "Wired Strings",
+        "mbid": "f06fbb0d-b443-47f9-8217-7acac242c82d"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Jeff Bhasker",
+        "mbid": "a2fdc044-010f-4317-97d2-a1c67e978543"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Stuart White",
+        "mbid": "427e6a1b-c195-4619-80d6-43d2122e9e98"
+      },
+      {
+        "role": "orchestrator",
+        "attributes": [],
+        "name": "Jeff Bhasker",
+        "mbid": "a2fdc044-010f-4317-97d2-a1c67e978543"
+      },
+      {
+        "role": "orchestrator",
+        "attributes": [],
+        "name": "Rosie Danvers",
+        "mbid": "7481f4a7-2a2a-4fa7-8a53-128e247e493d"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Jeff Bhasker",
+        "mbid": "a2fdc044-010f-4317-97d2-a1c67e978543"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "task"
+        ],
+        "name": "Tommy Danvers",
+        "mbid": "1585dc61-099b-4efb-9baf-22321fc853d2"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "drum machine"
+        ],
+        "name": "Jeff Bhasker",
+        "mbid": "a2fdc044-010f-4317-97d2-a1c67e978543"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Ken Lewis",
+        "mbid": "2bdbad13-143b-4791-99da-7a415b516af9"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Ky'lee Abrams",
+        "mbid": "13089960-b760-465c-86e4-436ed1eee906"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Jeff Bhasker",
+        "mbid": "a2fdc044-010f-4317-97d2-a1c67e978543"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Boyce Buchanan",
+        "mbid": "f13b40b3-0fc5-48eb-81a5-3c5d5337b379"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Marley Mulvihill",
+        "mbid": "04fbbff9-3acb-43f0-8d15-87654fc48df7"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Lowell Novitch",
+        "mbid": "d522d479-607e-4791-882e-586c2ffb39f9"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Renata Robins",
+        "mbid": "b3b31239-9d69-4b93-8e5d-ee9c4299ed77"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Skye Saltzman",
+        "mbid": "d7e5ab7d-fbce-4fe0-9ac0-eff2945cc613"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Finn Snyder",
+        "mbid": "15269783-f904-47ad-9081-0bcb790d1ae6"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Genevieve Thomas",
+        "mbid": "2b71f6d2-20f0-4800-9bb8-0319836ab6ee"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "West Los Angeles Children’s Choir",
+        "mbid": "27f0b6a9-3dee-4b62-b75b-5efccf490dc0"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "choir vocals"
+        ],
+        "name": "Janet Yang",
+        "mbid": "9a82855b-e2d9-42cc-970a-96b20308378a"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://deezer.com/track/16501728"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/4fz20fbPHtJg8CLuxKOGFV"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/505043385"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/jp/song/540613873"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/no/song/525521125"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/song/601186062"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/505043385"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/jp/song/540613873"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/no/song/525521125"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/song/601186062"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/14989956"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/15262913"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/34395428"
+      }
+    ],
+    "genres": [
+      "alternative rock",
+      "electronic",
+      "indie rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock"
+    ],
+    "tags": [
+      "indie rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "power pop",
+      "electronic",
+      "alternative rock",
+      "alternative/indie rock",
+      "indie",
+      "pop/rock"
+    ],
+    "releases": [
+      {
+        "id": "39238f43-7af8-46ed-8c31-efb5e79966ad",
+        "title": "Promo Only: Modern Rock Radio, October 2011",
+        "date": "2011",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "9647183d-0ef8-4e3d-879e-baf604a6fa3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5bebf3fa-e5d8-45a9-ac94-7ede0c7d9fec",
+        "title": "We Are Young",
+        "date": "2011-09-20",
+        "country": "US",
+        "status": "Withdrawn",
+        "release_group": "862a6d1b-0c65-436c-b5b6-55471dd8da5b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "8e0649f8-1e7f-42aa-ac75-936403a93e4a",
+        "title": "We Are Young",
+        "date": "2011-09-20",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "862a6d1b-0c65-436c-b5b6-55471dd8da5b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "606cdb69-8c68-4267-9cc0-5bc889ac067b",
+        "title": "Indie/Rock Playlist: October 2011",
+        "date": "2011-10",
+        "country": null,
+        "status": "Bootleg",
+        "release_group": "ed3e0e5a-fd68-4e14-9746-62c1937e4332",
+        "primary_type": "Other",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "faefb383-d974-4aa6-919d-ae16479b7715",
+        "title": "Now 20",
+        "date": "2012-01-01",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "31f0bc39-5783-410c-bd72-5bf3319d5495",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "55699e14-d65d-4f94-a512-e4f2d7800e47",
+        "title": "Some Nights",
+        "date": "2012-02-14",
+        "country": null,
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a02b04bd-d22d-4124-a5fd-5fdfec2fbbe9",
+        "title": "Some Nights",
+        "date": "2012-02-21",
+        "country": "NO",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ed85d3ab-9b66-4530-b678-816d0db9fe73",
+        "title": "Some Nights",
+        "date": "2012-02-21",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "772abfa0-bc28-4db2-9bc3-35ceda0a7d9b",
+        "title": "Some Nights",
+        "date": "2012-02-21",
+        "country": null,
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c69696b4-75ae-4dda-b90a-7ad962c71bd7",
+        "title": "Some Nights",
+        "date": "2012-02-21",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c8947007-4af5-4515-8468-87927bd8ab01",
+        "title": "Some Nights",
+        "date": "2012-02-21",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b0ef7b7f-97bb-48d2-9054-e7956620fc77",
+        "title": "Some Nights",
+        "date": "2012-02-21",
+        "country": null,
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "36ebce2e-83e9-4e79-a3fe-bbdba15cdde9",
+        "title": "Some Nights",
+        "date": "2012-02-21",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "59b3eb6c-f005-400e-b24a-7c25514e9856",
+        "title": "Some Nights",
+        "date": "2012-05-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b6d2d43a-c1df-4f2a-80aa-0b8b638e5847",
+        "title": "Some Nights",
+        "date": "2012-05-21",
+        "country": "IE",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a4756b39-c0f1-44a2-9e3c-fb9bf6e57ad9",
+        "title": "Some Nights",
+        "date": "2012-05-25",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ec1b6af1-8ccb-4080-baff-ab8fb9495fd8",
+        "title": "Absolute Summer Hits 2012",
+        "date": "2012-06-11",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "2893d0fc-5399-49ed-8f49-dabc11cd4456",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c9ac833c-0856-45c4-aae6-dfab44ed2c7e",
+        "title": "Radio 538: Hitzone 62",
+        "date": "2012-06-29",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "f553d72d-f01a-456d-95fa-503f3ec1bddb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b492433b-0dc0-4217-ae1b-24f1e68aade7",
+        "title": "Some Nights",
+        "date": "2012-07-11",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1eab2230-becc-45f6-adff-e1d496a787f9",
+        "title": "Now That’s What I Call Music! 82",
+        "date": "2012-07-23",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "93f3aa3b-93bf-4ce1-a2df-e131dd3d5512",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f03f1861-3949-491b-93ca-2d0a8d4f8d4e",
+        "title": "Now That’s What I Call Music! 82",
+        "date": "2012-07-23",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "93f3aa3b-93bf-4ce1-a2df-e131dd3d5512",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "53509070-7d7a-4af8-afc5-a50fb60b1ef6",
+        "title": "Absolute Music 70",
+        "date": "2012-08-29",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "7d0de411-f2cf-4f41-be34-c36f6540a96e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c52a99ea-80cc-4d54-83f7-4873674315c1",
+        "title": "Ö3 Greatest Hits 59",
+        "date": "2012-09-21",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "2afb83cd-a1cf-45fd-9584-a3f141cfd029",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9690ee2a-7209-42f6-a1d1-e33f06b1e080",
+        "title": "Bravo Hits 79",
+        "date": "2012-10-05",
+        "country": "CH",
+        "status": null,
+        "release_group": "42875fb8-8615-4698-bdcc-e821960be370",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "efb313a6-0a6e-4ec1-8a6e-86fb697d08b2",
+        "title": "Bravo Hits 79",
+        "date": "2012-10-05",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "42875fb8-8615-4698-bdcc-e821960be370",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "df0d446c-8a30-4f23-ab08-65df320c7cfe",
+      "title": "We Are Young",
+      "iswcs": [
+        "T-911.304.190-0",
+        "T-931.313.455-3"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Jeff Bhasker",
+          "mbid": "a2fdc044-010f-4317-97d2-a1c67e978543"
+        },
+        {
+          "role": "writer",
+          "name": "Fun",
+          "mbid": "136c4166-85b3-4994-aa04-59857c434199"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/136401",
+        "https://www.wikidata.org/wiki/Q119452"
+      ]
+    },
+    "main_artist": {
+      "name": "Fun",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "New York"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

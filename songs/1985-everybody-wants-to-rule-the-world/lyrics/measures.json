@@ -1,0 +1,41 @@
+{
+  "id": "1985-everybody-wants-to-rule-the-world",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37339611,
+  "lines": 29,
+  "words": 161,
+  "unique_words": 92,
+  "type_token_ratio": 0.571,
+  "repeated_line_share": 0.172,
+  "distinct_lines": 24,
+  "zlib_compression_ratio": 0.421,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "everybody wants to rule the world",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 6,
+    "second": 7,
+    "first_plural": 3
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 28.23,
+  "last_line_s": 210.79,
+  "sung_time_s": 123.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 78.2,
+  "words_per_minute_track": 38.5,
+  "longest_gap_between_lines_s": 51.33,
+  "longest_gap_starts_at_s": 116.55,
+  "first_repeated_block": {
+    "first_at_s": 86.76,
+    "recurs_at_s": 206.87,
+    "lines": [
+      "Nothing ever lasts forever",
+      "Everybody wants to rule the world"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37339611",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

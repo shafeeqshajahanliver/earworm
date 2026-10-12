@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37430557,
+  "kind": "synced",
+  "matched": {
+    "track": "I Believe I Can Fly",
+    "artist": "R. Kelly",
+    "album": "Wetten dass…? - Lovesongs",
+    "duration_s": 284.0
+  },
+  "duration_matched_to": "musicbrainz recording length (284s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 283.872,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 282.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 282.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 320.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37500772 (I Believe I Can Fly / R. Kelly / Bravo Hits 17, 289.0s): duration matches no reference length",
+    "lrclib 37194017 (I Believe I Can Fly / R. Kelly / 1997 - Top 100, 343.0s): duration matches no reference length",
+    "lrclib 37053214 (I Believe I Can Fly / R. Kelly / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 37285564 (I Believe I Can Fly / R. Kelly / Billboard Top 100 Hits Of 1997, 343.0s): duration matches no reference length",
+    "lrclib 28842452 (I Believe I Can Fly / R.Kelly / I Believe I Can Fly, 1138.0s): duration matches no reference length",
+    "lrclib 18609925 (I Believe I Can Fly (instrumental) / R. Kelly / I Believe I Can Fly, 322.0266669s): live/remix/other version",
+    "lrclib 4717340 (I Believe I Can Fly (Instrumental) / R. Kelly / I Believe I Can Fly, 320.0s): live/remix/other version",
+    "lrclib 25556802 (I Believe I Can Fly (Radio Edit) / R. Kelly / I Believe I Can Fly, 231.0153216s): duration matches no reference length",
+    "lrclib 18047239 (I Believe I Can Fly [Instrumental] / R. Kelly / I Believe I Can Fly [Single], 321.7379072s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

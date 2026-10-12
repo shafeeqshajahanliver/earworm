@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 32156535,
+  "kind": "synced",
+  "matched": {
+    "track": "Freak Me",
+    "artist": "Silk",
+    "album": "Freak Me (CDS)",
+    "duration_s": 276.0
+  },
+  "duration_matched_to": "musicbrainz recording length (276s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 276.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 274.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 276.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33352733 (Freak me / Silk / Hits i Grew up with, 268.0s): duration matches no reference length",
+    "lrclib 35886472 (Freak Me / Silk / Lose Control, Nones): duration matches no reference length",
+    "lrclib 35966922 (Freak Me / Silk / Rhythm Is A Dancer, 258.0s): duration matches no reference length",
+    "lrclib 36309660 (Freak Me / Silk / Lose Control, Nones): duration matches no reference length",
+    "lrclib 36659243 (Freak Me / Silk / Hits Of The 90s, 258.0s): duration matches no reference length",
+    "lrclib 36511441 (Freak Me / Silk / 2017 - Ministry Of Sound - R&B Mixtape [UK] [3CD], 261.0s): duration matches no reference length",
+    "lrclib 36511439 (Freak Me / Silk / 2015 - Ministry Of Sound - Throwback R&B Anthems [UK] [3CD], 236.0s): duration matches no reference length",
+    "lrclib 32929847 (Freak Me / Silk / Freak Me, 293.0s): duration matches no reference length",
+    "lrclib 18788288 (Freak Me / Silk / The Best of Silk, 562.4558s): duration matches no reference length",
+    "lrclib 1005826 (Freak Me / Silk / The Best of Silk, 258.0s): duration matches no reference length",
+    "lrclib 26887523 (Freak Me / Silk / The Best Of Silk, 266.565079s): duration matches no reference length",
+    "lrclib 16977779 (Freak Me (12in Remix) / Silk / Best of Silk, 297.012245s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

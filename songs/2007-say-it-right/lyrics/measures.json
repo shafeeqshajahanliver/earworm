@@ -1,0 +1,41 @@
+{
+  "id": "2007-say-it-right",
+  "lyrics_kind": "synced",
+  "lrclib_id": 36558398,
+  "lines": 33,
+  "words": 300,
+  "unique_words": 88,
+  "type_token_ratio": 0.293,
+  "repeated_line_share": 0.212,
+  "distinct_lines": 26,
+  "zlib_compression_ratio": 0.322,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "say it right",
+  "title_phrase_occurrences": 1,
+  "pronouns": {
+    "first_singular": 30,
+    "second": 25,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 23.9,
+  "last_line_s": 215.53,
+  "sung_time_s": 191.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 94.2,
+  "words_per_minute_track": 81.1,
+  "longest_gap_between_lines_s": 8.52,
+  "longest_gap_starts_at_s": 73.07,
+  "first_repeated_block": {
+    "first_at_s": 56.66,
+    "recurs_at_s": 122.32,
+    "lines": [
+      "Oh, you don't mean nothing at all to me (Hey, oh, oh, hey)",
+      "No, you don't mean nothing at all to me (Hey, oh, oh, hey)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 36558398",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

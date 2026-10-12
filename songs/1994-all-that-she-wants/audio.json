@@ -1,0 +1,76 @@
+{
+  "id": "1994-all-that-she-wants",
+  "preview": {
+    "service": "deezer",
+    "track_id": 19279001,
+    "matched_by": "isrc",
+    "isrc": "SEVJH0803401",
+    "title": "All That She Wants",
+    "artist": "Ace of Base",
+    "album": "All That She Wants (The Remixes)",
+    "track_duration_s": 211,
+    "link": "https://www.deezer.com/track/19279001",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 30.01,
+    "tempo_bpm": 93.8,
+    "tempo_bpm_grid": 94.0,
+    "tempo_candidates_bpm": [
+      184.6,
+      47.0,
+      63.0
+    ],
+    "beats_detected": 47,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.704,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.66,
+    "chroma_profile": [
+      0.689,
+      1.0,
+      0.709,
+      0.823,
+      0.983,
+      0.737,
+      0.943,
+      0.798,
+      0.892,
+      0.95,
+      0.94,
+      0.937
+    ],
+    "rms_dbfs": -10.45,
+    "rms_dbfs_p95_frame": -5.62,
+    "peak_dbfs": -0.36,
+    "loudness_lufs_approx": -11.61,
+    "spectral_centroid_hz_mean": 2653.2,
+    "spectral_centroid_hz_median": 2447.3,
+    "onsets": 179,
+    "onset_density_per_s": 5.964,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 19279001",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -11.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/19279001",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc DEF089204230: version: All That She Wants (Banghra Version)",
+    "deezer isrc DEF089204270: matched but no preview available (readable=False)",
+    "deezer isrc DEF089390012: matched but no preview available (readable=False)",
+    "deezer isrc RUB421600405: matched but no preview available (readable=False)",
+    "deezer isrc USLS51703615: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2006-crazy",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1741403966,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Crazy",
+    "artist": "Gnarls Barkley",
+    "album": "St. Elsewhere",
+    "track_duration_s": 182.1,
+    "link": "https://music.apple.com/us/album/crazy/1741403959?i=1741403966&uo=4",
+    "duration_matched_to": "musicbrainz recording length (182s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 112.0,
+    "tempo_bpm_grid": 112.3,
+    "tempo_candidates_bpm": [
+      112.3,
+      56.2,
+      215.3
+    ],
+    "beats_detected": 46,
+    "key": "C minor",
+    "key_tonic": "C",
+    "key_mode": "minor",
+    "key_correlation": 0.845,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.641,
+    "chroma_profile": [
+      1.0,
+      0.537,
+      0.577,
+      0.906,
+      0.476,
+      0.392,
+      0.519,
+      0.949,
+      0.957,
+      0.469,
+      0.48,
+      0.507
+    ],
+    "rms_dbfs": -4.54,
+    "rms_dbfs_p95_frame": -1.95,
+    "peak_dbfs": 1.37,
+    "loudness_lufs_approx": -4.9,
+    "spectral_centroid_hz_mean": 2021.7,
+    "spectral_centroid_hz_median": 1976.1,
+    "onsets": 88,
+    "onset_density_per_s": 2.936,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1741403966",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 89459329: version (Crazy (Live from the Basement))",
+    "itunes 936150027: version (Crazy (Live From the Basement))",
+    "itunes 287367365: version (Crazy (Live))"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1994-dont-turn-around",
+  "preview": {
+    "service": "deezer",
+    "track_id": 19278401,
+    "matched_by": "isrc",
+    "isrc": "SEVJH0803402",
+    "title": "Don't Turn Around",
+    "artist": "Ace of Base",
+    "album": "Don't Turn Around (The Remixes)",
+    "track_duration_s": 230,
+    "link": "https://www.deezer.com/track/19278401",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 30.01,
+    "tempo_bpm": 94.3,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      95.7,
+      184.6,
+      198.8
+    ],
+    "beats_detected": 48,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.599,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.417,
+    "chroma_profile": [
+      0.703,
+      0.657,
+      0.724,
+      0.679,
+      0.786,
+      0.795,
+      1.0,
+      0.831,
+      0.75,
+      0.825,
+      0.661,
+      0.82
+    ],
+    "rms_dbfs": -10.89,
+    "rms_dbfs_p95_frame": -6.29,
+    "peak_dbfs": 0.18,
+    "loudness_lufs_approx": -11.76,
+    "spectral_centroid_hz_mean": 2605.1,
+    "spectral_centroid_hz_median": 2580.8,
+    "onsets": 171,
+    "onset_density_per_s": 5.697,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 19278401",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/19278401",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc DKAWM9300102: matched but no preview available (readable=False)"
+  ]
+}

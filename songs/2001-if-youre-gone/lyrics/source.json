@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18096098,
+  "kind": "synced",
+  "matched": {
+    "track": "If You're Gone (edit)",
+    "artist": "Matchbox Twenty",
+    "album": "If You're Gone",
+    "duration_s": 274.918
+  },
+  "duration_matched_to": "musicbrainz recording length (275s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 274.933,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 274.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 274.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 0.989,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 18991302 (If You’re Gone / Matchbox Twenty / Mad Season, 247.94675s): duration matches no reference length",
+    "lrclib 18872521 (If You're Gone / Matchbox Twenty / Show DVDA, 375.275102s): duration matches no reference length",
+    "lrclib 18920914 (If You're Gone / Matchbox Twenty / Show: A Night in the Life of Matchbox Twenty, 375.275102s): duration matches no reference length",
+    "lrclib 18854111 (If You're Gone / Matchbox Twenty / Show (A Night In The Life Of Matchbox Twenty), 375.3273469s): duration matches no reference length",
+    "lrclib 20617117 (If You're Gone / Matchbox Twenty / Exile on Mainstream, 304.14457s): duration matches no reference length",
+    "lrclib 20765698 (If You're Gone / Matchbox Twenty / Show, 375.275102s): duration matches no reference length",
+    "lrclib 20631276 (If You're Gone / Matchbox Twenty / Mad Season, 257.368313s): duration matches no reference length",
+    "lrclib 28309902 (If You're Gone (edit) / Matchbox Twenty / If You're Gone, 263.0s): duration matches no reference length",
+    "lrclib 23952335 (If You're Gone / Matchbox Twenty / Show: A Night in the Life of Matchbox Twenty, 360.22215s): duration matches no reference length",
+    "lrclib 29521046 (If You're Gone / Matchbox Twenty / Show∶ A Night In The Life Of Matchbox Twenty, 375.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

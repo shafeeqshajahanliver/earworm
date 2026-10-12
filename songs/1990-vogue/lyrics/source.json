@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21236569,
+  "kind": "synced",
+  "matched": {
+    "track": "Vogue (Bette Davis Dub)",
+    "artist": "Madonna",
+    "album": "CD Single Collection [40CD Box]",
+    "duration_s": 446.733333
+  },
+  "duration_matched_to": "musicbrainz recording length (446s)",
+  "duration_diff_s": 0.7,
+  "reference_lengths": [
+    {
+      "seconds": 446.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 448.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 261.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 289.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 319.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 505.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 43,
+  "agreement_with_other_candidates": 0.537,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37158189 (Vogue / Madonna / Justify My Love Live, 330.0s): live/remix/other version",
+    "lrclib 37048783 (Vogue / Madonna / Mastermix - 10 Years Of Pop, 117.0s): duration matches no reference length",
+    "lrclib 37362167 (Vogue / Madonna / Remixed & Revisited, 503.0s): live/remix/other version",
+    "lrclib 37375266 (Vogue / Madonna / I'm Breathless, 343.0s): duration matches no reference length",
+    "lrclib 37380518 (Vogue / Madonna / Celebration, 343.0s): duration matches no reference length",
+    "lrclib 18923186 (Vogue [Bette Davis Dub] / Madonna / Vogue, 458.68075s): duration matches no reference length",
+    "lrclib 18039281 (Vogue (Bette Davis Dub) / Madonna / Vogue (Cd Remix Single), 447.830083s): live/remix/other version",
+    "lrclib 34197725 (Vogue / Madonna / Vogue, 456.0s): duration matches no reference length",
+    "lrclib 20656033 (Vogue / Madonna / Madonna, 157.675102s): duration matches no reference length",
+    "lrclib 21072643 (Vogue / Madonna / Madonna Megamix, 143.9869579s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

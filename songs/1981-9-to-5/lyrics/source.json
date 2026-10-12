@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 2868,
+  "kind": "synced",
+  "matched": {
+    "track": "9 to 5",
+    "artist": "Dolly Parton",
+    "album": "9 To 5 And Odd Jobs",
+    "duration_s": 166.0
+  },
+  "duration_matched_to": "musicbrainz recording length (165s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 165.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 163.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 15,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 19167614 (9 To 5 (9 To 5) / Dolly Parton / Now 100 Hits Movies, Disc 4, 165.697596s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 5727755 (9 To 5 [9 To 5] / Dolly Parton / Now 100 Hits Movies, 166.0s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 18559766 (9 to 5 [From 9 to 5] / Dolly Parton / Platinum & Gold Collection, 180.979525s): duration matches no reference length",
+    "lrclib 21992502 (9 To 5 (From 9 To 5) / Dolly Parton / The Time Of My Life: The Greatest Hits Of The Movies, 179.84s): duration matches no reference length",
+    "lrclib 29058219 (9 To 5 (From \"9 To 5\") / Dolly Parton / 80s Blockbusters, 177.0s): duration matches no reference length",
+    "lrclib 36994532 (9 To 5 / Dolly Parton / Billboard Year End Hits 1980-89/1981, 181.0s): duration matches no reference length",
+    "lrclib 37073507 (9 To 5 / Dolly Parton / Celebrate The 80's Cd4, 179.0s): duration matches no reference length",
+    "lrclib 37076688 (9 to 5 / Dolly Parton / Live from Glastonbury 2014, 450.0s): live/remix/other version",
+    "lrclib 19491170 (9 to 5 / Dolly Parton / Parton: Dolly, 165.694694s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 1122414 (9 to 5 / Dolly Parton / Dolly Parton, 166.0s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 16426212 (9 To 5 / Dolly Parton / Dolly Parton, 153.744s): duration matches no reference length",
+    "lrclib 20229065 (9 to 5 (live) / Dolly Parton / Dolly Parton, 160.966528s): live/remix/other version",
+    "lrclib 22607686 (9 to 5 (live) / Dolly Parton / Dolly Parton, 167.862857s): live/remix/other version",
+    "lrclib 19033211 (9 to 5 / Dolly Parton / Ultimate Dolly Parton, 241.057938s): duration matches no reference length",
+    "lrclib 22018406 (9 to 5 / Dolly Parton / Ultimate Dolly Parton, 170.114708s): duration matches no reference length",
+    "lrclib 21479754 (9 to 5 / Dolly Parton / Ultimate Dolly Parton, 183.358792s): duration matches no reference length",
+    "lrclib 24776919 (9 to 5 / Dolly Parton / Dolly Parton - Essentials, 162.507755s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 24649117 (9 to 5 / Dolly Parton / Dolly Parton - Essentials, 180.976327s): duration matches no reference length",
+    "lrclib 3001917 (9 To 5 / Dolly Parton / Ultimate Dolly Parton, 166.0s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 5129139 (9 to 5 / Dolly Parton / Ultimate Dolly Parton, 181.0s): duration matches no reference length",
+    "lrclib 6994212 (9 to 5 / Dolly Parton / Ultimate Dolly Parton, 163.0s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 25797280 (9 to 5 / Dolly Parton / Ultimate Dolly Parton, 153.782857s): duration matches no reference length",
+    "lrclib 16158096 (9 To 5 / Dolly Parton / Dolly Parton Videos, 154.0s): duration matches no reference length",
+    "lrclib 38628846 (9 to 5 / Dolly Parton / Legendary Dolly Parton, 164.0s): only 33% of title words in the lyric (wrong song?)",
+    "lrclib 38835682 (9 to 5 / Dolly Parton / Dolly Parton - Single, 172.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

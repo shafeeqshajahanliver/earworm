@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 486733,
+  "kind": "synced",
+  "matched": {
+    "track": "Every Rose Has Its Thorn",
+    "artist": "Poison",
+    "album": "Open Up and Say . . . Ahh!",
+    "duration_s": 260.0
+  },
+  "duration_matched_to": "musicbrainz recording length (259s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 259.426,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 260.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37020348 (Every Rose Has It's Thorn / Poison / Xtreme Professional Karaoke, 259.0s): live/remix/other version",
+    "lrclib 37535701 (Every Rose Has Its Thorn / Poison / Swallow This-LiveII, 266.0s): live/remix/other version",
+    "lrclib 37363111 (Every Rose Has Its Thorn / Poison / Singles, 238.0s): duration matches no reference length",
+    "lrclib 37363190 (Every Rose Has Its Thorn / Poison / Favorite Songs, 238.0s): duration matches no reference length",
+    "lrclib 37202593 (Every Rose Has Its Thorn / Poison / Swallow This: Live, 501.0s): live/remix/other version",
+    "lrclib 37203349 (Every Rose Has Its Thorn / Poison / Swallow This: Live, 271.0s): live/remix/other version",
+    "lrclib 37227464 (Every Rose Has It's Thorn / Poison / The Best Rock Ballads …Ever!, 227.0s): duration matches no reference length",
+    "lrclib 34456097 (Every Rose Has Its Thorn / Poison / Open Up and Say… Ahh!, 254.0s): duration matches no reference length",
+    "lrclib 13531774 (Every Rose Has Its Thorn / Poison / Every Rose Has Its Thorn, 267.0s): duration matches no reference length",
+    "lrclib 38292993 (Every Rose Has Its Thorn / Poison / Every Rose Has It's Thorn, 285.0s): duration matches no reference length",
+    "lrclib 16607509 (Every Rose Has Its Thorn [Atmos Mix] / Poison / Every Rose Has Its Thorn (Atmos Mix), 260.0s): live/remix/other version",
+    "lrclib 21355821 (Every Rose Has It's Thorn / Poison / Other Poison, 254.016s): duration matches no reference length",
+    "lrclib 19100942 (Every Rose Has Its Thorn / Poison / Name Your Poison: A Tribute to Poison, 257.358367s): live/remix/other version",
+    "lrclib 27402357 (Every Rose Has Its Thorn / Poison / Poison Love Songs, 284.79275s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

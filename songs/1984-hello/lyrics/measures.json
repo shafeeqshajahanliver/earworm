@@ -1,0 +1,41 @@
+{
+  "id": "1984-hello",
+  "lyrics_kind": "synced",
+  "lrclib_id": 967373,
+  "lines": 37,
+  "words": 214,
+  "unique_words": 81,
+  "type_token_ratio": 0.379,
+  "repeated_line_share": 0.324,
+  "distinct_lines": 25,
+  "zlib_compression_ratio": 0.376,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "hello",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 31,
+    "second": 27,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 16.1,
+  "last_line_s": 224.66,
+  "sung_time_s": 163.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 78.8,
+  "words_per_minute_track": 51.6,
+  "longest_gap_between_lines_s": 38.96,
+  "longest_gap_starts_at_s": 149.69,
+  "first_repeated_block": {
+    "first_at_s": 38.9,
+    "recurs_at_s": 188.65,
+    "lines": [
+      "Hello",
+      "Is it me you're looking for?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 967373",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

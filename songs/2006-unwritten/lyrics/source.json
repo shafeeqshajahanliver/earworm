@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37402582,
+  "kind": "synced",
+  "matched": {
+    "track": "Unwritten",
+    "artist": "Natasha Bedingfield",
+    "album": "Absolute Hits 2005",
+    "duration_s": 258.0
+  },
+  "duration_matched_to": "musicbrainz recording length (258s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 258.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 254.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 219.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 232.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 256.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 258.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37483907 (Unwritten / Natasha Bedingfield / Los Nº 1 de los 40 Principales, 248.0s): duration matches no reference length",
+    "lrclib 37308574 (Unwritten / Natasha Bedingfield / Grandmaster 2005 Part 1, 163.0s): duration matches no reference length",
+    "lrclib 36864664 (Unwritten / Natasha Bedingfield / 7clouds Videos, 248.0s): duration matches no reference length",
+    "lrclib 35050738 (Unwritten / Natasha Bedingfield / 2007 GRAMMY Nominees, 225.0s): duration matches no reference length",
+    "lrclib 26141024 (Unwritten (Manny Marroquin Mix) / Natasha Bedingfield / Natasha Bedingfield, 253.441s): live/remix/other version",
+    "lrclib 10579897 (Unwritten (Official Video) (as featured in Anyone But You) / Natasha Bedingfield / Natasha Bedingfield Videos, 226.0s): duration matches no reference length",
+    "lrclib 9886681 (Unwritten (Official Video) (as featured in Anyone But You) / Natasha Bedingfield / Natasha Bedingfield Songs, 226.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

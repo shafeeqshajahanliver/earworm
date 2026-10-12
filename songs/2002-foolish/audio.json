@@ -1,0 +1,70 @@
+{
+  "id": "2002-foolish",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1761418327,
+    "matched_by": "isrc",
+    "isrc": "USDJ20200198",
+    "title": "Foolish",
+    "artist": "Ashanti",
+    "album": "#1 Spot",
+    "track_duration_s": 227,
+    "link": "https://www.deezer.com/track/1761418327",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.2,
+    "tempo_bpm_grid": 89.9,
+    "tempo_candidates_bpm": [
+      184.6,
+      89.1,
+      172.3
+    ],
+    "beats_detected": 46,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.914,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.766,
+    "chroma_profile": [
+      1.0,
+      0.575,
+      0.74,
+      0.599,
+      0.844,
+      0.874,
+      0.573,
+      0.758,
+      0.63,
+      0.768,
+      0.585,
+      0.704
+    ],
+    "rms_dbfs": -8.75,
+    "rms_dbfs_p95_frame": -4.17,
+    "peak_dbfs": 2.16,
+    "loudness_lufs_approx": -8.87,
+    "spectral_centroid_hz_mean": 2699.0,
+    "spectral_centroid_hz_median": 2482.6,
+    "onsets": 97,
+    "onset_density_per_s": 3.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1761418327",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1761418327",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

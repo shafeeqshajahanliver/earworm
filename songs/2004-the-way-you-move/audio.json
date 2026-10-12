@@ -1,0 +1,77 @@
+{
+  "id": "2004-the-way-you-move",
+  "preview": {
+    "service": "deezer",
+    "track_id": 628247,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAR10300967",
+    "title": "The Way You Move (feat. Sleepy Brown)",
+    "artist": "OutKast",
+    "album": "Speakerboxxx/The Love Below",
+    "track_duration_s": 235,
+    "link": "https://www.deezer.com/track/628247",
+    "duration_matched_to": "musicbrainz recording length (235s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.1,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      63.0,
+      123.0,
+      129.2
+    ],
+    "beats_detected": 59,
+    "key": "C minor",
+    "key_tonic": "C",
+    "key_mode": "minor",
+    "key_correlation": 0.687,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.67,
+    "chroma_profile": [
+      1.0,
+      0.704,
+      0.581,
+      0.53,
+      0.52,
+      0.569,
+      0.5,
+      0.743,
+      0.562,
+      0.483,
+      0.587,
+      0.439
+    ],
+    "rms_dbfs": -7.63,
+    "rms_dbfs_p95_frame": -4.35,
+    "peak_dbfs": 1.4,
+    "loudness_lufs_approx": -7.6,
+    "spectral_centroid_hz_mean": 2541.7,
+    "spectral_centroid_hz_median": 2542.6,
+    "onsets": 115,
+    "onset_density_per_s": 3.835,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 628247",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/628247",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C minor and C major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAR10300966: version: The Way You Move (feat. Sleepy Brown) (Radio Mix)",
+    "deezer 14879222: version (The Way You Move (Instrumental))",
+    "deezer 3770163192: duration 44s matches no reference length"
+  ]
+}

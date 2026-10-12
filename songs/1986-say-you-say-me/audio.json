@@ -1,0 +1,73 @@
+{
+  "id": "1986-say-you-say-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 905697,
+    "matched_by": "isrc",
+    "isrc": "USMO18582864",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "album": "Dancing On The Ceiling (Expanded Edition)",
+    "track_duration_s": 244,
+    "link": "https://www.deezer.com/track/905697",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 63.7,
+    "tempo_bpm_grid": 64.2,
+    "tempo_candidates_bpm": [
+      64.6,
+      129.2,
+      123.0
+    ],
+    "beats_detected": 31,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.85,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.698,
+    "chroma_profile": [
+      0.724,
+      0.868,
+      0.493,
+      0.734,
+      0.35,
+      0.686,
+      0.606,
+      0.564,
+      0.779,
+      0.464,
+      1.0,
+      0.472
+    ],
+    "rms_dbfs": -16.15,
+    "rms_dbfs_p95_frame": -12.47,
+    "peak_dbfs": -0.94,
+    "loudness_lufs_approx": -15.45,
+    "spectral_centroid_hz_mean": 1842.8,
+    "spectral_centroid_hz_median": 1815.7,
+    "onsets": 58,
+    "onset_density_per_s": 1.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 905697",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 128,
+    "gain": -15.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/905697",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (128.0): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

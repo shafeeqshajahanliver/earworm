@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20801062,
+  "kind": "synced",
+  "matched": {
+    "track": "Everything You Want",
+    "artist": "Vertical Horizon",
+    "album": "Everything You Want",
+    "duration_s": 254.96125
+  },
+  "duration_matched_to": "musicbrainz recording length (251s)",
+  "duration_diff_s": 3.9,
+  "reference_lengths": [
+    {
+      "seconds": 251.04,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 257.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 246.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 257.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37164863 (Everything You Want / Vertical Horizon / Billboard Year-End Hot 100 Songs Of 2000, 284.0s): duration matches no reference length",
+    "lrclib 34912603 (Everything You Want / Vertical Horizon / Billboard Top 100 Of 2000, 284.0s): duration matches no reference length",
+    "lrclib 35766780 (Everything You Want / Vertical Horizon / Live in Studio - The Acoustic Collection, 266.0s): live/remix/other version",
+    "lrclib 20045635 (Everything You Want / Vertical Horizon / Everything You Want, 270.819375s): duration matches no reference length",
+    "lrclib 19690020 (Everything You Want / Vertical Horizon / Everything You Want, 295.1702s): duration matches no reference length",
+    "lrclib 21730986 (Everything You Want / Vertical Horizon / Everything You Want, 230.4s): duration matches no reference length",
+    "lrclib 30561262 (Everything You Want / Vertical Horizon / Everything You Want, 263.0s): duration matches no reference length",
+    "lrclib 31584910 (Everything You Want / Vertical Horizon / Everything You Want, 277.0s): duration matches no reference length",
+    "lrclib 20091813 (Everything You Want (radio mix) / Vertical Horizon / Everything You Want, 248.2533376s): live/remix/other version",
+    "lrclib 21841760 (Everything You Want (radio mix) / Vertical Horizon / Everything You Want, 246.0s): live/remix/other version",
+    "lrclib 25657138 (Everything You Want (Alternate Mix) / Vertical Horizon / Everything You Want, 248.0s): live/remix/other version",
+    "lrclib 10137889 (Everything You Want (radio mix) / Vertical Horizon / Everything You Want, 257.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

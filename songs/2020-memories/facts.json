@@ -1,0 +1,637 @@
+{
+  "id": "2020-memories",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Memories (Maroon 5 song)",
+  "wikidata": {
+    "qid": "Q68015646",
+    "label": "Memories",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q182223",
+          "label": "Maroon 5"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q219631",
+          "label": "Adam Levine"
+        },
+        {
+          "qid": "Q18044284",
+          "label": "Jon Bellion"
+        },
+        {
+          "qid": "Q100597036",
+          "label": "Michael Pollack"
+        },
+        {
+          "qid": "Q766215",
+          "label": "Vincent Ford"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q219631",
+          "label": "Adam Levine"
+        },
+        {
+          "qid": "Q7752099",
+          "label": "The Monsters and The Strangerz"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q231694",
+          "label": "Interscope Records"
+        },
+        {
+          "qid": "Q14192683",
+          "label": "222 Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2019-00-00"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q106653400",
+          "label": "Jordi"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q41642884",
+          "label": "Girls Like You"
+        }
+      ],
+      "based_on": [
+        {
+          "qid": "Q689519",
+          "label": "Canon and Gigue in D"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "ccd06004-2afc-418c-b1a1-26238646cfce"
+      ],
+      "musicbrainz_release_group_id": [
+        "3636e1dd-ee7d-4208-b9c5-8d212b200c26"
+      ],
+      "genius_song_id": [
+        "Maroon-5-memories-lyrics"
+      ],
+      "youtube_video_id": [
+        "SlPhMPnQ58k"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 3636e1dd-ee7d-4208-b9c5-8d212b200c26 (2019-09-20)",
+  "musicbrainz": {
+    "recording_id": "61c3a0dc-0ddf-4b8e-a5d4-f81cc4ad7df3",
+    "title": "Memories",
+    "length_ms": 189486,
+    "first_release_date": "2019-09-20",
+    "artist_credit": "Maroon 5",
+    "artists": [
+      {
+        "name": "Maroon 5",
+        "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+      }
+    ],
+    "isrcs": [
+      "USUM71913350"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Noah Passovoy",
+        "mbid": "9fafb136-d4ce-4eac-95c7-556172ce29a7"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Jesse Carmichael",
+        "mbid": "9876551c-4ad1-4857-ac72-5f6d00017c8e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Jesse Carmichael",
+        "mbid": "9876551c-4ad1-4857-ac72-5f6d00017c8e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Sam Farrar",
+        "mbid": "fc36e7d9-72c9-4cf6-86c4-ce3cf5d7fb2b"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "percussion"
+        ],
+        "name": "Matt Flynn",
+        "mbid": "b955101e-19b8-4faf-8d68-6bfc2a3e9059"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Matt Flynn",
+        "mbid": "b955101e-19b8-4faf-8d68-6bfc2a3e9059"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "Mickey Madden",
+        "mbid": "7bfe45a0-f000-43ee-965f-39a564980022"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "PJ Morton",
+        "mbid": "d0bb100a-c0d6-4ef7-bde2-cc5095a31d24"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Michael Pollack",
+        "mbid": "76c5e552-688e-4e9d-afa0-36e77526495a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "James Valentine",
+        "mbid": "f8abfd32-73f9-49e7-9b88-3e47ea27a2cd"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Adam Levine",
+        "mbid": "a1421d73-1a21-484b-97ad-77c9a5676daf"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "The Monsters & Strangerz",
+        "mbid": "06a58fd1-4767-4eda-a60f-97103dbccd19"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Noah Passovoy",
+        "mbid": "9fafb136-d4ce-4eac-95c7-556172ce29a7"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Gian Stone",
+        "mbid": "f71b95f8-6a11-414a-b2cf-df4519c78596"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "The Monsters & Strangerz",
+        "mbid": "06a58fd1-4767-4eda-a60f-97103dbccd19"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Bo Bodnar",
+        "mbid": "82a66d18-f271-4c04-a789-92d8a7f4a230"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Michael Pollack",
+        "mbid": "76c5e552-688e-4e9d-afa0-36e77526495a"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=lNilb-EaTOU"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/1229101182"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/182111350"
+      }
+    ],
+    "genres": [
+      "ambient",
+      "jazz",
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "ambient",
+      "folk/country",
+      "jazz",
+      "pop music",
+      "rhythm and blues"
+    ],
+    "releases": [
+      {
+        "id": "5b914854-d3b9-4837-99a8-d429d3904c38",
+        "title": "Memories",
+        "date": "2019-09-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "3636e1dd-ee7d-4208-b9c5-8d212b200c26",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "902cec9c-545b-4ff8-bdb1-c8574f9792d7",
+        "title": "Memories",
+        "date": "2019-09-20",
+        "country": null,
+        "status": "Official",
+        "release_group": "3636e1dd-ee7d-4208-b9c5-8d212b200c26",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "75f85c4e-abd0-4243-aa0b-cc182960303b",
+        "title": "NRJ Music Awards 2019",
+        "date": "2019-10-25",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "cd404d91-cd38-4957-a5f7-770c9aaf5fae",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "aedb8f43-0a77-422b-a81d-b40ea6b7b16d",
+        "title": "NRJ Music Awards 2019",
+        "date": "2019-10-25",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "cd404d91-cd38-4957-a5f7-770c9aaf5fae",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fe604061-6b32-4d56-8615-bdad559d0aaa",
+        "title": "Bravo: The Hits 2019",
+        "date": "2019-11-08",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "250ae926-ca14-4214-940e-64b61dddf733",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4cc706f9-09b3-44f1-a7dc-20061d76096a",
+        "title": "Bravo: The Hits 2019",
+        "date": "2019-11-08",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "250ae926-ca14-4214-940e-64b61dddf733",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "299da893-9759-4d70-9e16-ba28f40aa45f",
+        "title": "538: Hitzone: Best of 2019",
+        "date": "2019-11-15",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "08ef72a6-9461-41dc-a0a9-d4dcf7e7bc97",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a69a61d5-1c87-472c-91e4-30ee9d7f0aab",
+        "title": "538: Hitzone: Best of 2019",
+        "date": "2019-11-15",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "08ef72a6-9461-41dc-a0a9-d4dcf7e7bc97",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9047dd91-0b2b-4cd9-bc94-c5763ef20fae",
+        "title": "The Dome, Vol. 92",
+        "date": "2019-11-15",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "6e03dff1-ab57-4a86-9c24-40cf88432a5a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "aaff9228-1c19-4919-8317-a53be19bd2ac",
+        "title": "The Dome, Vol. 92",
+        "date": "2019-11-15",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "6e03dff1-ab57-4a86-9c24-40cf88432a5a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f25431d0-9033-4cef-8018-a313aebb1123",
+        "title": "M6 Hits 2020",
+        "date": "2019-11-22",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "4300e447-5708-4fd5-95eb-901821072d91",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "521b4123-6e3f-4917-b380-b002178fc242",
+        "title": "MNM Big Hits: Best of 2019",
+        "date": "2019-11-22",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "f3ac2664-62aa-44a7-b216-4201d01b6775",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bb7a4b1e-dd17-44ec-9f76-730147d797a2",
+        "title": "MNM Big Hits: Best of 2019",
+        "date": "2019-11-22",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "f3ac2664-62aa-44a7-b216-4201d01b6775",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3bdcbb05-b9d8-48f3-9edf-7a85efa5eac9",
+        "title": "NRJ Hit Music Only 2020",
+        "date": "2019-11-22",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "75050f41-744c-410a-9457-8a06e571c035",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a69ae847-e495-475c-9061-994db0e90b99",
+        "title": "NRJ Hit Music Only 2020",
+        "date": "2019-11-22",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "75050f41-744c-410a-9457-8a06e571c035",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "74a463a2-69b3-4adf-9bc2-d8f072e80a39",
+        "title": "So Fresh: The Hits of Summer 2020",
+        "date": "2019-11-22",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "8eff3bfa-b53d-45df-8136-da46d1e33028",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "47a9554b-c487-40e5-9982-7a1ceeed0aad",
+        "title": "So Fresh: The Hits of Summer 2020 + the Best of 2019",
+        "date": "2019-11-22",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "e356f867-3fe5-4172-9c4b-1db9e4b88335",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a2144632-9b5b-48fa-a232-1eb8c2b2365b",
+        "title": "NRJ 12 Best of 2019",
+        "date": "2019-11-29",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "38200542-aca4-4dd5-b0e5-a08da6b0b247",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1e6e735f-d524-4da9-9192-7387253d668b",
+        "title": "Hot Party Winter 2020",
+        "date": "2019-12-06",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "98fa1741-f676-4d38-9d12-286d8832de91",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fe650114-5526-49cc-8807-159c57a4a132",
+        "title": "NRJ Music Awards 2019, Vol. 2",
+        "date": "2019-12-06",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "7be83cb7-d46a-4fb7-8971-9498696ad181",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7f40a4ba-f979-42ec-afc7-89ac9cdbe3d7",
+        "title": "110 Hits 2020",
+        "date": "2019-12-13",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "85b24492-8c57-4cfe-a7f0-2006a48c6cec",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e0f17d4c-d246-45f7-bf8f-fc77183eb7c1",
+        "title": "NRJ L'année des hits 2019",
+        "date": "2019-12-13",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "ef677126-573b-4c9d-8b16-b927d94346d4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "be36c2d5-99fc-4a19-b61d-9149b2628031",
+        "title": "Megahits 2020: Die Erste",
+        "date": "2019-12-20",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "ce316c7a-d6de-492d-8b28-5fe6fe72adb5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "83eac01a-6436-4ff8-b0ed-ee6aa5e49fc4",
+        "title": "NRJ Hits 2020",
+        "date": "2019-12-20",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "dcbff17e-4ea2-45d2-aabb-5e59c57e3863",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "985501cf-59c8-44f2-bf55-03572096426c",
+        "title": "NRJ Hits 2020",
+        "date": "2019-12-20",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "dcbff17e-4ea2-45d2-aabb-5e59c57e3863",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "ccd06004-2afc-418c-b1a1-26238646cfce",
+      "title": "Memories",
+      "iswcs": [
+        "T-929.855.581-4",
+        "T-930.620.074-8"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Jon Bellion",
+          "mbid": "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e"
+        },
+        {
+          "role": "writer",
+          "name": "Vincent Ford",
+          "mbid": "e2eec0a3-dea8-4c38-aae1-1345aaca8c20"
+        },
+        {
+          "role": "writer",
+          "name": "Jordan Johnson",
+          "mbid": "fa7b0a1f-f8c0-435a-a2bd-74dccf7c0055"
+        },
+        {
+          "role": "writer",
+          "name": "Stefan Johnson",
+          "mbid": "4744de58-e37d-49cb-bf95-c07a2effe462"
+        },
+        {
+          "role": "writer",
+          "name": "Jacob Kasher",
+          "mbid": "d288a227-30c0-4bed-95c3-8c9614646633"
+        },
+        {
+          "role": "writer",
+          "name": "Adam Levine",
+          "mbid": "a1421d73-1a21-484b-97ad-77c9a5676daf"
+        },
+        {
+          "role": "writer",
+          "name": "Michael Pollack",
+          "mbid": "76c5e552-688e-4e9d-afa0-36e77526495a"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q68015646"
+      ]
+    },
+    "main_artist": {
+      "name": "Maroon 5",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Los Angeles"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

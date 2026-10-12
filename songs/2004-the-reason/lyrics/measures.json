@@ -1,0 +1,41 @@
+{
+  "id": "2004-the-reason",
+  "lyrics_kind": "synced",
+  "lrclib_id": 591851,
+  "lines": 35,
+  "words": 230,
+  "unique_words": 71,
+  "type_token_ratio": 0.309,
+  "repeated_line_share": 0.457,
+  "distinct_lines": 19,
+  "zlib_compression_ratio": 0.329,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "the reason",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 32,
+    "second": 16,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 14.26,
+  "last_line_s": 217.58,
+  "sung_time_s": 203.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 67.8,
+  "words_per_minute_track": 59.2,
+  "longest_gap_between_lines_s": 10.59,
+  "longest_gap_starts_at_s": 142.42,
+  "first_repeated_block": {
+    "first_at_s": 48.73,
+    "recurs_at_s": 106.66,
+    "lines": [
+      "I've found a reason for me",
+      "To change who I used to be"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 591851",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

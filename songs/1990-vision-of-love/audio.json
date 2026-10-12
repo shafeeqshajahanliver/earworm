@@ -1,0 +1,72 @@
+{
+  "id": "1990-vision-of-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1055713,
+    "matched_by": "isrc",
+    "isrc": "USSM19000412",
+    "title": "Vision of Love",
+    "artist": "Mariah Carey",
+    "album": "Mariah Carey",
+    "track_duration_s": 209,
+    "link": "https://www.deezer.com/track/1055713",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 68.6,
+    "tempo_bpm_grid": 68.9,
+    "tempo_candidates_bpm": [
+      68.0,
+      103.4,
+      198.8
+    ],
+    "beats_detected": 34,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.959,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.619,
+    "chroma_profile": [
+      1.0,
+      0.514,
+      0.675,
+      0.561,
+      0.731,
+      0.697,
+      0.582,
+      0.865,
+      0.523,
+      0.55,
+      0.488,
+      0.547
+    ],
+    "rms_dbfs": -15.2,
+    "rms_dbfs_p95_frame": -11.72,
+    "peak_dbfs": -0.91,
+    "loudness_lufs_approx": -15.18,
+    "spectral_centroid_hz_mean": 2617.7,
+    "spectral_centroid_hz_median": 2482.3,
+    "onsets": 73,
+    "onset_density_per_s": 2.434,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1055713",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 102.8,
+    "gain": -14.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1055713",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (102.8) by 33%"
+  ],
+  "rejected_candidates": []
+}

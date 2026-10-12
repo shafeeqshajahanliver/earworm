@@ -1,0 +1,41 @@
+{
+  "id": "1996-nobody-knows",
+  "lyrics_kind": "synced",
+  "lrclib_id": 30332025,
+  "lines": 61,
+  "words": 389,
+  "unique_words": 142,
+  "type_token_ratio": 0.365,
+  "repeated_line_share": 0.361,
+  "distinct_lines": 39,
+  "zlib_compression_ratio": 0.334,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "nobody knows",
+  "title_phrase_occurrences": 11,
+  "pronouns": {
+    "first_singular": 50,
+    "second": 16,
+    "first_plural": 5
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 13.48,
+  "last_line_s": 296.73,
+  "sung_time_s": 249.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 93.5,
+  "words_per_minute_track": 75.7,
+  "longest_gap_between_lines_s": 29.61,
+  "longest_gap_starts_at_s": 193.35,
+  "first_repeated_block": {
+    "first_at_s": 87.31,
+    "recurs_at_s": 174.05,
+    "lines": [
+      "The nights are lonely, the days are so sad",
+      "And I just keep thinkin' about"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 30332025",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1992-tears-in-heaven",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4654895,
+    "matched_by": "isrc",
+    "isrc": "USRE19100010",
+    "title": "Tears in Heaven",
+    "artist": "Eric Clapton",
+    "album": "Rush (Music from the Motion Picture Soundtrack)",
+    "track_duration_s": 271,
+    "link": "https://www.deezer.com/track/4654895",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 76.8,
+    "tempo_bpm_grid": 77.1,
+    "tempo_candidates_bpm": [
+      76.0,
+      152.0,
+      161.5
+    ],
+    "beats_detected": 39,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.803,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.726,
+    "chroma_profile": [
+      0.287,
+      0.476,
+      0.403,
+      0.321,
+      0.856,
+      0.463,
+      0.668,
+      0.403,
+      0.716,
+      1.0,
+      0.365,
+      0.556
+    ],
+    "rms_dbfs": -14.11,
+    "rms_dbfs_p95_frame": -10.48,
+    "peak_dbfs": -0.5,
+    "loudness_lufs_approx": -14.81,
+    "spectral_centroid_hz_mean": 1179.8,
+    "spectral_centroid_hz_median": 1034.4,
+    "onsets": 82,
+    "onset_density_per_s": 2.734,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4654895",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 153.7,
+    "gain": -13.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4654895",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (153.7): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USRE11500099: matched but no preview available (readable=False)"
+  ]
+}

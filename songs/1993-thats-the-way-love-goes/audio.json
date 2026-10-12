@@ -1,0 +1,70 @@
+{
+  "id": "1993-thats-the-way-love-goes",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3501645,
+    "matched_by": "isrc",
+    "isrc": "GBAAA9300170",
+    "title": "That's The Way Love Goes",
+    "artist": "Janet Jackson",
+    "album": "Janet",
+    "track_duration_s": 265,
+    "link": "https://www.deezer.com/track/3501645",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 97.8,
+    "tempo_bpm_grid": 97.5,
+    "tempo_candidates_bpm": [
+      99.4,
+      48.8,
+      198.8
+    ],
+    "beats_detected": 49,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.67,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.412,
+    "chroma_profile": [
+      0.659,
+      0.517,
+      0.659,
+      0.643,
+      0.594,
+      0.797,
+      0.779,
+      1.0,
+      0.718,
+      0.706,
+      0.758,
+      0.688
+    ],
+    "rms_dbfs": -11.6,
+    "rms_dbfs_p95_frame": -7.36,
+    "peak_dbfs": 0.32,
+    "loudness_lufs_approx": -12.26,
+    "spectral_centroid_hz_mean": 2155.4,
+    "spectral_centroid_hz_median": 2015.0,
+    "onsets": 137,
+    "onset_density_per_s": 4.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3501645",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 97.7,
+    "gain": -12.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3501645",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

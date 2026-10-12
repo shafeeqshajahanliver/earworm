@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 4636253,
+  "kind": "synced",
+  "matched": {
+    "track": "Nothing's Gonna Stop Us Now",
+    "artist": "Starship",
+    "album": "Nothing's Gonna Stop Us Now",
+    "duration_s": 269.0
+  },
+  "duration_matched_to": "musicbrainz recording length (269s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 269.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 270.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 269.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37534833 (Nothing's Gonna Stop Us Now / Starship / 80 & 70, 276.0s): duration matches no reference length",
+    "lrclib 37082869 (Nothing's Gonna Stop Us Now / Starship / Burning Heart, 276.0s): duration matches no reference length",
+    "lrclib 19431974 (Nothing's Gonna Stop Us Now / Starship / Nothing's Gonna Stop Us Now, 280.779s): duration matches no reference length",
+    "lrclib 22351646 (Nothing's Gonna Stop Us Now / Starship / Nothing's Gonna Stop Us Now, 275.9132416s): duration matches no reference length",
+    "lrclib 2174384 (Nothing's Gonna Stop Us Now / STARSHIP / Nothing's Gonna Stop Us Now, 259.0s): duration matches no reference length",
+    "lrclib 16136410 (Nothing's Gonna Stop Us Now / Starship / Nothing's Gonna Stop Us Now, 278.0s): duration matches no reference length",
+    "lrclib 17469009 (Nothing’s Gonna Stop Us Now (Live) / Starship / Nothing’s Gonna Stop Us Now, 354.386667s): live/remix/other version",
+    "lrclib 17414865 (Nothing's Gonna Stop Us Now (Rerecorded) / Starship / Nothing's Gonna Stop Us Now, 260.690431s): live/remix/other version",
+    "lrclib 25375584 (Nothing's Gonna Stop Us Now / Starship / Nothing's Gonna Stop Us Now - Best, 275.72s): duration matches no reference length",
+    "lrclib 4070199 (Nothing’s Gonna Stop Us Now - Live / Starship / Nothing’s Gonna Stop Us Now (Live), 354.0s): live/remix/other version",
+    "lrclib 37649208 (Nothing's Gonna Stop Us Now (Atmos Mix) / Starship / Nothing's Gonna Stop Us Now (Atmos Mix), 270.0s): live/remix/other version",
+    "lrclib 18570369 (Nothing’s Gonna Stop Us Now / Starship / Nothing’s Gonna Stop Us Now / Layin’ It On The Line, 275.401875s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,633 @@
+{
+  "id": "2011-e-t",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "E.T. (song)",
+  "wikidata": {
+    "qid": "Q124967",
+    "label": "E.T.",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q42493",
+          "label": "Katy Perry"
+        },
+        {
+          "qid": "Q15935",
+          "label": null
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q42493",
+          "label": "Katy Perry"
+        },
+        {
+          "qid": "Q350588",
+          "label": null
+        },
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        },
+        {
+          "qid": "Q2026098",
+          "label": "Ammo"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        },
+        {
+          "qid": "Q350588",
+          "label": null
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q350588",
+          "label": null
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q843402",
+          "label": "Warner Bros. Records"
+        },
+        {
+          "qid": "Q193023",
+          "label": "Capitol Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2011-02-11"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q9778",
+          "label": "electronic music"
+        },
+        {
+          "qid": "Q11401",
+          "label": "hip-hop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q186188",
+          "label": "Teenage Dream"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q283741",
+          "label": "F minor"
+        }
+      ],
+      "beats_per_minute": [
+        {
+          "amount": "76",
+          "unit": "1"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "231",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "nominated_for": [
+        {
+          "qid": "Q16991776",
+          "label": "Billboard Music Award for Top Selling Song"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q163412",
+          "label": "Firework"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q746875",
+          "label": "Last Friday Night (T.G.I.F.)"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "48b78802-5dce-4b68-a6db-51c04d2d8a8e",
+        "da39f0ea-1e7a-4830-b559-7d083e999425"
+      ],
+      "musicbrainz_release_group_id": [
+        "2a37cac3-7e78-47b9-9a0a-fbce05af5398"
+      ],
+      "youtube_video_id": [
+        "t5Sd5c4o9UM"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 13b48b63-4970-4a18-ae50-baef8f0ec4f6 (2010-08-17)",
+  "musicbrainz": {
+    "recording_id": "a0ad9828-ff96-42d0-b7a5-d0e85ec001c2",
+    "title": "E.T.",
+    "length_ms": 206373,
+    "first_release_date": "2010-08-17",
+    "artist_credit": "Katy Perry",
+    "artists": [
+      {
+        "name": "Katy Perry",
+        "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c"
+      }
+    ],
+    "isrcs": [
+      "USCA21001256"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Aniela Gottwald",
+        "mbid": "db980e53-a9d1-44fc-b300-b1f54cedd0ca"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "John Hanes",
+        "mbid": "8cb2b8cd-34e5-4197-8a51-7eaf795b65c1"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Sam Holland",
+        "mbid": "f34721e5-6c0f-47c2-a232-187447c9a94c"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Tim Roberts",
+        "mbid": "f2c15d10-f694-4d19-b5f6-e9f46e91ab5e"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Emily Wright",
+        "mbid": "3a1f07ce-4ee7-4cdf-b899-20f6b5ec28e2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Ammo",
+        "mbid": "980a87e4-3532-49ea-bbda-bd691cc193ad"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Ammo",
+        "mbid": "980a87e4-3532-49ea-bbda-bd691cc193ad"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Ammo",
+        "mbid": "980a87e4-3532-49ea-bbda-bd691cc193ad"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Ammo",
+        "mbid": "980a87e4-3532-49ea-bbda-bd691cc193ad"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Katy Perry",
+        "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/67BbZ6ctKc3cMkHJbP49iL"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/7qokUUmwmAzTCitBvoNCHM"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/15696868"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2124682377"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/35368471"
+      }
+    ],
+    "genres": [
+      "contemporary r&b",
+      "dance-pop",
+      "electro",
+      "electropop",
+      "pop",
+      "pop rap",
+      "pop rock",
+      "synth-pop"
+    ],
+    "tags": [
+      "pop",
+      "synth-pop",
+      "pop rap",
+      "pop/rock",
+      "bubblegum",
+      "contemporary r&b",
+      "dance-pop",
+      "electro",
+      "electropop",
+      "party"
+    ],
+    "releases": [
+      {
+        "id": "8141078f-7612-4bde-90e8-c6ef7cc7d8df",
+        "title": "Teenage Dream",
+        "date": "2010",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "9068b79f-a69c-4a18-b536-55434da665fa",
+        "title": "E.T.",
+        "date": "2010-08-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "13b48b63-4970-4a18-ae50-baef8f0ec4f6",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "3486bc5b-93c2-4e3f-b3c0-d34a665882a9",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "957a64fb-74dd-4836-84af-c881409e9eea",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2a666025-eb7c-3cc2-bd76-4fbd80487395",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8b5e89a7-b768-4a62-99f5-2c759898cb95",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "be663c92-4012-41e7-a982-90091facb8c5",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "26b1f451-1bd3-4b1c-918d-9ae98be00f6c",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3b74b057-73fd-47d6-acde-132f89983eb7",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e7d98581-cb23-43ed-ac32-d1dc1bd44eb3",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c83e1420-66a4-4e1c-868c-1251df886564",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "73666351-3877-4a93-9b35-07ed4296a2c1",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "BS",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f2f72075-f56d-4569-bfca-1742e16eb994",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d610e36f-aae9-4703-9a9b-355c9e8de6c7",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "380bdb3d-340c-46e0-97d1-90c22ac9f043",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8551cd49-7da6-3139-809d-e48f6f3453e8",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "87763f82-f67b-4f5a-8f9c-abae0511a27f",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "78cf4e06-0340-47da-b5ce-e3fce2f5ba38",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "17166b5d-2657-4a63-96db-3da2cae677e9",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "VG",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8d6bf2b1-5c1b-3f7e-9757-eb3b5ca205f3",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "40037016-c38c-442d-8cb9-56bdf26e0e5f",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "VG",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "750a9359-e2b4-41df-a9a1-3972e68de90f",
+        "title": "Teenage Dream",
+        "date": "2010-08-30",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8a9383f8-aa86-3472-a6ba-0f536046a1be",
+        "title": "Teenage Dream",
+        "date": "2010-08-30",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ecec291e-10ed-4418-be87-50bdd44b0a87",
+        "title": "Teenage Dream",
+        "date": "2010-08-30",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "206ad0f2-db89-4085-9981-722a901bfee6",
+        "title": "Teenage Dream",
+        "date": "2010-08-31",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "48b78802-5dce-4b68-a6db-51c04d2d8a8e",
+      "title": "E.T.",
+      "iswcs": [
+        "T-905.221.962-2"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Ammo",
+          "mbid": "980a87e4-3532-49ea-bbda-bd691cc193ad"
+        },
+        {
+          "role": "writer",
+          "name": "Łukasz Gottwald",
+          "mbid": "b67bf15d-03c3-40a4-9d17-769a964d5005"
+        },
+        {
+          "role": "writer",
+          "name": "Max Martin",
+          "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+        },
+        {
+          "role": "writer",
+          "name": "Katy Perry",
+          "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/131164",
+        "https://www.wikidata.org/wiki/Q124967"
+      ]
+    },
+    "main_artist": {
+      "name": "Katy Perry",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Santa Barbara"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

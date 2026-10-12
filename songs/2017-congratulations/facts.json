@@ -1,0 +1,585 @@
+{
+  "id": "2017-congratulations",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Congratulations (Post Malone song)",
+  "wikidata": {
+    "qid": "Q28229308",
+    "label": "Congratulations",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q21621919",
+          "label": null
+        },
+        {
+          "qid": "Q21621919",
+          "label": null
+        },
+        {
+          "qid": "Q30072039",
+          "label": null
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q21621919",
+          "label": null
+        },
+        {
+          "qid": "Q55195996",
+          "label": "Carl Austin Rosen"
+        },
+        {
+          "qid": "Q44749611",
+          "label": "Louis Bell"
+        },
+        {
+          "qid": "Q19560395",
+          "label": "Frank Dukes"
+        },
+        {
+          "qid": "Q16235273",
+          "label": null
+        },
+        {
+          "qid": "Q30072039",
+          "label": null
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q21621919",
+          "label": null
+        },
+        {
+          "qid": "Q55195996",
+          "label": "Carl Austin Rosen"
+        },
+        {
+          "qid": "Q44749611",
+          "label": "Louis Bell"
+        },
+        {
+          "qid": "Q19560395",
+          "label": "Frank Dukes"
+        },
+        {
+          "qid": "Q16235273",
+          "label": null
+        },
+        {
+          "qid": "Q30072039",
+          "label": null
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2016-08-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q373342",
+          "label": "popular music"
+        },
+        {
+          "qid": "Q2913982",
+          "label": "trap music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q28228892",
+          "label": "Stoney"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q1132841",
+          "label": "G-flat major"
+        },
+        {
+          "qid": "Q507255",
+          "label": "F-sharp major"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "2be8b1f2-d025-45a6-9400-4615f7287fd8"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 3241175b-e718-4358-adb2-5fd73cce85c0 (2016-11-04)",
+  "musicbrainz": {
+    "recording_id": "a614fca3-0339-49a8-9348-175acae56bdb",
+    "title": "Congratulations",
+    "length_ms": 220285,
+    "first_release_date": "2016-11-04",
+    "artist_credit": "Post Malone feat. Quavo",
+    "artists": [
+      {
+        "name": "Post Malone",
+        "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19"
+      },
+      {
+        "name": "Quavo",
+        "mbid": "6143403a-df6c-429e-8ee6-ef869896b0da"
+      }
+    ],
+    "isrcs": [
+      "USUM71614484"
+    ],
+    "recording_credits": [
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Frank Dukes",
+        "mbid": "fb7d550f-7518-41ba-95db-33db5287d8e2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Metro Boomin",
+        "mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Chris Galland",
+        "mbid": "71093284-80f6-4175-b7b9-0e9aded64e9c"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Jeff Jackson",
+        "mbid": "3a21e4ae-9b8b-4095-a281-e35427873868"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Manny Marroquin",
+        "mbid": "54c1f74e-2cd7-481d-9d31-7808fc2dbf05"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Louis Bell",
+        "mbid": "c0367e31-dc3a-4f5e-9d24-0e3af39a8704"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Frank Dukes",
+        "mbid": "fb7d550f-7518-41ba-95db-33db5287d8e2"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Metro Boomin",
+        "mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Frank Dukes",
+        "mbid": "fb7d550f-7518-41ba-95db-33db5287d8e2"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Metro Boomin",
+        "mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Louis Bell",
+        "mbid": "c0367e31-dc3a-4f5e-9d24-0e3af39a8704"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Frank Dukes",
+        "mbid": "fb7d550f-7518-41ba-95db-33db5287d8e2"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0Fn7tvBkLMTNVMAqizgH4k"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/1573100652"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/song/1596836890"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/36010472"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/song/1596836890"
+      },
+      {
+        "type": "streaming",
+        "url": "https://open.qobuz.com/track/36010472"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/207432448"
+      }
+    ],
+    "genres": [
+      "hip hop"
+    ],
+    "tags": [
+      "hip hop",
+      "hip-hop/rap"
+    ],
+    "releases": [
+      {
+        "id": "c09d03d4-dac6-456b-8e4f-23477f9914b9",
+        "title": "Congratulations",
+        "date": "2016",
+        "country": "SE",
+        "status": "Promotion",
+        "release_group": "3241175b-e718-4358-adb2-5fd73cce85c0",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "1726679a-2c89-4901-83b0-bbde502bf738",
+        "title": "Stoney",
+        "date": "2016",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "234e72f5-3694-4c24-862e-dcfa29f1a776",
+        "title": "Congratulations",
+        "date": "2016-11-04",
+        "country": null,
+        "status": "Official",
+        "release_group": "3241175b-e718-4358-adb2-5fd73cce85c0",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "e48b1f72-9d03-4c85-affd-a134c88fa8d1",
+        "title": "Stoney",
+        "date": "2016-12-09",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "be737efb-043a-4049-8a12-0824c0799e90",
+        "title": "Stoney",
+        "date": "2016-12-09",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0f74023d-b716-4dd8-9e51-30a4989134c1",
+        "title": "Stoney",
+        "date": "2016-12-09",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8b241fef-6058-41a3-b7a0-5d2bedd0cb50",
+        "title": "Stoney",
+        "date": "2016-12-09",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ed552632-08bd-46da-87c5-90132a5bb1ef",
+        "title": "Stoney",
+        "date": "2016-12-09",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "db5f4519-8daf-41c4-b6b6-839ce4581b36",
+        "title": "Stoney",
+        "date": "2016-12-09",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a1f14946-996c-44c1-8c88-3db183948848",
+        "title": "Stoney",
+        "date": "2017-06-23",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "00fdcdd7-15a2-43a4-922d-3c651b4cd970",
+        "title": "NRJ Music Awards 2017",
+        "date": "2017-10-27",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "18c4f105-9a47-48a2-901b-8253575358d1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "12214720-a174-4b9b-803a-b7d559d6425e",
+        "title": "Best of 2017",
+        "date": "2017-12-08",
+        "country": null,
+        "status": "Official",
+        "release_group": "5b018d2c-21c9-4bf4-976a-3a3409e5427d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0406d134-2a6b-4e1a-9031-e4beae4bb7a3",
+        "title": "Stoney",
+        "date": "2017-12-22",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e1699cfb-a9f2-493a-930b-ec2c7ea7628e",
+        "title": "Stoney",
+        "date": "2018-04-27",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "63921d82-a759-49ad-a79c-f392360efa50",
+        "title": "beerbongs & bentleys",
+        "date": "2018-06-27",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "a6045fe5-c283-4778-995c-04d953fe73e1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "da937b50-afc9-41ac-bff0-0dd7549ae6d6",
+        "title": "Twelve Carat Toothache (Japan Special Edition)",
+        "date": "2022-08-19",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "da1ba8df-a869-4270-8af0-b1c7ffd8d44a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4eec3872-3640-4aef-8769-9af3d9c7e304",
+        "title": "The Diamond Collection",
+        "date": "2023-04-21",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "96dbec7a-58c1-48c8-bc48-064d1b04e11e",
+        "title": "The Diamond Collection",
+        "date": "2023-04-21",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e52bc5fd-6c1f-4f43-9816-e3bee05853ac",
+        "title": "The Diamond Collection",
+        "date": "2023-04-21",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8531cf32-bf85-4b0f-997e-bc11c400c30d",
+        "title": "The Diamond Collection (Deluxe)",
+        "date": "2023-04-21",
+        "country": null,
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "28518a8b-8d7c-4579-bdbe-7cc397520b02",
+        "title": "The Diamond Collection",
+        "date": "2023-07-21",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6aa5e845-ac62-470a-be8f-2bf9c287d1ad",
+        "title": "The Diamond Collection",
+        "date": "2023-07-21",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f99e245a-a581-4315-9e63-28c68d62b70e",
+        "title": "The Diamond Collection",
+        "date": "2023-07-21",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e9d8fe7a-eec2-4bbf-9954-2d26b2e71b90",
+        "title": "The Diamond Collection",
+        "date": "2023-11-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0cdf4a31-04e7-41cd-8f73-14092e92e17e",
+        "title": "The Diamond Collection",
+        "date": "2024-08-15",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5fb7ffc9-0f66-47bc-8aa0-192405bc8f3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "2be8b1f2-d025-45a6-9400-4615f7287fd8",
+      "title": "Congratulations",
+      "iswcs": [
+        "T-921.287.388-6",
+        "T-921.507.850-5"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Louis Bell",
+          "mbid": "c0367e31-dc3a-4f5e-9d24-0e3af39a8704"
+        },
+        {
+          "role": "writer",
+          "name": "Frank Dukes",
+          "mbid": "fb7d550f-7518-41ba-95db-33db5287d8e2"
+        },
+        {
+          "role": "writer",
+          "name": "Metro Boomin",
+          "mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9"
+        },
+        {
+          "role": "writer",
+          "name": "Post Malone",
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19"
+        },
+        {
+          "role": "writer",
+          "name": "Quavo",
+          "mbid": "6143403a-df6c-429e-8ee6-ef869896b0da"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/188403",
+        "https://www.wikidata.org/wiki/Q28229308"
+      ]
+    },
+    "main_artist": {
+      "name": "Post Malone",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Syracuse"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

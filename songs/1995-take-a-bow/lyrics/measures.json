@@ -1,0 +1,41 @@
+{
+  "id": "1995-take-a-bow",
+  "lyrics_kind": "synced",
+  "lrclib_id": 27363611,
+  "lines": 49,
+  "words": 403,
+  "unique_words": 108,
+  "type_token_ratio": 0.268,
+  "repeated_line_share": 0.327,
+  "distinct_lines": 33,
+  "zlib_compression_ratio": 0.259,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "take a bow",
+  "title_phrase_occurrences": 1,
+  "pronouns": {
+    "first_singular": 22,
+    "second": 46,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 31.8,
+  "last_line_s": 301.85,
+  "sung_time_s": 267.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 90.3,
+  "words_per_minute_track": 75.2,
+  "longest_gap_between_lines_s": 11.1,
+  "longest_gap_starts_at_s": 290.75,
+  "first_repeated_block": {
+    "first_at_s": 81.33,
+    "recurs_at_s": 162.14,
+    "lines": [
+      "I've always been in love with you (Always with you)",
+      "I guess you've always known it's true (You know it's true)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 27363611",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

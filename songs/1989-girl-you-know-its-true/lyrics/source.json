@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33362550,
+  "kind": "synced",
+  "matched": {
+    "track": "Girl You Know It's True",
+    "artist": "Milli Vanilli",
+    "album": "All or Nothing",
+    "duration_s": 238.0
+  },
+  "duration_matched_to": "wikipedia infobox length (238s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 232.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 228.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 238.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 254.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched wikipedia infobox length (238s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37498216 (Girl You Know It's True / Milli Vanilli / Disco Long Versions [Disc 2], 390.0s): duration matches no reference length",
+    "lrclib 37161960 (Girl You Know It's True / Milli Vanilli / All or Nothing [Remix Album], 388.0s): live/remix/other version",
+    "lrclib 37232845 (Girl You Know It’s True / Milli Vanilli / SWR1 – 80 80er, 200.0s): duration matches no reference length",
+    "lrclib 34799854 (Girl You Know It's True / Milli Vanilli / All or Nothing, 199.0s): duration matches no reference length",
+    "lrclib 35067448 (Girl You Know It's True / Milli Vanilli / Grandmix: The Millennium Edition, 110.0s): duration matches no reference length",
+    "lrclib 33367084 (Girl You Know It's True / Milli Vanilli / Generation  80 90's, 199.0s): duration matches no reference length",
+    "lrclib 33621633 (Girl You Know It's True / Milli Vanilli / Pop Music 1988-89 CD 1, 388.0s): duration matches no reference length",
+    "lrclib 36282476 (Girl You Know It's True / Milli Vanilli / Milli Vanilli - Girl You Know It's True, 198.0s): duration matches no reference length",
+    "lrclib 164081 (Girl You Know It's True / Milli Vanilli / Girl You Know It's True - The Best Of Milli Vanilli, 199.0s): duration matches no reference length",
+    "lrclib 30221285 (Girl You Know It's True / Milli Vanilli / Girl You Know It's True: The Best of Milli Vanilli, 202.0s): duration matches no reference length",
+    "lrclib 36518550 (girl you know it's true / milli vanilli / girl you know it's true, 1158.0s): duration matches no reference length",
+    "lrclib 20738564 (Girl You Know It’s True / Milli Vanilli / Girl You Know It’s True, 247.596563s): duration matches no reference length",
+    "lrclib 23203476 (Girl You Know It's True / Milli Vanilli / Girl You Know It's True, 391.859955s): duration matches no reference length",
+    "lrclib 1381546 (Girl You Know It's True / Milli Vanilli / Girl You Know It's True, 199.0s): duration matches no reference length",
+    "lrclib 26952343 (Girl You Know It's True / Milli Vanilli / Girl, You Know It's True, 156.264649s): duration matches no reference length",
+    "lrclib 10769834 (Girl You Know It's True (N.Y.C.Subway Remix) / Milli Vanilli / Girl You Know It's True - The Best Of Milli Vanilli, 241.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

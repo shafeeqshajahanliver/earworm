@@ -1,0 +1,70 @@
+{
+  "id": "2008-no-one",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2466262,
+    "matched_by": "isrc",
+    "isrc": "USJAY0700190",
+    "title": "No One",
+    "artist": "Alicia Keys",
+    "album": "As I Am (Expanded Edition)",
+    "track_duration_s": 253,
+    "link": "https://www.deezer.com/track/2466262",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 90.0,
+    "tempo_bpm_grid": 89.9,
+    "tempo_candidates_bpm": [
+      89.1,
+      45.3,
+      161.5
+    ],
+    "beats_detected": 44,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.433,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.339,
+    "chroma_profile": [
+      0.562,
+      0.694,
+      0.406,
+      0.337,
+      0.389,
+      0.235,
+      0.365,
+      0.857,
+      1.0,
+      0.596,
+      0.366,
+      0.376
+    ],
+    "rms_dbfs": -6.74,
+    "rms_dbfs_p95_frame": -3.15,
+    "peak_dbfs": 0.14,
+    "loudness_lufs_approx": -8.79,
+    "spectral_centroid_hz_mean": 2007.9,
+    "spectral_centroid_hz_median": 2027.9,
+    "onsets": 64,
+    "onset_density_per_s": 2.134,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2466262",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 89.9,
+    "gain": -9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2466262",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

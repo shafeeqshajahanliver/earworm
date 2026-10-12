@@ -1,0 +1,41 @@
+{
+  "id": "1986-broken-wings",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37134693,
+  "lines": 44,
+  "words": 281,
+  "unique_words": 77,
+  "type_token_ratio": 0.274,
+  "repeated_line_share": 0.432,
+  "distinct_lines": 25,
+  "zlib_compression_ratio": 0.267,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "broken wings",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 9,
+    "second": 6,
+    "first_plural": 15
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 22.2,
+  "last_line_s": 282.0,
+  "sung_time_s": 207.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 81.3,
+  "words_per_minute_track": 62.7,
+  "longest_gap_between_lines_s": 19.25,
+  "longest_gap_starts_at_s": 176.38,
+  "first_repeated_block": {
+    "first_at_s": 69.78,
+    "recurs_at_s": 137.58,
+    "lines": [
+      "And when we hear the voices sing",
+      "The book of love will open up and let us in"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37134693",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

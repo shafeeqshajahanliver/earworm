@@ -1,0 +1,74 @@
+{
+  "id": "1991-one-more-try",
+  "preview": {
+    "service": "deezer",
+    "track_id": 125235508,
+    "matched_by": "isrc",
+    "isrc": "USWR31500339",
+    "title": "One More Try",
+    "artist": "Timmy T",
+    "album": "Time After Time",
+    "track_duration_s": 209,
+    "link": "https://www.deezer.com/track/125235508",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.0,
+    "tempo_bpm_grid": 99.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      152.0,
+      60.1
+    ],
+    "beats_detected": 52,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.342,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.281,
+    "chroma_profile": [
+      0.429,
+      0.598,
+      0.371,
+      0.292,
+      0.492,
+      0.265,
+      0.483,
+      1.0,
+      0.912,
+      0.849,
+      0.491,
+      0.62
+    ],
+    "rms_dbfs": -13.23,
+    "rms_dbfs_p95_frame": -9.82,
+    "peak_dbfs": -0.94,
+    "loudness_lufs_approx": -13.28,
+    "spectral_centroid_hz_mean": 2192.5,
+    "spectral_centroid_hz_median": 2062.0,
+    "onsets": 103,
+    "onset_density_per_s": 3.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 125235508",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 149.8,
+    "gain": -13.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/125235508",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (149.8) by 29%"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USWR38900002: title/artist mismatch: Giving You The Best That I Got / Kim Waters"
+  ]
+}

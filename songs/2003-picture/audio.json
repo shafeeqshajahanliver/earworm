@@ -1,0 +1,73 @@
+{
+  "id": "2003-picture",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4087068,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAT20110175",
+    "title": "Picture (feat. Sheryl Crow)",
+    "artist": "Kid Rock",
+    "album": "Cocky",
+    "track_duration_s": 298,
+    "link": "https://www.deezer.com/track/4087068",
+    "duration_matched_to": "wikipedia infobox length (298s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.4,
+    "tempo_bpm_grid": 100.3,
+    "tempo_candidates_bpm": [
+      48.8,
+      198.8,
+      215.3
+    ],
+    "beats_detected": 50,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.669,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.582,
+    "chroma_profile": [
+      0.307,
+      0.268,
+      0.586,
+      0.321,
+      0.608,
+      0.35,
+      0.783,
+      1.0,
+      0.428,
+      0.415,
+      0.298,
+      0.429
+    ],
+    "rms_dbfs": -11.33,
+    "rms_dbfs_p95_frame": -7.82,
+    "peak_dbfs": 0.21,
+    "loudness_lufs_approx": -12.34,
+    "spectral_centroid_hz_mean": 1606.3,
+    "spectral_centroid_hz_median": 1446.9,
+    "onsets": 90,
+    "onset_density_per_s": 3.001,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4087068",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 98,
+    "gain": -10.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4087068",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 63923893: version (Picture (feat. Gretchen Wilson) (Live))"
+  ]
+}

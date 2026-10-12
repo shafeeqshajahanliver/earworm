@@ -1,0 +1,41 @@
+{
+  "id": "2005-1-2-step",
+  "lyrics_kind": "synced",
+  "lrclib_id": 21951223,
+  "lines": 89,
+  "words": 479,
+  "unique_words": 147,
+  "type_token_ratio": 0.307,
+  "repeated_line_share": 0.404,
+  "distinct_lines": 53,
+  "zlib_compression_ratio": 0.327,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "1 2 step",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 31,
+    "second": 19,
+    "first_plural": 18
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.79,
+  "last_line_s": 184.43,
+  "sung_time_s": 177.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 162.1,
+  "words_per_minute_track": 141.9,
+  "longest_gap_between_lines_s": 8.26,
+  "longest_gap_starts_at_s": 176.17,
+  "first_repeated_block": {
+    "first_at_s": 33.92,
+    "recurs_at_s": 67.94,
+    "lines": [
+      "Rock it, don't stop it",
+      "Everybody get on the floor"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 21951223",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

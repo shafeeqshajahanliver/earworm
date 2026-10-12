@@ -1,0 +1,72 @@
+{
+  "id": "2005-we-belong-together",
+  "preview": {
+    "service": "deezer",
+    "track_id": 60721855,
+    "matched_by": "isrc",
+    "isrc": "USIR20500195",
+    "title": "We Belong Together",
+    "artist": "Mariah Carey",
+    "album": "The Emancipation of Mimi",
+    "track_duration_s": 202,
+    "link": "https://www.deezer.com/track/60721855",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 140.1,
+    "tempo_bpm_grid": 139.7,
+    "tempo_candidates_bpm": [
+      69.8,
+      143.6,
+      136.0
+    ],
+    "beats_detected": 67,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.382,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.38,
+    "chroma_profile": [
+      0.555,
+      0.409,
+      0.493,
+      0.406,
+      0.583,
+      0.714,
+      0.627,
+      1.0,
+      0.897,
+      0.602,
+      0.364,
+      0.456
+    ],
+    "rms_dbfs": -10.01,
+    "rms_dbfs_p95_frame": -5.24,
+    "peak_dbfs": 0.94,
+    "loudness_lufs_approx": -11.17,
+    "spectral_centroid_hz_mean": 3567.0,
+    "spectral_centroid_hz_median": 3600.2,
+    "onsets": 103,
+    "onset_density_per_s": 3.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 60721855",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 140,
+    "gain": -5.79,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/60721855",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C major and F minor"
+  ],
+  "rejected_candidates": []
+}

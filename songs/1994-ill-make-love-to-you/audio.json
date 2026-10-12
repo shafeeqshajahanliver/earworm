@@ -1,0 +1,75 @@
+{
+  "id": "1994-ill-make-love-to-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7314701,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMO19400340",
+    "title": "I'll Make Love To You",
+    "artist": "Boyz II Men",
+    "album": "II",
+    "track_duration_s": 236,
+    "link": "https://www.deezer.com/track/7314701",
+    "duration_matched_to": "wikipedia infobox length (236s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 142.5,
+    "tempo_bpm_grid": 141.6,
+    "tempo_candidates_bpm": [
+      143.6,
+      47.9,
+      136.0
+    ],
+    "beats_detected": 70,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.813,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.701,
+    "chroma_profile": [
+      0.436,
+      0.599,
+      0.966,
+      0.546,
+      1.0,
+      0.533,
+      0.815,
+      0.758,
+      0.475,
+      0.842,
+      0.478,
+      0.855
+    ],
+    "rms_dbfs": -13.29,
+    "rms_dbfs_p95_frame": -9.76,
+    "peak_dbfs": 0.15,
+    "loudness_lufs_approx": -13.51,
+    "spectral_centroid_hz_mean": 2635.9,
+    "spectral_centroid_hz_median": 2557.6,
+    "onsets": 73,
+    "onset_density_per_s": 2.434,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7314701",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 142.6,
+    "gain": -12,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7314701",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USMO19400341: matched but no preview available (readable=False)",
+    "deezer 2165758827: version (I'll Make Love To You (Slowed + Reverb))",
+    "deezer 649771432: duration 275s matches no reference length"
+  ]
+}

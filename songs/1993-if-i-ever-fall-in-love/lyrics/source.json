@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1007642,
+  "kind": "synced",
+  "matched": {
+    "track": "If I Ever Fall In Love",
+    "artist": "Shai",
+    "album": "If I Ever Fall In Love",
+    "duration_s": 189.0
+  },
+  "duration_matched_to": "musicbrainz recording length (191s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 191.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 188.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 189.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 14,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37504485 (If I Ever Fall in Love / Shai / R&B Love Collection 2007, 283.0s): duration matches no reference length",
+    "lrclib 37509846 (If I Ever Fall In Love / Shai / Young Love - Long Versions For Lovers (Disc 2), 288.0s): duration matches no reference length",
+    "lrclib 34704698 (If I Ever Fall In Love / Shai / 30 jaar Candlelight, 160.0s): duration matches no reference length",
+    "lrclib 33546209 (If I Ever Fall In Love / Shai / R&B Anthems CD1, 230.0s): duration matches no reference length",
+    "lrclib 33749829 (If I Ever Fall In Love / Shai / Billboard Year-End Chart of 1993, 289.0s): duration matches no reference length",
+    "lrclib 36327674 (If I Ever Fall In Love / Shai / If I Ever Fall In Love, Nones): duration matches no reference length",
+    "lrclib 35851269 (If I Ever Fall In Love / Shai / Billboard Top Hits:1993, 289.0s): duration matches no reference length",
+    "lrclib 36146060 (If I Ever Fall in Love / Shai / Ulli Wengers One Hit Wonder, Volume 2, 290.0s): duration matches no reference length",
+    "lrclib 36658355 (If I Ever Fall In Love / Shai / Complete 90's Collection, 290.0s): duration matches no reference length",
+    "lrclib 34100609 (If I Ever Fall In Love / Shai / If I Ever Fall In Love, 286.0s): duration matches no reference length",
+    "lrclib 35615630 (If I Ever Fall In Love / Shai / Crazy Stupid Love Songs, 300.0s): duration matches no reference length",
+    "lrclib 18907879 (If I Ever Fall in Love / Shai / If I Ever Fall in Love, 236.050437s): duration matches no reference length",
+    "lrclib 8875087 (If I Ever Fall In Love / Shai / If I Ever Fall In Love, 290.0s): duration matches no reference length",
+    "lrclib 26061425 (If I Ever Fall In Love / Shai / If I Ever Fall In Love, 219.62448866666665s): duration matches no reference length",
+    "lrclib 10560291 (If I Ever Fall in Love / Shai / …If I Ever Fall in Love, 288.0s): duration matches no reference length",
+    "lrclib 37058499 (If I Ever Fall in Love [Remix] / Shai / If I Ever Fall in Love, 286.0s): live/remix/other version",
+    "lrclib 33807394 (If I Ever Fall in Love (Remix) / Shai / …If I Ever Fall in Love, 285.0s): live/remix/other version",
+    "lrclib 33737535 (If I Ever Fall In Love (Remix) / Shai / If I Ever Fall In Love, 295.0s): live/remix/other version",
+    "lrclib 21106474 (If I Ever Fall in Love (Remix) / Shai / If I Ever Fall in Love, 291.8399999s): live/remix/other version",
+    "lrclib 23881251 (If I Ever Fall in Love (remix) / Shai / …if I Ever Fall in Love, 190.4s): live/remix/other version",
+    "lrclib 3842271 (If I Ever Fall In Love (Remix) / Shai / If I Ever Fall In Love, 289.0s): live/remix/other version",
+    "lrclib 2575135 (If I Ever Fall in Love (remix) / Shai / …If I Ever Fall in Love, 289.0s): live/remix/other version",
+    "lrclib 10216253 (If I Ever Fall in Love (remix) / Shai / ․․․if I Ever Fall in Love, 290.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

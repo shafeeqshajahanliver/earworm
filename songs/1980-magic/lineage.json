@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/23002",
+    "title": "Magic",
+    "performer": "Olivia Newton-John",
+    "is_original": true,
+    "first_release_date": "1980-05",
+    "releases": [
+      {
+        "title": "Xanadu",
+        "uri": "https://api.secondhandsongs.com/release/6833",
+        "performer": "Electric Light Orchestra & Olivia Newton-John"
+      },
+      {
+        "title": "Magic",
+        "uri": "https://api.secondhandsongs.com/release/315687",
+        "performer": "Olivia Newton-John"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 25,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/23002",
+    "title": "Magic",
+    "language": "English",
+    "writers": [
+      "John Farrar"
+    ],
+    "original_performer": "Olivia Newton-John",
+    "versions": 26,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Yhdessä pystymme siihen",
+        "uri": "https://api.secondhandsongs.com/work/168456"
+      },
+      {
+        "title": "Magie lásky",
+        "uri": "https://api.secondhandsongs.com/work/211478"
+      }
+    ]
+  }
+}

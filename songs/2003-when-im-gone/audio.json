@@ -1,0 +1,72 @@
+{
+  "id": "2003-when-im-gone",
+  "preview": {
+    "service": "deezer",
+    "track_id": 924869,
+    "matched_by": "isrc",
+    "isrc": "USUR10200759",
+    "title": "When I'm Gone",
+    "artist": "3 Doors Down",
+    "album": "When I'm Gone Hit Pack",
+    "track_duration_s": 260,
+    "link": "https://www.deezer.com/track/924869",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 148.0,
+    "tempo_bpm_grid": 147.7,
+    "tempo_candidates_bpm": [
+      152.0,
+      143.6,
+      73.8
+    ],
+    "beats_detected": 68,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.689,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.635,
+    "chroma_profile": [
+      0.647,
+      0.536,
+      0.752,
+      0.54,
+      0.565,
+      0.387,
+      0.414,
+      0.601,
+      0.431,
+      1.0,
+      0.51,
+      0.565
+    ],
+    "rms_dbfs": -8.14,
+    "rms_dbfs_p95_frame": -6.36,
+    "peak_dbfs": 1.4,
+    "loudness_lufs_approx": -7.45,
+    "spectral_centroid_hz_mean": 2313.9,
+    "spectral_centroid_hz_median": 2316.3,
+    "onsets": 82,
+    "onset_density_per_s": 2.734,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 924869",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 74,
+    "gain": -8.79,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/924869",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about double Deezer's bpm (74.0): octave error likely"
+  ],
+  "rejected_candidates": []
+}

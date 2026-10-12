@@ -1,0 +1,76 @@
+{
+  "id": "1983-billie-jean",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4603408,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSM19902991",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Michael Jackson's This Is It",
+    "track_duration_s": 293,
+    "link": "https://www.deezer.com/track/4603408",
+    "duration_matched_to": "musicbrainz recording length (295s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 116.9,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      117.5,
+      58.7,
+      234.9
+    ],
+    "beats_detected": 57,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.542,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.464,
+    "chroma_profile": [
+      0.59,
+      0.77,
+      0.822,
+      0.583,
+      0.72,
+      0.731,
+      1.0,
+      0.793,
+      0.553,
+      0.566,
+      0.562,
+      0.634
+    ],
+    "rms_dbfs": -8.72,
+    "rms_dbfs_p95_frame": -4.94,
+    "peak_dbfs": 3.56,
+    "loudness_lufs_approx": -8.9,
+    "spectral_centroid_hz_mean": 2836.4,
+    "spectral_centroid_hz_median": 2889.7,
+    "onsets": 121,
+    "onset_density_per_s": 4.035,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4603408",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 117.1,
+    "gain": -8.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4603408",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 2015880647: version (Billie Jean (Long Version))",
+    "deezer 555655: version (Billie Jean (1981 Home Demo))",
+    "deezer 555650: version (Billie Jean (2008 Kanye West Mix) (feat. Kanye West) (Thriller 25th Anniversary Remix))",
+    "deezer 555664: version (Billie Jean (Underground Mix))"
+  ]
+}

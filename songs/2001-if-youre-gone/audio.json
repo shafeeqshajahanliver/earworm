@@ -1,0 +1,70 @@
+{
+  "id": "2001-if-youre-gone",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3658085,
+    "matched_by": "isrc",
+    "isrc": "USAT20001326",
+    "title": "If You're Gone",
+    "artist": "Matchbox Twenty",
+    "album": "Mad Season",
+    "track_duration_s": 274,
+    "link": "https://www.deezer.com/track/3658085",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 108.2,
+    "tempo_bpm_grid": 108.8,
+    "tempo_candidates_bpm": [
+      215.3,
+      234.9,
+      107.7
+    ],
+    "beats_detected": 55,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.852,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.759,
+    "chroma_profile": [
+      0.387,
+      0.639,
+      0.669,
+      0.464,
+      1.0,
+      0.418,
+      0.685,
+      0.628,
+      0.708,
+      0.929,
+      0.416,
+      0.992
+    ],
+    "rms_dbfs": -10.86,
+    "rms_dbfs_p95_frame": -7.21,
+    "peak_dbfs": 0.15,
+    "loudness_lufs_approx": -11.03,
+    "spectral_centroid_hz_mean": 1716.7,
+    "spectral_centroid_hz_median": 1521.9,
+    "onsets": 88,
+    "onset_density_per_s": 2.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3658085",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 110,
+    "gain": -9.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3658085",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

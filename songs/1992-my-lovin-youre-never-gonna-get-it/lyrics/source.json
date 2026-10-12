@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37392311,
+  "kind": "synced",
+  "matched": {
+    "track": "My Lovin' (You're Never Gonna Get It)",
+    "artist": "En Vogue",
+    "album": "100 Greatest R&amp;B",
+    "duration_s": 281.0
+  },
+  "duration_matched_to": "musicbrainz recording length (281s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 281.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 281.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 282.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36975095 (My Lovin' (You're Never Gonna Get It) / En Vogue / Back to Life: 90's Soul, Groove & Club Classics, 237.0s): duration matches no reference length",
+    "lrclib 33779652 (My Lovin' (You're Never Gonna Get It) / En Vogue / Rhythm Is a Dancer: Ultimate 90s Club Anthems, 273.0s): duration matches no reference length",
+    "lrclib 36049126 (My Lovin' (You're Never Gonna Get It) / En Vogue / Very Best Of, 270.0s): duration matches no reference length",
+    "lrclib 35990676 (My Lovin' (You're Never Gonna Get It) / En Vogue / The Music of Our Lives - CD 120, 282.0s): live/remix/other version",
+    "lrclib 36288347 (My Lovin' (You're Never Gonna Get It) / En Vogue / Now Yearbook 1992, 238.0s): duration matches no reference length",
+    "lrclib 36458637 (My Lovin (You're Never Gonna Get It) / En Vogue / The 90's, 242.0s): duration matches no reference length",
+    "lrclib 37499602 (My Lovin´ / En Vogue / Best Of En Vogue, 270.0s): duration matches no reference length",
+    "lrclib 34064114 (My Lovin' / En Vogue / Best Of En Vogue, 237.0s): duration matches no reference length",
+    "lrclib 34064113 (My Lovin' (You're Never Gonna Get It) / En Vogue / Best Of En Vogue, 237.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37437027,
+  "kind": "synced",
+  "matched": {
+    "track": "Maria Maria",
+    "artist": "Santana",
+    "album": "Supernatural [Bonus Track]",
+    "duration_s": 262.0
+  },
+  "duration_matched_to": "musicbrainz recording length (262s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 261.866,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 263.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 39,
+  "agreement_with_other_candidates": 0.851,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37395179 (Maria Maria / Santana featuring The Product G&B / Die Hit-Giganten: Best of Sommerhits, 133.0s): duration matches no reference length",
+    "lrclib 29805838 (Maria, Maria / Santana (featuring The Product G&B) / Totally Hits 2, 248.0s): duration matches no reference length",
+    "lrclib 29604270 (Maria Maria / Santana featuring The Product G&B / Hit Explosion 2000, Vol. 4, 253.0s): duration matches no reference length",
+    "lrclib 34257136 (maria maria (radio edit) / santana featuring the product g b / Pure... Party WEB, 238.0s): duration matches no reference length",
+    "lrclib 37466621 (Maria Maria / Santana / Latin Pop Workout 130-135 BPM, 253.0s): duration matches no reference length",
+    "lrclib 34356782 (Maria Maria / Santana / New Orleans 1999 (HQ 2025 Remastered), 300.0s): duration matches no reference length",
+    "lrclib 34419639 (Maria Maria / Santana / Supernatural, 66.0s): duration matches no reference length",
+    "lrclib 34912035 (Maria Maria / Santana / Supernatural, 4.0s): duration matches no reference length",
+    "lrclib 33506956 (Maria Maria / Santana / Totally Hits 2, 248.0s): duration matches no reference length",
+    "lrclib 26441859 (Maria Maria / Santana / Maria Maria, 254.206643s): duration matches no reference length",
+    "lrclib 15606963 (Maria Maria / Santana / Maria Maria, 236.0s): duration matches no reference length",
+    "lrclib 32709926 (Maria Maria / Santana / Maria Maria (Single), 255.0s): duration matches no reference length",
+    "lrclib 33474457 (Maria Maria (radio mix) / Santana / Maria Maria, 261.0s): live/remix/other version",
+    "lrclib 35760242 (Maria Maria (Wyclef remix) / Santana / Maria Maria, 259.0s): live/remix/other version",
+    "lrclib 25766041 (Maria Maria (Wyclef remix) / Santana / Maria Maria, 262.0s): live/remix/other version",
+    "lrclib 27290267 (Maria Maria (Wyclef remix) / Santana / Maria Maria, 264.066667s): live/remix/other version",
+    "lrclib 9868270 (Maria Maria (radio mix) / Santana / Maria Maria, 264.0s): live/remix/other version",
+    "lrclib 20990084 (Maria Maria / Santana Feat. Product G&B / Maria Maria, 517.9298s): duration matches no reference length",
+    "lrclib 19570915 (Maria Maria / Santana Feat. Product G&B / Maria Maria, 238.7592s): duration matches no reference length",
+    "lrclib 21639753 (Maria Maria / Santana Feat. Product G&B / Maria Maria, 520.43755s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

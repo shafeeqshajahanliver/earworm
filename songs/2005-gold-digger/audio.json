@@ -1,0 +1,70 @@
+{
+  "id": "2005-gold-digger",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1184309,
+    "matched_by": "isrc",
+    "isrc": "USUM70500143",
+    "title": "Gold Digger",
+    "artist": "Kanye West",
+    "album": "Late Registration",
+    "track_duration_s": 208,
+    "link": "https://www.deezer.com/track/1184309",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 92.4,
+    "tempo_bpm_grid": 93.1,
+    "tempo_candidates_bpm": [
+      46.1,
+      184.6,
+      92.3
+    ],
+    "beats_detected": 46,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.371,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.298,
+    "chroma_profile": [
+      0.322,
+      0.288,
+      0.358,
+      0.472,
+      0.353,
+      0.411,
+      0.646,
+      1.0,
+      0.824,
+      0.445,
+      0.338,
+      0.361
+    ],
+    "rms_dbfs": -5.94,
+    "rms_dbfs_p95_frame": -4.05,
+    "peak_dbfs": 1.32,
+    "loudness_lufs_approx": -7.97,
+    "spectral_centroid_hz_mean": 2508.7,
+    "spectral_centroid_hz_median": 2265.7,
+    "onsets": 124,
+    "onset_density_per_s": 4.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1184309",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -7.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1184309",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

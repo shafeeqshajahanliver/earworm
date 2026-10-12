@@ -1,0 +1,53 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/3817",
+    "title": "Get Ready",
+    "performer": "Rare Earth",
+    "is_original": false,
+    "first_release_date": "1968",
+    "releases": [
+      {
+        "title": "Dreams/Answers",
+        "uri": "https://api.secondhandsongs.com/release/214819",
+        "performer": "Rare Earth"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "Get Ready",
+      "uri": "https://api.secondhandsongs.com/work/3816"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/3816",
+    "title": "Get Ready",
+    "language": "English",
+    "writers": [
+      "Smokey Robinson"
+    ],
+    "original_performer": "The Temptations [US1]",
+    "versions": 121,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Para siempre",
+        "uri": "https://api.secondhandsongs.com/work/276941"
+      },
+      {
+        "title": "Bersedia",
+        "uri": "https://api.secondhandsongs.com/work/312303"
+      },
+      {
+        "title": "준비하세요",
+        "uri": "https://api.secondhandsongs.com/work/316806"
+      }
+    ]
+  }
+}

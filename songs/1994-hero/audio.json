@@ -1,0 +1,72 @@
+{
+  "id": "1994-hero",
+  "preview": {
+    "service": "deezer",
+    "track_id": 849889,
+    "matched_by": "isrc",
+    "isrc": "USSM19303171",
+    "title": "Hero",
+    "artist": "Mariah Carey",
+    "album": "God Bless America",
+    "track_duration_s": 257,
+    "link": "https://www.deezer.com/track/849889",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 120.0,
+    "tempo_bpm_grid": 118.8,
+    "tempo_candidates_bpm": [
+      60.1,
+      117.5,
+      123.0
+    ],
+    "beats_detected": 60,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.892,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.765,
+    "chroma_profile": [
+      0.259,
+      0.643,
+      0.44,
+      0.675,
+      1.0,
+      0.368,
+      0.71,
+      0.301,
+      0.611,
+      0.592,
+      0.272,
+      0.877
+    ],
+    "rms_dbfs": -14.64,
+    "rms_dbfs_p95_frame": -10.44,
+    "peak_dbfs": 1.92,
+    "loudness_lufs_approx": -14.78,
+    "spectral_centroid_hz_mean": 2351.7,
+    "spectral_centroid_hz_median": 2199.6,
+    "onsets": 65,
+    "onset_density_per_s": 2.167,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 849889",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 120.2,
+    "gain": -13.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/849889",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USSM19304119: matched but no preview available (readable=False)"
+  ]
+}

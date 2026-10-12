@@ -45,5 +45,85 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": null
+  "musicbrainz": {
+    "recording_id": "803a0836-7215-4cfd-9e9e-3ebbc472dde9",
+    "title": "Fingertips, Part 2 (live)",
+    "length_ms": 191000,
+    "first_release_date": "1965",
+    "artist_credit": "Stevie Wonder",
+    "artists": [
+      {
+        "name": "Stevie Wonder",
+        "mbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "4f376b55-3805-4631-a5ba-eb5474c93d24",
+        "title": "Nothing but a Man",
+        "date": "1965",
+        "country": "US",
+        "status": "Official",
+        "release_group": "0237eab0-f40f-3c20-8dc9-6ad086a441ce",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "2c941dac-9f47-3de0-a53c-4a9c4c49e4c3",
+        "title": "Nothing but a Man",
+        "date": "1996",
+        "country": "US",
+        "status": "Official",
+        "release_group": "0237eab0-f40f-3c20-8dc9-6ad086a441ce",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      }
+    ],
+    "work": {
+      "id": "51cb919d-a1cd-456e-b961-42ad8f7f8139",
+      "title": "Fingertips",
+      "iswcs": [
+        "T-070.262.945-5",
+        "T-917.482.394-0",
+        "T-930.387.181-0"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Henry Cosby",
+          "mbid": "63e1cd3d-d447-4792-bf33-1f52c7790125"
+        },
+        {
+          "role": "writer",
+          "name": "Clarence Paul",
+          "mbid": "8527d89a-e431-4e63-b13f-57dd02367bc2"
+        }
+      ],
+      "urls": [
+        "https://genius.com/Stevie-wonder-fingertips-part-2-lyrics",
+        "https://secondhandsongs.com/work/149790",
+        "http://www.songfacts.com/detail.php?id=436",
+        "https://www.wikidata.org/wiki/Q2116899"
+      ]
+    },
+    "main_artist": {
+      "name": "Stevie Wonder",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Saginaw"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "manual: chosen by hand from a MusicBrainz recording search (title brackets/medley defeated automatic matching); single version or closest length"
 }

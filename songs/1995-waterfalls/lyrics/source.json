@@ -1,0 +1,62 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37029514,
+  "kind": "synced",
+  "matched": {
+    "track": "Waterfalls",
+    "artist": "Tlc",
+    "album": "Pure... Divas",
+    "duration_s": 213.0
+  },
+  "duration_matched_to": "musicbrainz recording length (213s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 212.88,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 212.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 212.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 259.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 280.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36992024 (Waterfalls / TLC / The Very Best of Chilled R&B, 250.0s): duration matches no reference length",
+    "lrclib 37004387 (Waterfalls / TLC / Essential Woman, 425.0s): duration matches no reference length",
+    "lrclib 37485885 (Waterfalls / TLC / MatserMIx GrandM<aster RnB 1, 134.0s): duration matches no reference length",
+    "lrclib 37295723 (Waterfalls / Tlc / CB8526-09, 297.0s): duration matches no reference length",
+    "lrclib 37351343 (Waterfalls / TLC / CrazySexyCool, 244.0s): duration matches no reference length",
+    "lrclib 37448640 (Waterfalls / TLC / Kuschel Rock Vol 1, 314.0s): duration matches no reference length",
+    "lrclib 28016919 (Waterfalls  (DARP Remix) / TLC / TLC: Waterfalls, 267.0s): live/remix/other version",
+    "lrclib 28016615 (Waterfalls  (Album Instrumental) / TLC / TLC: Waterfalls, 282.0s): live/remix/other version",
+    "lrclib 25593309 (Waterfalls  (ONP Remix) / TLC / TLC: Waterfalls, 273.513084s): live/remix/other version",
+    "lrclib 31449702 (Waterfalls  (A Capella) / TLC / TLC: Waterfalls, 245.0s): duration matches no reference length",
+    "lrclib 19687628 (Waterfalls / TLC / Waterfalls, 273.4066429s): duration matches no reference length",
+    "lrclib 14831106 (Waterfalls / TLC / Waterfalls, 320.0s): duration matches no reference length",
+    "lrclib 27028182 (Waterfalls / TLC / TLC, 292.179592s): duration matches no reference length",
+    "lrclib 30625723 (Waterfalls / TLC / TLC, 247.0s): duration matches no reference length",
+    "lrclib 17969818 (Waterfalls (acappella) / TLC / Waterfalls, 244.641383s): duration matches no reference length",
+    "lrclib 13253672 (Waterfalls / TLC / Waterfalls (Remixes), 281.0s): live/remix/other version",
+    "lrclib 29595570 (Waterfalls / TLC / Waterfalls (Remixes), 274.0s): live/remix/other version",
+    "lrclib 30493411 (Waterfalls / TLC / Waterfalls (Remixes), 245.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

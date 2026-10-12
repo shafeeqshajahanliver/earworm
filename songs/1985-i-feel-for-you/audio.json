@@ -1,0 +1,72 @@
+{
+  "id": "1985-i-feel-for-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4118815,
+    "matched_by": "isrc",
+    "isrc": "USWB10901948",
+    "title": "I Feel for You (Edit)",
+    "artist": "Chaka Khan",
+    "album": "I Feel for You (Edit) / Chinatown",
+    "track_duration_s": 245,
+    "link": "https://www.deezer.com/track/4118815",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.7,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      63.0,
+      129.2
+    ],
+    "beats_detected": 59,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.615,
+    "key_runner_up": "Eb minor",
+    "key_runner_up_correlation": 0.557,
+    "chroma_profile": [
+      0.527,
+      0.634,
+      0.514,
+      0.768,
+      0.825,
+      0.837,
+      1.0,
+      0.64,
+      0.714,
+      0.577,
+      0.698,
+      0.731
+    ],
+    "rms_dbfs": -17.0,
+    "rms_dbfs_p95_frame": -13.4,
+    "peak_dbfs": -0.72,
+    "loudness_lufs_approx": -15.17,
+    "spectral_centroid_hz_mean": 3130.8,
+    "spectral_centroid_hz_median": 3069.4,
+    "onsets": 107,
+    "onset_density_per_s": 3.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4118815",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.5,
+    "gain": -15.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4118815",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USWB11202777: matched but no preview available (readable=False)"
+  ]
+}

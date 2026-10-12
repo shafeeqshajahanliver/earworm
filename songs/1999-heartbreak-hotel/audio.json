@@ -1,0 +1,74 @@
+{
+  "id": "1999-heartbreak-hotel",
+  "preview": {
+    "service": "deezer",
+    "track_id": 967311,
+    "matched_by": "isrc",
+    "isrc": "USAR19800139",
+    "title": "Heartbreak Hotel (feat. Faith Evans & Kelly Price)",
+    "artist": "Whitney Houston",
+    "album": "My Love Is Your Love",
+    "track_duration_s": 281,
+    "link": "https://www.deezer.com/track/967311",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 66.9,
+    "tempo_bpm_grid": 67.1,
+    "tempo_candidates_bpm": [
+      66.3,
+      89.1,
+      136.0
+    ],
+    "beats_detected": 29,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.682,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.64,
+    "chroma_profile": [
+      0.725,
+      0.69,
+      0.615,
+      1.0,
+      0.659,
+      0.71,
+      0.665,
+      0.542,
+      0.846,
+      0.653,
+      0.931,
+      0.92
+    ],
+    "rms_dbfs": -11.68,
+    "rms_dbfs_p95_frame": -6.27,
+    "peak_dbfs": 1.51,
+    "loudness_lufs_approx": -11.91,
+    "spectral_centroid_hz_mean": 3298.8,
+    "spectral_centroid_hz_median": 3202.8,
+    "onsets": 106,
+    "onset_density_per_s": 3.535,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 967311",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 133.8,
+    "gain": -12,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/967311",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (133.8): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAR19800164: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1990-blaze-of-glory",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1104054,
+    "matched_by": "isrc",
+    "isrc": "USPG19090003",
+    "title": "Blaze Of Glory (From \"Young Guns II\" Soundtrack)",
+    "artist": "Jon Bon Jovi",
+    "album": "Blaze Of Glory",
+    "track_duration_s": 335,
+    "link": "https://www.deezer.com/track/1104054",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 158.9,
+    "tempo_bpm_grid": 159.0,
+    "tempo_candidates_bpm": [
+      161.5,
+      78.3,
+      152.0
+    ],
+    "beats_detected": 78,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.82,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.804,
+    "chroma_profile": [
+      0.526,
+      0.496,
+      1.0,
+      0.364,
+      0.415,
+      0.542,
+      0.452,
+      0.558,
+      0.442,
+      0.762,
+      0.4,
+      0.414
+    ],
+    "rms_dbfs": -19.07,
+    "rms_dbfs_p95_frame": -14.46,
+    "peak_dbfs": -0.22,
+    "loudness_lufs_approx": -17.53,
+    "spectral_centroid_hz_mean": 3167.6,
+    "spectral_centroid_hz_median": 3122.9,
+    "onsets": 69,
+    "onset_density_per_s": 2.301,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1104054",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1104054",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between D minor and D major"
+  ],
+  "rejected_candidates": []
+}

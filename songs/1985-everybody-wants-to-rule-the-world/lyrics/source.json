@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37339611,
+  "kind": "synced",
+  "matched": {
+    "track": "Everybody Wants to Rule the World",
+    "artist": "Tears for Fears",
+    "album": "Out Now!",
+    "duration_s": 251.0
+  },
+  "duration_matched_to": "musicbrainz recording length (251s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 251.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 251.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 252.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 341297 (Everybody Wants To Rule The World / Tears for Fears / Songs From The Big Chair, 251.0s): no lyrics",
+    "lrclib 37163505 (Everybody Wants To Rule The World / Tears for Fears / Anthems Electronic 80's Vol. 3, 239.0s): duration matches no reference length",
+    "lrclib 37360195 (Everybody Wants To Rule The World / Tears for Fears / Relax 2, 225.0s): duration matches no reference length",
+    "lrclib 37356956 (Everybody Wants to Rule the World / Tears for Fears / Now That’s What I Call Music! 1985, 291.0s): duration matches no reference length",
+    "lrclib 37398376 (Everybody Wants To Rule The World / Tears For Fears / All Time Greatest Car Songs, 267.0s): duration matches no reference length",
+    "lrclib 28695771 (Everybody Wants To Rule The World / Tears For Fears / Everybody Wants to Rule the World Sped Up Version Tears for Fears, 251.0s): live/remix/other version",
+    "lrclib 35732242 (Everybody Wants to Rule the World / Tears for Fears / Everybody Wants to Rule the World, 234.0s): duration matches no reference length",
+    "lrclib 18569825 (Everybody Wants To Rule The World / Tears For Fears / Everybody Wants To Rule The World, 259.47425s): duration matches no reference length",
+    "lrclib 19717450 (Everybody Wants To  Rule The World / Tears For Fears / Everybody Wants To Rule The World, 361.0s): duration matches no reference length",
+    "lrclib 11010770 (Everybody Wants To Rule The World / Tears For Fears / Everybody Wants To Rule The World, 291.0s): duration matches no reference length",
+    "lrclib 9817081 (Everybody Wants to Rule the World / Tears for Fears / Everybody Wants to Rule the World, 245.0s): duration matches no reference length",
+    "lrclib 32828037 (Everybody Wants To Rule The World / Tears For Fears / Everybody Wants To Rule The World, 183.0s): duration matches no reference length",
+    "lrclib 30813583 (Everybody Wants To Rule The World / Tears For Fears / Everybody Wants To Rule The World, 263.0s): duration matches no reference length",
+    "lrclib 30813565 (Everybody Wants To Rule The World / Tears For Fears / Everybody Wants To Rule The World, 350.0s): duration matches no reference length",
+    "lrclib 38141436 (Everybody Wants To Rule The World / Tears For Fears / Everybody Wants To Rule The World, 111.0s): no lyrics"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

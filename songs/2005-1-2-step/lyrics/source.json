@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21951223,
+  "kind": "synced",
+  "matched": {
+    "track": "1, 2 Step",
+    "artist": "Ciara",
+    "album": "Goodies  (20th Anniversary)",
+    "duration_s": 202.62
+  },
+  "duration_matched_to": "musicbrainz recording length (203s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 202.6,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 202.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 202.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 33,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35765179 (1, 2 Step / Ciara featuring Missy Elliott / 1, 2 Step, 284.0s): duration matches no reference length",
+    "lrclib 27482710 (1,2, Step / Ciara featuring Missy Elliott / Goodies: The Videos & More, 298.16485s): duration matches no reference length",
+    "lrclib 37245306 (1, 2 Step (Don Candiani Reggaeton mix) / Ciara featuring Missy Elliott / Goodies: The Videos & More, 232.0s): live/remix/other version",
+    "lrclib 37296786 (1, 2 Step / Ciara / Urban Dance Explosion, 181.0s): duration matches no reference length",
+    "lrclib 35325541 (1 2 Step / Ciara / BodyStep 62, 365.0s): duration matches no reference length",
+    "lrclib 35618929 (1, 2 Step / Ciara / 1, 2 Step (DJ HEARTSTRING Remix), 186.0s): live/remix/other version",
+    "lrclib 20968456 (1, 2 Step / Ciara / Goodies, 193.814781s): duration matches no reference length",
+    "lrclib 18930548 (1,2 Step / Ciara / Goodies, 189.425125s): duration matches no reference length",
+    "lrclib 24382415 (1,2,step / Ciara / Unbekanntes Album (25.05.2005 21:21:34), 207.9241728s): duration matches no reference length",
+    "lrclib 22394667 (1, 2 Step / Ciara / Goodies, 249.799321s): duration matches no reference length",
+    "lrclib 27545540 (1, 2 Step / Ciara / 1, 2 Step, 214.008s): duration matches no reference length",
+    "lrclib 14503314 (1, 2 Step  (Instrumental) / Ciara / 1,2 Step, 204.0s): live/remix/other version",
+    "lrclib 36632851 (1 2 Step (Instrumental) / Ciara / 1 2 Step 12\", 204.0s): live/remix/other version",
+    "lrclib 36641248 (1 2 Step (Acapella) / Ciara / 1 2 Step 12\", 195.0s): duration matches no reference length",
+    "lrclib 18472251 (1, 2 Step (a cappella) / Ciara / 1, 2 Step, 195.343673s): live/remix/other version",
+    "lrclib 28872041 (1,2 Step / Ciara / 1,2 Step Featuring Missy Elliott, 243.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

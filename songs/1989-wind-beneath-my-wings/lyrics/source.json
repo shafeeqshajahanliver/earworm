@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1250340,
+  "kind": "synced",
+  "matched": {
+    "track": "Wind Beneath My Wings",
+    "artist": "Bette Midler",
+    "album": "Beaches: Original Soundtrack Recording",
+    "duration_s": 294.0
+  },
+  "duration_matched_to": "musicbrainz recording length (294s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 293.853,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 293.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 258.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 294.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 32,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37433163 (Wind Beneath My Wings / Bette Midler / Beaches, 286.0s): duration matches no reference length",
+    "lrclib 33487914 (Wind Beneath My Wings (Edit) / Bette Midler / The Wind Beneath My Wings, 227.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

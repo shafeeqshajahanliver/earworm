@@ -1,0 +1,70 @@
+{
+  "id": "1989-wind-beneath-my-wings",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3616256,
+    "matched_by": "isrc",
+    "isrc": "USAT29900553",
+    "title": "Wind Beneath My Wings",
+    "artist": "Bette Midler",
+    "album": "Experience The Divine (Greatest Hits)",
+    "track_duration_s": 293,
+    "link": "https://www.deezer.com/track/3616256",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 127.0,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      234.9,
+      129.2
+    ],
+    "beats_detected": 60,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.952,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.695,
+    "chroma_profile": [
+      0.691,
+      0.267,
+      0.582,
+      0.639,
+      0.253,
+      0.839,
+      0.258,
+      0.632,
+      0.25,
+      0.448,
+      1.0,
+      0.323
+    ],
+    "rms_dbfs": -16.17,
+    "rms_dbfs_p95_frame": -12.47,
+    "peak_dbfs": -2.21,
+    "loudness_lufs_approx": -14.96,
+    "spectral_centroid_hz_mean": 2195.6,
+    "spectral_centroid_hz_median": 2085.8,
+    "onsets": 76,
+    "onset_density_per_s": 2.534,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3616256",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 123.8,
+    "gain": -11.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3616256",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

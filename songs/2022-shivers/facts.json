@@ -1,0 +1,679 @@
+{
+  "id": "2022-shivers",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Shivers (Ed Sheeran song)",
+  "wikidata": {
+    "qid": "Q108489043",
+    "label": "Shivers",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q47447",
+          "label": "Ed Sheeran"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q47447",
+          "label": "Ed Sheeran"
+        },
+        {
+          "qid": "Q1293563",
+          "label": "Steve Mac"
+        },
+        {
+          "qid": "Q64009886",
+          "label": "Fred Again"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1998195",
+          "label": "Asylum Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2021-09-10"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q211756",
+          "label": "dance-pop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q108152382",
+          "label": "="
+        }
+      ],
+      "duration": [
+        {
+          "amount": "207",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q108351281",
+          "label": "Visiting Hours"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q109356032",
+          "label": "Overpass Graffiti"
+        }
+      ],
+      "musicbrainz_release_group_id": [
+        "ca01c509-1b44-4721-b64f-d0f394bcbe11"
+      ],
+      "genius_song_id": [
+        "Ed-sheeran-shivers-lyrics"
+      ],
+      "youtube_video_id": [
+        "Il0S8BoucSA"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group ca01c509-1b44-4721-b64f-d0f394bcbe11 (2021-09-09)",
+  "musicbrainz": {
+    "recording_id": "d199de3b-e552-410e-b45e-eaf178b763dc",
+    "title": "Shivers",
+    "length_ms": 207853,
+    "first_release_date": "2021-09-09",
+    "artist_credit": "Ed Sheeran",
+    "artists": [
+      {
+        "name": "Ed Sheeran",
+        "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+      }
+    ],
+    "isrcs": [
+      "GBAHS2100671"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Graham Archer",
+        "mbid": "2ffbe57f-d6f8-41f0-99c4-98ebe09d3c22"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Chris Laws",
+        "mbid": "2ddbcd6b-3443-42f5-9cc4-c6f71480ecbe"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Johnny McDaid",
+        "mbid": "7c9c8018-bae6-4d06-b201-643f5eb1c39f"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Daniel Pursey",
+        "mbid": "16211b23-df2f-4566-9da0-db2e42b0b094"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Joe Rubel",
+        "mbid": "51c22690-ed11-4a41-9a96-35a38845f067"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Fred again..",
+        "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Fred again..",
+        "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Fred again..",
+        "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass guitar"
+        ],
+        "name": "Fred again..",
+        "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Chris Laws",
+        "mbid": "2ddbcd6b-3443-42f5-9cc4-c6f71480ecbe"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Steve Mac",
+        "mbid": "84580595-7fe2-4a6e-975c-066cb7cdb187"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Johnny McDaid",
+        "mbid": "7c9c8018-bae6-4d06-b201-643f5eb1c39f"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Ed Sheeran",
+        "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Ed Sheeran",
+        "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Kieran Beardmore",
+        "mbid": "71e1e08c-9768-4652-93a0-1da5178e14fa"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Charlie Holmes",
+        "mbid": "3d2ceb77-70bd-43d9-bd1e-8daa0e731d41"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Mark “Spike” Stent",
+        "mbid": "141ec521-1e17-4807-9eec-a6f3c9f6f5bd"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Matt Wolach",
+        "mbid": "d4d63513-4e75-49bb-b2d9-c3b2e850ec83"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "task"
+        ],
+        "name": "Graham Archer",
+        "mbid": "2ffbe57f-d6f8-41f0-99c4-98ebe09d3c22"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Fred again..",
+        "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "executive"
+        ],
+        "name": "Fred again..",
+        "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "task"
+        ],
+        "name": "Steve Mac",
+        "mbid": "84580595-7fe2-4a6e-975c-066cb7cdb187"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Steve Mac",
+        "mbid": "84580595-7fe2-4a6e-975c-066cb7cdb187"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "executive"
+        ],
+        "name": "Johnny McDaid",
+        "mbid": "7c9c8018-bae6-4d06-b201-643f5eb1c39f"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Ed Sheeran",
+        "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "executive"
+        ],
+        "name": "Ed Sheeran",
+        "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Fred again..",
+        "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Chris Laws",
+        "mbid": "2ddbcd6b-3443-42f5-9cc4-c6f71480ecbe"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Joe Rubel",
+        "mbid": "51c22690-ed11-4a41-9a96-35a38845f067"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Chris Laws",
+        "mbid": "2ddbcd6b-3443-42f5-9cc4-c6f71480ecbe"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Daniel Pursey",
+        "mbid": "16211b23-df2f-4566-9da0-db2e42b0b094"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Joe Rubel",
+        "mbid": "51c22690-ed11-4a41-9a96-35a38845f067"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Ed Sheeran",
+        "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=G1ej5up7JG0"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/4uM9KUjXSyNh5UFfh15Wmx"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/69rurLVcVchVYgINOgK5iZ"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/75DtNj3uk6DLcOIe5YeFKM"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2161309047"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/278317896"
+      }
+    ],
+    "genres": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "releases": [
+      {
+        "id": "2541869d-46f5-46d7-99e5-133e06e0bf6e",
+        "title": "Shivers",
+        "date": "2021-09-09",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "ca01c509-1b44-4721-b64f-d0f394bcbe11",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "f7590de1-2bf4-429d-bf0a-8e85e30335e1",
+        "title": "Shivers",
+        "date": "2021-09-10",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "ca01c509-1b44-4721-b64f-d0f394bcbe11",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "b8a6e765-2611-4fce-8c0b-2c06443b7881",
+        "title": "Shivers",
+        "date": "2021-09-10",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "ca01c509-1b44-4721-b64f-d0f394bcbe11",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "ee54708a-2078-419d-8fad-6b6aa1f68380",
+        "title": "Shivers (Alok remix)",
+        "date": "2021-10-11",
+        "country": null,
+        "status": "Official",
+        "release_group": "8203171e-d219-419e-a859-b736f40f53bf",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Remix"
+        ]
+      },
+      {
+        "id": "bf795d70-81e4-483a-8824-ba196fd1a710",
+        "title": "Shivers (Dillon Francis remix)",
+        "date": "2021-10-27",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "80b28757-d428-42d0-a276-b4ca693212dc",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Remix"
+        ]
+      },
+      {
+        "id": "39213161-9553-4736-a995-3688df2489ad",
+        "title": "Shivers",
+        "date": "2021-10-28",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "edf6059f-e8e2-4020-bf0c-f8b7dc89104d",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Remix"
+        ]
+      },
+      {
+        "id": "0f0ce41d-5f91-45a4-97af-f707011aee0b",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0c0676bb-5ad8-4359-8324-8aed895f6044",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "41467f5e-8295-424e-807d-43dd069bb2fc",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2c5c60d6-fd8d-4e25-9358-0191b35c6b32",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b5a2f03c-70ef-48d1-9284-24c765738515",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ccfe374a-ccfa-4cbc-a37c-1cd40b914b75",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b6e68c87-8e66-4018-bdc0-a6e1009fd026",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3e5d8737-ab42-433e-aab9-2397964d4265",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7d4e696d-367b-4224-8188-f723e4cb407f",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f8386c43-9717-4fe8-8e8d-60fa08b9f3e9",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "bda1f36c-d771-49af-bcf3-72fe0a93dde5",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e52f8db3-3726-421b-a552-92334b862edc",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "BR",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "81594dc2-5861-47bf-ac4b-d3f048b075ea",
+        "title": "=",
+        "date": "2021-10-29",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0610cd15-0833-457e-b60d-9e3c937c5afa",
+        "title": "40 Tubes 2022",
+        "date": "2021-11-12",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "9f31dcca-d683-4602-bd70-cc369f836e6c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7251c4d2-d94e-4afb-ac92-25a72a4df0c0",
+        "title": "=",
+        "date": "2021-12-03",
+        "country": null,
+        "status": "Withdrawn",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "9f2a9d26-ea2d-4cb7-9067-8b6d0116e765",
+        "title": "=",
+        "date": "2021-12-03",
+        "country": "CA",
+        "status": "Withdrawn",
+        "release_group": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "5e4633de-2394-40d4-9b7a-533e690edfda",
+        "title": "Megahits 2022: Die Erste",
+        "date": "2021-12-17",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "faed8246-6ca2-4cce-a113-ce46a449f6e3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bc13025e-0b6a-498b-9b2a-08c61574d275",
+        "title": "Shivers",
+        "date": "2021-12-17",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "995d07ce-999b-4839-bbbe-23898578c415",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Remix"
+        ]
+      },
+      {
+        "id": "7446668d-67ca-4bf0-b5f8-601a6522cd92",
+        "title": "NRJ Hits 2022",
+        "date": "2021-12-22",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "41b0eb19-adc4-4cdd-9933-f2da103aae52",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "01691084-4301-4bdf-bdb3-4be5fbd6e31e",
+      "title": "Shivers",
+      "iswcs": [
+        "T-306.894.822-7"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Kal Lavelle",
+          "mbid": "afe45315-4d89-41ae-a239-62c66631cb16"
+        },
+        {
+          "role": "writer",
+          "name": "Steve Mac",
+          "mbid": "84580595-7fe2-4a6e-975c-066cb7cdb187"
+        },
+        {
+          "role": "writer",
+          "name": "Johnny McDaid",
+          "mbid": "7c9c8018-bae6-4d06-b201-643f5eb1c39f"
+        },
+        {
+          "role": "writer",
+          "name": "Ed Sheeran",
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+        }
+      ],
+      "urls": []
+    },
+    "main_artist": {
+      "name": "Ed Sheeran",
+      "type": "Person",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": "Halifax"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

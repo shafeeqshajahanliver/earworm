@@ -1,0 +1,74 @@
+{
+  "id": "1995-kiss-from-a-rose",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4688230,
+    "matched_by": "isrc",
+    "isrc": "USWB10904559",
+    "title": "Kiss from a Rose",
+    "artist": "Seal",
+    "album": "Hits",
+    "track_duration_s": 288,
+    "link": "https://www.deezer.com/track/4688230",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 131.6,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      129.2,
+      136.0,
+      66.3
+    ],
+    "beats_detected": 66,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.684,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.604,
+    "chroma_profile": [
+      0.546,
+      0.611,
+      0.556,
+      0.782,
+      0.629,
+      0.614,
+      0.824,
+      0.674,
+      1.0,
+      0.383,
+      0.55,
+      0.595
+    ],
+    "rms_dbfs": -9.07,
+    "rms_dbfs_p95_frame": -6.23,
+    "peak_dbfs": 0.9,
+    "loudness_lufs_approx": -8.42,
+    "spectral_centroid_hz_mean": 1986.4,
+    "spectral_centroid_hz_median": 1880.0,
+    "onsets": 62,
+    "onset_density_per_s": 2.067,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4688230",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 131.7,
+    "gain": -9.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4688230",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc QZNWP2551464: version: Kiss from a Rose (Seal's Version)",
+    "deezer isrc USLIC0600830: matched but no preview available (readable=False)",
+    "deezer isrc USWB10404893: matched but no preview available (readable=False)"
+  ]
+}

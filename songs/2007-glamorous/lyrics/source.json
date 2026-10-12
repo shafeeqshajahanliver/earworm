@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3731285,
+  "kind": "synced",
+  "matched": {
+    "track": "Glamorous",
+    "artist": "Fergie",
+    "album": "The Dutchess",
+    "duration_s": 247.0
+  },
+  "duration_matched_to": "musicbrainz recording length (247s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 246.68,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 247.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 248.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 29,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 26333473 (Glamorous / Fergie featuring Ludacris / Grand Theft Auto V: Non-Stop Pop FM, 227.082667s): duration matches no reference length",
+    "lrclib 25147970 (Glamorous (Clean Version) / Fergie Featuring Ludacris / Fergie Featuring Ludacris -  Glamorous (Clean Version), 246.752653s): live/remix/other version",
+    "lrclib 37090589 (Glamorous / Fergie / Singles 2010, 176.0s): duration matches no reference length",
+    "lrclib 37237807 (Glamorous / Fergie / The Dutchess, 407.0s): duration matches no reference length",
+    "lrclib 34762678 (Glamorous / Fergie / Glamorous (International Version), 247.0s): live/remix/other version",
+    "lrclib 34802153 (Glamorous / Fergie / Ultimate R&B 2008 (Double Album), 241.0s): duration matches no reference length",
+    "lrclib 38544153 (Glamorous / Fergie / Glamorous, 217.0s): duration matches no reference length",
+    "lrclib 38838746 (Glamorous / Fergie / Glamorous, 275.0s): duration matches no reference length",
+    "lrclib 24256840 (Glamorous / Fergie / Glamorous (Single), 175.893333s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

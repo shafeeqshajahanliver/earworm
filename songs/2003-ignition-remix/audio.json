@@ -1,0 +1,78 @@
+{
+  "id": "2003-ignition-remix",
+  "preview": {
+    "service": "deezer",
+    "track_id": 969470,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USJI10300017",
+    "title": "Ignition",
+    "artist": "R. Kelly",
+    "album": "Chocolate Factory",
+    "track_duration_s": 199,
+    "link": "https://www.deezer.com/track/969470",
+    "duration_matched_to": "wikipedia infobox length (196s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 66.6,
+    "tempo_bpm_grid": 66.7,
+    "tempo_candidates_bpm": [
+      66.3,
+      136.0,
+      143.6
+    ],
+    "beats_detected": 33,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.755,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.612,
+    "chroma_profile": [
+      0.766,
+      0.673,
+      0.417,
+      0.445,
+      0.515,
+      0.872,
+      0.697,
+      0.635,
+      0.786,
+      0.596,
+      1.0,
+      0.515
+    ],
+    "rms_dbfs": -10.73,
+    "rms_dbfs_p95_frame": -5.4,
+    "peak_dbfs": 1.5,
+    "loudness_lufs_approx": -12.26,
+    "spectral_centroid_hz_mean": 2082.3,
+    "spectral_centroid_hz_median": 1818.5,
+    "onsets": 89,
+    "onset_density_per_s": 2.968,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 969470",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 132.9,
+    "gain": -12.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/969470",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (132.9): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USJI10300018: version: Ignition (Remix)",
+    "deezer 576455: version (Ignition (Remix))",
+    "deezer 90558751: version (Ignition (Viceroy Remix))",
+    "deezer 82388444: duration 223s matches no reference length"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 7660369,
+  "kind": "synced",
+  "matched": {
+    "track": "The Power of Love",
+    "artist": "Céline Dion",
+    "album": "The Colour of My Love",
+    "duration_s": 286.0
+  },
+  "duration_matched_to": "musicbrainz recording length (288s)",
+  "duration_diff_s": 2.1,
+  "reference_lengths": [
+    {
+      "seconds": 288.093,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 287.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 15,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37018047 (The Power Of Love / Celine Dion / Time Life Music - Power Of Love (Anything For You), 345.0s): duration matches no reference length",
+    "lrclib 37329354 (The Power of Love / Céline Dion / Greatest Ballads 2000, 338.0s): duration matches no reference length",
+    "lrclib 36852921 (The Power Of Love / Celine Dion / 1994-02-12-4, 342.0s): duration matches no reference length",
+    "lrclib 34788160 (.The Power Of Love / Celine Dion / Their Greatest Hits, 344.0s): duration matches no reference length",
+    "lrclib 34426620 (The Power Of Love / Céline Dion / The Colour Of My Love m4a, 344.0s): duration matches no reference length",
+    "lrclib 35325158 (The Power of Love / Céline Dion / Greatest Hits Compilation, 346.0s): duration matches no reference length",
+    "lrclib 33532154 (The Power of Love / Céline Dion / Céline Dion à l'Olympia, 374.0s): duration matches no reference length",
+    "lrclib 33611252 (The Power Of Love / Celine Dion / Billboard Year-End Hot 100 Songs, 342.0s): duration matches no reference length",
+    "lrclib 33347688 (The Power of Love / Céline Dion / All Out 90s, 342.0s): duration matches no reference length",
+    "lrclib 33522943 (The Power of Love / Céline Dion / The Collection: Presenting 3 Original Album Classics, 340.0s): duration matches no reference length",
+    "lrclib 33424813 (The Power of Love / Céline Dion / Romeo & Julia: Die schönsten Love Songs aller Zeiten., 342.0s): duration matches no reference length",
+    "lrclib 36005921 (the power of love / celine dion / the best songs of the world cd05, 352.0s): duration matches no reference length",
+    "lrclib 36275643 (The Power of love / Celine Dion / 추억속으로 가는 음악 다방 제 08집, 343.0s): duration matches no reference length",
+    "lrclib 36146297 (The Power of Love / Céline Dion / 100 Greatest '90s Love Songs, 342.0s): duration matches no reference length",
+    "lrclib 29226627 (The Power of Love / Céline Dion / The Power of Celine Dion, 344.0s): duration matches no reference length",
+    "lrclib 3002416 (The Power of Love / Celine Dion / Celine Dion, 342.0s): duration matches no reference length",
+    "lrclib 36794083 (The Power of Love / Celine Dion / Celine Dion Collections, 35.0s): duration matches no reference length",
+    "lrclib 23672007 (The Power of Love / Celine Dion / Celine Dion-MIX, 343.267333s): duration matches no reference length",
+    "lrclib 28848701 (The Power of Love / Celine Dion / Celine Dion Collection, 342.0s): duration matches no reference length",
+    "lrclib 12516110 (The Power Of Love / Céline Dion / 100% Céline Dion, 342.0s): duration matches no reference length",
+    "lrclib 17231343 (The power of love / Celine Dion / Celine Dion - Collection, 346.078188s): duration matches no reference length",
+    "lrclib 3594086 (The Power of Love / Céline Dion / The Best of Céline Dion, 342.0s): duration matches no reference length",
+    "lrclib 29014317 (The Power Of Love / Celine Dion / Hits Of Celine Dion 8454, 372.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

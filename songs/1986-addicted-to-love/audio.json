@@ -1,0 +1,75 @@
+{
+  "id": "1986-addicted-to-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 906592,
+    "matched_by": "isrc",
+    "isrc": "USIR20300761",
+    "title": "Addicted To Love (Edit)",
+    "artist": "Robert Palmer",
+    "album": "'80s Pop #1's",
+    "track_duration_s": 241,
+    "link": "https://www.deezer.com/track/906592",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 111.9,
+    "tempo_bpm_grid": 112.3,
+    "tempo_candidates_bpm": [
+      112.3,
+      56.2,
+      107.7
+    ],
+    "beats_detected": 54,
+    "key": "D major",
+    "key_tonic": "D",
+    "key_mode": "major",
+    "key_correlation": 0.742,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.716,
+    "chroma_profile": [
+      0.701,
+      0.667,
+      0.799,
+      0.512,
+      0.705,
+      0.543,
+      0.691,
+      0.733,
+      0.661,
+      1.0,
+      0.666,
+      0.735
+    ],
+    "rms_dbfs": -11.12,
+    "rms_dbfs_p95_frame": -8.03,
+    "peak_dbfs": 0.37,
+    "loudness_lufs_approx": -10.76,
+    "spectral_centroid_hz_mean": 2641.7,
+    "spectral_centroid_hz_median": 2588.5,
+    "onsets": 63,
+    "onset_density_per_s": 2.101,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 906592",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 111.4,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/906592",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between D major and A major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USIR20400147: version: Addicted To Love (Remix)",
+    "deezer isrc USUMG9900746: matched but no preview available (readable=False)"
+  ]
+}

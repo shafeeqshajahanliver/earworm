@@ -1,0 +1,74 @@
+{
+  "id": "1984-hello",
+  "preview": {
+    "service": "deezer",
+    "track_id": 918048,
+    "matched_by": "isrc",
+    "isrc": "USMO18390012",
+    "title": "Hello",
+    "artist": "Lionel Richie",
+    "album": "Gold",
+    "track_duration_s": 249,
+    "link": "https://www.deezer.com/track/918048",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.5,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      61.5,
+      129.2
+    ],
+    "beats_detected": 62,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.82,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.746,
+    "chroma_profile": [
+      1.0,
+      0.396,
+      0.798,
+      0.436,
+      0.894,
+      0.839,
+      0.495,
+      0.785,
+      0.705,
+      0.793,
+      0.649,
+      0.715
+    ],
+    "rms_dbfs": -15.76,
+    "rms_dbfs_p95_frame": -11.28,
+    "peak_dbfs": -0.46,
+    "loudness_lufs_approx": -16.08,
+    "spectral_centroid_hz_mean": 1543.7,
+    "spectral_centroid_hz_median": 1356.3,
+    "onsets": 54,
+    "onset_density_per_s": 1.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 918048",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.2,
+    "gain": -15.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/918048",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc FRZ811707022: matched but no preview available (readable=False)",
+    "deezer isrc USM018390012: matched but no preview available (readable=False)",
+    "deezer isrc USM018490012: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1983-beat-it",
+  "preview": {
+    "service": "deezer",
+    "track_id": 8164635,
+    "matched_by": "isrc",
+    "isrc": "USSM18200197",
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "track_duration_s": 258,
+    "link": "https://www.deezer.com/track/8164635",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 138.9,
+    "tempo_bpm_grid": 137.8,
+    "tempo_candidates_bpm": [
+      136.0,
+      69.8,
+      143.6
+    ],
+    "beats_detected": 66,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.608,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.362,
+    "chroma_profile": [
+      0.601,
+      0.905,
+      0.794,
+      1.0,
+      0.799,
+      0.775,
+      0.759,
+      0.61,
+      0.618,
+      0.585,
+      0.75,
+      0.676
+    ],
+    "rms_dbfs": -10.26,
+    "rms_dbfs_p95_frame": -6.87,
+    "peak_dbfs": 2.06,
+    "loudness_lufs_approx": -9.72,
+    "spectral_centroid_hz_mean": 2756.0,
+    "spectral_centroid_hz_median": 2614.3,
+    "onsets": 119,
+    "onset_density_per_s": 3.968,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 8164635",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 138.7,
+    "gain": -9.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/8164635",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

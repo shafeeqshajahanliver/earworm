@@ -1,0 +1,73 @@
+{
+  "id": "2000-bent",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3658089,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAT20001176",
+    "title": "Bent",
+    "artist": "Matchbox Twenty",
+    "album": "Mad Season",
+    "track_duration_s": 256,
+    "link": "https://www.deezer.com/track/3658089",
+    "duration_matched_to": "wikipedia infobox length (256s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.4,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      184.6,
+      198.8,
+      95.7
+    ],
+    "beats_detected": 38,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.836,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.748,
+    "chroma_profile": [
+      0.577,
+      0.782,
+      0.675,
+      0.619,
+      1.0,
+      0.617,
+      0.821,
+      0.516,
+      0.668,
+      0.751,
+      0.521,
+      0.766
+    ],
+    "rms_dbfs": -9.2,
+    "rms_dbfs_p95_frame": -7.11,
+    "peak_dbfs": 0.41,
+    "loudness_lufs_approx": -8.73,
+    "spectral_centroid_hz_mean": 2243.8,
+    "spectral_centroid_hz_median": 2135.7,
+    "onsets": 49,
+    "onset_density_per_s": 1.634,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3658089",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 191.4,
+    "gain": -8.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3658089",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (191.4): octave error likely"
+  ],
+  "rejected_candidates": []
+}

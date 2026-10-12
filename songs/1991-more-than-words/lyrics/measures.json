@@ -1,0 +1,41 @@
+{
+  "id": "1991-more-than-words",
+  "lyrics_kind": "synced",
+  "lrclib_id": 19457954,
+  "lines": 36,
+  "words": 242,
+  "unique_words": 79,
+  "type_token_ratio": 0.326,
+  "repeated_line_share": 0.306,
+  "distinct_lines": 25,
+  "zlib_compression_ratio": 0.336,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "more than words",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 21,
+    "second": 28,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 22.57,
+  "last_line_s": 237.73,
+  "sung_time_s": 206.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 70.2,
+  "words_per_minute_track": 65.6,
+  "longest_gap_between_lines_s": 10.55,
+  "longest_gap_starts_at_s": 174.43,
+  "first_repeated_block": {
+    "first_at_s": 63.97,
+    "recurs_at_s": 184.98,
+    "lines": [
+      "Then you wouldn't have to say that you love me",
+      "'Cause I'd already know"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 19457954",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

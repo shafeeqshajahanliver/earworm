@@ -1,0 +1,70 @@
+{
+  "id": "2004-goodies",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13132418,
+    "matched_by": "isrc",
+    "isrc": "USLF20400041",
+    "title": "Goodies (feat. Petey Pablo)",
+    "artist": "Ciara",
+    "album": "R & B Summertime",
+    "track_duration_s": 223,
+    "link": "https://www.deezer.com/track/13132418",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.0,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      50.7,
+      198.8,
+      103.4
+    ],
+    "beats_detected": 51,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.665,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.59,
+    "chroma_profile": [
+      0.28,
+      0.247,
+      0.239,
+      0.297,
+      0.38,
+      1.0,
+      0.43,
+      0.348,
+      0.361,
+      0.299,
+      0.29,
+      0.267
+    ],
+    "rms_dbfs": -8.83,
+    "rms_dbfs_p95_frame": -4.05,
+    "peak_dbfs": 2.08,
+    "loudness_lufs_approx": -9.72,
+    "spectral_centroid_hz_mean": 2943.9,
+    "spectral_centroid_hz_median": 2912.0,
+    "onsets": 105,
+    "onset_density_per_s": 3.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13132418",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 102.1,
+    "gain": -10.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13132418",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

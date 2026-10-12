@@ -1,0 +1,73 @@
+{
+  "id": "1988-roll-with-it",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2382713175,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "DESK90390616",
+    "title": "Roll with It",
+    "artist": "Steve Winwood",
+    "album": "Well All Right - Steve Winwood - Best",
+    "track_duration_s": 271,
+    "link": "https://www.deezer.com/track/2382713175",
+    "duration_matched_to": "musicbrainz recording length (270s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.2,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      58.7,
+      117.5,
+      234.9
+    ],
+    "beats_detected": 57,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.685,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.603,
+    "chroma_profile": [
+      0.616,
+      0.513,
+      0.712,
+      0.393,
+      0.466,
+      0.575,
+      0.547,
+      1.0,
+      0.689,
+      0.78,
+      0.657,
+      0.67
+    ],
+    "rms_dbfs": -17.25,
+    "rms_dbfs_p95_frame": -13.9,
+    "peak_dbfs": -0.17,
+    "loudness_lufs_approx": -16.39,
+    "spectral_centroid_hz_mean": 2620.9,
+    "spectral_centroid_hz_median": 2590.7,
+    "onsets": 77,
+    "onset_density_per_s": 2.568,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2382713175",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -15.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2382713175",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 372717171: version (Roll with It (Live))"
+  ]
+}

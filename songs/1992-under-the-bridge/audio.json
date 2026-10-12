@@ -1,0 +1,72 @@
+{
+  "id": "1992-under-the-bridge",
+  "preview": {
+    "service": "deezer",
+    "track_id": 724838,
+    "matched_by": "isrc",
+    "isrc": "USWB19901576",
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Blood Sugar Sex Magik",
+    "track_duration_s": 264,
+    "link": "https://www.deezer.com/track/724838",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 83.5,
+    "tempo_bpm_grid": 80.1,
+    "tempo_candidates_bpm": [
+      80.7,
+      161.5,
+      55.0
+    ],
+    "beats_detected": 37,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.695,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.551,
+    "chroma_profile": [
+      0.335,
+      0.45,
+      0.315,
+      0.731,
+      1.0,
+      0.449,
+      0.592,
+      0.402,
+      0.48,
+      0.381,
+      0.299,
+      0.536
+    ],
+    "rms_dbfs": -22.48,
+    "rms_dbfs_p95_frame": -19.06,
+    "peak_dbfs": -4.8,
+    "loudness_lufs_approx": -21.13,
+    "spectral_centroid_hz_mean": 2407.3,
+    "spectral_centroid_hz_median": 2352.4,
+    "onsets": 89,
+    "onset_density_per_s": 2.968,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 724838",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 168.06,
+    "gain": -18.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/724838",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (168.1): octave error likely"
+  ],
+  "rejected_candidates": []
+}

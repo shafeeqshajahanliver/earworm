@@ -1,0 +1,71 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/6823",
+    "title": "Dizzy",
+    "performer": "Tommy Roe",
+    "is_original": true,
+    "first_release_date": "1968-11-13",
+    "releases": [
+      {
+        "title": "Dizzy",
+        "uri": "https://api.secondhandsongs.com/release/3341",
+        "performer": "Tommy Roe"
+      },
+      {
+        "title": "Dizzy",
+        "uri": "https://api.secondhandsongs.com/release/78628",
+        "performer": "Tommy Roe"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 40,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/6823",
+    "title": "Dizzy",
+    "language": "English",
+    "writers": [
+      "Tommy Roe",
+      "Freddy Weller"
+    ],
+    "original_performer": "Tommy Roe",
+    "versions": 41,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Dici",
+        "uri": "https://api.secondhandsongs.com/work/38309"
+      },
+      {
+        "title": "Tyhjää",
+        "uri": "https://api.secondhandsongs.com/work/168374"
+      },
+      {
+        "title": "Sen tiesin",
+        "uri": "https://api.secondhandsongs.com/work/176351"
+      },
+      {
+        "title": "Aturdido",
+        "uri": "https://api.secondhandsongs.com/work/282718"
+      },
+      {
+        "title": "Lyzzy",
+        "uri": "https://api.secondhandsongs.com/work/314265"
+      },
+      {
+        "title": "後會無期",
+        "uri": "https://api.secondhandsongs.com/work/316803"
+      }
+    ]
+  }
+}

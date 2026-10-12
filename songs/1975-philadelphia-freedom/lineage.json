@@ -1,0 +1,36 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/11113",
+    "title": "Philadelphia Freedom",
+    "performer": "The Elton John Band",
+    "is_original": true,
+    "first_release_date": "1975-02",
+    "releases": [
+      {
+        "title": "Philadelphia Freedom",
+        "uri": "https://api.secondhandsongs.com/release/39444",
+        "performer": "The Elton John Band"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 26,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/11113",
+    "title": "Philadelphia Freedom",
+    "language": "English",
+    "writers": [
+      "Elton John",
+      "Bernie Taupin"
+    ],
+    "original_performer": "The Elton John Band",
+    "versions": 27,
+    "based_on": [],
+    "derived_works": []
+  }
+}

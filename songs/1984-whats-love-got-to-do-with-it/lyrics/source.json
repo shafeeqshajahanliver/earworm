@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25577587,
+  "kind": "synced",
+  "matched": {
+    "track": "What's Love Got To Do With It [1984]",
+    "artist": "Tina Turner",
+    "album": "Tina Turner - What's Love Got To Do With It",
+    "duration_s": 228.493061
+  },
+  "duration_matched_to": "musicbrainz recording length (228s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 228.373,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 230.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 228.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37538876 (What's Love Got To Do With It / Tina Turner / Platinum 80's 2, 217.0s): duration matches no reference length",
+    "lrclib 37044835 (What's Love Got To Do With It / Tina Turner / Dance Classics Pop Edition Vol 2, 350.0s): duration matches no reference length",
+    "lrclib 35145575 (What's Love Got to Do with It / Tina Turner / What's Love Got to Do with It, 256.0s): duration matches no reference length",
+    "lrclib 35825214 (What's Love Got to Do with It / Tina Turner / What's Love Got to Do with It?, 29.0s): duration matches no reference length",
+    "lrclib 35825221 (What's Love Got to Do with It / Tina Turner / What's Love Got to Do with It?, 27.0s): duration matches no reference length",
+    "lrclib 35825220 (What's Love Got to Do with It / Tina Turner / What's Love Got to Do with It?, 32.0s): duration matches no reference length",
+    "lrclib 35825230 (What's Love Got to Do with It / Tina Turner / What's Love Got to Do with It?, 25.0s): duration matches no reference length",
+    "lrclib 35531216 (What's Love Got to Do with It / Tina Turner / What's Love Got to Do with It?, 222.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

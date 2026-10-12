@@ -1,0 +1,70 @@
+{
+  "id": "1984-say-say-say",
+  "preview": {
+    "service": "deezer",
+    "track_id": 107768560,
+    "matched_by": "isrc",
+    "isrc": "GBCCS1500052",
+    "title": "Say Say Say (Remastered 2015)",
+    "artist": "Paul McCartney",
+    "album": "Pipes Of Peace (Remastered 2015)",
+    "track_duration_s": 236,
+    "link": "https://www.deezer.com/track/107768560",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.5,
+    "tempo_bpm_grid": 117.5,
+    "tempo_candidates_bpm": [
+      117.5,
+      58.7,
+      234.9
+    ],
+    "beats_detected": 50,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.662,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.618,
+    "chroma_profile": [
+      0.55,
+      0.77,
+      0.604,
+      0.942,
+      0.665,
+      0.773,
+      0.718,
+      0.714,
+      0.842,
+      0.782,
+      1.0,
+      0.537
+    ],
+    "rms_dbfs": -16.77,
+    "rms_dbfs_p95_frame": -12.52,
+    "peak_dbfs": -0.37,
+    "loudness_lufs_approx": -16.77,
+    "spectral_centroid_hz_mean": 2491.1,
+    "spectral_centroid_hz_median": 2380.7,
+    "onsets": 103,
+    "onset_density_per_s": 3.435,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 107768560",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 117.79,
+    "gain": -15.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/107768560",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 24009970,
+  "kind": "synced",
+  "matched": {
+    "track": "Truly madly deeply (LP version)",
+    "artist": "Savage Garden",
+    "album": "Truly madly deeply",
+    "duration_s": 277.714583
+  },
+  "duration_matched_to": "musicbrainz recording length (278s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 277.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 273.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 277.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37013624 (Truly Madly Deeply / Savage Garden / Radio Series - October 1997, 254.0s): duration matches no reference length",
+    "lrclib 37069828 (Truly Madly Deeply / Savage Garden / The Braun MTV Eurochart ’98, Volume 5, 202.0s): duration matches no reference length",
+    "lrclib 37060299 (Truly Madly Deeply / Savage Garden / Wedding In A Box, 261.0s): duration matches no reference length",
+    "lrclib 7827628 (Truly Madly Deeply / Savage Garden / Truly Madly Deeply, 263.0s): duration matches no reference length",
+    "lrclib 28110010 (Truly Madly Deeply / Savage Garden / Truly Madly Deeply, 341.0s): duration matches no reference length",
+    "lrclib 27535144 (Truly Madly Deeply (Australian version) / Savage Garden / Truly Madly Deeply, 231.493s): live/remix/other version",
+    "lrclib 9421481 (Truly Madly Deeply (Australian version) / Savage Garden / Truly Madly Deeply, 278.0s): live/remix/other version",
+    "lrclib 9421483 (Truly Madly Deeply (Night Radio mix) / Savage Garden / Truly Madly Deeply, 279.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

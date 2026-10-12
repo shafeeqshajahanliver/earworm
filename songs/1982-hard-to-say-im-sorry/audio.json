@@ -1,0 +1,72 @@
+{
+  "id": "1982-hard-to-say-im-sorry",
+  "preview": {
+    "service": "deezer",
+    "track_id": 6615109,
+    "matched_by": "isrc",
+    "isrc": "USWB10905043",
+    "title": "Hard to Say I'm Sorry (2009 Remaster)",
+    "artist": "Chicago",
+    "album": "Chicago 16 (Expanded Edition)",
+    "track_duration_s": 221,
+    "link": "https://www.deezer.com/track/6615109",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 72.3,
+    "tempo_bpm_grid": 72.3,
+    "tempo_candidates_bpm": [
+      71.8,
+      143.6,
+      136.0
+    ],
+    "beats_detected": 32,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.816,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.767,
+    "chroma_profile": [
+      0.405,
+      0.914,
+      0.264,
+      0.549,
+      0.812,
+      0.308,
+      0.73,
+      0.274,
+      0.578,
+      0.468,
+      0.433,
+      1.0
+    ],
+    "rms_dbfs": -15.97,
+    "rms_dbfs_p95_frame": -11.65,
+    "peak_dbfs": -0.32,
+    "loudness_lufs_approx": -14.89,
+    "spectral_centroid_hz_mean": 1914.2,
+    "spectral_centroid_hz_median": 1946.1,
+    "onsets": 38,
+    "onset_density_per_s": 1.267,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 6615109",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 144.56,
+    "gain": -11.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/6615109",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (144.6): octave error likely"
+  ],
+  "rejected_candidates": []
+}

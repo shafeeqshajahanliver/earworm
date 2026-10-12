@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37147447,
+  "kind": "synced",
+  "matched": {
+    "track": "Addicted To Love",
+    "artist": "Robert Palmer",
+    "album": "Pure 80's [20 Of The Greatest Hits From The Decade Of Excess]",
+    "duration_s": 241.0
+  },
+  "duration_matched_to": "musicbrainz recording length (238s)",
+  "duration_diff_s": 3.4,
+  "reference_lengths": [
+    {
+      "seconds": 237.573,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 241.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 244.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 363.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36958995 (Addicted to Love / Robert Palmer / Best Rock Anthems in the World...Ever! Disc 1, 261.0s): duration matches no reference length",
+    "lrclib 36965385 (Addicted to Love / Robert Palmer / The Top 80’s, 265.0s): duration matches no reference length",
+    "lrclib 37478498 (Addicted to Love / Robert Palmer / ’80s Party, 274.0s): duration matches no reference length",
+    "lrclib 37504364 (Addicted to Love / Robert Palmer / The Midnight Hour: The 20 Sexiest Hits of All Time, 262.0s): duration matches no reference length",
+    "lrclib 37123089 (Addicted To Love / Robert Palmer / The Best Rock Anthems In The World... Ever, 261.0s): duration matches no reference length",
+    "lrclib 37123104 (Addicted to Love / Robert Palmer / World's Best Ever Beer Songs 2004 Disc 2, 258.0s): duration matches no reference length",
+    "lrclib 37072024 (Addicted To Love / Robert Palmer / Die ultimative Chart Show, Die erfolgreichsten  Hits der 80er Disc 1, 260.0s): duration matches no reference length",
+    "lrclib 37059722 (Addicted To Love / Robert Palmer / The Universal Masters Collection (Digitally Remastered), 350.0s): duration matches no reference length",
+    "lrclib 37086689 (Addicted To Love / Robert Palmer / Fregatte HESSEN Mix, 265.0s): duration matches no reference length",
+    "lrclib 37303633 (Addicted To Love / Robert Palmer / Mastermix - Grandmaster 80's, 82.0s): duration matches no reference length",
+    "lrclib 37303660 (Addicted To Love / Robert Palmer / Grandmaster 80S, 82.0s): duration matches no reference length",
+    "lrclib 37343090 (Addicted to Love / Robert Palmer / [standalone recordings], 231.0s): duration matches no reference length",
+    "lrclib 12937450 (addicted to love / Robert Palmer / Robert Palmer, 265.0s): duration matches no reference length",
+    "lrclib 22745766 (Addicted To Love / Robert Palmer / Robert Palmer - Gold, 265.4355s): duration matches no reference length",
+    "lrclib 19777298 (Addicted to Love (Long Mix) / Robert Palmer / Robert Palmer, 359.88898s): live/remix/other version",
+    "lrclib 29728685 (Addicted To Love / Robert Palmer / Robert Palmer - The Very Best Of Robert Palmer, 265.0s): duration matches no reference length",
+    "lrclib 33996438 (Addicted To Love / Robert Palmer / Addicted To Love, 303.0s): duration matches no reference length",
+    "lrclib 18601644 (Addicted to Love / Robert Palmer / Addicted to Love, 264.2396s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

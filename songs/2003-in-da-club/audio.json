@@ -1,0 +1,75 @@
+{
+  "id": "2003-in-da-club",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1045832682,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USIR10300033",
+    "title": "In Da Club",
+    "artist": "50 Cent",
+    "album": "Discover More Hip Hop",
+    "track_duration_s": 193,
+    "link": "https://www.deezer.com/track/1045832682",
+    "duration_matched_to": "wikipedia infobox length (193s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 119.9,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      45.3,
+      89.1,
+      184.6
+    ],
+    "beats_detected": 60,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.334,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.274,
+    "chroma_profile": [
+      0.492,
+      0.879,
+      1.0,
+      0.88,
+      0.79,
+      0.577,
+      0.623,
+      0.545,
+      0.569,
+      0.527,
+      0.523,
+      0.437
+    ],
+    "rms_dbfs": -8.42,
+    "rms_dbfs_p95_frame": -4.06,
+    "peak_dbfs": 0.1,
+    "loudness_lufs_approx": -9.94,
+    "spectral_centroid_hz_mean": 2268.8,
+    "spectral_centroid_hz_median": 2087.9,
+    "onsets": 179,
+    "onset_density_per_s": 5.969,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1045832682",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1045832682",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USIR10211884: matched but no preview available (readable=False)",
+    "deezer 646307012: version (In Da Club (Live In New York City))",
+    "deezer 731684442: version (In Da Club (Live At The Hard Rock))"
+  ]
+}

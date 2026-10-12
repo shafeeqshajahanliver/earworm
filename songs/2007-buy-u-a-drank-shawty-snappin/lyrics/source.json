@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22648634,
+  "kind": "synced",
+  "matched": {
+    "track": "Buy U A Drank (Shawty Snappin')",
+    "artist": "T-Pain",
+    "album": "Epiphany (Explicit)",
+    "duration_s": 228.089615
+  },
+  "duration_matched_to": "musicbrainz recording length (229s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 228.706,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 229.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 228.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34416677 (Buy U A Drank (Shawty Snappin') / T-Pain / Epiphany, 255.0s): duration matches no reference length",
+    "lrclib 19490949 (Buy U a Drank (Shawty Snappin') / T-Pain / Epiphany (Deluxe Version), 228.019955s): live/remix/other version",
+    "lrclib 25203144 (Buy U A Drank (Shawty Snappin') / T-Pain / T-Pain Presents Happy Hour: The Greatest Hits, 235.26675s): duration matches no reference length",
+    "lrclib 26697241 (Buy U a Drank (Shawty Snappin) / T-Pain / Billboard Top 100 Hits of 2007, 242.181224s): duration matches no reference length",
+    "lrclib 25742500 (Buy U A Drank (Shawty Snappin') / T-Pain / Epiphany, 242.256036s): duration matches no reference length",
+    "lrclib 22805063 (Buy U A Drank (Shawty Snappin')  (Remix) / T-Pain / Buy U A Drank (Shawty Snappin'), 255.12s): live/remix/other version",
+    "lrclib 4975955 (Buy U A Drank (Shawty Snappin') (feat. Kanye West) (Remix) / T-Pain / Buy U A Drank (Shawty Snappin'), 255.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

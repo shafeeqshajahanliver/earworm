@@ -1,0 +1,76 @@
+{
+  "id": "1998-truly-madly-deeply",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10307891,
+    "matched_by": "isrc",
+    "isrc": "USSM19700100",
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "album": "Super Schmusehits Vol.2",
+    "track_duration_s": 273,
+    "link": "https://www.deezer.com/track/10307891",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 168.2,
+    "tempo_bpm_grid": 166.7,
+    "tempo_candidates_bpm": [
+      83.4,
+      172.3,
+      56.2
+    ],
+    "beats_detected": 84,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.812,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.773,
+    "chroma_profile": [
+      0.909,
+      0.483,
+      0.734,
+      0.467,
+      0.523,
+      0.648,
+      0.55,
+      1.0,
+      0.53,
+      0.682,
+      0.614,
+      0.731
+    ],
+    "rms_dbfs": -10.16,
+    "rms_dbfs_p95_frame": -6.75,
+    "peak_dbfs": 0.16,
+    "loudness_lufs_approx": -10.4,
+    "spectral_centroid_hz_mean": 2417.1,
+    "spectral_centroid_hz_median": 2300.3,
+    "onsets": 82,
+    "onset_density_per_s": 2.734,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10307891",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 168.06,
+    "gain": -6.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10307891",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USSM19605575: version: Truly Madly Deeply (Australian Version)",
+    "deezer isrc USSM19605576: version: Truly Madly Deeply (Night Radio Mix)",
+    "deezer isrc USSM10506123: matched but no preview available (readable=False)"
+  ]
+}

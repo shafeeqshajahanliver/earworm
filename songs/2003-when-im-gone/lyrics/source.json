@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3676623,
+  "kind": "synced",
+  "matched": {
+    "track": "When I’m Gone",
+    "artist": "3 Doors Down",
+    "album": "Away From the Sun",
+    "duration_s": 261.0
+  },
+  "duration_matched_to": "musicbrainz recording length (262s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 261.88,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 260.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 0.957,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37420596 (When I’m Gone / 3 Doors Down / The Greatest Hits, 239.0s): duration matches no reference length",
+    "lrclib 34829798 (When I'm Gone / 3 Doors Down / Singles, 267.0s): duration matches no reference length",
+    "lrclib 34829809 (When I'm Gone / 3 Doors Down / Singles, 272.0s): duration matches no reference length",
+    "lrclib 34829799 (When I'm Gone / 3 Doors Down / Singles, 269.0s): duration matches no reference length",
+    "lrclib 34829804 (When I'm Gone / 3 Doors Down / Singles, 271.0s): duration matches no reference length",
+    "lrclib 34353497 (When I'm Gone / 3 Doors Down / Acoustic Back Porch Jam - EP, 248.0s): live/remix/other version",
+    "lrclib 34492612 (When I’m Gone / 3 Doors Down / Summer Of ’99, 244.0s): duration matches no reference length",
+    "lrclib 34829817 (When I'm Gone / 3 Doors Down / Singles, 273.0s): duration matches no reference length",
+    "lrclib 34829796 (When I'm Gone / 3 Doors Down / Singles, 268.0s): duration matches no reference length",
+    "lrclib 34829802 (When I'm Gone / 3 Doors Down / Singles, 270.0s): duration matches no reference length",
+    "lrclib 12383116 (When I'm Gone / 3 Doors Down / When I'm Gone, 251.0s): duration matches no reference length",
+    "lrclib 31358028 (When I'm Gone / 3 Doors Down / When I'm Gone, 272.0s): duration matches no reference length",
+    "lrclib 24685856 (When I'm Gone / 3 Doors Down / 3 Doors Down, 251.042042s): duration matches no reference length",
+    "lrclib 23734915 (When I'm Gone / 3 Doors Down / 3 Doors Down, 267.168798s): duration matches no reference length",
+    "lrclib 1121764 (When I'm Gone / 3 Doors down / 3 Doors down, 293.0s): duration matches no reference length",
+    "lrclib 17654225 (When I'm Gone / 3 Doors Down / When I'm Gone-CDS, 251.042042s): duration matches no reference length",
+    "lrclib 2101295 (When I’m Gone / 3 Doors Down / When I’m Gone Hit Pack, 293.0s): duration matches no reference length",
+    "lrclib 32359977 (When I’m Gone / 3 Doors Down / When I’m Gone Hit Pack, 267.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1993-cant-help-falling-in-love",
+  "lyrics_kind": "synced",
+  "lrclib_id": 4674739,
+  "lines": 26,
+  "words": 143,
+  "unique_words": 43,
+  "type_token_ratio": 0.301,
+  "repeated_line_share": 0.538,
+  "distinct_lines": 12,
+  "zlib_compression_ratio": 0.252,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "can't help falling in love",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 13,
+    "second": 8,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.3,
+  "last_line_s": 175.59,
+  "sung_time_s": 145.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 58.8,
+  "words_per_minute_track": 42.4,
+  "longest_gap_between_lines_s": 24.97,
+  "longest_gap_starts_at_s": 11.12,
+  "first_repeated_block": {
+    "first_at_s": 0.3,
+    "recurs_at_s": 36.09,
+    "lines": [
+      "Wise men say",
+      "Only fools rush in"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 4674739",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

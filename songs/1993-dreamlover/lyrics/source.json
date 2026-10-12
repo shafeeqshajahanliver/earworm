@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 28691892,
+  "kind": "synced",
+  "matched": {
+    "track": "Dreamlover [USA Love Dub]",
+    "artist": "Mariah Carey",
+    "album": "Dreamlover [US]",
+    "duration_s": 432.0
+  },
+  "duration_matched_to": "musicbrainz recording length (432s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 432.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 430.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 233.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 0.024,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "words differ a lot from other matching LRCLIB entries (median Jaccard 0.02)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37511518 (Dreamlover / Mariah Carey / Mariah Carey LIVE&ALIVE, 324.0s): live/remix/other version",
+    "lrclib 36905084 (Dreamlover / Mariah Carey / Music Box: 30th Anniversary Edition, 184.0s): duration matches no reference length",
+    "lrclib 34596096 (Dreamlover / Mariah Carey / The Adventures of Mimi, 313.0s): duration matches no reference length",
+    "lrclib 3544256 (Dreamlover (Usa Love Dub) / Mariah Carey / Dreamlover [Remixes], 431.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

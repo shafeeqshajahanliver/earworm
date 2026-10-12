@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35367677,
+  "kind": "synced",
+  "matched": {
+    "track": "Can't Nobody Hold Me Down (feat. Mase)",
+    "artist": "Puff Daddy",
+    "album": "No Way Out (25th Anniversary Expanded Edition)",
+    "duration_s": 232.0
+  },
+  "duration_matched_to": "wikipedia infobox length (232s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 232.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 6,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched wikipedia infobox length (232s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 21393285 (Can't Nobody Hold Me Down / Puff Daddy & Mase / Billboard Hot 100 Singles 1997, 309.49125s): duration matches no reference length",
+    "lrclib 25303087 (Can't Nobody Hold Me Down / Puff Daddy & Mase / 1997 - Top100, 306.567875s): duration matches no reference length",
+    "lrclib 25987973 (Can't Nobody Hold Me Down / Puff Daddy & Mase / Top 40 1997, 264.362368s): duration matches no reference length",
+    "lrclib 27265272 (Can't Nobody Hold Me Down / Puff Daddy & Mase / Top 40 En Tipparade uit 1997, 264.362375s): duration matches no reference length",
+    "lrclib 27241837 (Can't Nobody Hold Me Down / Puff Daddy & Mase / Billboard Top 100 of the 90s (1997), 306.546938s): duration matches no reference length",
+    "lrclib 29391058 (Can't Nobody Hold Me Down / Puff Daddy & Mase / The Source Presents Hip Hop Hits, Volume 1, 304.0s): duration matches no reference length",
+    "lrclib 31736726 (Can't Nobody Hold Me Down / Puff Daddy & Mase / No Way Out [Clean], 307.0s): duration matches no reference length",
+    "lrclib 16605975 (Can't Nobody Hold Me Down / Puff Daddy & Mase / The Source Presents Hip Hop Hits, Volume 1, 307.0s): duration matches no reference length",
+    "lrclib 35873960 (Can't Nobody Hold Me Down (feat. Mase) / Puff Daddy / Can't Nobody Hold Me Down, 308.0s): duration matches no reference length",
+    "lrclib 33930648 (Can't Nobody Hold Me Down (feat. Mase) / Puff Daddy / No Way Out (Remastered Edition), 308.0s): duration matches no reference length",
+    "lrclib 30213733 (Can't Nobody Hold Me Down (feat. Mase) / Puff Daddy / FM4 Soundselection: 2, 840.0s): duration matches no reference length",
+    "lrclib 21207261 (Can't Nobody Hold Me Down / Puff Daddy (feat. Mase) / Radio FM4 | Soundselection 2, 266.501224s): duration matches no reference length",
+    "lrclib 21718011 (Can't Nobody Hold Me Down / Puff Daddy & The Family Feat. Mase / Can't Nobody Hold Me Down Single, 311.59495s): duration matches no reference length",
+    "lrclib 18486242 (Can't Nobody Hold Me Down [Club Mix] / Puff Daddy & The Family Feat. Mase / Can't Nobody Hold Me Down Single, 306.6317s): duration matches no reference length",
+    "lrclib 24289211 (Can't Nobody Hold Me Down (feat. Mase)  (Radio Mix) / Puff Daddy & The Family / Can't Nobody Hold Me Down (feat. Mase), 273.6266752s): live/remix/other version",
+    "lrclib 28895282 (Can't Nobody Hold Me Down / Puff Daddy & The Family Feat. Mase / Puff Daddy & The Family: No Way Out, 159.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

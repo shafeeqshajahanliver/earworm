@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1018830,
+  "kind": "synced",
+  "matched": {
+    "track": "Poison",
+    "artist": "Bell Biv DeVoe",
+    "album": "Poison",
+    "duration_s": 262.0
+  },
+  "duration_matched_to": "musicbrainz recording length (264s)",
+  "duration_diff_s": 1.8,
+  "reference_lengths": [
+    {
+      "seconds": 263.8,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 261.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37463881 (Poison / Bell Biv DeVoe / True 90s (3 CD Set), 289.0s): duration matches no reference length",
+    "lrclib 37496802 (Poison / Bell Biv DeVoe / music - Hip Hop - 80's electronic - YouTube, 289.0s): duration matches no reference length",
+    "lrclib 37540257 (Poison / Bell Biv DeVoe / Silicon Valley, 289.0s): duration matches no reference length",
+    "lrclib 37146709 (Poison / Bell Biv DeVoe / Poison, Nones): duration matches no reference length",
+    "lrclib 37425728 (Poison / Bell Biv Devoe / De Complete Top 40 1990, 224.0s): duration matches no reference length",
+    "lrclib 34473377 (Poison / Bell Biv DeVoe / Poison, 1552.0s): duration matches no reference length",
+    "lrclib 34525228 (Poison / Bell Biv Devoe / Scrubs: Season 5, 386.0s): duration matches no reference length",
+    "lrclib 34432977 (Poison / Bell Biv DeVoe / Pure Swing, 327.0s): duration matches no reference length",
+    "lrclib 35160502 (Poison / Bell Biv DeVoe / Cd2, 427.0s): duration matches no reference length",
+    "lrclib 33370437 (Poison / Bell Biv Devoe / Poison, 278.0s): duration matches no reference length",
+    "lrclib 33412417 (POISON / BEll biv devoe / POSION, 30.0s): duration matches no reference length",
+    "lrclib 36276225 (Poison / Bell Biv DeVoe / 90s Hits Essentials, 270.0s): duration matches no reference length",
+    "lrclib 27555354 (Poison / Bell Biv DeVoe / Bell Biv DeVoe, 252.6s): duration matches no reference length",
+    "lrclib 1121942 (Poison (Radio Remix) / Bell Biv DeVoe / Bell Biv DeVoe, 330.0s): live/remix/other version",
+    "lrclib 21095688 (Poison / Bell Biv DeVoe / Bell Biv DeVoe Videos, 296.0s): duration matches no reference length",
+    "lrclib 21623464 (Poison / Bell Biv DeVoe / Bell Biv DeVoe Songs, 296.0s): duration matches no reference length",
+    "lrclib 1121939 (Poison (Remix) / Bell Biv DeVoe / Bell Biv DeVoe: Greatest Hits, 375.0s): live/remix/other version",
+    "lrclib 10692129 (Poison [Remix] / Bell Biv DeVoe / Best of Bell Biv DeVoe, 374.0s): live/remix/other version",
+    "lrclib 38710764 (Poison (London Style Version) / Bell Biv DeVoe / Bell Biv DeVoe Greatest Hits, 375.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

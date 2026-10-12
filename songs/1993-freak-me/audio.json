@@ -1,0 +1,70 @@
+{
+  "id": "1993-freak-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3822013,
+    "matched_by": "isrc",
+    "isrc": "USEE10900542",
+    "title": "Freak Me",
+    "artist": "Silk",
+    "album": "Lose Control",
+    "track_duration_s": 274,
+    "link": "https://www.deezer.com/track/3822013",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 133.9,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      66.3,
+      89.1
+    ],
+    "beats_detected": 68,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.474,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.407,
+    "chroma_profile": [
+      0.607,
+      0.485,
+      0.637,
+      0.535,
+      0.673,
+      0.488,
+      0.582,
+      0.627,
+      1.0,
+      0.853,
+      0.656,
+      0.673
+    ],
+    "rms_dbfs": -14.93,
+    "rms_dbfs_p95_frame": -10.5,
+    "peak_dbfs": -0.84,
+    "loudness_lufs_approx": -15.52,
+    "spectral_centroid_hz_mean": 2792.0,
+    "spectral_centroid_hz_median": 2765.7,
+    "onsets": 104,
+    "onset_density_per_s": 3.468,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3822013",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 133.8,
+    "gain": -15.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3822013",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1996-twisted",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4036331931,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "FR8GV2612810",
+    "title": "Twisted Red",
+    "artist": "Keith Sweat",
+    "album": "Rare R&B & New Jack 123",
+    "track_duration_s": 265,
+    "link": "https://www.deezer.com/track/4036331931",
+    "duration_matched_to": "wikipedia infobox length (270s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 88.6,
+    "tempo_bpm_grid": 87.6,
+    "tempo_candidates_bpm": [
+      89.1,
+      172.3,
+      58.7
+    ],
+    "beats_detected": 44,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.765,
+    "key_runner_up": "B major",
+    "key_runner_up_correlation": 0.675,
+    "chroma_profile": [
+      0.194,
+      0.498,
+      0.274,
+      1.0,
+      0.589,
+      0.254,
+      0.594,
+      0.253,
+      0.538,
+      0.183,
+      0.386,
+      0.51
+    ],
+    "rms_dbfs": -13.31,
+    "rms_dbfs_p95_frame": -9.23,
+    "peak_dbfs": -0.95,
+    "loudness_lufs_approx": -13.29,
+    "spectral_centroid_hz_mean": 1569.8,
+    "spectral_centroid_hz_median": 1108.3,
+    "onsets": 70,
+    "onset_density_per_s": 2.334,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4036331931",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4036331931",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 3616531: duration 260s matches no reference length",
+    "deezer 3613844: duration 253s matches no reference length",
+    "deezer 5743333: version (Twisted (Live))",
+    "deezer 723733862: version (Twisted (Sweat Shop Party Remix Edit))",
+    "deezer 5743376: version (Twisted (Live))"
+  ]
+}

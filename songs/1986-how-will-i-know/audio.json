@@ -1,0 +1,74 @@
+{
+  "id": "1986-how-will-i-know",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1131192,
+    "matched_by": "isrc",
+    "isrc": "USAR18500150",
+    "title": "How Will I Know",
+    "artist": "Whitney Houston",
+    "album": "Whitney Houston",
+    "track_duration_s": 275,
+    "link": "https://www.deezer.com/track/1131192",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 119.5,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      117.5,
+      60.1,
+      123.0
+    ],
+    "beats_detected": 51,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.617,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.591,
+    "chroma_profile": [
+      0.748,
+      0.851,
+      0.575,
+      0.515,
+      0.462,
+      0.599,
+      0.755,
+      0.624,
+      0.705,
+      0.641,
+      1.0,
+      0.887
+    ],
+    "rms_dbfs": -20.08,
+    "rms_dbfs_p95_frame": -15.96,
+    "peak_dbfs": -4.59,
+    "loudness_lufs_approx": -19.3,
+    "spectral_centroid_hz_mean": 2761.8,
+    "spectral_centroid_hz_median": 2704.7,
+    "onsets": 111,
+    "onset_density_per_s": 3.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1131192",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 119.5,
+    "gain": -17.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1131192",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Bb minor and F# major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAR10001155: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 5591418,
+  "kind": "synced",
+  "matched": {
+    "track": "Twisted",
+    "artist": "Keith Sweat",
+    "album": "Keith Sweat",
+    "duration_s": 270.0
+  },
+  "duration_matched_to": "musicbrainz recording length (273s)",
+  "duration_diff_s": 3.0,
+  "reference_lengths": [
+    {
+      "seconds": 273.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 265.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 270.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 0.958,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37200361 (Twisted / Keith Sweat / 1996 - Top 100, 252.0s): duration matches no reference length",
+    "lrclib 34920758 (Twisted / Keith Sweat / sundays are for lovers, 253.0s): duration matches no reference length",
+    "lrclib 33624524 (Twisted / Keith Sweat / All The… 90s, 251.0s): duration matches no reference length",
+    "lrclib 33792090 (Twisted / Keith Sweat / Make You Sweat: The Best Of Ke, 255.0s): duration matches no reference length",
+    "lrclib 33408143 (Twisted / Keith Sweat / Rolling Stone: 90s R&B Jams, 253.0s): duration matches no reference length",
+    "lrclib 33803974 (Twisted / Keith Sweat / Sweat Hotel Live, 282.0s): live/remix/other version",
+    "lrclib 33492778 (Twisted / Keith Sweat / TwiceasNice-Weekender-Sunday, 239.0s): duration matches no reference length",
+    "lrclib 33399708 (Twisted / Keith Sweat / Pop Classics the 90s, 254.0s): duration matches no reference length",
+    "lrclib 36051624 (Twisted / Keith Sweat / Billboard Top 100 Hits of 1996, 251.0s): duration matches no reference length",
+    "lrclib 35403175 (Twisted / Keith Sweat / Keith Sweat (Atmos Mix), 270.0s): live/remix/other version",
+    "lrclib 18824464 (Twisted / Keith Sweat / Keith Sweat, 303.8563328s): duration matches no reference length",
+    "lrclib 20989485 (Twisted / Keith Sweat / Keith Sweat, 248.381s): duration matches no reference length",
+    "lrclib 19518999 (Twisted / Keith Sweat / Keith Sweat, 252.133875s): duration matches no reference length",
+    "lrclib 21865901 (Twisted / Keith Sweat / Keith Sweat, 242.424312s): duration matches no reference length",
+    "lrclib 29724069 (Twisted / Keith Sweat / Keith Sweat, 240.0s): duration matches no reference length",
+    "lrclib 38887612 (Twisted / Keith Sweat / Keith Sweat, Nones): duration matches no reference length",
+    "lrclib 1749707 (Twisted (1996) / Keith Sweat / Keith Sweat, 305.0s): duration matches no reference length",
+    "lrclib 18917023 (Twisted / Keith Sweat / Keith Sweat Live, 332.094694s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

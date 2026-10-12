@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35136105,
+  "kind": "synced",
+  "matched": {
+    "track": "Give Me One Reason",
+    "artist": "Tracy Chapman",
+    "album": "Collection  (Compilation)",
+    "duration_s": 270.0
+  },
+  "duration_matched_to": "musicbrainz recording length (270s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 270.12,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 268.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 270.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37210549 (Give me one reason / Tracy Chapman / Music, 246.0s): duration matches no reference length",
+    "lrclib 36860376 (Give Me One Reason / Tracy Chapman / New Beginning, 30.0s): duration matches no reference length",
+    "lrclib 35217186 (Give Me One Reason / Tracy Chapman / Tracy Chapman Greates Hits, 253.0s): duration matches no reference length",
+    "lrclib 35936286 (Give Me One Reason / Tracy Chapman / Keep On Steppin': The Best Of Junior Wells, 305.0s): duration matches no reference length",
+    "lrclib 36299007 (Give Me One Reason / Tracy Chapman / New Beginning, 259.0s): duration matches no reference length",
+    "lrclib 35863786 (Give Me One Reason / Tracy Chapman / Live Performances: 1988-2000, 248.0s): live/remix/other version",
+    "lrclib 36703691 (Give Me One Reason / Tracy Chapman / Give Me One Reason, 209.0s): duration matches no reference length",
+    "lrclib 35780996 (Give Me One Reason / Tracy Chapman / New Beginning, 26.0s): duration matches no reference length",
+    "lrclib 24412471 (Give Me One Reason / Tracy Chapman / Tracy Chapman, 399.077s): duration matches no reference length",
+    "lrclib 35707324 (Give Me One Reason / Tracy Chapman / Give Me One Reason, 247.0s): duration matches no reference length",
+    "lrclib 9143663 (Give Me One Reason / Tracy Chapman / Tracy Chapman Videos, 248.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

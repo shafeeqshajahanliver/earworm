@@ -1,0 +1,42 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25657538,
+  "kind": "synced",
+  "matched": {
+    "track": "The Sweet Escape",
+    "artist": "Gwen Stefani",
+    "album": "Gwen Stefani - The Sweet Escape",
+    "duration_s": 246.466667
+  },
+  "duration_matched_to": "musicbrainz recording length (247s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 246.613,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 246.5,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 246.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 36,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33709441 (The Sweet Escape / Gwen Stefani / The Sweet Escape, 268.0s): duration matches no reference length",
+    "lrclib 35880799 (The Sweet Escape / Gwen Stefani / The Sweet Escape, 226.0s): duration matches no reference length",
+    "lrclib 34057285 (the sweet escape / gwen stefani / ytv big fun party mix 9, 221.0s): duration matches no reference length",
+    "lrclib 35812915 (The Sweet Escape / Gwen Stefani / The Sweet Escape, 227.0s): duration matches no reference length",
+    "lrclib 35389848 (The Sweet Escape / Gwen Stefani / Ö3 Greatest Hits 38, 239.0s): duration matches no reference length",
+    "lrclib 23696325 (The Sweet Escape / Gwen Stefani featuring Akon / The Sweet Escape, 257.559s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

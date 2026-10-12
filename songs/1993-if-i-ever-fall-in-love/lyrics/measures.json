@@ -1,0 +1,41 @@
+{
+  "id": "1993-if-i-ever-fall-in-love",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1007642,
+  "lines": 45,
+  "words": 299,
+  "unique_words": 84,
+  "type_token_ratio": 0.281,
+  "repeated_line_share": 0.444,
+  "distinct_lines": 25,
+  "zlib_compression_ratio": 0.282,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "if i ever fall in love",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 36,
+    "second": 12,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 29.88,
+  "last_line_s": 251.08,
+  "sung_time_s": 195.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 91.8,
+  "words_per_minute_track": 93.9,
+  "longest_gap_between_lines_s": 37.81,
+  "longest_gap_starts_at_s": 161.03,
+  "first_repeated_block": {
+    "first_at_s": 59.07,
+    "recurs_at_s": 137.66,
+    "lines": [
+      "And if I ever (Ever fall)",
+      "In love again (Again)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1007642",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

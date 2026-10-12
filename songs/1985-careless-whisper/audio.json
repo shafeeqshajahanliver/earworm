@@ -1,0 +1,72 @@
+{
+  "id": "1985-careless-whisper",
+  "preview": {
+    "service": "deezer",
+    "track_id": 14525086,
+    "matched_by": "isrc",
+    "isrc": "GBBBM8400003",
+    "title": "Careless Whisper",
+    "artist": "George Michael",
+    "album": "The Final",
+    "track_duration_s": 300,
+    "link": "https://www.deezer.com/track/14525086",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 152.6,
+    "tempo_bpm_grid": 152.0,
+    "tempo_candidates_bpm": [
+      76.0,
+      152.0,
+      161.5
+    ],
+    "beats_detected": 75,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.829,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.529,
+    "chroma_profile": [
+      0.596,
+      0.547,
+      0.915,
+      0.65,
+      0.798,
+      0.801,
+      0.526,
+      0.6,
+      0.453,
+      1.0,
+      0.784,
+      0.496
+    ],
+    "rms_dbfs": -18.24,
+    "rms_dbfs_p95_frame": -13.85,
+    "peak_dbfs": 0.04,
+    "loudness_lufs_approx": -17.98,
+    "spectral_centroid_hz_mean": 2794.2,
+    "spectral_centroid_hz_median": 2629.5,
+    "onsets": 79,
+    "onset_density_per_s": 2.634,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 14525086",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 152.6,
+    "gain": -16.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/14525086",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBARL0601610: matched but no preview available (readable=False)"
+  ]
+}

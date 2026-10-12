@@ -1,0 +1,81 @@
+{
+  "id": "1982-abracadabra",
+  "preview": {
+    "service": "deezer",
+    "track_id": 404237102,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "QMEU31713781",
+    "title": "Abracadabra (Remastered 2017)",
+    "artist": "Steve Miller Band",
+    "album": "Ultimate Hits",
+    "track_duration_s": 307,
+    "link": "https://www.deezer.com/track/404237102",
+    "duration_matched_to": "wikipedia infobox length (308s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 127.3,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      129.2,
+      63.0,
+      123.0
+    ],
+    "beats_detected": 61,
+    "key": "A minor",
+    "key_tonic": "A",
+    "key_mode": "minor",
+    "key_correlation": 0.684,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.682,
+    "chroma_profile": [
+      0.886,
+      0.797,
+      0.956,
+      0.77,
+      1.0,
+      0.771,
+      0.685,
+      0.637,
+      0.684,
+      0.953,
+      0.711,
+      0.772
+    ],
+    "rms_dbfs": -11.67,
+    "rms_dbfs_p95_frame": -8.83,
+    "peak_dbfs": 0.6,
+    "loudness_lufs_approx": -11.21,
+    "spectral_centroid_hz_mean": 2807.9,
+    "spectral_centroid_hz_median": 2789.9,
+    "onsets": 127,
+    "onset_density_per_s": 4.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 404237102",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 127.21,
+    "gain": -11,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/404237102",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between A minor and A major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBBLG8200187: title/artist mismatch:  / ",
+    "deezer isrc USCA29200216: title/artist mismatch: Abracadabra / Steve Miller",
+    "deezer isrc USA188200020: matched but no preview available (readable=False)",
+    "deezer isrc USCA20300410: matched but no preview available (readable=False)",
+    "deezer 17743170: duration 176s matches no reference length",
+    "deezer 3579182461: version (Abracadabra (Kristar Remix))",
+    "deezer 17743171: version (Abracadabra (Round n' Round) (Club Mix))"
+  ]
+}

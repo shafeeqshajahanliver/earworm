@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/263935",
+    "title": "Reunited",
+    "performer": "Peaches & Herb",
+    "is_original": true,
+    "first_release_date": "1978-10",
+    "releases": [
+      {
+        "title": "2 Hot!",
+        "uri": "https://api.secondhandsongs.com/release/92543",
+        "performer": "Peaches & Herb"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 27,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/131535",
+    "title": "Reunited",
+    "language": "English",
+    "writers": [
+      "Dino Fekaris",
+      "Freddie Perren"
+    ],
+    "original_performer": "Peaches & Herb",
+    "versions": 28,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Réunis",
+        "uri": "https://api.secondhandsongs.com/work/147741"
+      }
+    ]
+  }
+}

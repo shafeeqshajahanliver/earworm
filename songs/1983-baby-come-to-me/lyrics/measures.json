@@ -1,0 +1,41 @@
+{
+  "id": "1983-baby-come-to-me",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37031154,
+  "lines": 70,
+  "words": 380,
+  "unique_words": 111,
+  "type_token_ratio": 0.292,
+  "repeated_line_share": 0.429,
+  "distinct_lines": 40,
+  "zlib_compression_ratio": 0.292,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "baby come to me",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 47,
+    "second": 37,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 11.02,
+  "last_line_s": 200.49,
+  "sung_time_s": 190.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 119.7,
+  "words_per_minute_track": 105.4,
+  "longest_gap_between_lines_s": 8.26,
+  "longest_gap_starts_at_s": 118.82,
+  "first_repeated_block": {
+    "first_at_s": 41.35,
+    "recurs_at_s": 99.82,
+    "lines": [
+      "Baby, come to me",
+      "Let me put my arms around you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37031154",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

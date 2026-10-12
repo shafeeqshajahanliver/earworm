@@ -1,0 +1,70 @@
+{
+  "id": "2007-the-sweet-escape",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1455390118,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "The Sweet Escape (feat. Akon)",
+    "artist": "Gwen Stefani",
+    "album": "The Sweet Escape",
+    "track_duration_s": 246.5,
+    "link": "https://music.apple.com/us/album/the-sweet-escape-feat-akon/1455389985?i=1455390118&uo=4",
+    "duration_matched_to": "musicbrainz recording length (247s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 120.1,
+    "tempo_bpm_grid": 120.2,
+    "tempo_candidates_bpm": [
+      60.1,
+      117.5,
+      123.0
+    ],
+    "beats_detected": 59,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.481,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.467,
+    "chroma_profile": [
+      0.447,
+      0.518,
+      0.316,
+      0.533,
+      0.37,
+      0.919,
+      1.0,
+      0.596,
+      0.605,
+      0.408,
+      0.448,
+      0.341
+    ],
+    "rms_dbfs": -7.64,
+    "rms_dbfs_p95_frame": -3.57,
+    "peak_dbfs": 1.17,
+    "loudness_lufs_approx": -7.58,
+    "spectral_centroid_hz_mean": 2954.4,
+    "spectral_centroid_hz_median": 2826.0,
+    "onsets": 117,
+    "onset_density_per_s": 3.903,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1455390118",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between C# major and F# major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USUM70618684: version: The Sweet Escape (Konvict remix)",
+    "deezer 1176711: version (The Sweet Escape (Konvict Remix))",
+    "itunes 1445032441: version (The Sweet Escape (feat. Akon) [Konvict Remix])"
+  ]
+}

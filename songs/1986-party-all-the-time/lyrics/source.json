@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 32879560,
+  "kind": "synced",
+  "matched": {
+    "track": "Party All The Time",
+    "artist": "Eddie Murphy",
+    "album": "Party All The Time Cd Maxi",
+    "duration_s": 318.0
+  },
+  "duration_matched_to": "musicbrainz recording length (317s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 317.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 252.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 248.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 318.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34409335 (Party All the Time / Eddie Murphy / Boogie Nights: Dance Hits of the 70’s & 80’s (disc 3: ’81‐’85), 237.0s): duration matches no reference length",
+    "lrclib 33791415 (PARTY ALL THE TIME / EDDIE MURPHY / 80'sPOP, 214.0s): duration matches no reference length",
+    "lrclib 36000982 (Party All The Time / Eddie Murphy / 80's Attack [Extended Remix] Vol. 2, Disc 2, 313.0s): live/remix/other version",
+    "lrclib 36720040 (Party All the Time / Eddie Murphy / Baldur's Gate 3 (Original Game Soundtrack), 233.0s): duration matches no reference length",
+    "lrclib 36485190 (Party All the Time / Eddie Murphy / Grand Theft Auto V Unofficial Soundtrack, 211.0s): duration matches no reference length",
+    "lrclib 36349383 (Party All the Time / Eddie Murphy / Party All the Time, 261.0s): duration matches no reference length",
+    "lrclib 21802494 (Party All The Time / Eddie Murphy / Party All The Time, 283.632s): duration matches no reference length",
+    "lrclib 29564048 (Party All the Time / Eddie Murphy / Party All the Time, 237.0s): duration matches no reference length",
+    "lrclib 22205773 (Party All the Time (edit) / Eddie Murphy / Party All the Time, 237.87102s): duration matches no reference length",
+    "lrclib 27213667 (Party All The Time / Eddie Murphy / Party All The Time Cd Maxi, 428.7765s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

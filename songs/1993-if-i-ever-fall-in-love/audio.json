@@ -1,0 +1,83 @@
+{
+  "id": "1993-if-i-ever-fall-in-love",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1146011,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USWWW0202541",
+    "title": "If I Ever Fall In Love",
+    "artist": "Shai",
+    "album": "If I Ever Fall In Love",
+    "track_duration_s": 188,
+    "link": "https://www.deezer.com/track/1146011",
+    "duration_matched_to": "musicbrainz recording length (191s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.4,
+    "tempo_bpm_grid": 108.8,
+    "tempo_candidates_bpm": [
+      143.6,
+      152.0,
+      161.5
+    ],
+    "beats_detected": 52,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.713,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.463,
+    "chroma_profile": [
+      0.587,
+      0.786,
+      0.5,
+      0.465,
+      0.571,
+      1.0,
+      0.674,
+      0.333,
+      0.386,
+      0.477,
+      0.748,
+      0.559
+    ],
+    "rms_dbfs": -13.31,
+    "rms_dbfs_p95_frame": -8.49,
+    "peak_dbfs": -1.57,
+    "loudness_lufs_approx": -12.19,
+    "spectral_centroid_hz_mean": 2563.9,
+    "spectral_centroid_hz_median": 2351.6,
+    "onsets": 47,
+    "onset_density_per_s": 1.567,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1146011",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 144.6,
+    "gain": -13.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1146011",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (144.6) by 26%"
+  ],
+  "rejected_candidates": [
+    "deezer 1146007: duration 290s matches no reference length",
+    "deezer 8100587: duration 299s matches no reference length",
+    "deezer 1029608802: version (If I Ever Fall in Love (Acapella Version) [Re-Recorded])",
+    "deezer 2317872565: version (If I Ever Fall in Love (Re-Recorded) [Orchestral Version])",
+    "deezer 2757271891: version (If I Ever Fall In Love (Live))",
+    "deezer 2263105737: version (If I Ever Fall In Love (Re-Recorded - Slowed + Reverb))",
+    "deezer 2263105717: version (If I Ever Fall In Love (Re-recorded - Sped Up))",
+    "deezer 13712404: version (If I Ever Fall In Love (Instrumental Version))",
+    "deezer 137751963: version (If I Ever Fall In Love (Bordertown Remix))"
+  ]
+}

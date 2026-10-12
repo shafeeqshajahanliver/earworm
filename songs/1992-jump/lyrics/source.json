@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1008048,
+  "kind": "synced",
+  "matched": {
+    "track": "Jump",
+    "artist": "Kris Kross",
+    "album": "Totally Krossed Out",
+    "duration_s": 195.0
+  },
+  "duration_matched_to": "musicbrainz recording length (196s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 195.76,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 194.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 197.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 309.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34402981 (Jump / Kris Kross / Totally Krossed Out, 269.0s): duration matches no reference length",
+    "lrclib 35305006 (Jump / Kris Kross / Totally Krossed Out, 159.0s): duration matches no reference length",
+    "lrclib 33416953 (Jump / Kris Kross / Best Singles of All Time, Volume 2, 184.0s): duration matches no reference length",
+    "lrclib 28794655 (Jump / Kris Kross / The Best Of Kris Kross Remixed, 235.0s): live/remix/other version",
+    "lrclib 23534830 (Jump (Super Cat Dessork Mix) / Kris Kross / The Best Of Kris Kross Remixed, 234.6422s): live/remix/other version",
+    "lrclib 23186553 (Jump (Super Cat Dessork Mix) / Kris Kross / The Best of Kris Kross Remixed: 92 94 96, 235.0s): live/remix/other version",
+    "lrclib 770140 (Jump (Super Cat Dessork Mix) / Kris Kross / The Best of Kris Kross - '92, '94, '96 (Remixed), 232.0s): live/remix/other version",
+    "lrclib 9347485 (Jump (Super Cat Dessork Mix) / Kris Kross / The Best Of Kris Kross Remixed: '92, '94, '96, 232.0s): live/remix/other version",
+    "lrclib 35525953 (Jump (instrumental mix) / Kris Kross / Jump, 197.0s): live/remix/other version",
+    "lrclib 11701060 (Jump (extended mix) / Kris Kross / Jump, 311.0s): live/remix/other version",
+    "lrclib 3447898 (Jump (Extended Dance Mix) / Kris Kross / Jump, 409.0s): live/remix/other version",
+    "lrclib 27197726 (Jump (Super Cat mix) / Kris Kross / Jump, 277.64s): live/remix/other version",
+    "lrclib 33216035 (Jump (extended dance mix) / Kris Kross / Jump, 197.0s): live/remix/other version",
+    "lrclib 36490300 (Jump / Kris Kross / Jump (30th Annversary Edition), 410.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

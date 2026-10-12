@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 58929,
+  "kind": "synced",
+  "matched": {
+    "track": "Beat It",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "duration_s": 258.0
+  },
+  "duration_matched_to": "musicbrainz recording length (258s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 258.173,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 258.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 258.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37016735 (Beat it / Michael Jackson / History DTS, 278.0s): duration matches no reference length",
+    "lrclib 36937832 (Beat It / Michael Jackson / Michael Jackson's This Is It, 180.0s): duration matches no reference length",
+    "lrclib 37001765 (Beat It / Michael Jackson / The 12″ Tape, 251.0s): duration matches no reference length",
+    "lrclib 37136543 (Beat It / Michael Jackson / Number Ones Disc 1, 580.0s): duration matches no reference length",
+    "lrclib 37098330 (Beat It / Michael Jackson / Thriller [25th Anniversary Edition Zombie Cover] Disc 1, 258.0s): live/remix/other version",
+    "lrclib 35994740 (Beat It / Michael Jackson / Michael Jackson, 330.0s): duration matches no reference length",
+    "lrclib 23534588 (Beat It / Michael Jackson / Michael Jackson, 323.448s): duration matches no reference length",
+    "lrclib 23145884 (Beat It / Michael Jackson / Michael Jackson, 298.056s): duration matches no reference length",
+    "lrclib 38694570 (Beat It / Michael Jackson / Michael Jackson, 209.0s): duration matches no reference length",
+    "lrclib 38200088 (Beat It / Michael Jackson / Michael Jackson, 163.0s): duration matches no reference length",
+    "lrclib 36699588 (Beat It (Demo) / Michael Jackson / Michael Jackson, 124.0s): live/remix/other version",
+    "lrclib 19171284 (Beat It / Michael Jackson / Michael Jackson - This Is It... (Live), 498.102857s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

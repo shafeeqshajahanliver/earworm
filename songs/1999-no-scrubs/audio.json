@@ -1,0 +1,72 @@
+{
+  "id": "1999-no-scrubs",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2323859,
+    "matched_by": "isrc",
+    "isrc": "USLF20000006",
+    "title": "No Scrubs",
+    "artist": "TLC",
+    "album": "Fanmail",
+    "track_duration_s": 219,
+    "link": "https://www.deezer.com/track/2323859",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 93.0,
+    "tempo_bpm_grid": 93.1,
+    "tempo_candidates_bpm": [
+      184.6,
+      92.3,
+      61.5
+    ],
+    "beats_detected": 46,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.691,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.564,
+    "chroma_profile": [
+      0.633,
+      0.811,
+      0.667,
+      0.835,
+      0.542,
+      0.477,
+      0.587,
+      0.746,
+      1.0,
+      0.743,
+      0.8,
+      0.806
+    ],
+    "rms_dbfs": -8.97,
+    "rms_dbfs_p95_frame": -4.25,
+    "peak_dbfs": 3.72,
+    "loudness_lufs_approx": -9.17,
+    "spectral_centroid_hz_mean": 3031.2,
+    "spectral_centroid_hz_median": 2744.0,
+    "onsets": 153,
+    "onset_density_per_s": 5.102,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2323859",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 185.4,
+    "gain": -9.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2323859",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (185.4): octave error likely"
+  ],
+  "rejected_candidates": []
+}

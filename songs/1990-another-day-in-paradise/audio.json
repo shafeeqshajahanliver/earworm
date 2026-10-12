@@ -1,0 +1,75 @@
+{
+  "id": "1990-another-day-in-paradise",
+  "preview": {
+    "service": "deezer",
+    "track_id": 125493154,
+    "matched_by": "isrc",
+    "isrc": "USRH11602150",
+    "title": "Another Day in Paradise (2016 Remaster)",
+    "artist": "Phil Collins",
+    "album": "...But Seriously (Deluxe Edition)",
+    "track_duration_s": 322,
+    "link": "https://www.deezer.com/track/125493154",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 102.0,
+    "tempo_bpm_grid": 102.3,
+    "tempo_candidates_bpm": [
+      50.7,
+      103.4,
+      198.8
+    ],
+    "beats_detected": 52,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.666,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.653,
+    "chroma_profile": [
+      0.459,
+      0.404,
+      0.318,
+      0.721,
+      0.414,
+      0.702,
+      0.383,
+      0.679,
+      1.0,
+      0.617,
+      0.749,
+      0.468
+    ],
+    "rms_dbfs": -12.07,
+    "rms_dbfs_p95_frame": -7.94,
+    "peak_dbfs": -0.3,
+    "loudness_lufs_approx": -12.77,
+    "spectral_centroid_hz_mean": 1702.6,
+    "spectral_centroid_hz_median": 1553.1,
+    "onsets": 100,
+    "onset_density_per_s": 3.335,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 125493154",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 101.83,
+    "gain": -11.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/125493154",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Ab major and Eb major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBAAA8900148: matched but no preview available (readable=False)",
+    "deezer isrc USWI19600169: matched but no preview available (readable=False)"
+  ]
+}

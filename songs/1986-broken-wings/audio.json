@@ -1,0 +1,72 @@
+{
+  "id": "1986-broken-wings",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13131778,
+    "matched_by": "isrc",
+    "isrc": "USRC10401168",
+    "title": "Broken Wings",
+    "artist": "Mr. Mister",
+    "album": "Rock Classics",
+    "track_duration_s": 269,
+    "link": "https://www.deezer.com/track/13131778",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 127.6,
+    "tempo_bpm_grid": 132.5,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      136.0
+    ],
+    "beats_detected": 59,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.776,
+    "key_runner_up": "C# major",
+    "key_runner_up_correlation": 0.689,
+    "chroma_profile": [
+      0.424,
+      1.0,
+      0.324,
+      0.524,
+      0.435,
+      0.284,
+      0.568,
+      0.346,
+      0.761,
+      0.458,
+      0.413,
+      0.658
+    ],
+    "rms_dbfs": -11.52,
+    "rms_dbfs_p95_frame": -9.03,
+    "peak_dbfs": -0.58,
+    "loudness_lufs_approx": -10.47,
+    "spectral_centroid_hz_mean": 2889.8,
+    "spectral_centroid_hz_median": 2813.1,
+    "onsets": 81,
+    "onset_density_per_s": 2.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13131778",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 99.6,
+    "gain": -11.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13131778",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (99.6) by 28%"
+  ],
+  "rejected_candidates": []
+}

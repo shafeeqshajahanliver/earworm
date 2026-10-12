@@ -1,0 +1,72 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 26840032,
+  "kind": "synced",
+  "matched": {
+    "track": "Return of the Mack",
+    "artist": "Mark Morrison",
+    "album": "Return of the Mack",
+    "duration_s": 272.240094
+  },
+  "duration_matched_to": "musicbrainz recording length (273s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 273.226,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 273.7,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 274.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 440.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 3,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36946278 (Return of the Mack / Mark Morrison / 1996! Songs of the Year, 213.0s): duration matches no reference length",
+    "lrclib 36946283 (Return of the Mack / Mark Morrison / Timeless Pop Classics, 213.0s): duration matches no reference length",
+    "lrclib 36946288 (Return of the Mack / Mark Morrison / R&B Classics, 213.0s): duration matches no reference length",
+    "lrclib 37003305 (Return Of The Mack / Mark Morrison / Essential Rnb Winter 2004, 212.0s): duration matches no reference length",
+    "lrclib 37538800 (Return of the Mack / Mark Morrison / I Successi degli Anni 90, 226.0s): duration matches no reference length",
+    "lrclib 37139705 (Return of the Mack / Mark Morrison / New Year's Eve, 213.0s): duration matches no reference length",
+    "lrclib 37049398 (Return Of The Mack / Mark Morrison / Mastermix - Number 1's - 1996, 244.0s): duration matches no reference length",
+    "lrclib 37051300 (Return Of The Mack / Mark Morrison / Mastermix - Professional Dance 30, 207.0s): duration matches no reference length",
+    "lrclib 37286646 (Return Of The Mack / Mark Morrison / Billboard Top 100 Hits Of 1997, 661.0s): duration matches no reference length",
+    "lrclib 37291994 (Return of the Mack / Mark Morrison / Return of the Mack, 446.0s): duration matches no reference length",
+    "lrclib 37382582 (Return Of The Mack / Mark Morrison / Maxis, 213.0s): duration matches no reference length",
+    "lrclib 37389293 (Return of the Mack / Mark Morrison / Return Of The Mack (/Trippin'), 74.0s): duration matches no reference length",
+    "lrclib 37199501 (Return of the Mack / Mark Morrison / German Top 100 Jahrescharts 1996, 215.0s): duration matches no reference length",
+    "lrclib 37208104 (Return of the Mack / Mark Morrison / The Best Dance Album in the World...Ever!, Vol. 6 Disc 2, 211.0s): duration matches no reference length",
+    "lrclib 37213353 (Return Of The Mack / Mark Morrison / Top 40 Hitdossier 1995-1996 - CD1, 212.0s): duration matches no reference length",
+    "lrclib 37261694 (Return Of The Mack / Mark Morrison / 100 Hits Of The 90's Disc 1, 213.0s): duration matches no reference length",
+    "lrclib 36922653 (Return Of The Mack / Mark Morrison / Frosh 90's, 212.0s): duration matches no reference length",
+    "lrclib 34434026 (Return of the Mack / Mark Morrison / 90s Collection, 213.0s): duration matches no reference length",
+    "lrclib 34666728 (Return of the Mack / Mark Morrison / Mastermix Professional Engineered for DJs 15: Urban, 206.0s): duration matches no reference length",
+    "lrclib 34077967 (Return of the Mack / Mark Morrison / Mark Morrison - Return Of The Mack 1996, 214.0s): duration matches no reference length",
+    "lrclib 13928465 (Return of the Mack (Mark Morrison vs. Bad Royale) / Mark Morrison / Return of the Mack (Mark Morrison vs. Bad Royale), 197.0s): duration matches no reference length",
+    "lrclib 35243026 (Return Of The Mack / Mark Morrison / Return Of The Mack, 256.0s): duration matches no reference length",
+    "lrclib 33370395 (Return of the Mack / Mark Morrison / Return of the Mack, 100.0s): duration matches no reference length",
+    "lrclib 33753067 (Return Of The Mack / Mark Morrison / Return Of The Mack, 136.0s): duration matches no reference length",
+    "lrclib 35833711 (Return of the Mack / Mark Morrison / Return of the Mack, 30.0s): duration matches no reference length",
+    "lrclib 35833725 (Return of the Mack / Mark Morrison / Return of the Mack, 28.0s): duration matches no reference length",
+    "lrclib 35833750 (Return of the Mack / Mark Morrison / Return of the Mack, 35.0s): duration matches no reference length",
+    "lrclib 18607634 (Return of the Mack / Mark Morrison / Return of the Mack, 215.2499s): duration matches no reference length",
+    "lrclib 19065212 (Return of the Mack / Mark Morrison / Return of the Mack, 378.383673s): duration matches no reference length",
+    "lrclib 19138360 (Return of the Mack / Mark Morrison / Return of the Mack, 226.0s): duration matches no reference length",
+    "lrclib 20837743 (Return Of The Mack / Mark Morrison / Return Of The Mack, 10.13025s): duration matches no reference length",
+    "lrclib 20661049 (Return Of The Mack / Mark Morrison / Return Of The Mack, 320.24775s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

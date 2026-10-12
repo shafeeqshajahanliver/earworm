@@ -1,0 +1,72 @@
+{
+  "id": "1994-breathe-again",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15391574,
+    "matched_by": "isrc",
+    "isrc": "USLF29300112",
+    "title": "Breathe Again (Radio Edit)",
+    "artist": "Toni Braxton",
+    "album": "Ultimate Toni Braxton",
+    "track_duration_s": 254,
+    "link": "https://www.deezer.com/track/15391574",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 154.0,
+    "tempo_bpm_grid": 154.3,
+    "tempo_candidates_bpm": [
+      152.0,
+      76.0,
+      103.4
+    ],
+    "beats_detected": 76,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.757,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.751,
+    "chroma_profile": [
+      0.926,
+      0.536,
+      0.912,
+      0.485,
+      0.833,
+      1.0,
+      0.499,
+      0.71,
+      0.505,
+      0.85,
+      0.448,
+      0.5
+    ],
+    "rms_dbfs": -9.18,
+    "rms_dbfs_p95_frame": -6.51,
+    "peak_dbfs": 2.3,
+    "loudness_lufs_approx": -10.33,
+    "spectral_centroid_hz_mean": 2496.4,
+    "spectral_centroid_hz_median": 2412.4,
+    "onsets": 128,
+    "onset_density_per_s": 4.268,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15391574",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 154.3,
+    "gain": -9.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15391574",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between F major and C major"
+  ],
+  "rejected_candidates": []
+}

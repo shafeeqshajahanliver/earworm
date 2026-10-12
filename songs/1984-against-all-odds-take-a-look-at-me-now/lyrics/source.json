@@ -1,0 +1,43 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 6997694,
+  "kind": "synced",
+  "matched": {
+    "track": "Against All Odds (Phil Collins)",
+    "artist": "Phil Collins",
+    "album": "Against All Odds OST",
+    "duration_s": 205.0
+  },
+  "duration_matched_to": "musicbrainz recording length (205s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 205.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 206.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 203.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 0.947,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36981666 (Against All Odds (Take a Look at Me Now) / Phil Collins / …Hits, 230.0s): duration matches no reference length",
+    "lrclib 37134809 (Against All Odds (Take A Look At Me Now) / Phil Collins / Serious Hits ... Live!, 201.0s): live/remix/other version",
+    "lrclib 34407881 (Against All Odds (Take a Look at Me Now) / Phil Collins / Phil Collins Hits, 896.0s): duration matches no reference length",
+    "lrclib 35280224 (Against All Odds (Take a Look at Me Now) / Phil Collins / Discography [FLAC Songs] [PMEDIA] ⭐️ (2021) Phil Collins - Phil Collins at Live Aid [16Bit-44.1kHz] - 01. Against, 235.0s): live/remix/other version",
+    "lrclib 34928517 (Against All Odds (Take a Look at Me Now) / Phil Collins / Live Aid, 234.0s): live/remix/other version",
+    "lrclib 35091785 (Against All Odds (Take a Look at Me Now) / Phil Collins / Phil Collins at Live Aid, 234.0s): live/remix/other version",
+    "lrclib 35277254 (Against All Odds (Take a Look at Me Now) / Phil Collins / Discography [FLAC Songs] [PMEDIA] ⭐️ (2021) Phil Collins - Phil Collins at Live Aid [24Bit-44.1, 235.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

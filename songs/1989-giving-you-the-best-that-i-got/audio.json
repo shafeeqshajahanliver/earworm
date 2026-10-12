@@ -1,0 +1,70 @@
+{
+  "id": "1989-giving-you-the-best-that-i-got",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1651280602,
+    "matched_by": "isrc",
+    "isrc": "USAT20200800",
+    "title": "Giving You the Best That I Got (Single Version)",
+    "artist": "Anita Baker",
+    "album": "Sweet Love",
+    "track_duration_s": 233,
+    "link": "https://www.deezer.com/track/1651280602",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 104.9,
+    "tempo_bpm_grid": 104.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      215.3,
+      69.8
+    ],
+    "beats_detected": 53,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.852,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.628,
+    "chroma_profile": [
+      0.686,
+      0.952,
+      0.832,
+      0.577,
+      0.985,
+      0.608,
+      0.86,
+      0.801,
+      0.68,
+      1.0,
+      0.524,
+      0.885
+    ],
+    "rms_dbfs": -12.47,
+    "rms_dbfs_p95_frame": -9.44,
+    "peak_dbfs": -0.47,
+    "loudness_lufs_approx": -12.45,
+    "spectral_centroid_hz_mean": 2341.7,
+    "spectral_centroid_hz_median": 2242.6,
+    "onsets": 85,
+    "onset_density_per_s": 2.834,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1651280602",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 104.9,
+    "gain": -12.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1651280602",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

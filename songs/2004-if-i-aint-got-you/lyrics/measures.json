@@ -1,0 +1,41 @@
+{
+  "id": "2004-if-i-aint-got-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 986970,
+  "lines": 48,
+  "words": 265,
+  "unique_words": 92,
+  "type_token_ratio": 0.347,
+  "repeated_line_share": 0.333,
+  "distinct_lines": 32,
+  "zlib_compression_ratio": 0.298,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "if i ain't got you",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 16,
+    "second": 14,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.89,
+  "last_line_s": 209.58,
+  "sung_time_s": 192.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 82.7,
+  "words_per_minute_track": 69.3,
+  "longest_gap_between_lines_s": 15.46,
+  "longest_gap_starts_at_s": 8.89,
+  "first_repeated_block": {
+    "first_at_s": 69.91,
+    "recurs_at_s": 143.26,
+    "lines": [
+      "Some people want it all",
+      "But I don't want nothing at all"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 986970",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2000-maria-maria",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3958522,
+    "matched_by": "isrc",
+    "isrc": "USAR19900035",
+    "title": "Maria Maria (feat. The Product G&B)",
+    "artist": "Santana",
+    "album": "The Sunny Side Of Life",
+    "track_duration_s": 261,
+    "link": "https://www.deezer.com/track/3958522",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.2,
+    "tempo_bpm_grid": 97.5,
+    "tempo_candidates_bpm": [
+      48.8,
+      99.4,
+      78.3
+    ],
+    "beats_detected": 49,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.607,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.418,
+    "chroma_profile": [
+      0.607,
+      0.598,
+      0.603,
+      0.664,
+      0.892,
+      0.61,
+      0.721,
+      1.0,
+      0.766,
+      0.78,
+      0.495,
+      0.53
+    ],
+    "rms_dbfs": -17.59,
+    "rms_dbfs_p95_frame": -12.2,
+    "peak_dbfs": -6.81,
+    "loudness_lufs_approx": -19.64,
+    "spectral_centroid_hz_mean": 1789.0,
+    "spectral_centroid_hz_median": 1590.8,
+    "onsets": 140,
+    "onset_density_per_s": 4.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3958522",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 98,
+    "gain": -19.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3958522",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USAR10000024: matched but no preview available (readable=False)",
+    "deezer isrc USAR10500404: matched but no preview available (readable=False)"
+  ]
+}

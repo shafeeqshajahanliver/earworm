@@ -1,0 +1,41 @@
+{
+  "id": "1989-every-rose-has-its-thorn",
+  "lyrics_kind": "synced",
+  "lrclib_id": 486733,
+  "lines": 38,
+  "words": 279,
+  "unique_words": 118,
+  "type_token_ratio": 0.423,
+  "repeated_line_share": 0.237,
+  "distinct_lines": 29,
+  "zlib_compression_ratio": 0.393,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "every rose has its thorn",
+  "title_phrase_occurrences": 6,
+  "pronouns": {
+    "first_singular": 20,
+    "second": 7,
+    "first_plural": 7
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 18.39,
+  "last_line_s": 243.68,
+  "sung_time_s": 181.2,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 92.4,
+  "words_per_minute_track": 64.5,
+  "longest_gap_between_lines_s": 44.27,
+  "longest_gap_starts_at_s": 151.69,
+  "first_repeated_block": {
+    "first_at_s": 45.24,
+    "recurs_at_s": 113.63,
+    "lines": [
+      "Every rose has its thorn",
+      "Just like every night has its dawn"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 486733",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

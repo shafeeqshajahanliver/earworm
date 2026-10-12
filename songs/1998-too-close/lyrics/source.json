@@ -1,0 +1,65 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 19891301,
+  "kind": "synced",
+  "matched": {
+    "track": "Too Close [Radio Edit]",
+    "artist": "Next",
+    "album": "Too Close [Australia]",
+    "duration_s": 247.849796
+  },
+  "duration_matched_to": "musicbrainz recording length (247s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 247.466,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 246.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 5,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 19221825 (Too Close / Next / Rated Next, 247.296643s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37188134 (Too Close / Next / R & B Classics, 239.0s): duration matches no reference length",
+    "lrclib 37051319 (Too Close / Next / Monsta Jams, 378.0s): duration matches no reference length",
+    "lrclib 37364310 (Too Close / Next / Classic Dance Hits 1990s [Bubanee], 260.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37355214 (Too Close / Next / Welcome To Nextacy, 260.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37418302 (Too Close / Next / 100 Hits: The Best R&B Album - CD3, 248.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36858454 (Too Close / Next / Top 40 Hitdossier One Hit Wonders (disc 3), 248.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34562006 (Too Close / Next / Ministry of Sound: I Love R&B: Mix One, 241.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34495802 (Too close / Next / Wifey [EU]  (single), 259.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 33572490 (Too Close / Next / Billboard Year-End Chart of 1998, 258.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 33751365 (Too Close / Next / 100 Hits - 90s Essentials Cd2 (Uk), 246.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36188123 (Too Close / Next / The Masters Series: 90's RnB, 248.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36136155 (Too Close / Next / Platinum & Gold Collection, 279.0s): duration matches no reference length",
+    "lrclib 36628267 (too close / next / midnight soul 2, 262.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36504218 (Too Close / Next / Ministry of Sound - Old Skool, 254.0s): duration matches no reference length",
+    "lrclib 34315546 (Too Close / Next / Top 40 Hitdossier One Hit Wonders, 248.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34142973 (Too Close / Next / Unknown, 259.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34289002 (Too Close / Next / Remember...the 1990s, 259.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 33856106 (Too Close / Next / Billboard Greatest Of All Time Hot 100 Songs, 259.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 35780728 (Too Close / Next / Rated Next, 27.0s): duration matches no reference length",
+    "lrclib 26445834 (Too Close / Next / Too Close - EP, 376.0s): duration matches no reference length",
+    "lrclib 32568567 (Too Close / Next / Too Close EP, 260.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 19960683 (Too Close (radio edit) / Next / Too Close, 240.53551s): duration matches no reference length",
+    "lrclib 23449485 (Too Close (extended version) / Next / Too Close, 376.685714s): live/remix/other version",
+    "lrclib 35306910 (Too Close (Phatboy club mix) / Next / Too Close, 250.0s): live/remix/other version",
+    "lrclib 34495719 (Too Close (Phatboy club mix) / Next / Too Close  (single), 252.0s): live/remix/other version",
+    "lrclib 21152989 (Too Close / Next / Next, 245.488625s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34495731 (Too Close (London Connection 2 Step dub) / Next / Too Close  (single), 398.0s): duration matches no reference length",
+    "lrclib 14828110 (Too Close (Re-Recorded) / Next / Too Close (Re-Recorded) [Acapella], 261.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

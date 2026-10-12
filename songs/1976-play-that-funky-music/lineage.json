@@ -1,0 +1,58 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/21270",
+    "title": "Play That Funky Music",
+    "performer": "Wild Cherry",
+    "is_original": true,
+    "first_release_date": "1976-04",
+    "releases": [
+      {
+        "title": "Play That Funky Music",
+        "uri": "https://api.secondhandsongs.com/release/38442",
+        "performer": "Wild Cherry"
+      },
+      {
+        "title": "Wild Cherry",
+        "uri": "https://api.secondhandsongs.com/release/57587",
+        "performer": "Wild Cherry"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 64,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/21270",
+    "title": "Play That Funky Music",
+    "language": "English",
+    "writers": [
+      "Rob Parissi"
+    ],
+    "original_performer": "Wild Cherry",
+    "versions": 65,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Play That Funny Music",
+        "uri": "https://api.secondhandsongs.com/work/128552"
+      },
+      {
+        "title": "Mommy's Planning Your Bar Mitzvah",
+        "uri": "https://api.secondhandsongs.com/work/214494"
+      },
+      {
+        "title": "Minden éjjel várlak",
+        "uri": "https://api.secondhandsongs.com/work/347341"
+      }
+    ]
+  }
+}

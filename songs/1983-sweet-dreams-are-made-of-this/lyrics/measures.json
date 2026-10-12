@@ -1,0 +1,41 @@
+{
+  "id": "1983-sweet-dreams-are-made-of-this",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3231468,
+  "lines": 39,
+  "words": 261,
+  "unique_words": 39,
+  "type_token_ratio": 0.149,
+  "repeated_line_share": 0.718,
+  "distinct_lines": 11,
+  "zlib_compression_ratio": 0.138,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "sweet dreams",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 14,
+    "second": 14,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 8.44,
+  "last_line_s": 202.54,
+  "sung_time_s": 152.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 102.8,
+  "words_per_minute_track": 53.5,
+  "longest_gap_between_lines_s": 19.32,
+  "longest_gap_starts_at_s": 88.06,
+  "first_repeated_block": {
+    "first_at_s": 8.44,
+    "recurs_at_s": 50.43,
+    "lines": [
+      "Sweet dreams are made of this",
+      "Who am I to disagree"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3231468",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,92 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 32248935,
+  "kind": "synced",
+  "matched": {
+    "track": "I'm Real",
+    "artist": "Jennifer Lopez",
+    "album": "100% Jennifer Lopez",
+    "duration_s": 297.0
+  },
+  "duration_matched_to": "deezer preview track matched by search (295s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 258.666,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 295.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 298.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 9,
+  "agreement_with_other_candidates": 0.836,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (295s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 19817955 (I’m Real (Murder remix) / Jennifer Lopez feat. Ja Rule / J.Lo, 261.0s): live/remix/other version",
+    "lrclib 23466319 (I’m Real (Murder remix) / Jennifer Lopez / J.Lo, 258.716735s): live/remix/other version",
+    "lrclib 12539257 (I’m Real (Murder remix) / Jennifer Lopez featuring Ja Rule / J.Lo, 259.0s): live/remix/other version",
+    "lrclib 35273571 (I'm Real (Murder Remix) / Jennifer Lopez feat. Ja Rule / J.Lo [Explicit], 262.0s): live/remix/other version",
+    "lrclib 33401968 (I’m Real (Murder Remix) / Jennifer Lopez Feat. Ja Rule / J to Tha L‐O! The Remixes, 257.0s): live/remix/other version",
+    "lrclib 18351313 (I'm Real (Murder Remix) / Jennifer Lopez Feat. Ja Rule / The Singles Collection, 257.2799999s): live/remix/other version",
+    "lrclib 24596336 (I'm Real (Murder remix) / Jennifer Lopez feat. Ja Rule / Ministry of Sound: Throwback Summer Jamz, 258.977959s): live/remix/other version",
+    "lrclib 9225002 (I’m Real [Murder Remix] / Jennifer Lopez feat. Ja Rule / J to tha L–O! The Remixes, 259.0s): live/remix/other version",
+    "lrclib 2104728 (I’m Real (Murder remix) / Jennifer Lopez feat. Ja Rule / I’m Real, 227.0s): live/remix/other version",
+    "lrclib 28350072 (I'm Real (Murder remix) / Jennifer Lopez feat. Ja Rule / Hip Hop II: The Collection, 268.0s): live/remix/other version",
+    "lrclib 28833397 (I'm Real [Murder Remix] / Jennifer Lopez Feat Ja Rule / Best of 100 Vol. 4, 250.0s): live/remix/other version",
+    "lrclib 26626131 (I’m Real (Murder remix) / Jennifer Lopez feat. Ja Rule / Throwback: Summer Jamz, 221.541587s): live/remix/other version",
+    "lrclib 28960357 (I'm Real (Murder remix) / Jennifer Lopez feat. Ja Rule / The Singles Collection, 261.0s): live/remix/other version",
+    "lrclib 11211414 (I’m Real (Murder remix) / Jennifer Lopez feat. Ja Rule / J to tha L‐O! The Remixes, 259.0s): live/remix/other version",
+    "lrclib 10673993 (I'm Real (Murder remix) / Jennifer Lopez feat. Ja Rule / J To Tha L-O! The Remixes, 259.0s): live/remix/other version",
+    "lrclib 10466535 (I'm Real (Murder remix) / Jennifer Lopez feat. Ja Rule / I’m Real, 258.0s): live/remix/other version",
+    "lrclib 30084482 (I’m Real (Murder Remix) / Jennifer Lopez feat. Ja Rule / J.Lo, 257.0s): live/remix/other version",
+    "lrclib 32073864 (I’m Real (Murder remix) / Jennifer Lopez feat. Ja Rule / J.Lo (25th anniversary edition), 262.0s): live/remix/other version",
+    "lrclib 30827441 (I'm Real (Murder remix) / Jennifer Lopez feat. Ja Rule / I'm Real (disc 1), 259.0s): live/remix/other version",
+    "lrclib 16509449 (I'm Real (Murder Remix) / Jennifer Lopez feat. Ja Rule / Dance Again...The Hits, 258.71s): live/remix/other version",
+    "lrclib 37452580 (I'm Real (Murder Remix) / Jennifer Lopez / On The 6 / J. Lo, 259.0s): live/remix/other version",
+    "lrclib 35079223 (I'm Real (Murder Remix) / Jennifer Lopez / J To Tha L-O! The Remixes, 262.0s): live/remix/other version",
+    "lrclib 36193760 (I'm Real [Murder Remix] / Jennifer Lopez / Dance Again...The Hits, 259.0s): live/remix/other version",
+    "lrclib 34327914 (I'm Real (Murder remix) / Jennifer Lopez / I'm Real [AU]  (single), 258.0s): live/remix/other version",
+    "lrclib 34327955 (I'm Real (Murder remix) / Jennifer Lopez / I'm Real [DE]  (single), 261.0s): live/remix/other version",
+    "lrclib 18389203 (I'm Real [*][Murder Remix] / Jennifer Lopez / J.Lo [Clean Bonus Track], 262.0994048s): live/remix/other version",
+    "lrclib 20482840 (I'm Real (Murder Remix) / Jennifer Lopez / The Singles, 257.2016384s): live/remix/other version",
+    "lrclib 20761487 (I'm Real (Murder Remix) / Jennifer Lopez / Dance Again... The Hits (Super Deluxe Edition), 258.87665s): live/remix/other version",
+    "lrclib 20653302 (I'm Real (Murder Remix) / Jennifer Lopez / The Reel Me, 248.8928s): live/remix/other version",
+    "lrclib 18261674 (I'm Real [Murder Remix] / Jennifer Lopez / J.Lo [Bonus Track], 262.408s): live/remix/other version",
+    "lrclib 18234561 (I'm Real [Murder Remix] / Jennifer Lopez / J to Tha L-O!: The Remixes [Clean], 258.4454s): live/remix/other version",
+    "lrclib 18264655 (I'm Real (Murder remix) / Jennifer Lopez / The Singles Collection, 258.340857s): live/remix/other version",
+    "lrclib 18153747 (I'm Real (Murder Remix) / Jennifer Lopez / VH1's 100 Greatest Songs of the '00s, 258.9779712s): live/remix/other version",
+    "lrclib 17957082 (I'm Real [Murder Remix][*] / Jennifer Lopez / J.Lo (Explicit), 260.840625s): live/remix/other version",
+    "lrclib 17878255 (I'm Real (Murder Remix) / Jennifer Lopez / On The 6 / J. Lo (Coffret 2 CD), 261.712109s): live/remix/other version",
+    "lrclib 19388736 (I’m Real (Murder remix) / Jennifer Lopez / J.Lo, 250.202667s): live/remix/other version",
+    "lrclib 22329045 (I’m Real (Murder remix) / Jennifer Lopez / J to tha L‐O! The Remixes, 262.176s): live/remix/other version",
+    "lrclib 24187650 (I'm Real [Murder Remix] / Jennifer Lopez / Dance Again... The Hits [Deluxe Edition], 258.946667s): live/remix/other version",
+    "lrclib 21707153 (I'm real (Murder remix) / Jennifer Lopez / I'm Real  (#2), 256.862041s): live/remix/other version",
+    "lrclib 24584357 (I’m Real (Murder remix) / Jennifer Lopez / Throwback: Summer Jamz, 223.085714s): live/remix/other version",
+    "lrclib 5392725 (I’m Real (Murder remix) / Jennifer Lopez featuring Ja Rule / J.Lo, 262.0s): live/remix/other version",
+    "lrclib 17995102 (I'm Real (Murder Remix feat. Ja Rule) / Jennifer Lopez Featuring Ja Rule / J To Tha L-O! The Remixes, 258.693515s): live/remix/other version",
+    "lrclib 25086284 (I'm Real (Murder Remix featuring Ja Rule) / Jennifer Lopez featuring Ja Rule / J.Lo (Bonus Version), 262.133333s): live/remix/other version",
+    "lrclib 8252923 (I'm Real (Murder Remix featuring Ja Rule) / Jennifer Lopez featuring Ja Rule / J.Lo, 262.0s): live/remix/other version",
+    "lrclib 31365397 (I'm Real (Murder Remix featuring Ja Rule) / Jennifer Lopez; featuring Ja Rule / J To Tha L-O!  The Remixes (Explicit Version), 259.0s): live/remix/other version",
+    "lrclib 25711356 (I'm Real (Murder Remix featuring Ja Rule) [Explicit] / Jennifer Lopez featuring Ja Rule / J To Tha L-O! The Remixes (Explicit Version), 258.742857s): live/remix/other version",
+    "lrclib 37899352 (I'm Real (Murder Remix) (feat. Ja Rule) / Jennifer Lopez / Jennifer Lopez, 262.0s): live/remix/other version",
+    "lrclib 21700170 (I'm Real (Remix) (feat. Ja Rule) / Jennifer Lopez / Jennifer Lopez Songs, 246.0s): live/remix/other version",
+    "lrclib 11119755 (I'm Real (Remix) (feat. Ja Rule) / Jennifer Lopez / Jennifer Lopez Videos, 246.0s): live/remix/other version",
+    "lrclib 22234200 (I'm Real (Murder Remix Feat. Ja Rule) (Bonus Track) / Jennifer Lopez / Essentials - Jennifer Lopez, 262.8179589s): live/remix/other version",
+    "lrclib 3695069 (I'm Real (Murder Remix Feat. Ja Rule) (Bonus Track) / Jennifer Lopez / Jennifer Lopez Essentials, 262.0s): live/remix/other version",
+    "lrclib 22680930 (I'm Real (feat. Ja Rule) [Remix] / Jennifer Lopez / Jennifer Lopez - The Hits, 259.004082s): live/remix/other version",
+    "lrclib 26465838 (I'm Real (Murder remix) / Jennifer Lopez / I’m Real, 257.893333s): live/remix/other version",
+    "lrclib 9858624 (I’m Real (Murder remix) / Jennifer Lopez / I’m Real, 261.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

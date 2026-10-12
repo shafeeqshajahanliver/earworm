@@ -1,0 +1,73 @@
+{
+  "id": "1988-never-gonna-give-you-up",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3786363752,
+    "matched_by": "isrc",
+    "isrc": "GB5KW1903177",
+    "title": "Never Gonna Give You Up (Pianoforte)",
+    "artist": "Rick Astley",
+    "album": "The Best of Me",
+    "track_duration_s": 213,
+    "link": "https://www.deezer.com/track/3786363752",
+    "duration_note": "Deezer track (ISRC match) is 213s; MusicBrainz length is 207s. ISRC match kept; one of the two lengths may refer to another edit.",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 182.1,
+    "tempo_bpm_grid": 187.9,
+    "tempo_candidates_bpm": [
+      184.6,
+      198.8,
+      172.3
+    ],
+    "beats_detected": 91,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.834,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.599,
+    "chroma_profile": [
+      0.515,
+      0.497,
+      0.383,
+      1.0,
+      0.443,
+      0.955,
+      0.478,
+      0.764,
+      0.763,
+      0.456,
+      0.842,
+      0.307
+    ],
+    "rms_dbfs": -10.74,
+    "rms_dbfs_p95_frame": -7.7,
+    "peak_dbfs": 0.05,
+    "loudness_lufs_approx": -10.63,
+    "spectral_centroid_hz_mean": 2009.6,
+    "spectral_centroid_hz_median": 1809.0,
+    "onsets": 56,
+    "onset_density_per_s": 1.867,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3786363752",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3786363752",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

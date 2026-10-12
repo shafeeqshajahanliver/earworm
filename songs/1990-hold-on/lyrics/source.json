@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 27006991,
+  "kind": "synced",
+  "matched": {
+    "track": "Hold On",
+    "artist": "Wilson Phillips",
+    "album": "Wilson Phillips",
+    "duration_s": 264.829388
+  },
+  "duration_matched_to": "musicbrainz recording length (264s)",
+  "duration_diff_s": 0.9,
+  "reference_lengths": [
+    {
+      "seconds": 263.893,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 265.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 222.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 267.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36896623 (Hold On / Wilson Phillips / Top 4000 cd 2 van 4, 215.0s): duration matches no reference length",
+    "lrclib 36781401 (Hold On / Wilson Phillips / Wilson Phillips, 40.0s): duration matches no reference length",
+    "lrclib 20161637 (Hold On / Wilson Phillips / Wilson Phillips, 279.484082s): duration matches no reference length",
+    "lrclib 19280415 (Hold On / Wilson Phillips / Wilson Phillips, 257.708687s): duration matches no reference length",
+    "lrclib 25585726 (Hold On / Wilson Phillips / Wilson Phillips, 253.55s): duration matches no reference length",
+    "lrclib 31412355 (Hold On / Wilson Phillips / Wilson Phillips, 327.0s): duration matches no reference length",
+    "lrclib 16496730 (Hold On (live in Japan 1991) / Wilson Phillips / Wilson Phillips, 284.544s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

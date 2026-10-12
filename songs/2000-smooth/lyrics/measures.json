@@ -1,0 +1,41 @@
+{
+  "id": "2000-smooth",
+  "lyrics_kind": "synced",
+  "lrclib_id": 17518327,
+  "lines": 45,
+  "words": 370,
+  "unique_words": 113,
+  "type_token_ratio": 0.305,
+  "repeated_line_share": 0.244,
+  "distinct_lines": 34,
+  "zlib_compression_ratio": 0.294,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "smooth",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 24,
+    "second": 28,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 18.04,
+  "last_line_s": 254.83,
+  "sung_time_s": 200.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 110.5,
+  "words_per_minute_track": 75.0,
+  "longest_gap_between_lines_s": 43.46,
+  "longest_gap_starts_at_s": 163.53,
+  "first_repeated_block": {
+    "first_at_s": 50.79,
+    "recurs_at_s": 129.36,
+    "lines": [
+      "And if you said, \"This life ain't good enough\"",
+      "I would give my world to lift you up"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 17518327",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

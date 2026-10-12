@@ -1,0 +1,70 @@
+{
+  "id": "1991-i-wanna-sex-you-up",
+  "preview": {
+    "service": "deezer",
+    "track_id": 371959201,
+    "matched_by": "isrc",
+    "isrc": "USRE11200469",
+    "title": "I Wanna Sex You Up (Single Mix)",
+    "artist": "Color Me Badd",
+    "album": "90's The Collection",
+    "track_duration_s": 244,
+    "link": "https://www.deezer.com/track/371959201",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 101.6,
+    "tempo_bpm_grid": 101.3,
+    "tempo_candidates_bpm": [
+      198.8,
+      50.7,
+      99.4
+    ],
+    "beats_detected": 49,
+    "key": "A major",
+    "key_tonic": "A",
+    "key_mode": "major",
+    "key_correlation": 0.629,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.528,
+    "chroma_profile": [
+      0.385,
+      0.474,
+      0.684,
+      0.377,
+      0.579,
+      0.417,
+      0.507,
+      0.43,
+      0.441,
+      1.0,
+      0.792,
+      0.417
+    ],
+    "rms_dbfs": -8.26,
+    "rms_dbfs_p95_frame": -5.63,
+    "peak_dbfs": 1.31,
+    "loudness_lufs_approx": -9.07,
+    "spectral_centroid_hz_mean": 3078.7,
+    "spectral_centroid_hz_median": 3035.7,
+    "onsets": 114,
+    "onset_density_per_s": 3.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 371959201",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 100.8,
+    "gain": -9.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/371959201",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

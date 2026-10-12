@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18743050,
+  "kind": "synced",
+  "matched": {
+    "track": "Owner Of A Lonely Heart",
+    "artist": "Yes",
+    "album": "90125",
+    "duration_s": 228.5298
+  },
+  "duration_matched_to": "musicbrainz recording length (230s)",
+  "duration_diff_s": 1.5,
+  "reference_lengths": [
+    {
+      "seconds": 230.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 267.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 230.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 267.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 425.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 30,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37088628 (Owner of a Lonely Heart / Yes / 90125, 283.0s): duration matches no reference length",
+    "lrclib 36827293 (owner of a lonely heart / yes / owner of a lonely heart, 468.0s): duration matches no reference length",
+    "lrclib 33929726 (Owner of a Lonely Heart / Yes / Owner of a Lonely Heart, 248.0s): duration matches no reference length",
+    "lrclib 35810468 (Owner Of A Lonely Heart / Yes / Owner Of A Lonely Heart, 442.0s): duration matches no reference length",
+    "lrclib 24943847 (Owner Of A Lonely Heart / Yes / Owner of a Lonely Heart, 305.557s): duration matches no reference length",
+    "lrclib 28205861 (Owner of a Lonely Heart / Yes / Owner of a Lonely Heart, 361.0s): duration matches no reference length",
+    "lrclib 10470196 (Owner of a Lonely Heart / Yes / Owner of a Lonely Heart, 285.0s): duration matches no reference length",
+    "lrclib 31883153 (Owner of a Lonely Heart / Yes / Owner of a Lonely Heart, 162.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

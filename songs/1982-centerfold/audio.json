@@ -1,0 +1,72 @@
+{
+  "id": "1982-centerfold",
+  "preview": {
+    "service": "deezer",
+    "track_id": 10245583,
+    "matched_by": "isrc",
+    "isrc": "USCA20600378",
+    "title": "Centerfold",
+    "artist": "The J. Geils Band",
+    "album": "Best Of The J. Geils Band",
+    "track_duration_s": 214,
+    "link": "https://www.deezer.com/track/10245583",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 114.2,
+    "tempo_bpm_grid": 114.8,
+    "tempo_candidates_bpm": [
+      112.3,
+      117.5,
+      57.4
+    ],
+    "beats_detected": 52,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.763,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.729,
+    "chroma_profile": [
+      0.942,
+      0.771,
+      0.833,
+      0.661,
+      0.756,
+      0.76,
+      0.763,
+      1.0,
+      0.626,
+      0.618,
+      0.554,
+      0.782
+    ],
+    "rms_dbfs": -11.27,
+    "rms_dbfs_p95_frame": -7.87,
+    "peak_dbfs": -0.0,
+    "loudness_lufs_approx": -10.52,
+    "spectral_centroid_hz_mean": 2858.0,
+    "spectral_centroid_hz_median": 2749.5,
+    "onsets": 120,
+    "onset_density_per_s": 4.002,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 10245583",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 114.2,
+    "gain": -10.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/10245583",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USEM38900192: matched but no preview available (readable=False)"
+  ]
+}

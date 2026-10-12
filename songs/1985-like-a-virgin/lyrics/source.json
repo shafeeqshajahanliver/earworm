@@ -1,0 +1,61 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13066292,
+  "kind": "synced",
+  "matched": {
+    "track": "Like a Virgin",
+    "artist": "Madonna",
+    "album": "Madonna: Like a Virgin",
+    "duration_s": 218.749388
+  },
+  "duration_matched_to": "musicbrainz recording length (219s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 218.666,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 218.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 218.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 12,
+  "agreement_with_other_candidates": 0.957,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37016695 (Like a Virgin / Madonna / Like a Virgin, 399.0s): duration matches no reference length",
+    "lrclib 36952218 (Like A Virgin / Madonna / Material Girl - Blond Ambition Tour U.S.A. 1990, 305.0s): duration matches no reference length",
+    "lrclib 37483458 (Like a Virgin / Madonna / Like a Virgin (Reissue), 370.0s): duration matches no reference length",
+    "lrclib 37110426 (Like A Virgin / Madonna / CD Single Collection, 330.0s): duration matches no reference length",
+    "lrclib 37152664 (Like a Virgin / Madonna / Live USA, 324.0s): live/remix/other version",
+    "lrclib 37060392 (Like A Virgin / Madonna / The Immaculate Collection, 208.0s): duration matches no reference length",
+    "lrclib 37067280 (Like A Virgin / Madonna / Mastermix - Grandmaster 80's, 84.0s): duration matches no reference length",
+    "lrclib 37080891 (Like A Virgin / Madonna / The Immaculate Collection (LP rip) [24-96], 192.0s): duration matches no reference length",
+    "lrclib 37085097 (Like a Virgin / Madonna / Like a Virgin, 284.0s): duration matches no reference length",
+    "lrclib 37429449 (Like A Virgin / Madonna / I Love Hits 80's 90's (Vol.2), 191.0s): duration matches no reference length",
+    "lrclib 37244333 (Like A Virgin / Madonna / The Immaculate Connection, 191.0s): duration matches no reference length",
+    "lrclib 36929808 (Like A Virgin / Madonna / Immaculate Collection (Atmos Mix), 191.0s): live/remix/other version",
+    "lrclib 14928873 (Like A Virgin (Extended Dance Remix) / Madonna / Madonna/Like A Virgin, 370.0s): live/remix/other version",
+    "lrclib 34998109 (Like a Virgin / Madonna / Like a Virgin, 3.0s): duration matches no reference length",
+    "lrclib 18786556 (Like a Virgin / Madonna / Like a Virgin, 224.333333s): duration matches no reference length",
+    "lrclib 19101178 (Like A Virgin / Madonna / Like A Virgin, 238.244699s): duration matches no reference length",
+    "lrclib 19138456 (Like a Virgin / Madonna / Like a Virgin, 111.694275s): duration matches no reference length",
+    "lrclib 18890526 (Like a Virgin / Madonna / Like a Virgin, 229.746939s): duration matches no reference length",
+    "lrclib 19615609 (Like a Virgin / Madonna / Like a Virgin, 369.6s): duration matches no reference length",
+    "lrclib 22318483 (Like a Virgin / Madonna / Like a Virgin, 195.834937s): duration matches no reference length",
+    "lrclib 22644194 (Like a Virgin / Madonna / Like a Virgin, 233.281438s): duration matches no reference length",
+    "lrclib 22646683 (Like A Virgin / Madonna / Like A Virgin, 212.958188s): duration matches no reference length",
+    "lrclib 3817529 (Like A Virgin / Madonna / Like A Virgin, 188.0s): duration matches no reference length",
+    "lrclib 1776587 (Like a Virgin / Madonna / Like A Virgin, 191.0s): duration matches no reference length",
+    "lrclib 27768075 (Like a Virgin / Madonna / Like a Virgin, 200.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

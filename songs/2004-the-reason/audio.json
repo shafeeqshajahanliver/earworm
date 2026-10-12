@@ -1,0 +1,77 @@
+{
+  "id": "2004-the-reason",
+  "preview": {
+    "service": "deezer",
+    "track_id": 634445372,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USIR20300704",
+    "title": "The Reason",
+    "artist": "Hoobastank",
+    "album": "The Reason",
+    "track_duration_s": 232,
+    "link": "https://www.deezer.com/track/634445372",
+    "duration_matched_to": "musicbrainz recording length (233s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 82.8,
+    "tempo_bpm_grid": 83.4,
+    "tempo_candidates_bpm": [
+      83.4,
+      161.5,
+      172.3
+    ],
+    "beats_detected": 41,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.927,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.77,
+    "chroma_profile": [
+      0.423,
+      0.749,
+      0.386,
+      0.519,
+      1.0,
+      0.364,
+      0.497,
+      0.374,
+      0.557,
+      0.553,
+      0.362,
+      0.782
+    ],
+    "rms_dbfs": -7.7,
+    "rms_dbfs_p95_frame": -5.81,
+    "peak_dbfs": 1.09,
+    "loudness_lufs_approx": -7.35,
+    "spectral_centroid_hz_mean": 2614.2,
+    "spectral_centroid_hz_median": 2628.7,
+    "onsets": 59,
+    "onset_density_per_s": 1.967,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 634445372",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -7.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/634445372",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USIR20300704: matched but no preview available (readable=False)",
+    "deezer 750113512: version (The Reason (Acoustic))",
+    "deezer 2508178821: version (The Reason (Sped Up))",
+    "deezer 1123401012: version (The Reason (Acoustic Version))",
+    "deezer 594251332: version (The Reason (Acoustic))"
+  ]
+}

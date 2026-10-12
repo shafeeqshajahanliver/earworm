@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 701097,
+  "kind": "synced",
+  "matched": {
+    "track": "Since U Been Gone",
+    "artist": "Kelly Clarkson",
+    "album": "Breakaway",
+    "duration_s": 189.0
+  },
+  "duration_matched_to": "musicbrainz recording length (189s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 189.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 188.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 188.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37461999 (Since U Been Gone / Kelly Clarkson / Best Of The 2000s, 175.0s): duration matches no reference length",
+    "lrclib 37414557 (Since U Been Gone / Kelly Clarkson / Mastermix Grandmaster 00's, 121.0s): duration matches no reference length",
+    "lrclib 37416934 (Since U Been Gone / Kelly Clarkson / 50 Jahre Bravo2 Disc 2, 200.0s): duration matches no reference length",
+    "lrclib 37235683 (Since U Been Gone / Kelly Clarkson / Live From SNL: Music Performances From Saturday Night Live, 200.0s): live/remix/other version",
+    "lrclib 36814281 (Since U Been Gone / Kelly Clarkson / Since U Been Gone, 175.0s): duration matches no reference length",
+    "lrclib 24548027 (Since U Been Gone / Kelly Clarkson / Since U Been Gone, 195.235181s): duration matches no reference length",
+    "lrclib 26831402 (Since U Been Gone / Kelly Clarkson / Since U Been Gone (Single), 36.388571s): duration matches no reference length",
+    "lrclib 18099829 (Since U Been Gone (Juliet’s Version) / Kelly Clarkson / Since U Been Gone, 170.0s): live/remix/other version",
+    "lrclib 32133486 (Since U Been Gone (AOL live) / Kelly Clarkson / Since U Been Gone, 199.0s): live/remix/other version",
+    "lrclib 20318099 (Since U Been Gone / Kelly Clarkson / Since U Been Gone (Juliet’s Version), 169.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

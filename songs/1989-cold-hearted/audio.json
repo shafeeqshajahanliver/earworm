@@ -1,0 +1,75 @@
+{
+  "id": "1989-cold-hearted",
+  "preview": {
+    "service": "itunes",
+    "track_id": 723700441,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Cold Hearted",
+    "artist": "Paula Abdul",
+    "album": "Forever Your Girl",
+    "track_duration_s": 231.4,
+    "link": "https://music.apple.com/us/album/cold-hearted/723699799?i=723700441&uo=4",
+    "duration_matched_to": "wikipedia infobox length (231s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 122.4,
+    "tempo_bpm_grid": 123.0,
+    "tempo_candidates_bpm": [
+      123.0,
+      61.5,
+      41.0
+    ],
+    "beats_detected": 60,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.583,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.581,
+    "chroma_profile": [
+      0.813,
+      0.719,
+      1.0,
+      0.764,
+      0.498,
+      0.497,
+      0.463,
+      0.843,
+      0.517,
+      0.505,
+      0.663,
+      0.616
+    ],
+    "rms_dbfs": -13.83,
+    "rms_dbfs_p95_frame": -10.45,
+    "peak_dbfs": 0.05,
+    "loudness_lufs_approx": -14.04,
+    "spectral_centroid_hz_mean": 2384.4,
+    "spectral_centroid_hz_median": 2375.3,
+    "onsets": 105,
+    "onset_density_per_s": 3.503,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 723700441",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between G minor and G major"
+  ],
+  "rejected_candidates": [
+    "deezer 3311530: duration 243s matches no reference length",
+    "deezer 3109329: duration 215s matches no reference length",
+    "deezer 1509470042: version (Cold Hearted (Extended Version))",
+    "deezer 8014943: duration 313s matches no reference length",
+    "itunes 724269272: duration 217s matches no reference length",
+    "itunes 1588132619: version (Cold Hearted (Extended Version))",
+    "itunes 719000996: duration 216s matches no reference length",
+    "itunes 723587209: duration 313s matches no reference length"
+  ]
+}

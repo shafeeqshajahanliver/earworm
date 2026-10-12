@@ -1,0 +1,58 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/22783",
+    "title": "People Got to Be Free",
+    "performer": "The Rascals",
+    "is_original": true,
+    "first_release_date": "1968-07",
+    "releases": [
+      {
+        "title": "People Got to Be Free",
+        "uri": "https://api.secondhandsongs.com/release/21304",
+        "performer": "The Rascals"
+      },
+      {
+        "title": "Freedom Suite",
+        "uri": "https://api.secondhandsongs.com/release/189071",
+        "performer": "The Rascals"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 29,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/22783",
+    "title": "People Got to Be Free",
+    "language": "English",
+    "writers": [
+      "Eddie Brigati",
+      "Felix Cavaliere"
+    ],
+    "original_performer": "The Rascals",
+    "versions": 30,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "自由への讃歌",
+        "uri": "https://api.secondhandsongs.com/work/146465"
+      },
+      {
+        "title": "Amour et liberté",
+        "uri": "https://api.secondhandsongs.com/work/202786"
+      },
+      {
+        "title": "Seek Out God to Be Free",
+        "uri": "https://api.secondhandsongs.com/work/204384"
+      },
+      {
+        "title": "Rezatá holka",
+        "uri": "https://api.secondhandsongs.com/work/297068"
+      }
+    ]
+  }
+}

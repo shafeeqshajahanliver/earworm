@@ -1,0 +1,59 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35392247,
+  "kind": "synced",
+  "matched": {
+    "track": "No Scrubs",
+    "artist": "TLC",
+    "album": "No Scrubs - EP",
+    "duration_s": 216.0
+  },
+  "duration_matched_to": "musicbrainz recording length (216s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 216.04,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 219.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 219.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 239.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 21,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36967818 (No Scrubs / TLC / Singles, 250.0s): duration matches no reference length",
+    "lrclib 37478778 (No Scrubs / TLC / RnB Superclub  10 Year Anniversary Edition, 211.0s): duration matches no reference length",
+    "lrclib 37359248 (No Scrubs / TLC / Fanmail, 2490.0s): duration matches no reference length",
+    "lrclib 37359273 (No Scrubs / TLC / Fanmail, 2524.0s): duration matches no reference length",
+    "lrclib 37359375 (No Scrubs / TLC / Fanmail, 2554.0s): duration matches no reference length",
+    "lrclib 37359597 (No Scrubs / TLC / Fanmail, 2583.0s): duration matches no reference length",
+    "lrclib 37359781 (No Scrubs / TLC / Fanmail, 2613.0s): duration matches no reference length",
+    "lrclib 37360015 (No Scrubs / TLC / Fanmail, 2643.0s): duration matches no reference length",
+    "lrclib 37360234 (No Scrubs / TLC / Fanmail, 2673.0s): duration matches no reference length",
+    "lrclib 37360578 (No Scrubs / TLC / Fanmail, 2683.0s): duration matches no reference length",
+    "lrclib 37360587 (No Scrubs / TLC / Fanmail, 2688.0s): duration matches no reference length",
+    "lrclib 37359237 (No Scrubs / TLC / Fanmail, 2504.0s): duration matches no reference length",
+    "lrclib 35109771 (No Scrubs / TLC / No Scrubs, 250.0s): duration matches no reference length",
+    "lrclib 25280782 (No Scrubs (Stripped Version) / TLC / No Scrubs, 240.143673s): live/remix/other version",
+    "lrclib 6849305 (No Scrubs (Radio Version) / TLC / No Scrubs, 240.0s): live/remix/other version",
+    "lrclib 25481079 (no scrubs (radio version) / tlc / no scrubs, 249.0s): live/remix/other version",
+    "lrclib 10287201 (No Scrubs (Radio Version) / TLC / No Scrubs, 243.0s): live/remix/other version",
+    "lrclib 9771630 (No Scrubs (main mix) / TLC / No Scrubs, 240.40489795918367s): live/remix/other version",
+    "lrclib 32747503 (No Scrubs (a cappella) / TLC / No Scrubs, 215.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

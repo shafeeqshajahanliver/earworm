@@ -1,0 +1,73 @@
+{
+  "id": "1985-money-for-nothing",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1680251127,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Money For Nothing",
+    "artist": "Dire Straits",
+    "album": "Air (Amazon Original Motion Picture Soundtrack)",
+    "track_duration_s": 247.4,
+    "link": "https://music.apple.com/us/album/money-for-nothing/1680251125?i=1680251127&uo=4",
+    "duration_matched_to": "wikipedia infobox length (246s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 134.2,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      68.0,
+      44.6
+    ],
+    "beats_detected": 64,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.561,
+    "key_runner_up": "G major",
+    "key_runner_up_correlation": 0.513,
+    "chroma_profile": [
+      0.541,
+      0.555,
+      0.772,
+      0.624,
+      0.664,
+      0.715,
+      0.665,
+      1.0,
+      0.631,
+      0.544,
+      0.478,
+      0.384
+    ],
+    "rms_dbfs": -11.89,
+    "rms_dbfs_p95_frame": -7.82,
+    "peak_dbfs": 0.24,
+    "loudness_lufs_approx": -11.31,
+    "spectral_centroid_hz_mean": 2456.9,
+    "spectral_centroid_hz_median": 2170.0,
+    "onsets": 95,
+    "onset_density_per_s": 3.169,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1680251127",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1306695732: version (Money for Nothing (Live at Wembley Stadium, 13th July 1985))",
+    "deezer 3349455911: version (Money For Nothing (Live))",
+    "deezer 3360781861: version (Money For Nothing (San Antonio Live In 85))",
+    "itunes 1756139428: version (Money For Nothing (Live at Live Aid, Wembley Stadium, 13th July 1985))",
+    "itunes 330812942: version (Money for Nothing (Live Album Version))",
+    "itunes 1724864277: version (Money for Nothing (Live 1992 Tour))",
+    "itunes 1813832628: version (Money For Nothing (San Antonio Live In 85))",
+    "itunes 1811993120: version (Money For Nothing (Live))"
+  ]
+}

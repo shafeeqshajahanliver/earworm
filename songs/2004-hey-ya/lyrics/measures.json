@@ -1,0 +1,41 @@
+{
+  "id": "2004-hey-ya",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3614207,
+  "lines": 80,
+  "words": 472,
+  "unique_words": 162,
+  "type_token_ratio": 0.343,
+  "repeated_line_share": 0.2,
+  "distinct_lines": 64,
+  "zlib_compression_ratio": 0.326,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "hey ya",
+  "title_phrase_occurrences": 1,
+  "pronouns": {
+    "first_singular": 17,
+    "second": 23,
+    "first_plural": 7
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.45,
+  "last_line_s": 228.09,
+  "sung_time_s": 218.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 129.9,
+  "words_per_minute_track": 120.4,
+  "longest_gap_between_lines_s": 10.11,
+  "longest_gap_starts_at_s": 172.21,
+  "first_repeated_block": {
+    "first_at_s": 34.87,
+    "recurs_at_s": 42.68,
+    "lines": [
+      "Heeeyyy Yaaaaaaa",
+      "Heeyy Yaaaaaaaa"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3614207",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 401693,
+  "kind": "synced",
+  "matched": {
+    "track": "Wake Me Up Before You Go-Go",
+    "artist": "Wham!",
+    "album": "Make It Big",
+    "duration_s": 231.0
+  },
+  "duration_matched_to": "musicbrainz recording length (231s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 231.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 232.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 231.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 243.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37496514 (Wake Me Up Before You Go-Go / Wham! / 100 Hit Legenden, 256.0s): duration matches no reference length",
+    "lrclib 37117971 (Wake Me Up Before You Go-Go / Wham / Make It Big, 407.0s): duration matches no reference length",
+    "lrclib 37051709 (Wake Me Up Before You Go-Go / Wham! / The Ultimate 80', 223.0s): duration matches no reference length",
+    "lrclib 8924151 (Wake Me Up Before You Go-Go / Wham! / Wake Me Up Before You Go-Go, 223.0s): duration matches no reference length",
+    "lrclib 37132739 (Wake Me Up Before You Go-Go (instrumental) / Wham! / Wake Me Up Before You Go-Go, 223.0s): live/remix/other version",
+    "lrclib 3306022 (Wake Me Up Before You Go-Go (instrumental) / Wham! / Wake Me Up Before You Go-Go, 242.0s): live/remix/other version",
+    "lrclib 26310924 (Wake Me Up Before You Go-Go (Instrumental) / Wham! / Wake Me Up Before You Go-Go, 249.39102s): live/remix/other version",
+    "lrclib 31808077 (Wake Me Up Before You Go-Go (Instrumental) / Wham! / Wake Me Up Before You Go-Go, 231.0s): live/remix/other version",
+    "lrclib 16204549 (Wake Me Up Before You Go-Go (instrumental) / Wham! / Wake Me Up Before You Go-Go, 195.996735s): live/remix/other version",
+    "lrclib 22919452 (Wake Me Up Before You Go-Go (Instrumental) (V12) / Wham! / Wake Me Up Before You Go-Go, 236.83445s): live/remix/other version",
+    "lrclib 13415971 (Wake Me Up Before You Go-Go (Instrumental) / Wham / 1984 Wake Me Up Before You Go-Go, 242.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

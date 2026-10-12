@@ -1,0 +1,41 @@
+{
+  "id": "1996-twisted",
+  "lyrics_kind": "synced",
+  "lrclib_id": 5591418,
+  "lines": 92,
+  "words": 575,
+  "unique_words": 116,
+  "type_token_ratio": 0.202,
+  "repeated_line_share": 0.478,
+  "distinct_lines": 48,
+  "zlib_compression_ratio": 0.228,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "twisted",
+  "title_phrase_occurrences": 14,
+  "pronouns": {
+    "first_singular": 83,
+    "second": 91,
+    "first_plural": 4
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.62,
+  "last_line_s": 258.41,
+  "sung_time_s": 253.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 136.3,
+  "words_per_minute_track": 126.4,
+  "longest_gap_between_lines_s": 10.81,
+  "longest_gap_starts_at_s": 10.14,
+  "first_repeated_block": {
+    "first_at_s": 20.95,
+    "recurs_at_s": 85.43,
+    "lines": [
+      "You know you are my lover",
+      "(You know you want my lovin', baby)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 5591418",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

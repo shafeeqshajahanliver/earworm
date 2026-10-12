@@ -1,0 +1,41 @@
+{
+  "id": "2001-all-for-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 27963941,
+  "lines": 116,
+  "words": 772,
+  "unique_words": 137,
+  "type_token_ratio": 0.177,
+  "repeated_line_share": 0.664,
+  "distinct_lines": 39,
+  "zlib_compression_ratio": 0.183,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "all for you",
+  "title_phrase_occurrences": 29,
+  "pronouns": {
+    "first_singular": 40,
+    "second": 75,
+    "first_plural": 16
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 1.42,
+  "last_line_s": 254.02,
+  "sung_time_s": 241.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 191.7,
+  "words_per_minute_track": 175.4,
+  "longest_gap_between_lines_s": 17.75,
+  "longest_gap_starts_at_s": 144.68,
+  "first_repeated_block": {
+    "first_at_s": 1.42,
+    "recurs_at_s": 10.25,
+    "lines": [
+      "All my girls at the party, look at that body",
+      "Shakin' that thing like you never did see"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 27963941",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

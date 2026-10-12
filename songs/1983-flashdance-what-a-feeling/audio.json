@@ -1,0 +1,78 @@
+{
+  "id": "1983-flashdance-what-a-feeling",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3413905571,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USLE11599901",
+    "title": "Flashdance... What A Feeling",
+    "artist": "Irene Cara",
+    "album": "Flashdance... What A Feeling",
+    "track_duration_s": 234,
+    "link": "https://www.deezer.com/track/3413905571",
+    "duration_matched_to": "wikipedia infobox length (235s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 125.0,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      63.0,
+      129.2
+    ],
+    "beats_detected": 53,
+    "key": "F minor",
+    "key_tonic": "F",
+    "key_mode": "minor",
+    "key_correlation": 0.58,
+    "key_runner_up": "F major",
+    "key_runner_up_correlation": 0.578,
+    "chroma_profile": [
+      0.65,
+      0.464,
+      0.559,
+      0.695,
+      0.629,
+      1.0,
+      0.7,
+      0.839,
+      0.669,
+      0.617,
+      0.721,
+      0.411
+    ],
+    "rms_dbfs": -12.28,
+    "rms_dbfs_p95_frame": -8.53,
+    "peak_dbfs": 0.52,
+    "loudness_lufs_approx": -12.37,
+    "spectral_centroid_hz_mean": 2609.9,
+    "spectral_centroid_hz_median": 2640.2,
+    "onsets": 86,
+    "onset_density_per_s": 2.868,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3413905571",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.91,
+    "gain": -12.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3413905571",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between F minor and F major"
+  ],
+  "rejected_candidates": [
+    "deezer 62419020: version (Flashdance... What a Feeling (Extended Remix))",
+    "deezer 62419021: version (Flashdance...What a Feeling (Instrumental))",
+    "deezer 112632140: version (Flashdance… What A Feeling (Instrumental))",
+    "deezer 1668336: version (Flashdance…What A Feeling (Adam Van House Mix))"
+  ]
+}

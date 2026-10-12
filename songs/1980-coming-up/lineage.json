@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/22618",
+    "title": "Coming Up",
+    "performer": "Paul McCartney",
+    "is_original": true,
+    "first_release_date": "1980-04-11",
+    "releases": [
+      {
+        "title": "Coming Up",
+        "uri": "https://api.secondhandsongs.com/release/12884",
+        "performer": "Paul McCartney"
+      },
+      {
+        "title": "McCartney II",
+        "uri": "https://api.secondhandsongs.com/release/9083",
+        "performer": "Paul McCartney"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 21,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/22618",
+    "title": "Coming Up",
+    "language": "English",
+    "writers": [
+      "Paul McCartney"
+    ],
+    "original_performer": "Paul McCartney",
+    "versions": 22,
+    "based_on": [],
+    "derived_works": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 750470,
+  "kind": "synced",
+  "matched": {
+    "track": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "album": "American Idiot",
+    "duration_s": 261.0
+  },
+  "duration_matched_to": "musicbrainz recording length (261s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 261.265,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 247.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 262.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36966336 (Boulevard of Broken Dreams / Green Day / Singles, 288.0s): duration matches no reference length",
+    "lrclib 37305541 (Boulevard Of Broken Dreams / Green Day / Bullet In A Bible, 274.0s): duration matches no reference length",
+    "lrclib 37439568 (Boulevard of Broken Dreams / Green Day / Greatest Hits: God's Favorite Band, Nones): duration matches no reference length",
+    "lrclib 34722835 (Boulevard of Broken Dreams / Green Day / Bullet in a Bible, 346.0s): duration matches no reference length",
+    "lrclib 34778682 (Boulevard of Broken Dreams / Green Day / American Idiot, 73.0s): duration matches no reference length",
+    "lrclib 34805275 (Boulevard of Broken Dreams / Green Day / Greatest Hits: God's Favorite Band, 4.0s): duration matches no reference length",
+    "lrclib 35075771 (Boulevard Of Broken Dreams / Green Day / Green Day Box, 239.0s): duration matches no reference length",
+    "lrclib 35220655 (Boulevard of Broken Dreams / Green Day / Boulevard of Broken Dreams, 4.0s): duration matches no reference length",
+    "lrclib 36544436 (Boulevard of Broken Dreams / Green Day / Boulevard of Broken Dreams, 192.0s): duration matches no reference length",
+    "lrclib 33969894 (Boulevard of Broken Dreams / Green Day / Boulevard of Broken Dreams, 274.0s): duration matches no reference length",
+    "lrclib 10793925 (Boulevard of Broken Dreams / Green Day / Boulevard of Broken Dreams, 287.0s): duration matches no reference length",
+    "lrclib 11997835 (Boulevard Of Broken Dreams / Green Day / Boulevard of Broken Dreams, 270.0s): duration matches no reference length",
+    "lrclib 32784125 (Boulevard of Broken Dreams / Green Day / Boulevard of Broken Dreams, 181.0s): duration matches no reference length",
+    "lrclib 38754875 (Boulevard of Broken Dreams / Green Day / Boulevard of Broken Dreams, 253.0s): duration matches no reference length",
+    "lrclib 36730486 (Boulevard of Broken Dreams / Green Day / Boulevard of Broken Dreams - Single, 522.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

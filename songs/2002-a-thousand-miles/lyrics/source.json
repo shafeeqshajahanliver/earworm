@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 315789,
+  "kind": "synced",
+  "matched": {
+    "track": "A Thousand Miles",
+    "artist": "Vanessa Carlton",
+    "album": "Be Not Nobody",
+    "duration_s": 237.0
+  },
+  "duration_matched_to": "musicbrainz recording length (237s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 237.493,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 237.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 237.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 16,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37149225 (A Thousand Miles / Vanessa Carlton / Be Not Nobody, Nones): duration matches no reference length",
+    "lrclib 37082272 (A Thousand Miles / Vanessa Carlton / O beijo do vampiro: Internacional, 222.0s): duration matches no reference length",
+    "lrclib 37215335 (A Thousand Miles / Vanessa Carlton / Radio Monte Carlo, 250.0s): duration matches no reference length",
+    "lrclib 37215342 (A Thousand Miles / Vanessa Carlton / Radio Monte Carlo, 246.0s): duration matches no reference length",
+    "lrclib 36894737 (A Thousand Miles / Vanessa Carlton / 494 mi de visualizações, 267.0s): duration matches no reference length",
+    "lrclib 34723384 (A Thousand Miles / Vanessa Carlton / A Thousand Miles/Twilight Live, 236.0s): live/remix/other version",
+    "lrclib 34538452 (A Thousand Miles / Vanessa Carlton / Be Not Nobody, 484.0s): duration matches no reference length",
+    "lrclib 34563508 (A Thousand Miles / Vanessa Carlton / 486 M de visualizaciones, 267.0s): duration matches no reference length",
+    "lrclib 34636588 (A Thousand Miles / Vanessa Carlton / Unknown, 267.0s): duration matches no reference length",
+    "lrclib 26692561 (A Thousand Miles / Vanessa Carlton / Vanessa Carlton, 183.6147s): duration matches no reference length",
+    "lrclib 11226469 (A Thousand Miles / Vanessa Carlton / Vanessa Carlton, 267.0s): duration matches no reference length",
+    "lrclib 34322217 (A Thousand Miles / Vanessa Carlton / Vanessa Carlton Songs, 318.0s): duration matches no reference length",
+    "lrclib 8574147 (A Thousand Miles / Vanessa Carlton / Vanessa Carlton Songs, 267.0s): duration matches no reference length",
+    "lrclib 11524859 (A Thousand Miles / Vanessa Carlton / Vanessa Carlton Videos, 267.0s): duration matches no reference length",
+    "lrclib 36111685 (A Thousand Miles / Vanessa Carlton / Best of Vanessa Carlton, 269.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

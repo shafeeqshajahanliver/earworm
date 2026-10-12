@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/78391",
+    "title": "Love Is Alive",
+    "performer": "Gary Wright",
+    "is_original": true,
+    "first_release_date": "1975-06",
+    "releases": [
+      {
+        "title": "The Dream Weaver",
+        "uri": "https://api.secondhandsongs.com/release/26016",
+        "performer": "Gary Wright"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 22,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/78391",
+    "title": "Love Is Alive",
+    "language": "English",
+    "writers": [
+      "Gary Wright"
+    ],
+    "original_performer": "Gary Wright",
+    "versions": 23,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Lord Is Alive (Paul Before Agrippa)",
+        "uri": "https://api.secondhandsongs.com/work/307472"
+      }
+    ]
+  }
+}

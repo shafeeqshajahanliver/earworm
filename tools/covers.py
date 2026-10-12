@@ -127,6 +127,17 @@ def save(url, path):
 
 def main():
     for s in load_songs():
+        if os.path.exists(os.path.join(SONGS, s["id"], "cover", "cover.json")) or \
+                os.path.exists(os.path.join(SONGS, s["id"], "cover.none")):
+            continue  # resumable
+        try:
+            one(s)
+        except Exception as e:
+            print(s["id"], "ERROR", repr(e)[:200], flush=True)
+
+
+def one(s):
+    if True:
         facts = read_json(os.path.join(SONGS, s["id"], "facts.json")) or {}
         single, album, album_how = pick_groups(s["id"], facts, s["artist"])
         out = {"retrieved": TODAY, "images": {}}

@@ -1,0 +1,41 @@
+{
+  "id": "2002-u-got-it-bad",
+  "lyrics_kind": "synced",
+  "lrclib_id": 11712788,
+  "lines": 64,
+  "words": 476,
+  "unique_words": 141,
+  "type_token_ratio": 0.296,
+  "repeated_line_share": 0.312,
+  "distinct_lines": 44,
+  "zlib_compression_ratio": 0.299,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "u got it bad",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 21,
+    "second": 79,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 6.79,
+  "last_line_s": 243.8,
+  "sung_time_s": 197.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 144.3,
+  "words_per_minute_track": 115.2,
+  "longest_gap_between_lines_s": 31.09,
+  "longest_gap_starts_at_s": 185.46,
+  "first_repeated_block": {
+    "first_at_s": 62.04,
+    "recurs_at_s": 154.96,
+    "lines": [
+      "You got it, you got it bad",
+      "When you're on the phone"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 11712788",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

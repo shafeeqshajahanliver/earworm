@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 14820808,
+  "kind": "synced",
+  "matched": {
+    "track": "So Emotional",
+    "artist": "Whitney Houston",
+    "album": "So Emotional",
+    "duration_s": 276.0
+  },
+  "duration_matched_to": "itunes preview track matched by search (276s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 264.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 276.0,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 276.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (276s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37350402 (So Emotional / Whitney Houston / The Greatest Hits, 286.0s): duration matches no reference length",
+    "lrclib 37266838 (So Emotional / Whitney Houston / Ultimix: In the Beginning, 499.0s): duration matches no reference length",
+    "lrclib 35159866 (So Emotional / Whitney Houston / Cd1 - Vol. 33, 471.0s): duration matches no reference length",
+    "lrclib 33615662 (So Emotional / Whitney Houston / Whitney Houston - The Greatest Hits, 246.0s): duration matches no reference length",
+    "lrclib 36657076 (so emotional / whitney houston / whitney, 37.0s): duration matches no reference length",
+    "lrclib 36406429 (So Emotional / Whitney Houston / So Emotional, 236.0s): duration matches no reference length",
+    "lrclib 38825358 (So Emotional (bonus beats) (Explicit) / Whitney Houston / So Emotional, 270.0s): duration matches no reference length",
+    "lrclib 35538029 (So Emotional / Whitney Houston / So Emotional, 465.0s): duration matches no reference length",
+    "lrclib 35608166 (So Emotional / Whitney Houston / So Emotional, 473.0s): duration matches no reference length",
+    "lrclib 35608172 (So Emotional / Whitney Houston / So Emotional, 315.0s): duration matches no reference length",
+    "lrclib 31867524 (So Emotional / Whitney Houston / So Emotional, 243.0s): duration matches no reference length",
+    "lrclib 14820806 (So Emotional / Whitney Houston / So Emotional, 246.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

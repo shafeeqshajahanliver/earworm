@@ -1,0 +1,78 @@
+{
+  "id": "2003-bring-me-to-life",
+  "preview": {
+    "service": "deezer",
+    "track_id": 80274512,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USWU30200093",
+    "title": "Bring Me To Life",
+    "artist": "Evanescence",
+    "album": "Fallen",
+    "track_duration_s": 235,
+    "link": "https://www.deezer.com/track/80274512",
+    "duration_matched_to": "wikipedia infobox length (236s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 133.5,
+    "tempo_bpm_grid": 127.6,
+    "tempo_candidates_bpm": [
+      129.2,
+      123.0,
+      184.6
+    ],
+    "beats_detected": 65,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.841,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.672,
+    "chroma_profile": [
+      0.57,
+      0.578,
+      0.717,
+      0.579,
+      1.0,
+      0.488,
+      0.518,
+      0.658,
+      0.519,
+      0.585,
+      0.515,
+      0.784
+    ],
+    "rms_dbfs": -7.05,
+    "rms_dbfs_p95_frame": -4.5,
+    "peak_dbfs": 1.37,
+    "loudness_lufs_approx": -5.9,
+    "spectral_centroid_hz_mean": 2641.9,
+    "spectral_centroid_hz_median": 2641.8,
+    "onsets": 39,
+    "onset_density_per_s": 1.3,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 80274512",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95,
+    "gain": -6.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/80274512",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (95.0) by 41%"
+  ],
+  "rejected_candidates": [
+    "deezer 80276300: version (Bring Me To Life (Live From Le Zénith,France/2004))",
+    "deezer 2464179645: version (Bring Me To Life (Demo / Remastered 2023))",
+    "deezer 2536789881: version (Bring Me To Life (Live On Triple M’s Garage Session / 2020 / Remastered 2023))",
+    "deezer 2536789861: duration 218s matches no reference length"
+  ]
+}

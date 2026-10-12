@@ -1,0 +1,72 @@
+{
+  "id": "2006-sexyback",
+  "preview": {
+    "service": "deezer",
+    "track_id": 565127,
+    "matched_by": "isrc",
+    "isrc": "USJI10600269",
+    "title": "SexyBack (feat. Timbaland)",
+    "artist": "Justin Timberlake",
+    "album": "FutureSex/LoveSounds",
+    "track_duration_s": 242,
+    "link": "https://www.deezer.com/track/565127",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 117.0,
+    "tempo_bpm_grid": 116.1,
+    "tempo_candidates_bpm": [
+      234.9,
+      58.7,
+      78.3
+    ],
+    "beats_detected": 59,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.285,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.256,
+    "chroma_profile": [
+      0.391,
+      0.425,
+      0.493,
+      0.452,
+      0.396,
+      0.488,
+      0.746,
+      0.905,
+      1.0,
+      0.84,
+      0.602,
+      0.397
+    ],
+    "rms_dbfs": -7.31,
+    "rms_dbfs_p95_frame": -2.45,
+    "peak_dbfs": 2.61,
+    "loudness_lufs_approx": -7.87,
+    "spectral_centroid_hz_mean": 2485.9,
+    "spectral_centroid_hz_median": 2214.7,
+    "onsets": 125,
+    "onset_density_per_s": 4.168,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 565127",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 117.12,
+    "gain": -8.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/565127",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between G minor and F# minor"
+  ],
+  "rejected_candidates": []
+}

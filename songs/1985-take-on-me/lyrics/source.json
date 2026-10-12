@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36282153,
+  "kind": "synced",
+  "matched": {
+    "track": "Take On Me",
+    "artist": "A Ha",
+    "album": "A Ha - Take On Me",
+    "duration_s": 226.0
+  },
+  "duration_matched_to": "musicbrainz recording length (227s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 227.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 227.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 198.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 226.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35083812 (Take On Me / a-ha / YouTube Search - a-ha Take On Me, 244.0s): duration matches no reference length",
+    "lrclib 37296996 (Take on Me / a-ha / Take on Me, 234.0s): duration matches no reference length",
+    "lrclib 34583916 (Take On Me / a-ha / Take On Me, 254.0s): duration matches no reference length",
+    "lrclib 33582351 (Take On Me / A-ha / Take On Me, 289.0s): duration matches no reference length",
+    "lrclib 17875595 (Take on me / A-HA / Take on me, 217.776s): duration matches no reference length",
+    "lrclib 23458266 (Take on Me / a-ha / Take on Me, 355.108563s): duration matches no reference length",
+    "lrclib 3827807 (Take On Me / A-Ha / Take On Me, 220.0s): duration matches no reference length",
+    "lrclib 26980985 (Take On Me / a-ha / Take On Me, 184.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

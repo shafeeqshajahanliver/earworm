@@ -1,0 +1,74 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/217482",
+    "title": "Undercover Angel",
+    "performer": "Alan O'Day",
+    "is_original": true,
+    "first_release_date": "1977-02",
+    "releases": [
+      {
+        "title": "Appetizers",
+        "uri": "https://api.secondhandsongs.com/release/78645",
+        "performer": "Alan O'Day"
+      },
+      {
+        "title": "Undercover Angel",
+        "uri": "https://api.secondhandsongs.com/release/392874",
+        "performer": "Alan O'Day"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 4,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/125189",
+    "title": "Undercover Angel",
+    "language": "English",
+    "writers": [
+      "Alan O'Day"
+    ],
+    "original_performer": "Alan O'Day",
+    "versions": 5,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Mon ciel de lit",
+        "uri": "https://api.secondhandsongs.com/work/125190"
+      },
+      {
+        "title": "Unnahbarer Engel",
+        "uri": "https://api.secondhandsongs.com/work/136727"
+      },
+      {
+        "title": "Unten enkelit",
+        "uri": "https://api.secondhandsongs.com/work/161559"
+      },
+      {
+        "title": "Dívka žlutý anděl",
+        "uri": "https://api.secondhandsongs.com/work/171083"
+      },
+      {
+        "title": "Se non fossi matto",
+        "uri": "https://api.secondhandsongs.com/work/172731"
+      },
+      {
+        "title": "Undiscovered Angels",
+        "uri": "https://api.secondhandsongs.com/work/320156"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 12881816,
+  "kind": "synced",
+  "matched": {
+    "track": "You Were Meant For Me",
+    "artist": "Jewel",
+    "album": "You Were Meant For Me",
+    "duration_s": 229.0
+  },
+  "duration_matched_to": "musicbrainz recording length (229s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 229.133,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 229.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 225.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 253.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 0.959,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35208020 (You were meant for me / Jewel / Pieces of You, 381.0s): duration matches no reference length",
+    "lrclib 35092982 (You Were Meant For Me / Jewel / Jewel Live, 275.0s): live/remix/other version",
+    "lrclib 33478457 (You Were Meant for Me / Jewel / Pieces of You, 246.0s): duration matches no reference length",
+    "lrclib 33353902 (You Were Meant For Me / JEWEL / Greatest Hits, 100.0s): duration matches no reference length",
+    "lrclib 33839031 (You Were Meant for Me / Jewel / Pieces of You, 189.0s): duration matches no reference length",
+    "lrclib 36479825 (You Were Meant For Me / Jewel / Spirit (Deluxe Edition), 217.0s): duration matches no reference length",
+    "lrclib 36407667 (You Were Meant for Me / Jewel / Billboard Top 100 of the 90s (1997), 273.0s): duration matches no reference length",
+    "lrclib 35514597 (You Were Meant for Me / Jewel / Time 100, Volume 2: The Music of Our Lives 1980–1999, 229.0s): live/remix/other version",
+    "lrclib 18395341 (You Were Meant For Me (feat. Pistol Annies) / Jewel / Jewel, 323.616508s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

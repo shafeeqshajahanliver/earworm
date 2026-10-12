@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 30174839,
+  "kind": "synced",
+  "matched": {
+    "track": "Cold Hearted (1988)",
+    "artist": "Paula Abdul",
+    "album": "Paula Abdul - Cold Hearted",
+    "duration_s": 231.0
+  },
+  "duration_matched_to": "itunes preview track matched by search (231s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 343.333,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 231.4,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 231.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 16,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (231s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 36959130 (Cold Hearted / Paula Abdul / # Tubes 2 (1990) [Disc 1], 204.0s): duration matches no reference length",
+    "lrclib 34920745 (Cold Hearted / Paula Abdul / Paula Abdul Videos, 276.0s): duration matches no reference length",
+    "lrclib 34238021 (Cold Hearted / Paula Abdul / Icon, 216.0s): duration matches no reference length",
+    "lrclib 18770948 (Cold Hearted / Paula Abdul / Forever Your Girl, 272.375446s): duration matches no reference length",
+    "lrclib 20304695 (Cold Hearted / Paula Abdul / HT 80s Essentials Vol. 09 (DD), 251.167347s): duration matches no reference length",
+    "lrclib 20856716 (cold hearted / Paula Abdul / Video Hits, 277.080816s): duration matches no reference length",
+    "lrclib 21267464 (Cold Hearted / Paula Abdul; / Kroko’s Überflieger, 213.61125s): duration matches no reference length",
+    "lrclib 18246250 (Cold Hearted / Paula Abdul / Straight Up! Greatest Hits, 218.200816s): duration matches no reference length",
+    "lrclib 19471642 (Cold Hearted / Paula Abdul / Greatest Hits, 213.380875s): duration matches no reference length",
+    "lrclib 7766978 (Cold Hearted / Paula Abdul / Icon: Paula Abdul, 217.0s): duration matches no reference length",
+    "lrclib 31763631 (Cold Hearted / Paula Abdul / Cold Hearted, 411.0s): duration matches no reference length",
+    "lrclib 38799856 (Cold Hearted / Paula Abdul / Cold Hearted, 403.0s): duration matches no reference length",
+    "lrclib 36643587 (Cold Hearted (Percapella) / Paula Abdul / Cold Hearted, 216.0s): duration matches no reference length",
+    "lrclib 32254840 (Cold Hearted (Percapella) / Paula Abdul / Cold Hearted, 238.0s): duration matches no reference length",
+    "lrclib 35037044 (Cold Hearted (extended version) / Paula Abdul / Cold Hearted, 407.0s): live/remix/other version",
+    "lrclib 17948327 (Cold Hearted (7″ edit) / Paula Abdul / Cold Hearted, 216.0s): duration matches no reference length",
+    "lrclib 9671935 (Cold Hearted (7′′ Edit) / Paula Abdul / Cold Hearted, 216.0s): duration matches no reference length",
+    "lrclib 25044717 (Cold Hearted / Paula Abdul / Paula Abdul - Straight Up (Greatest Hits), 216.346122s): duration matches no reference length",
+    "lrclib 13987252 (Cold Hearted (Extented Version) / Paula Abdul / 1988 Cold Hearted, 411.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

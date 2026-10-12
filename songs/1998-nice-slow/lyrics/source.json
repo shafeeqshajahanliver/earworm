@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 771341,
+  "kind": "synced",
+  "matched": {
+    "track": "Nice & Slow",
+    "artist": "Usher",
+    "album": "My Way",
+    "duration_s": 228.0
+  },
+  "duration_matched_to": "musicbrainz recording length (228s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 228.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 227.9,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 228.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34928112 (Nice & Slow / USHER / My Way (TV Coproduction France), 222.0s): duration matches no reference length",
+    "lrclib 33814574 (Nice & Slow / Usher / My Way, 276.0s): duration matches no reference length",
+    "lrclib 34169713 (Nice & Slow / Usher / 12\" Masters - The Essential Mixes, 243.0s): duration matches no reference length",
+    "lrclib 34169711 (Nice & Slow / Usher / My Way / 8701, 237.0s): duration matches no reference length",
+    "lrclib 35662074 (Nice & Slow / Usher / My Way (25th Anniversary Edition), 192.0s): duration matches no reference length",
+    "lrclib 20309543 (Nice & Slow / Usher / Mastermix: DJ Beats Vol. 95 (FC), 277.159184s): duration matches no reference length",
+    "lrclib 14809622 (Nice & Slow / Usher / Nice & Slow, 237.0s): duration matches no reference length",
+    "lrclib 34240080 (Nice & Slow (live version) / Usher / Nice & Slow, 239.0s): live/remix/other version",
+    "lrclib 22467289 (Nice & Slow (album instrumental) / Usher / Nice & Slow, 229.903673s): live/remix/other version",
+    "lrclib 31586467 (Nice & Slow (radio version) / Usher / Nice & Slow, 230.0s): live/remix/other version",
+    "lrclib 9592681 (Nice & Slow / Usher / Nice & Slow: The Remixes, 231.0s): live/remix/other version",
+    "lrclib 9592683 (Nice & Slow / Usher / Nice & Slow: The Remixes, 230.0s): live/remix/other version",
+    "lrclib 31873790 (Nice & Slow (Instrumental) / Usher / Nice & Slow (CDS), 231.0s): live/remix/other version",
+    "lrclib 35146563 (Nice & Slow (album instrumental) / Usher / Nice & Slow  (single), 231.0s): live/remix/other version",
+    "lrclib 32365935 (Nice & Slow (B-Rock's Basement mix) / Usher / Nice & Slow, 245.0s): live/remix/other version",
+    "lrclib 21300407 (Nice & Slow / Usher / Usher: Live, 390.838277s): live/remix/other version",
+    "lrclib 34536116 (Nice & Slow (Radio Version) / Usher / Nice & Slow (Radio Version), 228.0s): live/remix/other version",
+    "lrclib 9592685 (Nice & Slow (radio version) / Usher / Nice & Slow: The Remixes, 231.0s): live/remix/other version",
+    "lrclib 9592682 (Nice & Slow (live version) / Usher / Nice & Slow: The Remixes, 230.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

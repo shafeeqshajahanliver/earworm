@@ -1,0 +1,40 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20826084,
+  "kind": "synced",
+  "matched": {
+    "track": "Shakedown",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "album": "Ultimate Hits: Rock And Roll Never Forgets CD 2",
+    "duration_s": 242.533333
+  },
+  "duration_matched_to": "musicbrainz recording length (243s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 242.533,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 241.9,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 243.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 43,
+  "agreement_with_other_candidates": 0.776,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 35466671 (Shakedown / Bob Seger / Greatest Hits (Deluxe), 227.0s): duration matches no reference length",
+    "lrclib 33183148 (Shakedown / Bob Seger & the Silver Bullet Band / Greatest Hits 2, 324.0s): duration matches no reference length",
+    "lrclib 32524617 (Shakedown - Live / Bob Seger / Shakedown (Live), 246.0s): live/remix/other version",
+    "lrclib 37856202 (Shakedown - Live / Bob Seger / Shakedown (Live), 235.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

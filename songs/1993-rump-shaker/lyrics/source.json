@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 15742404,
+  "kind": "synced",
+  "matched": {
+    "track": "Rump Shaker",
+    "artist": "Wreckx-N-Effect",
+    "album": "Rump Shaker",
+    "duration_s": 310.0
+  },
+  "duration_matched_to": "wikipedia infobox length (313s)",
+  "duration_diff_s": 3.0,
+  "reference_lengths": [
+    {
+      "seconds": 199.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 200.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 313.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 13,
+  "agreement_with_other_candidates": 0.911,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched wikipedia infobox length (313s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 33497872 (Rump Shaker / Wreckx-N-Effect / Kiss Presents Hip Hop Classics 2, 237.0s): duration matches no reference length",
+    "lrclib 33480819 (Rump Shaker / Wreckx-N-Effect / Supreme Hip Hop Volume 1 Mixed By DJ Goldfingers, 278.0s): duration matches no reference length",
+    "lrclib 33607787 (Rump Shaker / Wreckx-N-Effect / Slow Hip Hop Urban R&B Run, 301.0s): duration matches no reference length",
+    "lrclib 36274715 (Rump Shaker / Wreckx-N-Effect / Orgazmo, 236.0s): duration matches no reference length",
+    "lrclib 33711064 (Rump Shaker (Radio Mix) / Wreckx-N-Effect / Rump Shaker, 239.0s): live/remix/other version",
+    "lrclib 38851976 (Rump Shaker (Teddy 2) / Wreckx-N-Effect / Rump Shaker, 364.0s): duration matches no reference length",
+    "lrclib 26921817 (Rump Shaker (Teddy 2) / Wreckx-N-Effect / Maxi - Rump Shaker, 360.150208s): duration matches no reference length",
+    "lrclib 31471053 (Rump Shaker (Teddy 2) / Wreckx-N-Effect / Rump Shaker (Single), 355.0s): duration matches no reference length",
+    "lrclib 22680679 (Rump Shaker [Radio Mix] / WRECKX-N-Effect / Rump Shaker [CD Single], 240.666s): duration matches no reference length",
+    "lrclib 32844996 (Rump Shaker / Wreckx 'n' Effect / D@n Souvenirs, 236.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 8923873,
+  "kind": "synced",
+  "matched": {
+    "track": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "album": "Sweet Child O' Mine",
+    "duration_s": 356.0
+  },
+  "duration_matched_to": "musicbrainz recording length (356s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 356.066,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 355.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 293.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 355.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 0.951,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36997592 (Sweet Child O' Mine / Guns N' Roses / Appetite for Destruction, 685.0s): duration matches no reference length",
+    "lrclib 37127968 (Sweet Child O Mine / Guns N Roses / Rock In Rio 1992, 365.0s): duration matches no reference length",
+    "lrclib 37320222 (Sweet Child O' Mine / Guns N' Roses / Use Your Illusion [Super Deluxe Remastered], 442.0s): duration matches no reference length",
+    "lrclib 37402489 (Sweet Child O' Mine / Guns N' Roses / Live at Leeds, 361.0s): live/remix/other version",
+    "lrclib 37410779 (Sweet Child O' Mine / Guns N' Roses / 1992-02-22: Tokyo Dome, Tokyo, Japan, 303.0s): duration matches no reference length",
+    "lrclib 37411998 (Sweet Child O' Mine / Guns N' Roses / Mastermix - Dj Edits Collection 2, 187.0s): duration matches no reference length",
+    "lrclib 37229186 (Sweet Child O' Mine / Guns N' Roses / 80er & 90er Box-Party Dance & Remixe Hits 6, 331.0s): live/remix/other version",
+    "lrclib 38517472 (Sweet Child O' Mine / Guns N' Roses / Guns N' Roses - Sweet Child O' Mine (Official Music Video), 302.0s): duration matches no reference length",
+    "lrclib 34555144 (Sweet Child O' Mine / Guns N’ Roses / Sweet Child o’ Mine, 5.0s): duration matches no reference length",
+    "lrclib 36084708 (Sweet Child O' Mine / Guns N' Roses / Sweet Child O' Mine, 239.0s): duration matches no reference length",
+    "lrclib 36777761 (Sweet Child O' Mine / Guns N' Roses / Sweet Child O' Mine, 1.0s): duration matches no reference length",
+    "lrclib 9000918 (Sweet Child O’ Mine / Guns N’ Roses / Sweet Child O’ Mine, 303.0s): duration matches no reference length",
+    "lrclib 38636678 (Sweet Child O' Mine / Guns N' Roses / Sweet Child O' Mine, 404.0s): duration matches no reference length",
+    "lrclib 23237940 (Sweet Child O Mine / Guns N Roses / Guns N Roses, 528.43102s): duration matches no reference length",
+    "lrclib 12315943 (Sweet Child O Mine / Guns N' Roses / Guns N' Roses, 303.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

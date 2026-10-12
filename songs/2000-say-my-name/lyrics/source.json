@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 161721,
+  "kind": "synced",
+  "matched": {
+    "track": "Say My Name",
+    "artist": "Destiny's Child",
+    "album": "The Writing's On The Wall",
+    "duration_s": 271.0
+  },
+  "duration_matched_to": "musicbrainz recording length (270s)",
+  "duration_diff_s": 1.4,
+  "reference_lengths": [
+    {
+      "seconds": 269.56,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 269.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 240.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 271.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 34,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37450390 (Say My Name / Destiny's Child / R&B Love (D2), 224.0s): duration matches no reference length",
+    "lrclib 37235955 (Say My Name / Destiny's Child / RTL Sommer: Die Sommerhits 2011 1 von 2, 194.0s): duration matches no reference length",
+    "lrclib 37989993 (say my name / Destiny's Child / Say My Name, 290.0s): duration matches no reference length",
+    "lrclib 774645 (Say My Name (Instrumental) / Destiny's Child / Say My Name, 271.0s): live/remix/other version",
+    "lrclib 26061325 (Say My Name (Instrumental) / Destiny's Child / Say My Name, 268.721633s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

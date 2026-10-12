@@ -1,0 +1,57 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/115854",
+    "title": "Bad Girls",
+    "performer": "Donna Summer",
+    "is_original": true,
+    "first_release_date": "1979",
+    "releases": [
+      {
+        "title": "Bad Girls",
+        "uri": "https://api.secondhandsongs.com/release/8227",
+        "performer": "Donna Summer"
+      },
+      {
+        "title": "Bad Girls",
+        "uri": "https://api.secondhandsongs.com/release/46031",
+        "performer": "Donna Summer"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 27,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/112150",
+    "title": "Bad Girls",
+    "language": "English",
+    "writers": [
+      "Joe Esposito",
+      "Donna Summer",
+      "Eddie Hokenson",
+      "Bruce Sudano"
+    ],
+    "original_performer": "Donna Summer",
+    "versions": 28,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "The Sandberg",
+        "uri": "https://api.secondhandsongs.com/work/331708"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1984-whats-love-got-to-do-with-it",
+  "preview": {
+    "service": "deezer",
+    "track_id": 102271948,
+    "matched_by": "isrc",
+    "isrc": "GBAYE1401507",
+    "title": "What's Love Got to Do with It (2015 Remaster)",
+    "artist": "Tina Turner",
+    "album": "Private Dancer (30th Anniversary Issue)",
+    "track_duration_s": 230,
+    "link": "https://www.deezer.com/track/102271948",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.0,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      48.8
+    ],
+    "beats_detected": 49,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.76,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.629,
+    "chroma_profile": [
+      0.661,
+      0.793,
+      0.62,
+      0.683,
+      0.671,
+      0.557,
+      0.86,
+      0.633,
+      1.0,
+      0.656,
+      0.788,
+      0.853
+    ],
+    "rms_dbfs": -13.21,
+    "rms_dbfs_p95_frame": -9.3,
+    "peak_dbfs": 0.42,
+    "loudness_lufs_approx": -13.05,
+    "spectral_centroid_hz_mean": 2306.7,
+    "spectral_centroid_hz_median": 2237.9,
+    "onsets": 142,
+    "onset_density_per_s": 4.735,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 102271948",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 97.74,
+    "gain": -13.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/102271948",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USCA29401293: version: What's Love Got To Do With It (16 Bit 1994 Remastered Version)",
+    "deezer isrc USRHD0532195: title/artist mismatch: What's Love Got to Do With It (feat. the Popstar) / Emily Williams",
+    "deezer isrc USCA29700644: matched but no preview available (readable=False)"
+  ]
+}

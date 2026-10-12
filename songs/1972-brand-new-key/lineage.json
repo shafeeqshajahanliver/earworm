@@ -1,0 +1,70 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/53952",
+    "title": "Brand New Key",
+    "performer": "Melanie",
+    "is_original": true,
+    "first_release_date": "1971-10",
+    "releases": [
+      {
+        "title": "Brand New Key",
+        "uri": "https://api.secondhandsongs.com/release/21856",
+        "performer": "Melanie"
+      },
+      {
+        "title": "Gather Me",
+        "uri": "https://api.secondhandsongs.com/release/15656",
+        "performer": "Melanie"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 56,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/53952",
+    "title": "Brand New Key",
+    "language": "English",
+    "writers": [
+      "Melanie"
+    ],
+    "original_performer": "Melanie",
+    "versions": 57,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Ich habe einen Berg voll Schulden",
+        "uri": "https://api.secondhandsongs.com/work/190524"
+      },
+      {
+        "title": "The Combine Harvester",
+        "uri": "https://api.secondhandsongs.com/work/135788"
+      },
+      {
+        "title": "Mulla on uudet rullaluistimet",
+        "uri": "https://api.secondhandsongs.com/work/174309"
+      },
+      {
+        "title": "You've Got a Brand New Pair of Figure Skates (I'm Gonna Break Your Knees)",
+        "uri": "https://api.secondhandsongs.com/work/342037"
+      },
+      {
+        "title": "De beuk moet erin",
+        "uri": "https://api.secondhandsongs.com/work/291599"
+      },
+      {
+        "title": "La banque c'est ma vie",
+        "uri": "https://api.secondhandsongs.com/work/291691"
+      }
+    ]
+  }
+}

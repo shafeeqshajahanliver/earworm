@@ -1,0 +1,603 @@
+{
+  "id": "2014-happy",
+  "retrieved": "2026-10-12",
+  "wikipedia_article": "Happy (Pharrell Williams song)",
+  "wikidata": {
+    "qid": "Q15275920",
+    "label": "Happy",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q14313",
+          "label": null
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q14313",
+          "label": null
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q14313",
+          "label": null
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q183387",
+          "label": "Columbia Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2013-11-21"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q131272",
+          "label": "soul"
+        },
+        {
+          "qid": "Q268253",
+          "label": "neo soul"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q15741930",
+          "label": "Girl"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q913790",
+          "label": "F major"
+        }
+      ],
+      "beats_per_minute": [
+        {
+          "amount": "156",
+          "unit": "1"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "award_received": [
+        {
+          "qid": "Q120442881",
+          "label": "SNEP diamond single"
+        }
+      ],
+      "nominated_for": [
+        {
+          "qid": "Q904344",
+          "label": "Broadcast Film Critics Association Award for Best Song"
+        },
+        {
+          "qid": "Q919999",
+          "label": "Satellite Award for Best Original Song"
+        },
+        {
+          "qid": "Q4835477",
+          "label": "BET Award for Viewer's Choice"
+        },
+        {
+          "qid": "Q31155",
+          "label": "MTV Europe Music Award for Best Song"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q14633159",
+          "label": "Lose Yourself to Dance"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q15920900",
+          "label": "Marilyn Monroe"
+        }
+      ],
+      "spotify_track_id": [
+        "60nZcImufyMA1MKQY3dcCH"
+      ],
+      "musicbrainz_release_group_id": [
+        "79796d6a-eed3-42d3-85fb-1b9a015bc1a8"
+      ],
+      "isrc": [
+        "USQ4E1300686"
+      ],
+      "youtube_video_id": [
+        "y6Sxv-sUYtM"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 79796d6a-eed3-42d3-85fb-1b9a015bc1a8 (2013-12-16)",
+  "musicbrainz": {
+    "recording_id": "f367ad6e-efd5-4496-aba5-21a4edcd82c6",
+    "title": "Happy",
+    "length_ms": 232720,
+    "first_release_date": "2013-06-18",
+    "artist_credit": "Pharrell Williams",
+    "artists": [
+      {
+        "name": "Pharrell Williams",
+        "mbid": "149f91ef-1287-46da-9a8e-87fee02f1471"
+      }
+    ],
+    "isrcs": [
+      "USQ4E1300686",
+      "USSM11406726"
+    ],
+    "recording_credits": [
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Andrew Coleman",
+        "mbid": "97c8b66f-7d3f-408c-9980-33dcd5dd5a92"
+      },
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Mike Larson",
+        "mbid": "614c4fc0-7167-4800-928a-7353110a5fc2"
+      },
+      {
+        "role": "editor",
+        "attributes": [],
+        "name": "Andrew Coleman",
+        "mbid": "97c8b66f-7d3f-408c-9980-33dcd5dd5a92"
+      },
+      {
+        "role": "editor",
+        "attributes": [],
+        "name": "Mike Larson",
+        "mbid": "614c4fc0-7167-4800-928a-7353110a5fc2"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Leslie Brathwaite",
+        "mbid": "b18e2aee-5599-4010-bfa1-a77cc2ca29ce"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Pharrell Williams",
+        "mbid": "149f91ef-1287-46da-9a8e-87fee02f1471"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Matthew Desrameaux",
+        "mbid": "6170f4cb-4dcf-4b64-8e23-db7a9f48039d"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Mike Larson",
+        "mbid": "614c4fc0-7167-4800-928a-7353110a5fc2"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Rhea Dummett",
+        "mbid": "2a6d12af-2075-421e-aeb3-1296bbe977e3"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Trevon Henderson",
+        "mbid": "dc9b33f1-9307-4a60-9fe5-6e8b641f1beb"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Shamika Hightower",
+        "mbid": "02421fb3-02e3-4bb2-ba6a-2e3064c8a86e"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Ashley L. Lee",
+        "mbid": "6d6f7ba9-8ab7-417e-aeca-9c4026be329c"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Jasmine Murray",
+        "mbid": "da8d8ccb-5401-4c3f-bd5c-cd44ad47b463"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Terrence Rolle",
+        "mbid": "38289dc2-c08a-4796-800c-fa95b98d55e7"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=dJqxQzxLbHM"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/3MZYcGc3SPV4gt06ZbTFEA"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1771867458"
+      }
+    ],
+    "genres": [
+      "contemporary r&b",
+      "electro house",
+      "house",
+      "neo soul",
+      "pop",
+      "pop soul",
+      "r&b",
+      "soul"
+    ],
+    "tags": [
+      "pop",
+      "soul",
+      "contemporary r&b",
+      "electro house",
+      "happy",
+      "hip-hop",
+      "house",
+      "neo soul",
+      "pop soul",
+      "producer tag - pharrell"
+    ],
+    "releases": [
+      {
+        "id": "bf45bdf7-f9b0-48fb-ab22-93a5ccfe963f",
+        "title": "100x Winter 2013",
+        "date": "2013",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "787e8aec-6578-464c-844e-3ad43e5f207a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2a7207d8-51db-4192-a0b0-a0b1e8022707",
+        "title": "Despicable Me 2: Original Motion Picture Soundtrack",
+        "date": "2013-06-18",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "5bd3efe0-4a61-46a5-b1e1-3bc4fe5adbe9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "335df719-7cc0-423b-875c-49b41d14f0ac",
+        "title": "Despicable Me 2: Original Motion Picture Soundtrack",
+        "date": "2013-06-18",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5bd3efe0-4a61-46a5-b1e1-3bc4fe5adbe9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Soundtrack"
+        ]
+      },
+      {
+        "id": "6d1ac756-662b-4fa0-94d0-2a8e153b5d4e",
+        "title": "Radio 538: Hitzone 67",
+        "date": "2013-09-13",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "007babc4-bf12-46b9-9fc7-17774ae1f6e1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "782a079d-1f3a-447b-a08c-90c2ddbe1a44",
+        "title": "538 Hitzone: Best of 2013",
+        "date": "2013-11-15",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "75f43353-fbe4-41b5-9ee8-c8c562e00480",
+        "title": "Happy",
+        "date": "2013-12-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "79796d6a-eed3-42d3-85fb-1b9a015bc1a8",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "58bffcb3-21ac-4f60-a933-0c06f6a4f7ec",
+        "title": "Happy",
+        "date": "2014-01",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "79796d6a-eed3-42d3-85fb-1b9a015bc1a8",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "c3307585-ec2a-4e9e-884d-8fa3a04de3d9",
+        "title": "Happy",
+        "date": "2014-01-24",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "79796d6a-eed3-42d3-85fb-1b9a015bc1a8",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "27d10ee1-3047-4b25-9ad5-dec2d4a1945a",
+        "title": "100x Liefde 2014",
+        "date": "2014-01-30",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "f433eea5-b09c-402c-8de7-d8867587a77a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "70c2ccaf-fb78-4d2d-9bff-0916b2901c5c",
+        "title": "Maximum Hit Music 2014 Volume 1",
+        "date": "2014-02-24",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "768bd9e7-8388-4365-9b9b-ebdc1902eb05",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e5e419de-3d29-41dc-96df-81de8b3c4061",
+        "title": "NRJ Snow Hits 2014",
+        "date": "2014-02-24",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "6f3c0599-865a-4389-985a-a419115da693",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d9da886d-dd13-4a60-9bcd-959fefcfebf6",
+        "title": "G I R L",
+        "date": "2014-03",
+        "country": "KR",
+        "status": "Official",
+        "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "abb70f89-ae33-4543-9906-6c631956194c",
+        "title": "G I R L",
+        "date": "2014-03-03",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "43d6af14-1349-4ff9-841e-34d6df11e782",
+        "title": "G I R L",
+        "date": "2014-03-03",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0ed8c55b-1c54-475e-8dba-4311b5e87a97",
+        "title": "G I R L",
+        "date": "2014-03-03",
+        "country": "US",
+        "status": "Official",
+        "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b986510d-5930-4b3a-98c2-95429754aca6",
+        "title": "G I R L",
+        "date": "2014-03-03",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f564d184-2086-4a4d-86fe-ac59a59136fc",
+        "title": "G I R L",
+        "date": "2014-03-03",
+        "country": "MX",
+        "status": "Official",
+        "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e91fe4b3-172d-4ac9-b6d4-50b3f0dc1c03",
+        "title": "G I R L",
+        "date": "2014-03-03",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "b98397c3-76c8-4d00-8274-fbbc418bb99f",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "98d32c12-bfd9-4aca-932b-e8b7793be034",
+        "title": "Un printemps 2014",
+        "date": "2014-03-12",
+        "country": "FR",
+        "status": "Promotion",
+        "release_group": "905d4e30-eff4-4f68-9f06-65a2ffc4bd6b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4c48f410-6379-406e-a747-369c2fddca12",
+        "title": "The Dome, Volume 69",
+        "date": "2014-03-14",
+        "country": null,
+        "status": "Official",
+        "release_group": "a6f91a57-b92b-4722-8367-95f53f982b46",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1f5f3124-e25d-40d4-8d23-d957a18816b1",
+        "title": "Absolute Dance Spring 2014",
+        "date": "2014-03-19",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "57c39db4-58ea-4342-89a5-a4800c344ccd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a41c0807-f9c1-477e-bc56-8bebf99530d7",
+        "title": "Toggo Music 36",
+        "date": "2014-03-21",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "b5ec424a-8118-40f3-913c-a057dcb7b277",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "deba44f0-4b12-4964-a3b8-90efa359b00e",
+        "title": "Absolute Music 75",
+        "date": "2014-03-26",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "2d8cd100-e190-4662-9d79-576a5733312c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4bac7710-d74f-4b53-9fe2-36bc71168cd8",
+        "title": "MNM Big Hits 2014.1",
+        "date": "2014-03-31",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "d21383de-690c-4771-9554-3c3fbd2937a1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e71edb03-a372-4470-8f77-d5c4d31d388e",
+        "title": "Hit Connection 2014.1",
+        "date": "2014-04-05",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "c6eac6ae-d0c0-40cb-ba50-30b795e5a278",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "ad6ca8cc-707c-3513-997c-050d13a819e4",
+      "title": "Happy",
+      "iswcs": [
+        "T-903.401.457-8",
+        "T-917.530.098-8"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Pharrell Williams",
+          "mbid": "149f91ef-1287-46da-9a8e-87fee02f1471"
+        },
+        {
+          "role": "lyricist",
+          "name": "Pharrell Williams",
+          "mbid": "149f91ef-1287-46da-9a8e-87fee02f1471"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/136166",
+        "https://www.wikidata.org/wiki/Q15275920"
+      ]
+    },
+    "main_artist": {
+      "name": "Pharrell Williams",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Virginia Beach"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

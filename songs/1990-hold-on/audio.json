@@ -1,0 +1,70 @@
+{
+  "id": "1990-hold-on",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3090950,
+    "matched_by": "isrc",
+    "isrc": "USSB29000002",
+    "title": "Hold On",
+    "artist": "Wilson Phillips",
+    "album": "Wilson Phillips",
+    "track_duration_s": 265,
+    "link": "https://www.deezer.com/track/3090950",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 97.9,
+    "tempo_bpm_grid": 97.5,
+    "tempo_candidates_bpm": [
+      198.8,
+      99.4,
+      64.6
+    ],
+    "beats_detected": 49,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.816,
+    "key_runner_up": "F minor",
+    "key_runner_up_correlation": 0.64,
+    "chroma_profile": [
+      0.705,
+      0.379,
+      0.417,
+      0.403,
+      0.541,
+      1.0,
+      0.566,
+      0.662,
+      0.482,
+      0.574,
+      0.486,
+      0.414
+    ],
+    "rms_dbfs": -13.21,
+    "rms_dbfs_p95_frame": -10.37,
+    "peak_dbfs": -0.09,
+    "loudness_lufs_approx": -13.13,
+    "spectral_centroid_hz_mean": 2566.5,
+    "spectral_centroid_hz_median": 2465.4,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3090950",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 97.7,
+    "gain": -13.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3090950",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

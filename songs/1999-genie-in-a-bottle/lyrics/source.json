@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25529605,
+  "kind": "synced",
+  "matched": {
+    "track": "Genie In A Bottle (1999)(Christina Aguilera)(RCA)",
+    "artist": "Christina Aguilera",
+    "album": "Christina Aguilera",
+    "duration_s": 217.640635
+  },
+  "duration_matched_to": "musicbrainz recording length (217s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 217.4,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 216.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 216.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 0.915,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37473555 (Genie in a Bottle / Christina Aguilera / 70s 80s 90s Summer Roadtrip, 223.0s): duration matches no reference length",
+    "lrclib 37138464 (Genie in a Bottle / Christina Aguilera / Christina Aguilera (Expanded Edition), 229.0s): duration matches no reference length",
+    "lrclib 37176398 (Genie In A Bottle / Christina Aguilera / Hit Machine 27, 223.0s): duration matches no reference length",
+    "lrclib 37034077 (Genie In a Bottle / Christina Aguilera / Christina Aguilera (Expanded Edition), Nones): duration matches no reference length",
+    "lrclib 37084804 (Genie in a Bottle / Christina Aguilera / Billboard Top 100 - 1999, 223.0s): duration matches no reference length",
+    "lrclib 37286040 (Genie In A Bottle / Christina Aguilera / Billboard Top 100 Hits Of 1999, 592.0s): duration matches no reference length",
+    "lrclib 34029975 (Genie in a Bottle / Christina Aguilera / Genie in a Bottle, 238.0s): duration matches no reference length",
+    "lrclib 19076612 (Genie in a Bottle / Christina Aguilera / Genie in a Bottle, 222.76215s): duration matches no reference length",
+    "lrclib 1187057 (Genie in a Bottle / Christina Aguilera / Genie in a Bottle, 181.0s): duration matches no reference length",
+    "lrclib 30152096 (Genie in a Bottle / Christina Aguilera / Genie in a Bottle, 225.0s): duration matches no reference length",
+    "lrclib 29880481 (Genie In A Bottle / Christina Aguilera / Genie in a Bottle, 390.0s): duration matches no reference length",
+    "lrclib 38413300 (Genie In A Bottle / Christina Aguilera / Genie In A Bottle, 264.0s): duration matches no reference length",
+    "lrclib 35109134 (Genie in a Bottle / Christina Aguilera / Christina Aguilera, 201.0s): duration matches no reference length",
+    "lrclib 35774500 (Genie in a Bottle / Christina Aguilera / Christina Aguilera, 30.0s): duration matches no reference length",
+    "lrclib 35774501 (Genie in a Bottle / Christina Aguilera / Christina Aguilera, 29.0s): duration matches no reference length",
+    "lrclib 35774513 (Genie in a Bottle / Christina Aguilera / Christina Aguilera, 26.0s): duration matches no reference length",
+    "lrclib 35774510 (Genie in a Bottle / Christina Aguilera / Christina Aguilera, 27.0s): duration matches no reference length",
+    "lrclib 21110217 (Genie In A Bottle / Christina Aguilera / Christina Aguilera, 372.234583s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

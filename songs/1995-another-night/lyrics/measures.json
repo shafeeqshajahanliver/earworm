@@ -1,0 +1,41 @@
+{
+  "id": "1995-another-night",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37315736,
+  "lines": 54,
+  "words": 430,
+  "unique_words": 68,
+  "type_token_ratio": 0.158,
+  "repeated_line_share": 0.537,
+  "distinct_lines": 25,
+  "zlib_compression_ratio": 0.186,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "another night",
+  "title_phrase_occurrences": 11,
+  "pronouns": {
+    "first_singular": 36,
+    "second": 28,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 23.52,
+  "last_line_s": 233.38,
+  "sung_time_s": 182.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 141.8,
+  "words_per_minute_track": 107.9,
+  "longest_gap_between_lines_s": 19.72,
+  "longest_gap_starts_at_s": 35.07,
+  "first_repeated_block": {
+    "first_at_s": 23.52,
+    "recurs_at_s": 99.87,
+    "lines": [
+      "Another night, another dream, but always you",
+      "It's like a vision of love that seems to be true"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37315736",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1985-take-on-me",
+  "preview": {
+    "service": "deezer",
+    "track_id": 120434340,
+    "matched_by": "isrc",
+    "isrc": "USRH11600696",
+    "title": "Take on Me (2016 Remaster)",
+    "artist": "a-ha",
+    "album": "Time and Again: The Ultimate a-ha",
+    "track_duration_s": 227,
+    "link": "https://www.deezer.com/track/120434340",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 87.5,
+    "tempo_bpm_grid": 84.7,
+    "tempo_candidates_bpm": [
+      172.3,
+      83.4,
+      56.2
+    ],
+    "beats_detected": 44,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.552,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.432,
+    "chroma_profile": [
+      0.694,
+      0.714,
+      0.574,
+      0.504,
+      0.71,
+      0.652,
+      0.863,
+      0.717,
+      0.988,
+      1.0,
+      0.671,
+      0.749
+    ],
+    "rms_dbfs": -10.95,
+    "rms_dbfs_p95_frame": -7.77,
+    "peak_dbfs": -0.22,
+    "loudness_lufs_approx": -10.41,
+    "spectral_centroid_hz_mean": 3067.8,
+    "spectral_centroid_hz_median": 3018.8,
+    "onsets": 134,
+    "onset_density_per_s": 4.468,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 120434340",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 169.4,
+    "gain": -11.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/120434340",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (169.4): octave error likely"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USWB10808467: matched but no preview available (readable=False)",
+    "deezer isrc USWB11202727: matched but no preview available (readable=False)"
+  ]
+}

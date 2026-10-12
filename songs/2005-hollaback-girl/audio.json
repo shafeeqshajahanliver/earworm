@@ -1,0 +1,72 @@
+{
+  "id": "2005-hollaback-girl",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2426753,
+    "matched_by": "isrc",
+    "isrc": "USIR10400847",
+    "title": "Hollaback Girl",
+    "artist": "Gwen Stefani",
+    "album": "Love. Angel. Music. Baby. (Deluxe Version)",
+    "track_duration_s": 200,
+    "link": "https://www.deezer.com/track/2426753",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 110.1,
+    "tempo_bpm_grid": 110.0,
+    "tempo_candidates_bpm": [
+      73.8,
+      112.3,
+      215.3
+    ],
+    "beats_detected": 56,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.43,
+    "key_runner_up": "Eb major",
+    "key_runner_up_correlation": 0.43,
+    "chroma_profile": [
+      0.585,
+      0.831,
+      0.611,
+      1.0,
+      0.855,
+      0.708,
+      0.562,
+      0.529,
+      0.588,
+      0.656,
+      0.849,
+      0.518
+    ],
+    "rms_dbfs": -7.2,
+    "rms_dbfs_p95_frame": -4.18,
+    "peak_dbfs": 2.21,
+    "loudness_lufs_approx": -6.79,
+    "spectral_centroid_hz_mean": 2329.1,
+    "spectral_centroid_hz_median": 2302.9,
+    "onsets": 111,
+    "onset_density_per_s": 3.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2426753",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 110,
+    "gain": -6.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2426753",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Bb minor and Eb major"
+  ],
+  "rejected_candidates": []
+}

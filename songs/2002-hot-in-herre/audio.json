@@ -1,0 +1,72 @@
+{
+  "id": "2002-hot-in-herre",
+  "preview": {
+    "service": "deezer",
+    "track_id": 24971351,
+    "matched_by": "isrc",
+    "isrc": "USUR10200252",
+    "title": "Hot In Herre",
+    "artist": "Nelly",
+    "album": "Nellyville",
+    "track_duration_s": 230,
+    "link": "https://www.deezer.com/track/24971351",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 109.9,
+    "tempo_bpm_grid": 107.7,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      71.8
+    ],
+    "beats_detected": 55,
+    "key": "E minor",
+    "key_tonic": "E",
+    "key_mode": "minor",
+    "key_correlation": 0.475,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.336,
+    "chroma_profile": [
+      0.405,
+      0.446,
+      0.542,
+      0.661,
+      1.0,
+      0.779,
+      0.587,
+      0.511,
+      0.402,
+      0.394,
+      0.358,
+      0.452
+    ],
+    "rms_dbfs": -9.46,
+    "rms_dbfs_p95_frame": -4.55,
+    "peak_dbfs": 1.74,
+    "loudness_lufs_approx": -9.83,
+    "spectral_centroid_hz_mean": 2953.9,
+    "spectral_centroid_hz_median": 2914.2,
+    "onsets": 153,
+    "onset_density_per_s": 5.102,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 24971351",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 107.1,
+    "gain": -10.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/24971351",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USUR10200254: matched but no preview available (readable=False)"
+  ]
+}

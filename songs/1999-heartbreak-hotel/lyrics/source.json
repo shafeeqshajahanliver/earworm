@@ -1,0 +1,61 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 6772364,
+  "kind": "synced",
+  "matched": {
+    "track": "Heartbreak Hotel",
+    "artist": "Whitney Houston feat. Faith Evans and Kelly Price",
+    "album": "My Love Is Your Love",
+    "duration_s": 281.0
+  },
+  "duration_matched_to": "musicbrainz recording length (281s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 281.493,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 281.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 243.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 280.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 0.769,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 22569229 (Heartbreak Hotel (Hex Hector Radio Mix) / Whitney Houston featuring Faith Evans and Kelly Price / Whitney The Greatest Hits, 261.0s): live/remix/other version",
+    "lrclib 26444893 (Heartbreak Hotel (Hex Hector Radio Mix) / Whitney Houston featuring Faith Evans and Kelly Price / Dance Vault Mixes - Heartbreak Hotel, 261.893333s): live/remix/other version",
+    "lrclib 37314719 (Heartbreak Hotel / Whitney Houston / The Greatest Hits, Disc 2 - Throw Down, 132.0s): duration matches no reference length",
+    "lrclib 35092439 (Heartbreak Hotel / Whitney Houston / My Love Is Your Love, 1011.0s): duration matches no reference length",
+    "lrclib 35092423 (Heartbreak Hotel / Whitney Houston / My Love Is Your Love, 991.0s): duration matches no reference length",
+    "lrclib 35092451 (Heartbreak Hotel / Whitney Houston / My Love Is Your Love, 1031.0s): duration matches no reference length",
+    "lrclib 35092410 (Heartbreak Hotel / Whitney Houston / My Love Is Your Love, 961.0s): duration matches no reference length",
+    "lrclib 35092432 (Heartbreak Hotel / Whitney Houston / My Love Is Your Love, 1001.0s): duration matches no reference length",
+    "lrclib 35092454 (Heartbreak Hotel / Whitney Houston / My Love Is Your Love, 1041.0s): duration matches no reference length",
+    "lrclib 33564033 (Heartbreak Hotel / Whitney Houston / The Greatest Hits, 270.0s): duration matches no reference length",
+    "lrclib 35371914 (Heartbreak Hotel / Whitney Houston / Mastermix: Pro Disc 4, 237.0s): duration matches no reference length",
+    "lrclib 35424188 (Heartbreak Hotel / Whitney Houston / CD 50 [2000 CDR], 359.0s): duration matches no reference length",
+    "lrclib 18497180 (Heartbreak Hotel / Whitney Houston / Greatest Hits CD2, 273.4822912s): duration matches no reference length",
+    "lrclib 17884973 (Heartbreak Hotel / Whitney Houston / Whitney Houston, 274.0s): duration matches no reference length",
+    "lrclib 25782050 (Heartbreak Hotel / Whitney Houston / Whitney Houston, 260.702041s): duration matches no reference length",
+    "lrclib 38554920 (Heartbreak Hotel / Whitney Houston / Heartbreak Hotel, 216.0s): duration matches no reference length",
+    "lrclib 38741075 (Heartbreak Hotel / Whitney Houston / Heartbreak Hotel, 222.0s): duration matches no reference length",
+    "lrclib 9082259 (Heartbreak Hotel / Whitney Houston / The Essential Whitney Houston, 274.0s): duration matches no reference length",
+    "lrclib 23793630 (Heartbreak Hotel / Whitney Houston / Whitney Houston - The Greatest Hits, 274.901656s): duration matches no reference length",
+    "lrclib 28430456 (Heartbreak Hotel / Whitney Houston / The Essential Whitney Houston - CD 2, 261.0s): duration matches no reference length",
+    "lrclib 21292409 (Heartbreak Hotel / Whitney Houston / Dance Vault Mixes - Heartbreak Hotel, 218.626667s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1982-hurts-so-good",
+  "preview": {
+    "service": "itunes",
+    "track_id": 209744297,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Hurts So Good",
+    "artist": "John Cougar",
+    "album": "Footloose (Soundtrack) [15th Anniversary Collectors' Edition]",
+    "track_duration_s": 216.9,
+    "link": "https://music.apple.com/us/album/hurts-so-good/209743140?i=209744297&uo=4",
+    "duration_matched_to": "musicbrainz recording length (215s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 125.3,
+    "tempo_bpm_grid": 126.0,
+    "tempo_candidates_bpm": [
+      123.0,
+      129.2,
+      63.0
+    ],
+    "beats_detected": 61,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.665,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.661,
+    "chroma_profile": [
+      0.427,
+      0.553,
+      0.63,
+      0.707,
+      1.0,
+      0.56,
+      0.555,
+      0.425,
+      0.469,
+      0.697,
+      0.441,
+      0.595
+    ],
+    "rms_dbfs": -12.67,
+    "rms_dbfs_p95_frame": -8.81,
+    "peak_dbfs": 0.21,
+    "loudness_lufs_approx": -11.85,
+    "spectral_centroid_hz_mean": 2687.3,
+    "spectral_centroid_hz_median": 2637.8,
+    "onsets": 114,
+    "onset_density_per_s": 3.803,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 209744297",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between E major and A major"
+  ],
+  "rejected_candidates": []
+}

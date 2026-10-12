@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/42115",
+    "title": "Band of Gold",
+    "performer": "Freda Payne",
+    "is_original": true,
+    "first_release_date": "1970-02",
+    "releases": [
+      {
+        "title": "Band of Gold",
+        "uri": "https://api.secondhandsongs.com/release/16595",
+        "performer": "Freda Payne"
+      },
+      {
+        "title": "Band of Gold",
+        "uri": "https://api.secondhandsongs.com/release/156059",
+        "performer": "Freda Payne"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 37,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/42115",
+    "title": "Band of Gold",
+    "language": "English",
+    "writers": [
+      "Ron Dunbar",
+      "Edith Wayne"
+    ],
+    "original_performer": "Freda Payne",
+    "versions": 38,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Le jonc d'amitié",
+        "uri": "https://api.secondhandsongs.com/work/217294"
+      }
+    ]
+  }
+}

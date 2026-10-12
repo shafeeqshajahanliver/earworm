@@ -1,0 +1,75 @@
+{
+  "id": "2005-let-me-love-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 569899,
+    "matched_by": "isrc",
+    "isrc": "USJAY0400348",
+    "title": "Let Me Love You",
+    "artist": "Mario",
+    "album": "The Dome Vol. 34",
+    "track_duration_s": 255,
+    "link": "https://www.deezer.com/track/569899",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 47.4,
+    "tempo_bpm_grid": 47.2,
+    "tempo_candidates_bpm": [
+      47.0,
+      184.6,
+      95.7
+    ],
+    "beats_detected": 19,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.732,
+    "key_runner_up": "C major",
+    "key_runner_up_correlation": 0.647,
+    "chroma_profile": [
+      0.814,
+      0.516,
+      0.631,
+      0.652,
+      0.693,
+      1.0,
+      0.564,
+      0.744,
+      0.432,
+      0.484,
+      0.58,
+      0.477
+    ],
+    "rms_dbfs": -10.27,
+    "rms_dbfs_p95_frame": -4.35,
+    "peak_dbfs": 0.6,
+    "loudness_lufs_approx": -11.28,
+    "spectral_centroid_hz_mean": 2357.3,
+    "spectral_centroid_hz_median": 2298.0,
+    "onsets": 94,
+    "onset_density_per_s": 3.135,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 569899",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 94.4,
+    "gain": -10.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/569899",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo is about half Deezer's bpm (94.4): octave error likely",
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USJAY0400369: matched but no preview available (readable=False)"
+  ]
+}

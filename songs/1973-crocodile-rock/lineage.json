@@ -1,0 +1,70 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/11105",
+    "title": "Crocodile Rock",
+    "performer": "Elton John",
+    "is_original": true,
+    "first_release_date": "1972-10",
+    "releases": [
+      {
+        "title": "Don't Shoot Me I'm Only the Piano Player",
+        "uri": "https://api.secondhandsongs.com/release/4798",
+        "performer": "Elton John"
+      },
+      {
+        "title": "Crocodile Rock",
+        "uri": "https://api.secondhandsongs.com/release/106197",
+        "performer": "Elton John"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 83,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/11105",
+    "title": "Crocodile Rock",
+    "language": "English",
+    "writers": [
+      "Elton John",
+      "Bernie Taupin"
+    ],
+    "original_performer": "Elton John",
+    "versions": 84,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Talk and I'll Walk",
+        "uri": "https://api.secondhandsongs.com/work/195843"
+      },
+      {
+        "title": "Krokotiili rock",
+        "uri": "https://api.secondhandsongs.com/work/116002"
+      },
+      {
+        "title": "לא כדאי לך",
+        "uri": "https://api.secondhandsongs.com/work/288450"
+      },
+      {
+        "title": "קרוקודיל ירוק",
+        "uri": "https://api.secondhandsongs.com/work/297637"
+      },
+      {
+        "title": "Touha",
+        "uri": "https://api.secondhandsongs.com/work/297661"
+      },
+      {
+        "title": "Cocodrilo rock",
+        "uri": "https://api.secondhandsongs.com/work/307677"
+      },
+      {
+        "title": "Krókudílarokk",
+        "uri": "https://api.secondhandsongs.com/work/350312"
+      }
+    ]
+  }
+}

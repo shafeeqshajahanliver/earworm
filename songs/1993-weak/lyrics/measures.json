@@ -1,0 +1,41 @@
+{
+  "id": "1993-weak",
+  "lyrics_kind": "synced",
+  "lrclib_id": 35924553,
+  "lines": 70,
+  "words": 536,
+  "unique_words": 110,
+  "type_token_ratio": 0.205,
+  "repeated_line_share": 0.471,
+  "distinct_lines": 37,
+  "zlib_compression_ratio": 0.236,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "weak",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 91,
+    "second": 29,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 7.74,
+  "last_line_s": 285.71,
+  "sung_time_s": 267.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 120.2,
+  "words_per_minute_track": 123.4,
+  "longest_gap_between_lines_s": 8.23,
+  "longest_gap_starts_at_s": 165.61,
+  "first_repeated_block": {
+    "first_at_s": 37.03,
+    "recurs_at_s": 118.88,
+    "lines": [
+      "'Cause my heart starts beating triple time",
+      "With thoughts of loving you on my mind"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 35924553",
+  "retrieved": "2026-10-12",
+  "confidence": "computed"
+}

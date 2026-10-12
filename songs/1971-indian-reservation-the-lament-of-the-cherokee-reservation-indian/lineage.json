@@ -1,0 +1,83 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/115501",
+    "title": "Indian Reservation (The Lament of the Cherokee Reservation Indian)",
+    "performer": "Raiders",
+    "is_original": false,
+    "first_release_date": "1971-02-12",
+    "releases": [
+      {
+        "title": "Indian Reservation (The Lament of the Cherokee Reservation Indian)",
+        "uri": "https://api.secondhandsongs.com/release/45892",
+        "performer": "Raiders"
+      },
+      {
+        "title": "Indian Reservation",
+        "uri": "https://api.secondhandsongs.com/release/5059",
+        "performer": "The Raiders"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "The Lament of the Cherokee Reservation Indian",
+      "uri": "https://api.secondhandsongs.com/work/108730"
+    },
+    {
+      "title": "The Pale Faced Indian",
+      "uri": "https://api.secondhandsongs.com/work/93611"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/108730",
+    "title": "The Lament of the Cherokee Reservation Indian",
+    "language": "English",
+    "writers": [
+      "John D. Loudermilk"
+    ],
+    "original_performer": "John D. Loudermilk",
+    "versions": 25,
+    "based_on": [
+      {
+        "title": "The Pale Faced Indian",
+        "uri": "https://api.secondhandsongs.com/work/93611"
+      }
+    ],
+    "derived_works": [
+      {
+        "title": "Lapin noita",
+        "uri": "https://api.secondhandsongs.com/work/180496"
+      },
+      {
+        "title": "L'amie des esprits",
+        "uri": "https://api.secondhandsongs.com/work/93612"
+      },
+      {
+        "title": "Le cri de la nation",
+        "uri": "https://api.secondhandsongs.com/work/131756"
+      },
+      {
+        "title": "Indian Reservation",
+        "uri": "https://api.secondhandsongs.com/work/171303"
+      },
+      {
+        "title": "Cherokee heimo",
+        "uri": "https://api.secondhandsongs.com/work/173090"
+      },
+      {
+        "title": "Vi måste vakna",
+        "uri": "https://api.secondhandsongs.com/work/253597"
+      },
+      {
+        "title": "Без твоя спомен",
+        "uri": "https://api.secondhandsongs.com/work/314379"
+      }
+    ]
+  }
+}

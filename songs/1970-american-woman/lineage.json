@@ -1,0 +1,55 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/674",
+    "title": "American Woman",
+    "performer": "The Guess Who",
+    "is_original": true,
+    "first_release_date": "1970",
+    "releases": [
+      {
+        "title": "American Woman",
+        "uri": "https://api.secondhandsongs.com/release/431",
+        "performer": "The Guess Who"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 51,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/674",
+    "title": "American Woman",
+    "language": "English",
+    "writers": [
+      "Randy Bachman",
+      "Burton Cummings",
+      "Jim Kale",
+      "Garry Peterson"
+    ],
+    "original_performer": "The Guess Who",
+    "versions": 52,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Mujer americana (Adios ciudad vieja)",
+        "uri": "https://api.secondhandsongs.com/work/183124"
+      },
+      {
+        "title": "Addio città vecchia",
+        "uri": "https://api.secondhandsongs.com/work/183132"
+      },
+      {
+        "title": "Embarrassing Moments",
+        "uri": "https://api.secondhandsongs.com/work/204421"
+      },
+      {
+        "title": "Βαρέθηκα όλα",
+        "uri": "https://api.secondhandsongs.com/work/316871"
+      }
+    ]
+  }
+}

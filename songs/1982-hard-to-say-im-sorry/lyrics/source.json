@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 25454445,
+  "kind": "synced",
+  "matched": {
+    "track": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "album": "Hard To Say I'm Sorry / Sonny Think Twice (Digital 45)",
+    "duration_s": 222.0
+  },
+  "duration_matched_to": "musicbrainz recording length (222s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 221.826,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 221.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 222.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 306.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37456932 (Hard To Say I'm Sorry / Chicago / The Chicago Story (1967-2002) (CD 1/2), 232.0s): duration matches no reference length",
+    "lrclib 37332884 (Hard To Say I'm Sorry / Chicago / Greatest Hits, 255.0s): duration matches no reference length",
+    "lrclib 34653570 (Hard To Say I'm Sorry / Chicago / Love 101 Disc 1, 231.0s): duration matches no reference length",
+    "lrclib 35268358 (Hard to Say I’m Sorry / Chicago / Chicago 16, 229.0s): duration matches no reference length",
+    "lrclib 35319399 (Hard to Say Im Sorry / Chicago / Love from Chicago, 233.0s): duration matches no reference length",
+    "lrclib 33514744 (Hard To Say I'm Sorry / Chicago / Hard To Say I'm Sorry, 215.0s): duration matches no reference length",
+    "lrclib 16749798 (Hard to Say I'm Sorry / Chicago / Hard to Say I'm Sorry, 228.015562s): duration matches no reference length",
+    "lrclib 15704006 (Hard To Say I'm Sorry / Chicago / Hard To Say I'm Sorry, 232.0s): duration matches no reference length",
+    "lrclib 17427575 (Hard to Say I’m Sorry / Chicago / Hard to Say I'm Sorry / Sonny Think Twice, 228.0s): duration matches no reference length",
+    "lrclib 7119858 (Hard to Say I'm Sorry / Chicago / Chicago, 232.0s): duration matches no reference length",
+    "lrclib 28424404 (Hard to Say I'm Sorry / Chicago / Chicago, 228.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}

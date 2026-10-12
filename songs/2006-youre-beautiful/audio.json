@@ -1,0 +1,76 @@
+{
+  "id": "2006-youre-beautiful",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2659940,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USAT20401588",
+    "title": "You're Beautiful",
+    "artist": "James Blunt",
+    "album": "Back to Bedlam",
+    "track_duration_s": 212,
+    "link": "https://www.deezer.com/track/2659940",
+    "duration_matched_to": "musicbrainz recording length (213s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-12",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 163.9,
+    "tempo_bpm_grid": 164.1,
+    "tempo_candidates_bpm": [
+      161.5,
+      172.3,
+      80.7
+    ],
+    "beats_detected": 81,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.791,
+    "key_runner_up": "C minor",
+    "key_runner_up_correlation": 0.671,
+    "chroma_profile": [
+      0.832,
+      0.488,
+      0.747,
+      1.0,
+      0.625,
+      0.858,
+      0.685,
+      0.81,
+      0.681,
+      0.511,
+      0.809,
+      0.402
+    ],
+    "rms_dbfs": -10.05,
+    "rms_dbfs_p95_frame": -6.45,
+    "peak_dbfs": 1.1,
+    "loudness_lufs_approx": -10.11,
+    "spectral_centroid_hz_mean": 2038.0,
+    "spectral_centroid_hz_median": 1923.8,
+    "onsets": 122,
+    "onset_density_per_s": 4.068,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2659940",
+    "retrieved": "2026-10-12",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 164.1,
+    "gain": -10.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2659940",
+    "retrieved": "2026-10-12",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer 6518577: version (You're Beautiful (Live in Ireland))",
+    "deezer 3015849221: version (You're Beautiful (Demo))"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35924553,
+  "kind": "synced",
+  "matched": {
+    "track": "Weak",
+    "artist": "SWV",
+    "album": "It's About Time",
+    "duration_s": 261.0
+  },
+  "duration_matched_to": "musicbrainz recording length (261s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 260.613,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 260.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 261.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 291.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 25,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36853309 (Weak / SWV / It's About Time, 5.0s): duration matches no reference length",
+    "lrclib 33620831 (Weak / SWV / Singles, 285.0s): duration matches no reference length",
+    "lrclib 33593652 (Weak / SWV / It's About Time, 279.0s): duration matches no reference length",
+    "lrclib 35868665 (Weak / SWV / It's About Time, 235.0s): duration matches no reference length",
+    "lrclib 21057385 (Weak / SWV / Remixes, 305.475918s): live/remix/other version",
+    "lrclib 8040000 (Weak / SWV / Weak, 275.0s): duration matches no reference length",
+    "lrclib 12171452 (Weak / SWV / Weak, 361.0s): duration matches no reference length",
+    "lrclib 14831439 (Weak / SWV / Weak, 279.0s): duration matches no reference length",
+    "lrclib 9400627 (Weak / SWV / Best of SWV, 279.0s): duration matches no reference length",
+    "lrclib 33053478 (Weak / Swv / Best Of SWV, 100.0s): duration matches no reference length",
+    "lrclib 28360151 (Weak / SWV / Weak - EP, 285.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-12",
+  "confidence": "crowd"
+}
