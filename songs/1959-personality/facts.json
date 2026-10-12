@@ -1,8 +1,115 @@
 {
   "id": "1959-personality",
   "retrieved": "2026-10-12",
-  "wikipedia_article": "Personality (Lloyd Price  song)",
-  "musicbrainz_match": "single release group 2f6d5019-47f5-445b-bd05-e9f8b521589f (1959)",
+  "wikipedia_article": "Personality (Lloyd Price song)",
+  "wikidata": {
+    "qid": "Q3434335",
+    "label": "Personality",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q958578",
+          "label": "Lloyd Price"
+        },
+        {
+          "qid": "Q573709",
+          "label": "Anthony Newley"
+        },
+        {
+          "qid": "Q342778",
+          "label": "Pat Boone"
+        },
+        {
+          "qid": "Q849659",
+          "label": "The Four Lads"
+        },
+        {
+          "qid": "Q175759",
+          "label": "Patti Page"
+        },
+        {
+          "qid": "Q202729",
+          "label": "Jerry Lee Lewis"
+        },
+        {
+          "qid": "Q4216191",
+          "label": "Mel Carter"
+        },
+        {
+          "qid": "Q753905",
+          "label": "The Platters"
+        },
+        {
+          "qid": "Q1178760",
+          "label": "Tony Orlando and Dawn"
+        },
+        {
+          "qid": "Q355384",
+          "label": "Gary Glitter"
+        },
+        {
+          "qid": "Q445862",
+          "label": "Percy Sledge"
+        },
+        {
+          "qid": "Q552806",
+          "label": "Wayne Newton"
+        },
+        {
+          "qid": "Q558582",
+          "label": "Ronnie Milsap"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q87486745",
+          "label": null
+        },
+        {
+          "qid": "Q958578",
+          "label": "Lloyd Price"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q958578",
+          "label": "Lloyd Price"
+        },
+        {
+          "qid": "Q87486745",
+          "label": null
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1959-04-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q45981",
+          "label": "rhythm and blues"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "025141dc-d6e0-3c57-870a-ee7c8580ef6c"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
   "musicbrainz": {
     "recording_id": "e04155eb-55bb-4cf0-8127-d3a29e49be22",
     "title": "Personality",

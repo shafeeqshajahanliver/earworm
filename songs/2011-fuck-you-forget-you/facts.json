@@ -91,5 +91,102 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": null
+  "musicbrainz": {
+    "recording_id": "04a860fd-4d44-4701-9dda-52bc36424f36",
+    "title": "Forget You",
+    "length_ms": 231870,
+    "first_release_date": "2010-11-08",
+    "artist_credit": "CeeLo Green",
+    "artists": [
+      {
+        "name": "CeeLo Green",
+        "mbid": "2c69465c-0f76-45ce-90a2-1ed0fdacc997"
+      }
+    ],
+    "isrcs": [
+      "USEV11000008"
+    ],
+    "recording_credits": [
+      {
+        "role": "video director",
+        "attributes": [],
+        "name": "Matt Stawski",
+        "mbid": "29133e3a-23ed-4f2c-9733-e200e2b20c29"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=bKxodgpyGec"
+      }
+    ],
+    "genres": [
+      "soul"
+    ],
+    "tags": [
+      "happy",
+      "soul"
+    ],
+    "releases": [
+      {
+        "id": "a6192431-5357-4483-b34f-d9240a33c925",
+        "title": "The Lady Killer",
+        "date": "2010-11-08",
+        "country": "AR",
+        "status": "Official",
+        "release_group": "765e2a73-96d5-49ce-8bf9-c0641d8bceda",
+        "primary_type": "Album",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "8ca0853d-f665-3bab-ba42-00fcff2990c0",
+      "title": "Forget You",
+      "iswcs": [
+        "T-311.167.019-6",
+        "T-905.306.052-9"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Brody Brown",
+          "mbid": "10fcef09-1491-402d-85ed-65ad7c126d34"
+        },
+        {
+          "role": "writer",
+          "name": "CeeLo Green",
+          "mbid": "2c69465c-0f76-45ce-90a2-1ed0fdacc997"
+        },
+        {
+          "role": "writer",
+          "name": "Philip Lawrence",
+          "mbid": "3d2ee04c-c21d-424d-91da-afd66258438e"
+        },
+        {
+          "role": "writer",
+          "name": "Ari Levine",
+          "mbid": "82ad1c73-2704-45a2-b437-679c3e74f8d9"
+        },
+        {
+          "role": "writer",
+          "name": "Bruno Mars",
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/118546",
+        "https://www.wikidata.org/wiki/Q57898891"
+      ]
+    },
+    "main_artist": {
+      "name": "CeeLo Green",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Atlanta"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "manual: chosen by hand from a MusicBrainz recording search (censored title, P!nk spelling or remix credit defeated automatic matching); original single/album version"
 }

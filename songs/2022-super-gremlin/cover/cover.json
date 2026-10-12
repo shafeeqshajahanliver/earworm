@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "27f20e59-474e-494f-9ae6-46b247fbfea7",
+      "release_title": "Super Gremlin",
+      "release_date": "2021-10-30",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "4015eb0d-8eae-4218-8f8e-ec95a6a3a055",
+      "release_title": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+      "release_date": "2021-10-30",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+      "url": "http://coverartarchive.org/release/cbd84f8b-de6a-4740-ad7d-e59484636fa6/30874185356-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cbd84f8b-de6a-4740-ad7d-e59484636fa6",
+      "image_id": 30874185356,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.14,
+        "saturation": 0.256,
+        "dark_share": 0.738,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.406
+          },
+          {
+            "hex": "#544848",
+            "share": 0.193
+          },
+          {
+            "hex": "#21090a",
+            "share": 0.193
+          },
+          {
+            "hex": "#000001",
+            "share": 0.115
+          },
+          {
+            "hex": "#240000",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/d0/14/a2d01412-dbe3-48eb-cf72-a475e017e0ff/075679754127.jpg/1200x1200bb.jpg",
+      "collection": "Super Gremlin (El Diablo Mix) - Single",
+      "collection_id": 1612364400,
+      "track_id": 1612364736,
+      "artist_name": "Kodak Black, Myke Towers & Eladio Carrión",
+      "release_date": "2022-02-23T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.202,
+        "saturation": 0.417,
+        "dark_share": 0.646,
+        "palette": [
+          {
+            "hex": "#080809",
+            "share": 0.318
+          },
+          {
+            "hex": "#2a2217",
+            "share": 0.241
+          },
+          {
+            "hex": "#696452",
+            "share": 0.208
+          },
+          {
+            "hex": "#0f0c0a",
+            "share": 0.165
+          },
+          {
+            "hex": "#050906",
+            "share": 0.068
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

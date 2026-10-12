@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/43071",
+    "title": "Hero",
+    "performer": "Mariah Carey",
+    "is_original": true,
+    "first_release_date": "1993-08-31",
+    "releases": [
+      {
+        "title": "Music Box",
+        "uri": "https://api.secondhandsongs.com/release/2303",
+        "performer": "Mariah Carey"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 65,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/43071",
+    "title": "Hero",
+    "language": "English",
+    "writers": [
+      "Walter Afanasieff",
+      "Mariah Carey"
+    ],
+    "original_performer": "Mariah Carey",
+    "versions": 66,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Heroe",
+        "uri": "https://api.secondhandsongs.com/work/111561"
+      },
+      {
+        "title": "盡力就是最好",
+        "uri": "https://api.secondhandsongs.com/work/318376"
+      },
+      {
+        "title": "L'eroe che sei tu",
+        "uri": "https://api.secondhandsongs.com/work/363084"
+      }
+    ]
+  }
+}

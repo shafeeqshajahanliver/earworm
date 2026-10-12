@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-12",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/70011",
+    "title": "Breathe Again",
+    "performer": "Toni Braxton",
+    "is_original": true,
+    "first_release_date": "1993-07-13",
+    "releases": [
+      {
+        "title": "Toni Braxton",
+        "uri": "https://api.secondhandsongs.com/release/21950",
+        "performer": "Toni Braxton"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 13,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/70011",
+    "title": "Breathe Again",
+    "language": "English",
+    "writers": [
+      "Babyface"
+    ],
+    "original_performer": "Toni Braxton",
+    "versions": 14,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "深呼吸",
+        "uri": "https://api.secondhandsongs.com/work/286558"
+      }
+    ]
+  }
+}

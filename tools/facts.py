@@ -27,6 +27,7 @@ def clean(s):
 
 
 def resolve(title):
+    title = re.sub(r"\s+", " ", title.replace("_", " ")).strip()
     for _ in range(3):
         t = wiki_raw(title)
         m = re.match(r"\s*#REDIRECT\s*\[\[([^\]#|]+)", t or "", re.I)
