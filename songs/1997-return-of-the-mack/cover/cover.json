@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "be970698-694a-3844-ad49-6d1bd72ce881",
+      "release_title": "Return of the Mack",
+      "release_date": "1996-04-22",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Return of the Mack",
+      "url": "https://coverartarchive.org/release/e3c0c2f7-ccc7-4e97-8a0a-a6df0eb5349c/43478169466-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e3c0c2f7-ccc7-4e97-8a0a-a6df0eb5349c",
+      "image_id": 43478169466,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.234,
+        "saturation": 0.405,
+        "dark_share": 0.583,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.286
+          },
+          {
+            "hex": "#382224",
+            "share": 0.256
+          },
+          {
+            "hex": "#7b626a",
+            "share": 0.204
+          },
+          {
+            "hex": "#180e0c",
+            "share": 0.164
+          },
+          {
+            "hex": "#050304",
+            "share": 0.09
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/6a/cd/296acd3a-9410-6fb9-7dc2-725dbc20f5a6/mzi.fhhlolpu.jpg/1200x1200bb.jpg",
+      "collection": "Return of the Mack",
+      "collection_id": 81902658,
+      "track_id": 81902612,
+      "artist_name": "Mark Morrison",
+      "release_date": "1996-03-18T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.243,
+        "saturation": 0.391,
+        "dark_share": 0.581,
+        "palette": [
+          {
+            "hex": "#372224",
+            "share": 0.252
+          },
+          {
+            "hex": "#040404",
+            "share": 0.23
+          },
+          {
+            "hex": "#7a616a",
+            "share": 0.206
+          },
+          {
+            "hex": "#19110f",
+            "share": 0.171
+          },
+          {
+            "hex": "#0b0a09",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

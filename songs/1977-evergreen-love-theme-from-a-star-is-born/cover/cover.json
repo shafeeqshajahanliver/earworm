@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "f3884c74-b8e8-4c00-b71f-779dea06ad72",
+      "release_title": "Memory",
+      "release_date": "1981",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/2551ae69-abce-4195-a7cc-3024c2db5d2b/26943751453-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/2551ae69-abce-4195-a7cc-3024c2db5d2b",
+      "image_id": 26943751453,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.534,
+        "saturation": 0.503,
+        "dark_share": 0.139,
+        "palette": [
+          {
+            "hex": "#623725",
+            "share": 0.285
+          },
+          {
+            "hex": "#2f1b17",
+            "share": 0.251
+          },
+          {
+            "hex": "#a66941",
+            "share": 0.221
+          },
+          {
+            "hex": "#f0d4b2",
+            "share": 0.182
+          },
+          {
+            "hex": "#d9b394",
+            "share": 0.061
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "267ac7ed-c906-3500-b6eb-4f6c480f85fa",
+      "release_title": "A Star Is Born",
+      "release_date": "1976-11",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: A Star Is Born",
+      "url": "http://coverartarchive.org/release/1ff886cf-4472-3f8d-b4f4-50f1d52cfc0f/11232745959-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/1ff886cf-4472-3f8d-b4f4-50f1d52cfc0f",
+      "image_id": "11232745959",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.724,
+        "saturation": 0.363,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#af8069",
+            "share": 0.328
+          },
+          {
+            "hex": "#804d3d",
+            "share": 0.206
+          },
+          {
+            "hex": "#c49b86",
+            "share": 0.176
+          },
+          {
+            "hex": "#e4c0ab",
+            "share": 0.165
+          },
+          {
+            "hex": "#f5d7c3",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/ba/c8/bebac8f3-6226-3c52-bdb1-535a5df48c83/dj.ulranwiu.jpg/1200x1200bb.jpg",
+      "collection": "A Star Is Born",
+      "collection_id": 192884366,
+      "track_id": 192884975,
+      "artist_name": "Barbra Streisand",
+      "release_date": "1976-11-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.679,
+        "saturation": 0.271,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#a98a76",
+            "share": 0.353
+          },
+          {
+            "hex": "#664039",
+            "share": 0.214
+          },
+          {
+            "hex": "#b9a08d",
+            "share": 0.147
+          },
+          {
+            "hex": "#e0cec3",
+            "share": 0.144
+          },
+          {
+            "hex": "#eedfd9",
+            "share": 0.142
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1dc64405-ebfb-4fb5-afab-a500698a836b",
+      "release_title": "Dreamlover",
+      "release_date": "1993",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/76d60b0e-8099-4b01-9aa9-a52d30495d2b/38730146419-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/76d60b0e-8099-4b01-9aa9-a52d30495d2b",
+      "image_id": 38730146419,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.661,
+        "saturation": 0.397,
+        "dark_share": 0.186,
+        "palette": [
+          {
+            "hex": "#211f14",
+            "share": 0.247
+          },
+          {
+            "hex": "#aa8142",
+            "share": 0.239
+          },
+          {
+            "hex": "#e4cf75",
+            "share": 0.213
+          },
+          {
+            "hex": "#f1eee1",
+            "share": 0.161
+          },
+          {
+            "hex": "#ebe6c6",
+            "share": 0.14
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7625cb89-79a6-3a00-bc38-d44552add611",
+      "release_title": "Music Box",
+      "release_date": "1993-08-31",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Music Box",
+      "url": "http://coverartarchive.org/release/8ded1d96-1acf-4550-a40c-b2f98df9010c/20606536510-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8ded1d96-1acf-4550-a40c-b2f98df9010c",
+      "image_id": 20606536510,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.752,
+        "saturation": 0.1,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#c5b8b1",
+            "share": 0.238
+          },
+          {
+            "hex": "#dad3d0",
+            "share": 0.214
+          },
+          {
+            "hex": "#7e6962",
+            "share": 0.205
+          },
+          {
+            "hex": "#dedad7",
+            "share": 0.191
+          },
+          {
+            "hex": "#e0dddb",
+            "share": 0.152
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/c7/08/1ac708ec-f080-71f5-0580-ff81bc48b0e6/196871356909.jpg/1200x1200bb.jpg",
+      "collection": "Music Box",
+      "collection_id": 1706160663,
+      "track_id": 1706160675,
+      "artist_name": "Mariah Carey",
+      "release_date": "1993-07-27T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.755,
+        "saturation": 0.099,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#c6b9b2",
+            "share": 0.238
+          },
+          {
+            "hex": "#dbd3d0",
+            "share": 0.212
+          },
+          {
+            "hex": "#7f6964",
+            "share": 0.206
+          },
+          {
+            "hex": "#dfdad8",
+            "share": 0.205
+          },
+          {
+            "hex": "#e2dedb",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

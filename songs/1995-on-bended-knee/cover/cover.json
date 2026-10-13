@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "299b9442-4a24-4444-9ead-38f08bdf91f7",
+      "release_title": "On Bended Knee",
+      "release_date": "1994",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8ac908e4-7788-4494-91dd-1f91d741573c/16766396298-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/8ac908e4-7788-4494-91dd-1f91d741573c",
+      "image_id": 16766396298,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        427
+      ],
+      "measures": {
+        "brightness": 0.457,
+        "saturation": 0.155,
+        "dark_share": 0.032,
+        "palette": [
+          {
+            "hex": "#c4b8ac",
+            "share": 0.29
+          },
+          {
+            "hex": "#372e32",
+            "share": 0.221
+          },
+          {
+            "hex": "#8f7e77",
+            "share": 0.17
+          },
+          {
+            "hex": "#40373b",
+            "share": 0.164
+          },
+          {
+            "hex": "#493c3e",
+            "share": 0.156
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "6eaebb45-8911-3d0b-8ef3-914726356144",
+      "release_title": "II",
+      "release_date": "1994",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "http://coverartarchive.org/release/a4274c33-cf5e-4e7d-8d35-e80340c5d8c1/5142947056-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a4274c33-cf5e-4e7d-8d35-e80340c5d8c1",
+      "image_id": "5142947056",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.443,
+        "saturation": 0.65,
+        "dark_share": 0.251,
+        "palette": [
+          {
+            "hex": "#162745",
+            "share": 0.305
+          },
+          {
+            "hex": "#09101b",
+            "share": 0.238
+          },
+          {
+            "hex": "#20447e",
+            "share": 0.199
+          },
+          {
+            "hex": "#4488cc",
+            "share": 0.139
+          },
+          {
+            "hex": "#a4d6f6",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e4/82/d0/e482d0d0-7d1e-9615-ffba-60f973f25527/06UMGIM04523.rgb.jpg/1200x1200bb.jpg",
+      "collection": "II",
+      "collection_id": 1440925670,
+      "track_id": 1440926503,
+      "artist_name": "Boyz II Men",
+      "release_date": "1994-08-30T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1173,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.432,
+        "saturation": 0.315,
+        "dark_share": 0.156,
+        "palette": [
+          {
+            "hex": "#353f52",
+            "share": 0.301
+          },
+          {
+            "hex": "#24272d",
+            "share": 0.234
+          },
+          {
+            "hex": "#445874",
+            "share": 0.205
+          },
+          {
+            "hex": "#6484a9",
+            "share": 0.15
+          },
+          {
+            "hex": "#acc2d9",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

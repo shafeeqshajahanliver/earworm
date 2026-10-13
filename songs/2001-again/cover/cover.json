@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "965184e8-e305-3caa-a996-d10da44375a0",
+      "release_title": "Again",
+      "release_date": "2000",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/af07da8b-e1ed-443b-b1cc-ebeae7cbd4bd/2222532800-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/af07da8b-e1ed-443b-b1cc-ebeae7cbd4bd",
+      "image_id": "2222532800",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        299,
+        298
+      ],
+      "measures": {
+        "brightness": 0.414,
+        "saturation": 0.453,
+        "dark_share": 0.056,
+        "palette": [
+          {
+            "hex": "#372820",
+            "share": 0.267
+          },
+          {
+            "hex": "#543e2c",
+            "share": 0.222
+          },
+          {
+            "hex": "#7a5a40",
+            "share": 0.212
+          },
+          {
+            "hex": "#906b4a",
+            "share": 0.198
+          },
+          {
+            "hex": "#aa835e",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "6ea9fa04-a063-352b-af06-246723f12722",
+      "release_title": "Greatest Hits",
+      "release_date": "2000",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Greatest Hits",
+      "url": "https://coverartarchive.org/release/fa01be73-82f9-4abd-8637-141b3baf4854/41980932935-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fa01be73-82f9-4abd-8637-141b3baf4854",
+      "image_id": 41980932935,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1192,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.646,
+        "saturation": 0.095,
+        "dark_share": 0.058,
+        "palette": [
+          {
+            "hex": "#d4d8db",
+            "share": 0.3
+          },
+          {
+            "hex": "#838484",
+            "share": 0.231
+          },
+          {
+            "hex": "#bcc0c2",
+            "share": 0.179
+          },
+          {
+            "hex": "#564d4b",
+            "share": 0.148
+          },
+          {
+            "hex": "#9d9895",
+            "share": 0.142
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/e6/2b/e6e62b8d-3616-dc96-b65e-9ff31eddecd3/13UABIM59279.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Greatest Hits",
+      "collection_id": 723338099,
+      "track_id": 723338381,
+      "artist_name": "Lenny Kravitz",
+      "release_date": "2000-09-14T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.617,
+        "saturation": 0.165,
+        "dark_share": 0.035,
+        "palette": [
+          {
+            "hex": "#8e8489",
+            "share": 0.352
+          },
+          {
+            "hex": "#bab7c5",
+            "share": 0.229
+          },
+          {
+            "hex": "#b0a9b0",
+            "share": 0.165
+          },
+          {
+            "hex": "#514a51",
+            "share": 0.147
+          },
+          {
+            "hex": "#cac0c6",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

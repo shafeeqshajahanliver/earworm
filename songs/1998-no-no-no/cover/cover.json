@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "dfddb911-4ca8-385b-9143-bb4b4c6575a8",
+      "release_title": "Destiny’s Child",
+      "release_date": "1997",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Destiny's Child",
+      "url": "https://coverartarchive.org/release/cff8ea7b-d8dc-4fad-9829-000c4b525db3/6073788579-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cff8ea7b-d8dc-4fad-9829-000c4b525db3",
+      "image_id": 6073788579,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1024,
+        1024
+      ],
+      "measures": {
+        "brightness": 0.566,
+        "saturation": 0.305,
+        "dark_share": 0.306,
+        "palette": [
+          {
+            "hex": "#0c0b0c",
+            "share": 0.311
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.297
+          },
+          {
+            "hex": "#c59876",
+            "share": 0.184
+          },
+          {
+            "hex": "#613d30",
+            "share": 0.173
+          },
+          {
+            "hex": "#fefffe",
+            "share": 0.035
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/c4/6c/79c46c23-3456-2c40-f2d1-ad8e84dc0690/cover.jpg/1200x1200bb.jpg",
+      "collection": "D.J. Mix '99",
+      "collection_id": 568457155,
+      "track_id": 568457159,
+      "artist_name": "Destiny's Child & Wyclef Jean",
+      "release_date": "1998-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.868,
+        "saturation": 0.435,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#f8baa9",
+            "share": 0.354
+          },
+          {
+            "hex": "#974d5f",
+            "share": 0.22
+          },
+          {
+            "hex": "#f9bfac",
+            "share": 0.177
+          },
+          {
+            "hex": "#aca29a",
+            "share": 0.153
+          },
+          {
+            "hex": "#eec7af",
+            "share": 0.095
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

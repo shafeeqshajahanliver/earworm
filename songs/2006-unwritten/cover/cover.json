@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2520aff3-e605-3f86-ab4b-13005a24e972",
+      "release_title": "Unwritten",
+      "release_date": "2004-11-29",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/efff75fb-4f09-4e55-a9a3-13408ddf5a05/10802540185-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/efff75fb-4f09-4e55-a9a3-13408ddf5a05",
+      "image_id": "10802540185",
+      "types": [
+        "Front",
+        "Spine"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        383
+      ],
+      "measures": {
+        "brightness": 0.676,
+        "saturation": 0.252,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#948270",
+            "share": 0.249
+          },
+          {
+            "hex": "#704946",
+            "share": 0.241
+          },
+          {
+            "hex": "#bdac9c",
+            "share": 0.221
+          },
+          {
+            "hex": "#d8c7b9",
+            "share": 0.187
+          },
+          {
+            "hex": "#e9e7dd",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9b29b689-01a9-3da4-aa2b-b13ee0e100ac",
+      "release_title": "Unwritten",
+      "release_date": "2004",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Unwritten",
+      "url": "https://coverartarchive.org/release/6b3089f1-4d62-4dc9-afb4-eb301b468872/45414890424-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6b3089f1-4d62-4dc9-afb4-eb301b468872",
+      "image_id": 45414890424,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        599,
+        597
+      ],
+      "measures": {
+        "brightness": 0.8,
+        "saturation": 0.277,
+        "dark_share": 0.021,
+        "palette": [
+          {
+            "hex": "#d6ac89",
+            "share": 0.26
+          },
+          {
+            "hex": "#e9c8b2",
+            "share": 0.258
+          },
+          {
+            "hex": "#7e5a43",
+            "share": 0.198
+          },
+          {
+            "hex": "#eed9cc",
+            "share": 0.165
+          },
+          {
+            "hex": "#f4eae6",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/dd/1c/1bdd1cf6-c75e-e174-1fda-65d320a4e178/ticket.ejbavdpq.jpg/1200x1200bb.jpg",
+      "collection": "Unwritten",
+      "collection_id": 430514888,
+      "track_id": 430514893,
+      "artist_name": "Natasha Bedingfield",
+      "release_date": "2004-09-06T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1199
+      ],
+      "measures": {
+        "brightness": 0.724,
+        "saturation": 0.338,
+        "dark_share": 0.125,
+        "palette": [
+          {
+            "hex": "#ebbda8",
+            "share": 0.261
+          },
+          {
+            "hex": "#c5906b",
+            "share": 0.232
+          },
+          {
+            "hex": "#3e1c14",
+            "share": 0.218
+          },
+          {
+            "hex": "#f1d2c5",
+            "share": 0.179
+          },
+          {
+            "hex": "#f5e4e1",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

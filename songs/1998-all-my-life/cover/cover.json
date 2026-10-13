@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "7f951add-cf0c-3859-a038-2157e86d9de6",
+      "release_title": "All My Life",
+      "release_date": "1998",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d47b693a-4378-4ff4-971c-e832b6531502/18841369375-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/d47b693a-4378-4ff4-971c-e832b6531502",
+      "image_id": 18841369375,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.465,
+        "saturation": 0.329,
+        "dark_share": 0.397,
+        "palette": [
+          {
+            "hex": "#b6a27e",
+            "share": 0.309
+          },
+          {
+            "hex": "#010000",
+            "share": 0.243
+          },
+          {
+            "hex": "#eae5db",
+            "share": 0.214
+          },
+          {
+            "hex": "#080302",
+            "share": 0.151
+          },
+          {
+            "hex": "#503f31",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "6dc98c1f-b551-3c87-b6b8-1fd79d820fa0",
+      "release_title": "Love Always",
+      "release_date": "1997-06-17",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Love Always",
+      "url": "http://coverartarchive.org/release/1d0217de-5794-406e-b164-9058bc1769ec/14276745128-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/1d0217de-5794-406e-b164-9058bc1769ec",
+      "image_id": "14276745128",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        496
+      ],
+      "measures": {
+        "brightness": 0.735,
+        "saturation": 0.104,
+        "dark_share": 0.142,
+        "palette": [
+          {
+            "hex": "#e6e8e1",
+            "share": 0.266
+          },
+          {
+            "hex": "#35372d",
+            "share": 0.214
+          },
+          {
+            "hex": "#e5e7db",
+            "share": 0.186
+          },
+          {
+            "hex": "#e7eae1",
+            "share": 0.173
+          },
+          {
+            "hex": "#d3d5ba",
+            "share": 0.161
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/23/5b/5b235b02-d260-e8ac-dbac-b0ea6924aa98/06UMGIM21106.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Love Always",
+      "collection_id": 1440488994,
+      "track_id": 1440489006,
+      "artist_name": "K-Ci & JoJo",
+      "release_date": "1997-06-17T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1180,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.822,
+        "saturation": 0.093,
+        "dark_share": 0.118,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.521
+          },
+          {
+            "hex": "#f0e6d1",
+            "share": 0.251
+          },
+          {
+            "hex": "#4c4e40",
+            "share": 0.204
+          },
+          {
+            "hex": "#fffffd",
+            "share": 0.023
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.001
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5ddf3022-6bcf-3981-b4b7-f85e619267b1",
+      "release_title": "Kiss Me",
+      "release_date": "1998",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e7dd4ce2-c75d-4f90-975e-0c3a55cb7846/10379766651-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/e7dd4ce2-c75d-4f90-975e-0c3a55cb7846",
+      "image_id": "10379766651",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        440,
+        450
+      ],
+      "measures": {
+        "brightness": 0.43,
+        "saturation": 0.172,
+        "dark_share": 0.448,
+        "palette": [
+          {
+            "hex": "#d9c2b4",
+            "share": 0.285
+          },
+          {
+            "hex": "#232226",
+            "share": 0.216
+          },
+          {
+            "hex": "#1e1e21",
+            "share": 0.187
+          },
+          {
+            "hex": "#8e6b6c",
+            "share": 0.182
+          },
+          {
+            "hex": "#2c282e",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f7df40ef-cc6a-3ecf-b6cd-e73b353b05ea",
+      "release_title": "Sixpence None the Richer",
+      "release_date": "1997-11-22",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Sixpence None the Richer",
+      "url": "https://coverartarchive.org/release/24efdbe1-a15d-4cc0-a6d7-59bd1ebbdcc3/39267761936-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/24efdbe1-a15d-4cc0-a6d7-59bd1ebbdcc3",
+      "image_id": 39267761936,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        633,
+        640
+      ],
+      "measures": {
+        "brightness": 0.639,
+        "saturation": 0.406,
+        "dark_share": 0.025,
+        "palette": [
+          {
+            "hex": "#ccac75",
+            "share": 0.294
+          },
+          {
+            "hex": "#3f3628",
+            "share": 0.288
+          },
+          {
+            "hex": "#d9bc84",
+            "share": 0.202
+          },
+          {
+            "hex": "#9d7d4c",
+            "share": 0.128
+          },
+          {
+            "hex": "#e8d0a2",
+            "share": 0.087
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/6b/92/0f6b92f7-52e1-67e4-6a7b-7196ef793cdc/080688551261.png/1200x1200bb.jpg",
+      "collection": "Sixpence None the Richer",
+      "collection_id": 1163449953,
+      "track_id": 1163449957,
+      "artist_name": "Sixpence None the Richer",
+      "release_date": "1997-11-22T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1033
+      ],
+      "measures": {
+        "brightness": 0.701,
+        "saturation": 0.66,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#7f582e",
+            "share": 0.24
+          },
+          {
+            "hex": "#b88f49",
+            "share": 0.217
+          },
+          {
+            "hex": "#bd6c2e",
+            "share": 0.214
+          },
+          {
+            "hex": "#d1a251",
+            "share": 0.169
+          },
+          {
+            "hex": "#d78f3c",
+            "share": 0.161
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

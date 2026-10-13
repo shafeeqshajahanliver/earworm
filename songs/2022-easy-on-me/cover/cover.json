@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "0d5d0ca4-d42d-432b-960a-0307ea6845a1",
+      "release_title": "Easy on Me",
+      "release_date": "2021-10-14",
+      "release_country": "AF",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/796da02d-e5c0-4126-81a7-bec77ca7c124/41836465862-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/796da02d-e5c0-4126-81a7-bec77ca7c124",
+      "image_id": 41836465862,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        599,
+        525
+      ],
+      "measures": {
+        "brightness": 0.508,
+        "saturation": 0.08,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#373d42",
+            "share": 0.255
+          },
+          {
+            "hex": "#e7e5e6",
+            "share": 0.254
+          },
+          {
+            "hex": "#7e7b81",
+            "share": 0.199
+          },
+          {
+            "hex": "#5a5a61",
+            "share": 0.191
+          },
+          {
+            "hex": "#45484e",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d8a99910-33c2-481d-9b96-085ece5545f6",
+      "release_title": "30",
+      "release_date": "2021-11-19",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 30",
+      "url": "http://coverartarchive.org/release/6d541211-c604-4344-a799-11adfea40c9d/30676520786-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6d541211-c604-4344-a799-11adfea40c9d",
+      "image_id": 30676520786,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.4,
+        "saturation": 0.32,
+        "dark_share": 0.04,
+        "palette": [
+          {
+            "hex": "#9c9586",
+            "share": 0.241
+          },
+          {
+            "hex": "#26444b",
+            "share": 0.223
+          },
+          {
+            "hex": "#6a655a",
+            "share": 0.221
+          },
+          {
+            "hex": "#233537",
+            "share": 0.204
+          },
+          {
+            "hex": "#444a45",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/1200x1200bb.jpg",
+      "collection": "30",
+      "collection_id": 1590035691,
+      "track_id": 1590036021,
+      "artist_name": "Adele",
+      "release_date": "2021-10-14T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.4,
+        "saturation": 0.322,
+        "dark_share": 0.038,
+        "palette": [
+          {
+            "hex": "#9c9486",
+            "share": 0.245
+          },
+          {
+            "hex": "#254349",
+            "share": 0.231
+          },
+          {
+            "hex": "#696359",
+            "share": 0.226
+          },
+          {
+            "hex": "#223437",
+            "share": 0.193
+          },
+          {
+            "hex": "#404946",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "a3cfecbf-55f5-3fb9-a63d-e62708b1ff29",
+      "release_title": "Born to Sing",
+      "release_date": "1990-04-03",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Born to Sing",
+      "url": "https://coverartarchive.org/release/fbd75613-8ada-4116-ba5e-1485f0919284/46389936361-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fbd75613-8ada-4116-ba5e-1485f0919284",
+      "image_id": 46389936361,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1194
+      ],
+      "measures": {
+        "brightness": 0.624,
+        "saturation": 0.285,
+        "dark_share": 0.1,
+        "palette": [
+          {
+            "hex": "#875d60",
+            "share": 0.265
+          },
+          {
+            "hex": "#431f1f",
+            "share": 0.243
+          },
+          {
+            "hex": "#b7a7af",
+            "share": 0.185
+          },
+          {
+            "hex": "#dddfe2",
+            "share": 0.17
+          },
+          {
+            "hex": "#ebeff1",
+            "share": 0.137
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/74/28/26742825-a0cc-2fda-00be-54ad5a7f9850/603497847358.jpg/1200x1200bb.jpg",
+      "collection": "Born to Sing (30th Anniversary Expanded Edition) [2020 Remaster]",
+      "collection_id": 1503217732,
+      "track_id": 1503217910,
+      "artist_name": "En Vogue",
+      "release_date": "1990-04-03T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.867,
+        "saturation": 0.22,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#e6d9b0",
+            "share": 0.298
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.243
+          },
+          {
+            "hex": "#957b43",
+            "share": 0.196
+          },
+          {
+            "hex": "#f8f5e9",
+            "share": 0.147
+          },
+          {
+            "hex": "#fefefd",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

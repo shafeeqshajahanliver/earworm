@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "6c043230-44a8-3487-9e6b-3edd9e24013d",
+      "release_title": "1, 2 Step",
+      "release_date": "2005-03-07",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/4c138d1e-b9a3-4ae6-bbec-ca89fa69d67e/18698416555-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4c138d1e-b9a3-4ae6-bbec-ca89fa69d67e",
+      "image_id": 18698416555,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.41,
+        "saturation": 0.504,
+        "dark_share": 0.287,
+        "palette": [
+          {
+            "hex": "#704e34",
+            "share": 0.239
+          },
+          {
+            "hex": "#c0bb9a",
+            "share": 0.214
+          },
+          {
+            "hex": "#1a1a1b",
+            "share": 0.213
+          },
+          {
+            "hex": "#2e2414",
+            "share": 0.176
+          },
+          {
+            "hex": "#472d14",
+            "share": 0.158
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3a497ab6-085e-383d-9610-52f4ef9b2f16",
+      "release_title": "Goodies",
+      "release_date": "2004",
+      "release_country": "BR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Goodies",
+      "url": "http://coverartarchive.org/release/5c803de3-1d8c-4370-8fa9-c6c1694530e3/32004652680-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5c803de3-1d8c-4370-8fa9-c6c1694530e3",
+      "image_id": 32004652680,
+      "types": [
+        "Front"
+      ],
+      "comment": "Qobuz",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.526,
+        "saturation": 0.446,
+        "dark_share": 0.099,
+        "palette": [
+          {
+            "hex": "#823d45",
+            "share": 0.321
+          },
+          {
+            "hex": "#985655",
+            "share": 0.2
+          },
+          {
+            "hex": "#371f1e",
+            "share": 0.192
+          },
+          {
+            "hex": "#b07366",
+            "share": 0.183
+          },
+          {
+            "hex": "#d7a399",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/33/a0/0a33a0e7-2cd6-7172-6325-e5d86cba1c7a/196872380835.jpg/1200x1200bb.jpg",
+      "collection": "1,2 Step",
+      "collection_id": 1769555436,
+      "track_id": 1769555440,
+      "artist_name": "Ciara",
+      "release_date": "2004-09-28T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.511,
+        "saturation": 0.369,
+        "dark_share": 0.108,
+        "palette": [
+          {
+            "hex": "#8e6d58",
+            "share": 0.223
+          },
+          {
+            "hex": "#312a25",
+            "share": 0.222
+          },
+          {
+            "hex": "#6c4d39",
+            "share": 0.221
+          },
+          {
+            "hex": "#d2c8a8",
+            "share": 0.214
+          },
+          {
+            "hex": "#47454f",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

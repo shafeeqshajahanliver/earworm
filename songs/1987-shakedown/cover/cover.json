@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "640a37a8-b335-433d-b1a1-9911490d538f",
+      "release_title": "Shakedown",
+      "release_date": "1987-05-10",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "0c5c34d6-2f07-3e3e-a973-fa98a9d66e34",
+      "release_title": "Beverly Hills Cop II",
+      "release_date": "1987",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Beverly Hills Cop II",
+      "url": "http://coverartarchive.org/release/b6b4c1d7-0fd9-4e50-af15-5449aada7570/10430176750-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b6b4c1d7-0fd9-4e50-af15-5449aada7570",
+      "image_id": 10430176750,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.587,
+        "saturation": 0.392,
+        "dark_share": 0.285,
+        "palette": [
+          {
+            "hex": "#d79260",
+            "share": 0.304
+          },
+          {
+            "hex": "#010101",
+            "share": 0.297
+          },
+          {
+            "hex": "#e6c189",
+            "share": 0.143
+          },
+          {
+            "hex": "#864f3a",
+            "share": 0.128
+          },
+          {
+            "hex": "#f6e49e",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b6/2f/51/b62f5171-48f3-84de-6a30-2b87947fbb93/00602537800469.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Beverly Hills Cop II (The Motion Picture Soundtrack Album)",
+      "collection_id": 1444196363,
+      "track_id": 1444196598,
+      "artist_name": "Bob Seger & The Silver Bullet Band",
+      "release_date": "1987-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.579,
+        "saturation": 0.485,
+        "dark_share": 0.285,
+        "palette": [
+          {
+            "hex": "#d28f61",
+            "share": 0.305
+          },
+          {
+            "hex": "#030406",
+            "share": 0.297
+          },
+          {
+            "hex": "#e3bd89",
+            "share": 0.144
+          },
+          {
+            "hex": "#824e3c",
+            "share": 0.128
+          },
+          {
+            "hex": "#f3e1a1",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

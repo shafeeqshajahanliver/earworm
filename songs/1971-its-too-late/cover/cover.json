@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9cdc5331-8a5e-4a60-b207-bf40d3c3651e",
+      "release_title": "Es Demasiado Tarde = It’s Too Late",
+      "release_date": "1971",
+      "release_country": "PE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/c3e13387-3477-46bb-bb04-541b932be5f4/36813605356-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c3e13387-3477-46bb-bb04-541b932be5f4",
+      "image_id": 36813605356,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        590,
+        600
+      ],
+      "measures": {
+        "brightness": 0.54,
+        "saturation": 0.386,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#7d4d3d",
+            "share": 0.26
+          },
+          {
+            "hex": "#97614d",
+            "share": 0.256
+          },
+          {
+            "hex": "#4a312b",
+            "share": 0.241
+          },
+          {
+            "hex": "#d8d7cd",
+            "share": 0.13
+          },
+          {
+            "hex": "#a3948d",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "6e4f39e6-3403-39d7-81c6-8e61a990d509",
+      "release_title": "Tapestry",
+      "release_date": "1971-01-30",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Tapestry",
+      "url": "http://coverartarchive.org/release/74467fc2-2b96-3e25-914b-082a82373014/3890190163-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/74467fc2-2b96-3e25-914b-082a82373014",
+      "image_id": 3890190163,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.396,
+        "saturation": 0.246,
+        "dark_share": 0.425,
+        "palette": [
+          {
+            "hex": "#dcddde",
+            "share": 0.256
+          },
+          {
+            "hex": "#0f171b",
+            "share": 0.246
+          },
+          {
+            "hex": "#282831",
+            "share": 0.214
+          },
+          {
+            "hex": "#58585f",
+            "share": 0.153
+          },
+          {
+            "hex": "#181f25",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/1200x1200bb.jpg",
+      "collection": "Tapestry",
+      "collection_id": 747087657,
+      "track_id": 747087665,
+      "artist_name": "Carole King",
+      "release_date": "1971-02-10T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.391,
+        "saturation": 0.247,
+        "dark_share": 0.436,
+        "palette": [
+          {
+            "hex": "#e0d7d4",
+            "share": 0.268
+          },
+          {
+            "hex": "#1e141b",
+            "share": 0.246
+          },
+          {
+            "hex": "#351f28",
+            "share": 0.225
+          },
+          {
+            "hex": "#261921",
+            "share": 0.134
+          },
+          {
+            "hex": "#5a4d52",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

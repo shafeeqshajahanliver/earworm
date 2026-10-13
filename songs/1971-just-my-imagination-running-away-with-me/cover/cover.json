@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "0ceaa330-afd2-30fa-8ad2-c270f9c4a65f",
+      "release_title": "Sky’s the Limit",
+      "release_date": "1971",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Sky's the Limit",
+      "url": "http://coverartarchive.org/release/43e92b4e-83bb-43db-895d-454665e66720/4348743077-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/43e92b4e-83bb-43db-895d-454665e66720",
+      "image_id": "4348743077",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.571,
+        "saturation": 0.403,
+        "dark_share": 0.049,
+        "palette": [
+          {
+            "hex": "#463227",
+            "share": 0.261
+          },
+          {
+            "hex": "#b7916f",
+            "share": 0.226
+          },
+          {
+            "hex": "#866048",
+            "share": 0.206
+          },
+          {
+            "hex": "#c09e7d",
+            "share": 0.169
+          },
+          {
+            "hex": "#c4a686",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/43/ed/e543edd7-788e-bff7-d3b0-5e7473eed0f0/06UMGIM58102.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Sky's the Limit",
+      "collection_id": 1443182797,
+      "track_id": 1443183041,
+      "artist_name": "The Temptations",
+      "release_date": "1971-01-14T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.648,
+        "saturation": 0.39,
+        "dark_share": 0.076,
+        "palette": [
+          {
+            "hex": "#3f3234",
+            "share": 0.262
+          },
+          {
+            "hex": "#e3ae8c",
+            "share": 0.251
+          },
+          {
+            "hex": "#9a5145",
+            "share": 0.239
+          },
+          {
+            "hex": "#d79274",
+            "share": 0.136
+          },
+          {
+            "hex": "#e4b996",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

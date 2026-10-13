@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "f5bff9ae-e0a8-3372-b7b0-2c9cb5528722",
+      "release_title": "Livin' la Vida Loca",
+      "release_date": "1999-03-23",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "d1555594-914e-33e9-b35c-077c6d500cd2",
+      "release_title": "Ricky Martin",
+      "release_date": "1999-05-04",
+      "release_country": "ES",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Ricky Martin",
+      "url": "http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263",
+      "image_id": 26703215877,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1145
+      ],
+      "measures": {
+        "brightness": 0.777,
+        "saturation": 0.125,
+        "dark_share": 0.027,
+        "palette": [
+          {
+            "hex": "#d6ac99",
+            "share": 0.24
+          },
+          {
+            "hex": "#594949",
+            "share": 0.235
+          },
+          {
+            "hex": "#fafaf7",
+            "share": 0.192
+          },
+          {
+            "hex": "#edeae4",
+            "share": 0.186
+          },
+          {
+            "hex": "#fbfcf9",
+            "share": 0.147
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/8e/d1/098ed1b0-0ae5-3a83-9ad6-26699b28a333/196872097634.jpg/1200x1200bb.jpg",
+      "collection": "Livin' la Vida Loca (Orbital Audio) - Single",
+      "collection_id": 1745345951,
+      "track_id": 1745345956,
+      "artist_name": "Ricky Martin",
+      "release_date": "1999-03-23T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.682,
+        "saturation": 0.213,
+        "dark_share": 0.177,
+        "palette": [
+          {
+            "hex": "#251d1c",
+            "share": 0.264
+          },
+          {
+            "hex": "#b28365",
+            "share": 0.219
+          },
+          {
+            "hex": "#e3ddcd",
+            "share": 0.199
+          },
+          {
+            "hex": "#faf9f7",
+            "share": 0.16
+          },
+          {
+            "hex": "#faf7f2",
+            "share": 0.159
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

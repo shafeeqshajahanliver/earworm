@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2c022a7c-8b15-3dc0-af9e-ce76f8f8ade5",
+      "release_title": "Hold On",
+      "release_date": "1990",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/24b599bb-f4d5-4e66-86b6-056ea453fb3c/42819567285-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/24b599bb-f4d5-4e66-86b6-056ea453fb3c",
+      "image_id": 42819567285,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        460
+      ],
+      "measures": {
+        "brightness": 0.619,
+        "saturation": 0.291,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#a3847f",
+            "share": 0.301
+          },
+          {
+            "hex": "#e2ccb5",
+            "share": 0.192
+          },
+          {
+            "hex": "#6f5a60",
+            "share": 0.184
+          },
+          {
+            "hex": "#693d43",
+            "share": 0.164
+          },
+          {
+            "hex": "#956255",
+            "share": 0.159
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "393fe51d-95bc-356c-a191-3bf719bb66b7",
+      "release_title": "Wilson Phillips",
+      "release_date": "1990",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Wilson Phillips",
+      "url": "https://coverartarchive.org/release/08aa8f29-ff4e-405a-a538-50b4f15bbcc0/23688755551-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/08aa8f29-ff4e-405a-a538-50b4f15bbcc0",
+      "image_id": 23688755551,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.537,
+        "saturation": 0.237,
+        "dark_share": 0.034,
+        "palette": [
+          {
+            "hex": "#78645f",
+            "share": 0.362
+          },
+          {
+            "hex": "#a8928c",
+            "share": 0.194
+          },
+          {
+            "hex": "#57413b",
+            "share": 0.165
+          },
+          {
+            "hex": "#957e79",
+            "share": 0.163
+          },
+          {
+            "hex": "#cbb29c",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/56/aa/52/56aa52d0-e99b-c2fb-1bad-3403aea633f4/13UABIM53393.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Wilson Phillips",
+      "collection_id": 723895185,
+      "track_id": 723895262,
+      "artist_name": "Wilson Phillips",
+      "release_date": "1990-03-24T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.647,
+        "saturation": 0.263,
+        "dark_share": 0.056,
+        "palette": [
+          {
+            "hex": "#7f728b",
+            "share": 0.359
+          },
+          {
+            "hex": "#bbabc6",
+            "share": 0.184
+          },
+          {
+            "hex": "#543d49",
+            "share": 0.174
+          },
+          {
+            "hex": "#a392ae",
+            "share": 0.163
+          },
+          {
+            "hex": "#e4d3d9",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

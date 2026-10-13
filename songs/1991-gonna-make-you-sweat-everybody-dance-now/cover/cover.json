@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "cc3ca006-602e-36b0-be2f-fb3a126292c8",
+      "release_title": "Gonna Make You Sweat",
+      "release_date": "1990",
+      "release_country": "KR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Gonna Make You Sweat",
+      "url": "http://coverartarchive.org/release/6b0bea74-ef09-4c6d-96a1-dd1271fb7cf2/9484035914-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6b0bea74-ef09-4c6d-96a1-dd1271fb7cf2",
+      "image_id": 9484035914,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.892,
+        "saturation": 0.105,
+        "dark_share": 0.067,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.685
+          },
+          {
+            "hex": "#344645",
+            "share": 0.147
+          },
+          {
+            "hex": "#e6e8e1",
+            "share": 0.083
+          },
+          {
+            "hex": "#fcfffe",
+            "share": 0.05
+          },
+          {
+            "hex": "#fffffc",
+            "share": 0.034
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/d8/59/3f/mzi.edufvpqb.jpg/1200x1200bb.jpg",
+      "collection": "Gonna Make You Sweat (Everybody Dance Now) - Single",
+      "collection_id": 163357148,
+      "track_id": 163357172,
+      "artist_name": "C+C Music Factory",
+      "release_date": "1990-12-18T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.816,
+        "saturation": 0.049,
+        "dark_share": 0.107,
+        "palette": [
+          {
+            "hex": "#f0eeef",
+            "share": 0.334
+          },
+          {
+            "hex": "#f1eff0",
+            "share": 0.277
+          },
+          {
+            "hex": "#816c6d",
+            "share": 0.204
+          },
+          {
+            "hex": "#efeeef",
+            "share": 0.115
+          },
+          {
+            "hex": "#f3f2f2",
+            "share": 0.071
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4c7715e6-54f7-3a04-950f-5cf88fcec97d",
+      "release_title": "Breathe Again",
+      "release_date": "1993",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/5ab2fe2c-4fb9-44ce-a44c-9ef8ebde9806/39470867995-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5ab2fe2c-4fb9-44ce-a44c-9ef8ebde9806",
+      "image_id": 39470867995,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        200,
+        197
+      ],
+      "measures": {
+        "brightness": 0.412,
+        "saturation": 0.31,
+        "dark_share": 0.275,
+        "palette": [
+          {
+            "hex": "#0f0e17",
+            "share": 0.267
+          },
+          {
+            "hex": "#442e34",
+            "share": 0.25
+          },
+          {
+            "hex": "#75615d",
+            "share": 0.206
+          },
+          {
+            "hex": "#b3a198",
+            "share": 0.156
+          },
+          {
+            "hex": "#dbd4d0",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "70a658d7-3b72-368a-84de-dc7df9b14ed4",
+      "release_title": "Toni Braxton",
+      "release_date": "1993-07-13",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Toni Braxton",
+      "url": "http://coverartarchive.org/release/de58feb2-39a7-4c19-8fde-221fca492283/9729835855-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/de58feb2-39a7-4c19-8fde-221fca492283",
+      "image_id": "9729835855",
+      "types": [
+        "Front"
+      ],
+      "comment": "2000x2000",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.745,
+        "saturation": 0.154,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#4d413d",
+            "share": 0.26
+          },
+          {
+            "hex": "#ece2d4",
+            "share": 0.212
+          },
+          {
+            "hex": "#c29d86",
+            "share": 0.199
+          },
+          {
+            "hex": "#f7f2e9",
+            "share": 0.173
+          },
+          {
+            "hex": "#faf9f3",
+            "share": 0.156
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/3e/ce/e13ece36-4c63-cd88-30ef-a555ede56571/730082600729.jpg/1200x1200bb.jpg",
+      "collection": "Toni Braxton",
+      "collection_id": 288167174,
+      "track_id": 288167226,
+      "artist_name": "Toni Braxton",
+      "release_date": "1993-07-13T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.69,
+        "saturation": 0.181,
+        "dark_share": 0.165,
+        "palette": [
+          {
+            "hex": "#322024",
+            "share": 0.264
+          },
+          {
+            "hex": "#e5d9d0",
+            "share": 0.23
+          },
+          {
+            "hex": "#ae837d",
+            "share": 0.188
+          },
+          {
+            "hex": "#f2eae4",
+            "share": 0.168
+          },
+          {
+            "hex": "#f4f1f0",
+            "share": 0.151
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

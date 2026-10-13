@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e04d8238-53bb-47a2-b2e2-0a863ef8adbb",
+      "release_title": "I Believe I Can Fly",
+      "release_date": "1996",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9dce2854-f3e6-4ae3-b017-bc5be11c761f/13872214652-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/9dce2854-f3e6-4ae3-b017-bc5be11c761f",
+      "image_id": "13872214652",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        435
+      ],
+      "measures": {
+        "brightness": 0.392,
+        "saturation": 0.263,
+        "dark_share": 0.16,
+        "palette": [
+          {
+            "hex": "#604e56",
+            "share": 0.239
+          },
+          {
+            "hex": "#372729",
+            "share": 0.219
+          },
+          {
+            "hex": "#b0a9ab",
+            "share": 0.216
+          },
+          {
+            "hex": "#2f2120",
+            "share": 0.206
+          },
+          {
+            "hex": "#522b2f",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1f89240e-f941-3f71-a53c-8c2b346521e2",
+      "release_title": "Space Jam: Music From and Inspired by the Motion Picture",
+      "release_date": "1996-11-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Space Jam: Music from and Inspired by the Motion Picture",
+      "url": "https://coverartarchive.org/release/53f481af-4be9-47f6-a020-e755af194c65/42179567443-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/53f481af-4be9-47f6-a020-e755af194c65",
+      "image_id": 42179567443,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1197
+      ],
+      "measures": {
+        "brightness": 0.412,
+        "saturation": 0.312,
+        "dark_share": 0.233,
+        "palette": [
+          {
+            "hex": "#56547c",
+            "share": 0.26
+          },
+          {
+            "hex": "#483e5c",
+            "share": 0.248
+          },
+          {
+            "hex": "#100e13",
+            "share": 0.24
+          },
+          {
+            "hex": "#7e8498",
+            "share": 0.135
+          },
+          {
+            "hex": "#a9b9a4",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/0d/94/740d9464-ef6c-6db0-5617-ffee13f43cd0/603497870356.jpg/1200x1200bb.jpg",
+      "collection": "Space Jam (Music from and Inspired By the Motion Picture)",
+      "collection_id": 1170755018,
+      "track_id": 1170755177,
+      "artist_name": "R. Kelly",
+      "release_date": "1996-11-12T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1178,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.348,
+        "saturation": 0.498,
+        "dark_share": 0.295,
+        "palette": [
+          {
+            "hex": "#1f1c3b",
+            "share": 0.259
+          },
+          {
+            "hex": "#2c2c5d",
+            "share": 0.258
+          },
+          {
+            "hex": "#09080d",
+            "share": 0.235
+          },
+          {
+            "hex": "#5a6387",
+            "share": 0.137
+          },
+          {
+            "hex": "#91b8b0",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

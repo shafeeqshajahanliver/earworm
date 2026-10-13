@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "35cc8632-32a4-42b5-8d8d-59ade6a97ebf",
+      "release_title": "The First Time",
+      "release_date": "1990-10-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "3b5afc0a-9ae1-3f20-91fb-a3f337a03c8b",
+      "release_title": "3 Deep",
+      "release_date": "1990-10-05",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 3 Deep",
+      "url": "http://coverartarchive.org/release/8ab34a37-9885-48b5-aa23-16c2e26d3db8/5897611006-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8ab34a37-9885-48b5-aa23-16c2e26d3db8",
+      "image_id": 5897611006,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.801,
+        "saturation": 0.253,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#8fa1b4",
+            "share": 0.252
+          },
+          {
+            "hex": "#774b4b",
+            "share": 0.216
+          },
+          {
+            "hex": "#ebe3d8",
+            "share": 0.208
+          },
+          {
+            "hex": "#fcf9ed",
+            "share": 0.171
+          },
+          {
+            "hex": "#fdfdf7",
+            "share": 0.154
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/5a/84/615a842c-4b00-0928-3b18-f12ed9edd7a9/886449866748.jpg/1200x1200bb.jpg",
+      "collection": "3 Deep",
+      "collection_id": 1614280171,
+      "track_id": 1614280172,
+      "artist_name": "Surface",
+      "release_date": "1990-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.817,
+        "saturation": 0.252,
+        "dark_share": 0.037,
+        "palette": [
+          {
+            "hex": "#8099cb",
+            "share": 0.237
+          },
+          {
+            "hex": "#754150",
+            "share": 0.228
+          },
+          {
+            "hex": "#e2e2e6",
+            "share": 0.217
+          },
+          {
+            "hex": "#f3f2f6",
+            "share": 0.185
+          },
+          {
+            "hex": "#faf9fd",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

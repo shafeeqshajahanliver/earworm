@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "ccd9ca04-0671-3a7d-a24e-8c159b6ccc1f",
+      "release_title": "Happy Nation",
+      "release_date": "1992",
+      "release_country": "ZA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Happy Nation",
+      "url": "https://coverartarchive.org/release/4c2299db-b339-38d8-b57f-bff923e37741/999792669-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4c2299db-b339-38d8-b57f-bff923e37741",
+      "image_id": 999792669,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.356,
+        "saturation": 0.197,
+        "dark_share": 0.464,
+        "palette": [
+          {
+            "hex": "#b0a972",
+            "share": 0.233
+          },
+          {
+            "hex": "#4c564e",
+            "share": 0.218
+          },
+          {
+            "hex": "#272726",
+            "share": 0.199
+          },
+          {
+            "hex": "#2a2c2a",
+            "share": 0.19
+          },
+          {
+            "hex": "#242726",
+            "share": 0.159
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/fb/fd/a8/fbfda872-a03c-4c01-c3f1-8e185c081f7b/cover.jpg/1200x1200bb.jpg",
+      "collection": "Happy Nation (U.S. Version) [Remastered]",
+      "collection_id": 964222499,
+      "track_id": 964223385,
+      "artist_name": "Ace of Base",
+      "release_date": "1992-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.523,
+        "saturation": 0.276,
+        "dark_share": 0.348,
+        "palette": [
+          {
+            "hex": "#f9efd7",
+            "share": 0.291
+          },
+          {
+            "hex": "#0a0b0b",
+            "share": 0.29
+          },
+          {
+            "hex": "#8f9c61",
+            "share": 0.193
+          },
+          {
+            "hex": "#8f4146",
+            "share": 0.124
+          },
+          {
+            "hex": "#191d1a",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

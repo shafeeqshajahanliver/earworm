@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "dbd9867a-36fb-3516-a705-d026f8341f97",
+      "release_title": "Nice & Slow",
+      "release_date": "1997",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/98369d52-ca73-46f2-b61c-fbdee10c4bba/36311234310-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/98369d52-ca73-46f2-b61c-fbdee10c4bba",
+      "image_id": 36311234310,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        588
+      ],
+      "measures": {
+        "brightness": 0.208,
+        "saturation": 0.77,
+        "dark_share": 0.712,
+        "palette": [
+          {
+            "hex": "#090702",
+            "share": 0.335
+          },
+          {
+            "hex": "#050501",
+            "share": 0.272
+          },
+          {
+            "hex": "#75410e",
+            "share": 0.139
+          },
+          {
+            "hex": "#180e05",
+            "share": 0.138
+          },
+          {
+            "hex": "#d69c46",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1977b74d-07f2-317c-a56e-7cb72f469fa2",
+      "release_title": "My Way",
+      "release_date": "1997",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: My Way",
+      "url": "http://coverartarchive.org/release/77a57b42-30b3-3041-9131-bca62a66e810/1908272625-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/77a57b42-30b3-3041-9131-bca62a66e810",
+      "image_id": 1908272625,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        512,
+        509
+      ],
+      "measures": {
+        "brightness": 0.298,
+        "saturation": 0.116,
+        "dark_share": 0.481,
+        "palette": [
+          {
+            "hex": "#2a2a2b",
+            "share": 0.315
+          },
+          {
+            "hex": "#242426",
+            "share": 0.24
+          },
+          {
+            "hex": "#606571",
+            "share": 0.182
+          },
+          {
+            "hex": "#3c3d40",
+            "share": 0.166
+          },
+          {
+            "hex": "#a8a29c",
+            "share": 0.098
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/ff/a3/3fffa34f-4699-a646-c175-c936446fc540/dj.rxuxuefh.jpg/1200x1200bb.jpg",
+      "collection": "My Way",
+      "collection_id": 278845426,
+      "track_id": 278845479,
+      "artist_name": "USHER",
+      "release_date": "1997-09-16T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.233,
+        "saturation": 0.368,
+        "dark_share": 0.602,
+        "palette": [
+          {
+            "hex": "#0e0810",
+            "share": 0.285
+          },
+          {
+            "hex": "#060508",
+            "share": 0.273
+          },
+          {
+            "hex": "#6a596b",
+            "share": 0.172
+          },
+          {
+            "hex": "#2e2130",
+            "share": 0.163
+          },
+          {
+            "hex": "#b6a29e",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

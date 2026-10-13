@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "93075ecf-1f68-3055-bb29-b9706c5f6fc2",
+      "release_title": "When I'm Gone",
+      "release_date": "2002",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/675fbd9c-e0f9-4b45-8be4-e91a4ddf2974/35959005024-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/675fbd9c-e0f9-4b45-8be4-e91a4ddf2974",
+      "image_id": 35959005024,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.649,
+        "saturation": 0.768,
+        "dark_share": 0.061,
+        "palette": [
+          {
+            "hex": "#aa1d1f",
+            "share": 0.288
+          },
+          {
+            "hex": "#4d0b0c",
+            "share": 0.259
+          },
+          {
+            "hex": "#da9838",
+            "share": 0.225
+          },
+          {
+            "hex": "#bd5c32",
+            "share": 0.154
+          },
+          {
+            "hex": "#e7c063",
+            "share": 0.074
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8f4d4f05-36ed-3c81-86a7-aae2a03b1520",
+      "release_title": "Away From the Sun",
+      "release_date": "2002",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Away from the Sun",
+      "url": "http://coverartarchive.org/release/d70819f2-bf13-3f36-b7bd-b7d94c80720e/1040896884-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d70819f2-bf13-3f36-b7bd-b7d94c80720e",
+      "image_id": 1040896884,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        953,
+        953
+      ],
+      "measures": {
+        "brightness": 0.088,
+        "saturation": 0.086,
+        "dark_share": 0.862,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.805
+          },
+          {
+            "hex": "#b7a896",
+            "share": 0.083
+          },
+          {
+            "hex": "#36190f",
+            "share": 0.073
+          },
+          {
+            "hex": "#040000",
+            "share": 0.034
+          },
+          {
+            "hex": "#000001",
+            "share": 0.004
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/c0/0d/0ac00d65-4327-29b1-6a1e-4f1e2684d758/06UMGIM23627.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Away from the Sun",
+      "collection_id": 1440739556,
+      "track_id": 1440739780,
+      "artist_name": "3 Doors Down",
+      "release_date": "2002-10-21T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "measures": {
+        "brightness": 0.136,
+        "saturation": 0.47,
+        "dark_share": 0.831,
+        "palette": [
+          {
+            "hex": "#030406",
+            "share": 0.776
+          },
+          {
+            "hex": "#997c6b",
+            "share": 0.138
+          },
+          {
+            "hex": "#090404",
+            "share": 0.058
+          },
+          {
+            "hex": "#010102",
+            "share": 0.02
+          },
+          {
+            "hex": "#010406",
+            "share": 0.009
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e996bf9e-1262-3206-af5b-8d0dad2f12e7",
+      "release_title": "Informer",
+      "release_date": "1992",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ead766d6-93be-45b2-8d17-be130efc8d9a/28279725109-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ead766d6-93be-45b2-8d17-be130efc8d9a",
+      "image_id": 28279725109,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        599,
+        526
+      ],
+      "measures": {
+        "brightness": 0.436,
+        "saturation": 0.252,
+        "dark_share": 0.13,
+        "palette": [
+          {
+            "hex": "#d6c6bd",
+            "share": 0.249
+          },
+          {
+            "hex": "#352827",
+            "share": 0.199
+          },
+          {
+            "hex": "#312626",
+            "share": 0.197
+          },
+          {
+            "hex": "#78574d",
+            "share": 0.193
+          },
+          {
+            "hex": "#3d2b28",
+            "share": 0.162
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "155b1591-d66f-3481-9ca1-62f2a11e22aa",
+      "release_title": "12 Inches of Snow",
+      "release_date": "1993-01-19",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 12 Inches of Snow",
+      "url": "https://coverartarchive.org/release/0df6450b-1029-452e-92a6-13ebb8eda436/3718478096-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0df6450b-1029-452e-92a6-13ebb8eda436",
+      "image_id": 3718478096,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.622,
+        "saturation": 0.363,
+        "dark_share": 0.228,
+        "palette": [
+          {
+            "hex": "#d98c57",
+            "share": 0.294
+          },
+          {
+            "hex": "#0d0b09",
+            "share": 0.286
+          },
+          {
+            "hex": "#f9f5f7",
+            "share": 0.15
+          },
+          {
+            "hex": "#e6d7d5",
+            "share": 0.148
+          },
+          {
+            "hex": "#9f562b",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/89/9f/b3/mzi.svfldmrc.jpg/1200x1200bb.jpg",
+      "collection": "12 Inches of Snow",
+      "collection_id": 275024906,
+      "track_id": 275025196,
+      "artist_name": "Snow",
+      "release_date": "1992-09-30T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.448,
+        "saturation": 0.441,
+        "dark_share": 0.312,
+        "palette": [
+          {
+            "hex": "#0c0807",
+            "share": 0.301
+          },
+          {
+            "hex": "#ad5027",
+            "share": 0.257
+          },
+          {
+            "hex": "#908178",
+            "share": 0.183
+          },
+          {
+            "hex": "#5d311f",
+            "share": 0.156
+          },
+          {
+            "hex": "#c8c1ba",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

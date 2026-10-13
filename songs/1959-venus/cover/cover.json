@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4a628ffc-4080-3462-ae6f-e57d31022f71",
+      "release_title": "Venus / I’m Broke",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/18924ce3-3ca0-4005-9108-65c869285fe5/10258194068-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/18924ce3-3ca0-4005-9108-65c869285fe5",
+      "image_id": 10258194068,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        597
+      ],
+      "measures": {
+        "brightness": 0.7,
+        "saturation": 0.235,
+        "dark_share": 0.031,
+        "palette": [
+          {
+            "hex": "#819aa9",
+            "share": 0.42
+          },
+          {
+            "hex": "#d7cec3",
+            "share": 0.183
+          },
+          {
+            "hex": "#5b6167",
+            "share": 0.154
+          },
+          {
+            "hex": "#ede6d8",
+            "share": 0.126
+          },
+          {
+            "hex": "#a0aab2",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/6f/5a/d56f5abe-8260-adc5-0ea3-44a2675bdbd4/mzi.szmcizht.jpg/1200x1200bb.jpg",
+      "collection": "Frankie Avalon: From the Vault, Vol. 1",
+      "collection_id": 208114375,
+      "track_id": 208115171,
+      "artist_name": "Frankie Avalon",
+      "release_date": "1959-02-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.217,
+        "saturation": 0.142,
+        "dark_share": 0.635,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.394
+          },
+          {
+            "hex": "#aaa88a",
+            "share": 0.269
+          },
+          {
+            "hex": "#010101",
+            "share": 0.191
+          },
+          {
+            "hex": "#312e22",
+            "share": 0.141
+          },
+          {
+            "hex": "#000101",
+            "share": 0.005
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

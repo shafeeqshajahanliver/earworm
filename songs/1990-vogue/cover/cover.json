@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "beea9671-29f9-3ddf-aeca-4033816735bf",
+      "release_title": "Vogue",
+      "release_date": "1990",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8fe151de-5036-43e9-b744-cfadde390db5/1559492011-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/8fe151de-5036-43e9-b744-cfadde390db5",
+      "image_id": "1559492011",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.837,
+        "saturation": 0.169,
+        "dark_share": 0.094,
+        "palette": [
+          {
+            "hex": "#fbfbfb",
+            "share": 0.514
+          },
+          {
+            "hex": "#a38e6d",
+            "share": 0.297
+          },
+          {
+            "hex": "#fbfbf7",
+            "share": 0.166
+          },
+          {
+            "hex": "#fdfdfd",
+            "share": 0.012
+          },
+          {
+            "hex": "#f9fcfc",
+            "share": 0.011
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f60b509f-ab71-31ee-8dc1-2f88df9097ab",
+      "release_title": "I’m Breathless",
+      "release_date": "1990-05-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: I'm Breathless",
+      "url": "http://coverartarchive.org/release/8a842b28-28a4-4e5b-8fd7-7db736dd21d2/24536350938-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8a842b28-28a4-4e5b-8fd7-7db736dd21d2",
+      "image_id": 24536350938,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1178,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.379,
+        "saturation": 0.396,
+        "dark_share": 0.484,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.363
+          },
+          {
+            "hex": "#e7b772",
+            "share": 0.302
+          },
+          {
+            "hex": "#7b5e44",
+            "share": 0.165
+          },
+          {
+            "hex": "#170c0e",
+            "share": 0.121
+          },
+          {
+            "hex": "#000d1e",
+            "share": 0.05
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/c1/fd/9ac1fdc9-bc47-2ed9-f84a-a272caf5a6cf/mzi.rybubacs.jpg/1200x1200bb.jpg",
+      "collection": "I'm Breathless (Music from and Inspired By the Film Dick Tracy)",
+      "collection_id": 83371916,
+      "track_id": 83371738,
+      "artist_name": "Madonna",
+      "release_date": "1990-03-27T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.398,
+        "saturation": 0.352,
+        "dark_share": 0.471,
+        "palette": [
+          {
+            "hex": "#e7c192",
+            "share": 0.288
+          },
+          {
+            "hex": "#100c0d",
+            "share": 0.215
+          },
+          {
+            "hex": "#09090a",
+            "share": 0.178
+          },
+          {
+            "hex": "#7e6355",
+            "share": 0.162
+          },
+          {
+            "hex": "#261c1d",
+            "share": 0.156
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1df6c8f7-331d-3219-9eca-1df97816a937",
+      "release_title": "...Baby One More Time",
+      "release_date": "1998",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/b1659fce-eb49-4570-9a90-12aaae6c49ae/12099409887-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b1659fce-eb49-4570-9a90-12aaae6c49ae",
+      "image_id": "12099409887",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.462,
+        "saturation": 0.515,
+        "dark_share": 0.199,
+        "palette": [
+          {
+            "hex": "#55252b",
+            "share": 0.273
+          },
+          {
+            "hex": "#1e1218",
+            "share": 0.231
+          },
+          {
+            "hex": "#923e37",
+            "share": 0.216
+          },
+          {
+            "hex": "#bb6b4e",
+            "share": 0.161
+          },
+          {
+            "hex": "#dbaf89",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "faeb8741-2ca0-3ca6-8a1a-70bab1e67c82",
+      "release_title": "…Baby One More Time",
+      "release_date": "1999-01-12",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: ...Baby One More Time",
+      "url": "https://coverartarchive.org/release/8ae665e5-84b8-4085-9d88-e3eab2d9ca65/15777260849-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8ae665e5-84b8-4085-9d88-e3eab2d9ca65",
+      "image_id": 15777260849,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.815,
+        "saturation": 0.368,
+        "dark_share": 0.02,
+        "palette": [
+          {
+            "hex": "#8b3022",
+            "share": 0.241
+          },
+          {
+            "hex": "#c38766",
+            "share": 0.238
+          },
+          {
+            "hex": "#f7dde0",
+            "share": 0.211
+          },
+          {
+            "hex": "#f3d3d6",
+            "share": 0.168
+          },
+          {
+            "hex": "#f7e3e6",
+            "share": 0.142
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/1200x1200bb.jpg",
+      "collection": "...Baby One More Time (Deluxe Version)",
+      "collection_id": 273143723,
+      "track_id": 273143820,
+      "artist_name": "Britney Spears",
+      "release_date": "1998-09-29T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.814,
+        "saturation": 0.371,
+        "dark_share": 0.012,
+        "palette": [
+          {
+            "hex": "#95432f",
+            "share": 0.239
+          },
+          {
+            "hex": "#edbabf",
+            "share": 0.223
+          },
+          {
+            "hex": "#c98a70",
+            "share": 0.212
+          },
+          {
+            "hex": "#efc4c7",
+            "share": 0.202
+          },
+          {
+            "hex": "#f0c9cc",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

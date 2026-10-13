@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1f5310f1-e62a-38f6-b4fe-885a81d435b3",
+      "release_title": "Always Be My Baby",
+      "release_date": "1996",
+      "release_country": "KR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8aa545a5-cc63-4652-a83e-0055eb00205d/36243293898-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8aa545a5-cc63-4652-a83e-0055eb00205d",
+      "image_id": 36243293898,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.35,
+        "saturation": 0.102,
+        "dark_share": 0.487,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.344
+          },
+          {
+            "hex": "#e1ded7",
+            "share": 0.258
+          },
+          {
+            "hex": "#777772",
+            "share": 0.227
+          },
+          {
+            "hex": "#111111",
+            "share": 0.089
+          },
+          {
+            "hex": "#010001",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "bf0126a1-b79c-3c9c-a892-f4bf4fac2bb0",
+      "release_title": "Daydream",
+      "release_date": "1995",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Daydream",
+      "url": "https://coverartarchive.org/release/943c5259-a2af-4826-a7b8-cc5821d1a793/45561069081-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/943c5259-a2af-4826-a7b8-cc5821d1a793",
+      "image_id": 45561069081,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        595,
+        600
+      ],
+      "measures": {
+        "brightness": 0.324,
+        "saturation": 0.052,
+        "dark_share": 0.548,
+        "palette": [
+          {
+            "hex": "#bcb6b3",
+            "share": 0.253
+          },
+          {
+            "hex": "#242323",
+            "share": 0.216
+          },
+          {
+            "hex": "#1e1e1e",
+            "share": 0.21
+          },
+          {
+            "hex": "#4b4542",
+            "share": 0.173
+          },
+          {
+            "hex": "#202020",
+            "share": 0.148
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/c7/07/01c70785-7c45-a82b-7d9a-49f521e4d373/074646670026.jpg/1200x1200bb.jpg",
+      "collection": "Daydream",
+      "collection_id": 169962059,
+      "track_id": 169962272,
+      "artist_name": "Mariah Carey",
+      "release_date": "1995-09-26T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.289,
+        "saturation": 0.116,
+        "dark_share": 0.569,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.374
+          },
+          {
+            "hex": "#d4d4cf",
+            "share": 0.257
+          },
+          {
+            "hex": "#4d4842",
+            "share": 0.186
+          },
+          {
+            "hex": "#090605",
+            "share": 0.126
+          },
+          {
+            "hex": "#010000",
+            "share": 0.058
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

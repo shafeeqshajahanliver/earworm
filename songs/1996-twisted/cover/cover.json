@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "052b6ecb-85a9-3d29-b754-f043a6f16eb2",
+      "release_title": "Twisted",
+      "release_date": "1996",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/203e1272-4244-4479-bd43-ecfd561752bf/26314683095-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/203e1272-4244-4479-bd43-ecfd561752bf",
+      "image_id": 26314683095,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.097,
+        "saturation": 0.422,
+        "dark_share": 0.878,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.511
+          },
+          {
+            "hex": "#080203",
+            "share": 0.189
+          },
+          {
+            "hex": "#040001",
+            "share": 0.146
+          },
+          {
+            "hex": "#7f5535",
+            "share": 0.104
+          },
+          {
+            "hex": "#000001",
+            "share": 0.049
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "20509801-4e2d-371a-bcc4-5e38681e1b5a",
+      "release_title": "Keith Sweat",
+      "release_date": "1996-06-25",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Keith Sweat",
+      "url": "http://coverartarchive.org/release/c6a3b16c-4b90-41d4-ac52-faef6160ca6d/15958489215-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/c6a3b16c-4b90-41d4-ac52-faef6160ca6d",
+      "image_id": 15958489215,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.342,
+        "saturation": 0.312,
+        "dark_share": 0.351,
+        "palette": [
+          {
+            "hex": "#222424",
+            "share": 0.284
+          },
+          {
+            "hex": "#362c29",
+            "share": 0.242
+          },
+          {
+            "hex": "#623d35",
+            "share": 0.189
+          },
+          {
+            "hex": "#804f41",
+            "share": 0.172
+          },
+          {
+            "hex": "#b47459",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/0a/04/6d0a0471-a0b8-b143-428d-449e600b5516/s06.snrfggjm.jpg/1200x1200bb.jpg",
+      "collection": "Keith Sweat",
+      "collection_id": 30372370,
+      "track_id": 30372391,
+      "artist_name": "Keith Sweat",
+      "release_date": "1996-06-04T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.343,
+        "saturation": 0.299,
+        "dark_share": 0.363,
+        "palette": [
+          {
+            "hex": "#212424",
+            "share": 0.279
+          },
+          {
+            "hex": "#342d2b",
+            "share": 0.251
+          },
+          {
+            "hex": "#633c35",
+            "share": 0.184
+          },
+          {
+            "hex": "#814e3f",
+            "share": 0.172
+          },
+          {
+            "hex": "#b57458",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

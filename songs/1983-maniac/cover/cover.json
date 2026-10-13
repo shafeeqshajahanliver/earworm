@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "24bf8d6c-4854-3657-a098-d86885ebc358",
+      "release_title": "Maniac",
+      "release_date": "1983",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/945c9a87-7d2d-4596-8514-55993ac2534b/25053381510-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/945c9a87-7d2d-4596-8514-55993ac2534b",
+      "image_id": 25053381510,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.575,
+        "saturation": 0.379,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#cb4337",
+            "share": 0.373
+          },
+          {
+            "hex": "#403b33",
+            "share": 0.324
+          },
+          {
+            "hex": "#757e76",
+            "share": 0.162
+          },
+          {
+            "hex": "#b6cabe",
+            "share": 0.104
+          },
+          {
+            "hex": "#855649",
+            "share": 0.037
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/4c/b8/03/mzi.wwezuddf.jpg/1200x1200bb.jpg",
+      "collection": "Maniac (feat. Sharp & M)",
+      "collection_id": 276979670,
+      "track_id": 276979677,
+      "artist_name": "Michael Sembello",
+      "release_date": "2008-04-08T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.864,
+        "saturation": 0.108,
+        "dark_share": 0.037,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.631
+          },
+          {
+            "hex": "#5a3a39",
+            "share": 0.16
+          },
+          {
+            "hex": "#e1c5b2",
+            "share": 0.152
+          },
+          {
+            "hex": "#fffffd",
+            "share": 0.043
+          },
+          {
+            "hex": "#fdffff",
+            "share": 0.015
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

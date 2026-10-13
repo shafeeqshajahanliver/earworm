@@ -1,0 +1,68 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "713e5bb8-1afd-4230-87f9-f7fa482e1f1f",
+      "release_title": "Total Eclipse of the Heart",
+      "release_date": "1983",
+      "release_country": "PH",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "c729dbd6-b3a8-402c-8682-ae425e391802",
+      "release_title": "Faster Than the Speed of Night",
+      "release_date": "1983",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Faster Than the Speed of Night",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/1200x1200bb.jpg",
+      "collection": "Faster Than the Speed of Night",
+      "collection_id": 1504111277,
+      "track_id": 1504111288,
+      "artist_name": "Bonnie Tyler",
+      "release_date": "1983-02-11T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.357,
+        "saturation": 0.185,
+        "dark_share": 0.43,
+        "palette": [
+          {
+            "hex": "#655c4c",
+            "share": 0.289
+          },
+          {
+            "hex": "#221d1f",
+            "share": 0.236
+          },
+          {
+            "hex": "#b7ada1",
+            "share": 0.202
+          },
+          {
+            "hex": "#1d181a",
+            "share": 0.171
+          },
+          {
+            "hex": "#312d2c",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

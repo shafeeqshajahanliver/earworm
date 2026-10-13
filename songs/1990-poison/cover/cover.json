@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "21115ba2-4c4e-44e3-bf4e-ff48e4f62edd",
+      "release_title": "Gangsta",
+      "release_date": "1992",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9f9e3ab6-6dc5-42f1-a072-15bb91cacd69/37609216721-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9f9e3ab6-6dc5-42f1-a072-15bb91cacd69",
+      "image_id": 37609216721,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        585
+      ],
+      "measures": {
+        "brightness": 0.774,
+        "saturation": 0.44,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#4f6d84",
+            "share": 0.273
+          },
+          {
+            "hex": "#e3c771",
+            "share": 0.237
+          },
+          {
+            "hex": "#e5ca71",
+            "share": 0.213
+          },
+          {
+            "hex": "#e6ce76",
+            "share": 0.165
+          },
+          {
+            "hex": "#bdb683",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "47b883c4-ec27-3a2f-b9d3-de3a43f6cbcd",
+      "release_title": "Poison",
+      "release_date": "1990-03-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Poison",
+      "url": "http://coverartarchive.org/release/7a4b0a2c-65e3-437f-9162-aba88d93aae3/10830402591-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/7a4b0a2c-65e3-437f-9162-aba88d93aae3",
+      "image_id": "10830402591",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.691,
+        "saturation": 0.125,
+        "dark_share": 0.12,
+        "palette": [
+          {
+            "hex": "#9c8985",
+            "share": 0.255
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.242
+          },
+          {
+            "hex": "#412e30",
+            "share": 0.235
+          },
+          {
+            "hex": "#d9cece",
+            "share": 0.194
+          },
+          {
+            "hex": "#fefffd",
+            "share": 0.074
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/2e/08/042e08e8-a12e-879a-93bc-e5e6c26f8bbd/16UMGIM87700.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Poison (Expanded Edition)",
+      "collection_id": 1481610193,
+      "track_id": 1481610606,
+      "artist_name": "Bell Biv DeVoe",
+      "release_date": "1990-02-24T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.624,
+        "saturation": 0.237,
+        "dark_share": 0.19,
+        "palette": [
+          {
+            "hex": "#a8515d",
+            "share": 0.296
+          },
+          {
+            "hex": "#191416",
+            "share": 0.258
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.163
+          },
+          {
+            "hex": "#ba9aa2",
+            "share": 0.156
+          },
+          {
+            "hex": "#faf9f9",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3e54dbfa-b99f-4b3d-a4c3-83dca59a12e2",
+      "release_title": "Never Gonna Give You Up (Pianoforte)",
+      "release_date": "1987",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "082c6aff-a7cc-36e0-a960-35a578ecd937",
+      "release_title": "Whenever You Need Somebody",
+      "release_date": "2022",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Whenever You Need Somebody",
+      "url": "http://coverartarchive.org/release/bf9e91ea-8029-4a04-a26a-224e00a83266/30721131344-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/bf9e91ea-8029-4a04-a26a-224e00a83266",
+      "image_id": 30721131344,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1188
+      ],
+      "measures": {
+        "brightness": 0.523,
+        "saturation": 0.2,
+        "dark_share": 0.147,
+        "palette": [
+          {
+            "hex": "#2d2c2b",
+            "share": 0.283
+          },
+          {
+            "hex": "#d3d6d3",
+            "share": 0.245
+          },
+          {
+            "hex": "#888695",
+            "share": 0.236
+          },
+          {
+            "hex": "#67515e",
+            "share": 0.158
+          },
+          {
+            "hex": "#444252",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/de/eb/63/deeb63c1-7bc0-9153-cfa3-fd9e4929aacf/4050538826562.jpg/1200x1200bb.jpg",
+      "collection": "Whenever You Need Somebody (2022 Remaster)",
+      "collection_id": 1624945511,
+      "track_id": 1624945512,
+      "artist_name": "Rick Astley",
+      "release_date": "1987-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.481,
+        "saturation": 0.232,
+        "dark_share": 0.285,
+        "palette": [
+          {
+            "hex": "#1c1e24",
+            "share": 0.288
+          },
+          {
+            "hex": "#40323e",
+            "share": 0.237
+          },
+          {
+            "hex": "#816d85",
+            "share": 0.192
+          },
+          {
+            "hex": "#cbb3b9",
+            "share": 0.149
+          },
+          {
+            "hex": "#eadcd5",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

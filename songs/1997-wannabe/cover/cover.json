@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b50ee798-2b55-3c1b-9d67-f8d0d8395732",
+      "release_title": "Wannabe",
+      "release_date": "1996-07-03",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/4b36f652-2032-45ab-9f4b-5c1af87f6f47/6622620891-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/4b36f652-2032-45ab-9f4b-5c1af87f6f47",
+      "image_id": "6622620891",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        433
+      ],
+      "measures": {
+        "brightness": 0.951,
+        "saturation": 0.024,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#fafafa",
+            "share": 0.537
+          },
+          {
+            "hex": "#fafaf8",
+            "share": 0.239
+          },
+          {
+            "hex": "#c0bdc7",
+            "share": 0.098
+          },
+          {
+            "hex": "#f9fbfa",
+            "share": 0.072
+          },
+          {
+            "hex": "#fbfbfa",
+            "share": 0.054
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "4180845c-8700-3fda-af8f-0b9f3a932009",
+      "release_title": "Spice",
+      "release_date": "1996-09-19",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Spice",
+      "url": "http://coverartarchive.org/release/913b3fba-0634-4ee0-aaac-4f84798a7701/36129837759-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/913b3fba-0634-4ee0-aaac-4f84798a7701",
+      "image_id": 36129837759,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.95,
+        "saturation": 0.071,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.529
+          },
+          {
+            "hex": "#fefefc",
+            "share": 0.153
+          },
+          {
+            "hex": "#b78d7a",
+            "share": 0.129
+          },
+          {
+            "hex": "#fffffc",
+            "share": 0.102
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.087
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/85/6e/88856e99-7323-7737-3634-435da9fcefa0/13UABIM59225.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Spice",
+      "collection_id": 723398173,
+      "track_id": 723398294,
+      "artist_name": "Spice Girls",
+      "release_date": "1996-06-26T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.964,
+        "saturation": 0.057,
+        "dark_share": 0.006,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.853
+          },
+          {
+            "hex": "#964e43",
+            "share": 0.068
+          },
+          {
+            "hex": "#e6cead",
+            "share": 0.057
+          },
+          {
+            "hex": "#fffffd",
+            "share": 0.02
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.002
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "86c1e4f7-ced2-3402-b3bd-ba7441b3b0a7",
+      "release_title": "Kiss on My List",
+      "release_date": "1980",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a1cb3e62-3183-485a-a049-a2fd387dda52/15267753693-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/a1cb3e62-3183-485a-a049-a2fd387dda52",
+      "image_id": 15267753693,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        491,
+        500
+      ],
+      "measures": {
+        "brightness": 0.524,
+        "saturation": 0.4,
+        "dark_share": 0.272,
+        "palette": [
+          {
+            "hex": "#05080b",
+            "share": 0.31
+          },
+          {
+            "hex": "#a10d13",
+            "share": 0.224
+          },
+          {
+            "hex": "#c7c7cd",
+            "share": 0.174
+          },
+          {
+            "hex": "#7b747b",
+            "share": 0.165
+          },
+          {
+            "hex": "#ededf1",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7e83f916-6e93-3ed0-8ef2-53860688e27b",
+      "release_title": "Voices",
+      "release_date": "1980-07-29",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Voices",
+      "url": "http://coverartarchive.org/release/a8ece185-cc3b-4136-99d7-7e7d5cfe341b/1260321767-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a8ece185-cc3b-4136-99d7-7e7d5cfe341b",
+      "image_id": "1260321767",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        319
+      ],
+      "measures": {
+        "brightness": 0.558,
+        "saturation": 0.117,
+        "dark_share": 0.206,
+        "palette": [
+          {
+            "hex": "#bebaab",
+            "share": 0.286
+          },
+          {
+            "hex": "#141413",
+            "share": 0.255
+          },
+          {
+            "hex": "#8e8d83",
+            "share": 0.178
+          },
+          {
+            "hex": "#cfc9b7",
+            "share": 0.158
+          },
+          {
+            "hex": "#ded8c6",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/96/ad/e096ad2e-7ec8-480e-8ddf-d9aa469d4610/828765861427.jpg/1200x1200bb.jpg",
+      "collection": "Voices",
+      "collection_id": 217764311,
+      "track_id": 217764626,
+      "artist_name": "Daryl Hall & John Oates",
+      "release_date": "1980-07-29T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.718,
+        "saturation": 0.042,
+        "dark_share": 0.14,
+        "palette": [
+          {
+            "hex": "#c4c0bf",
+            "share": 0.273
+          },
+          {
+            "hex": "#e1dedd",
+            "share": 0.234
+          },
+          {
+            "hex": "#423e3c",
+            "share": 0.212
+          },
+          {
+            "hex": "#f7f6f6",
+            "share": 0.145
+          },
+          {
+            "hex": "#f3f1f1",
+            "share": 0.136
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

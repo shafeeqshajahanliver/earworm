@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "43e1d31b-a79d-3ab8-8247-97cbbb539811",
+      "release_title": "Kiss From a Rose",
+      "release_date": "1994",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3868fe56-4eb5-42ea-89a1-b82fe4048961/13920385100-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/3868fe56-4eb5-42ea-89a1-b82fe4048961",
+      "image_id": "13920385100",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        433
+      ],
+      "measures": {
+        "brightness": 0.736,
+        "saturation": 0.453,
+        "dark_share": 0.029,
+        "palette": [
+          {
+            "hex": "#3e383d",
+            "share": 0.313
+          },
+          {
+            "hex": "#fbde36",
+            "share": 0.312
+          },
+          {
+            "hex": "#f7e38c",
+            "share": 0.16
+          },
+          {
+            "hex": "#f8ecb6",
+            "share": 0.15
+          },
+          {
+            "hex": "#b1944f",
+            "share": 0.065
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3bb226b7-db0b-3288-bea4-e2fecbe20c20",
+      "release_title": "Seal",
+      "release_date": "1994",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Seal (Seal II)",
+      "url": "https://coverartarchive.org/release/d93b507b-883e-4501-825b-ae555517c021/33742931454-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d93b507b-883e-4501-825b-ae555517c021",
+      "image_id": 33742931454,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.846,
+        "saturation": 0.03,
+        "dark_share": 0.119,
+        "palette": [
+          {
+            "hex": "#f8f8f7",
+            "share": 0.272
+          },
+          {
+            "hex": "#fcfdfb",
+            "share": 0.23
+          },
+          {
+            "hex": "#fbfbfa",
+            "share": 0.176
+          },
+          {
+            "hex": "#f9fcfb",
+            "share": 0.165
+          },
+          {
+            "hex": "#606060",
+            "share": 0.156
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/e5/17/48e51761-a646-2168-a1f6-619bbb6c8487/603497824298.jpg/1200x1200bb.jpg",
+      "collection": "Seal (Deluxe Edition)",
+      "collection_id": 1738966354,
+      "track_id": 1738966366,
+      "artist_name": "Seal",
+      "release_date": "1994-05-23T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.898,
+        "saturation": 0.008,
+        "dark_share": 0.073,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.839
+          },
+          {
+            "hex": "#282628",
+            "share": 0.088
+          },
+          {
+            "hex": "#585454",
+            "share": 0.037
+          },
+          {
+            "hex": "#c9c6c5",
+            "share": 0.024
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.012
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

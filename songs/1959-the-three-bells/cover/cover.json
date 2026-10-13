@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "435cb186-145e-4215-ba4f-f148c06564dd",
+      "release_title": "The Three Bells",
+      "release_date": "1959",
+      "release_country": "IT",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "6458e814-d697-4c2a-92de-1ff922aff8b7",
+      "release_title": "Sweet Sounds By The Browns",
+      "release_date": "1959",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Sweet Sounds by The Browns",
+      "url": "https://coverartarchive.org/release/339f1746-29d0-408c-9160-7466c03aa268/17929599691-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/339f1746-29d0-408c-9160-7466c03aa268",
+      "image_id": 17929599691,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        582,
+        600
+      ],
+      "measures": {
+        "brightness": 0.383,
+        "saturation": 0.439,
+        "dark_share": 0.281,
+        "palette": [
+          {
+            "hex": "#1d3a3d",
+            "share": 0.282
+          },
+          {
+            "hex": "#121616",
+            "share": 0.244
+          },
+          {
+            "hex": "#3e6868",
+            "share": 0.218
+          },
+          {
+            "hex": "#cfc4ad",
+            "share": 0.173
+          },
+          {
+            "hex": "#90a094",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/17/be/ad/17beadcc-6699-0783-21b5-62138168c705/The_Browns_-_The_Three_Bells.jpg/1200x1200bb.jpg",
+      "collection": "The Three Bells (Remastered) - Single",
+      "collection_id": 577072974,
+      "track_id": 577073335,
+      "artist_name": "The Browns",
+      "release_date": "1946-07-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.432,
+        "saturation": 0.157,
+        "dark_share": 0.325,
+        "palette": [
+          {
+            "hex": "#dfe0db",
+            "share": 0.229
+          },
+          {
+            "hex": "#7a786a",
+            "share": 0.222
+          },
+          {
+            "hex": "#0f120e",
+            "share": 0.209
+          },
+          {
+            "hex": "#272f26",
+            "share": 0.172
+          },
+          {
+            "hex": "#3d463b",
+            "share": 0.167
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

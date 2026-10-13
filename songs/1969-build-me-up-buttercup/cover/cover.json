@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "13ce6d0e-b1db-363d-892e-e25d0321340a",
+      "release_title": "Build Me Up Buttercup / New Direction",
+      "release_date": "1968",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/15f3cff1-bb22-4218-8cc5-05e05215863b/33964296648-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/15f3cff1-bb22-4218-8cc5-05e05215863b",
+      "image_id": 33964296648,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        596,
+        600
+      ],
+      "measures": {
+        "brightness": 0.615,
+        "saturation": 0.701,
+        "dark_share": 0.209,
+        "palette": [
+          {
+            "hex": "#d2b407",
+            "share": 0.288
+          },
+          {
+            "hex": "#878027",
+            "share": 0.226
+          },
+          {
+            "hex": "#2a1a0f",
+            "share": 0.223
+          },
+          {
+            "hex": "#e0debe",
+            "share": 0.133
+          },
+          {
+            "hex": "#c6ad07",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "fe4abd50-1b96-3810-8dd7-b92094dddf74",
+      "release_title": "Build Me Up Buttercup",
+      "release_date": "1968",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Build Me Up Buttercup (U.S.)<br> The Foundations (U.K.)",
+      "url": "http://coverartarchive.org/release/995990e6-e785-429c-9ee7-3c31d82466f0/10218080143-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/995990e6-e785-429c-9ee7-3c31d82466f0",
+      "image_id": "10218080143",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.377,
+        "saturation": 0.687,
+        "dark_share": 0.584,
+        "palette": [
+          {
+            "hex": "#140000",
+            "share": 0.346
+          },
+          {
+            "hex": "#e6e0d5",
+            "share": 0.251
+          },
+          {
+            "hex": "#0b0101",
+            "share": 0.193
+          },
+          {
+            "hex": "#593926",
+            "share": 0.16
+          },
+          {
+            "hex": "#170001",
+            "share": 0.05
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/9e/8b/529e8b71-11f3-6f6a-ab53-0abc8935268e/5050159196128.jpg/1200x1200bb.jpg",
+      "collection": "Build Me Up Buttercup (The Complete Pye Collection)",
+      "collection_id": 1451974979,
+      "track_id": 1451974995,
+      "artist_name": "The Foundations",
+      "release_date": "1967-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.85,
+        "saturation": 0.385,
+        "dark_share": 0.066,
+        "palette": [
+          {
+            "hex": "#dbf354",
+            "share": 0.282
+          },
+          {
+            "hex": "#c5af9a",
+            "share": 0.264
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.242
+          },
+          {
+            "hex": "#6d4b8d",
+            "share": 0.157
+          },
+          {
+            "hex": "#fdfeef",
+            "share": 0.055
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

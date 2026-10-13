@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "7bc40e94-2cc3-3353-b162-d751e6123a4e",
+      "release_title": "Get Busy",
+      "release_date": "2003-05-12",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/79b07a2b-40f0-4c3c-9a8a-f952d9c54efc/17339734560-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/79b07a2b-40f0-4c3c-9a8a-f952d9c54efc",
+      "image_id": 17339734560,
+      "types": [
+        "Front",
+        "Liner"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        238,
+        212
+      ],
+      "measures": {
+        "brightness": 0.631,
+        "saturation": 0.292,
+        "dark_share": 0.275,
+        "palette": [
+          {
+            "hex": "#f9fdff",
+            "share": 0.344
+          },
+          {
+            "hex": "#050609",
+            "share": 0.308
+          },
+          {
+            "hex": "#795b57",
+            "share": 0.179
+          },
+          {
+            "hex": "#e6e7eb",
+            "share": 0.109
+          },
+          {
+            "hex": "#faf2f3",
+            "share": 0.06
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b7769a1d-f1d9-3657-bd7e-af597c9b61ed",
+      "release_title": "Dutty Rock",
+      "release_date": "2002",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Dutty Rock",
+      "url": "http://coverartarchive.org/release/2b7b39ef-56ae-3910-a16c-dd463a5e8758/7478626693-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/2b7b39ef-56ae-3910-a16c-dd463a5e8758",
+      "image_id": "7478626693",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.451,
+        "saturation": 0.402,
+        "dark_share": 0.315,
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.3
+          },
+          {
+            "hex": "#9c7459",
+            "share": 0.206
+          },
+          {
+            "hex": "#532825",
+            "share": 0.199
+          },
+          {
+            "hex": "#cca475",
+            "share": 0.184
+          },
+          {
+            "hex": "#e7c791",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/82/94/158294c4-e26c-ec66-6cd0-1f017db4359e/603497833917.jpg/1200x1200bb.jpg",
+      "collection": "Dutty Rock (20th Anniversary)",
+      "collection_id": 1652781992,
+      "track_id": 1652782418,
+      "artist_name": "Sean Paul",
+      "release_date": "2002-11-12T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.411,
+        "saturation": 0.462,
+        "dark_share": 0.335,
+        "palette": [
+          {
+            "hex": "#100e12",
+            "share": 0.323
+          },
+          {
+            "hex": "#b37e4f",
+            "share": 0.192
+          },
+          {
+            "hex": "#4c1626",
+            "share": 0.187
+          },
+          {
+            "hex": "#845143",
+            "share": 0.184
+          },
+          {
+            "hex": "#ca9c5c",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

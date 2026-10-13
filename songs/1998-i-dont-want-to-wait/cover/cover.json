@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4b8a0da5-f1ea-464a-b5a5-63fbb7f9e38d",
+      "release_title": "I Don't Want to Wait",
+      "release_date": "1996",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/83032241-e53b-4f6a-b040-7abe65cf4f50/24027939071-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/83032241-e53b-4f6a-b040-7abe65cf4f50",
+      "image_id": 24027939071,
+      "types": [
+        "Front",
+        "Sticker"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.704,
+        "saturation": 0.238,
+        "dark_share": 0.12,
+        "palette": [
+          {
+            "hex": "#1d1d3c",
+            "share": 0.302
+          },
+          {
+            "hex": "#e3e6ea",
+            "share": 0.245
+          },
+          {
+            "hex": "#f7eef4",
+            "share": 0.172
+          },
+          {
+            "hex": "#f9f5f8",
+            "share": 0.158
+          },
+          {
+            "hex": "#8a7ea8",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "67958d02-e721-3995-b033-36f18fb3aef2",
+      "release_title": "This Fire",
+      "release_date": "1996",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: This Fire",
+      "url": "http://coverartarchive.org/release/4c22ffc2-e79c-419b-960f-6a9f1381b360/21026190989-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4c22ffc2-e79c-419b-960f-6a9f1381b360",
+      "image_id": 21026190989,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        598
+      ],
+      "measures": {
+        "brightness": 0.343,
+        "saturation": 0.569,
+        "dark_share": 0.63,
+        "palette": [
+          {
+            "hex": "#110c20",
+            "share": 0.299
+          },
+          {
+            "hex": "#a29aa5",
+            "share": 0.253
+          },
+          {
+            "hex": "#0e0a1d",
+            "share": 0.18
+          },
+          {
+            "hex": "#0c0719",
+            "share": 0.153
+          },
+          {
+            "hex": "#452932",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/52/ad/e0/52ade08a-c698-90cd-1374-d1c51af627da/mzi.horbxgnz.jpg/1200x1200bb.jpg",
+      "collection": "This Fire",
+      "collection_id": 128104419,
+      "track_id": 128104411,
+      "artist_name": "Paula Cole",
+      "release_date": "1996-10-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.27,
+        "saturation": 0.403,
+        "dark_share": 0.647,
+        "palette": [
+          {
+            "hex": "#0f0d09",
+            "share": 0.394
+          },
+          {
+            "hex": "#a18e8d",
+            "share": 0.223
+          },
+          {
+            "hex": "#0d0b07",
+            "share": 0.14
+          },
+          {
+            "hex": "#391912",
+            "share": 0.138
+          },
+          {
+            "hex": "#170e0b",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

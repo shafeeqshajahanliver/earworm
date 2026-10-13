@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "15359f6e-f71e-31d1-9dbf-eea654ef75ee",
+      "release_title": "…if I Ever Fall in Love",
+      "release_date": "1992-12-22",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: ...If I Ever Fall in Love",
+      "url": "http://coverartarchive.org/release/9c01ccce-0cec-4027-b79f-3093f11a0770/8030498189-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9c01ccce-0cec-4027-b79f-3093f11a0770",
+      "image_id": 8030498189,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        494
+      ],
+      "measures": {
+        "brightness": 0.48,
+        "saturation": 0.639,
+        "dark_share": 0.314,
+        "palette": [
+          {
+            "hex": "#060d1c",
+            "share": 0.254
+          },
+          {
+            "hex": "#3e6699",
+            "share": 0.249
+          },
+          {
+            "hex": "#7cadaf",
+            "share": 0.211
+          },
+          {
+            "hex": "#662317",
+            "share": 0.159
+          },
+          {
+            "hex": "#1e1c20",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/09/3f/fe093f49-048b-fdd5-0d48-4e55d24470fa/00008811076221.rgb.jpg/1200x1200bb.jpg",
+      "collection": "If I Ever Fall In Love",
+      "collection_id": 1440770748,
+      "track_id": 1440771185,
+      "artist_name": "Shai",
+      "release_date": "1992-09-28T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.42,
+        "saturation": 0.435,
+        "dark_share": 0.3,
+        "palette": [
+          {
+            "hex": "#0d0e10",
+            "share": 0.29
+          },
+          {
+            "hex": "#576178",
+            "share": 0.229
+          },
+          {
+            "hex": "#462c2f",
+            "share": 0.22
+          },
+          {
+            "hex": "#71829a",
+            "share": 0.17
+          },
+          {
+            "hex": "#a9b496",
+            "share": 0.091
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "eba58f4d-bb25-45b7-afe0-f21c29b9e0cc",
+      "release_title": "'A Summer Place'",
+      "release_date": "1996",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: A Summer Place",
+      "url": "http://coverartarchive.org/release/892d2c95-6fd1-49a2-ad2a-5a2e64841314/29609770730-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/892d2c95-6fd1-49a2-ad2a-5a2e64841314",
+      "image_id": 29609770730,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        702,
+        701
+      ],
+      "measures": {
+        "brightness": 0.452,
+        "saturation": 0.529,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#3c502e",
+            "share": 0.271
+          },
+          {
+            "hex": "#566c39",
+            "share": 0.231
+          },
+          {
+            "hex": "#68552c",
+            "share": 0.217
+          },
+          {
+            "hex": "#5e7c40",
+            "share": 0.158
+          },
+          {
+            "hex": "#bfa02f",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/3c/69/9b3c69d8-6574-7d6d-3a46-fb44aa14f68a/mzi.kfsrsjgl.jpg/1200x1200bb.jpg",
+      "collection": "The Graduate (Music from the Broadway Comedy)",
+      "collection_id": 198000984,
+      "track_id": 198002275,
+      "artist_name": "Percy Faith",
+      "release_date": "1955-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.133,
+        "saturation": 0.03,
+        "dark_share": 0.834,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.804
+          },
+          {
+            "hex": "#f7f8f8",
+            "share": 0.106
+          },
+          {
+            "hex": "#506369",
+            "share": 0.06
+          },
+          {
+            "hex": "#020001",
+            "share": 0.028
+          },
+          {
+            "hex": "#000001",
+            "share": 0.002
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

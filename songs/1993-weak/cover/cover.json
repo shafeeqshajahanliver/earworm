@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "99d83046-c0b4-3731-a702-ced83c1d83b6",
+      "release_title": "It’s About Time",
+      "release_date": "1992-10-27",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: It's About Time",
+      "url": "http://coverartarchive.org/release/70c25aeb-99ba-4fa2-acda-d58fdc7b3340/26893859921-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/70c25aeb-99ba-4fa2-acda-d58fdc7b3340",
+      "image_id": 26893859921,
+      "types": [
+        "Front"
+      ],
+      "comment": "yes buy at value village",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        593
+      ],
+      "measures": {
+        "brightness": 0.276,
+        "saturation": 0.416,
+        "dark_share": 0.614,
+        "palette": [
+          {
+            "hex": "#9e8d90",
+            "share": 0.288
+          },
+          {
+            "hex": "#0d0809",
+            "share": 0.225
+          },
+          {
+            "hex": "#040303",
+            "share": 0.224
+          },
+          {
+            "hex": "#070505",
+            "share": 0.145
+          },
+          {
+            "hex": "#4b2b33",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/36/83/f33683c6-fb4e-326d-9bc6-2b25e146553c/078636607429.jpg/1200x1200bb.jpg",
+      "collection": "It's About Time",
+      "collection_id": 266799911,
+      "track_id": 266800009,
+      "artist_name": "SWV",
+      "release_date": "1992-10-27T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.295,
+        "saturation": 0.265,
+        "dark_share": 0.555,
+        "palette": [
+          {
+            "hex": "#9a9d90",
+            "share": 0.261
+          },
+          {
+            "hex": "#050707",
+            "share": 0.232
+          },
+          {
+            "hex": "#533f3c",
+            "share": 0.174
+          },
+          {
+            "hex": "#1e1717",
+            "share": 0.17
+          },
+          {
+            "hex": "#0a0c0d",
+            "share": 0.164
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+      "release_title": "After Hours",
+      "release_date": "2020-02-19",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: After Hours",
+      "url": "http://coverartarchive.org/release/19e4f6cc-ca0c-4897-8dfc-a36914b7f998/25720993837-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/19e4f6cc-ca0c-4897-8dfc-a36914b7f998",
+      "image_id": 25720993837,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.275,
+        "saturation": 0.458,
+        "dark_share": 0.481,
+        "palette": [
+          {
+            "hex": "#030405",
+            "share": 0.249
+          },
+          {
+            "hex": "#47391f",
+            "share": 0.244
+          },
+          {
+            "hex": "#90977d",
+            "share": 0.219
+          },
+          {
+            "hex": "#361a12",
+            "share": 0.145
+          },
+          {
+            "hex": "#130f0c",
+            "share": 0.144
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/3a/f7/833af71b-2e0c-3303-24f5-8f5c546c073b/20UMGIM21167.rgb.jpg/1200x1200bb.jpg",
+      "collection": "After Hours (Deluxe)",
+      "collection_id": 1505683624,
+      "track_id": 1505683980,
+      "artist_name": "The Weeknd",
+      "release_date": "2020-03-20T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.348,
+        "saturation": 0.863,
+        "dark_share": 0.242,
+        "palette": [
+          {
+            "hex": "#201b09",
+            "share": 0.296
+          },
+          {
+            "hex": "#590c03",
+            "share": 0.274
+          },
+          {
+            "hex": "#861103",
+            "share": 0.269
+          },
+          {
+            "hex": "#662811",
+            "share": 0.104
+          },
+          {
+            "hex": "#7a1b04",
+            "share": 0.057
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "5cdd45c8-7441-34ac-b22f-9103c7dedc3f",
+      "release_title": "Mack Daddy",
+      "release_date": "1992-02-04",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mack Daddy",
+      "url": "http://coverartarchive.org/release/54d00599-a2b6-4676-a5bb-328319c23a11/21181383838-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/54d00599-a2b6-4676-a5bb-328319c23a11",
+      "image_id": 21181383838,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.674,
+        "saturation": 0.078,
+        "dark_share": 0.199,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.439
+          },
+          {
+            "hex": "#24241f",
+            "share": 0.297
+          },
+          {
+            "hex": "#8e8280",
+            "share": 0.158
+          },
+          {
+            "hex": "#edeceb",
+            "share": 0.085
+          },
+          {
+            "hex": "#fdffff",
+            "share": 0.021
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d9/cd/37/d9cd3736-ce1d-f118-c02d-cb7b04893785/05099962637053.jpg/1200x1200bb.jpg",
+      "collection": "NOW That's What I Call the 90's",
+      "collection_id": 716374900,
+      "track_id": 716376092,
+      "artist_name": "Sir Mix-A-Lot",
+      "release_date": "1992-02-04T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.622,
+        "saturation": 0.476,
+        "dark_share": 0.14,
+        "palette": [
+          {
+            "hex": "#ce382a",
+            "share": 0.298
+          },
+          {
+            "hex": "#1e2420",
+            "share": 0.267
+          },
+          {
+            "hex": "#9e715b",
+            "share": 0.186
+          },
+          {
+            "hex": "#8faab4",
+            "share": 0.141
+          },
+          {
+            "hex": "#e0c6a2",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

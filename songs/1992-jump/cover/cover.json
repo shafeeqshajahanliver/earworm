@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "d96951c1-87a9-30fa-a94e-4b50b43b16d3",
+      "release_title": "Totally Krossed Out",
+      "release_date": "1992-03-31",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Totally Krossed Out",
+      "url": "http://coverartarchive.org/release/1846d2b3-8b0d-4591-9a82-fca1b1c52d3c/12485032046-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/1846d2b3-8b0d-4591-9a82-fca1b1c52d3c",
+      "image_id": "12485032046",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.451,
+        "saturation": 0.34,
+        "dark_share": 0.319,
+        "palette": [
+          {
+            "hex": "#0b0a0e",
+            "share": 0.26
+          },
+          {
+            "hex": "#403336",
+            "share": 0.256
+          },
+          {
+            "hex": "#d5947d",
+            "share": 0.194
+          },
+          {
+            "hex": "#9d6a61",
+            "share": 0.183
+          },
+          {
+            "hex": "#deaa93",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/03/30/ea033079-3254-3a3c-e2a6-504b30095ca6/dj.wutawrld.jpg/1200x1200bb.jpg",
+      "collection": "Totally Krossed Out",
+      "collection_id": 170146852,
+      "track_id": 170147030,
+      "artist_name": "Kris Kross",
+      "release_date": "1992-02-06T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.454,
+        "saturation": 0.359,
+        "dark_share": 0.321,
+        "palette": [
+          {
+            "hex": "#0c0c11",
+            "share": 0.269
+          },
+          {
+            "hex": "#403336",
+            "share": 0.248
+          },
+          {
+            "hex": "#d6947e",
+            "share": 0.198
+          },
+          {
+            "hex": "#9c6961",
+            "share": 0.184
+          },
+          {
+            "hex": "#deaa93",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

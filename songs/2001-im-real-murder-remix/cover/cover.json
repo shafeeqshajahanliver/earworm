@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "2b65c975-43ed-3748-8ec1-280b81133c11",
+      "release_title": "J.Lo",
+      "release_date": "2001",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: J.Lo",
+      "url": "http://coverartarchive.org/release/66d958ac-3d05-43e8-a27d-47dd63647583/30544343689-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/66d958ac-3d05-43e8-a27d-47dd63647583",
+      "image_id": 30544343689,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.456,
+        "saturation": 0.452,
+        "dark_share": 0.252,
+        "palette": [
+          {
+            "hex": "#090914",
+            "share": 0.258
+          },
+          {
+            "hex": "#53342c",
+            "share": 0.244
+          },
+          {
+            "hex": "#93684d",
+            "share": 0.217
+          },
+          {
+            "hex": "#c49f79",
+            "share": 0.166
+          },
+          {
+            "hex": "#e0cdba",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d1/8e/eb/d18eebcc-195c-c148-bd74-1920ac9a0638/mzi.vdnjgskg.jpg/1200x1200bb.jpg",
+      "collection": "J. Lo",
+      "collection_id": 193030491,
+      "track_id": 193030580,
+      "artist_name": "Jennifer Lopez",
+      "release_date": "2001-01-23T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.456,
+        "saturation": 0.469,
+        "dark_share": 0.255,
+        "palette": [
+          {
+            "hex": "#0d0b17",
+            "share": 0.263
+          },
+          {
+            "hex": "#52332c",
+            "share": 0.241
+          },
+          {
+            "hex": "#92674c",
+            "share": 0.216
+          },
+          {
+            "hex": "#c49d77",
+            "share": 0.165
+          },
+          {
+            "hex": "#e0ccb8",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

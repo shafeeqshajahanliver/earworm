@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "2f69599d-1080-3e71-b568-c7434fca8cb9",
+      "release_title": "Miss You",
+      "release_date": "2002",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/8ce10ec5-3f9f-4d77-a2a8-f13a1d1aba14/44011825636-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8ce10ec5-3f9f-4d77-a2a8-f13a1d1aba14",
+      "image_id": 44011825636,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        524
+      ],
+      "measures": {
+        "brightness": 0.448,
+        "saturation": 0.514,
+        "dark_share": 0.255,
+        "palette": [
+          {
+            "hex": "#1d191c",
+            "share": 0.278
+          },
+          {
+            "hex": "#543025",
+            "share": 0.221
+          },
+          {
+            "hex": "#955e2c",
+            "share": 0.206
+          },
+          {
+            "hex": "#b68034",
+            "share": 0.182
+          },
+          {
+            "hex": "#c8a04e",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2d8a724b-a746-36a7-a69e-8ca731544a32",
+      "release_title": "I Care 4 U",
+      "release_date": "2002",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: I Care 4 U",
+      "url": "http://coverartarchive.org/release/b23254ab-1ff1-4a78-a593-20ff2e7e2c2d/10354567105-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b23254ab-1ff1-4a78-a593-20ff2e7e2c2d",
+      "image_id": 10354567105,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        354,
+        348
+      ],
+      "measures": {
+        "brightness": 0.646,
+        "saturation": 0.29,
+        "dark_share": 0.251,
+        "palette": [
+          {
+            "hex": "#252c2b",
+            "share": 0.29
+          },
+          {
+            "hex": "#e6ae85",
+            "share": 0.258
+          },
+          {
+            "hex": "#e6d9cb",
+            "share": 0.23
+          },
+          {
+            "hex": "#cf8358",
+            "share": 0.16
+          },
+          {
+            "hex": "#55483d",
+            "share": 0.063
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/ad/ee/3eadee7e-d244-6a72-0316-299d0addaaa6/5034644712833.jpg/1200x1200bb.jpg",
+      "collection": "I Care 4 U",
+      "collection_id": 1816084075,
+      "track_id": 1816085114,
+      "artist_name": "Aaliyah",
+      "release_date": "2002-11-16T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.485,
+        "saturation": 0.302,
+        "dark_share": 0.409,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.35
+          },
+          {
+            "hex": "#cf864e",
+            "share": 0.285
+          },
+          {
+            "hex": "#f0e1d1",
+            "share": 0.226
+          },
+          {
+            "hex": "#4a230f",
+            "share": 0.088
+          },
+          {
+            "hex": "#000101",
+            "share": 0.05
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

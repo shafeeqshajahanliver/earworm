@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3e2a7b34-b692-4b2a-aafd-39a821be172a",
+      "release_title": "Put Your Lights On",
+      "release_date": "1999",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "70e23797-9da2-33bb-be6f-a85e7b581b69",
+      "release_title": "Supernatural",
+      "release_date": "1999",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Supernatural",
+      "url": "http://coverartarchive.org/release/83ed118f-a185-44cd-ba95-21ce29a207ca/5097435866-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/83ed118f-a185-44cd-ba95-21ce29a207ca",
+      "image_id": 5097435866,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1034,
+        1024
+      ],
+      "measures": {
+        "brightness": 0.575,
+        "saturation": 0.593,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#482871",
+            "share": 0.321
+          },
+          {
+            "hex": "#9e2044",
+            "share": 0.272
+          },
+          {
+            "hex": "#724560",
+            "share": 0.171
+          },
+          {
+            "hex": "#8b6464",
+            "share": 0.129
+          },
+          {
+            "hex": "#b99883",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f5/97/4c/f5974c1e-06cb-f84c-1da9-5f7505a20a0c/mzi.etsqfvqq.jpg/1200x1200bb.jpg",
+      "collection": "Supernatural (Remastered) [Bonus Track Version]",
+      "collection_id": 354579273,
+      "track_id": 354579342,
+      "artist_name": "Santana",
+      "release_date": "1999-06-15T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.566,
+        "saturation": 0.541,
+        "dark_share": 0.003,
+        "palette": [
+          {
+            "hex": "#38396d",
+            "share": 0.333
+          },
+          {
+            "hex": "#993241",
+            "share": 0.283
+          },
+          {
+            "hex": "#645364",
+            "share": 0.168
+          },
+          {
+            "hex": "#b49f8c",
+            "share": 0.112
+          },
+          {
+            "hex": "#806f6b",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

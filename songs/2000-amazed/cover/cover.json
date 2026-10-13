@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c47cbaad-1ce0-326e-8be5-81fea352bd63",
+      "release_title": "Amazed",
+      "release_date": "1999",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/7e796022-cf2a-459e-93a9-a96f675a4ef6/31534379897-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/7e796022-cf2a-459e-93a9-a96f675a4ef6",
+      "image_id": 31534379897,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        589
+      ],
+      "measures": {
+        "brightness": 0.814,
+        "saturation": 0.17,
+        "dark_share": 0.092,
+        "palette": [
+          {
+            "hex": "#faf6ed",
+            "share": 0.313
+          },
+          {
+            "hex": "#6a3f36",
+            "share": 0.244
+          },
+          {
+            "hex": "#dcc7b8",
+            "share": 0.187
+          },
+          {
+            "hex": "#fcfaf0",
+            "share": 0.178
+          },
+          {
+            "hex": "#fbfaf0",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d2e56af8-cdc8-3c75-a5c2-1fb11b0f887a",
+      "release_title": "Lonely Grill",
+      "release_date": "1999",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Lonely Grill",
+      "url": "http://coverartarchive.org/release/6bed593c-bb82-415d-a065-c717eac4a488/14584960977-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6bed593c-bb82-415d-a065-c717eac4a488",
+      "image_id": 14584960977,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.541,
+        "saturation": 0.647,
+        "dark_share": 0.164,
+        "palette": [
+          {
+            "hex": "#260809",
+            "share": 0.261
+          },
+          {
+            "hex": "#801318",
+            "share": 0.253
+          },
+          {
+            "hex": "#b53a43",
+            "share": 0.203
+          },
+          {
+            "hex": "#bb656c",
+            "share": 0.188
+          },
+          {
+            "hex": "#ceb7b1",
+            "share": 0.094
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/b8/3c/4a/b83c4aa5-babe-05d3-174f-0949d4eb5c57/dj.owsvmppc.jpg/1200x1200bb.jpg",
+      "collection": "Lonely Grill",
+      "collection_id": 258610440,
+      "track_id": 258611339,
+      "artist_name": "Lonestar",
+      "release_date": "1999-06-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        613
+      ],
+      "measures": {
+        "brightness": 0.552,
+        "saturation": 0.393,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#4c3d3a",
+            "share": 0.274
+          },
+          {
+            "hex": "#80423d",
+            "share": 0.247
+          },
+          {
+            "hex": "#a24f4a",
+            "share": 0.204
+          },
+          {
+            "hex": "#ae6a65",
+            "share": 0.179
+          },
+          {
+            "hex": "#c8b5ab",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

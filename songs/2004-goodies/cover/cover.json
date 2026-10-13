@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "3fdd2384-1fd7-3c1b-8f4a-6c07586750ca",
+      "release_title": "Goodies",
+      "release_date": "2004",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/fb2ee7f1-e835-4a88-8118-1335c030b52e/31487932821-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/fb2ee7f1-e835-4a88-8118-1335c030b52e",
+      "image_id": 31487932821,
+      "types": [
+        "Front"
+      ],
+      "comment": "Album Art",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.407,
+        "saturation": 0.497,
+        "dark_share": 0.355,
+        "palette": [
+          {
+            "hex": "#05050d",
+            "share": 0.251
+          },
+          {
+            "hex": "#cdc280",
+            "share": 0.238
+          },
+          {
+            "hex": "#88603f",
+            "share": 0.227
+          },
+          {
+            "hex": "#482619",
+            "share": 0.152
+          },
+          {
+            "hex": "#171018",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3a497ab6-085e-383d-9610-52f4ef9b2f16",
+      "release_title": "Goodies",
+      "release_date": "2004",
+      "release_country": "BR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Goodies",
+      "url": "http://coverartarchive.org/release/5c803de3-1d8c-4370-8fa9-c6c1694530e3/32004652680-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5c803de3-1d8c-4370-8fa9-c6c1694530e3",
+      "image_id": 32004652680,
+      "types": [
+        "Front"
+      ],
+      "comment": "Qobuz",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.526,
+        "saturation": 0.446,
+        "dark_share": 0.099,
+        "palette": [
+          {
+            "hex": "#823d45",
+            "share": 0.321
+          },
+          {
+            "hex": "#985655",
+            "share": 0.2
+          },
+          {
+            "hex": "#371f1e",
+            "share": 0.192
+          },
+          {
+            "hex": "#b07366",
+            "share": 0.183
+          },
+          {
+            "hex": "#d7a399",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/b6/9b/67b69bcb-aa57-6e29-c733-08cf058273c2/196872194609.jpg/1200x1200bb.jpg",
+      "collection": "Goodies",
+      "collection_id": 1750602110,
+      "track_id": 1750602117,
+      "artist_name": "Ciara",
+      "release_date": "2003-12-31T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.859,
+        "saturation": 0.239,
+        "dark_share": 0.026,
+        "palette": [
+          {
+            "hex": "#e09c9a",
+            "share": 0.275
+          },
+          {
+            "hex": "#f3dad9",
+            "share": 0.236
+          },
+          {
+            "hex": "#f9eeee",
+            "share": 0.189
+          },
+          {
+            "hex": "#9b5050",
+            "share": 0.174
+          },
+          {
+            "hex": "#fcf9f9",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

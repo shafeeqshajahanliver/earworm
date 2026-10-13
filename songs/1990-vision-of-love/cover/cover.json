@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "feaddb17-1612-3bda-b684-41b314bc21a0",
+      "release_title": "Love Takes Time",
+      "release_date": "1990",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/64cd36f9-8a33-4bbf-94ed-a6efd7fa6a71/21064873575-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/64cd36f9-8a33-4bbf-94ed-a6efd7fa6a71",
+      "image_id": 21064873575,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        603
+      ],
+      "measures": {
+        "brightness": 0.465,
+        "saturation": 0.315,
+        "dark_share": 0.033,
+        "palette": [
+          {
+            "hex": "#4d2e30",
+            "share": 0.447
+          },
+          {
+            "hex": "#c9b099",
+            "share": 0.178
+          },
+          {
+            "hex": "#3e292b",
+            "share": 0.17
+          },
+          {
+            "hex": "#ded4cc",
+            "share": 0.123
+          },
+          {
+            "hex": "#765149",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "67cd8314-bdfc-3023-b4d0-46a0b06ff819",
+      "release_title": "Mariah Carey",
+      "release_date": "1990",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mariah Carey",
+      "url": "https://coverartarchive.org/release/698fa1f0-6e8c-42a0-a1dd-9558d0d521ee/6679344896-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/698fa1f0-6e8c-42a0-a1dd-9558d0d521ee",
+      "image_id": 6679344896,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.391,
+        "saturation": 0.334,
+        "dark_share": 0.468,
+        "palette": [
+          {
+            "hex": "#f3be8b",
+            "share": 0.271
+          },
+          {
+            "hex": "#010000",
+            "share": 0.264
+          },
+          {
+            "hex": "#7f554b",
+            "share": 0.185
+          },
+          {
+            "hex": "#271b1a",
+            "share": 0.158
+          },
+          {
+            "hex": "#0b0707",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/5c/bc/585cbcc5-efca-dd51-c8dc-69e44f01b27f/mzi.xgrszxsu.jpg/1200x1200bb.jpg",
+      "collection": "Mariah Carey",
+      "collection_id": 169605890,
+      "track_id": 169605940,
+      "artist_name": "Mariah Carey",
+      "release_date": "1990-05-15T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.359,
+        "saturation": 0.364,
+        "dark_share": 0.455,
+        "palette": [
+          {
+            "hex": "#020204",
+            "share": 0.3
+          },
+          {
+            "hex": "#60494e",
+            "share": 0.221
+          },
+          {
+            "hex": "#1c1922",
+            "share": 0.218
+          },
+          {
+            "hex": "#f1bfa2",
+            "share": 0.138
+          },
+          {
+            "hex": "#d89478",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

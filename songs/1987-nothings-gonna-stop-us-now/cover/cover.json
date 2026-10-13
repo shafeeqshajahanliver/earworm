@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "0ead855b-c017-4403-9f45-8e633d3a8ef8",
+      "release_title": "Nothing’s Gonna Stop Us Now",
+      "release_date": "1987",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/7ef7f802-8146-48bb-9e13-183c7420f719/21029304918-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/7ef7f802-8146-48bb-9e13-183c7420f719",
+      "image_id": 21029304918,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        510
+      ],
+      "measures": {
+        "brightness": 0.788,
+        "saturation": 0.098,
+        "dark_share": 0.099,
+        "palette": [
+          {
+            "hex": "#fafaf6",
+            "share": 0.249
+          },
+          {
+            "hex": "#45363c",
+            "share": 0.24
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.21
+          },
+          {
+            "hex": "#fefefc",
+            "share": 0.164
+          },
+          {
+            "hex": "#d7cfc8",
+            "share": 0.136
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3e943d0c-ab07-31cb-82ff-f4058e41e179",
+      "release_title": "No Protection",
+      "release_date": "1987",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: No Protection",
+      "url": "http://coverartarchive.org/release/632a2e60-3809-4d75-bdc9-19710f7a9d01/8725977528-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/632a2e60-3809-4d75-bdc9-19710f7a9d01",
+      "image_id": 8725977528,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "measures": {
+        "brightness": 0.491,
+        "saturation": 0.182,
+        "dark_share": 0.091,
+        "palette": [
+          {
+            "hex": "#342e32",
+            "share": 0.303
+          },
+          {
+            "hex": "#573e51",
+            "share": 0.213
+          },
+          {
+            "hex": "#9b688b",
+            "share": 0.187
+          },
+          {
+            "hex": "#a6a59f",
+            "share": 0.171
+          },
+          {
+            "hex": "#efefea",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e9/f9/22/e9f92236-bb5b-7e84-0f9f-af6825c94550/603497853984.jpg/1200x1200bb.jpg",
+      "collection": "No Protection",
+      "collection_id": 1446278327,
+      "track_id": 1446278331,
+      "artist_name": "Starship",
+      "release_date": "1987-01-30T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.483,
+        "saturation": 0.292,
+        "dark_share": 0.296,
+        "palette": [
+          {
+            "hex": "#0d080c",
+            "share": 0.283
+          },
+          {
+            "hex": "#ae628d",
+            "share": 0.23
+          },
+          {
+            "hex": "#4f2841",
+            "share": 0.213
+          },
+          {
+            "hex": "#c9cdca",
+            "share": 0.15
+          },
+          {
+            "hex": "#ecefef",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "dde217d6-8a16-3b45-8798-49c26f5193e7",
+      "release_title": "Scorpion",
+      "release_date": "2001-03-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Scorpion",
+      "url": "https://coverartarchive.org/release/e94dccab-d78e-452c-9287-7e1fd2aeed7d/39893537037-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e94dccab-d78e-452c-9287-7e1fd2aeed7d",
+      "image_id": 39893537037,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.45,
+        "saturation": 0.415,
+        "dark_share": 0.297,
+        "palette": [
+          {
+            "hex": "#1b1c20",
+            "share": 0.31
+          },
+          {
+            "hex": "#944041",
+            "share": 0.229
+          },
+          {
+            "hex": "#4c282b",
+            "share": 0.192
+          },
+          {
+            "hex": "#c5504b",
+            "share": 0.187
+          },
+          {
+            "hex": "#c38c89",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/13/0c/86/130c8683-fc27-a98d-7649-7b15e3cd253f/00606949084820.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Scorpion",
+      "collection_id": 1443114151,
+      "track_id": 1443114454,
+      "artist_name": "Eve",
+      "release_date": "2001-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.387,
+        "saturation": 0.624,
+        "dark_share": 0.355,
+        "palette": [
+          {
+            "hex": "#040506",
+            "share": 0.315
+          },
+          {
+            "hex": "#a62428",
+            "share": 0.212
+          },
+          {
+            "hex": "#410e14",
+            "share": 0.192
+          },
+          {
+            "hex": "#921b24",
+            "share": 0.179
+          },
+          {
+            "hex": "#a87769",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "716e875e-101c-369b-873b-c5e01aa2369b",
+      "release_title": "Hot in Herre",
+      "release_date": "2002",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8411e730-a09f-4274-80c6-6ec254d642e5/30119539615-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8411e730-a09f-4274-80c6-6ec254d642e5",
+      "image_id": 30119539615,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        525
+      ],
+      "measures": {
+        "brightness": 0.518,
+        "saturation": 0.355,
+        "dark_share": 0.159,
+        "palette": [
+          {
+            "hex": "#8a9297",
+            "share": 0.322
+          },
+          {
+            "hex": "#5f060d",
+            "share": 0.318
+          },
+          {
+            "hex": "#693934",
+            "share": 0.143
+          },
+          {
+            "hex": "#8a8b8e",
+            "share": 0.134
+          },
+          {
+            "hex": "#b8b6b7",
+            "share": 0.082
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8bea71d9-b1ae-3b02-bcca-cc3c2bde130d",
+      "release_title": "Nellyville",
+      "release_date": "2002-06-24",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Nellyville",
+      "url": "http://coverartarchive.org/release/f0c9d6bf-05f1-4fe7-b6d7-063b3b1a85e4/9400136679-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/f0c9d6bf-05f1-4fe7-b6d7-063b3b1a85e4",
+      "image_id": "9400136679",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.46,
+        "saturation": 0.227,
+        "dark_share": 0.352,
+        "palette": [
+          {
+            "hex": "#030303",
+            "share": 0.276
+          },
+          {
+            "hex": "#38332d",
+            "share": 0.246
+          },
+          {
+            "hex": "#e0d09c",
+            "share": 0.245
+          },
+          {
+            "hex": "#b09e7b",
+            "share": 0.129
+          },
+          {
+            "hex": "#ede3bb",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/35/62/373562e8-ab69-254b-bbf2-f1cb9aca66fe/06UMGIM16889.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Nellyville",
+      "collection_id": 1440735154,
+      "track_id": 1440735156,
+      "artist_name": "Nelly",
+      "release_date": "2002-05-07T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1183
+      ],
+      "measures": {
+        "brightness": 0.478,
+        "saturation": 0.274,
+        "dark_share": 0.313,
+        "palette": [
+          {
+            "hex": "#080909",
+            "share": 0.274
+          },
+          {
+            "hex": "#42362e",
+            "share": 0.254
+          },
+          {
+            "hex": "#e2cda3",
+            "share": 0.241
+          },
+          {
+            "hex": "#b29b7b",
+            "share": 0.124
+          },
+          {
+            "hex": "#eedfbf",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

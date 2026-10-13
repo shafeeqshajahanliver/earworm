@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "13045772-371a-470a-95da-44b7e3488224",
+      "release_title": "Uptown Special",
+      "release_date": "2015-01-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Uptown Special",
+      "url": "https://coverartarchive.org/release/0577f225-9866-4fe2-9c23-e52c37186a99/19394943642-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0577f225-9866-4fe2-9c23-e52c37186a99",
+      "image_id": 19394943642,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.607,
+        "saturation": 0.049,
+        "dark_share": 0.31,
+        "palette": [
+          {
+            "hex": "#f6f7f7",
+            "share": 0.381
+          },
+          {
+            "hex": "#000000",
+            "share": 0.323
+          },
+          {
+            "hex": "#7f7f6b",
+            "share": 0.11
+          },
+          {
+            "hex": "#f7f9f8",
+            "share": 0.098
+          },
+          {
+            "hex": "#efefd9",
+            "share": 0.087
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/1200x1200bb.jpg",
+      "collection": "Uptown Special",
+      "collection_id": 943946661,
+      "track_id": 943946671,
+      "artist_name": "Mark Ronson",
+      "release_date": "2014-11-10T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.619,
+        "saturation": 0.162,
+        "dark_share": 0.309,
+        "palette": [
+          {
+            "hex": "#f6f7f7",
+            "share": 0.381
+          },
+          {
+            "hex": "#030708",
+            "share": 0.299
+          },
+          {
+            "hex": "#efefd6",
+            "share": 0.114
+          },
+          {
+            "hex": "#494b41",
+            "share": 0.109
+          },
+          {
+            "hex": "#f7f9f8",
+            "share": 0.097
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

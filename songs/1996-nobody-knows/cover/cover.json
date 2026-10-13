@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d8baf09b-7c20-3a2b-9fe3-12ba43d46623",
+      "release_title": "Nobody Knows",
+      "release_date": "1995",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/3949b63b-ee0a-4072-a89a-f33f143aefef/41521444029-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3949b63b-ee0a-4072-a89a-f33f143aefef",
+      "image_id": 41521444029,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        599,
+        526
+      ],
+      "measures": {
+        "brightness": 0.33,
+        "saturation": 0.27,
+        "dark_share": 0.4,
+        "palette": [
+          {
+            "hex": "#3d5b69",
+            "share": 0.25
+          },
+          {
+            "hex": "#617c89",
+            "share": 0.242
+          },
+          {
+            "hex": "#242a2a",
+            "share": 0.207
+          },
+          {
+            "hex": "#222828",
+            "share": 0.194
+          },
+          {
+            "hex": "#2c363a",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "4cf36064-b02b-39a0-9b9f-21b6e712d555",
+      "release_title": "'Words'",
+      "release_date": "1995",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Words",
+      "url": "http://coverartarchive.org/release/a6be4930-7c2d-4873-bffb-ca7a7e785582/37499411373-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a6be4930-7c2d-4873-bffb-ca7a7e785582",
+      "image_id": 37499411373,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1196,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.48,
+        "saturation": 0.271,
+        "dark_share": 0.179,
+        "palette": [
+          {
+            "hex": "#d5ccc5",
+            "share": 0.26
+          },
+          {
+            "hex": "#241813",
+            "share": 0.208
+          },
+          {
+            "hex": "#99877f",
+            "share": 0.206
+          },
+          {
+            "hex": "#45352e",
+            "share": 0.166
+          },
+          {
+            "hex": "#645149",
+            "share": 0.159
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/20/1b/a9/201ba988-ffbd-6d78-fa46-193260258a13/730082602259.jpg/1200x1200bb.jpg",
+      "collection": "Words",
+      "collection_id": 308870330,
+      "track_id": 308870332,
+      "artist_name": "The Tony Rich Project",
+      "release_date": "1995-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        906,
+        900
+      ],
+      "measures": {
+        "brightness": 0.599,
+        "saturation": 0.291,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#4d3026",
+            "share": 0.275
+          },
+          {
+            "hex": "#745848",
+            "share": 0.238
+          },
+          {
+            "hex": "#b4a192",
+            "share": 0.191
+          },
+          {
+            "hex": "#f3ece5",
+            "share": 0.153
+          },
+          {
+            "hex": "#e1d6cc",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

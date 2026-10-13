@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "d01a59a3-d4a7-33d9-b811-8dff4f9ce119",
+      "release_title": "Genie in a Bottle",
+      "release_date": "1999-06-22",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/52ed89d2-b056-4edb-ae44-21a234479682/7955163600-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/52ed89d2-b056-4edb-ae44-21a234479682",
+      "image_id": "7955163600",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.718,
+        "saturation": 0.33,
+        "dark_share": 0.013,
+        "palette": [
+          {
+            "hex": "#af8868",
+            "share": 0.287
+          },
+          {
+            "hex": "#c4af91",
+            "share": 0.221
+          },
+          {
+            "hex": "#7e4535",
+            "share": 0.215
+          },
+          {
+            "hex": "#dccdb3",
+            "share": 0.158
+          },
+          {
+            "hex": "#f7f3e9",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "6f47450a-6f77-3af2-80bb-4e7012c07180",
+      "release_title": "Christina Aguilera",
+      "release_date": "1999",
+      "release_country": "IT",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Christina Aguilera",
+      "url": "http://coverartarchive.org/release/42b7a9eb-cdf3-4ba7-a5f5-e0799055e00a/28291610989-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/42b7a9eb-cdf3-4ba7-a5f5-e0799055e00a",
+      "image_id": 28291610989,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.651,
+        "saturation": 0.235,
+        "dark_share": 0.017,
+        "palette": [
+          {
+            "hex": "#9b7f6c",
+            "share": 0.305
+          },
+          {
+            "hex": "#b2a290",
+            "share": 0.212
+          },
+          {
+            "hex": "#6d4945",
+            "share": 0.192
+          },
+          {
+            "hex": "#c9bbaa",
+            "share": 0.174
+          },
+          {
+            "hex": "#e8e1de",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/1200x1200bb.jpg",
+      "collection": "Christina Aguilera (Expanded Edition)",
+      "collection_id": 1308542675,
+      "track_id": 1308542773,
+      "artist_name": "Christina Aguilera",
+      "release_date": "1999-06-22T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.651,
+        "saturation": 0.234,
+        "dark_share": 0.017,
+        "palette": [
+          {
+            "hex": "#9b7f6d",
+            "share": 0.305
+          },
+          {
+            "hex": "#b3a290",
+            "share": 0.212
+          },
+          {
+            "hex": "#6e4945",
+            "share": 0.194
+          },
+          {
+            "hex": "#cabbab",
+            "share": 0.173
+          },
+          {
+            "hex": "#e8e2df",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

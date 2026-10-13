@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "51179d76-199d-4217-938d-3531a1fcd92f",
+      "release_title": "Tell the World / Wheels",
+      "release_date": "1960-10",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/3b797a15-8158-43bc-ad44-e8adbdf66ee8/38340178504-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3b797a15-8158-43bc-ad44-e8adbdf66ee8",
+      "image_id": 38340178504,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        405,
+        384
+      ],
+      "measures": {
+        "brightness": 0.423,
+        "saturation": 0.17,
+        "dark_share": 0.282,
+        "palette": [
+          {
+            "hex": "#131418",
+            "share": 0.305
+          },
+          {
+            "hex": "#898591",
+            "share": 0.252
+          },
+          {
+            "hex": "#8f8b93",
+            "share": 0.207
+          },
+          {
+            "hex": "#464b5e",
+            "share": 0.121
+          },
+          {
+            "hex": "#9a99aa",
+            "share": 0.115
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1fd9e7f5-e982-4348-bf78-facc1ce5883d",
+      "release_title": "Pick a Hit",
+      "release_date": "1961",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Pick a Hit",
+      "url": "https://coverartarchive.org/release/f5ae093a-087e-459d-9b73-4570c58b0176/38340174812-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f5ae093a-087e-459d-9b73-4570c58b0176",
+      "image_id": 38340174812,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        592
+      ],
+      "measures": {
+        "brightness": 0.847,
+        "saturation": 0.75,
+        "dark_share": 0.071,
+        "palette": [
+          {
+            "hex": "#fd501e",
+            "share": 0.317
+          },
+          {
+            "hex": "#fa5f26",
+            "share": 0.253
+          },
+          {
+            "hex": "#712b18",
+            "share": 0.189
+          },
+          {
+            "hex": "#f57136",
+            "share": 0.143
+          },
+          {
+            "hex": "#f3a67c",
+            "share": 0.098
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/61/ac/f061ac85-1927-2f3e-c159-8516ba90cad0/196006812300.jpg/1200x1200bb.jpg",
+      "collection": "Pick a Hit",
+      "collection_id": 1572865001,
+      "track_id": 1572865006,
+      "artist_name": "The String-A-Longs",
+      "release_date": "1961-05-24T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.843,
+        "saturation": 0.732,
+        "dark_share": 0.046,
+        "palette": [
+          {
+            "hex": "#eb4228",
+            "share": 0.363
+          },
+          {
+            "hex": "#f05a38",
+            "share": 0.232
+          },
+          {
+            "hex": "#ee4f33",
+            "share": 0.175
+          },
+          {
+            "hex": "#85261b",
+            "share": 0.14
+          },
+          {
+            "hex": "#ef9e88",
+            "share": 0.09
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

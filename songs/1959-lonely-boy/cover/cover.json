@@ -1,0 +1,68 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "782bf287-f904-4f56-b9ea-cff81b67caa2",
+      "release_title": "Lonely Boy",
+      "release_date": "1959",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "e2de8ccd-39a6-487d-bad3-6d0cff413b2a",
+      "release_title": "Lonely Boy",
+      "release_date": "1959",
+      "release_country": "ES",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e6/c2/55e6c2cd-a659-ea80-b28e-85df6ee123fa/715187763722.png/1200x1200bb.jpg",
+      "collection": "All Time Greatest Hits of Rock 'n' Roll, Vol. 3",
+      "collection_id": 1798581783,
+      "track_id": 1798581790,
+      "artist_name": "Paul Anka",
+      "release_date": "1959-01-02T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.637,
+        "saturation": 0.853,
+        "dark_share": 0.077,
+        "palette": [
+          {
+            "hex": "#b0112e",
+            "share": 0.31
+          },
+          {
+            "hex": "#ad132e",
+            "share": 0.262
+          },
+          {
+            "hex": "#ac1631",
+            "share": 0.177
+          },
+          {
+            "hex": "#919b3c",
+            "share": 0.127
+          },
+          {
+            "hex": "#6c0c28",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5dd33d0f-f2e6-37b5-a52e-0226ab22d125",
+      "release_title": "Breathe",
+      "release_date": "2000",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "a2d6da6c-2b17-37b7-8957-7cb2956325ca",
+      "release_title": "Breathe",
+      "release_date": "1999",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Breathe",
+      "url": "https://coverartarchive.org/release/68fbc4d5-99db-4a32-b395-663d6780ee82/42882550145-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/68fbc4d5-99db-4a32-b395-663d6780ee82",
+      "image_id": 42882550145,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.515,
+        "saturation": 0.449,
+        "dark_share": 0.288,
+        "palette": [
+          {
+            "hex": "#b3985d",
+            "share": 0.297
+          },
+          {
+            "hex": "#050807",
+            "share": 0.294
+          },
+          {
+            "hex": "#c5a86c",
+            "share": 0.169
+          },
+          {
+            "hex": "#795b34",
+            "share": 0.12
+          },
+          {
+            "hex": "#e0c396",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d2/81/53/d281539a-05d9-c2c0-8c7e-457cab47ed7b/mzi.ltpnekph.jpg/1200x1200bb.jpg",
+      "collection": "Breathe",
+      "collection_id": 321981503,
+      "track_id": 321981540,
+      "artist_name": "Faith Hill",
+      "release_date": "1999-10-04T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.52,
+        "saturation": 0.416,
+        "dark_share": 0.288,
+        "palette": [
+          {
+            "hex": "#b4985d",
+            "share": 0.3
+          },
+          {
+            "hex": "#0a0e0d",
+            "share": 0.297
+          },
+          {
+            "hex": "#c5a86d",
+            "share": 0.166
+          },
+          {
+            "hex": "#e0c396",
+            "share": 0.119
+          },
+          {
+            "hex": "#795b34",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "08aba13a-8f41-3562-a4e6-f4dc56835689",
+      "release_title": "Chicago 19",
+      "release_date": "1988",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Chicago 19",
+      "url": "http://coverartarchive.org/release/0e502640-27d7-4d22-9ad6-a693c2d776ec/10834662439-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0e502640-27d7-4d22-9ad6-a693c2d776ec",
+      "image_id": 10834662439,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        590
+      ],
+      "measures": {
+        "brightness": 0.509,
+        "saturation": 0.426,
+        "dark_share": 0.042,
+        "palette": [
+          {
+            "hex": "#787468",
+            "share": 0.247
+          },
+          {
+            "hex": "#6c4653",
+            "share": 0.243
+          },
+          {
+            "hex": "#3b3041",
+            "share": 0.242
+          },
+          {
+            "hex": "#7f9671",
+            "share": 0.135
+          },
+          {
+            "hex": "#edb309",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/7c/40/09/mzi.zxngwdbw.jpg/1200x1200bb.jpg",
+      "collection": "Chicago 19 (Expanded Edition)",
+      "collection_id": 350510396,
+      "track_id": 350510418,
+      "artist_name": "Chicago",
+      "release_date": "1985-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.688,
+        "saturation": 0.544,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#587a9b",
+            "share": 0.271
+          },
+          {
+            "hex": "#3b447d",
+            "share": 0.252
+          },
+          {
+            "hex": "#b5b9b8",
+            "share": 0.199
+          },
+          {
+            "hex": "#5fa5aa",
+            "share": 0.142
+          },
+          {
+            "hex": "#f2de3e",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

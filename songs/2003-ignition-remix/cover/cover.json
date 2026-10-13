@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "15a67f76-8bdd-30a3-be95-14cad96beb76",
+      "release_title": "Chocolate Factory",
+      "release_date": "2003",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Chocolate Factory",
+      "url": "http://coverartarchive.org/release/884cee1b-ee29-3bc2-9a4d-a9e24cbd021f/7321348087-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/884cee1b-ee29-3bc2-9a4d-a9e24cbd021f",
+      "image_id": "7321348087",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        499
+      ],
+      "measures": {
+        "brightness": 0.855,
+        "saturation": 0.718,
+        "dark_share": 0.02,
+        "palette": [
+          {
+            "hex": "#f6d252",
+            "share": 0.264
+          },
+          {
+            "hex": "#e54531",
+            "share": 0.251
+          },
+          {
+            "hex": "#dfa542",
+            "share": 0.206
+          },
+          {
+            "hex": "#eb6746",
+            "share": 0.158
+          },
+          {
+            "hex": "#a93923",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/3c/6e/ec3c6ef5-a43b-6100-25c2-12f147fc3edb/mzm.ojobxiyt.jpg/1200x1200bb.jpg",
+      "collection": "Chocolate Factory",
+      "collection_id": 283567680,
+      "track_id": 283567745,
+      "artist_name": "R. Kelly",
+      "release_date": "2003-02-18T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.827,
+        "saturation": 0.723,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#d8a94b",
+            "share": 0.268
+          },
+          {
+            "hex": "#edce64",
+            "share": 0.241
+          },
+          {
+            "hex": "#bb1c0d",
+            "share": 0.232
+          },
+          {
+            "hex": "#cd3a27",
+            "share": 0.15
+          },
+          {
+            "hex": "#c85d3e",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

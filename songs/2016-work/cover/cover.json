@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4d74169d-be7d-47ec-be63-d501096e0b7e",
+      "release_title": "Work",
+      "release_date": "2016-01-27",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/517c119d-1642-4d44-b258-6cde8fdfdf15/12637579070-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/517c119d-1642-4d44-b258-6cde8fdfdf15",
+      "image_id": "12637579070",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.299,
+        "saturation": 0.102,
+        "dark_share": 0.273,
+        "palette": [
+          {
+            "hex": "#343739",
+            "share": 0.303
+          },
+          {
+            "hex": "#4b5051",
+            "share": 0.219
+          },
+          {
+            "hex": "#1f2022",
+            "share": 0.208
+          },
+          {
+            "hex": "#716e6c",
+            "share": 0.151
+          },
+          {
+            "hex": "#8d8a85",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0c482acd-35a2-466b-b833-ef5f2f1297d4",
+      "release_title": "ANTI",
+      "release_date": "2016",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Anti",
+      "url": "http://coverartarchive.org/release/b8fdf8b5-45f6-4f1d-b7af-b7c28aff8ad8/32325572219-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b8fdf8b5-45f6-4f1d-b7af-b7c28aff8ad8",
+      "image_id": 32325572219,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.806,
+        "saturation": 0.384,
+        "dark_share": 0.036,
+        "palette": [
+          {
+            "hex": "#ebedee",
+            "share": 0.38
+          },
+          {
+            "hex": "#da1f26",
+            "share": 0.315
+          },
+          {
+            "hex": "#9c1a20",
+            "share": 0.136
+          },
+          {
+            "hex": "#d5d6d7",
+            "share": 0.122
+          },
+          {
+            "hex": "#b43134",
+            "share": 0.046
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/27/57/132757ba-42e6-9584-7390-ca694292a20e/16UMGIM03372.rgb.jpg/1200x1200bb.jpg",
+      "collection": "ANTI",
+      "collection_id": 1443230958,
+      "track_id": 1443231169,
+      "artist_name": "Rihanna",
+      "release_date": "2016-01-27T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.806,
+        "saturation": 0.382,
+        "dark_share": 0.035,
+        "palette": [
+          {
+            "hex": "#eaeced",
+            "share": 0.395
+          },
+          {
+            "hex": "#de1f26",
+            "share": 0.309
+          },
+          {
+            "hex": "#78191d",
+            "share": 0.11
+          },
+          {
+            "hex": "#d2d2d3",
+            "share": 0.109
+          },
+          {
+            "hex": "#b62f34",
+            "share": 0.077
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

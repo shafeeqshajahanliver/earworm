@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "72f2bbf9-628b-3cdb-b654-49b628c6756e",
+      "release_title": "Another Night",
+      "release_date": "1995-02-22",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Another Night",
+      "url": "http://coverartarchive.org/release/17c6d5ee-2f47-4a5c-adca-d83afc631386/20213527180-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/17c6d5ee-2f47-4a5c-adca-d83afc631386",
+      "image_id": 20213527180,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        499,
+        499
+      ],
+      "measures": {
+        "brightness": 0.468,
+        "saturation": 0.565,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#2a3071",
+            "share": 0.316
+          },
+          {
+            "hex": "#2b245f",
+            "share": 0.206
+          },
+          {
+            "hex": "#6b7aa4",
+            "share": 0.17
+          },
+          {
+            "hex": "#242564",
+            "share": 0.167
+          },
+          {
+            "hex": "#2b2662",
+            "share": 0.141
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/2d/3c/612d3c0b-1532-2e14-ff4d-bf1777d879c7/196589916044.jpg/1200x1200bb.jpg",
+      "collection": "Another Night (The Essential 90s Mixes)",
+      "collection_id": 1674020610,
+      "track_id": 1674021005,
+      "artist_name": "Real McCoy",
+      "release_date": "1993-07-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.429,
+        "saturation": 0.033,
+        "dark_share": 0.552,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.527
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.395
+          },
+          {
+            "hex": "#966969",
+            "share": 0.03
+          },
+          {
+            "hex": "#000001",
+            "share": 0.03
+          },
+          {
+            "hex": "#a50000",
+            "share": 0.019
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

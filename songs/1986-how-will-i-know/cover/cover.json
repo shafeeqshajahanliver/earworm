@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "f04b7caf-13a6-48e4-9740-c43066a1dfca",
+      "release_title": "How Will I Know",
+      "release_date": "1985",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/44f2aad6-78e2-4fb8-8fa9-8607104aea8a/16075018447-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/44f2aad6-78e2-4fb8-8fa9-8607104aea8a",
+      "image_id": 16075018447,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.832,
+        "saturation": 0.323,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#b6d7cf",
+            "share": 0.231
+          },
+          {
+            "hex": "#9d4f41",
+            "share": 0.212
+          },
+          {
+            "hex": "#bfb2b0",
+            "share": 0.191
+          },
+          {
+            "hex": "#f8eedc",
+            "share": 0.184
+          },
+          {
+            "hex": "#f7d6c1",
+            "share": 0.182
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "131d12c0-e720-31df-a2f9-d9abd868ceaf",
+      "release_title": "Whitney Houston",
+      "release_date": "1985",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Whitney Houston",
+      "url": "http://coverartarchive.org/release/3811a110-cce0-4ddd-b52f-e12c50190783/1647997357-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/3811a110-cce0-4ddd-b52f-e12c50190783",
+      "image_id": "1647997357",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        492
+      ],
+      "measures": {
+        "brightness": 0.763,
+        "saturation": 0.409,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#e9946b",
+            "share": 0.348
+          },
+          {
+            "hex": "#6f4a44",
+            "share": 0.251
+          },
+          {
+            "hex": "#f2ceb9",
+            "share": 0.16
+          },
+          {
+            "hex": "#ad785b",
+            "share": 0.128
+          },
+          {
+            "hex": "#ecb59c",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/6e/22/106e222a-d2d2-2790-6c14-e334d84acd71/884977441178.jpg/1200x1200bb.jpg",
+      "collection": "Whitney Houston (The Deluxe Anniversary Edition)",
+      "collection_id": 349286415,
+      "track_id": 349286433,
+      "artist_name": "Whitney Houston",
+      "release_date": "1985-02-14T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.779,
+        "saturation": 0.476,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#e89969",
+            "share": 0.296
+          },
+          {
+            "hex": "#7a4d3d",
+            "share": 0.242
+          },
+          {
+            "hex": "#c67f53",
+            "share": 0.179
+          },
+          {
+            "hex": "#eeae89",
+            "share": 0.165
+          },
+          {
+            "hex": "#eec0a5",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

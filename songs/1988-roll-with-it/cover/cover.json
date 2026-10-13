@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4492514c-6ce0-44f3-937d-cc54e6d2dd82",
+      "release_title": "Roll With It",
+      "release_date": "1988",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/ac9aef8b-e37c-4758-997c-5a46c1fad0c6/41801778383-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ac9aef8b-e37c-4758-997c-5a46c1fad0c6",
+      "image_id": 41801778383,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        550,
+        550
+      ],
+      "measures": {
+        "brightness": 0.235,
+        "saturation": 0.527,
+        "dark_share": 0.602,
+        "palette": [
+          {
+            "hex": "#34321c",
+            "share": 0.244
+          },
+          {
+            "hex": "#201c0f",
+            "share": 0.234
+          },
+          {
+            "hex": "#5d754d",
+            "share": 0.177
+          },
+          {
+            "hex": "#1b190d",
+            "share": 0.176
+          },
+          {
+            "hex": "#18170b",
+            "share": 0.169
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1f5e796c-6a7f-370f-b32a-d0d24a68015f",
+      "release_title": "Roll With It",
+      "release_date": "1988-06-20",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Roll with It",
+      "url": "http://coverartarchive.org/release/8be3a6c8-26ef-4c70-b6fc-18f5a4a276f4/5945514644-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/8be3a6c8-26ef-4c70-b6fc-18f5a4a276f4",
+      "image_id": "5945514644",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        499
+      ],
+      "measures": {
+        "brightness": 0.662,
+        "saturation": 0.156,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#b19a8b",
+            "share": 0.259
+          },
+          {
+            "hex": "#484038",
+            "share": 0.232
+          },
+          {
+            "hex": "#c6baae",
+            "share": 0.228
+          },
+          {
+            "hex": "#dbd4c7",
+            "share": 0.144
+          },
+          {
+            "hex": "#e7e3d7",
+            "share": 0.137
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/d8/f7/8dd8f70a-e345-3483-67e9-4c618a39d39c/00077778606956.jpg/1200x1200bb.jpg",
+      "collection": "Roll With It",
+      "collection_id": 724224000,
+      "track_id": 724224008,
+      "artist_name": "Steve Winwood",
+      "release_date": "1988-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.605,
+        "saturation": 0.126,
+        "dark_share": 0.207,
+        "palette": [
+          {
+            "hex": "#93888b",
+            "share": 0.256
+          },
+          {
+            "hex": "#282628",
+            "share": 0.24
+          },
+          {
+            "hex": "#adb1b8",
+            "share": 0.222
+          },
+          {
+            "hex": "#c7d1d9",
+            "share": 0.158
+          },
+          {
+            "hex": "#d9e1e6",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

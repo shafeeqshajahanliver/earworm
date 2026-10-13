@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "d4e7be0c-6db3-372e-aee6-e048dbb9ac51",
+      "release_title": "Every Picture Tells a Story",
+      "release_date": "1971",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Every Picture Tells a Story",
+      "url": "https://coverartarchive.org/release/5e09b451-488d-4008-a002-5820a71fe6bb/11801118227-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5e09b451-488d-4008-a002-5820a71fe6bb",
+      "image_id": 11801118227,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.679,
+        "saturation": 0.351,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f6e5c2",
+            "share": 0.262
+          },
+          {
+            "hex": "#5d4739",
+            "share": 0.237
+          },
+          {
+            "hex": "#d0ac82",
+            "share": 0.203
+          },
+          {
+            "hex": "#a47756",
+            "share": 0.162
+          },
+          {
+            "hex": "#785b45",
+            "share": 0.137
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7d/4f/20/7d4f200e-7b9f-1240-74ee-0fbb9a30c178/12UMGIM10698.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Every Picture Tells a Story",
+      "collection_id": 1469580609,
+      "track_id": 1469581280,
+      "artist_name": "Rod Stewart",
+      "release_date": "1971-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.668,
+        "saturation": 0.311,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#5c4a40",
+            "share": 0.298
+          },
+          {
+            "hex": "#8b6a56",
+            "share": 0.209
+          },
+          {
+            "hex": "#cca783",
+            "share": 0.207
+          },
+          {
+            "hex": "#feebc8",
+            "share": 0.147
+          },
+          {
+            "hex": "#ebd5b0",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

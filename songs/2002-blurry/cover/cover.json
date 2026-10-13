@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "def02f4c-e326-32bb-ac61-98e76a1bdb2b",
+      "release_title": "Blurry",
+      "release_date": "2002",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d4174443-68d2-4586-8e66-a21854d62c89/12243376576-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/d4174443-68d2-4586-8e66-a21854d62c89",
+      "image_id": "12243376576",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.374,
+        "saturation": 0.375,
+        "dark_share": 0.437,
+        "palette": [
+          {
+            "hex": "#020a04",
+            "share": 0.318
+          },
+          {
+            "hex": "#6f6c63",
+            "share": 0.204
+          },
+          {
+            "hex": "#19231e",
+            "share": 0.2
+          },
+          {
+            "hex": "#c4bdb5",
+            "share": 0.14
+          },
+          {
+            "hex": "#ebe9e4",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3c3e7340-8e64-36a2-900a-0cdfdec83776",
+      "release_title": "Come Clean",
+      "release_date": "2001-08-28",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Come Clean",
+      "url": "https://coverartarchive.org/release/c4a9c9aa-c69d-37ed-ae3d-f248aa68b442/16786624966-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c4a9c9aa-c69d-37ed-ae3d-f248aa68b442",
+      "image_id": 16786624966,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.437,
+        "saturation": 0.0,
+        "dark_share": 0.379,
+        "palette": [
+          {
+            "hex": "#e4e4e4",
+            "share": 0.316
+          },
+          {
+            "hex": "#242424",
+            "share": 0.233
+          },
+          {
+            "hex": "#393939",
+            "share": 0.207
+          },
+          {
+            "hex": "#2b2b2b",
+            "share": 0.147
+          },
+          {
+            "hex": "#7e7e7e",
+            "share": 0.098
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/41/22/ab/4122ab9a-ad42-b89a-6457-a71df8117840/00602577027062.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Come Clean",
+      "collection_id": 1450664881,
+      "track_id": 1450664888,
+      "artist_name": "Puddle of Mudd",
+      "release_date": "2001-08-28T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1191
+      ],
+      "measures": {
+        "brightness": 0.435,
+        "saturation": 0.123,
+        "dark_share": 0.409,
+        "palette": [
+          {
+            "hex": "#0f1010",
+            "share": 0.312
+          },
+          {
+            "hex": "#25222c",
+            "share": 0.235
+          },
+          {
+            "hex": "#e2dfea",
+            "share": 0.225
+          },
+          {
+            "hex": "#7c7887",
+            "share": 0.131
+          },
+          {
+            "hex": "#eae6ef",
+            "share": 0.096
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

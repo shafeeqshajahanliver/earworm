@@ -1,0 +1,108 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "24cfc3a5-11c7-3bde-9cff-03e24766eae2",
+      "release_title": "Downtown / You'd Better Love Me",
+      "release_date": "1964",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d10e2a67-6170-46ef-a9cd-2668da7654a1/32167375642-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d10e2a67-6170-46ef-a9cd-2668da7654a1",
+      "image_id": 32167375642,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        599,
+        599
+      ],
+      "measures": {
+        "brightness": 0.596,
+        "saturation": 0.838,
+        "dark_share": 0.167,
+        "palette": [
+          {
+            "hex": "#a72803",
+            "share": 0.312
+          },
+          {
+            "hex": "#ae4d0c",
+            "share": 0.232
+          },
+          {
+            "hex": "#341404",
+            "share": 0.196
+          },
+          {
+            "hex": "#be7f2a",
+            "share": 0.155
+          },
+          {
+            "hex": "#e7cb78",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c5e74f1e-f2be-49bb-ac81-abac5c5bbd28",
+      "release_title": "Downtown",
+      "release_date": "1964",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Downtown",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/c3/7c/46c37c8e-3bed-31f3-c850-6e191298a75f/0859381158844.jpg/1200x1200bb.jpg",
+      "collection": "Platinum & Gold Collection",
+      "collection_id": 1676471088,
+      "track_id": 1676471090,
+      "artist_name": "Petula Clark",
+      "release_date": "1964-11-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.633,
+        "saturation": 0.164,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#937e7e",
+            "share": 0.262
+          },
+          {
+            "hex": "#afa19b",
+            "share": 0.236
+          },
+          {
+            "hex": "#5b4445",
+            "share": 0.223
+          },
+          {
+            "hex": "#c9bec2",
+            "share": 0.143
+          },
+          {
+            "hex": "#e7e3e7",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

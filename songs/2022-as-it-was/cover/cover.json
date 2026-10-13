@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "b800ebe9-970a-4501-93d9-c23ba3c0284e",
+      "release_title": "As It Was",
+      "release_date": "2022-03-21",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/68cb4579-6701-454d-a248-5bad1e619b44/32254520097-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/68cb4579-6701-454d-a248-5bad1e619b44",
+      "image_id": 32254520097,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.8,
+        "saturation": 0.287,
+        "dark_share": 0.009,
+        "palette": [
+          {
+            "hex": "#caae86",
+            "share": 0.296
+          },
+          {
+            "hex": "#ddcbae",
+            "share": 0.252
+          },
+          {
+            "hex": "#e3d5bd",
+            "share": 0.17
+          },
+          {
+            "hex": "#9d7856",
+            "share": 0.165
+          },
+          {
+            "hex": "#ebe3d2",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "d712ba0e-25fa-4c03-aecd-ec0c100deba5",
+      "release_title": "Harry’s House",
+      "release_date": "2022-04-20",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Harry's House",
+      "url": "http://coverartarchive.org/release/24cd3270-127e-4a75-aeee-b1f23c68fcc5/32549295439-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/24cd3270-127e-4a75-aeee-b1f23c68fcc5",
+      "image_id": 32549295439,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.8,
+        "saturation": 0.287,
+        "dark_share": 0.009,
+        "palette": [
+          {
+            "hex": "#caae86",
+            "share": 0.296
+          },
+          {
+            "hex": "#ddcbae",
+            "share": 0.251
+          },
+          {
+            "hex": "#e3d5bd",
+            "share": 0.17
+          },
+          {
+            "hex": "#9d7856",
+            "share": 0.165
+          },
+          {
+            "hex": "#ebe3d2",
+            "share": 0.118
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/1200x1200bb.jpg",
+      "collection": "Harry's House",
+      "collection_id": 1615584999,
+      "track_id": 1615585008,
+      "artist_name": "Harry Styles",
+      "release_date": "2022-03-31T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.8,
+        "saturation": 0.289,
+        "dark_share": 0.009,
+        "palette": [
+          {
+            "hex": "#cbae87",
+            "share": 0.296
+          },
+          {
+            "hex": "#ddcbaf",
+            "share": 0.251
+          },
+          {
+            "hex": "#e3d5bd",
+            "share": 0.171
+          },
+          {
+            "hex": "#9d7856",
+            "share": 0.168
+          },
+          {
+            "hex": "#ece3d3",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

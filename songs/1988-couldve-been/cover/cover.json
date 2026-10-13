@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "dbc86b1e-1851-3f48-87e6-cfb4b2a316a7",
+      "release_title": "Could've Been",
+      "release_date": "1987",
+      "release_country": "IT",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e762afc9-2f76-42d6-bdca-d2db798597f0/7093367793-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/e762afc9-2f76-42d6-bdca-d2db798597f0",
+      "image_id": "7093367793",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        396,
+        347
+      ],
+      "measures": {
+        "brightness": 0.72,
+        "saturation": 0.27,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#5a2730",
+            "share": 0.294
+          },
+          {
+            "hex": "#fef9f3",
+            "share": 0.261
+          },
+          {
+            "hex": "#885b62",
+            "share": 0.214
+          },
+          {
+            "hex": "#fffbf6",
+            "share": 0.163
+          },
+          {
+            "hex": "#d8e3e6",
+            "share": 0.068
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "4b69db8a-13ec-3410-9d24-c41ed7ff215a",
+      "release_title": "Tiffany",
+      "release_date": "1987",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Tiffany",
+      "url": "http://coverartarchive.org/release/bbc47f2b-1459-48d6-8ea2-134b8db78882/11329023106-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/bbc47f2b-1459-48d6-8ea2-134b8db78882",
+      "image_id": "11329023106",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        493
+      ],
+      "measures": {
+        "brightness": 0.48,
+        "saturation": 0.356,
+        "dark_share": 0.015,
+        "palette": [
+          {
+            "hex": "#886650",
+            "share": 0.271
+          },
+          {
+            "hex": "#3c372d",
+            "share": 0.27
+          },
+          {
+            "hex": "#604739",
+            "share": 0.211
+          },
+          {
+            "hex": "#dab990",
+            "share": 0.128
+          },
+          {
+            "hex": "#9b7f69",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/f1/4b/5bf14b8b-23a0-5f7f-c619-430ffc7ab0e7/06UMGIM07184.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Tiffany",
+      "collection_id": 1440672177,
+      "track_id": 1440672673,
+      "artist_name": "Tiffany",
+      "release_date": "1987-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.317,
+        "saturation": 0.383,
+        "dark_share": 0.456,
+        "palette": [
+          {
+            "hex": "#50292a",
+            "share": 0.262
+          },
+          {
+            "hex": "#0d0e10",
+            "share": 0.224
+          },
+          {
+            "hex": "#b76454",
+            "share": 0.209
+          },
+          {
+            "hex": "#191517",
+            "share": 0.155
+          },
+          {
+            "hex": "#2d1d1f",
+            "share": 0.15
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

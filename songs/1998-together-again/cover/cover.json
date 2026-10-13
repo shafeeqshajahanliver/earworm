@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c686b9b6-41c3-3dd2-acec-3c28d78912ad",
+      "release_title": "Together Again",
+      "release_date": "1997",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/9f8ee03d-d8a0-3d27-90ce-b325795ddb9e/32326631044-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9f8ee03d-d8a0-3d27-90ce-b325795ddb9e",
+      "image_id": 32326631044,
+      "types": [
+        "Front"
+      ],
+      "comment": "600dpi Scan",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1066
+      ],
+      "measures": {
+        "brightness": 0.876,
+        "saturation": 0.228,
+        "dark_share": 0.035,
+        "palette": [
+          {
+            "hex": "#fcfcfc",
+            "share": 0.282
+          },
+          {
+            "hex": "#92221e",
+            "share": 0.269
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.23
+          },
+          {
+            "hex": "#fdfdfd",
+            "share": 0.14
+          },
+          {
+            "hex": "#e7c5b5",
+            "share": 0.078
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "5bb501c6-2e78-393d-bcac-27d7d1b44a27",
+      "release_title": "The Velvet Rope",
+      "release_date": "1997-10-04",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Velvet Rope",
+      "url": "http://coverartarchive.org/release/f1cf04bd-f968-4fad-9eb5-7faefe9cb430/27271828673-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f1cf04bd-f968-4fad-9eb5-7faefe9cb430",
+      "image_id": 27271828673,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        604
+      ],
+      "measures": {
+        "brightness": 0.572,
+        "saturation": 0.503,
+        "dark_share": 0.039,
+        "palette": [
+          {
+            "hex": "#482f32",
+            "share": 0.309
+          },
+          {
+            "hex": "#ae3033",
+            "share": 0.27
+          },
+          {
+            "hex": "#c56147",
+            "share": 0.164
+          },
+          {
+            "hex": "#774442",
+            "share": 0.146
+          },
+          {
+            "hex": "#e8a36c",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/ba/cf/21bacf43-5878-e76b-e018-ca936a8243a7/22UMGIM92303.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Velvet Rope (Deluxe Edition)",
+      "collection_id": 1646557266,
+      "track_id": 1646558061,
+      "artist_name": "Janet Jackson",
+      "release_date": "1997-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.576,
+        "saturation": 0.462,
+        "dark_share": 0.083,
+        "palette": [
+          {
+            "hex": "#332f32",
+            "share": 0.295
+          },
+          {
+            "hex": "#9c3938",
+            "share": 0.26
+          },
+          {
+            "hex": "#cd8967",
+            "share": 0.234
+          },
+          {
+            "hex": "#9a5e4f",
+            "share": 0.134
+          },
+          {
+            "hex": "#e1a87e",
+            "share": 0.077
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

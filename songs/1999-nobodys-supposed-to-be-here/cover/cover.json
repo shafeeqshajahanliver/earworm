@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "dce2ac0a-db67-3b75-8ce8-107b71944d01",
+      "release_title": "Nobody's Supposed to Be Here",
+      "release_date": "1998",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/b2cae05c-0e83-4d74-9f04-e208e3d49694/44526854797-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b2cae05c-0e83-4d74-9f04-e208e3d49694",
+      "image_id": 44526854797,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1199
+      ],
+      "measures": {
+        "brightness": 0.817,
+        "saturation": 0.097,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#e5dfdf",
+            "share": 0.374
+          },
+          {
+            "hex": "#e6e0e0",
+            "share": 0.181
+          },
+          {
+            "hex": "#907667",
+            "share": 0.18
+          },
+          {
+            "hex": "#decdc5",
+            "share": 0.163
+          },
+          {
+            "hex": "#e7e2e1",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e782756a-aecb-324d-b647-59773900a794",
+      "release_title": "One Wish",
+      "release_date": "1998-09-15",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: One Wish",
+      "url": "http://coverartarchive.org/release/9df9cdf9-1e7e-4249-8d65-a5276366bff9/15914528738-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/9df9cdf9-1e7e-4249-8d65-a5276366bff9",
+      "image_id": 15914528738,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        497
+      ],
+      "measures": {
+        "brightness": 0.712,
+        "saturation": 0.207,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#d1caa8",
+            "share": 0.303
+          },
+          {
+            "hex": "#d7d0ac",
+            "share": 0.275
+          },
+          {
+            "hex": "#6b6250",
+            "share": 0.254
+          },
+          {
+            "hex": "#b7af91",
+            "share": 0.121
+          },
+          {
+            "hex": "#ded9ba",
+            "share": 0.046
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/30/18/68/3018682c-e63c-4dd5-92ec-e6e41cc8c189/dj.kunerrpy.jpg/1200x1200bb.jpg",
+      "collection": "One Wish",
+      "collection_id": 258619627,
+      "track_id": 258619690,
+      "artist_name": "Deborah Cox",
+      "release_date": "1998-09-15T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        604,
+        600
+      ],
+      "measures": {
+        "brightness": 0.712,
+        "saturation": 0.206,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#d1caa8",
+            "share": 0.3
+          },
+          {
+            "hex": "#d7d0ac",
+            "share": 0.277
+          },
+          {
+            "hex": "#6b6350",
+            "share": 0.257
+          },
+          {
+            "hex": "#b8b091",
+            "share": 0.12
+          },
+          {
+            "hex": "#ded9ba",
+            "share": 0.046
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

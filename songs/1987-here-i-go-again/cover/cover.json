@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "bdfbaba8-32a2-4f78-ba52-1bb1f1f101dc",
+      "release_title": "Here I Go Again",
+      "release_date": "1982",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8caf4f79-d557-4484-ab67-415104253a34/25480423657-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8caf4f79-d557-4484-ab67-415104253a34",
+      "image_id": 25480423657,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        598
+      ],
+      "measures": {
+        "brightness": 0.214,
+        "saturation": 0.284,
+        "dark_share": 0.634,
+        "palette": [
+          {
+            "hex": "#8b6779",
+            "share": 0.307
+          },
+          {
+            "hex": "#050303",
+            "share": 0.252
+          },
+          {
+            "hex": "#020202",
+            "share": 0.192
+          },
+          {
+            "hex": "#010101",
+            "share": 0.162
+          },
+          {
+            "hex": "#2f2328",
+            "share": 0.087
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b0dda456-8965-39ee-b933-6d2810c5a742",
+      "release_title": "Saints & Sinners",
+      "release_date": "1982-11-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Saints & Sinners",
+      "url": "https://coverartarchive.org/release/368994c3-e802-440d-88b2-1c645f890f59/45188411097-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/368994c3-e802-440d-88b2-1c645f890f59",
+      "image_id": 45188411097,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        743,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.52,
+        "saturation": 0.41,
+        "dark_share": 0.358,
+        "palette": [
+          {
+            "hex": "#f3e9c5",
+            "share": 0.34
+          },
+          {
+            "hex": "#040101",
+            "share": 0.299
+          },
+          {
+            "hex": "#d2bb91",
+            "share": 0.143
+          },
+          {
+            "hex": "#664138",
+            "share": 0.142
+          },
+          {
+            "hex": "#150d0f",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/67/dd/b067dd4b-7aca-9538-5034-62bafa832300/24CRGIM47909.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Whitesnake (30th Anniversary Super Deluxe Edition)",
+      "collection_id": 1862662672,
+      "track_id": 1862663196,
+      "artist_name": "Whitesnake",
+      "release_date": "1982-11-15T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.757,
+        "saturation": 0.133,
+        "dark_share": 0.009,
+        "palette": [
+          {
+            "hex": "#c7b9b4",
+            "share": 0.282
+          },
+          {
+            "hex": "#d3c9c4",
+            "share": 0.242
+          },
+          {
+            "hex": "#887661",
+            "share": 0.182
+          },
+          {
+            "hex": "#dad2cd",
+            "share": 0.17
+          },
+          {
+            "hex": "#e2dbd5",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

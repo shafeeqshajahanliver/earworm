@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "63eba062-847c-3b73-8b0f-6baf27bba6fa",
+      "release_title": "Fearless",
+      "release_date": "2008-11-11",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Fearless",
+      "url": "https://coverartarchive.org/release/6b36d317-b26f-496a-98d6-bb5dec9b173a/40731862566-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6b36d317-b26f-496a-98d6-bb5dec9b173a",
+      "image_id": 40731862566,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.825,
+        "saturation": 0.294,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#d4bb89",
+            "share": 0.266
+          },
+          {
+            "hex": "#eee5da",
+            "share": 0.234
+          },
+          {
+            "hex": "#98703d",
+            "share": 0.211
+          },
+          {
+            "hex": "#e8dac3",
+            "share": 0.197
+          },
+          {
+            "hex": "#f5f1eb",
+            "share": 0.092
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/6e/a7/cb6ea70a-6cb8-89a0-4da7-91e2d04a7bba/08PNDIM05386.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Fearless",
+      "collection_id": 1440924803,
+      "track_id": 1440924808,
+      "artist_name": "Taylor Swift",
+      "release_date": "2008-09-12T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        900,
+        900
+      ],
+      "measures": {
+        "brightness": 0.813,
+        "saturation": 0.315,
+        "dark_share": 0.003,
+        "palette": [
+          {
+            "hex": "#d0b380",
+            "share": 0.265
+          },
+          {
+            "hex": "#ede2d6",
+            "share": 0.224
+          },
+          {
+            "hex": "#936a39",
+            "share": 0.213
+          },
+          {
+            "hex": "#e6d5ba",
+            "share": 0.198
+          },
+          {
+            "hex": "#f5efe8",
+            "share": 0.1
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

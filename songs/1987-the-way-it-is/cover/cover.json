@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "d66727d5-161f-3af2-921d-137aeb9bbb0b",
+      "release_title": "The Way It Is",
+      "release_date": "1986",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Way It Is",
+      "url": "http://coverartarchive.org/release/b62259d4-5a6d-4218-9230-3629c1859175/26047794566-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b62259d4-5a6d-4218-9230-3629c1859175",
+      "image_id": 26047794566,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.417,
+        "saturation": 0.265,
+        "dark_share": 0.18,
+        "palette": [
+          {
+            "hex": "#cfb49c",
+            "share": 0.226
+          },
+          {
+            "hex": "#6e5c4d",
+            "share": 0.217
+          },
+          {
+            "hex": "#2e2922",
+            "share": 0.213
+          },
+          {
+            "hex": "#443b31",
+            "share": 0.178
+          },
+          {
+            "hex": "#39332b",
+            "share": 0.167
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/6f/1d/f36f1dc4-22d1-e23a-60c2-cccdd563d87d/078635590425.jpg/1200x1200bb.jpg",
+      "collection": "The Way It Is",
+      "collection_id": 258517180,
+      "track_id": 258517392,
+      "artist_name": "Bruce Hornsby & The Range",
+      "release_date": "1986-08-26T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.364,
+        "saturation": 0.492,
+        "dark_share": 0.418,
+        "palette": [
+          {
+            "hex": "#301918",
+            "share": 0.302
+          },
+          {
+            "hex": "#13080b",
+            "share": 0.238
+          },
+          {
+            "hex": "#674034",
+            "share": 0.18
+          },
+          {
+            "hex": "#b37559",
+            "share": 0.175
+          },
+          {
+            "hex": "#d8b195",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

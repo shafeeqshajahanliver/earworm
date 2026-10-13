@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "48483068-0cbd-399c-b8c8-128eaff1b039",
+      "release_title": "I Swear",
+      "release_date": "1994",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8357905f-450f-41ef-bce7-3542e83b70a0/6199674513-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/8357905f-450f-41ef-bce7-3542e83b70a0",
+      "image_id": "6199674513",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        435
+      ],
+      "measures": {
+        "brightness": 0.687,
+        "saturation": 0.157,
+        "dark_share": 0.163,
+        "palette": [
+          {
+            "hex": "#34302d",
+            "share": 0.267
+          },
+          {
+            "hex": "#f9f9f9",
+            "share": 0.256
+          },
+          {
+            "hex": "#836e64",
+            "share": 0.219
+          },
+          {
+            "hex": "#f8f7f7",
+            "share": 0.165
+          },
+          {
+            "hex": "#fafaf9",
+            "share": 0.094
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c58134ba-f061-3a4e-b7f7-1da9ac140e27",
+      "release_title": "All‐4‐One",
+      "release_date": "1994",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: All-4-One",
+      "url": "https://coverartarchive.org/release/1fda46e1-b8c8-4c51-9acc-a37bf6e58676/40470348555-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1fda46e1-b8c8-4c51-9acc-a37bf6e58676",
+      "image_id": 40470348555,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1194
+      ],
+      "measures": {
+        "brightness": 0.685,
+        "saturation": 0.268,
+        "dark_share": 0.146,
+        "palette": [
+          {
+            "hex": "#ecddc7",
+            "share": 0.366
+          },
+          {
+            "hex": "#171026",
+            "share": 0.306
+          },
+          {
+            "hex": "#f4f4f2",
+            "share": 0.161
+          },
+          {
+            "hex": "#eeede9",
+            "share": 0.09
+          },
+          {
+            "hex": "#9d908f",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/7a/93/1c7a93ce-6787-61f0-2baf-c51937349f41/mzi.vwripflv.jpg/1200x1200bb.jpg",
+      "collection": "All-4-One",
+      "collection_id": 300974540,
+      "track_id": 300974587,
+      "artist_name": "All-4-One",
+      "release_date": "1994-04-12T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1194
+      ],
+      "measures": {
+        "brightness": 0.685,
+        "saturation": 0.269,
+        "dark_share": 0.146,
+        "palette": [
+          {
+            "hex": "#ecdec7",
+            "share": 0.366
+          },
+          {
+            "hex": "#181026",
+            "share": 0.307
+          },
+          {
+            "hex": "#f4f4f2",
+            "share": 0.161
+          },
+          {
+            "hex": "#eeede9",
+            "share": 0.091
+          },
+          {
+            "hex": "#9e9290",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

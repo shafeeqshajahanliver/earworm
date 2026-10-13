@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "02f7b110-7d2f-316d-ad50-5bf72f07cada",
+      "release_title": "Working Class Dog",
+      "release_date": "1980",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Working Class Dog",
+      "url": "http://coverartarchive.org/release/7fe7a485-4865-4007-82ba-29422b6443db/27307051654-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/7fe7a485-4865-4007-82ba-29422b6443db",
+      "image_id": 27307051654,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        603
+      ],
+      "measures": {
+        "brightness": 0.449,
+        "saturation": 0.337,
+        "dark_share": 0.13,
+        "palette": [
+          {
+            "hex": "#5f4132",
+            "share": 0.257
+          },
+          {
+            "hex": "#2a2c28",
+            "share": 0.247
+          },
+          {
+            "hex": "#83674e",
+            "share": 0.232
+          },
+          {
+            "hex": "#b5b9ae",
+            "share": 0.132
+          },
+          {
+            "hex": "#a99474",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/1e/e8/521ee88b-8fcc-0d53-345d-3b82d910a554/828768486726.jpg/1200x1200bb.jpg",
+      "collection": "Working Class Dog",
+      "collection_id": 286005745,
+      "track_id": 286005748,
+      "artist_name": "Rick Springfield",
+      "release_date": "1981-02-24T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.337,
+        "saturation": 0.467,
+        "dark_share": 0.372,
+        "palette": [
+          {
+            "hex": "#341b16",
+            "share": 0.273
+          },
+          {
+            "hex": "#10090a",
+            "share": 0.244
+          },
+          {
+            "hex": "#623c29",
+            "share": 0.238
+          },
+          {
+            "hex": "#bab5b5",
+            "share": 0.153
+          },
+          {
+            "hex": "#9a795e",
+            "share": 0.091
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

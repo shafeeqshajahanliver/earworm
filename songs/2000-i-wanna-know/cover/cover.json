@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "69349e28-6f12-4c2e-b0a5-d53dcf45fbb4",
+      "release_title": "I Wanna Know",
+      "release_date": "2000",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/267183b4-6a26-4048-a7f4-12ac0606976a/43097436020-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/267183b4-6a26-4048-a7f4-12ac0606976a",
+      "image_id": 43097436020,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        597,
+        600
+      ],
+      "measures": {
+        "brightness": 0.773,
+        "saturation": 0.318,
+        "dark_share": 0.023,
+        "palette": [
+          {
+            "hex": "#cfb177",
+            "share": 0.27
+          },
+          {
+            "hex": "#ddc69f",
+            "share": 0.213
+          },
+          {
+            "hex": "#774631",
+            "share": 0.197
+          },
+          {
+            "hex": "#e2dfdf",
+            "share": 0.194
+          },
+          {
+            "hex": "#ebe7e4",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/4f/c1/064fc172-3cf7-e822-4d3b-021e0a2e228b/195081284477.jpg/1200x1200bb.jpg",
+      "collection": "Down & Depressed: Dangerous",
+      "collection_id": 1519607184,
+      "track_id": 1519607654,
+      "artist_name": "Joe",
+      "release_date": "1997-07-15T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.419,
+        "saturation": 0.375,
+        "dark_share": 0.019,
+        "palette": [
+          {
+            "hex": "#372f1e",
+            "share": 0.42
+          },
+          {
+            "hex": "#332c1b",
+            "share": 0.188
+          },
+          {
+            "hex": "#ece1c3",
+            "share": 0.174
+          },
+          {
+            "hex": "#ccc49e",
+            "share": 0.116
+          },
+          {
+            "hex": "#544d34",
+            "share": 0.102
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

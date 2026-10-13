@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "631d18a6-df41-3ee8-be9b-f1a8406034bd",
+      "release_title": "Borderline",
+      "release_date": "1986",
+      "release_country": "JP",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a6ed57f2-7994-4576-a20b-74bb7ae0e8a5/17447966961-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a6ed57f2-7994-4576-a20b-74bb7ae0e8a5",
+      "image_id": 17447966961,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1044
+      ],
+      "measures": {
+        "brightness": 0.675,
+        "saturation": 0.45,
+        "dark_share": 0.064,
+        "palette": [
+          {
+            "hex": "#b36049",
+            "share": 0.287
+          },
+          {
+            "hex": "#4e2b2a",
+            "share": 0.21
+          },
+          {
+            "hex": "#9281ad",
+            "share": 0.196
+          },
+          {
+            "hex": "#d39f9b",
+            "share": 0.195
+          },
+          {
+            "hex": "#e6c7c9",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f07346e6-c889-33b8-83c8-ad987d7b14f6",
+      "release_title": "Slippery When Wet",
+      "release_date": "1986",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Slippery When Wet",
+      "url": "http://coverartarchive.org/release/260849ba-38e8-4ad5-bf8a-bff47eb91f93/9382444781-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/260849ba-38e8-4ad5-bf8a-bff47eb91f93",
+      "image_id": "9382444781",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        494
+      ],
+      "measures": {
+        "brightness": 0.306,
+        "saturation": 0.198,
+        "dark_share": 0.422,
+        "palette": [
+          {
+            "hex": "#0c0c10",
+            "share": 0.253
+          },
+          {
+            "hex": "#534e59",
+            "share": 0.243
+          },
+          {
+            "hex": "#979099",
+            "share": 0.221
+          },
+          {
+            "hex": "#2c2a31",
+            "share": 0.16
+          },
+          {
+            "hex": "#18181e",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/16/3e/40163e24-6985-b785-d4ea-cbae07d74812/06UMGIM05422.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Slippery When Wet",
+      "collection_id": 1422954626,
+      "track_id": 1422955211,
+      "artist_name": "Bon Jovi",
+      "release_date": "1986-08-18T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.287,
+        "saturation": 0.141,
+        "dark_share": 0.383,
+        "palette": [
+          {
+            "hex": "#4b4b4e",
+            "share": 0.271
+          },
+          {
+            "hex": "#15191b",
+            "share": 0.206
+          },
+          {
+            "hex": "#7e7a7d",
+            "share": 0.199
+          },
+          {
+            "hex": "#232729",
+            "share": 0.168
+          },
+          {
+            "hex": "#333437",
+            "share": 0.156
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "5262e658-652f-33aa-af8f-6af28c2da7aa",
+      "release_title": "E. 1999 Eternal",
+      "release_date": "1995-07-25",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: E. 1999 Eternal",
+      "url": "http://coverartarchive.org/release/67d40d9f-2c89-4d49-8401-794e34f3e2c4/20595729007-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/67d40d9f-2c89-4d49-8401-794e34f3e2c4",
+      "image_id": 20595729007,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        450,
+        449
+      ],
+      "measures": {
+        "brightness": 0.212,
+        "saturation": 0.662,
+        "dark_share": 0.672,
+        "palette": [
+          {
+            "hex": "#0b0806",
+            "share": 0.333
+          },
+          {
+            "hex": "#170a07",
+            "share": 0.261
+          },
+          {
+            "hex": "#5e2010",
+            "share": 0.148
+          },
+          {
+            "hex": "#33110a",
+            "share": 0.147
+          },
+          {
+            "hex": "#9c5b2b",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/fa/13/9ffa13d8-7855-c7d7-c522-464ed4c38a5d/191018283247.jpg/1200x1200bb.jpg",
+      "collection": "E. 1999 Eternal",
+      "collection_id": 1168167172,
+      "track_id": 1168167477,
+      "artist_name": "Bone Thugs-n-Harmony",
+      "release_date": "1995-07-25T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.271,
+        "saturation": 0.594,
+        "dark_share": 0.398,
+        "palette": [
+          {
+            "hex": "#3f261a",
+            "share": 0.332
+          },
+          {
+            "hex": "#140c0a",
+            "share": 0.265
+          },
+          {
+            "hex": "#593724",
+            "share": 0.178
+          },
+          {
+            "hex": "#8b5e3e",
+            "share": 0.113
+          },
+          {
+            "hex": "#4c1614",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

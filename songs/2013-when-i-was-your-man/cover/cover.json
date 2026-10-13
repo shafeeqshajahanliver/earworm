@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "978d88db-60ec-41d9-ade7-beea020941b0",
+      "release_title": "Unorthodox Jukebox",
+      "release_date": "2012",
+      "release_country": "PH",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Unorthodox Jukebox",
+      "url": "https://coverartarchive.org/release/94238177-512d-48b8-b8d2-572d3f228863/11539415446-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/94238177-512d-48b8-b8d2-572d3f228863",
+      "image_id": 11539415446,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.655,
+        "saturation": 0.252,
+        "dark_share": 0.133,
+        "palette": [
+          {
+            "hex": "#352018",
+            "share": 0.275
+          },
+          {
+            "hex": "#dbd2be",
+            "share": 0.258
+          },
+          {
+            "hex": "#daceb9",
+            "share": 0.225
+          },
+          {
+            "hex": "#ad9a80",
+            "share": 0.122
+          },
+          {
+            "hex": "#ddd5c2",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/1200x1200bb.jpg",
+      "collection": "Unorthodox Jukebox",
+      "collection_id": 573962245,
+      "track_id": 573962555,
+      "artist_name": "Bruno Mars",
+      "release_date": "2012-12-07T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.655,
+        "saturation": 0.253,
+        "dark_share": 0.135,
+        "palette": [
+          {
+            "hex": "#352119",
+            "share": 0.277
+          },
+          {
+            "hex": "#dbd2be",
+            "share": 0.262
+          },
+          {
+            "hex": "#daceb9",
+            "share": 0.224
+          },
+          {
+            "hex": "#ae9a80",
+            "share": 0.121
+          },
+          {
+            "hex": "#ddd5c2",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

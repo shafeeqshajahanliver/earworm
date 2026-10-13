@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "ed63234c-9464-4baa-af1c-f05536574610",
+      "release_title": "My Prerogative",
+      "release_date": "1988",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/841a7a11-9603-4348-9765-29dcf27cd028/41736419971-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/841a7a11-9603-4348-9765-29dcf27cd028",
+      "image_id": 41736419971,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        596
+      ],
+      "measures": {
+        "brightness": 0.517,
+        "saturation": 0.283,
+        "dark_share": 0.227,
+        "palette": [
+          {
+            "hex": "#523c37",
+            "share": 0.29
+          },
+          {
+            "hex": "#14191d",
+            "share": 0.265
+          },
+          {
+            "hex": "#ece7d2",
+            "share": 0.19
+          },
+          {
+            "hex": "#959381",
+            "share": 0.132
+          },
+          {
+            "hex": "#f7f1db",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1e735c43-2224-371c-8011-8bc1697e00a4",
+      "release_title": "Don’t Be Cruel",
+      "release_date": "2020-04-10",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Don't Be Cruel",
+      "url": "https://coverartarchive.org/release/b080356e-c4ef-4f25-95a5-a86b8ba671e7/9374690820-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b080356e-c4ef-4f25-95a5-a86b8ba671e7",
+      "image_id": 9374690820,
+      "types": [
+        "Front"
+      ],
+      "comment": "500x500",
+      "file": "cover/album.jpg",
+      "original_size": [
+        550,
+        550
+      ],
+      "measures": {
+        "brightness": 0.426,
+        "saturation": 0.306,
+        "dark_share": 0.148,
+        "palette": [
+          {
+            "hex": "#b4ac7d",
+            "share": 0.241
+          },
+          {
+            "hex": "#7c7352",
+            "share": 0.224
+          },
+          {
+            "hex": "#292a22",
+            "share": 0.197
+          },
+          {
+            "hex": "#434232",
+            "share": 0.197
+          },
+          {
+            "hex": "#5d4b37",
+            "share": 0.142
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/be/94/3ebe942e-f6dc-a6dd-125e-cbdc46dabfd4/06UMGIM06505.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Don't Be Cruel",
+      "collection_id": 1440773569,
+      "track_id": 1440773584,
+      "artist_name": "Bobby Brown",
+      "release_date": "1988-06-20T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1196,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.477,
+        "saturation": 0.326,
+        "dark_share": 0.099,
+        "palette": [
+          {
+            "hex": "#685143",
+            "share": 0.294
+          },
+          {
+            "hex": "#aa916c",
+            "share": 0.216
+          },
+          {
+            "hex": "#372927",
+            "share": 0.212
+          },
+          {
+            "hex": "#8f765a",
+            "share": 0.198
+          },
+          {
+            "hex": "#c2b194",
+            "share": 0.08
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

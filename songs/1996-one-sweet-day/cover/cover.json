@@ -1,0 +1,148 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c54c1738-02f8-3520-9a59-1c3d4d533720",
+      "release_title": "One Sweet Day",
+      "release_date": "1995",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/efb80885-42dd-4d8d-b58e-915c6bfb84ca/40071129070-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/efb80885-42dd-4d8d-b58e-915c6bfb84ca",
+      "image_id": 40071129070,
+      "types": [
+        "Front",
+        "Back",
+        "Spine"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.634,
+        "saturation": 0.266,
+        "dark_share": 0.09,
+        "palette": [
+          {
+            "hex": "#a6a2b0",
+            "share": 0.267
+          },
+          {
+            "hex": "#392d2e",
+            "share": 0.254
+          },
+          {
+            "hex": "#84727a",
+            "share": 0.203
+          },
+          {
+            "hex": "#d2ccba",
+            "share": 0.142
+          },
+          {
+            "hex": "#eae9d8",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "bf0126a1-b79c-3c9c-a892-f4bf4fac2bb0",
+      "release_title": "Daydream",
+      "release_date": "1995",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Daydream",
+      "url": "https://coverartarchive.org/release/943c5259-a2af-4826-a7b8-cc5821d1a793/45561069081-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/943c5259-a2af-4826-a7b8-cc5821d1a793",
+      "image_id": 45561069081,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        595,
+        600
+      ],
+      "measures": {
+        "brightness": 0.324,
+        "saturation": 0.052,
+        "dark_share": 0.548,
+        "palette": [
+          {
+            "hex": "#bcb6b3",
+            "share": 0.253
+          },
+          {
+            "hex": "#242323",
+            "share": 0.216
+          },
+          {
+            "hex": "#1e1e1e",
+            "share": 0.21
+          },
+          {
+            "hex": "#4b4542",
+            "share": 0.173
+          },
+          {
+            "hex": "#202020",
+            "share": 0.148
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/b2/1d/deb21d0e-8b3e-7315-c75d-ac6a38360245/196874502235.jpg/1200x1200bb.jpg",
+      "collection": "Daydream (30th Anniversary Edition)",
+      "collection_id": 6789414774,
+      "track_id": 6789414781,
+      "artist_name": "Mariah Carey & Boyz II Men",
+      "release_date": "1995-09-26T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.239,
+        "saturation": 0.005,
+        "dark_share": 0.453,
+        "palette": [
+          {
+            "hex": "#3f3f3f",
+            "share": 0.345
+          },
+          {
+            "hex": "#0b0b0b",
+            "share": 0.335
+          },
+          {
+            "hex": "#bfbfbe",
+            "share": 0.115
+          },
+          {
+            "hex": "#20201f",
+            "share": 0.113
+          },
+          {
+            "hex": "#4c4c4b",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

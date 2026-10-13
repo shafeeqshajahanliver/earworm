@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "88f4aea6-617a-305b-ab3d-9433dc2d5c6f",
+      "release_title": "Take a Bow",
+      "release_date": "1994",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/3bee5394-553c-4727-9455-dc65a639fee4/1559537834-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3bee5394-553c-4727-9455-dc65a639fee4",
+      "image_id": 1559537834,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        581
+      ],
+      "measures": {
+        "brightness": 0.316,
+        "saturation": 0.11,
+        "dark_share": 0.237,
+        "palette": [
+          {
+            "hex": "#41393e",
+            "share": 0.296
+          },
+          {
+            "hex": "#211c1d",
+            "share": 0.234
+          },
+          {
+            "hex": "#51494f",
+            "share": 0.192
+          },
+          {
+            "hex": "#6d676f",
+            "share": 0.162
+          },
+          {
+            "hex": "#97939a",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b3c83c83-4280-363f-8ecc-9cb453a8ea18",
+      "release_title": "Bedtime Stories",
+      "release_date": "1994",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Bedtime Stories",
+      "url": "https://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/46108079975-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/78a92425-589a-351b-86bd-4409ae3e9968",
+      "image_id": 46108079975,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1199
+      ],
+      "measures": {
+        "brightness": 0.875,
+        "saturation": 0.389,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#dbb278",
+            "share": 0.332
+          },
+          {
+            "hex": "#e8c999",
+            "share": 0.195
+          },
+          {
+            "hex": "#fbe5b9",
+            "share": 0.194
+          },
+          {
+            "hex": "#b08b61",
+            "share": 0.175
+          },
+          {
+            "hex": "#f7d8a5",
+            "share": 0.105
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/ea/4d/2eea4d57-8c5b-8961-1541-40c3adf571b8/dj.ckcxloql.jpg/1200x1200bb.jpg",
+      "collection": "Bedtime Stories",
+      "collection_id": 80814997,
+      "track_id": 80814995,
+      "artist_name": "Madonna",
+      "release_date": "1994-10-25T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.795,
+        "saturation": 0.231,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#c3a895",
+            "share": 0.331
+          },
+          {
+            "hex": "#d0beb0",
+            "share": 0.179
+          },
+          {
+            "hex": "#9f8a81",
+            "share": 0.179
+          },
+          {
+            "hex": "#e7d4c3",
+            "share": 0.168
+          },
+          {
+            "hex": "#e2c8b5",
+            "share": 0.143
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

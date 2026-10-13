@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "ede20ced-9f32-316a-8440-7efcba4bc2d2",
+      "release_title": "Camino Palmero",
+      "release_date": "2001",
+      "release_country": "ZA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Camino Palmero",
+      "url": "https://coverartarchive.org/release/9831aa8e-1ce8-4feb-8f9b-0e456a3c3bc6/44544075745-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9831aa8e-1ce8-4feb-8f9b-0e456a3c3bc6",
+      "image_id": 44544075745,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.462,
+        "saturation": 0.243,
+        "dark_share": 0.418,
+        "palette": [
+          {
+            "hex": "#1f1a17",
+            "share": 0.299
+          },
+          {
+            "hex": "#2c262b",
+            "share": 0.267
+          },
+          {
+            "hex": "#a7c4e1",
+            "share": 0.202
+          },
+          {
+            "hex": "#e5f1f9",
+            "share": 0.128
+          },
+          {
+            "hex": "#627999",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e5/47/b0/e547b0ee-b253-8448-9c34-615cd81de662/mzi.dhcovkbe.jpg/1200x1200bb.jpg",
+      "collection": "Camino Palmero",
+      "collection_id": 407593152,
+      "track_id": 407593225,
+      "artist_name": "The Calling",
+      "release_date": "2001-06-04T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.462,
+        "saturation": 0.24,
+        "dark_share": 0.416,
+        "palette": [
+          {
+            "hex": "#c6daed",
+            "share": 0.286
+          },
+          {
+            "hex": "#1f1b18",
+            "share": 0.238
+          },
+          {
+            "hex": "#312933",
+            "share": 0.18
+          },
+          {
+            "hex": "#262221",
+            "share": 0.15
+          },
+          {
+            "hex": "#627898",
+            "share": 0.145
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

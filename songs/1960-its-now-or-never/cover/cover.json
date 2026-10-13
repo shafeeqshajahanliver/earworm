@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "7ff1cad6-1aee-4567-bbf3-12f364f5f3f8",
+      "release_title": "It’s Now or Never / A Mess of Blues",
+      "release_date": "1960-07-05",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8690cfbf-f314-4f68-8cb7-9019b4431e4d/29860334372-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8690cfbf-f314-4f68-8cb7-9019b4431e4d",
+      "image_id": 29860334372,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        601
+      ],
+      "measures": {
+        "brightness": 0.435,
+        "saturation": 0.368,
+        "dark_share": 0.169,
+        "palette": [
+          {
+            "hex": "#2d2321",
+            "share": 0.27
+          },
+          {
+            "hex": "#765244",
+            "share": 0.248
+          },
+          {
+            "hex": "#4f3731",
+            "share": 0.229
+          },
+          {
+            "hex": "#d5b07c",
+            "share": 0.131
+          },
+          {
+            "hex": "#b48467",
+            "share": 0.122
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/80/6f/e5/806fe59b-e65d-2f06-e3aa-40fe209dbc87/886446953656.jpg/1200x1200bb.jpg",
+      "collection": "Elvis Presley: The Searcher (The Original Soundtrack) [Deluxe]",
+      "collection_id": 1345044761,
+      "track_id": 1345044989,
+      "artist_name": "Elvis Presley",
+      "release_date": "1960-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.574,
+        "saturation": 0.205,
+        "dark_share": 0.073,
+        "palette": [
+          {
+            "hex": "#829197",
+            "share": 0.359
+          },
+          {
+            "hex": "#92a0a4",
+            "share": 0.19
+          },
+          {
+            "hex": "#4f3e3e",
+            "share": 0.189
+          },
+          {
+            "hex": "#827e81",
+            "share": 0.182
+          },
+          {
+            "hex": "#c5ccce",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

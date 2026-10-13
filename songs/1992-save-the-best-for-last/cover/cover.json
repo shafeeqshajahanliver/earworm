@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "e33f80a0-c73b-3d46-ab3c-3d2fa8d47f44",
+      "release_title": "Save the Best for Last",
+      "release_date": "1991",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/87bc8533-d3b6-4217-8c71-4f266215761d/43014349405-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/87bc8533-d3b6-4217-8c71-4f266215761d",
+      "image_id": 43014349405,
+      "types": [
+        "Front",
+        "Spine"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        464
+      ],
+      "measures": {
+        "brightness": 0.869,
+        "saturation": 0.275,
+        "dark_share": 0.017,
+        "palette": [
+          {
+            "hex": "#e7a778",
+            "share": 0.322
+          },
+          {
+            "hex": "#fefaf5",
+            "share": 0.264
+          },
+          {
+            "hex": "#984f58",
+            "share": 0.196
+          },
+          {
+            "hex": "#fffffd",
+            "share": 0.142
+          },
+          {
+            "hex": "#f8ece1",
+            "share": 0.075
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b5551262-a931-3f2b-b274-a6da29a53011",
+      "release_title": "The Comfort Zone",
+      "release_date": "1991",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Comfort Zone",
+      "url": "https://coverartarchive.org/release/68c19a91-3c6b-430c-a30f-a1eba3852ef9/42785770605-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/68c19a91-3c6b-430c-a30f-a1eba3852ef9",
+      "image_id": 42785770605,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.611,
+        "saturation": 0.299,
+        "dark_share": 0.034,
+        "palette": [
+          {
+            "hex": "#7e6a7b",
+            "share": 0.246
+          },
+          {
+            "hex": "#3e404c",
+            "share": 0.238
+          },
+          {
+            "hex": "#dca796",
+            "share": 0.222
+          },
+          {
+            "hex": "#a8838c",
+            "share": 0.212
+          },
+          {
+            "hex": "#ac9fa8",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/21/2b/47/212b4706-5393-4cbb-fd2f-5c35aec0b101/00042284352222.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The Comfort Zone",
+      "collection_id": 1443918180,
+      "track_id": 1443918464,
+      "artist_name": "Vanessa Williams",
+      "release_date": "1991-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.612,
+        "saturation": 0.305,
+        "dark_share": 0.034,
+        "palette": [
+          {
+            "hex": "#7f6a7b",
+            "share": 0.245
+          },
+          {
+            "hex": "#3f414d",
+            "share": 0.241
+          },
+          {
+            "hex": "#a9838c",
+            "share": 0.221
+          },
+          {
+            "hex": "#dda897",
+            "share": 0.21
+          },
+          {
+            "hex": "#ad9fa8",
+            "share": 0.083
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

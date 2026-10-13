@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "c1e29187-6702-322e-b1c4-dec908737211",
+      "release_title": "One More Try",
+      "release_date": "1991",
+      "release_country": "NL",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/47fa73a7-76f9-44ca-9c63-29d3281f3bb9/32162723756-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/47fa73a7-76f9-44ca-9c63-29d3281f3bb9",
+      "image_id": 32162723756,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        584,
+        571
+      ],
+      "measures": {
+        "brightness": 0.814,
+        "saturation": 0.252,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f4cfad",
+            "share": 0.314
+          },
+          {
+            "hex": "#b99a96",
+            "share": 0.243
+          },
+          {
+            "hex": "#92707e",
+            "share": 0.231
+          },
+          {
+            "hex": "#fbeedd",
+            "share": 0.162
+          },
+          {
+            "hex": "#fbe88d",
+            "share": 0.049
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c5f21f9d-31cf-3ccc-89a1-b3e4c322a543",
+      "release_title": "Time After Time",
+      "release_date": "1990-06-20",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Time After Time",
+      "url": "http://coverartarchive.org/release/33a73ec6-fa7e-4a10-b05e-b2794c06f085/9375293643-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/33a73ec6-fa7e-4a10-b05e-b2794c06f085",
+      "image_id": 9375293643,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        304,
+        300
+      ],
+      "measures": {
+        "brightness": 0.503,
+        "saturation": 0.495,
+        "dark_share": 0.161,
+        "palette": [
+          {
+            "hex": "#a04085",
+            "share": 0.256
+          },
+          {
+            "hex": "#77624c",
+            "share": 0.244
+          },
+          {
+            "hex": "#2a231b",
+            "share": 0.232
+          },
+          {
+            "hex": "#8c8a54",
+            "share": 0.147
+          },
+          {
+            "hex": "#b7d756",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/7f/bb/957fbbb6-dfd2-4da1-5512-629d40d075fc/s05.eikfzhbf.jpg/1200x1200bb.jpg",
+      "collection": "Time After Time",
+      "collection_id": 13313961,
+      "track_id": 13313926,
+      "artist_name": "Timmy T",
+      "release_date": "1990-06-20T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1189
+      ],
+      "measures": {
+        "brightness": 0.432,
+        "saturation": 0.481,
+        "dark_share": 0.191,
+        "palette": [
+          {
+            "hex": "#221719",
+            "share": 0.265
+          },
+          {
+            "hex": "#7a315b",
+            "share": 0.251
+          },
+          {
+            "hex": "#734449",
+            "share": 0.21
+          },
+          {
+            "hex": "#846548",
+            "share": 0.15
+          },
+          {
+            "hex": "#b1b353",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "900497ac-da7b-3a38-ada4-6685b8d28ab5",
+      "release_title": "This Is How We Do It",
+      "release_date": "1995-04-25",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/723b98c2-660d-48aa-ae8d-522c3269bb1d/10265260820-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/723b98c2-660d-48aa-ae8d-522c3269bb1d",
+      "image_id": "10265260820",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        489,
+        489
+      ],
+      "measures": {
+        "brightness": 0.555,
+        "saturation": 0.687,
+        "dark_share": 0.086,
+        "palette": [
+          {
+            "hex": "#12459d",
+            "share": 0.284
+          },
+          {
+            "hex": "#1d2e46",
+            "share": 0.257
+          },
+          {
+            "hex": "#193c78",
+            "share": 0.188
+          },
+          {
+            "hex": "#175bb4",
+            "share": 0.169
+          },
+          {
+            "hex": "#9ecadc",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8e5eb091-1a41-3199-bc0c-db5959b23ed7",
+      "release_title": "This Is How We Do It",
+      "release_date": "1995-04-04",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: This Is How We Do It",
+      "url": "https://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/39873519006-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d",
+      "image_id": 39873519006,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1192,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.258,
+        "saturation": 0.108,
+        "dark_share": 0.568,
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.286
+          },
+          {
+            "hex": "#111111",
+            "share": 0.258
+          },
+          {
+            "hex": "#3e4343",
+            "share": 0.185
+          },
+          {
+            "hex": "#367591",
+            "share": 0.179
+          },
+          {
+            "hex": "#bec9cd",
+            "share": 0.092
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/94/47/e7944769-34bb-1ee3-e1d9-b819e3497caa/06UMGIM03760.rgb.jpg/1200x1200bb.jpg",
+      "collection": "This Is How We Do It",
+      "collection_id": 1442959457,
+      "track_id": 1442959466,
+      "artist_name": "Montell Jordan",
+      "release_date": "1995-02-06T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1179,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.304,
+        "saturation": 0.18,
+        "dark_share": 0.522,
+        "palette": [
+          {
+            "hex": "#07090b",
+            "share": 0.286
+          },
+          {
+            "hex": "#161718",
+            "share": 0.246
+          },
+          {
+            "hex": "#3c4b5c",
+            "share": 0.21
+          },
+          {
+            "hex": "#737980",
+            "share": 0.155
+          },
+          {
+            "hex": "#e3e6e9",
+            "share": 0.104
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

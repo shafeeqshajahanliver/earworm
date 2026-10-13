@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "74504c47-6c8f-3311-8629-a7fc4ebc57ec",
+      "release_title": "Unfoolish",
+      "release_date": "2002",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "db1b3de6-3e84-3260-9755-5525cab6d826",
+      "release_title": "Ashanti",
+      "release_date": "2002-04-02",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Ashanti",
+      "url": "http://coverartarchive.org/release/6abc2071-c938-4659-b000-aeef26a8433c/7448267217-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6abc2071-c938-4659-b000-aeef26a8433c",
+      "image_id": 7448267217,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.667,
+        "saturation": 0.288,
+        "dark_share": 0.144,
+        "palette": [
+          {
+            "hex": "#ac7f4d",
+            "share": 0.26
+          },
+          {
+            "hex": "#38271f",
+            "share": 0.233
+          },
+          {
+            "hex": "#abbdbc",
+            "share": 0.212
+          },
+          {
+            "hex": "#e9ebeb",
+            "share": 0.155
+          },
+          {
+            "hex": "#f9fcfd",
+            "share": 0.14
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/6d/7c/f66d7c88-329a-29c1-d756-11a6ea134d38/06UMGIM11498.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Ashanti",
+      "collection_id": 1444119785,
+      "track_id": 1444119831,
+      "artist_name": "Ashanti",
+      "release_date": "2002-04-02T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "measures": {
+        "brightness": 0.66,
+        "saturation": 0.221,
+        "dark_share": 0.146,
+        "palette": [
+          {
+            "hex": "#a8866a",
+            "share": 0.242
+          },
+          {
+            "hex": "#322a25",
+            "share": 0.231
+          },
+          {
+            "hex": "#9eb8c0",
+            "share": 0.228
+          },
+          {
+            "hex": "#ece9e9",
+            "share": 0.154
+          },
+          {
+            "hex": "#fbfbfd",
+            "share": 0.144
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

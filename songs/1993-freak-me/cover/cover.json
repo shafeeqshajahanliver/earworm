@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "f77ddc50-4117-3109-b01a-0518f087bee5",
+      "release_title": "Lose Control",
+      "release_date": "1992",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Lose Control",
+      "url": "http://coverartarchive.org/release/b09213b1-eac0-40de-95bd-86af27077dbb/31401937083-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b09213b1-eac0-40de-95bd-86af27077dbb",
+      "image_id": 31401937083,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1074,
+        1062
+      ],
+      "measures": {
+        "brightness": 0.409,
+        "saturation": 0.234,
+        "dark_share": 0.329,
+        "palette": [
+          {
+            "hex": "#26211d",
+            "share": 0.324
+          },
+          {
+            "hex": "#3e2e24",
+            "share": 0.214
+          },
+          {
+            "hex": "#a9a696",
+            "share": 0.191
+          },
+          {
+            "hex": "#7a705e",
+            "share": 0.152
+          },
+          {
+            "hex": "#d4d4cc",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/44/ee/a644eec5-6bb1-95f3-f241-43c81b6dba21/mzi.xfymdvrw.jpg/1200x1200bb.jpg",
+      "collection": "Lose Control",
+      "collection_id": 321975091,
+      "track_id": 321975353,
+      "artist_name": "Silk",
+      "release_date": "1992-11-17T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.324,
+        "saturation": 0.278,
+        "dark_share": 0.451,
+        "palette": [
+          {
+            "hex": "#050506",
+            "share": 0.263
+          },
+          {
+            "hex": "#62524a",
+            "share": 0.235
+          },
+          {
+            "hex": "#b9b4ab",
+            "share": 0.221
+          },
+          {
+            "hex": "#371b1a",
+            "share": 0.153
+          },
+          {
+            "hex": "#120d0c",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "fb15c8c8-c424-3a30-9a92-c3f14a923474",
+      "release_title": "Under the Bridge",
+      "release_date": "1991",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d67305a9-67a2-44e1-b332-3f37c7730ce3/3103798818-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/d67305a9-67a2-44e1-b332-3f37c7730ce3",
+      "image_id": "3103798818",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.654,
+        "saturation": 0.306,
+        "dark_share": 0.17,
+        "palette": [
+          {
+            "hex": "#320d09",
+            "share": 0.264
+          },
+          {
+            "hex": "#8d8367",
+            "share": 0.213
+          },
+          {
+            "hex": "#dcd9bc",
+            "share": 0.208
+          },
+          {
+            "hex": "#f9fadd",
+            "share": 0.16
+          },
+          {
+            "hex": "#fdfef6",
+            "share": 0.155
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "68bee70d-b425-3813-aca7-dd7b912c3d11",
+      "release_title": "Blood Sugar Sex Magik",
+      "release_date": "1991",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Blood Sugar Sex Magik",
+      "url": "http://coverartarchive.org/release/23767d15-3b52-4298-9b6b-32a4a2684618/15240926872-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/23767d15-3b52-4298-9b6b-32a4a2684618",
+      "image_id": 15240926872,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.631,
+        "saturation": 0.104,
+        "dark_share": 0.219,
+        "palette": [
+          {
+            "hex": "#201d1c",
+            "share": 0.273
+          },
+          {
+            "hex": "#d6d5d8",
+            "share": 0.243
+          },
+          {
+            "hex": "#867170",
+            "share": 0.192
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.183
+          },
+          {
+            "hex": "#f6f5f7",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/c8/b2/c9c8b20d-42b8-a2a6-1678-54b997e845f5/093624931973.jpg/1200x1200bb.jpg",
+      "collection": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "collection_id": 948460531,
+      "track_id": 948460560,
+      "artist_name": "Red Hot Chili Peppers",
+      "release_date": "1991-09-24T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.631,
+        "saturation": 0.107,
+        "dark_share": 0.22,
+        "palette": [
+          {
+            "hex": "#201d1c",
+            "share": 0.274
+          },
+          {
+            "hex": "#d6d5d8",
+            "share": 0.244
+          },
+          {
+            "hex": "#85706f",
+            "share": 0.193
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.183
+          },
+          {
+            "hex": "#f6f5f7",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

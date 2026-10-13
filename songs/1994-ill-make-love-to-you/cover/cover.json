@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "38905f50-2364-444f-a4fb-0e55037e3ffb",
+      "release_title": "I'll Make Love to You",
+      "release_date": "1994",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d53ad6b3-257e-4760-9472-177eadb96f2e/23160341847-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d53ad6b3-257e-4760-9472-177eadb96f2e",
+      "image_id": 23160341847,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        523
+      ],
+      "measures": {
+        "brightness": 0.74,
+        "saturation": 0.277,
+        "dark_share": 0.01,
+        "palette": [
+          {
+            "hex": "#b4ab88",
+            "share": 0.289
+          },
+          {
+            "hex": "#ccc3ab",
+            "share": 0.233
+          },
+          {
+            "hex": "#836145",
+            "share": 0.19
+          },
+          {
+            "hex": "#e5dbc8",
+            "share": 0.15
+          },
+          {
+            "hex": "#ddccb2",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/11/f1/9011f123-bbae-2d27-2e79-03d12e609ad6/22UMGIM62874.rgb.jpg/1200x1200bb.jpg",
+      "collection": "I'll Make Love To You (Slowed + Reverb) - Single",
+      "collection_id": 1674246134,
+      "track_id": 1674246646,
+      "artist_name": "Boyz II Men",
+      "release_date": "2022-07-22T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.623,
+        "saturation": 0.471,
+        "dark_share": 0.261,
+        "palette": [
+          {
+            "hex": "#ed1b59",
+            "share": 0.308
+          },
+          {
+            "hex": "#1e0f0f",
+            "share": 0.287
+          },
+          {
+            "hex": "#fdf7ca",
+            "share": 0.142
+          },
+          {
+            "hex": "#bfc5bc",
+            "share": 0.141
+          },
+          {
+            "hex": "#7c4652",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

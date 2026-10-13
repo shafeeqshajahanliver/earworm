@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "0aca5f44-ee51-3376-9045-2d587b6653a1",
+      "release_title": "U Got It Bad",
+      "release_date": null,
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/b2a7b438-819e-4f76-bf58-8b16408b6236/46076624415-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b2a7b438-819e-4f76-bf58-8b16408b6236",
+      "image_id": 46076624415,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.447,
+        "saturation": 0.407,
+        "dark_share": 0.193,
+        "palette": [
+          {
+            "hex": "#181820",
+            "share": 0.255
+          },
+          {
+            "hex": "#6d7079",
+            "share": 0.221
+          },
+          {
+            "hex": "#6f3d30",
+            "share": 0.213
+          },
+          {
+            "hex": "#7e6059",
+            "share": 0.198
+          },
+          {
+            "hex": "#b29b97",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+      "release_title": "8701",
+      "release_date": "2001-07-09",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 8701",
+      "url": "http://coverartarchive.org/release/dbdb4e87-741e-4119-8712-3f5b90a957cb/5832580021-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/dbdb4e87-741e-4119-8712-3f5b90a957cb",
+      "image_id": 5832580021,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.464,
+        "saturation": 0.622,
+        "dark_share": 0.218,
+        "palette": [
+          {
+            "hex": "#5c1218",
+            "share": 0.287
+          },
+          {
+            "hex": "#160f10",
+            "share": 0.228
+          },
+          {
+            "hex": "#7c2020",
+            "share": 0.202
+          },
+          {
+            "hex": "#c16730",
+            "share": 0.166
+          },
+          {
+            "hex": "#f0bf70",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/1f/06/e71f062b-71c8-3b06-49d3-a0842a759684/078221471527.jpg/1200x1200bb.jpg",
+      "collection": "8701",
+      "collection_id": 268532446,
+      "track_id": 268532564,
+      "artist_name": "USHER",
+      "release_date": "2001-07-09T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.467,
+        "saturation": 0.619,
+        "dark_share": 0.218,
+        "palette": [
+          {
+            "hex": "#751b1e",
+            "share": 0.247
+          },
+          {
+            "hex": "#561117",
+            "share": 0.231
+          },
+          {
+            "hex": "#141011",
+            "share": 0.222
+          },
+          {
+            "hex": "#b95e2f",
+            "share": 0.169
+          },
+          {
+            "hex": "#efbb6d",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

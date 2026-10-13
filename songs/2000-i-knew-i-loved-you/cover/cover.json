@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "7099cc11-6b39-3349-bc30-311c47b6e575",
+      "release_title": "I Knew I Loved You",
+      "release_date": "1999",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/633edcc7-5121-4ade-9aaa-599e546aa805/21572433379-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/633edcc7-5121-4ade-9aaa-599e546aa805",
+      "image_id": 21572433379,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.51,
+        "saturation": 0.602,
+        "dark_share": 0.171,
+        "palette": [
+          {
+            "hex": "#8b121d",
+            "share": 0.366
+          },
+          {
+            "hex": "#22080c",
+            "share": 0.231
+          },
+          {
+            "hex": "#bd8e75",
+            "share": 0.156
+          },
+          {
+            "hex": "#dbb5a1",
+            "share": 0.125
+          },
+          {
+            "hex": "#804344",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "c1a5625d-edc3-3ebb-a2b5-ad305dcbc89b",
+      "release_title": "Affirmation",
+      "release_date": "1999",
+      "release_country": "MX",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Affirmation",
+      "url": "https://coverartarchive.org/release/4d393179-2fa6-45fd-aade-d55c47c2bda0/31511907821-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/4d393179-2fa6-45fd-aade-d55c47c2bda0",
+      "image_id": 31511907821,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.26,
+        "saturation": 0.702,
+        "dark_share": 0.519,
+        "palette": [
+          {
+            "hex": "#112f48",
+            "share": 0.321
+          },
+          {
+            "hex": "#010c1d",
+            "share": 0.233
+          },
+          {
+            "hex": "#020915",
+            "share": 0.211
+          },
+          {
+            "hex": "#6a7375",
+            "share": 0.166
+          },
+          {
+            "hex": "#080c14",
+            "share": 0.07
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/d7/21/7f/mzi.bcoqqnsb.jpg/1200x1200bb.jpg",
+      "collection": "Affirmation",
+      "collection_id": 157389797,
+      "track_id": 157390097,
+      "artist_name": "Savage Garden",
+      "release_date": "1999-09-28T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.257,
+        "saturation": 0.705,
+        "dark_share": 0.524,
+        "palette": [
+          {
+            "hex": "#112e47",
+            "share": 0.317
+          },
+          {
+            "hex": "#000b1c",
+            "share": 0.228
+          },
+          {
+            "hex": "#020914",
+            "share": 0.221
+          },
+          {
+            "hex": "#687275",
+            "share": 0.166
+          },
+          {
+            "hex": "#080b15",
+            "share": 0.068
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

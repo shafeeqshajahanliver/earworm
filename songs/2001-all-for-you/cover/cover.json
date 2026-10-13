@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "075c2b9e-3227-3250-9bf7-d7f5cdf096dd",
+      "release_title": "All for you",
+      "release_date": "2001",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/5e14f3d8-3cbf-40d2-8996-47283a59385d/45532155617-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5e14f3d8-3cbf-40d2-8996-47283a59385d",
+      "image_id": 45532155617,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.796,
+        "saturation": 0.153,
+        "dark_share": 0.086,
+        "palette": [
+          {
+            "hex": "#d8c0ab",
+            "share": 0.267
+          },
+          {
+            "hex": "#f2f0eb",
+            "share": 0.215
+          },
+          {
+            "hex": "#634a3a",
+            "share": 0.194
+          },
+          {
+            "hex": "#fbfaf8",
+            "share": 0.177
+          },
+          {
+            "hex": "#fefdfb",
+            "share": 0.148
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1c3e4ee5-361c-3f9b-baa1-485f7a28bf77",
+      "release_title": "All for You",
+      "release_date": "2001-04-16",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: All for You",
+      "url": "http://coverartarchive.org/release/cadcb4c2-d992-3dba-9bdf-3eaee375ea62/4120452247-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/cadcb4c2-d992-3dba-9bdf-3eaee375ea62",
+      "image_id": 4120452247,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.701,
+        "saturation": 0.364,
+        "dark_share": 0.147,
+        "palette": [
+          {
+            "hex": "#bc6d4b",
+            "share": 0.283
+          },
+          {
+            "hex": "#311512",
+            "share": 0.239
+          },
+          {
+            "hex": "#f4f0f4",
+            "share": 0.178
+          },
+          {
+            "hex": "#fbfbfb",
+            "share": 0.162
+          },
+          {
+            "hex": "#e3bfaf",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ab/25/04ab2585-dd7b-dfed-3afe-86800393a7c2/13ULAIM48853.rgb.jpg/1200x1200bb.jpg",
+      "collection": "All For You",
+      "collection_id": 724885014,
+      "track_id": 724885384,
+      "artist_name": "Janet Jackson",
+      "release_date": "2001-03-13T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.704,
+        "saturation": 0.332,
+        "dark_share": 0.117,
+        "palette": [
+          {
+            "hex": "#b26d53",
+            "share": 0.291
+          },
+          {
+            "hex": "#3a1e1a",
+            "share": 0.231
+          },
+          {
+            "hex": "#fffffd",
+            "share": 0.193
+          },
+          {
+            "hex": "#f9f0ec",
+            "share": 0.147
+          },
+          {
+            "hex": "#e3bea9",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

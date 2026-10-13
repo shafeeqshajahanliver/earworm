@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "89087bb4-ce1d-36a5-8b72-b7bd200b291d",
+      "release_title": "If I Ain’t Got You",
+      "release_date": "2004-02-16",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/65f63fe1-df95-439f-a5b1-28b6cda6168c/26542930807-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/65f63fe1-df95-439f-a5b1-28b6cda6168c",
+      "image_id": 26542930807,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.658,
+        "saturation": 0.196,
+        "dark_share": 0.028,
+        "palette": [
+          {
+            "hex": "#a88d81",
+            "share": 0.299
+          },
+          {
+            "hex": "#b5a095",
+            "share": 0.244
+          },
+          {
+            "hex": "#735b52",
+            "share": 0.189
+          },
+          {
+            "hex": "#c0b0a7",
+            "share": 0.158
+          },
+          {
+            "hex": "#dad0cb",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "e53e291f-9a9c-38a0-96e0-86a9b63b776d",
+      "release_title": "The Diary of Alicia Keys",
+      "release_date": "2003",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Diary of Alicia Keys",
+      "url": "http://coverartarchive.org/release/3993f8e0-ab08-482b-8247-b6186126ff0e/36046505312-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3993f8e0-ab08-482b-8247-b6186126ff0e",
+      "image_id": 36046505312,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.579,
+        "saturation": 0.398,
+        "dark_share": 0.108,
+        "palette": [
+          {
+            "hex": "#82583a",
+            "share": 0.26
+          },
+          {
+            "hex": "#372217",
+            "share": 0.234
+          },
+          {
+            "hex": "#b89176",
+            "share": 0.217
+          },
+          {
+            "hex": "#d1b7a6",
+            "share": 0.163
+          },
+          {
+            "hex": "#e4dee1",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/07/c6/c207c6ee-e3f1-cad2-1259-69a3ebd08b5c/828765571227.jpg/1200x1200bb.jpg",
+      "collection": "The Diary of Alicia Keys",
+      "collection_id": 255342344,
+      "track_id": 255343130,
+      "artist_name": "Alicia Keys",
+      "release_date": "2003-12-02T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.58,
+        "saturation": 0.378,
+        "dark_share": 0.107,
+        "palette": [
+          {
+            "hex": "#82583b",
+            "share": 0.257
+          },
+          {
+            "hex": "#382319",
+            "share": 0.237
+          },
+          {
+            "hex": "#b89176",
+            "share": 0.218
+          },
+          {
+            "hex": "#d1b7a7",
+            "share": 0.162
+          },
+          {
+            "hex": "#e5dee1",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

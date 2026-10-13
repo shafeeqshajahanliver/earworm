@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "997d0db0-40ec-4994-9170-519d81cf082b",
+      "release_title": "To Sir With Love / The Boat That I Row",
+      "release_date": "1967-09-02",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "0b5826bc-852b-4b84-8e85-c9fd49509772",
+      "release_title": "To Sir With Love",
+      "release_date": "2006",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: To Sir, with Love",
+      "url": "http://coverartarchive.org/release/0c7bfddd-d9e3-45bf-be8c-af2dd59f2af0/16459312653-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/0c7bfddd-d9e3-45bf-be8c-af2dd59f2af0",
+      "image_id": 16459312653,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.584,
+        "saturation": 0.457,
+        "dark_share": 0.069,
+        "palette": [
+          {
+            "hex": "#46362d",
+            "share": 0.27
+          },
+          {
+            "hex": "#9a457d",
+            "share": 0.229
+          },
+          {
+            "hex": "#9f6347",
+            "share": 0.229
+          },
+          {
+            "hex": "#c39067",
+            "share": 0.154
+          },
+          {
+            "hex": "#e1b891",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/f0/31/mzi.mztonyij.jpg/1200x1200bb.jpg",
+      "collection": "To Sir With Love",
+      "collection_id": 313381910,
+      "track_id": 313382209,
+      "artist_name": "Lulu",
+      "release_date": "1967-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        617
+      ],
+      "measures": {
+        "brightness": 0.717,
+        "saturation": 0.173,
+        "dark_share": 0.018,
+        "palette": [
+          {
+            "hex": "#a1ab99",
+            "share": 0.291
+          },
+          {
+            "hex": "#bcc6c6",
+            "share": 0.233
+          },
+          {
+            "hex": "#706569",
+            "share": 0.184
+          },
+          {
+            "hex": "#d7d8d4",
+            "share": 0.178
+          },
+          {
+            "hex": "#d0cdc2",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

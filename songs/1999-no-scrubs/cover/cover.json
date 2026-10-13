@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "9f8bb4f1-256b-4aff-ab50-34abbca09d56",
+      "release_title": "No Scrubs",
+      "release_date": "1999-01-23",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/4160cd98-798a-4a9f-b023-c7645769896e/8063318326-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/4160cd98-798a-4a9f-b023-c7645769896e",
+      "image_id": "8063318326",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        450,
+        450
+      ],
+      "measures": {
+        "brightness": 0.461,
+        "saturation": 0.504,
+        "dark_share": 0.288,
+        "palette": [
+          {
+            "hex": "#576b8b",
+            "share": 0.282
+          },
+          {
+            "hex": "#000715",
+            "share": 0.257
+          },
+          {
+            "hex": "#bdccd4",
+            "share": 0.219
+          },
+          {
+            "hex": "#443e57",
+            "share": 0.15
+          },
+          {
+            "hex": "#0a172b",
+            "share": 0.093
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "b66b980c-7f10-3507-88b8-9851bd9d9a51",
+      "release_title": "FanMail",
+      "release_date": "1999-02-22",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: FanMail",
+      "url": "http://coverartarchive.org/release/195076e8-670e-3eb1-ba14-abaaa247b858/26921704382-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/195076e8-670e-3eb1-ba14-abaaa247b858",
+      "image_id": 26921704382,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        940,
+        922
+      ],
+      "measures": {
+        "brightness": 0.279,
+        "saturation": 0.263,
+        "dark_share": 0.609,
+        "palette": [
+          {
+            "hex": "#9ea9b6",
+            "share": 0.232
+          },
+          {
+            "hex": "#18141a",
+            "share": 0.214
+          },
+          {
+            "hex": "#0c0a0f",
+            "share": 0.207
+          },
+          {
+            "hex": "#2f303a",
+            "share": 0.186
+          },
+          {
+            "hex": "#120f16",
+            "share": 0.161
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/94/0f/d0940f87-3c4e-4e47-7ca8-86272fc93aab/dj.egyjyybr.jpg/1200x1200bb.jpg",
+      "collection": "FanMail",
+      "collection_id": 298575243,
+      "track_id": 298575248,
+      "artist_name": "TLC",
+      "release_date": "1999-02-02T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.277,
+        "saturation": 0.124,
+        "dark_share": 0.631,
+        "palette": [
+          {
+            "hex": "#201e1d",
+            "share": 0.222
+          },
+          {
+            "hex": "#2f3131",
+            "share": 0.217
+          },
+          {
+            "hex": "#99a4aa",
+            "share": 0.215
+          },
+          {
+            "hex": "#141615",
+            "share": 0.183
+          },
+          {
+            "hex": "#191c1a",
+            "share": 0.162
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

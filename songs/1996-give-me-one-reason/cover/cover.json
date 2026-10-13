@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "a2934ca0-32d3-3363-9929-837a823d544e",
+      "release_title": "Give Me One Reason",
+      "release_date": "1995",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/724e41cf-e6a5-4556-848e-2ea25ac0a7f1/28313257445-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/724e41cf-e6a5-4556-848e-2ea25ac0a7f1",
+      "image_id": 28313257445,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        259
+      ],
+      "measures": {
+        "brightness": 0.81,
+        "saturation": 0.251,
+        "dark_share": 0.023,
+        "palette": [
+          {
+            "hex": "#ecdcbd",
+            "share": 0.262
+          },
+          {
+            "hex": "#d5ba97",
+            "share": 0.261
+          },
+          {
+            "hex": "#836456",
+            "share": 0.196
+          },
+          {
+            "hex": "#f0e3c9",
+            "share": 0.158
+          },
+          {
+            "hex": "#f6eedd",
+            "share": 0.123
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "9bdfd7c4-19f6-3d27-9f7a-e3d96b4fe0fc",
+      "release_title": "New Beginning",
+      "release_date": "1995",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: New Beginning",
+      "url": "http://coverartarchive.org/release/ec96fee1-48af-4c11-b528-ce89ee67f2e1/6579961163-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/ec96fee1-48af-4c11-b528-ce89ee67f2e1",
+      "image_id": "6579961163",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        499,
+        500
+      ],
+      "measures": {
+        "brightness": 0.351,
+        "saturation": 0.566,
+        "dark_share": 0.404,
+        "palette": [
+          {
+            "hex": "#0f030d",
+            "share": 0.314
+          },
+          {
+            "hex": "#2b131b",
+            "share": 0.204
+          },
+          {
+            "hex": "#77473c",
+            "share": 0.183
+          },
+          {
+            "hex": "#9f6e5f",
+            "share": 0.18
+          },
+          {
+            "hex": "#c19592",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/38/fe/e5/38fee58f-6ba6-c51b-2718-7cf0a38007bf/mzi.dtywsjpm.jpg/1200x1200bb.jpg",
+      "collection": "New Beginning",
+      "collection_id": 293102727,
+      "track_id": 293102967,
+      "artist_name": "Tracy Chapman",
+      "release_date": "1995-11-14T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.36,
+        "saturation": 0.403,
+        "dark_share": 0.427,
+        "palette": [
+          {
+            "hex": "#0b0a11",
+            "share": 0.307
+          },
+          {
+            "hex": "#271620",
+            "share": 0.215
+          },
+          {
+            "hex": "#74424a",
+            "share": 0.187
+          },
+          {
+            "hex": "#a26d7b",
+            "share": 0.171
+          },
+          {
+            "hex": "#ca9bba",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

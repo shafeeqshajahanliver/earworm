@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5f0f0767-e6ef-3a1a-a10a-334ff0e9b138",
+      "release_title": "Too Close",
+      "release_date": "1998",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6d681143-ebeb-402f-85cf-45a8ae660db8/34775520535-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6d681143-ebeb-402f-85cf-45a8ae660db8",
+      "image_id": 34775520535,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.398,
+        "saturation": 0.274,
+        "dark_share": 0.389,
+        "palette": [
+          {
+            "hex": "#181415",
+            "share": 0.297
+          },
+          {
+            "hex": "#322222",
+            "share": 0.231
+          },
+          {
+            "hex": "#794d43",
+            "share": 0.218
+          },
+          {
+            "hex": "#e2ded3",
+            "share": 0.148
+          },
+          {
+            "hex": "#bb958c",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "da09d424-98d3-3ad0-8b2f-9ca6ed83fb94",
+      "release_title": "Rated Next",
+      "release_date": "1997-09-29",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Rated Next",
+      "url": "http://coverartarchive.org/release/a8f804f3-b071-4307-8134-a812af42c41d/14909981061-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/a8f804f3-b071-4307-8134-a812af42c41d",
+      "image_id": "14909981061",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        497,
+        500
+      ],
+      "measures": {
+        "brightness": 0.504,
+        "saturation": 0.102,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#e2e1e6",
+            "share": 0.289
+          },
+          {
+            "hex": "#3f393b",
+            "share": 0.216
+          },
+          {
+            "hex": "#4e4750",
+            "share": 0.199
+          },
+          {
+            "hex": "#454147",
+            "share": 0.167
+          },
+          {
+            "hex": "#857b7f",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/8f/e6/f58fe6c9-db83-3ec0-832e-37259201c4ca/mzi.zoijaaio.jpg/1200x1200bb.jpg",
+      "collection": "Rated Next",
+      "collection_id": 308117323,
+      "track_id": 308117332,
+      "artist_name": "Next",
+      "release_date": "1990-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        603
+      ],
+      "measures": {
+        "brightness": 0.504,
+        "saturation": 0.102,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#e2e1e6",
+            "share": 0.288
+          },
+          {
+            "hex": "#3f393b",
+            "share": 0.214
+          },
+          {
+            "hex": "#4e4750",
+            "share": 0.194
+          },
+          {
+            "hex": "#454147",
+            "share": 0.171
+          },
+          {
+            "hex": "#857b7f",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "23c95467-a675-4e19-883e-8568af4e8832",
+      "release_title": "I Like The Way (The Kissing Game)",
+      "release_date": "1991",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/9e2e498d-d8ec-4269-af3b-9382d81d6e7c/42454581956-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9e2e498d-d8ec-4269-af3b-9382d81d6e7c",
+      "image_id": 42454581956,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        398,
+        600
+      ],
+      "measures": {
+        "brightness": 0.647,
+        "saturation": 0.07,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#acb2b0",
+            "share": 0.295
+          },
+          {
+            "hex": "#a1a2a1",
+            "share": 0.246
+          },
+          {
+            "hex": "#646b6e",
+            "share": 0.191
+          },
+          {
+            "hex": "#bbbfbd",
+            "share": 0.155
+          },
+          {
+            "hex": "#cbcfcb",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "ffc2a301-fb66-3ed9-8513-539d7ac0589f",
+      "release_title": "Hi-Five",
+      "release_date": "1990-10-23",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Hi-Five",
+      "url": "http://coverartarchive.org/release/a20ddb68-2d54-48b1-be65-165752a590c9/10135821302-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a20ddb68-2d54-48b1-be65-165752a590c9",
+      "image_id": "10135821302",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.607,
+        "saturation": 0.348,
+        "dark_share": 0.098,
+        "palette": [
+          {
+            "hex": "#938ba0",
+            "share": 0.269
+          },
+          {
+            "hex": "#2d2c41",
+            "share": 0.233
+          },
+          {
+            "hex": "#7b3c4a",
+            "share": 0.223
+          },
+          {
+            "hex": "#ccbfc4",
+            "share": 0.144
+          },
+          {
+            "hex": "#f3eeee",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/24/49/c92449bb-cb92-1c59-fd4e-9a0f4bc8b0cd/886448555865.jpg/1200x1200bb.jpg",
+      "collection": "Hi-Five",
+      "collection_id": 1604664680,
+      "track_id": 1604664686,
+      "artist_name": "Hi-Five",
+      "release_date": "1990-09-25T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.626,
+        "saturation": 0.361,
+        "dark_share": 0.1,
+        "palette": [
+          {
+            "hex": "#958ea7",
+            "share": 0.268
+          },
+          {
+            "hex": "#2d2d44",
+            "share": 0.24
+          },
+          {
+            "hex": "#813b49",
+            "share": 0.214
+          },
+          {
+            "hex": "#ccc2ca",
+            "share": 0.147
+          },
+          {
+            "hex": "#f3efee",
+            "share": 0.131
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

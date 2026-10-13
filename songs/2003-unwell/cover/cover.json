@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "09d56ee7-68f1-334d-905d-860db491f3b4",
+      "release_title": "\"Unwell\" Avid Rough Cut #1",
+      "release_date": "2003-06-03",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "a13e9013-0d60-3013-8d57-c48539c9dfea",
+      "release_title": "More Than You Think You Are",
+      "release_date": "2002-11-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: More Than You Think You Are",
+      "url": "http://coverartarchive.org/release/9d5c59d7-abfe-4253-9ff0-37dcb7bc5a3c/10849648944-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9d5c59d7-abfe-4253-9ff0-37dcb7bc5a3c",
+      "image_id": 10849648944,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.647,
+        "saturation": 0.094,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#9b9796",
+            "share": 0.408
+          },
+          {
+            "hex": "#b0a8a8",
+            "share": 0.218
+          },
+          {
+            "hex": "#bfb4b4",
+            "share": 0.166
+          },
+          {
+            "hex": "#c6bab9",
+            "share": 0.13
+          },
+          {
+            "hex": "#757270",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/53/5a/51535acc-8ae7-f179-dcc1-5ebb9793563c/075679957559.jpg/1200x1200bb.jpg",
+      "collection": "More Than You Think You Are",
+      "collection_id": 580000525,
+      "track_id": 580000550,
+      "artist_name": "Matchbox Twenty",
+      "release_date": "2002-11-19T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.779,
+        "saturation": 0.058,
+        "dark_share": 0.017,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.355
+          },
+          {
+            "hex": "#aea6a6",
+            "share": 0.28
+          },
+          {
+            "hex": "#837f7e",
+            "share": 0.188
+          },
+          {
+            "hex": "#c9bfbf",
+            "share": 0.165
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.012
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

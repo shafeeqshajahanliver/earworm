@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "487ea9be-d0a9-445a-95f9-735100287e8a",
+      "release_title": "Three Times a Lady / Look What You’ve Done to Me",
+      "release_date": "1978-06",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/64695f95-e616-48a0-9678-4564b7374217/22057362369-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/64695f95-e616-48a0-9678-4564b7374217",
+      "image_id": 22057362369,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        284,
+        300
+      ],
+      "measures": {
+        "brightness": 0.341,
+        "saturation": 0.437,
+        "dark_share": 0.302,
+        "palette": [
+          {
+            "hex": "#06131d",
+            "share": 0.26
+          },
+          {
+            "hex": "#484342",
+            "share": 0.248
+          },
+          {
+            "hex": "#2a2726",
+            "share": 0.236
+          },
+          {
+            "hex": "#7f7165",
+            "share": 0.145
+          },
+          {
+            "hex": "#cdd2c8",
+            "share": 0.111
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1bb629c4-99ae-3a4a-81af-cb7f4bb0418a",
+      "release_title": "Natural High / Midnight Magic",
+      "release_date": "1986",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Natural High",
+      "url": "http://coverartarchive.org/release/58985704-11d4-4a6e-9fc3-e58023c0d54a/34698246038-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/58985704-11d4-4a6e-9fc3-e58023c0d54a",
+      "image_id": 34698246038,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "1 page semi-gloss folded once",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.492,
+        "saturation": 0.33,
+        "dark_share": 0.086,
+        "palette": [
+          {
+            "hex": "#beb28a",
+            "share": 0.252
+          },
+          {
+            "hex": "#2f6462",
+            "share": 0.243
+          },
+          {
+            "hex": "#697a66",
+            "share": 0.191
+          },
+          {
+            "hex": "#473b42",
+            "share": 0.177
+          },
+          {
+            "hex": "#51675b",
+            "share": 0.137
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d3/4c/30/d34c3044-d4fa-88a2-ba81-812254cee3e8/00602547309372.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Natural High",
+      "collection_id": 1443077275,
+      "track_id": 1443077669,
+      "artist_name": "The Commodores",
+      "release_date": "1978-05-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.714,
+        "saturation": 0.36,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#9c936b",
+            "share": 0.246
+          },
+          {
+            "hex": "#7e6851",
+            "share": 0.237
+          },
+          {
+            "hex": "#c9ac77",
+            "share": 0.222
+          },
+          {
+            "hex": "#e5bb86",
+            "share": 0.216
+          },
+          {
+            "hex": "#efd4a6",
+            "share": 0.078
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

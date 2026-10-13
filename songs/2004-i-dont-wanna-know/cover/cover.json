@@ -1,0 +1,148 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5b617da7-0bc3-37b2-bd44-2f35fe084e9c",
+      "release_title": "I Don’t Wanna Know",
+      "release_date": "2004",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/7364411a-0868-45c1-93c3-6d097fdc6254/8645546770-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/7364411a-0868-45c1-93c3-6d097fdc6254",
+      "image_id": 8645546770,
+      "types": [
+        "Front",
+        "Back",
+        "Spine"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        512
+      ],
+      "measures": {
+        "brightness": 0.394,
+        "saturation": 0.215,
+        "dark_share": 0.53,
+        "palette": [
+          {
+            "hex": "#e8e0ca",
+            "share": 0.227
+          },
+          {
+            "hex": "#5b453b",
+            "share": 0.202
+          },
+          {
+            "hex": "#28221f",
+            "share": 0.201
+          },
+          {
+            "hex": "#24201c",
+            "share": 0.194
+          },
+          {
+            "hex": "#211d1a",
+            "share": 0.176
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a46f5e03-afae-30db-994d-08fca0f4c2f4",
+      "release_title": "Hurt No More",
+      "release_date": "2004-04-20",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Hurt No More",
+      "url": "http://coverartarchive.org/release/24c974c4-da55-4bdc-8b25-b7ec851e093b/25187296049-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/24c974c4-da55-4bdc-8b25-b7ec851e093b",
+      "image_id": 25187296049,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.734,
+        "saturation": 0.268,
+        "dark_share": 0.043,
+        "palette": [
+          {
+            "hex": "#a87f59",
+            "share": 0.269
+          },
+          {
+            "hex": "#633c2a",
+            "share": 0.233
+          },
+          {
+            "hex": "#f4f2ed",
+            "share": 0.205
+          },
+          {
+            "hex": "#f9f9f6",
+            "share": 0.159
+          },
+          {
+            "hex": "#eae0d3",
+            "share": 0.134
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/7c/46/ef7c46d9-0f87-215e-fad7-364f437f62a8/075678388361.jpg/1200x1200bb.jpg",
+      "collection": "Hurt No More",
+      "collection_id": 1738587079,
+      "track_id": 1738587096,
+      "artist_name": "Mario Winans",
+      "release_date": "2004-02-03T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.76,
+        "saturation": 0.238,
+        "dark_share": 0.02,
+        "palette": [
+          {
+            "hex": "#b18a64",
+            "share": 0.249
+          },
+          {
+            "hex": "#6f4b3e",
+            "share": 0.246
+          },
+          {
+            "hex": "#f7f6eb",
+            "share": 0.19
+          },
+          {
+            "hex": "#ece4d0",
+            "share": 0.164
+          },
+          {
+            "hex": "#fcfcf8",
+            "share": 0.151
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

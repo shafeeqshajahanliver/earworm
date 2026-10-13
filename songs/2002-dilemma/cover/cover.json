@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "5ba0be92-dfbc-344f-a354-04d246258e1e",
+      "release_title": "Dilemma",
+      "release_date": "2002",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ec0220b5-97b2-4474-906d-e85201b39a54/21442764948-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ec0220b5-97b2-4474-906d-e85201b39a54",
+      "image_id": 21442764948,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1041
+      ],
+      "measures": {
+        "brightness": 0.812,
+        "saturation": 0.114,
+        "dark_share": 0.069,
+        "palette": [
+          {
+            "hex": "#fafafc",
+            "share": 0.348
+          },
+          {
+            "hex": "#654b45",
+            "share": 0.25
+          },
+          {
+            "hex": "#f2f2f6",
+            "share": 0.226
+          },
+          {
+            "hex": "#cec6c7",
+            "share": 0.149
+          },
+          {
+            "hex": "#fcfdfe",
+            "share": 0.026
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8bea71d9-b1ae-3b02-bcca-cc3c2bde130d",
+      "release_title": "Nellyville",
+      "release_date": "2002",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Nellyville",
+      "url": "http://coverartarchive.org/release/f0c9d6bf-05f1-4fe7-b6d7-063b3b1a85e4/9400136679-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/f0c9d6bf-05f1-4fe7-b6d7-063b3b1a85e4",
+      "image_id": "9400136679",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.46,
+        "saturation": 0.227,
+        "dark_share": 0.352,
+        "palette": [
+          {
+            "hex": "#030303",
+            "share": 0.276
+          },
+          {
+            "hex": "#38332d",
+            "share": 0.246
+          },
+          {
+            "hex": "#e0d09c",
+            "share": 0.245
+          },
+          {
+            "hex": "#b09e7b",
+            "share": 0.129
+          },
+          {
+            "hex": "#ede3bb",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/35/62/373562e8-ab69-254b-bbf2-f1cb9aca66fe/06UMGIM16889.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Nellyville",
+      "collection_id": 1440735154,
+      "track_id": 1440735612,
+      "artist_name": "Nelly",
+      "release_date": "2002-06-25T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1183
+      ],
+      "measures": {
+        "brightness": 0.478,
+        "saturation": 0.274,
+        "dark_share": 0.313,
+        "palette": [
+          {
+            "hex": "#080909",
+            "share": 0.274
+          },
+          {
+            "hex": "#42362e",
+            "share": 0.254
+          },
+          {
+            "hex": "#e2cda3",
+            "share": 0.241
+          },
+          {
+            "hex": "#b29b7b",
+            "share": 0.124
+          },
+          {
+            "hex": "#eedfbf",
+            "share": 0.107
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

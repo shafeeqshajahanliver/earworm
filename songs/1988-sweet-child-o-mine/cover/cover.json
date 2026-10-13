@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+      "release_title": "Appetite for Destruction",
+      "release_date": "1987",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Appetite for Destruction",
+      "url": "https://coverartarchive.org/release/47b74704-2833-4c3c-ba8a-6f7bb12074c2/20349249996-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/47b74704-2833-4c3c-ba8a-6f7bb12074c2",
+      "image_id": 20349249996,
+      "types": [
+        "Front"
+      ],
+      "comment": "Cover for first pressing",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.498,
+        "saturation": 0.366,
+        "dark_share": 0.236,
+        "palette": [
+          {
+            "hex": "#090707",
+            "share": 0.267
+          },
+          {
+            "hex": "#843531",
+            "share": 0.264
+          },
+          {
+            "hex": "#b0a8a3",
+            "share": 0.196
+          },
+          {
+            "hex": "#817373",
+            "share": 0.172
+          },
+          {
+            "hex": "#cbc197",
+            "share": 0.1
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/47/b7/5647b700-6b9d-9e72-ec9f-51140b6d4492/00602567673781.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Appetite for Destruction",
+      "collection_id": 1377826053,
+      "track_id": 1377826892,
+      "artist_name": "Guns N' Roses",
+      "release_date": "1987-07-21T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.126,
+        "saturation": 0.116,
+        "dark_share": 0.783,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.732
+          },
+          {
+            "hex": "#9b8064",
+            "share": 0.121
+          },
+          {
+            "hex": "#4f1f2d",
+            "share": 0.104
+          },
+          {
+            "hex": "#1a0008",
+            "share": 0.033
+          },
+          {
+            "hex": "#000002",
+            "share": 0.011
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

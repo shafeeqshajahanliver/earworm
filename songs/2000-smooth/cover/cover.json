@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "70bf326e-4127-4326-aeb0-28d8e571cc95",
+      "release_title": "Smooth",
+      "release_date": "1999",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e8bc56d1-7296-420d-8364-378aa6235445/27506648058-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e8bc56d1-7296-420d-8364-378aa6235445",
+      "image_id": 27506648058,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        594
+      ],
+      "measures": {
+        "brightness": 0.474,
+        "saturation": 0.395,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#3e436e",
+            "share": 0.376
+          },
+          {
+            "hex": "#4f4e6d",
+            "share": 0.17
+          },
+          {
+            "hex": "#703d48",
+            "share": 0.17
+          },
+          {
+            "hex": "#8d7d78",
+            "share": 0.166
+          },
+          {
+            "hex": "#353c5e",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "70e23797-9da2-33bb-be6f-a85e7b581b69",
+      "release_title": "Supernatural",
+      "release_date": "1999",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Supernatural",
+      "url": "http://coverartarchive.org/release/83ed118f-a185-44cd-ba95-21ce29a207ca/5097435866-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/83ed118f-a185-44cd-ba95-21ce29a207ca",
+      "image_id": 5097435866,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1034,
+        1024
+      ],
+      "measures": {
+        "brightness": 0.575,
+        "saturation": 0.593,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#482871",
+            "share": 0.321
+          },
+          {
+            "hex": "#9e2044",
+            "share": 0.272
+          },
+          {
+            "hex": "#724560",
+            "share": 0.171
+          },
+          {
+            "hex": "#8b6464",
+            "share": 0.129
+          },
+          {
+            "hex": "#b99883",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/92/54/01925488-5c52-5678-669a-31981720bd89/mzi.wribdfkf.jpg/1200x1200bb.jpg",
+      "collection": "Supernatural (Legacy Edition)",
+      "collection_id": 422304289,
+      "track_id": 422304322,
+      "artist_name": "Santana",
+      "release_date": "1999-06-15T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.619,
+        "saturation": 0.474,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#343c72",
+            "share": 0.333
+          },
+          {
+            "hex": "#943645",
+            "share": 0.269
+          },
+          {
+            "hex": "#e5dbda",
+            "share": 0.153
+          },
+          {
+            "hex": "#796468",
+            "share": 0.144
+          },
+          {
+            "hex": "#b6a193",
+            "share": 0.101
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

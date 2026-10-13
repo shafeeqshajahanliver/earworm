@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "25f5572f-bc6e-30e3-84d2-c6d3b530791f",
+      "release_title": "Got My Mind Set on You",
+      "release_date": "1987",
+      "release_country": "DE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/0168f4b4-a78c-4f35-ae5d-66c1443a18a5/31859578390-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0168f4b4-a78c-4f35-ae5d-66c1443a18a5",
+      "image_id": 31859578390,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        597,
+        599
+      ],
+      "measures": {
+        "brightness": 0.404,
+        "saturation": 0.267,
+        "dark_share": 0.489,
+        "palette": [
+          {
+            "hex": "#2b2520",
+            "share": 0.371
+          },
+          {
+            "hex": "#221f1a",
+            "share": 0.248
+          },
+          {
+            "hex": "#94afd0",
+            "share": 0.213
+          },
+          {
+            "hex": "#a5cae8",
+            "share": 0.115
+          },
+          {
+            "hex": "#5f5858",
+            "share": 0.052
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "024b3f7e-f4b6-3ecd-a104-90a946344492",
+      "release_title": "Cloud Nine",
+      "release_date": "1987",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Cloud Nine",
+      "url": "http://coverartarchive.org/release/a93ceac0-f0a5-4df4-af90-49e4a8e272c3/15410523296-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a93ceac0-f0a5-4df4-af90-49e4a8e272c3",
+      "image_id": 15410523296,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1197
+      ],
+      "measures": {
+        "brightness": 0.493,
+        "saturation": 0.166,
+        "dark_share": 0.19,
+        "palette": [
+          {
+            "hex": "#242429",
+            "share": 0.264
+          },
+          {
+            "hex": "#51474d",
+            "share": 0.244
+          },
+          {
+            "hex": "#807b93",
+            "share": 0.221
+          },
+          {
+            "hex": "#dae0e7",
+            "share": 0.14
+          },
+          {
+            "hex": "#b3b5c7",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5a/2d/e1/5a2de106-fc53-fa45-d56a-5f876eb6b8db/5099951336257.jpg/1200x1200bb.jpg",
+      "collection": "Cloud Nine",
+      "collection_id": 1666655521,
+      "track_id": 1666655533,
+      "artist_name": "George Harrison",
+      "release_date": "1987-10-12T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.56,
+        "saturation": 0.175,
+        "dark_share": 0.167,
+        "palette": [
+          {
+            "hex": "#2a262b",
+            "share": 0.264
+          },
+          {
+            "hex": "#624f5a",
+            "share": 0.235
+          },
+          {
+            "hex": "#958dab",
+            "share": 0.227
+          },
+          {
+            "hex": "#f0f6fa",
+            "share": 0.148
+          },
+          {
+            "hex": "#cdd2e2",
+            "share": 0.126
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

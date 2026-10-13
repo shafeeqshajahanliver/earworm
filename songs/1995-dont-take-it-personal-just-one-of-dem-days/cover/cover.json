@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "cccbd8ce-9033-3d01-af60-c9a88d7a8c1c",
+      "release_title": "Don’t Take It Personal (Just One of Dem Days)",
+      "release_date": "1995",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d68eec8b-f5da-4945-8a96-b14d6158bd52/34395926243-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d68eec8b-f5da-4945-8a96-b14d6158bd52",
+      "image_id": 34395926243,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.636,
+        "saturation": 0.222,
+        "dark_share": 0.143,
+        "palette": [
+          {
+            "hex": "#dddbce",
+            "share": 0.281
+          },
+          {
+            "hex": "#362d1f",
+            "share": 0.242
+          },
+          {
+            "hex": "#9a8764",
+            "share": 0.223
+          },
+          {
+            "hex": "#d6d2c1",
+            "share": 0.169
+          },
+          {
+            "hex": "#e3e1d5",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7bc19aa4-3168-36a9-aee7-8911d1a43248",
+      "release_title": "Miss Thang",
+      "release_date": "1995-07-18",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Miss Thang",
+      "url": "http://coverartarchive.org/release/f67b760e-c4e2-4519-95c0-7aa50f9d1ffd/28089677778-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f67b760e-c4e2-4519-95c0-7aa50f9d1ffd",
+      "image_id": 28089677778,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        932,
+        926
+      ],
+      "measures": {
+        "brightness": 0.577,
+        "saturation": 0.16,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#393d3c",
+            "share": 0.269
+          },
+          {
+            "hex": "#7a6c5b",
+            "share": 0.242
+          },
+          {
+            "hex": "#afa087",
+            "share": 0.229
+          },
+          {
+            "hex": "#eff0e8",
+            "share": 0.146
+          },
+          {
+            "hex": "#d8d0be",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/32/e4/1f/32e41fdb-343f-5593-c35e-b851e8e41c8b/dj.iwubzzor.jpg/1200x1200bb.jpg",
+      "collection": "Miss Thang",
+      "collection_id": 298425958,
+      "track_id": 298426043,
+      "artist_name": "Monica",
+      "release_date": "1995-04-10T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        605,
+        600
+      ],
+      "measures": {
+        "brightness": 0.542,
+        "saturation": 0.24,
+        "dark_share": 0.231,
+        "palette": [
+          {
+            "hex": "#19161e",
+            "share": 0.26
+          },
+          {
+            "hex": "#76534e",
+            "share": 0.254
+          },
+          {
+            "hex": "#b29582",
+            "share": 0.216
+          },
+          {
+            "hex": "#e5e5e7",
+            "share": 0.14
+          },
+          {
+            "hex": "#d6c9c1",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

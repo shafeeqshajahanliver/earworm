@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "4f2e9695-245c-3024-87ac-32c18c1a427f",
+      "release_title": "Another Day in Paradise",
+      "release_date": "1989",
+      "release_country": "FR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/7e1b8bc9-66d1-4c4f-8c3f-7676e62bc39f/12578531098-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/7e1b8bc9-66d1-4c4f-8c3f-7676e62bc39f",
+      "image_id": "12578531098",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        492,
+        500
+      ],
+      "measures": {
+        "brightness": 0.498,
+        "saturation": 0.373,
+        "dark_share": 0.042,
+        "palette": [
+          {
+            "hex": "#c7cee2",
+            "share": 0.336
+          },
+          {
+            "hex": "#192c3a",
+            "share": 0.209
+          },
+          {
+            "hex": "#122634",
+            "share": 0.182
+          },
+          {
+            "hex": "#243343",
+            "share": 0.159
+          },
+          {
+            "hex": "#838ba3",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "822d9247-6059-3716-b1f9-f7b95526f721",
+      "release_title": "…But Seriously",
+      "release_date": "1989",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: ...But Seriously",
+      "url": "http://coverartarchive.org/release/01b90c65-deca-4c44-addc-08488d914148/3432707335-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/01b90c65-deca-4c44-addc-08488d914148",
+      "image_id": 3432707335,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.325,
+        "saturation": 0.445,
+        "dark_share": 0.56,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.276
+          },
+          {
+            "hex": "#deb073",
+            "share": 0.253
+          },
+          {
+            "hex": "#0c1205",
+            "share": 0.193
+          },
+          {
+            "hex": "#5f4421",
+            "share": 0.18
+          },
+          {
+            "hex": "#030502",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/e7/96/83e79670-5716-d330-e984-e8dba7c2180f/603497879533.jpg/1200x1200bb.jpg",
+      "collection": "...But Seriously (Remastered)",
+      "collection_id": 1107820371,
+      "track_id": 1107820627,
+      "artist_name": "Phil Collins",
+      "release_date": "1989-10-23T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.382,
+        "saturation": 0.315,
+        "dark_share": 0.533,
+        "palette": [
+          {
+            "hex": "#edc188",
+            "share": 0.279
+          },
+          {
+            "hex": "#09090b",
+            "share": 0.219
+          },
+          {
+            "hex": "#1a1a17",
+            "share": 0.197
+          },
+          {
+            "hex": "#725739",
+            "share": 0.158
+          },
+          {
+            "hex": "#131111",
+            "share": 0.147
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

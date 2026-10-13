@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "1e88b300-477a-3e11-9d6a-5b0e9eaf9ed8",
+      "release_title": "Every Morning",
+      "release_date": "1997-09-22",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/0b603a93-2b35-4123-8845-fe9ff39914cc/31277207899-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/0b603a93-2b35-4123-8845-fe9ff39914cc",
+      "image_id": 31277207899,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        438
+      ],
+      "measures": {
+        "brightness": 0.485,
+        "saturation": 0.349,
+        "dark_share": 0.208,
+        "palette": [
+          {
+            "hex": "#141922",
+            "share": 0.279
+          },
+          {
+            "hex": "#73708f",
+            "share": 0.246
+          },
+          {
+            "hex": "#683c4d",
+            "share": 0.192
+          },
+          {
+            "hex": "#908aa3",
+            "share": 0.156
+          },
+          {
+            "hex": "#c6b0a8",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/b3/d4/4db3d44f-6453-af42-a55c-19729df79911/075678315121.jpg/1200x1200bb.jpg",
+      "collection": "14:59",
+      "collection_id": 332669639,
+      "track_id": 332669700,
+      "artist_name": "Sugar Ray",
+      "release_date": "1999-01-02T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.727,
+        "saturation": 0.308,
+        "dark_share": 0.03,
+        "palette": [
+          {
+            "hex": "#6d90b3",
+            "share": 0.351
+          },
+          {
+            "hex": "#8ba8c5",
+            "share": 0.217
+          },
+          {
+            "hex": "#615a6b",
+            "share": 0.162
+          },
+          {
+            "hex": "#bbc6d4",
+            "share": 0.14
+          },
+          {
+            "hex": "#e3e4e7",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

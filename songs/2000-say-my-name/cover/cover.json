@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "be556c8e-6a70-3e8a-99fc-bddfcb2597bb",
+      "release_title": "Say My Name",
+      "release_date": "1999",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/a1cf567c-c58e-4120-a5c1-e6de804b7e49/36278943131-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a1cf567c-c58e-4120-a5c1-e6de804b7e49",
+      "image_id": 36278943131,
+      "types": [
+        "Front",
+        "Obi"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        434
+      ],
+      "measures": {
+        "brightness": 0.317,
+        "saturation": 0.187,
+        "dark_share": 0.333,
+        "palette": [
+          {
+            "hex": "#242830",
+            "share": 0.27
+          },
+          {
+            "hex": "#2b2d32",
+            "share": 0.253
+          },
+          {
+            "hex": "#41434b",
+            "share": 0.21
+          },
+          {
+            "hex": "#706966",
+            "share": 0.148
+          },
+          {
+            "hex": "#a2978c",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "7bfda0d3-5747-3f7c-a60f-065b6ea29db1",
+      "release_title": "The Writing's on the Wall",
+      "release_date": "1999",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: The Writing's on the Wall",
+      "url": "http://coverartarchive.org/release/b9de19dd-bf35-4ef6-bbcd-fd9240693658/5669916745-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/b9de19dd-bf35-4ef6-bbcd-fd9240693658",
+      "image_id": "5669916745",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        498,
+        500
+      ],
+      "measures": {
+        "brightness": 0.661,
+        "saturation": 0.143,
+        "dark_share": 0.023,
+        "palette": [
+          {
+            "hex": "#beb4aa",
+            "share": 0.277
+          },
+          {
+            "hex": "#a68375",
+            "share": 0.235
+          },
+          {
+            "hex": "#574d4a",
+            "share": 0.227
+          },
+          {
+            "hex": "#f2f1ee",
+            "share": 0.144
+          },
+          {
+            "hex": "#d1cdc9",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/29/74/c92974ce-2bdd-4b86-a261-01adc901bb65/mzi.cmambura.jpg/1200x1200bb.jpg",
+      "collection": "The Writing's On the Wall",
+      "collection_id": 266809606,
+      "track_id": 266809802,
+      "artist_name": "Destiny's Child",
+      "release_date": "1999-07-14T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.726,
+        "saturation": 0.085,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#c7c4c2",
+            "share": 0.337
+          },
+          {
+            "hex": "#756b65",
+            "share": 0.239
+          },
+          {
+            "hex": "#d5d3d2",
+            "share": 0.172
+          },
+          {
+            "hex": "#bbaaa1",
+            "share": 0.159
+          },
+          {
+            "hex": "#efeff0",
+            "share": 0.094
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

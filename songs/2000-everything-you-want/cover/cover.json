@@ -1,0 +1,99 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "album": {
+      "release_group": "f23683c2-c9a9-30dd-a1c2-8316d44b9821",
+      "release_title": "Everything You Want",
+      "release_date": "1999-06-15",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Everything You Want",
+      "url": "http://coverartarchive.org/release/28ba6704-c4d8-4f7e-bfdf-b1d8ea14a313/6689863255-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/28ba6704-c4d8-4f7e-bfdf-b1d8ea14a313",
+      "image_id": 6689863255,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.93,
+        "saturation": 0.517,
+        "dark_share": 0.019,
+        "palette": [
+          {
+            "hex": "#fbbca8",
+            "share": 0.282
+          },
+          {
+            "hex": "#f5816a",
+            "share": 0.248
+          },
+          {
+            "hex": "#cb2d22",
+            "share": 0.227
+          },
+          {
+            "hex": "#f9b099",
+            "share": 0.195
+          },
+          {
+            "hex": "#fbc9b5",
+            "share": 0.047
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/61/e2/e561e2e6-2ff8-7e71-7f4c-d2af8fd46dec/078636781822.jpg/1200x1200bb.jpg",
+      "collection": "Everything You Want",
+      "collection_id": 298554771,
+      "track_id": 298554780,
+      "artist_name": "Vertical Horizon",
+      "release_date": "1999-06-15T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        896,
+        892
+      ],
+      "measures": {
+        "brightness": 0.88,
+        "saturation": 0.435,
+        "dark_share": 0.002,
+        "palette": [
+          {
+            "hex": "#eeb4a5",
+            "share": 0.286
+          },
+          {
+            "hex": "#e78d7d",
+            "share": 0.262
+          },
+          {
+            "hex": "#be4a43",
+            "share": 0.213
+          },
+          {
+            "hex": "#edab9b",
+            "share": 0.179
+          },
+          {
+            "hex": "#f1bcaf",
+            "share": 0.059
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

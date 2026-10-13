@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "25c38854-98ae-4722-b3c5-2c09038e12ee",
+      "release_title": "Baby-Baby-Baby",
+      "release_date": "1992-05-29",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8f9d3dde-c627-4982-9f7e-7a21e3d4bf6a/24047881213-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8f9d3dde-c627-4982-9f7e-7a21e3d4bf6a",
+      "image_id": 24047881213,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.722,
+        "saturation": 0.492,
+        "dark_share": 0.089,
+        "palette": [
+          {
+            "hex": "#e0c5a4",
+            "share": 0.302
+          },
+          {
+            "hex": "#5c1a15",
+            "share": 0.267
+          },
+          {
+            "hex": "#bf9047",
+            "share": 0.216
+          },
+          {
+            "hex": "#dbbf93",
+            "share": 0.205
+          },
+          {
+            "hex": "#e8d48c",
+            "share": 0.01
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "3150a2e0-43b2-33cb-8df8-80a1c3392032",
+      "release_title": "Ooooooohhh…On the TLC Tip",
+      "release_date": "1992-02-25",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Ooooooohhh... On the TLC Tip",
+      "url": "http://coverartarchive.org/release/3e6e484c-d0dd-4fc2-bc1b-3b9d80ecd17b/30594809166-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/3e6e484c-d0dd-4fc2-bc1b-3b9d80ecd17b",
+      "image_id": 30594809166,
+      "types": [
+        "Front",
+        "Booklet"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1197
+      ],
+      "measures": {
+        "brightness": 0.702,
+        "saturation": 0.225,
+        "dark_share": 0.108,
+        "palette": [
+          {
+            "hex": "#996b5c",
+            "share": 0.287
+          },
+          {
+            "hex": "#432c38",
+            "share": 0.227
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.21
+          },
+          {
+            "hex": "#deded1",
+            "share": 0.146
+          },
+          {
+            "hex": "#fefffb",
+            "share": 0.13
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/57/ff/0457ff48-ed0b-ea8f-c793-e23877e3517a/730082600323.jpg/1200x1200bb.jpg",
+      "collection": "Ooooooohhh... On the TLC Tip",
+      "collection_id": 258594540,
+      "track_id": 258597575,
+      "artist_name": "TLC",
+      "release_date": "1992-02-25T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.729,
+        "saturation": 0.357,
+        "dark_share": 0.054,
+        "palette": [
+          {
+            "hex": "#aa5c4b",
+            "share": 0.281
+          },
+          {
+            "hex": "#5b1a2f",
+            "share": 0.248
+          },
+          {
+            "hex": "#fbfbf2",
+            "share": 0.2
+          },
+          {
+            "hex": "#fefdf4",
+            "share": 0.163
+          },
+          {
+            "hex": "#ded6bc",
+            "share": 0.108
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

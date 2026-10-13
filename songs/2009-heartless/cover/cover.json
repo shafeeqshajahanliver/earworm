@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-12",
+  "images": {
+    "single": {
+      "release_group": "befe5b89-0ec4-4d63-9385-1477eb571ce6",
+      "release_title": "Heartless",
+      "release_date": "2008-11-05",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/d85eb2a2-4644-4bc4-9d17-8b868d757a10/32319903278-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d85eb2a2-4644-4bc4-9d17-8b868d757a10",
+      "image_id": 32319903278,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.709,
+        "saturation": 0.149,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#9aaeb5",
+            "share": 0.858
+          },
+          {
+            "hex": "#99acb3",
+            "share": 0.12
+          },
+          {
+            "hex": "#9baeb5",
+            "share": 0.013
+          },
+          {
+            "hex": "#a3b5bb",
+            "share": 0.005
+          },
+          {
+            "hex": "#99aeb5",
+            "share": 0.004
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55",
+      "release_title": "808s & Heartbreak",
+      "release_date": "2008",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: 808s & Heartbreak",
+      "url": "https://coverartarchive.org/release/9505501e-f98d-4975-9775-63a671f713e1/43101510210-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/9505501e-f98d-4975-9775-63a671f713e1",
+      "image_id": 43101510210,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1050
+      ],
+      "measures": {
+        "brightness": 0.836,
+        "saturation": 0.139,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#c7cfd9",
+            "share": 0.285
+          },
+          {
+            "hex": "#c6cdd7",
+            "share": 0.273
+          },
+          {
+            "hex": "#c5cfd7",
+            "share": 0.173
+          },
+          {
+            "hex": "#c7ced8",
+            "share": 0.17
+          },
+          {
+            "hex": "#c17d7f",
+            "share": 0.099
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4d/75/2d/4d752db1-022d-f65d-40a1-a2390f01427a/13UAEIM26465.rgb.jpg/1200x1200bb.jpg",
+      "collection": "808s & Heartbreak",
+      "collection_id": 1441410287,
+      "track_id": 1441410309,
+      "artist_name": "Kanye West",
+      "release_date": "2008-11-04T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.839,
+        "saturation": 0.097,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#d8d9d3",
+            "share": 0.845
+          },
+          {
+            "hex": "#b9736f",
+            "share": 0.105
+          },
+          {
+            "hex": "#ecece9",
+            "share": 0.027
+          },
+          {
+            "hex": "#d7d9d6",
+            "share": 0.017
+          },
+          {
+            "hex": "#e2e156",
+            "share": 0.006
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}
