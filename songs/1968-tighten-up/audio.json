@@ -1,0 +1,79 @@
+{
+  "id": "1968-tighten-up",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2814506592,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USACU0511241",
+    "title": "Tighten Up",
+    "artist": "Archie Bell & The Drells",
+    "album": "20 Re-Energized Hits: 1968",
+    "track_duration_s": 156,
+    "link": "https://www.deezer.com/track/2814506592",
+    "duration_matched_to": "musicbrainz recording length (159s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 130.8,
+    "tempo_bpm_grid": 130.8,
+    "tempo_candidates_bpm": [
+      129.2,
+      86.1,
+      64.6
+    ],
+    "beats_detected": 66,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.389,
+    "key_runner_up": "D minor",
+    "key_runner_up_correlation": 0.389,
+    "chroma_profile": [
+      1.0,
+      0.872,
+      0.946,
+      0.85,
+      0.767,
+      0.944,
+      0.794,
+      0.614,
+      0.57,
+      0.671,
+      0.561,
+      0.502
+    ],
+    "rms_dbfs": -18.01,
+    "rms_dbfs_p95_frame": -13.62,
+    "peak_dbfs": -2.79,
+    "loudness_lufs_approx": -18.33,
+    "spectral_centroid_hz_mean": 1861.9,
+    "spectral_centroid_hz_median": 1881.9,
+    "onsets": 126,
+    "onset_density_per_s": 4.202,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2814506592",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -18.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2814506592",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between F major and D minor"
+  ],
+  "rejected_candidates": [
+    "deezer 6059752: version (Tighten Up (Rerecorded))",
+    "deezer 719862: duration 169s matches no reference length",
+    "deezer 737852: duration 167s matches no reference length",
+    "deezer 144433300: duration 550s matches no reference length",
+    "deezer 6070166: version (Tighten Up (Karaoke Version))"
+  ]
+}

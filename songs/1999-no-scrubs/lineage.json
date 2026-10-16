@@ -1,0 +1,55 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/277970",
+    "title": "No Scrubs",
+    "performer": "TLC",
+    "is_original": true,
+    "first_release_date": "1999",
+    "releases": [
+      {
+        "title": "Fanmail",
+        "uri": "https://api.secondhandsongs.com/release/68099",
+        "performer": "TLC"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 44,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/133605",
+    "title": "No Scrubs",
+    "language": "English",
+    "writers": [
+      "Kevin Briggs",
+      "Kandi Burruss",
+      "Tameka Cottle"
+    ],
+    "original_performer": "TLC",
+    "versions": 45,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Shape of You",
+        "uri": "https://api.secondhandsongs.com/work/160235"
+      },
+      {
+        "title": "SOS",
+        "uri": "https://api.secondhandsongs.com/work/210135"
+      },
+      {
+        "title": "What It Is (Block Boy)",
+        "uri": "https://api.secondhandsongs.com/work/298897"
+      }
+    ]
+  }
+}
