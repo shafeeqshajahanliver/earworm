@@ -1,0 +1,54 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20860028,
+  "kind": "synced",
+  "matched": {
+    "track": "Thankyou",
+    "artist": "Dido",
+    "album": "Thankyou",
+    "duration_s": 220.0
+  },
+  "duration_matched_to": "musicbrainz recording length (218s)",
+  "duration_diff_s": 1.8,
+  "reference_lengths": [
+    {
+      "seconds": 218.2,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 217.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 224.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 37,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37048005 (Thank You / Dido / Global Underground: Moscow, 446.0s): duration matches no reference length",
+    "lrclib 34475162 (Thank You / Dido / Songbird: The Greatest Female Voices, 193.0s): duration matches no reference length",
+    "lrclib 34758636 (Thank You / Dido / Singles, 174.0s): duration matches no reference length",
+    "lrclib 34923204 (Thank You / Dido / Ultimate Acoustic, 218.0s): live/remix/other version",
+    "lrclib 36621880 (Thankyou / Dido / No Angel, 198.0s): duration matches no reference length",
+    "lrclib 34199175 (Thankyou / Dido / Live at Brixton Academy [DVD] [HD], 289.0s): live/remix/other version",
+    "lrclib 35775435 (Thankyou / Dido / Music Live From the Panel: The Latest Collection, Volume 3, 148.0s): live/remix/other version",
+    "lrclib 20983660 (Thankyou / Dido / Live at Brixton Academy, 245.546667s): live/remix/other version",
+    "lrclib 20342331 (Thankyou / Dido / Live at brixton academy (DVD), 289.0s): live/remix/other version",
+    "lrclib 19566053 (Thankyou / Dido / No Angel, 234.096009s): duration matches no reference length",
+    "lrclib 23545276 (ThankYou / Dido / No Angel, 209.6145024s): duration matches no reference length",
+    "lrclib 18845320 (Thank You / Dido / Dido, 194.142041s): duration matches no reference length",
+    "lrclib 34090904 (Thank You / Dido / Thank You, 629.0s): duration matches no reference length",
+    "lrclib 20910093 (Thank You / Dido / Thank You, 272.374375s): duration matches no reference length",
+    "lrclib 24792226 (Thank You / Dido / Thank You, 564.0s): duration matches no reference length",
+    "lrclib 26980286 (Thank You / Dido / Thank You, 196.032s): duration matches no reference length",
+    "lrclib 32743484 (Thank You / Dido / Thank You, 194.0s): duration matches no reference length",
+    "lrclib 38364878 (thank you / dido / thank you, 568.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-16",
+  "images": {
+    "album": {
+      "release_group": "374672e1-de80-3520-97da-db4851b0c96f",
+      "release_title": "A mí me gusta",
+      "release_date": "1993",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: A mí me gusta",
+      "url": "http://coverartarchive.org/release/35c91a2c-6a45-47c4-bb6b-23c52f3ab0ac/9220728144-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/35c91a2c-6a45-47c4-bb6b-23c52f3ab0ac",
+      "image_id": "9220728144",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        384,
+        500
+      ],
+      "measures": {
+        "brightness": 0.624,
+        "saturation": 0.265,
+        "dark_share": 0.014,
+        "palette": [
+          {
+            "hex": "#dedfe0",
+            "share": 0.296
+          },
+          {
+            "hex": "#404351",
+            "share": 0.208
+          },
+          {
+            "hex": "#6b6365",
+            "share": 0.182
+          },
+          {
+            "hex": "#445d7e",
+            "share": 0.162
+          },
+          {
+            "hex": "#bea774",
+            "share": 0.152
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/64/43/a76443a8-1736-c015-4fbd-bae707b9b755/886449233250.jpg/1200x1200bb.jpg",
+      "collection": "Macarena (EP) - EP",
+      "collection_id": 1565774459,
+      "track_id": 1565774931,
+      "artist_name": "Los del Río",
+      "release_date": "1993-01-01T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.714,
+        "saturation": 0.469,
+        "dark_share": 0.126,
+        "palette": [
+          {
+            "hex": "#f2db5c",
+            "share": 0.304
+          },
+          {
+            "hex": "#272c23",
+            "share": 0.246
+          },
+          {
+            "hex": "#778f4c",
+            "share": 0.154
+          },
+          {
+            "hex": "#f7e47e",
+            "share": 0.15
+          },
+          {
+            "hex": "#f9eed5",
+            "share": 0.147
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

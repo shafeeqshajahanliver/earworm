@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-16",
+  "images": {
+    "single": {
+      "release_group": "8f1832a5-8c87-3f81-bf7e-3b819a43c906",
+      "release_title": "Bent",
+      "release_date": "2000",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/6b14d1d7-112b-45ca-97d6-e7b6d4a6dcbc/6228930204-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/6b14d1d7-112b-45ca-97d6-e7b6d4a6dcbc",
+      "image_id": "6228930204",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        496
+      ],
+      "measures": {
+        "brightness": 0.031,
+        "saturation": 0.531,
+        "dark_share": 0.985,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.493
+          },
+          {
+            "hex": "#010109",
+            "share": 0.249
+          },
+          {
+            "hex": "#000007",
+            "share": 0.112
+          },
+          {
+            "hex": "#0c1119",
+            "share": 0.105
+          },
+          {
+            "hex": "#010000",
+            "share": 0.041
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "8eda03d5-8934-3657-bebe-9b231380b299",
+      "release_title": "Mad Season",
+      "release_date": "2000",
+      "release_country": "CA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Mad Season",
+      "url": "https://coverartarchive.org/release/db9eeec7-5472-4ebe-b8d1-9371370dbddd/6596747129-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/db9eeec7-5472-4ebe-b8d1-9371370dbddd",
+      "image_id": 6596747129,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.471,
+        "saturation": 0.552,
+        "dark_share": 0.232,
+        "palette": [
+          {
+            "hex": "#090a12",
+            "share": 0.27
+          },
+          {
+            "hex": "#407d9e",
+            "share": 0.229
+          },
+          {
+            "hex": "#314158",
+            "share": 0.203
+          },
+          {
+            "hex": "#91b6c6",
+            "share": 0.187
+          },
+          {
+            "hex": "#50a4c8",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/b0/d6/bfb0d64f-5e51-7394-e5e2-ee204675cc11/075679958488.jpg/1200x1200bb.jpg",
+      "collection": "Mad Season (Deluxe Version)",
+      "collection_id": 579997746,
+      "track_id": 579997975,
+      "artist_name": "Matchbox Twenty",
+      "release_date": "2000-04-17T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.471,
+        "saturation": 0.55,
+        "dark_share": 0.23,
+        "palette": [
+          {
+            "hex": "#090a12",
+            "share": 0.267
+          },
+          {
+            "hex": "#407d9d",
+            "share": 0.231
+          },
+          {
+            "hex": "#314057",
+            "share": 0.203
+          },
+          {
+            "hex": "#91b5c6",
+            "share": 0.189
+          },
+          {
+            "hex": "#50a4c9",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

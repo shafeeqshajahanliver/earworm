@@ -1,0 +1,41 @@
+{
+  "id": "1991-baby-baby",
+  "lyrics_kind": "synced",
+  "lrclib_id": 56546,
+  "lines": 45,
+  "words": 253,
+  "unique_words": 86,
+  "type_token_ratio": 0.34,
+  "repeated_line_share": 0.311,
+  "distinct_lines": 31,
+  "zlib_compression_ratio": 0.34,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "baby baby",
+  "title_phrase_occurrences": 8,
+  "pronouns": {
+    "first_singular": 28,
+    "second": 21,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 5.12,
+  "last_line_s": 222.62,
+  "sung_time_s": 168.8,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 89.9,
+  "words_per_minute_track": 64.0,
+  "longest_gap_between_lines_s": 24.24,
+  "longest_gap_starts_at_s": 142.73,
+  "first_repeated_block": {
+    "first_at_s": 82.22,
+    "recurs_at_s": 128.68,
+    "lines": [
+      "And ever since the day you put my heart in motion",
+      "Baby I realize that there's just no gettin' over you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 56546",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

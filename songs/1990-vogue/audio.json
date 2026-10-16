@@ -1,0 +1,79 @@
+{
+  "id": "1990-vogue",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1041827512,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USWB19902795",
+    "title": "Vogue",
+    "artist": "Madonna",
+    "album": "Vogue",
+    "track_duration_s": 263,
+    "link": "https://www.deezer.com/track/1041827512",
+    "duration_matched_to": "wikipedia infobox length (261s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 116.4,
+    "tempo_bpm_grid": 116.1,
+    "tempo_candidates_bpm": [
+      234.9,
+      117.5,
+      78.3
+    ],
+    "beats_detected": 56,
+    "key": "G minor",
+    "key_tonic": "G",
+    "key_mode": "minor",
+    "key_correlation": 0.344,
+    "key_runner_up": "F# minor",
+    "key_runner_up_correlation": 0.188,
+    "chroma_profile": [
+      0.339,
+      0.326,
+      0.304,
+      0.471,
+      0.481,
+      0.553,
+      0.892,
+      1.0,
+      0.718,
+      0.57,
+      0.515,
+      0.409
+    ],
+    "rms_dbfs": -14.26,
+    "rms_dbfs_p95_frame": -10.84,
+    "peak_dbfs": -1.26,
+    "loudness_lufs_approx": -15.6,
+    "spectral_centroid_hz_mean": 3231.2,
+    "spectral_centroid_hz_median": 3165.8,
+    "onsets": 183,
+    "onset_density_per_s": 6.102,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1041827512",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 116.46,
+    "gain": -15.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1041827512",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1041827522: version (Vogue (12\" Version))",
+    "deezer 1041827532: duration 448s matches no reference length",
+    "deezer 3723483012: version (Vogue (MDNA World Tour / Live 2012))",
+    "deezer 1516217632: version (Vogue (Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020))",
+    "deezer 1041827542: duration 456s matches no reference length",
+    "deezer 139633177: duration 348s matches no reference length",
+    "deezer 2647929712: version (Vogue (Live))"
+  ]
+}

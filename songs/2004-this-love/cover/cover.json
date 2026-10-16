@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-16",
+  "images": {
+    "single": {
+      "release_group": "3374f91c-0e3f-3c82-a971-bf9bc99a21c9",
+      "release_title": "This Love",
+      "release_date": "2004-03-08",
+      "release_country": "AU",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/db336a63-d89e-4891-a9ab-69e287a713e1/33558404315-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/db336a63-d89e-4891-a9ab-69e287a713e1",
+      "image_id": 33558404315,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1046
+      ],
+      "measures": {
+        "brightness": 0.642,
+        "saturation": 0.141,
+        "dark_share": 0.095,
+        "palette": [
+          {
+            "hex": "#3e3a31",
+            "share": 0.261
+          },
+          {
+            "hex": "#8f866a",
+            "share": 0.25
+          },
+          {
+            "hex": "#e6e0de",
+            "share": 0.207
+          },
+          {
+            "hex": "#ebe6e3",
+            "share": 0.143
+          },
+          {
+            "hex": "#d4ccc3",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "93d5a1d1-73c0-34d3-b7f1-49473c48face",
+      "release_title": "Songs About Jane",
+      "release_date": "2002-06-25",
+      "release_country": "AR",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Songs About Jane",
+      "url": "https://coverartarchive.org/release/f94c7ece-58da-4d8f-8fb5-e72974609ffe/42497433785-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f94c7ece-58da-4d8f-8fb5-e72974609ffe",
+      "image_id": 42497433785,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1191
+      ],
+      "measures": {
+        "brightness": 0.352,
+        "saturation": 0.452,
+        "dark_share": 0.378,
+        "palette": [
+          {
+            "hex": "#662e23",
+            "share": 0.25
+          },
+          {
+            "hex": "#42231b",
+            "share": 0.201
+          },
+          {
+            "hex": "#151713",
+            "share": 0.191
+          },
+          {
+            "hex": "#b55b43",
+            "share": 0.181
+          },
+          {
+            "hex": "#1a1a16",
+            "share": 0.177
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/3e/25/d03e255d-e205-0e66-20f6-01e251896c25/14UMGIM27076.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Songs About Jane",
+      "collection_id": 1440851650,
+      "track_id": 1440851719,
+      "artist_name": "Maroon 5",
+      "release_date": "2002-06-25T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.31,
+        "saturation": 0.495,
+        "dark_share": 0.408,
+        "palette": [
+          {
+            "hex": "#0a0c0c",
+            "share": 0.342
+          },
+          {
+            "hex": "#72181b",
+            "share": 0.274
+          },
+          {
+            "hex": "#3a0506",
+            "share": 0.192
+          },
+          {
+            "hex": "#a8554d",
+            "share": 0.13
+          },
+          {
+            "hex": "#1b0d0d",
+            "share": 0.062
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

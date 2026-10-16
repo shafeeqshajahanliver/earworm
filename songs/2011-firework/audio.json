@@ -1,0 +1,70 @@
+{
+  "id": "2011-firework",
+  "preview": {
+    "service": "deezer",
+    "track_id": 15696864,
+    "matched_by": "isrc",
+    "isrc": "USCA21001262",
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "album": "Teenage Dream",
+    "track_duration_s": 228,
+    "link": "https://www.deezer.com/track/15696864",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.1,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      234.9,
+      61.5
+    ],
+    "beats_detected": 62,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.785,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.729,
+    "chroma_profile": [
+      0.737,
+      0.648,
+      0.625,
+      0.882,
+      0.538,
+      0.83,
+      0.584,
+      0.672,
+      0.954,
+      0.685,
+      1.0,
+      0.503
+    ],
+    "rms_dbfs": -9.44,
+    "rms_dbfs_p95_frame": -5.46,
+    "peak_dbfs": 1.09,
+    "loudness_lufs_approx": -8.99,
+    "spectral_centroid_hz_mean": 2602.4,
+    "spectral_centroid_hz_median": 2483.1,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 15696864",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.2,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/15696864",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

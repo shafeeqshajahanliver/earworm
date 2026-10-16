@@ -1,0 +1,70 @@
+{
+  "id": "2012-starships",
+  "preview": {
+    "service": "deezer",
+    "track_id": 17497474,
+    "matched_by": "isrc",
+    "isrc": "USCM51200060",
+    "title": "Starships",
+    "artist": "Nicki Minaj",
+    "album": "Pink Friday ... Roman Reloaded",
+    "track_duration_s": 210,
+    "link": "https://www.deezer.com/track/17497474",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 126.0,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      129.2,
+      63.0
+    ],
+    "beats_detected": 62,
+    "key": "B minor",
+    "key_tonic": "B",
+    "key_mode": "minor",
+    "key_correlation": 0.767,
+    "key_runner_up": "D major",
+    "key_runner_up_correlation": 0.616,
+    "chroma_profile": [
+      0.548,
+      0.563,
+      0.743,
+      0.491,
+      0.55,
+      0.461,
+      0.83,
+      0.757,
+      0.66,
+      0.887,
+      0.688,
+      1.0
+    ],
+    "rms_dbfs": -7.1,
+    "rms_dbfs_p95_frame": -4.57,
+    "peak_dbfs": 2.51,
+    "loudness_lufs_approx": -5.16,
+    "spectral_centroid_hz_mean": 3599.0,
+    "spectral_centroid_hz_median": 3490.0,
+    "onsets": 75,
+    "onset_density_per_s": 2.501,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 17497474",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.9,
+    "gain": -6.5,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/17497474",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

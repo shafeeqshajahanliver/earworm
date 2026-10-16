@@ -1,0 +1,76 @@
+{
+  "id": "1992-just-another-day",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2454841945,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USSB29200105",
+    "title": "Just Another Day",
+    "artist": "Jon Secada",
+    "album": "Nostalgia: Canciones Del Recuerdo",
+    "track_duration_s": 258,
+    "link": "https://www.deezer.com/track/2454841945",
+    "duration_matched_to": "musicbrainz recording length (255s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.0,
+    "tempo_bpm_grid": 105.5,
+    "tempo_candidates_bpm": [
+      215.3,
+      52.7,
+      107.7
+    ],
+    "beats_detected": 45,
+    "key": "C# major",
+    "key_tonic": "C#",
+    "key_mode": "major",
+    "key_correlation": 0.722,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.433,
+    "chroma_profile": [
+      0.83,
+      1.0,
+      0.715,
+      0.64,
+      0.555,
+      0.729,
+      0.912,
+      0.789,
+      0.935,
+      0.716,
+      0.628,
+      0.621
+    ],
+    "rms_dbfs": -8.95,
+    "rms_dbfs_p95_frame": -5.77,
+    "peak_dbfs": 1.74,
+    "loudness_lufs_approx": -9.96,
+    "spectral_centroid_hz_mean": 3114.6,
+    "spectral_centroid_hz_median": 3134.9,
+    "onsets": 122,
+    "onset_density_per_s": 4.068,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2454841945",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -10.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2454841945",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 4505134: duration 354s matches no reference length",
+    "deezer 3750776922: version (Just Another Day (Live Soundstage))",
+    "deezer 3285768681: duration 233s matches no reference length",
+    "deezer 3285802741: duration 229s matches no reference length"
+  ]
+}

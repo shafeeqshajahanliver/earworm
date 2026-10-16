@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 700691,
+  "kind": "synced",
+  "matched": {
+    "track": "Wannabe",
+    "artist": "Spice Girls",
+    "album": "Spice",
+    "duration_s": 173.0
+  },
+  "duration_matched_to": "musicbrainz recording length (173s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 173.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 172.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 174.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 26,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36969257 (Wannabe / Spice Girls / Singles, 236.0s): duration matches no reference length",
+    "lrclib 34380293 (Wannabe / Spice Girls / Spice Girls, 237.0s): duration matches no reference length",
+    "lrclib 34428356 (Wannabe / Spice Girls / Spice Girls, 815.0s): duration matches no reference length",
+    "lrclib 31253653 (Wannabe / Spice Girls / Spice Girls, 156.0s): duration matches no reference length",
+    "lrclib 38063388 (Wannabe / Spice Girls / Spice Girls Videos, 236.0s): duration matches no reference length",
+    "lrclib 18795379 (Wannabe / Spice Girls / Wannabe, 203.04s): duration matches no reference length",
+    "lrclib 18732967 (Wannabe / Spice Girls / Wannabe, 381.100408s): duration matches no reference length",
+    "lrclib 18781595 (Wannabe / Spice Girls / Wannabe, 379.0899999s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

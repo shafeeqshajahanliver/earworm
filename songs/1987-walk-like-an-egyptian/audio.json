@@ -1,0 +1,69 @@
+{
+  "id": "1987-walk-like-an-egyptian",
+  "preview": {
+    "service": "itunes",
+    "track_id": 826833653,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Walk Like an Egyptian",
+    "artist": "The Bangles",
+    "album": "21 Totally 80s Hits",
+    "track_duration_s": 203.6,
+    "link": "https://music.apple.com/us/album/walk-like-an-egyptian/826833636?i=826833653&uo=4",
+    "duration_matched_to": "wikipedia infobox length (204s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 103.0,
+    "tempo_bpm_grid": 103.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      198.8,
+      136.0
+    ],
+    "beats_detected": 49,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.772,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.72,
+    "chroma_profile": [
+      0.53,
+      0.629,
+      0.594,
+      0.606,
+      0.718,
+      0.654,
+      0.98,
+      0.657,
+      0.505,
+      0.668,
+      0.565,
+      1.0
+    ],
+    "rms_dbfs": -9.36,
+    "rms_dbfs_p95_frame": -7.19,
+    "peak_dbfs": 0.74,
+    "loudness_lufs_approx": -9.06,
+    "spectral_centroid_hz_mean": 2986.7,
+    "spectral_centroid_hz_median": 2822.9,
+    "onsets": 179,
+    "onset_density_per_s": 5.972,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 826833653",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 13784902: version (Walk Like an Egyptian (A Capella Mix))",
+    "deezer 13784899: version (Walk Like an Egyptian (Dub Mix))",
+    "itunes 397587093: version (Walk Like an Egyptian (A Capella Mix))",
+    "itunes 397587087: version (Walk Like an Egyptian (Dub Mix))"
+  ]
+}

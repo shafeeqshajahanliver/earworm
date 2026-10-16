@@ -1,0 +1,65 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 19428530,
+  "kind": "synced",
+  "matched": {
+    "track": "My Prerogative",
+    "artist": "Bobby Brown",
+    "album": "My Prerogative",
+    "duration_s": 289.0
+  },
+  "duration_matched_to": "wikipedia infobox length (291s)",
+  "duration_diff_s": 2.0,
+  "reference_lengths": [
+    {
+      "seconds": 265.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 265.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 265.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 291.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 16,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched wikipedia infobox length (291s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 37028151 (My Prerogative / Bobby Brown / Throwback: Party Jamz, 246.0s): duration matches no reference length",
+    "lrclib 37090763 (My Prerogative / Bobby Brown / Don't Be Cruel (Expanded), 482.0s): duration matches no reference length",
+    "lrclib 37285665 (My Prerogative / Bobby Brown / Billboard Top 100 Hits Of 1989, 206.0s): duration matches no reference length",
+    "lrclib 37312854 (My Prerogative / Bobby Brown / Ultimix 38, 464.0s): duration matches no reference length",
+    "lrclib 37348447 (My Prerogative / Bobby Brown / Now That’s What I Call Music! 1989: The Millennium Series, 223.0s): duration matches no reference length",
+    "lrclib 37418704 (My prerogative / Bobby Brown / disco top 100 Disc 3, 204.0s): duration matches no reference length",
+    "lrclib 34592395 (My Prerogative / Bobby Brown / Bobby Brown Videos, 278.0s): duration matches no reference length",
+    "lrclib 34662904 (My Prerogative / Bobby Brown / Nur Hits II, 211.0s): duration matches no reference length",
+    "lrclib 34947837 (My Prerogative / Bobby Brown / Ultimate 80s: Collector’s Edition, 300.0s): duration matches no reference length",
+    "lrclib 33612342 (My Prerogative / Bobby Brown / All the Number Ones, 209.0s): duration matches no reference length",
+    "lrclib 33548782 (My Prerogative / Bobby Brown / Hip Hop Mix, 276.0s): duration matches no reference length",
+    "lrclib 35551444 (My Prerogative / Bobby Brown / My Prerogative, 213.0s): duration matches no reference length",
+    "lrclib 19932794 (My Prerogative / Bobby Brown / My Prerogative, 253.224875s): duration matches no reference length",
+    "lrclib 24977588 (My Prerogative / Bobby Brown / My Prerogative, 271.232s): duration matches no reference length",
+    "lrclib 28915993 (My Prerogative / Bobby Brown / My Prerogative, 210.0s): duration matches no reference length",
+    "lrclib 25615581 (My Prerogative / Bobby Brown / My Prerogative, 297.665306s): duration matches no reference length",
+    "lrclib 32221309 (My Prerogative / Bobby Brown / My Prerogative, 238.0s): duration matches no reference length",
+    "lrclib 22383574 (My Prerogative / Bobby Brown / My Prerogative (Single), 213.293333s): duration matches no reference length",
+    "lrclib 28862073 (My Prerogative / Bobby Brown / Bobby Brown Greatest Hits, 279.0s): duration matches no reference length",
+    "lrclib 21865277 (My Prerogative / Bobby Brown / Greatest Hits: My Prerogative, 211.83705s): duration matches no reference length",
+    "lrclib 31576666 (My Prerogative / Bobby Brown / My Prerogative [3'' CDM], 213.0s): duration matches no reference length",
+    "lrclib 10111630 (My Prerogative (extended remix) / Bobby Brown / My Prerogative, 481.0s): live/remix/other version",
+    "lrclib 32635754 (My Prerogative (Instrumental Version) / Bobby Brown / My Prerogative, 298.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

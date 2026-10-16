@@ -1,0 +1,47 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 13008,
+  "kind": "synced",
+  "matched": {
+    "track": "You're Still The One",
+    "artist": "Shania Twain",
+    "album": "Come On Over",
+    "duration_s": 212.0
+  },
+  "duration_matched_to": "musicbrainz recording length (212s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 212.4,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 214.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 214.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37498230 (You're Still The One / Shania Twain / Greatest Hits (International Version), 195.0s): live/remix/other version",
+    "lrclib 37484363 (You’re Still the One / Shania Twain / RTL Hits, 195.0s): duration matches no reference length",
+    "lrclib 36901044 (You’re Still The One / Shania Twain / null, 201.0s): duration matches no reference length",
+    "lrclib 34501307 (Youre Still The One / Shania Twain / Come On Over, 224.0s): duration matches no reference length",
+    "lrclib 35229749 (You're Still the One / Shania Twain / VH1 Divas Live [SACD] [HD], 218.0s): live/remix/other version",
+    "lrclib 30428721 (You're Still The One / Shania Twain / Shania Twain, 201.0s): duration matches no reference length",
+    "lrclib 16188293 (You’re Still The One (Official Music Video) / Shania Twain / Shania Twain, 200.2808159s): duration matches no reference length",
+    "lrclib 35922871 (You're Still The One / Shania Twain / You’re Still the One, 195.0s): duration matches no reference length",
+    "lrclib 33961620 (You're Still The One / Shania Twain / You're Still The One, 180.0s): duration matches no reference length",
+    "lrclib 17568400 (You're Still The One / Shania Twain / Shania Twain Greatest Hits, 222.533s): duration matches no reference length",
+    "lrclib 6895156 (You're still the one / Shania Twain / Shania Twain Greatest Hits, 194.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

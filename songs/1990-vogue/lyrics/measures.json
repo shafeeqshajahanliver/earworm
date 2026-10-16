@@ -1,0 +1,41 @@
+{
+  "id": "1990-vogue",
+  "lyrics_kind": "synced",
+  "lrclib_id": 34734736,
+  "lines": 77,
+  "words": 455,
+  "unique_words": 161,
+  "type_token_ratio": 0.354,
+  "repeated_line_share": 0.234,
+  "distinct_lines": 59,
+  "zlib_compression_ratio": 0.348,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "vogue",
+  "title_phrase_occurrences": 34,
+  "pronouns": {
+    "first_singular": 2,
+    "second": 42,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.45,
+  "last_line_s": 282.78,
+  "sung_time_s": 230.6,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 118.4,
+  "words_per_minute_track": 91.3,
+  "longest_gap_between_lines_s": 33.15,
+  "longest_gap_starts_at_s": 0.45,
+  "first_repeated_block": {
+    "first_at_s": 110.54,
+    "recurs_at_s": 159.9,
+    "lines": [
+      "Let your body go with the flow (go with the flow)",
+      "You know you can do it"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 34734736",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

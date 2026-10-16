@@ -1,0 +1,70 @@
+{
+  "id": "2010-break-your-heart",
+  "preview": {
+    "service": "deezer",
+    "track_id": 7063921,
+    "matched_by": "isrc",
+    "isrc": "GBUM70908662",
+    "title": "Break Your Heart",
+    "artist": "Taio Cruz",
+    "album": "The Rokstarr Hits Collection",
+    "track_duration_s": 203,
+    "link": "https://www.deezer.com/track/7063921",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 122.1,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      61.5,
+      234.9
+    ],
+    "beats_detected": 62,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.733,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.585,
+    "chroma_profile": [
+      0.65,
+      0.512,
+      0.551,
+      0.803,
+      0.745,
+      0.676,
+      0.421,
+      0.798,
+      0.777,
+      0.692,
+      1.0,
+      0.553
+    ],
+    "rms_dbfs": -5.72,
+    "rms_dbfs_p95_frame": -3.93,
+    "peak_dbfs": 1.54,
+    "loudness_lufs_approx": -6.21,
+    "spectral_centroid_hz_mean": 2780.6,
+    "spectral_centroid_hz_median": 2758.4,
+    "onsets": 120,
+    "onset_density_per_s": 4.002,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 7063921",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 122,
+    "gain": -6.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/7063921",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

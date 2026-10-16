@@ -1,0 +1,41 @@
+{
+  "id": "1995-dont-take-it-personal-just-one-of-dem-days",
+  "lyrics_kind": "synced",
+  "lrclib_id": 11358986,
+  "lines": 78,
+  "words": 474,
+  "unique_words": 94,
+  "type_token_ratio": 0.198,
+  "repeated_line_share": 0.474,
+  "distinct_lines": 41,
+  "zlib_compression_ratio": 0.231,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "don't take it personal",
+  "title_phrase_occurrences": 12,
+  "pronouns": {
+    "first_singular": 42,
+    "second": 28,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.31,
+  "last_line_s": 251.72,
+  "sung_time_s": 236.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 120.3,
+  "words_per_minute_track": 109.9,
+  "longest_gap_between_lines_s": 12.59,
+  "longest_gap_starts_at_s": 228.21,
+  "first_repeated_block": {
+    "first_at_s": 14.24,
+    "recurs_at_s": 57.93,
+    "lines": [
+      "Don't take it personal",
+      "I just wanna be all alone"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 11358986",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

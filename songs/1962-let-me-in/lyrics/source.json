@@ -1,0 +1,39 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 22918877,
+  "kind": "synced",
+  "matched": {
+    "track": "Let Me In",
+    "artist": "The Sensations",
+    "album": "The Rock 'N' Roll Era: 1962",
+    "duration_s": 186.2528
+  },
+  "duration_matched_to": "itunes preview track matched by search (183s)",
+  "duration_diff_s": 3.5,
+  "reference_lengths": [
+    {
+      "seconds": 170.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 182.8,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 187.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 34,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched itunes preview track matched by search (183s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 36375723 (Let Me In / The Sensations / Cruisin' 1962-1963, 226.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

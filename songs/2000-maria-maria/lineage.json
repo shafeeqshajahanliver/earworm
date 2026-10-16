@@ -1,0 +1,44 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/585053",
+    "title": "Maria Maria",
+    "performer": "Santana",
+    "is_original": true,
+    "first_release_date": "1999-06",
+    "releases": [
+      {
+        "title": "Supernatural",
+        "uri": "https://api.secondhandsongs.com/release/37147",
+        "performer": "Santana"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 14,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/169216",
+    "title": "Maria Maria",
+    "language": "English",
+    "writers": [
+      "Jerry Duplessis",
+      "Wyclef Jean",
+      "Sincere",
+      "Money Harm",
+      "Carlos Santana"
+    ],
+    "original_performer": "Santana",
+    "versions": 15,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Wild Thoughts",
+        "uri": "https://api.secondhandsongs.com/work/169225"
+      }
+    ]
+  }
+}

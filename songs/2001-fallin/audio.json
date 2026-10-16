@@ -1,0 +1,70 @@
+{
+  "id": "2001-fallin",
+  "preview": {
+    "service": "deezer",
+    "track_id": 636217,
+    "matched_by": "isrc",
+    "isrc": "USJAY0000022",
+    "title": "Fallin' (Radio Edit)",
+    "artist": "Alicia Keys",
+    "album": "Die Jury - Die besten Rock-Popballaden",
+    "track_duration_s": 196,
+    "link": "https://www.deezer.com/track/636217",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 94.8,
+    "tempo_bpm_grid": 95.7,
+    "tempo_candidates_bpm": [
+      95.7,
+      198.8,
+      64.6
+    ],
+    "beats_detected": 47,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.517,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.454,
+    "chroma_profile": [
+      0.606,
+      0.855,
+      0.703,
+      0.562,
+      0.756,
+      0.531,
+      0.821,
+      1.0,
+      0.775,
+      0.591,
+      0.524,
+      0.755
+    ],
+    "rms_dbfs": -11.23,
+    "rms_dbfs_p95_frame": -7.71,
+    "peak_dbfs": 0.06,
+    "loudness_lufs_approx": -11.66,
+    "spectral_centroid_hz_mean": 2241.3,
+    "spectral_centroid_hz_median": 2204.5,
+    "onsets": 96,
+    "onset_density_per_s": 3.201,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 636217",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.9,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/636217",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-16",
+  "images": {
+    "album": {
+      "release_group": "ac5a23b0-1cdf-415e-8133-fdc044a179a2",
+      "release_title": "Jon Secada",
+      "release_date": "1988",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Jon Secada",
+      "url": "https://coverartarchive.org/release/58be35f7-1677-4826-b46f-4e6b845b5ebf/43465012995-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/58be35f7-1677-4826-b46f-4e6b845b5ebf",
+      "image_id": 43465012995,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.455,
+        "saturation": 0.168,
+        "dark_share": 0.236,
+        "palette": [
+          {
+            "hex": "#cfccd3",
+            "share": 0.301
+          },
+          {
+            "hex": "#292227",
+            "share": 0.227
+          },
+          {
+            "hex": "#43363c",
+            "share": 0.19
+          },
+          {
+            "hex": "#392a2f",
+            "share": 0.153
+          },
+          {
+            "hex": "#887579",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/48/54/ff4854c9-0cf3-b3c0-8126-6dacfbe50c82/00077779884551.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Jon Secada",
+      "collection_id": 723751830,
+      "track_id": 723752126,
+      "artist_name": "Jon Secada",
+      "release_date": "1992-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.592,
+        "saturation": 0.258,
+        "dark_share": 0.192,
+        "palette": [
+          {
+            "hex": "#211b16",
+            "share": 0.288
+          },
+          {
+            "hex": "#cac8a9",
+            "share": 0.228
+          },
+          {
+            "hex": "#78694a",
+            "share": 0.196
+          },
+          {
+            "hex": "#f0f0ec",
+            "share": 0.15
+          },
+          {
+            "hex": "#e8e5d5",
+            "share": 0.139
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

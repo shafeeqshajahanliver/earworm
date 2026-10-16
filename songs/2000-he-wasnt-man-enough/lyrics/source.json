@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1261439,
+  "kind": "synced",
+  "matched": {
+    "track": "He Wasn't Man Enough",
+    "artist": "Toni Braxton",
+    "album": "The Heat",
+    "duration_s": 262.0
+  },
+  "duration_matched_to": "musicbrainz recording length (262s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 262.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 261.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 261.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37134132 (He Wasn't Man Enough / Toni Braxton / Pure...party Disc 3, 242.0s): duration matches no reference length",
+    "lrclib 37385387 (He Wasn't Man Enough / Toni Braxton / He Wasn't Man Enough (Maxi-Single), 243.0s): duration matches no reference length",
+    "lrclib 37246281 (He Wasn't Man Enough / Toni Braxton / CB8526-14, 288.0s): duration matches no reference length",
+    "lrclib 34706248 (He Wasn't Man Enough / Toni Braxton / Y2K Pop Hits, 240.0s): duration matches no reference length",
+    "lrclib 35288843 (He Wasn't Man Enough / Toni Braxton / 2000s Pop Essentials, 239.0s): duration matches no reference length",
+    "lrclib 35130203 (He Wasn't Man Enough / Toni Braxton / Ultimate Toni Braxton  (Compilation), 240.0s): duration matches no reference length",
+    "lrclib 38112812 (He Wasn’t Man Enough / Toni Braxton / He Wasn’t Man Enough, 241.0s): duration matches no reference length",
+    "lrclib 36655159 (He Wasn't Man Enough [Extended] / Toni Braxton / He Wasn't Man Enough, 336.0s): duration matches no reference length",
+    "lrclib 16135077 (He Wasn't Man Enough [Instrumental] / Toni Braxton / He Wasn't Man Enough, 264.0s): live/remix/other version",
+    "lrclib 9268711 (He Wasn't Man Enough / Toni Braxton / He Wasn't Man Enough [CDS], 243.0s): duration matches no reference length",
+    "lrclib 5032694 (He Wasn't Man Enough (extended version) / Toni Braxton / He Wasn't Man Enough, 334.0s): live/remix/other version",
+    "lrclib 5032695 (He Wasn't Man Enough (radio edit) / Toni Braxton / He Wasn't Man Enough, 240.0s): duration matches no reference length",
+    "lrclib 25534036 (He Wasn't Man Enough (Extended Version) / Toni Braxton / He Wasn't Man Enough, 260.786s): live/remix/other version",
+    "lrclib 32835583 (He Wasn’t Man Enough (radio edit) / Toni Braxton / He Wasn’t Man Enough, 243.0s): duration matches no reference length",
+    "lrclib 14570430 (He Wasn't Man Enough [Extended Version] / Toni Braxton / He Wasn't Man Enough [CDS], 335.960825s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

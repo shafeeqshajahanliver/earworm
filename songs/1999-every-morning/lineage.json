@@ -1,0 +1,51 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/79487",
+    "title": "Every Morning",
+    "performer": "Sugar Ray",
+    "is_original": true,
+    "first_release_date": "1999-01-12",
+    "releases": [
+      {
+        "title": "14:59",
+        "uri": "https://api.secondhandsongs.com/release/180",
+        "performer": "Sugar Ray"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 10,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/79487",
+    "title": "Every Morning",
+    "language": "English",
+    "writers": [
+      "DJ Homicide",
+      "Stan Frazier",
+      "David Kahne",
+      "Murphy Karges",
+      "Mark McGrath",
+      "McG",
+      "Rodney Sheppard"
+    ],
+    "original_performer": "Sugar Ray",
+    "versions": 11,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Seven Romans",
+        "uri": "https://api.secondhandsongs.com/work/208286"
+      }
+    ]
+  }
+}

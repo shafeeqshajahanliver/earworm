@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 774289,
+  "kind": "synced",
+  "matched": {
+    "track": "U Got It Bad",
+    "artist": "Usher",
+    "album": "8701",
+    "duration_s": 248.0
+  },
+  "duration_matched_to": "musicbrainz recording length (248s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 247.84,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 247.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 247.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37193795 (U Got It Bad / Usher / CB8526-27, 271.0s): duration matches no reference length",
+    "lrclib 36432779 (U Got It Bad / Usher / U Got It Bad, 363.0s): duration matches no reference length",
+    "lrclib 34115813 (U Got It Bad / Usher / U Got It Bad, 196.0s): duration matches no reference length",
+    "lrclib 35478132 (U Got It Bad / USHER / 8701, 173.0s): duration matches no reference length",
+    "lrclib 35800303 (U Got It Bad / USHER / 8701, 226.0s): duration matches no reference length",
+    "lrclib 18822503 (U Got It Bad / Usher / Truth Tour Behind The Truth, 361.247347s): duration matches no reference length",
+    "lrclib 19995509 (U Got It Bad / Usher / HT Select Mix Rewind Series Vol. 21 (DD), 274.573061s): duration matches no reference length",
+    "lrclib 23866096 (U Got It Bad / Usher / U Got It Bad, 480.3918336s): duration matches no reference length",
+    "lrclib 23616185 (U Got It Bad / Usher / U Got It Bad, 326.5044992s): duration matches no reference length",
+    "lrclib 14829521 (U Got It Bad / Usher / U Got It Bad, 279.0s): duration matches no reference length",
+    "lrclib 20714209 (U Got It Bad (radio mix) / Usher / U Got It Bad, 253.706542s): live/remix/other version",
+    "lrclib 19837396 (U Got It Bad (radio mix) / Usher / U Got It Bad, 251.64s): live/remix/other version",
+    "lrclib 22299559 (U Got It Bad (Tee's Dub) / Usher / U Got It Bad, 324.44s): duration matches no reference length",
+    "lrclib 10587843 (U Got It Bad (SoulPower remix) / Usher / U Got It Bad, 249.0s): live/remix/other version",
+    "lrclib 31113983 (U Got It Bad (Tee's dub) / Usher / U Got It Bad, 476.0s): duration matches no reference length",
+    "lrclib 38640514 (U Got It Bad (Soulpower Remix) / Usher / U Got It Bad (Remixes), 249.0s): live/remix/other version",
+    "lrclib 35146844 (U Got It Bad (Soulpower Remix) / Usher / U Got It Bad [UK]  (single), 251.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2001-thank-you",
+  "preview": {
+    "service": "deezer",
+    "track_id": 105757118,
+    "matched_by": "isrc",
+    "isrc": "USAR10001502",
+    "title": "Thank You",
+    "artist": "Dido",
+    "album": "Happiness Forever",
+    "track_duration_s": 217,
+    "link": "https://www.deezer.com/track/105757118",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 160.1,
+    "tempo_bpm_grid": 159.0,
+    "tempo_candidates_bpm": [
+      161.5,
+      80.7,
+      107.7
+    ],
+    "beats_detected": 79,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.511,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.405,
+    "chroma_profile": [
+      0.46,
+      0.603,
+      0.509,
+      0.853,
+      0.739,
+      0.698,
+      0.904,
+      0.779,
+      1.0,
+      0.605,
+      0.529,
+      0.522
+    ],
+    "rms_dbfs": -10.71,
+    "rms_dbfs_p95_frame": -6.8,
+    "peak_dbfs": 0.08,
+    "loudness_lufs_approx": -11.33,
+    "spectral_centroid_hz_mean": 2705.2,
+    "spectral_centroid_hz_median": 2566.7,
+    "onsets": 155,
+    "onset_density_per_s": 5.169,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 105757118",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 160.25,
+    "gain": -11.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/105757118",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USAR10100283: matched but no preview available (readable=False)"
+  ]
+}

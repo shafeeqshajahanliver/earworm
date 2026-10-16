@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 3795201,
+  "kind": "synced",
+  "matched": {
+    "track": "How Deep Is Your Love",
+    "artist": "Bee Gees",
+    "album": "Saturday Night Fever",
+    "duration_s": 245.0
+  },
+  "duration_matched_to": "musicbrainz recording length (244s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 244.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 245.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 242.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37473080 (How Deep Is Your Love / Bee Gees / Knuffelrock 2 [CD 2], 212.0s): duration matches no reference length",
+    "lrclib 37505603 (How Deep Is Your Love / Bee Gees / Saturday Night Fever, 183.0s): duration matches no reference length",
+    "lrclib 37126958 (How Deep Is Your Love / Bee Gees / The Power Of Love, 198.0s): duration matches no reference length",
+    "lrclib 37285550 (How Deep Is Your Love / Bee Gees / Billboard Top 100 Hits Of 1978, 217.0s): duration matches no reference length",
+    "lrclib 37302429 (How Deep Is Your Love / Bee Gees / Billboard Top 100 Hits 1978, 217.0s): duration matches no reference length",
+    "lrclib 37432967 (How Deep Is Your Love / Bee Gees / Miguel - 70_s (MP3 - 320kbps), 265.0s): duration matches no reference length",
+    "lrclib 37445907 (How Deep Is Your Love / Bee Gees / The Ultimate Love Songs Collection, 220.0s): duration matches no reference length",
+    "lrclib 36860668 (How deep is your love / Bee Gees / How deep is your love, 223.0s): duration matches no reference length",
+    "lrclib 34363145 (How Deep Is Your Love / Bee Gees / Classic Soft Rock_Ultimate Seventies_1977, 219.0s): duration matches no reference length",
+    "lrclib 34622538 (How Deep Is Your Love / Bee Gees / Greatest, 255.0s): duration matches no reference length",
+    "lrclib 18832445 (How Deep Is Your Love / Bee Gees / How Deep Is Your Love, 218.9362432s): duration matches no reference length",
+    "lrclib 31428976 (How Deep Is Your Love / Bee Gees / How Deep Is Your Love, 209.0s): duration matches no reference length",
+    "lrclib 24970862 (How Deep Is Your Love / Bee Gees / Bee Gees, 318.2289369s): duration matches no reference length",
+    "lrclib 33161041 (How Deep Is Your Love / Bee Gees / Bee Gees, 217.0s): duration matches no reference length",
+    "lrclib 19912116 (How Deep Is Your Love  (Live) / Bee Gees / Bee Gees, 256.797438s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

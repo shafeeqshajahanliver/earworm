@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-16",
+  "images": {
+    "single": {
+      "release_group": "faf0fe05-c03e-49b6-8c3a-6d0a313ac1b4",
+      "release_title": "C’est la vie",
+      "release_date": "1986",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/8dc08b6b-6d1c-4581-9313-78108065d920/36997992279-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8dc08b6b-6d1c-4581-9313-78108065d920",
+      "image_id": 36997992279,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.6,
+        "saturation": 0.258,
+        "dark_share": 0.29,
+        "palette": [
+          {
+            "hex": "#e1dac1",
+            "share": 0.412
+          },
+          {
+            "hex": "#10120f",
+            "share": 0.289
+          },
+          {
+            "hex": "#ddce8a",
+            "share": 0.125
+          },
+          {
+            "hex": "#b3a787",
+            "share": 0.107
+          },
+          {
+            "hex": "#482933",
+            "share": 0.066
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "5ae5bef9-1f2a-3343-b5e4-68ab1ea9600d",
+      "release_title": "Robbie Nevil",
+      "release_date": "1986",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Robbie Nevil",
+      "url": "http://coverartarchive.org/release/c288eaca-02b8-4133-b857-439cc3773d4f/1553979620-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c288eaca-02b8-4133-b857-439cc3773d4f",
+      "image_id": 1553979620,
+      "types": [
+        "Front"
+      ],
+      "comment": "Even though this is labeled as Compact Disc it is the correct cover art for this album.",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.449,
+        "saturation": 0.286,
+        "dark_share": 0.118,
+        "palette": [
+          {
+            "hex": "#847561",
+            "share": 0.257
+          },
+          {
+            "hex": "#af9c88",
+            "share": 0.219
+          },
+          {
+            "hex": "#31281f",
+            "share": 0.204
+          },
+          {
+            "hex": "#6d5e4c",
+            "share": 0.161
+          },
+          {
+            "hex": "#594b3b",
+            "share": 0.16
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/89/5b/67895b4f-4a35-6314-c688-0bbbf0bcd67f/00602547862648.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Robbie Nevil",
+      "collection_id": 1443634355,
+      "track_id": 1443634921,
+      "artist_name": "Robbie Nevil",
+      "release_date": "1986-11-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.434,
+        "saturation": 0.128,
+        "dark_share": 0.121,
+        "palette": [
+          {
+            "hex": "#645d5b",
+            "share": 0.273
+          },
+          {
+            "hex": "#7f7a75",
+            "share": 0.243
+          },
+          {
+            "hex": "#2e2629",
+            "share": 0.208
+          },
+          {
+            "hex": "#96908a",
+            "share": 0.166
+          },
+          {
+            "hex": "#b7aea8",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

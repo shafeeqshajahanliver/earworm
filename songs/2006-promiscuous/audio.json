@@ -1,0 +1,72 @@
+{
+  "id": "2006-promiscuous",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2430338,
+    "matched_by": "isrc",
+    "isrc": "USUM70603473",
+    "title": "Promiscuous",
+    "artist": "Nelly Furtado",
+    "album": "Loose",
+    "track_duration_s": 242,
+    "link": "https://www.deezer.com/track/2430338",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 114.3,
+    "tempo_bpm_grid": 113.6,
+    "tempo_candidates_bpm": [
+      234.9,
+      112.3,
+      76.0
+    ],
+    "beats_detected": 57,
+    "key": "F# major",
+    "key_tonic": "F#",
+    "key_mode": "major",
+    "key_correlation": 0.277,
+    "key_runner_up": "Bb minor",
+    "key_runner_up_correlation": 0.248,
+    "chroma_profile": [
+      0.711,
+      0.632,
+      0.507,
+      0.747,
+      0.719,
+      0.784,
+      1.0,
+      0.855,
+      0.916,
+      0.885,
+      0.883,
+      0.608
+    ],
+    "rms_dbfs": -6.83,
+    "rms_dbfs_p95_frame": -2.6,
+    "peak_dbfs": 1.9,
+    "loudness_lufs_approx": -7.41,
+    "spectral_centroid_hz_mean": 2515.8,
+    "spectral_centroid_hz_median": 2228.7,
+    "onsets": 122,
+    "onset_density_per_s": 4.068,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2430338",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 114.2,
+    "gain": -8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2430338",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between F# major and Bb minor"
+  ],
+  "rejected_candidates": []
+}

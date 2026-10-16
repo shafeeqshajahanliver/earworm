@@ -1,0 +1,57 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/35076",
+    "title": "Kiss Me",
+    "performer": "Sixpence None the Richer",
+    "is_original": true,
+    "first_release_date": "1997",
+    "releases": [
+      {
+        "title": "Sixpence None the Richer",
+        "uri": "https://api.secondhandsongs.com/release/1516",
+        "performer": "Sixpence None the Richer"
+      },
+      {
+        "title": "Kiss Me (Japanese Version)",
+        "uri": "https://api.secondhandsongs.com/release/235429",
+        "performer": "Sixpence None the Richer"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 76,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/35076",
+    "title": "Kiss Me",
+    "language": "English",
+    "writers": [
+      "Matt Slocum"
+    ],
+    "original_performer": "Sixpence None the Richer",
+    "versions": 77,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "相對論",
+        "uri": "https://api.secondhandsongs.com/work/201757"
+      },
+      {
+        "title": "HIchop!",
+        "uri": "https://api.secondhandsongs.com/work/203352"
+      },
+      {
+        "title": "Kiss Me (Japanese Version)",
+        "uri": "https://api.secondhandsongs.com/work/205416"
+      },
+      {
+        "title": "Moonlit Floor (Kiss Me)",
+        "uri": "https://api.secondhandsongs.com/work/319604"
+      }
+    ]
+  }
+}

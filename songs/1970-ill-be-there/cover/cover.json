@@ -1,0 +1,102 @@
+{
+  "retrieved": "2026-10-16",
+  "images": {
+    "single": {
+      "release_group": "8bacb2b8-a454-487e-8b40-29cbaa5a4545",
+      "release_title": "I'll Be There",
+      "release_date": "1970-08-28",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/1bcf9873-be21-46d6-9105-35788d88834b/45261591220-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1bcf9873-be21-46d6-9105-35788d88834b",
+      "image_id": 45261591220,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.665,
+        "saturation": 0.153,
+        "dark_share": 0.026,
+        "palette": [
+          {
+            "hex": "#595a53",
+            "share": 0.252
+          },
+          {
+            "hex": "#af9f80",
+            "share": 0.221
+          },
+          {
+            "hex": "#c7b89a",
+            "share": 0.218
+          },
+          {
+            "hex": "#cec9b9",
+            "share": 0.189
+          },
+          {
+            "hex": "#dad8cc",
+            "share": 0.12
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2b0bb932-db34-3780-b5cd-0df61a03236a",
+      "release_title": "Third Album",
+      "release_date": "1970-09-08",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Third Album",
+      "url": "http://coverartarchive.org/release/ea4c5461-e824-4478-946d-4b308e885e02/4388601192-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/ea4c5461-e824-4478-946d-4b308e885e02",
+      "image_id": "4388601192",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.295,
+        "saturation": 0.558,
+        "dark_share": 0.488,
+        "palette": [
+          {
+            "hex": "#af6760",
+            "share": 0.23
+          },
+          {
+            "hex": "#4f2a25",
+            "share": 0.223
+          },
+          {
+            "hex": "#0a0204",
+            "share": 0.205
+          },
+          {
+            "hex": "#281513",
+            "share": 0.182
+          },
+          {
+            "hex": "#190c0f",
+            "share": 0.16
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

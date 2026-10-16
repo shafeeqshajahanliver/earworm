@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/402328",
+    "title": "Breathe",
+    "performer": "Faith Hill",
+    "is_original": true,
+    "first_release_date": "1999-11",
+    "releases": [
+      {
+        "title": "Breathe",
+        "uri": "https://api.secondhandsongs.com/release/7913",
+        "performer": "Faith Hill"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 23,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/149481",
+    "title": "Breathe",
+    "language": "English",
+    "writers": [
+      "Stephanie Bentley",
+      "Holly Lamar"
+    ],
+    "original_performer": "Faith Hill",
+    "versions": 24,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Eu Posso Te Sentir",
+        "uri": "https://api.secondhandsongs.com/work/189952"
+      },
+      {
+        "title": "Just Breathe",
+        "uri": "https://api.secondhandsongs.com/work/178894"
+      }
+    ]
+  }
+}

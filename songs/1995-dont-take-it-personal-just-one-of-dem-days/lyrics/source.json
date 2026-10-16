@@ -1,0 +1,56 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 11358986,
+  "kind": "synced",
+  "matched": {
+    "track": "Don't Take It Personal (Just One of Dem Days)",
+    "artist": "Monica",
+    "album": "Don't Take It Personal (Just One of Dem Days)",
+    "duration_s": 259.0
+  },
+  "duration_matched_to": "musicbrainz recording length (259s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 258.773,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 258.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 258.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37046666 (Don't Take It Personal (Just One Of Dem Days) / Monica / Throwback∶ Grooves, 250.0s): duration matches no reference length",
+    "lrclib 34559912 (Don't Take It Personal (Just One of Dem Days) / Monica / Throwback Grooves, 250.0s): duration matches no reference length",
+    "lrclib 33787592 (Don't Take It Personal (Just One Of Dem Days) / Monica / Best Swing '95, 251.0s): duration matches no reference length",
+    "lrclib 36472074 (Don't Take It Personal (Just One of Dem Days) / Monica / Ministry of Sound - Throwback Grooves, 250.0s): duration matches no reference length",
+    "lrclib 19911683 (Don't Take It Personal (Just One of Dem Days) / Monica / Miss Thang, 250.104312s): duration matches no reference length",
+    "lrclib 20964027 (Don't Take It Personal (Just One Of Dem Days) / Monica / Non-Album, 239.76s): duration matches no reference length",
+    "lrclib 20661338 (Don't Take It Personal (Just One Of Dem Days) / Monica / Ultimate Hip-Hop Party - 1998, 220.19483s): duration matches no reference length",
+    "lrclib 31482062 (Don't Take It Personal (Mainstream Radio Version) / Monica / Don't Take It Personal (just one of dem days) (CD-Single), 249.0s): live/remix/other version",
+    "lrclib 33013898 (Don't Take It Personal (Just One Of Dem Days) (Acappella) / Monica / Don't Take It Personal (Just One Of Dem Days), 282.0s): duration matches no reference length",
+    "lrclib 32980970 (Don’t Take It Personal (Just One of Dem Days) (a cappella) / Monica / Don’t Take It Personal (Just One of Dem Days), 282.0s): live/remix/other version",
+    "lrclib 30921798 (Don’t Take It Personal (Just One of Dem Days) (Mainstream radio version) / Monica / Don’t Take It Personal (Just One of Dem Days), 249.0s): live/remix/other version",
+    "lrclib 34479866 (Don't Take It Personal (Just One of Dem Days) (a cappella) / Monica / Don't Take It Personal (Just One of Dem Days)  (single), 282.0s): live/remix/other version",
+    "lrclib 34479852 (Don't Take It Personal (Just One of Dem Days) (Mainstream radio version) / Monica / Don't Take It Personal (Just One of Dem Days)  (single), 251.0s): live/remix/other version",
+    "lrclib 28902641 (Don’t Take It Personal (Just One of Dem Days) (Biz Markie / K.O. mix) / Monica / Don’t Take It Personal (Just One of Dem Days), 322.0s): live/remix/other version",
+    "lrclib 35657310 (Don't Take It Personal (Just One Of Dem Days) (Mainstream Mix) / Monica / Don't Take It Personal (Just One Of Dem Days) [Remix] - EP, 250.0s): live/remix/other version",
+    "lrclib 38852047 (Don’t Take It Personal (Just One of Dem Days) (Mainstream mix) (No Samples) / Monica / Don’t Take It Personal (Just One of Dem Days) (remix), 250.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

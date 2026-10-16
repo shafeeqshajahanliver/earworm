@@ -1,0 +1,82 @@
+{
+  "id": "1996-macarena-bayside-boys-mix",
+  "preview": {
+    "service": "deezer",
+    "track_id": 994491,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "ES5109500538",
+    "title": "Macarena",
+    "artist": "Los Del Río",
+    "album": "Hits Of The 90s",
+    "track_duration_s": 252,
+    "link": "https://www.deezer.com/track/994491",
+    "duration_matched_to": "wikipedia infobox length (250s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 104.9,
+    "tempo_bpm_grid": 103.4,
+    "tempo_candidates_bpm": [
+      103.4,
+      198.8,
+      215.3
+    ],
+    "beats_detected": 51,
+    "key": "Ab major",
+    "key_tonic": "Ab",
+    "key_mode": "major",
+    "key_correlation": 0.769,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.661,
+    "chroma_profile": [
+      0.536,
+      0.561,
+      0.589,
+      0.914,
+      0.582,
+      0.522,
+      0.599,
+      0.603,
+      1.0,
+      0.598,
+      0.617,
+      0.497
+    ],
+    "rms_dbfs": -9.17,
+    "rms_dbfs_p95_frame": -6.15,
+    "peak_dbfs": -1.06,
+    "loudness_lufs_approx": -9.75,
+    "spectral_centroid_hz_mean": 2067.9,
+    "spectral_centroid_hz_median": 1896.2,
+    "onsets": 171,
+    "onset_density_per_s": 5.702,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 994491",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 103.1,
+    "gain": -10.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/994491",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 990761: duration 230s matches no reference length",
+    "deezer 607524512: duration 230s matches no reference length",
+    "deezer 1049065: duration 302s matches no reference length",
+    "deezer 1361658112: duration 335s matches no reference length",
+    "deezer 1361658092: duration 340s matches no reference length",
+    "deezer 1361658102: duration 340s matches no reference length",
+    "deezer 1156157292: version (Macarena (DJ Dero - Latin Piano Remix))",
+    "deezer 17616234: duration 208s matches no reference length",
+    "deezer 1049067: duration 204s matches no reference length",
+    "deezer 1285010332: duration 94s matches no reference length"
+  ]
+}

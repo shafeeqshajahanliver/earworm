@@ -1,0 +1,70 @@
+{
+  "id": "2003-picture",
+  "preview": {
+    "service": "deezer",
+    "track_id": 556335312,
+    "matched_by": "isrc",
+    "isrc": "USWB11801843",
+    "title": "Picture (feat. Sheryl Crow) (2018 Remaster)",
+    "artist": "Kid Rock",
+    "album": "Greatest Hits: You Never Saw Coming",
+    "track_duration_s": 299,
+    "link": "https://www.deezer.com/track/556335312",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 98.0,
+    "tempo_bpm_grid": 100.3,
+    "tempo_candidates_bpm": [
+      48.8,
+      198.8,
+      215.3
+    ],
+    "beats_detected": 49,
+    "key": "G major",
+    "key_tonic": "G",
+    "key_mode": "major",
+    "key_correlation": 0.666,
+    "key_runner_up": "E minor",
+    "key_runner_up_correlation": 0.596,
+    "chroma_profile": [
+      0.31,
+      0.274,
+      0.599,
+      0.335,
+      0.636,
+      0.36,
+      0.781,
+      1.0,
+      0.425,
+      0.404,
+      0.292,
+      0.419
+    ],
+    "rms_dbfs": -11.3,
+    "rms_dbfs_p95_frame": -8.21,
+    "peak_dbfs": -0.3,
+    "loudness_lufs_approx": -12.33,
+    "spectral_centroid_hz_mean": 1576.7,
+    "spectral_centroid_hz_median": 1415.2,
+    "onsets": 85,
+    "onset_density_per_s": 2.834,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 556335312",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 97.97,
+    "gain": -10.4,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/556335312",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

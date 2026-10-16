@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/91659",
+    "title": "Smooth",
+    "performer": "Santana featuring Rob Thomas",
+    "is_original": true,
+    "first_release_date": "1999-06",
+    "releases": [
+      {
+        "title": "Supernatural",
+        "uri": "https://api.secondhandsongs.com/release/37147",
+        "performer": "Santana"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 41,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/91659",
+    "title": "Smooth",
+    "language": "English",
+    "writers": [
+      "Itaal Shur",
+      "Rob Thomas"
+    ],
+    "original_performer": "Santana featuring Rob Thomas",
+    "versions": 42,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Trooth",
+        "uri": "https://api.secondhandsongs.com/work/128558"
+      }
+    ]
+  }
+}

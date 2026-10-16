@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-16",
+  "images": {
+    "album": {
+      "release_group": "cf68a6be-fef4-4a44-b3a9-2df644016b79",
+      "release_title": "Sammy Davis Jr. Now",
+      "release_date": "1972",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Sammy Davis Jr. Now",
+      "url": "http://coverartarchive.org/release/1cb9f066-988e-42a7-9dfb-7ce5c7a360f5/5793335991-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/1cb9f066-988e-42a7-9dfb-7ce5c7a360f5",
+      "image_id": "5793335991",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        400,
+        400
+      ],
+      "measures": {
+        "brightness": 0.539,
+        "saturation": 0.583,
+        "dark_share": 0.249,
+        "palette": [
+          {
+            "hex": "#c06828",
+            "share": 0.311
+          },
+          {
+            "hex": "#0f191b",
+            "share": 0.306
+          },
+          {
+            "hex": "#6b452f",
+            "share": 0.149
+          },
+          {
+            "hex": "#c7804b",
+            "share": 0.125
+          },
+          {
+            "hex": "#c5b383",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/3d/5d/d53d5dc9-b235-3c36-6d7d-6b4d0b38e9cb/00731458979128.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Lounge Legends: Sammy Davis Jr.",
+      "collection_id": 1452868625,
+      "track_id": 1452868629,
+      "artist_name": "Sammy Davis, Jr.",
+      "release_date": "1968-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "measures": {
+        "brightness": 0.913,
+        "saturation": 0.518,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#f7c79f",
+            "share": 0.408
+          },
+          {
+            "hex": "#d7352b",
+            "share": 0.212
+          },
+          {
+            "hex": "#d6322a",
+            "share": 0.205
+          },
+          {
+            "hex": "#faddc6",
+            "share": 0.114
+          },
+          {
+            "hex": "#df614d",
+            "share": 0.061
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

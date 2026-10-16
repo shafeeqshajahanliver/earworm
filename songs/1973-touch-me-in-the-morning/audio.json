@@ -1,0 +1,81 @@
+{
+  "id": "1973-touch-me-in-the-morning",
+  "preview": {
+    "service": "deezer",
+    "track_id": 2155019,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMO17300350",
+    "title": "Touch Me In The Morning",
+    "artist": "Diana Ross",
+    "album": "All The Great Hits",
+    "track_duration_s": 207,
+    "link": "https://www.deezer.com/track/2155019",
+    "duration_matched_to": "wikipedia infobox length (206s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 141.6,
+    "tempo_bpm_grid": 137.8,
+    "tempo_candidates_bpm": [
+      136.0,
+      143.6,
+      69.8
+    ],
+    "beats_detected": 70,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.604,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.577,
+    "chroma_profile": [
+      0.791,
+      0.657,
+      0.458,
+      0.832,
+      0.609,
+      0.759,
+      1.0,
+      0.64,
+      0.597,
+      0.396,
+      0.602,
+      0.649
+    ],
+    "rms_dbfs": -11.79,
+    "rms_dbfs_p95_frame": -8.42,
+    "peak_dbfs": 0.79,
+    "loudness_lufs_approx": -11.2,
+    "spectral_centroid_hz_mean": 2016.3,
+    "spectral_centroid_hz_median": 1960.4,
+    "onsets": 109,
+    "onset_density_per_s": 3.635,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 2155019",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 137.8,
+    "gain": -9.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/2155019",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb minor and F# major"
+  ],
+  "rejected_candidates": [
+    "deezer 96188712: version (Touch Me In The Morning (Live At The Ahmanson Theater, 1976))",
+    "deezer 613093582: duration 230s matches no reference length",
+    "deezer 5467529: duration 331s matches no reference length",
+    "deezer 5467523: duration 240s matches no reference length",
+    "deezer 971390202: version (Touch Me In The Morning (Eric Kupper Instrumental Remix))",
+    "deezer 5059775: version (Touch Me In The Morning (Almighty Definitive Mix))",
+    "deezer 971485262: version (Touch Me In The Morning (Eric Kupper Remix))"
+  ]
+}

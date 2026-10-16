@@ -1,0 +1,72 @@
+{
+  "id": "1991-rush-rush",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3311534,
+    "matched_by": "isrc",
+    "isrc": "USVI29100002",
+    "title": "Rush Rush",
+    "artist": "Paula Abdul",
+    "album": "Spellbound",
+    "track_duration_s": 293,
+    "link": "https://www.deezer.com/track/3311534",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 179.9,
+    "tempo_bpm_grid": 178.2,
+    "tempo_candidates_bpm": [
+      184.6,
+      45.3,
+      172.3
+    ],
+    "beats_detected": 89,
+    "key": "E major",
+    "key_tonic": "E",
+    "key_mode": "major",
+    "key_correlation": 0.787,
+    "key_runner_up": "C# minor",
+    "key_runner_up_correlation": 0.564,
+    "chroma_profile": [
+      0.344,
+      0.611,
+      0.31,
+      0.487,
+      1.0,
+      0.67,
+      0.756,
+      0.463,
+      0.611,
+      0.669,
+      0.348,
+      0.634
+    ],
+    "rms_dbfs": -15.11,
+    "rms_dbfs_p95_frame": -12.46,
+    "peak_dbfs": -1.67,
+    "loudness_lufs_approx": -14.49,
+    "spectral_centroid_hz_mean": 2971.5,
+    "spectral_centroid_hz_median": 2862.3,
+    "onsets": 81,
+    "onset_density_per_s": 2.701,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3311534",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 179.8,
+    "gain": -15,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3311534",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo outside 65-160 BPM; may be a double- or half-time reading"
+  ],
+  "rejected_candidates": []
+}

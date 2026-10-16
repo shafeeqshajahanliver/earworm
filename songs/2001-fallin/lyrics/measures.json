@@ -1,0 +1,41 @@
+{
+  "id": "2001-fallin",
+  "lyrics_kind": "synced",
+  "lrclib_id": 5514157,
+  "lines": 41,
+  "words": 214,
+  "unique_words": 60,
+  "type_token_ratio": 0.28,
+  "repeated_line_share": 0.268,
+  "distinct_lines": 30,
+  "zlib_compression_ratio": 0.304,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "fallin",
+  "title_phrase_occurrences": 9,
+  "pronouns": {
+    "first_singular": 35,
+    "second": 19,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.89,
+  "last_line_s": 174.77,
+  "sung_time_s": 167.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 76.8,
+  "words_per_minute_track": 65.5,
+  "longest_gap_between_lines_s": 9.24,
+  "longest_gap_starts_at_s": 0.89,
+  "first_repeated_block": {
+    "first_at_s": 38.71,
+    "recurs_at_s": 83.85,
+    "lines": [
+      "I keep on fallin' in and out",
+      "Of love with you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 5514157",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

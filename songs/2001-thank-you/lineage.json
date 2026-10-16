@@ -1,0 +1,54 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/7988",
+    "title": "Thank You",
+    "performer": "Dido",
+    "is_original": true,
+    "first_release_date": "1998-04",
+    "releases": [
+      {
+        "title": "No Angel",
+        "uri": "https://api.secondhandsongs.com/release/3725",
+        "performer": "Dido"
+      },
+      {
+        "title": "Sliding Doors - Music from the Motion Picture",
+        "uri": "https://api.secondhandsongs.com/release/54062"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 48,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/7988",
+    "title": "Thank You",
+    "language": "English",
+    "writers": [
+      "Paul Herman",
+      "Dido"
+    ],
+    "original_performer": "Dido",
+    "versions": 49,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Gracias",
+        "uri": "https://api.secondhandsongs.com/work/7989"
+      },
+      {
+        "title": "Never Ending",
+        "uri": "https://api.secondhandsongs.com/work/339412"
+      }
+    ]
+  }
+}

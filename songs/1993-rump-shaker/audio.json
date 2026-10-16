@@ -1,0 +1,77 @@
+{
+  "id": "1993-rump-shaker",
+  "preview": {
+    "service": "deezer",
+    "track_id": 4279523972,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMC19238700",
+    "title": "Rump Shaker (Teddy 2)",
+    "artist": "Wreckx-N-Effect",
+    "album": "Rump Shaker",
+    "track_duration_s": 363,
+    "link": "https://www.deezer.com/track/4279523972",
+    "duration_matched_to": "musicbrainz recording length (364s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 103.4,
+    "tempo_bpm_grid": 103.4,
+    "tempo_candidates_bpm": [
+      51.7,
+      103.4,
+      215.3
+    ],
+    "beats_detected": 51,
+    "key": "D minor",
+    "key_tonic": "D",
+    "key_mode": "minor",
+    "key_correlation": 0.436,
+    "key_runner_up": "A major",
+    "key_runner_up_correlation": 0.346,
+    "chroma_profile": [
+      0.86,
+      0.983,
+      1.0,
+      0.856,
+      0.802,
+      0.713,
+      0.571,
+      0.588,
+      0.712,
+      0.896,
+      0.878,
+      0.704
+    ],
+    "rms_dbfs": -14.92,
+    "rms_dbfs_p95_frame": -9.33,
+    "peak_dbfs": -2.22,
+    "loudness_lufs_approx": -15.59,
+    "spectral_centroid_hz_mean": 3241.9,
+    "spectral_centroid_hz_median": 3113.7,
+    "onsets": 127,
+    "onset_density_per_s": 4.235,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 4279523972",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -16.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/4279523972",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 4279523952: duration 236s matches no reference length",
+    "deezer 668941342: duration 301s matches no reference length",
+    "deezer 3740176742: version (Rump Shaker (Radio Remix))",
+    "deezer 4279523982: duration 200s matches no reference length",
+    "deezer 4279524002: duration 353s matches no reference length"
+  ]
+}

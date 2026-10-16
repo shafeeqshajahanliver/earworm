@@ -1,0 +1,74 @@
+{
+  "id": "1998-youre-still-the-one",
+  "preview": {
+    "service": "deezer",
+    "track_id": 427243172,
+    "matched_by": "isrc",
+    "isrc": "USMR19887499",
+    "title": "You're Still The One",
+    "artist": "Shania Twain",
+    "album": "Throwback Tunes: 90s Country",
+    "track_duration_s": 214,
+    "link": "https://www.deezer.com/track/427243172",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 133.5,
+    "tempo_bpm_grid": 134.2,
+    "tempo_candidates_bpm": [
+      136.0,
+      66.3,
+      89.1
+    ],
+    "beats_detected": 66,
+    "key": "Eb major",
+    "key_tonic": "Eb",
+    "key_mode": "major",
+    "key_correlation": 0.769,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.753,
+    "chroma_profile": [
+      0.421,
+      0.351,
+      0.661,
+      0.785,
+      0.373,
+      0.735,
+      0.477,
+      0.642,
+      0.802,
+      0.557,
+      1.0,
+      0.334
+    ],
+    "rms_dbfs": -11.76,
+    "rms_dbfs_p95_frame": -7.79,
+    "peak_dbfs": 0.62,
+    "loudness_lufs_approx": -10.68,
+    "spectral_centroid_hz_mean": 2774.7,
+    "spectral_centroid_hz_median": 2638.6,
+    "onsets": 95,
+    "onset_density_per_s": 3.168,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 427243172",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 133.8,
+    "gain": -11.3,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/427243172",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between Eb major and Bb major"
+  ],
+  "rejected_candidates": [
+    "deezer isrc USUM71609114: version: You're Still The One (International Mix)"
+  ]
+}

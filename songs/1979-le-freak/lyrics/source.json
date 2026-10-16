@@ -1,0 +1,61 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 295805,
+  "kind": "synced",
+  "matched": {
+    "track": "Le Freak",
+    "artist": "Chic",
+    "album": "C'est Chic",
+    "duration_s": 214.0
+  },
+  "duration_matched_to": "musicbrainz recording length (212s)",
+  "duration_diff_s": 1.6,
+  "reference_lengths": [
+    {
+      "seconds": 212.426,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 210.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 210.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 323.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36977489 (Le Freak / Chic / Risqué, 332.0s): duration matches no reference length",
+    "lrclib 37008521 (Le Freak / Chic / Fetenhits - 70s Disco Classics CD2, 260.0s): duration matches no reference length",
+    "lrclib 37458740 (Le freak / Chic / 12 inches collection, 330.0s): duration matches no reference length",
+    "lrclib 37170654 (Le freak / Chic / One shot Disco 70 (Disc 4), 329.0s): duration matches no reference length",
+    "lrclib 37127396 (Le Freak / Chic / # 1 Hits Of Disco, 260.0s): duration matches no reference length",
+    "lrclib 37107410 (Le Freak / Chic / 70's Hits, 334.0s): duration matches no reference length",
+    "lrclib 36608839 (Le Freak / Chic / Le Freak - C'est Chic, 314.0s): duration matches no reference length",
+    "lrclib 36161684 (Le Freak / Chic / Chic & Aristofreeks Le Freak Remixes, 367.0s): live/remix/other version",
+    "lrclib 32562411 (Le Freak / Chic / Chic & Aristofreeks Le Freak Remixes - EP, 528.0s): live/remix/other version",
+    "lrclib 20887723 (Le Freak / Chic / Le Freak, 260.252s): duration matches no reference length",
+    "lrclib 23287050 (Le Freak / Chic / Le Freak, 305.0s): duration matches no reference length",
+    "lrclib 28752612 (Le Freak / Chic / Le Freak, 331.0s): duration matches no reference length",
+    "lrclib 9844121 (Le Freak / Chic / Le Freak, 329.0s): duration matches no reference length",
+    "lrclib 23929979 (Le Freak / Chic / Freak Out (Le Freak), 223.329524s): duration matches no reference length",
+    "lrclib 25265624 (Le Freak  (Aristo Mainroom Mix) / Chic / Chic & Aristofreeks Le Freak Remixes, 368.64s): live/remix/other version",
+    "lrclib 31591840 (Le Freak / Chic / Le Freak Live, 422.0s): live/remix/other version",
+    "lrclib 36926896 (Le Freak  (Aristo Classic Disco Mix) / Chic / Chic & Aristofreeks Le Freak Remixes, 528.0s): live/remix/other version",
+    "lrclib 28369278 (Le Freak (Aristo Filtered Mainroom Mix) / Chic / Chic & Aristofreeks Le Freak Remixes, 369.0s): live/remix/other version",
+    "lrclib 15696496 (Le Freak  (Aristo Filtered Disco Club Mix) / Chic / Chic & Aristofreeks Le Freak Remixes, 326.400113s): live/remix/other version",
+    "lrclib 36526959 (Le Freak / Chic / Le Freak / Savoir Faire, 421.0s): duration matches no reference length",
+    "lrclib 36677563 (Le Freak / Chic / Le Freak / Savoir Faire, 317.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

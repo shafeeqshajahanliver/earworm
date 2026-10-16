@@ -1,0 +1,42 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/262799",
+    "title": "All for You",
+    "performer": "Janet Jackson",
+    "is_original": true,
+    "first_release_date": "2001-04-24",
+    "releases": [
+      {
+        "title": "All for You",
+        "uri": "https://api.secondhandsongs.com/release/2491",
+        "performer": "Janet Jackson"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 4,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/131383",
+    "title": "All for You",
+    "language": "English",
+    "writers": [
+      "Jimmy Jam",
+      "Janet Jackson",
+      "Terry Lewis"
+    ],
+    "original_performer": "Janet Jackson",
+    "versions": 5,
+    "based_on": [],
+    "derived_works": []
+  }
+}

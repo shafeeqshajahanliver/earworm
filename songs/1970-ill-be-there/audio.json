@@ -1,0 +1,72 @@
+{
+  "id": "1970-ill-be-there",
+  "preview": {
+    "service": "deezer",
+    "track_id": 920085,
+    "matched_by": "isrc",
+    "isrc": "USMO17082635",
+    "title": "I'll Be There",
+    "artist": "Jackson 5",
+    "album": "The Ultimate Collection: Jackson 5",
+    "track_duration_s": 237,
+    "link": "https://www.deezer.com/track/920085",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-16",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 95.1,
+    "tempo_bpm_grid": 94.8,
+    "tempo_candidates_bpm": [
+      184.6,
+      95.7,
+      198.8
+    ],
+    "beats_detected": 46,
+    "key": "F major",
+    "key_tonic": "F",
+    "key_mode": "major",
+    "key_correlation": 0.675,
+    "key_runner_up": "Bb major",
+    "key_runner_up_correlation": 0.616,
+    "chroma_profile": [
+      0.659,
+      0.407,
+      0.565,
+      0.676,
+      0.604,
+      1.0,
+      0.628,
+      0.791,
+      0.703,
+      0.696,
+      0.763,
+      0.434
+    ],
+    "rms_dbfs": -12.57,
+    "rms_dbfs_p95_frame": -9.07,
+    "peak_dbfs": -0.94,
+    "loudness_lufs_approx": -12.2,
+    "spectral_centroid_hz_mean": 2072.2,
+    "spectral_centroid_hz_median": 2024.6,
+    "onsets": 106,
+    "onset_density_per_s": 3.535,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 920085",
+    "retrieved": "2026-10-16",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 93.5,
+    "gain": -12.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/920085",
+    "retrieved": "2026-10-16",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USM017082635: matched but no preview available (readable=False)"
+  ]
+}

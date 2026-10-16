@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/21309",
+    "title": "Fallin'",
+    "performer": "Alicia Keys",
+    "is_original": true,
+    "first_release_date": "2001-06-26",
+    "releases": [
+      {
+        "title": "Songs in A Minor",
+        "uri": "https://api.secondhandsongs.com/release/4161",
+        "performer": "Alicia Keys"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 58,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/21309",
+    "title": "Fallin'",
+    "language": "English",
+    "writers": [
+      "Alicia Keys"
+    ],
+    "original_performer": "Alicia Keys",
+    "versions": 59,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Fallin'",
+        "uri": "https://api.secondhandsongs.com/work/147565"
+      }
+    ]
+  }
+}

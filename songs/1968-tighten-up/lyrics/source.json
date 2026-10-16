@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 31121988,
+  "kind": "synced",
+  "matched": {
+    "track": "Tighten Up",
+    "artist": "Archie Bell & the Drells",
+    "album": "Tighten Up",
+    "duration_s": 158.0
+  },
+  "duration_matched_to": "musicbrainz recording length (159s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 159.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 156.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 195.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34297197 (Tighten Up / Archie Bell & The Drells, Archie Bell, The Drells / The Platinum Collection, 167.0s): duration matches no reference length",
+    "lrclib 34297192 (Tighten Up / Archie Bell & The Drells, Archie Bell, The Drells / Tighten Up, 165.0s): duration matches no reference length",
+    "lrclib 37472662 (Tighten Up / Archie Bell & The Drells / GoldDisc Update 3, 189.0s): duration matches no reference length",
+    "lrclib 37178905 (Tighten Up / Archie Bell & The Drells / 500 Greatest Songs - Rolling Stone Magazines 2010, 165.0s): duration matches no reference length",
+    "lrclib 37213314 (Tighten up / Archie Bell & The Drells / 25 SUPER OLDIES - CD 1, 182.0s): duration matches no reference length",
+    "lrclib 37260982 (Tighten Up / Archie Bell & the Drells / The Ultimate History of Rock & Roll Collection, Vol. 8: Soul Explosion, 168.0s): duration matches no reference length",
+    "lrclib 34745148 (Tighten Up / Archie Bell & The Drells / Rock 'n' Roll Hits Of 1962, 165.0s): duration matches no reference length",
+    "lrclib 34919283 (Tighten Up / Archie Bell & The Drells / Top-Hits-7, 168.0s): duration matches no reference length",
+    "lrclib 35265409 (Tighten Up / Archie Bell & The Drells / Rock N' Roll Dance Party, 166.0s): duration matches no reference length",
+    "lrclib 35267644 (Tighten up / Archie Bell & The Drells / undefined, Nones): duration matches no reference length",
+    "lrclib 21173593 (Tighten Up, Pt. 2 / Archie Bell & The Drells / 1968 Archie Bell & the Drells - Tighten up, 135.209796s): duration matches no reference length",
+    "lrclib 15814411 (Tighten' Up / Archie Bell & The Drells / Tightening It Up: The Best of Archie Bell and the Drells, 165.151458s): duration matches no reference length",
+    "lrclib 20192051 (Tighten Up / Archie Bell & The Drells / Tighten Up, 183.449417s): duration matches no reference length",
+    "lrclib 20464968 (Tighten Up / Archie Bell & the Drells / Tighten Up, 165.151458s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

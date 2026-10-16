@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1123266,
+  "kind": "synced",
+  "matched": {
+    "track": "Bent",
+    "artist": "Matchbox Twenty",
+    "album": "Mad Season",
+    "duration_s": 256.0
+  },
+  "duration_matched_to": "musicbrainz recording length (256s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 256.133,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 256.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 256.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 15,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37478640 (Bent / Matchbox Twenty / Bent, 245.0s): duration matches no reference length",
+    "lrclib 33456708 (Bent / Matchbox Twenty / Matchbox Twenty, 248.0s): duration matches no reference length",
+    "lrclib 36025432 (Bent / Matchbox Twenty / Show: A Night in the Life of Matchbox Twenty, 337.0s): duration matches no reference length",
+    "lrclib 35419004 (Bent / Matchbox Twenty / Mad Season, 207.0s): duration matches no reference length",
+    "lrclib 18389954 (Bent / Matchbox Twenty / Show, 279.797551s): duration matches no reference length",
+    "lrclib 20083767 (Bent / Matchbox Twenty / Mad Season, 295.290505s): duration matches no reference length",
+    "lrclib 20913123 (Bent / Matchbox Twenty / Mad Season, 274.993923s): duration matches no reference length",
+    "lrclib 21072864 (Bent / matchbox twenty / Storytellers LIVE, 283.436562s): live/remix/other version",
+    "lrclib 21100407 (Bent / Matchbox Twenty / Promo Only: Modern Rock Radio, May 2000, 240.0s): duration matches no reference length",
+    "lrclib 19808573 (Bent / Matchbox Twenty / Other Matchbox Twenty, 244.824437s): duration matches no reference length",
+    "lrclib 19523075 (Bent / Matchbox Twenty / VH1 Storytellers, 282.7891968s): duration matches no reference length",
+    "lrclib 19418979 (Bent / Matchbox Twenty / Exile on Mainstream, 298.7778816s): duration matches no reference length",
+    "lrclib 17817828 (Bent / Matchbox Twenty / RH 60, 243.36315s): duration matches no reference length",
+    "lrclib 12131780 (Bent / Matchbox Twenty / Matchbox Twenty Videos, 248.0s): duration matches no reference length",
+    "lrclib 30804909 (Bent / Matchbox Twenty / Show∶ A Night In The Life Of Matchbox Twenty, 280.0s): duration matches no reference length",
+    "lrclib 30381043 (Bent / Matchbox Twenty / Show: A Night in the Life of Matchbox Twenty, 347.0s): duration matches no reference length",
+    "lrclib 15693499 (Bent / Matchbox Twenty / Show A Night In The Life Of Matchbox Twenty, 280.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

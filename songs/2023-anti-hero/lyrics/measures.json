@@ -1,0 +1,41 @@
+{
+  "id": "2023-anti-hero",
+  "lyrics_kind": "synced",
+  "lrclib_id": 3722762,
+  "lines": 61,
+  "words": 336,
+  "unique_words": 144,
+  "type_token_ratio": 0.429,
+  "repeated_line_share": 0.41,
+  "distinct_lines": 36,
+  "zlib_compression_ratio": 0.356,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "anti hero",
+  "title_phrase_occurrences": 3,
+  "pronouns": {
+    "first_singular": 44,
+    "second": 5,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 5.52,
+  "last_line_s": 188.58,
+  "sung_time_s": 179.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 112.4,
+  "words_per_minute_track": 100.5,
+  "longest_gap_between_lines_s": 10.13,
+  "longest_gap_starts_at_s": 124.43,
+  "first_repeated_block": {
+    "first_at_s": 33.17,
+    "recurs_at_s": 97.88,
+    "lines": [
+      "Tale as old as time",
+      "I wake up screaming from dreaming"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 3722762",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2000-bent",
+  "lyrics_kind": "synced",
+  "lrclib_id": 1123266,
+  "lines": 51,
+  "words": 281,
+  "unique_words": 103,
+  "type_token_ratio": 0.367,
+  "repeated_line_share": 0.353,
+  "distinct_lines": 33,
+  "zlib_compression_ratio": 0.341,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "bent",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 52,
+    "second": 14,
+    "first_plural": 4
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 21.35,
+  "last_line_s": 216.95,
+  "sung_time_s": 162.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 103.8,
+  "words_per_minute_track": 65.8,
+  "longest_gap_between_lines_s": 25.63,
+  "longest_gap_starts_at_s": 151.19,
+  "first_repeated_block": {
+    "first_at_s": 63.68,
+    "recurs_at_s": 108.77,
+    "lines": [
+      "Can you help me I'm bent",
+      "I'm so scared that I'll never"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 1123266",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}
