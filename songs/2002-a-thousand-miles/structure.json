@@ -1,0 +1,67 @@
+{
+  "id": "2002-a-thousand-miles",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "331061",
+      "match": {
+        "spotify_song_id": "4w1lzcaoZ1IC2K5TwjalRP",
+        "matched_via": "Wikidata P2207 on Q2219037",
+        "spotify_artist_id": "5ILrArfIV0tMURcHJN8Q07",
+        "release_date": "2002-04-30",
+        "genres": "'lilith' 'neo mellow' 'piano rock' 'pop rock' 'post-teen pop'",
+        "main_genre": "pop rock"
+      },
+      "source": "Chordonomicon v2 row 331061 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a <bridge_n> tag in the transcription"
+    }
+  ],
+  "comparison": "only one source"
+}

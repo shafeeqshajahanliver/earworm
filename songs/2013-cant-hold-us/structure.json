@@ -1,6 +1,6 @@
 {
   "id": "2013-cant-hold-us",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -83,7 +83,63 @@
       ],
       "bridge": "yes",
       "bridge_basis": "a segment labelled 'bridge'"
+    },
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "358194",
+      "match": {
+        "spotify_song_id": "22skzmqfdWrjJylampe0kt",
+        "matched_via": "MusicBrainz url relation on our recording 25a2c3cc-0383-461a-a813-d22318df4b0f",
+        "spotify_artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+        "release_date": "2012-10-09",
+        "genres": "'pop rap' 'seattle hip hop'",
+        "main_genre": "rap"
+      },
+      "source": "Chordonomicon v2 row 358194 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "interlude_1",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
     }
   ],
-  "comparison": "only one source"
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro verse chorus verse chorus bridge chorus",
+      "chordonomicon": "instrumental"
+    },
+    "section_order": [
+      {
+        "a": "harmonix",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 7,
+        "similarity": 0.0
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "harmonix": "yes",
+      "chordonomicon": "no"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "yes",
+    "notes": [
+      "chordonomicon: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-16",
+    "confidence": "computed"
+  }
 }

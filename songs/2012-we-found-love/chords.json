@@ -1,0 +1,507 @@
+{
+  "id": "2012-we-found-love",
+  "updated": "2026-10-16",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "chordonomicon_1",
+      "dataset": "Chordonomicon v2",
+      "source_id": "208151",
+      "match": {
+        "spotify_song_id": "6qn9YLKt13AGvpq9jfO8py",
+        "matched_via": "MusicBrainz url relation on our recording 11294597-b4ac-4717-8e95-f99d665c1ece",
+        "spotify_artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "release_date": "",
+        "genres": "'barbadian pop' 'pop' 'urban contemporary'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 208151 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "C",
+        "tonic_pc": 0,
+        "mode": "major",
+        "name": "C major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.905,
+        "runner_up": "A minor (0.854)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "C major",
+          "written": [
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "G",
+            "Am",
+            "F",
+            "G",
+            "Am",
+            "F",
+            "G",
+            "C",
+            "Am",
+            "F",
+            "G",
+            "C"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "V",
+            "vi",
+            "IV",
+            "V",
+            "vi",
+            "IV",
+            "V",
+            "I",
+            "vi",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "G",
+            "Amin",
+            "F",
+            "G",
+            "Amin",
+            "F",
+            "G",
+            "C",
+            "Amin",
+            "F",
+            "G",
+            "C"
+          ]
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "key": "C major",
+          "written": [
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw": [
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "C major",
+          "written": [
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw": [
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G"
+          ]
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "key": "C major",
+          "written": [
+            "Am",
+            "F"
+          ],
+          "roman": [
+            "vi",
+            "IV"
+          ],
+          "raw": [
+            "Amin",
+            "F"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    },
+    {
+      "key": "chordonomicon_2",
+      "dataset": "Chordonomicon v2",
+      "source_id": "246155",
+      "match": {
+        "spotify_song_id": "6qn9YLKt13AGvpq9jfO8py",
+        "matched_via": "MusicBrainz url relation on our recording 11294597-b4ac-4717-8e95-f99d665c1ece",
+        "spotify_artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "release_date": "",
+        "genres": "'barbadian pop' 'pop' 'urban contemporary'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 246155 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "C",
+        "tonic_pc": 0,
+        "mode": "major",
+        "name": "C major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.912,
+        "runner_up": "A minor (0.879)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "C major",
+          "written": [
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw": [
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G"
+          ]
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "key": "C major",
+          "written": [
+            "C",
+            "Am",
+            "F",
+            "Dm",
+            "C",
+            "Am",
+            "F",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "ii",
+            "I",
+            "vi",
+            "IV",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C",
+            "Amin",
+            "F",
+            "Dmin",
+            "C",
+            "Amin",
+            "F",
+            "Dmin",
+            "C"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "C major",
+          "written": [
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw": [
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G"
+          ]
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "key": "C major",
+          "written": [
+            "C",
+            "Am",
+            "F",
+            "Dm"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "ii"
+          ],
+          "raw": [
+            "C",
+            "Amin",
+            "F",
+            "Dmin"
+          ]
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "key": "C major",
+          "written": [
+            "C",
+            "Am",
+            "F",
+            "Dm",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "ii",
+            "I"
+          ],
+          "raw": [
+            "C",
+            "Amin",
+            "F",
+            "Dmin",
+            "C"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "chordonomicon_1": "C major",
+      "chordonomicon_2": "C major"
+    },
+    "key_agree": true,
+    "pairs": [
+      {
+        "reference": "chordonomicon_1",
+        "other": "chordonomicon_2",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 0.8
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-16",
+    "confidence": "computed"
+  }
+}

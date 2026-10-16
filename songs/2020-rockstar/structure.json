@@ -1,0 +1,37 @@
+{
+  "id": "2020-rockstar",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "373783",
+      "match": {
+        "spotify_song_id": "7ytR5pFWmSjzHJIeQkgog4",
+        "matched_via": "MusicBrainz url relation on our recording 50a4f12b-8b19-4387-85e6-4ec98e1f2f69",
+        "spotify_artist_id": "4r63FhuTkUYltbVAg5TQnk",
+        "release_date": "2020-04-17",
+        "genres": "'hip hop' 'north carolina hip hop' 'pop rap' 'rap' 'trap'",
+        "main_genre": "rap"
+      },
+      "source": "Chordonomicon v2 row 373783 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "(untagged)",
+          "normalised": "other",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "the transcription has no section tags"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,6 +1,6 @@
 {
   "id": "1969-everyday-people",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -132,12 +132,48 @@
       "bridge": "no",
       "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
       "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "597424",
+      "match": {
+        "spotify_song_id": "4ZVZBc5xvMyV3WzWktn8i7",
+        "matched_via": "MusicBrainz url relation on our recording 4fe59a92-33bf-4571-8c8f-16358dc7e8b6",
+        "spotify_artist_id": "5m8H6zSadhu1j9Yi04VLqD",
+        "release_date": "1969-05-03",
+        "genres": "'classic soul' 'funk' 'funk rock' 'p funk' 'psychedelic soul' 'soul' 'southern soul'",
+        "main_genre": "soul"
+      },
+      "source": "Chordonomicon v2 row 597424 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
     }
   ],
   "comparison": {
     "form_by_source": {
       "rolling_stone_dt": "intro verse chorus verse chorus",
-      "rolling_stone_tdc": ""
+      "rolling_stone_tdc": "",
+      "chordonomicon": "verse"
     },
     "section_order": [
       {
@@ -146,18 +182,35 @@
         "same_order": false,
         "edit_distance": 5,
         "similarity": 0.0
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.2
+      },
+      {
+        "a": "rolling_stone_tdc",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.0
       }
     ],
     "section_order_agree": false,
     "bridge_by_source": {
       "rolling_stone_dt": "no",
-      "rolling_stone_tdc": "no"
+      "rolling_stone_tdc": "no",
+      "chordonomicon": "no"
     },
     "bridge_agree": true,
     "bridge_expert_value": "no",
-    "notes": [],
+    "notes": [
+      "chordonomicon: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
     "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
-    "computed": "2026-10-12",
+    "computed": "2026-10-16",
     "confidence": "computed"
   }
 }

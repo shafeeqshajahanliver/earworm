@@ -1,0 +1,248 @@
+{
+  "id": "1964-oh-pretty-woman",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon_1",
+      "dataset": "Chordonomicon v2",
+      "source_id": "2424",
+      "match": {
+        "spotify_song_id": "48i055G1OT5KxGGftwFxWy",
+        "matched_via": "MusicBrainz url relation on our recording f708a6a9-cd27-47f0-b929-625bc8f96e36",
+        "spotify_artist_id": "0JDkhL4rjiPNEp92jAgJnS",
+        "release_date": "",
+        "genres": "'adult standards' 'classic rock' 'folk rock' 'mellow gold' 'rock-and-roll' 'rockabilly' 'singer-songwriter'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 2424 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "instrumental_1",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a <bridge_n> tag in the transcription"
+    },
+    {
+      "key": "chordonomicon_2",
+      "dataset": "Chordonomicon v2",
+      "source_id": "8213",
+      "match": {
+        "spotify_song_id": "48i055G1OT5KxGGftwFxWy",
+        "matched_via": "MusicBrainz url relation on our recording f708a6a9-cd27-47f0-b929-625bc8f96e36",
+        "spotify_artist_id": "0JDkhL4rjiPNEp92jAgJnS",
+        "release_date": "",
+        "genres": "'adult standards' 'classic rock' 'folk rock' 'mellow gold' 'rock-and-roll' 'rockabilly' 'singer-songwriter'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 8213 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    },
+    {
+      "key": "chordonomicon_3",
+      "dataset": "Chordonomicon v2",
+      "source_id": "369472",
+      "match": {
+        "spotify_song_id": "48i055G1OT5KxGGftwFxWy",
+        "matched_via": "MusicBrainz url relation on our recording f708a6a9-cd27-47f0-b929-625bc8f96e36",
+        "spotify_artist_id": "0JDkhL4rjiPNEp92jAgJnS",
+        "release_date": "",
+        "genres": "'adult standards' 'classic rock' 'folk rock' 'mellow gold' 'rock-and-roll' 'rockabilly' 'singer-songwriter'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 369472 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a <bridge_n> tag in the transcription"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "chordonomicon_1": "intro verse chorus instrumental verse chorus bridge chorus",
+      "chordonomicon_2": "intro verse chorus verse chorus",
+      "chordonomicon_3": "intro verse chorus verse chorus bridge chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "chordonomicon_1",
+        "b": "chordonomicon_2",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.62
+      },
+      {
+        "a": "chordonomicon_1",
+        "b": "chordonomicon_3",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.75
+      },
+      {
+        "a": "chordonomicon_2",
+        "b": "chordonomicon_3",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.62
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "chordonomicon_1": "yes",
+      "chordonomicon_2": "no",
+      "chordonomicon_3": "yes"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "unknown",
+    "notes": [
+      "chordonomicon_1: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "chordonomicon_2: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "chordonomicon_3: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-16",
+    "confidence": "computed"
+  }
+}

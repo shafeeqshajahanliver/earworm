@@ -1,0 +1,404 @@
+{
+  "id": "1971-its-too-late",
+  "updated": "2026-10-16",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "604646",
+      "match": {
+        "spotify_song_id": "12q3V8ShACq2PSWINMc2rC",
+        "matched_via": "MusicBrainz recording 4e9d7098-e414-4fd9-b8b9-73938cd99850, same artist and title, similar length",
+        "spotify_artist_id": "319yZVtYM9MBGqmSQnMyY6",
+        "release_date": "1971",
+        "genres": "'brill building pop' 'classic rock' 'folk' 'folk rock' 'mellow gold' 'singer-songwriter' 'soft rock'",
+        "main_genre": "pop rock"
+      },
+      "source": "Chordonomicon v2 row 604646 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "F",
+        "tonic_pc": 5,
+        "mode": "major",
+        "name": "F major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.81,
+        "runner_up": "D minor (0.796)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "key": "F major",
+          "written": [
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Dadd13"
+          ],
+          "roman": [
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "VIadd13"
+          ],
+          "raw": [
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Dadd13"
+          ]
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Gm7",
+            "Fmaj7"
+          ],
+          "roman": [
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "ii7",
+            "Imaj7"
+          ],
+          "raw": [
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Gmin7",
+            "Fmaj7"
+          ]
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "key": "F major",
+          "written": [
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Dm7",
+            "E#us4",
+            "E7",
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Dadd13"
+          ],
+          "roman": [
+            "IVmaj7",
+            "Imaj7",
+            "IVmaj7",
+            "Imaj7",
+            "IVmaj7",
+            "Imaj7",
+            "vi7",
+            "Ius4",
+            "VII7",
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "VIadd13"
+          ],
+          "raw": [
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Dmin7",
+            "Esus4",
+            "E7",
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Dadd13"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Gm7",
+            "Fmaj7"
+          ],
+          "roman": [
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "ii7",
+            "Imaj7"
+          ],
+          "raw": [
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Gmin7",
+            "Fmaj7"
+          ]
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "key": "F major",
+          "written": [
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Dm7",
+            "G#us4",
+            "G7",
+            "Cmaj7"
+          ],
+          "roman": [
+            "IVmaj7",
+            "Imaj7",
+            "IVmaj7",
+            "Imaj7",
+            "IVmaj7",
+            "Imaj7",
+            "vi7",
+            "bIIIus4",
+            "II7",
+            "Vmaj7"
+          ],
+          "raw": [
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Dmin7",
+            "Gsus4",
+            "G7",
+            "Cmaj7"
+          ]
+        },
+        {
+          "label": "instrumental_1",
+          "normalised": "instrumental",
+          "key": "F major",
+          "written": [
+            "Fmaj7",
+            "Bbmaj7",
+            "Am7",
+            "Gm7",
+            "Fmaj7",
+            "Dm7",
+            "E7"
+          ],
+          "roman": [
+            "Imaj7",
+            "IVmaj7",
+            "iii7",
+            "ii7",
+            "Imaj7",
+            "vi7",
+            "VII7"
+          ],
+          "raw": [
+            "Fmaj7",
+            "Bbmaj7",
+            "Amin7",
+            "Gmin7",
+            "Fmaj7",
+            "Dmin7",
+            "E7"
+          ]
+        },
+        {
+          "label": "solo_1",
+          "normalised": "solo",
+          "key": "F major",
+          "written": [
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Dadd13"
+          ],
+          "roman": [
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "VIadd13"
+          ],
+          "raw": [
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Dadd13"
+          ]
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Dadd13",
+            "Am7",
+            "Gm7",
+            "Fmaj7"
+          ],
+          "roman": [
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "VIadd13",
+            "iii7",
+            "ii7",
+            "Imaj7"
+          ],
+          "raw": [
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Dadd13",
+            "Amin7",
+            "Gmin7",
+            "Fmaj7"
+          ]
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "key": "F major",
+          "written": [
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Dm7",
+            "G#us4",
+            "G7",
+            "Cmaj7",
+            "Fmaj7"
+          ],
+          "roman": [
+            "IVmaj7",
+            "Imaj7",
+            "IVmaj7",
+            "Imaj7",
+            "IVmaj7",
+            "Imaj7",
+            "vi7",
+            "bIIIus4",
+            "II7",
+            "Vmaj7",
+            "Imaj7"
+          ],
+          "raw": [
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Bbmaj7",
+            "Fmaj7",
+            "Dmin7",
+            "Gsus4",
+            "G7",
+            "Cmaj7",
+            "Fmaj7"
+          ]
+        },
+        {
+          "label": "instrumental_2",
+          "normalised": "instrumental",
+          "key": "F major",
+          "written": [
+            "Bbmaj7",
+            "Am7",
+            "Gm7",
+            "Fmaj7",
+            "Dm7",
+            "G"
+          ],
+          "roman": [
+            "IVmaj7",
+            "iii7",
+            "ii7",
+            "Imaj7",
+            "vi7",
+            "II"
+          ],
+          "raw": [
+            "Bbmaj7",
+            "Amin7",
+            "Gmin7",
+            "Fmaj7",
+            "Dmin7",
+            "G"
+          ]
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "key": "F major",
+          "written": [
+            "Cmaj7",
+            "Fmaj7",
+            "Cmaj7",
+            "Fmaj7",
+            "Cmaj7"
+          ],
+          "roman": [
+            "Vmaj7",
+            "Imaj7",
+            "Vmaj7",
+            "Imaj7",
+            "Vmaj7"
+          ],
+          "raw": [
+            "Cmaj7",
+            "Fmaj7",
+            "Cmaj7",
+            "Fmaj7",
+            "Cmaj7"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

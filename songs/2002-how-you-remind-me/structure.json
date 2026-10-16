@@ -1,6 +1,6 @@
 {
   "id": "2002-how-you-remind-me",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -118,7 +118,117 @@
       ],
       "bridge": "no",
       "bridge_basis": "no segment labelled 'bridge'"
+    },
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "598287",
+      "match": {
+        "spotify_song_id": "0gmbgwZ8iqyMPmXefof8Yf",
+        "matched_via": "MusicBrainz url relation on our recording 5d789be8-fedf-4ddb-a429-0977731fb9ab",
+        "spotify_artist_id": "6deZN1bslXzeGvOLaLMOIF",
+        "release_date": "2001-09-11",
+        "genres": "'alternative metal' 'canadian rock' 'post-grunge'",
+        "main_genre": "metal"
+      },
+      "source": "Chordonomicon v2 row 598287 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_2",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "interlude_1",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a <bridge_n> tag in the transcription"
     }
   ],
-  "comparison": "only one source"
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "verse prechorus chorus verse prechorus chorus instrumental verse prechorus chorus",
+      "chordonomicon": "verse chorus bridge verse chorus bridge instrumental verse chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "harmonix",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 6,
+        "similarity": 0.4
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "harmonix": "no",
+      "chordonomicon": "yes"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "no",
+    "notes": [
+      "chordonomicon: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-16",
+    "confidence": "computed"
+  }
 }

@@ -1,0 +1,73 @@
+{
+  "id": "1980-another-brick-in-the-wall-part-ii",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "327051",
+      "match": {
+        "spotify_song_id": "4gMgiXfqyzZLMhsksGmbQV",
+        "matched_via": "MusicBrainz recording 597eae0b-ccb6-4076-b997-0ce940586076 sharing ISRC GBDJQ7900001",
+        "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "release_date": "1979-11-30",
+        "genres": "'album rock' 'art rock' 'classic rock' 'progressive rock' 'psychedelic rock' 'rock' 'symphonic rock'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 327051 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "solo_1",
+          "normalised": "solo",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_4",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    }
+  ],
+  "comparison": "only one source"
+}

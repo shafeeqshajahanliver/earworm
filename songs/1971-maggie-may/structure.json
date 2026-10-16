@@ -1,6 +1,6 @@
 {
   "id": "1971-maggie-may",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -387,13 +387,151 @@
       "bridge": "no",
       "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
       "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "chordonomicon_1",
+      "dataset": "Chordonomicon v2",
+      "source_id": "4113",
+      "match": {
+        "spotify_song_id": "6rovOdp3HgK1DeAMYDzoA7",
+        "matched_via": "MusicBrainz url relation on our recording ac212fcb-375d-49e9-8a01-e9f064425517",
+        "spotify_artist_id": "2y8Jo9CKhJvtfeKOsYzRdT",
+        "release_date": "",
+        "genres": "'mellow gold' 'soft rock'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 4113 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_4",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_5",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    },
+    {
+      "key": "chordonomicon_2",
+      "dataset": "Chordonomicon v2",
+      "source_id": "304988",
+      "match": {
+        "spotify_song_id": "6rovOdp3HgK1DeAMYDzoA7",
+        "matched_via": "MusicBrainz url relation on our recording ac212fcb-375d-49e9-8a01-e9f064425517",
+        "spotify_artist_id": "2y8Jo9CKhJvtfeKOsYzRdT",
+        "release_date": "",
+        "genres": "'mellow gold' 'soft rock'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 304988 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
     }
   ],
   "comparison": {
     "form_by_source": {
       "mcgill_billboard": "intro verse prechorus chorus verse prechorus chorus verse prechorus chorus solo verse prechorus chorus solo instrumental outro",
       "rolling_stone_dt": "intro verse instrumental verse outro",
-      "rolling_stone_tdc": "intro verse solo verse solo outro"
+      "rolling_stone_tdc": "intro verse solo verse solo outro",
+      "chordonomicon_1": "verse chorus verse chorus verse chorus",
+      "chordonomicon_2": "intro verse chorus verse chorus verse chorus"
     },
     "section_order": [
       {
@@ -411,24 +549,78 @@
         "similarity": 0.35
       },
       {
+        "a": "mcgill_billboard",
+        "b": "chordonomicon_1",
+        "same_order": false,
+        "edit_distance": 11,
+        "similarity": 0.35
+      },
+      {
+        "a": "mcgill_billboard",
+        "b": "chordonomicon_2",
+        "same_order": false,
+        "edit_distance": 10,
+        "similarity": 0.41
+      },
+      {
         "a": "rolling_stone_dt",
         "b": "rolling_stone_tdc",
         "same_order": false,
         "edit_distance": 2,
         "similarity": 0.67
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "chordonomicon_1",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.33
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "chordonomicon_2",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.43
+      },
+      {
+        "a": "rolling_stone_tdc",
+        "b": "chordonomicon_1",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.17
+      },
+      {
+        "a": "rolling_stone_tdc",
+        "b": "chordonomicon_2",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.43
+      },
+      {
+        "a": "chordonomicon_1",
+        "b": "chordonomicon_2",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.86
       }
     ],
     "section_order_agree": false,
     "bridge_by_source": {
       "mcgill_billboard": "no",
       "rolling_stone_dt": "no",
-      "rolling_stone_tdc": "no"
+      "rolling_stone_tdc": "no",
+      "chordonomicon_1": "no",
+      "chordonomicon_2": "no"
     },
     "bridge_agree": true,
     "bridge_expert_value": "no",
-    "notes": [],
+    "notes": [
+      "chordonomicon_1: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "chordonomicon_2: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
     "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
-    "computed": "2026-10-12",
+    "computed": "2026-10-16",
     "confidence": "computed"
   }
 }

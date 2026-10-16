@@ -1,6 +1,6 @@
 {
   "id": "1979-hot-stuff",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -407,13 +407,121 @@
       "bridge": "no",
       "bridge_basis": "no section the analyst named Br; RS form names are informal shorthand",
       "label_note": "Labels are the analyst's rule names (Vr verse, Ch chorus, Br bridge, In intro, Ou outro, Rf refrain ...); bar spans from our expansion of the raw rules, times from the corpus bar timings"
+    },
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "606840",
+      "match": {
+        "spotify_song_id": "2zMJN9JvDlvGP4jB03l1Bz",
+        "matched_via": "Wikidata P2207 on Q1523310",
+        "spotify_artist_id": "2eogQKWWoohI3BSnoG7E2U",
+        "release_date": "1979-04-25",
+        "genres": "'disco' 'hi-nrg' 'new wave pop' 'soft rock'",
+        "main_genre": "pop rock"
+      },
+      "source": "Chordonomicon v2 row 606840 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_2",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "solo_1",
+          "normalised": "solo",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_3",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_4",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_5",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a <bridge_n> tag in the transcription"
     }
   ],
   "comparison": {
     "form_by_source": {
       "harmonix": "intro instrumental verse chorus instrumental verse chorus",
       "rolling_stone_dt": "intro verse chorus verse chorus bridge chorus verse chorus outro",
-      "rolling_stone_tdc": "verse chorus verse chorus solo chorus verse chorus"
+      "rolling_stone_tdc": "verse chorus verse chorus solo chorus verse chorus",
+      "chordonomicon": "intro verse chorus bridge verse chorus bridge solo chorus bridge verse chorus outro"
     },
     "section_order": [
       {
@@ -431,28 +539,51 @@
         "similarity": 0.5
       },
       {
+        "a": "harmonix",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 8,
+        "similarity": 0.38
+      },
+      {
         "a": "rolling_stone_dt",
         "b": "rolling_stone_tdc",
         "same_order": false,
         "edit_distance": 3,
         "similarity": 0.7
+      },
+      {
+        "a": "rolling_stone_dt",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.77
+      },
+      {
+        "a": "rolling_stone_tdc",
+        "b": "chordonomicon",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.62
       }
     ],
     "section_order_agree": false,
     "bridge_by_source": {
       "harmonix": "unknown",
       "rolling_stone_dt": "yes",
-      "rolling_stone_tdc": "no"
+      "rolling_stone_tdc": "no",
+      "chordonomicon": "yes"
     },
     "bridge_agree": false,
     "bridge_expert_value": "disputed",
     "notes": [
       "harmonix: annotated audio is 144 s vs 229 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording",
       "rolling_stone_dt: annotated audio runs to 315 s vs 229 s for our recording (Casablanca Greatest Hits): a different version; section times do not line up with the charting recording",
-      "rolling_stone_tdc: annotated audio runs to 315 s vs 229 s for our recording (Casablanca Greatest Hits): a different version; section times do not line up with the charting recording"
+      "rolling_stone_tdc: annotated audio runs to 315 s vs 229 s for our recording (Casablanca Greatest Hits): a different version; section times do not line up with the charting recording",
+      "chordonomicon: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
     ],
     "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
-    "computed": "2026-10-12",
+    "computed": "2026-10-16",
     "confidence": "computed"
   }
 }

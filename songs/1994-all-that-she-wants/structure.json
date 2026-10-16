@@ -1,0 +1,109 @@
+{
+  "id": "1994-all-that-she-wants",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "210401",
+      "match": {
+        "spotify_song_id": "6kWJvPfC4DgUpRsXKNa9z9",
+        "matched_via": "MusicBrainz url relation on our recording f9e75b22-20d2-4cc3-bc3a-42d983059565",
+        "spotify_artist_id": "5ksRONqssB7BR161NTtJAm",
+        "release_date": "1993-12-24",
+        "genres": "'eurodance' 'europop' 'new wave pop'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 210401 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_4",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "interlude_1",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_5",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_4",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_2",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    }
+  ],
+  "comparison": "only one source"
+}

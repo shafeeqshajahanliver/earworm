@@ -1,6 +1,6 @@
 {
   "id": "1979-hot-stuff",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
   "sources": [
     {
@@ -1122,12 +1122,583 @@
         }
       ],
       "chord_syntax": "Roman numerals as analysed (RS notation, e.g. V7/V applied, Vs4 suspended); 'written' names derived by us from the numeral and its absolute root"
+    },
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "606840",
+      "match": {
+        "spotify_song_id": "2zMJN9JvDlvGP4jB03l1Bz",
+        "matched_via": "Wikidata P2207 on Q1523310",
+        "spotify_artist_id": "2eogQKWWoohI3BSnoG7E2U",
+        "release_date": "1979-04-25",
+        "genres": "'disco' 'hi-nrg' 'new wave pop' 'soft rock'",
+        "main_genre": "pop rock"
+      },
+      "source": "Chordonomicon v2 row 606840 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "G",
+        "tonic_pc": 7,
+        "mode": "minor",
+        "name": "G minor",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.9,
+        "runner_up": "G major (0.647)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "key": "G minor",
+          "written": [
+            "Gm7",
+            "F"
+          ],
+          "roman": [
+            "i7",
+            "bVII"
+          ],
+          "raw": [
+            "Gmin7",
+            "F"
+          ]
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "G minor",
+          "written": [
+            "Gm7",
+            "F",
+            "Gm7",
+            "F",
+            "Gm7"
+          ],
+          "roman": [
+            "i7",
+            "bVII",
+            "i7",
+            "bVII",
+            "i7"
+          ],
+          "raw": [
+            "Gmin7",
+            "F",
+            "Gmin7",
+            "F",
+            "Gmin7"
+          ]
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "key": "G minor",
+          "written": [
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Gm7",
+            "Bb",
+            "Cm7"
+          ],
+          "roman": [
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "i7",
+            "bIII",
+            "iv7"
+          ],
+          "raw": [
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Gmin7",
+            "Bb",
+            "Cmin7"
+          ]
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "key": "G minor",
+          "written": [
+            "Gm7",
+            "Bb",
+            "Cm7",
+            "Gm7",
+            "Bb",
+            "Dm7",
+            "Gm7",
+            "Bb",
+            "Cm7"
+          ],
+          "roman": [
+            "i7",
+            "bIII",
+            "iv7",
+            "i7",
+            "bIII",
+            "v7",
+            "i7",
+            "bIII",
+            "iv7"
+          ],
+          "raw": [
+            "Gmin7",
+            "Bb",
+            "Cmin7",
+            "Gmin7",
+            "Bb",
+            "Dmin7",
+            "Gmin7",
+            "Bb",
+            "Cmin7"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "G minor",
+          "written": [
+            "Gm7",
+            "F",
+            "Gm7",
+            "F",
+            "Gm7"
+          ],
+          "roman": [
+            "i7",
+            "bVII",
+            "i7",
+            "bVII",
+            "i7"
+          ],
+          "raw": [
+            "Gmin7",
+            "F",
+            "Gmin7",
+            "F",
+            "Gmin7"
+          ]
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "key": "G minor",
+          "written": [
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Gm7",
+            "Bb",
+            "Cm7"
+          ],
+          "roman": [
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "i7",
+            "bIII",
+            "iv7"
+          ],
+          "raw": [
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Gmin7",
+            "Bb",
+            "Cmin7"
+          ]
+        },
+        {
+          "label": "bridge_2",
+          "normalised": "bridge",
+          "key": "G minor",
+          "written": [
+            "Gm7",
+            "Bb",
+            "Cm7",
+            "Gm7",
+            "Bb",
+            "Cm7",
+            "Gm7"
+          ],
+          "roman": [
+            "i7",
+            "bIII",
+            "iv7",
+            "i7",
+            "bIII",
+            "iv7",
+            "i7"
+          ],
+          "raw": [
+            "Gmin7",
+            "Bb",
+            "Cmin7",
+            "Gmin7",
+            "Bb",
+            "Cmin7",
+            "Gmin7"
+          ]
+        },
+        {
+          "label": "solo_1",
+          "normalised": "solo",
+          "key": "G minor",
+          "written": [
+            "Cm7/G",
+            "Dm7/G",
+            "Gm7",
+            "Cm7/G",
+            "Dm7/G",
+            "Gm",
+            "Gm7",
+            "F",
+            "Gm7",
+            "Gm9",
+            "Gm7",
+            "F",
+            "Gm7",
+            "Gm9"
+          ],
+          "roman": [
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i",
+            "i7",
+            "bVII",
+            "i7",
+            "i9",
+            "i7",
+            "bVII",
+            "i7",
+            "i9"
+          ],
+          "raw": [
+            "Cmin7/G",
+            "Dmin7/G",
+            "Gmin7",
+            "Cmin7/G",
+            "Dmin7/G",
+            "Gmin",
+            "Gmin7",
+            "F",
+            "Gmin7",
+            "Gmin9",
+            "Gmin7",
+            "F",
+            "Gmin7",
+            "Gmin9"
+          ]
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "key": "G minor",
+          "written": [
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Gm7",
+            "Bb",
+            "Cm7"
+          ],
+          "roman": [
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "i7",
+            "bIII",
+            "iv7"
+          ],
+          "raw": [
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Gmin7",
+            "Bb",
+            "Cmin7"
+          ]
+        },
+        {
+          "label": "bridge_3",
+          "normalised": "bridge",
+          "key": "G minor",
+          "written": [
+            "Gm7",
+            "Bb",
+            "Cm7",
+            "Gm7",
+            "Bb",
+            "Cm7",
+            "Gm7",
+            "Bb",
+            "Cm7"
+          ],
+          "roman": [
+            "i7",
+            "bIII",
+            "iv7",
+            "i7",
+            "bIII",
+            "iv7",
+            "i7",
+            "bIII",
+            "iv7"
+          ],
+          "raw": [
+            "Gmin7",
+            "Bb",
+            "Cmin7",
+            "Gmin7",
+            "Bb",
+            "Cmin7",
+            "Gmin7",
+            "Bb",
+            "Cmin7"
+          ]
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "key": "G minor",
+          "written": [
+            "Gm7",
+            "F",
+            "Gm7",
+            "F",
+            "Gm7"
+          ],
+          "roman": [
+            "i7",
+            "bVII",
+            "i7",
+            "bVII",
+            "i7"
+          ],
+          "raw": [
+            "Gmin7",
+            "F",
+            "Gmin7",
+            "F",
+            "Gmin7"
+          ]
+        },
+        {
+          "label": "chorus_4",
+          "normalised": "chorus",
+          "key": "G minor",
+          "written": [
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Gm7"
+          ],
+          "roman": [
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "i7"
+          ],
+          "raw": [
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Gmin7"
+          ]
+        },
+        {
+          "label": "chorus_5",
+          "normalised": "chorus",
+          "key": "G minor",
+          "written": [
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Gm7"
+          ],
+          "roman": [
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "i7"
+          ],
+          "raw": [
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Gmin7"
+          ]
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "key": "G minor",
+          "written": [
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Dm7",
+            "Gm7",
+            "Cm7",
+            "Gm7"
+          ],
+          "roman": [
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "v7",
+            "i7",
+            "iv7",
+            "i7"
+          ],
+          "raw": [
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Dmin7",
+            "Gmin7",
+            "Cmin7",
+            "Gmin7"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
     }
   ],
   "comparison": {
     "key_by_source": {
       "rolling_stone_dt": "G",
-      "rolling_stone_tdc": "G"
+      "rolling_stone_tdc": "G",
+      "chordonomicon": "G minor"
     },
     "key_agree": true,
     "pairs": [
@@ -1137,10 +1708,17 @@
         "same_tonic": true,
         "semitones_apart": 0,
         "roman_root_overlap": 0.83
+      },
+      {
+        "reference": "rolling_stone_dt",
+        "other": "chordonomicon",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 0.67
       }
     ],
     "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
-    "computed": "2026-10-12",
+    "computed": "2026-10-16",
     "confidence": "computed"
   }
 }

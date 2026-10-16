@@ -1,0 +1,265 @@
+{
+  "id": "1981-9-to-5",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon_1",
+      "dataset": "Chordonomicon v2",
+      "source_id": "222200",
+      "match": {
+        "spotify_song_id": "4w3tQBXhn5345eUXDGBWZG",
+        "matched_via": "MusicBrainz url relation on our recording f989fa05-7e2b-4e88-8a95-b5d68480b539",
+        "spotify_artist_id": "32vWCbZh0xZ4o9gkz4PsEU",
+        "release_date": "",
+        "genres": "'classic country pop' 'country' 'country dawn'",
+        "main_genre": "country"
+      },
+      "source": "Chordonomicon v2 row 222200 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_2",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_2",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_3",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_4",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a <bridge_n> tag in the transcription"
+    },
+    {
+      "key": "chordonomicon_2",
+      "dataset": "Chordonomicon v2",
+      "source_id": "265981",
+      "match": {
+        "spotify_song_id": "4w3tQBXhn5345eUXDGBWZG",
+        "matched_via": "MusicBrainz url relation on our recording f989fa05-7e2b-4e88-8a95-b5d68480b539",
+        "spotify_artist_id": "32vWCbZh0xZ4o9gkz4PsEU",
+        "release_date": "",
+        "genres": "'classic country pop' 'country' 'country dawn'",
+        "main_genre": "country"
+      },
+      "source": "Chordonomicon v2 row 265981 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a <bridge_n> tag in the transcription"
+    },
+    {
+      "key": "chordonomicon_3",
+      "dataset": "Chordonomicon v2",
+      "source_id": "265987",
+      "match": {
+        "spotify_song_id": "4w3tQBXhn5345eUXDGBWZG",
+        "matched_via": "MusicBrainz url relation on our recording f989fa05-7e2b-4e88-8a95-b5d68480b539",
+        "spotify_artist_id": "32vWCbZh0xZ4o9gkz4PsEU",
+        "release_date": "",
+        "genres": "'classic country pop' 'country' 'country dawn'",
+        "main_genre": "country"
+      },
+      "source": "Chordonomicon v2 row 265987 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "(untagged)",
+          "normalised": "other",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "unknown",
+      "bridge_basis": "the transcription has no section tags"
+    },
+    {
+      "key": "chordonomicon_4",
+      "dataset": "Chordonomicon v2",
+      "source_id": "605096",
+      "match": {
+        "spotify_song_id": "4w3tQBXhn5345eUXDGBWZG",
+        "matched_via": "MusicBrainz url relation on our recording f989fa05-7e2b-4e88-8a95-b5d68480b539",
+        "spotify_artist_id": "32vWCbZh0xZ4o9gkz4PsEU",
+        "release_date": "",
+        "genres": "'classic country pop' 'country' 'country dawn'",
+        "main_genre": "country"
+      },
+      "source": "Chordonomicon v2 row 605096 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "chordonomicon_1": "intro bridge",
+      "chordonomicon_2": "intro verse chorus verse chorus bridge chorus",
+      "chordonomicon_3": "",
+      "chordonomicon_4": "verse chorus verse"
+    },
+    "section_order": [
+      {
+        "a": "chordonomicon_1",
+        "b": "chordonomicon_2",
+        "same_order": false,
+        "edit_distance": 5,
+        "similarity": 0.29
+      },
+      {
+        "a": "chordonomicon_1",
+        "b": "chordonomicon_3",
+        "same_order": false,
+        "edit_distance": 2,
+        "similarity": 0.0
+      },
+      {
+        "a": "chordonomicon_1",
+        "b": "chordonomicon_4",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.0
+      },
+      {
+        "a": "chordonomicon_2",
+        "b": "chordonomicon_3",
+        "same_order": false,
+        "edit_distance": 7,
+        "similarity": 0.0
+      },
+      {
+        "a": "chordonomicon_2",
+        "b": "chordonomicon_4",
+        "same_order": false,
+        "edit_distance": 4,
+        "similarity": 0.43
+      },
+      {
+        "a": "chordonomicon_3",
+        "b": "chordonomicon_4",
+        "same_order": false,
+        "edit_distance": 3,
+        "similarity": 0.0
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "chordonomicon_1": "yes",
+      "chordonomicon_2": "yes",
+      "chordonomicon_3": "unknown",
+      "chordonomicon_4": "no"
+    },
+    "bridge_agree": false,
+    "bridge_expert_value": "unknown",
+    "notes": [
+      "chordonomicon_1: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "chordonomicon_2: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "chordonomicon_3: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "chordonomicon_4: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-16",
+    "confidence": "computed"
+  }
+}

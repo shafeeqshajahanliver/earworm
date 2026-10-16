@@ -1,0 +1,136 @@
+{
+  "id": "2012-we-found-love",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon_1",
+      "dataset": "Chordonomicon v2",
+      "source_id": "208151",
+      "match": {
+        "spotify_song_id": "6qn9YLKt13AGvpq9jfO8py",
+        "matched_via": "MusicBrainz url relation on our recording 11294597-b4ac-4717-8e95-f99d665c1ece",
+        "spotify_artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "release_date": "",
+        "genres": "'barbadian pop' 'pop' 'urban contemporary'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 208151 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    },
+    {
+      "key": "chordonomicon_2",
+      "dataset": "Chordonomicon v2",
+      "source_id": "246155",
+      "match": {
+        "spotify_song_id": "6qn9YLKt13AGvpq9jfO8py",
+        "matched_via": "MusicBrainz url relation on our recording 11294597-b4ac-4717-8e95-f99d665c1ece",
+        "spotify_artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "release_date": "",
+        "genres": "'barbadian pop' 'pop' 'urban contemporary'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 246155 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "chordonomicon_1": "verse chorus verse outro",
+      "chordonomicon_2": "verse chorus verse chorus outro"
+    },
+    "section_order": [
+      {
+        "a": "chordonomicon_1",
+        "b": "chordonomicon_2",
+        "same_order": false,
+        "edit_distance": 1,
+        "similarity": 0.8
+      }
+    ],
+    "section_order_agree": false,
+    "bridge_by_source": {
+      "chordonomicon_1": "no",
+      "chordonomicon_2": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "unknown",
+    "notes": [
+      "chordonomicon_1: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "chordonomicon_2: fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings"
+    ],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-16",
+    "confidence": "computed"
+  }
+}

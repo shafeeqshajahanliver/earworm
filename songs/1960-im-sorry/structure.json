@@ -1,0 +1,91 @@
+{
+  "id": "1960-im-sorry",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "290154",
+      "match": {
+        "spotify_song_id": "4LJcNiq2pBb8OeqrGdBJQw",
+        "matched_via": "MusicBrainz url relation on our recording cd57a953-58d8-4877-be00-0f1ab6340b1b",
+        "spotify_artist_id": "4cPHsZM98sKzmV26wlwD2W",
+        "release_date": "1960-08-01",
+        "genres": "'adult standards' 'easy listening' 'lounge' 'rockabilly'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 290154 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "instrumental_1",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "instrumental_2",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "instrumental_3",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_4",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "instrumental_4",
+          "normalised": "instrumental",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "verse_5",
+          "normalised": "verse",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,0 +1,1073 @@
+{
+  "id": "2021-drivers-license",
+  "updated": "2026-10-16",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "chordonomicon_1",
+      "dataset": "Chordonomicon v2",
+      "source_id": "111835",
+      "match": {
+        "spotify_song_id": "5wANPM4fQCJwkGd4rN57mH",
+        "matched_via": "MusicBrainz url relation on our recording 143f1c88-f47f-4f37-b25d-614c74269dea",
+        "spotify_artist_id": "1McMsnEElThX1knmY4oliG",
+        "release_date": "",
+        "genres": "'pop'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 111835 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "Bb",
+        "tonic_pc": 10,
+        "mode": "major",
+        "name": "Bb major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.967,
+        "runner_up": "G minor (0.773)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "Bb major",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "Bb"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "Bb",
+            "Gmin",
+            "Eb",
+            "Bb"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "Bb major",
+          "written": [
+            "Gm",
+            "F",
+            "Bb",
+            "F",
+            "Bb",
+            "Gm",
+            "F"
+          ],
+          "roman": [
+            "vi",
+            "V",
+            "I",
+            "V",
+            "I",
+            "vi",
+            "V"
+          ],
+          "raw": [
+            "Gmin",
+            "F",
+            "Bb",
+            "F",
+            "Bb",
+            "Gmin",
+            "F"
+          ]
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "key": "Bb major",
+          "written": [
+            "Eb",
+            "Gm",
+            "F",
+            "Bb",
+            "Bbsus4",
+            "Eb",
+            "Bb",
+            "D#"
+          ],
+          "roman": [
+            "IV",
+            "vi",
+            "V",
+            "I",
+            "Isus4",
+            "IV",
+            "I",
+            "IV"
+          ],
+          "raw": [
+            "Eb",
+            "Gmin",
+            "F",
+            "Bb",
+            "Bbsus4",
+            "Eb",
+            "Bb",
+            "Ds"
+          ]
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "key": "Bb major",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "V",
+            "I",
+            "vi",
+            "V",
+            "I",
+            "vi",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "Bb",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb"
+          ]
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "key": "Bb major",
+          "written": [
+            "Eb",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb",
+            "Bbsus4"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "vi",
+            "V",
+            "I",
+            "Isus4"
+          ],
+          "raw": [
+            "Eb",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb",
+            "Bbsus4"
+          ]
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "key": "Bb major",
+          "written": [
+            "Gm",
+            "F",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb",
+            "F",
+            "Bb",
+            "D#",
+            "Gm",
+            "Eb",
+            "Bb",
+            "F",
+            "Gm",
+            "Eb",
+            "Bb",
+            "D#",
+            "Gm",
+            "Eb",
+            "Bb",
+            "F",
+            "Gm",
+            "Eb",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb",
+            "D#",
+            "Gm",
+            "F",
+            "Bb",
+            "Bbsus4"
+          ],
+          "roman": [
+            "vi",
+            "V",
+            "I",
+            "vi",
+            "V",
+            "I",
+            "V",
+            "I",
+            "IV",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "IV",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "V",
+            "I",
+            "IV",
+            "vi",
+            "V",
+            "I",
+            "Isus4"
+          ],
+          "raw": [
+            "Gmin",
+            "F",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb",
+            "F",
+            "Bb",
+            "Ds",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "F",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "Ds",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "F",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb",
+            "Ds",
+            "Gmin",
+            "F",
+            "Bb",
+            "Bbsus4"
+          ]
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "key": "Bb major",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    },
+    {
+      "key": "chordonomicon_2",
+      "dataset": "Chordonomicon v2",
+      "source_id": "112462",
+      "match": {
+        "spotify_song_id": "5wANPM4fQCJwkGd4rN57mH",
+        "matched_via": "MusicBrainz url relation on our recording 143f1c88-f47f-4f37-b25d-614c74269dea",
+        "spotify_artist_id": "1McMsnEElThX1knmY4oliG",
+        "release_date": "",
+        "genres": "'pop'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 112462 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "C",
+        "tonic_pc": 0,
+        "mode": "major",
+        "name": "C major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.902,
+        "runner_up": "A minor (0.875)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "C major",
+          "written": [
+            "C",
+            "Am",
+            "F",
+            "C",
+            "Am",
+            "F",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "C",
+            "Amin",
+            "F",
+            "C",
+            "Amin",
+            "F",
+            "C"
+          ]
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "key": "C major",
+          "written": [
+            "Em",
+            "Am",
+            "F",
+            "Fm"
+          ],
+          "roman": [
+            "iii",
+            "vi",
+            "IV",
+            "iv"
+          ],
+          "raw": [
+            "Emin",
+            "Amin",
+            "F",
+            "Fmin"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "C major",
+          "written": [
+            "C",
+            "Am",
+            "F",
+            "C"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "C",
+            "Amin",
+            "F",
+            "C"
+          ]
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "key": "C major",
+          "written": [
+            "Em",
+            "Am",
+            "F",
+            "Fm"
+          ],
+          "roman": [
+            "iii",
+            "vi",
+            "IV",
+            "iv"
+          ],
+          "raw": [
+            "Emin",
+            "Amin",
+            "F",
+            "Fmin"
+          ]
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "key": "C major",
+          "written": [
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G",
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw": [
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G",
+            "Amin",
+            "F",
+            "C",
+            "G"
+          ]
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "key": "C major",
+          "written": [
+            "F",
+            "G",
+            "C",
+            "F",
+            "G",
+            "Am"
+          ],
+          "roman": [
+            "IV",
+            "V",
+            "I",
+            "IV",
+            "V",
+            "vi"
+          ],
+          "raw": [
+            "F",
+            "G",
+            "C",
+            "F",
+            "G",
+            "Amin"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    },
+    {
+      "key": "chordonomicon_3",
+      "dataset": "Chordonomicon v2",
+      "source_id": "123690",
+      "match": {
+        "spotify_song_id": "5wANPM4fQCJwkGd4rN57mH",
+        "matched_via": "MusicBrainz url relation on our recording 143f1c88-f47f-4f37-b25d-614c74269dea",
+        "spotify_artist_id": "1McMsnEElThX1knmY4oliG",
+        "release_date": "",
+        "genres": "'pop'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 123690 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "Bb",
+        "tonic_pc": 10,
+        "mode": "major",
+        "name": "Bb major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.974,
+        "runner_up": "G minor (0.774)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "Bb major",
+          "written": [
+            "Bb",
+            "Gm",
+            "Eb",
+            "Bb"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "Bb",
+            "Gmin",
+            "Eb",
+            "Bb"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "Bb major",
+          "written": [
+            "Gm",
+            "Eb",
+            "Bb"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "Gmin",
+            "Eb",
+            "Bb"
+          ]
+        },
+        {
+          "label": "chorus_1",
+          "normalised": "chorus",
+          "key": "Bb major",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "vi",
+            "V",
+            "I",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+          ]
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "key": "Bb major",
+          "written": [
+            "Gm",
+            "Eb",
+            "Bb"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I"
+          ],
+          "raw": [
+            "Gmin",
+            "Eb",
+            "Bb"
+          ]
+        },
+        {
+          "label": "chorus_2",
+          "normalised": "chorus",
+          "key": "Bb major",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Gm",
+            "F",
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "vi",
+            "V",
+            "I",
+            "IV",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Gmin",
+            "F",
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+          ]
+        },
+        {
+          "label": "bridge_1",
+          "normalised": "bridge",
+          "key": "Bb major",
+          "written": [
+            "Gm",
+            "Eb",
+            "Bb",
+            "F",
+            "Gm",
+            "Eb",
+            "Bb",
+            "F",
+            "Gm",
+            "Eb",
+            "Bb",
+            "F",
+            "Gm",
+            "Eb",
+            "Bb",
+            "F"
+          ],
+          "roman": [
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V"
+          ],
+          "raw": [
+            "Gmin",
+            "Eb",
+            "Bb",
+            "F",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "F",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "F",
+            "Gmin",
+            "Eb",
+            "Bb",
+            "F"
+          ]
+        },
+        {
+          "label": "chorus_3",
+          "normalised": "chorus",
+          "key": "Bb major",
+          "written": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Gm",
+            "Fm",
+            "Dm",
+            "F",
+            "Eb",
+            "Cm",
+            "F",
+            "Bb",
+            "Cm",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "vi",
+            "v",
+            "iii",
+            "V",
+            "IV",
+            "ii",
+            "V",
+            "I",
+            "ii",
+            "V",
+            "I"
+          ],
+          "raw": [
+            "Eb",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Gmin",
+            "Fmin",
+            "Dmin",
+            "F",
+            "Eb",
+            "Cmin",
+            "F",
+            "Bb",
+            "Cmin",
+            "F",
+            "Bb"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    },
+    {
+      "key": "chordonomicon_4",
+      "dataset": "Chordonomicon v2",
+      "source_id": "392481",
+      "match": {
+        "spotify_song_id": "5wANPM4fQCJwkGd4rN57mH",
+        "matched_via": "MusicBrainz url relation on our recording 143f1c88-f47f-4f37-b25d-614c74269dea",
+        "spotify_artist_id": "1McMsnEElThX1knmY4oliG",
+        "release_date": "",
+        "genres": "'pop'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 392481 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "Gb",
+        "tonic_pc": 6,
+        "mode": "major",
+        "name": "Gb major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.931,
+        "runner_up": "Eb minor (0.824)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "(untagged)",
+          "normalised": "other",
+          "key": "Gb major",
+          "written": [
+            "F#",
+            "D#m",
+            "B",
+            "F#",
+            "B",
+            "F#",
+            "B",
+            "F#",
+            "B",
+            "F#",
+            "B",
+            "F#",
+            "D#m",
+            "B",
+            "F#",
+            "D#m",
+            "B",
+            "F#",
+            "B",
+            "F#",
+            "B",
+            "F#",
+            "D#m",
+            "C#m",
+            "B",
+            "D#m",
+            "B",
+            "F#",
+            "C#",
+            "D#m",
+            "B",
+            "F#",
+            "C#",
+            "D#m",
+            "B",
+            "F#",
+            "C#",
+            "D#m",
+            "B",
+            "F#",
+            "C#",
+            "D#m",
+            "B",
+            "F#",
+            "C#",
+            "D#m",
+            "B",
+            "F#",
+            "C#",
+            "D#m",
+            "F#"
+          ],
+          "roman": [
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "vi",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "IV",
+            "I",
+            "vi",
+            "v",
+            "IV",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "IV",
+            "I",
+            "V",
+            "vi",
+            "I"
+          ],
+          "raw": [
+            "Fs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "B",
+            "Fs",
+            "B",
+            "Fs",
+            "B",
+            "Fs",
+            "B",
+            "Fs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "B",
+            "Fs",
+            "B",
+            "Fs",
+            "Dsmin",
+            "Csmin",
+            "B",
+            "Dsmin",
+            "B",
+            "Fs",
+            "Cs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "Cs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "Cs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "Cs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "Cs",
+            "Dsmin",
+            "B",
+            "Fs",
+            "Cs",
+            "Dsmin",
+            "Fs"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    }
+  ],
+  "comparison": {
+    "key_by_source": {
+      "chordonomicon_1": "Bb major",
+      "chordonomicon_2": "C major",
+      "chordonomicon_3": "Bb major",
+      "chordonomicon_4": "Gb major"
+    },
+    "key_agree": false,
+    "pairs": [
+      {
+        "reference": "chordonomicon_1",
+        "other": "chordonomicon_2",
+        "same_tonic": false,
+        "semitones_apart": 2,
+        "roman_root_overlap": 0.8
+      },
+      {
+        "reference": "chordonomicon_1",
+        "other": "chordonomicon_3",
+        "same_tonic": true,
+        "semitones_apart": 0,
+        "roman_root_overlap": 0.67
+      },
+      {
+        "reference": "chordonomicon_1",
+        "other": "chordonomicon_4",
+        "same_tonic": false,
+        "semitones_apart": -4,
+        "roman_root_overlap": 1.0
+      }
+    ],
+    "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
+    "computed": "2026-10-16",
+    "confidence": "computed"
+  }
+}

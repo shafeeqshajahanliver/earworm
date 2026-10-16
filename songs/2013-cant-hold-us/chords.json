@@ -1,0 +1,105 @@
+{
+  "id": "2013-cant-hold-us",
+  "updated": "2026-10-16",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "358194",
+      "match": {
+        "spotify_song_id": "22skzmqfdWrjJylampe0kt",
+        "matched_via": "MusicBrainz url relation on our recording 25a2c3cc-0383-461a-a813-d22318df4b0f",
+        "spotify_artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+        "release_date": "2012-10-09",
+        "genres": "'pop rap' 'seattle hip hop'",
+        "main_genre": "rap"
+      },
+      "source": "Chordonomicon v2 row 358194 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "C",
+        "tonic_pc": 0,
+        "mode": "major",
+        "name": "C major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.853,
+        "runner_up": "E minor (0.848)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "interlude_1",
+          "normalised": "instrumental",
+          "key": "C major",
+          "written": [
+            "Em",
+            "C",
+            "Bm",
+            "C",
+            "G",
+            "F",
+            "G",
+            "C",
+            "Em",
+            "C",
+            "G",
+            "F",
+            "G",
+            "C",
+            "F",
+            "G",
+            "C",
+            "Em"
+          ],
+          "roman": [
+            "iii",
+            "I",
+            "vii",
+            "I",
+            "V",
+            "IV",
+            "V",
+            "I",
+            "iii",
+            "I",
+            "V",
+            "IV",
+            "V",
+            "I",
+            "IV",
+            "V",
+            "I",
+            "iii"
+          ],
+          "raw": [
+            "Emin",
+            "C",
+            "Bmin",
+            "C",
+            "G",
+            "F",
+            "G",
+            "C",
+            "Emin",
+            "C",
+            "G",
+            "F",
+            "G",
+            "C",
+            "F",
+            "G",
+            "C",
+            "Emin"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

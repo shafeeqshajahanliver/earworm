@@ -1,0 +1,339 @@
+{
+  "id": "1960-im-sorry",
+  "updated": "2026-10-16",
+  "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "290154",
+      "match": {
+        "spotify_song_id": "4LJcNiq2pBb8OeqrGdBJQw",
+        "matched_via": "MusicBrainz url relation on our recording cd57a953-58d8-4877-be00-0f1ab6340b1b",
+        "spotify_artist_id": "4cPHsZM98sKzmV26wlwD2W",
+        "release_date": "1960-08-01",
+        "genres": "'adult standards' 'easy listening' 'lounge' 'rockabilly'",
+        "main_genre": "rock"
+      },
+      "source": "Chordonomicon v2 row 290154 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "key_info": {
+        "tonic": "F",
+        "tonic_pc": 5,
+        "mode": "major",
+        "name": "F major",
+        "basis": "estimated by us from the chord set (Krumhansl-Kessler profile on chord tones)",
+        "fit": 0.929,
+        "runner_up": "Bb major (0.713)",
+        "confidence": "computed"
+      },
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "key": "F major",
+          "written": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cm",
+            "F"
+          ],
+          "roman": [
+            "IV",
+            "III",
+            "IV",
+            "#ivo",
+            "v",
+            "I"
+          ],
+          "raw": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cmin",
+            "F"
+          ]
+        },
+        {
+          "label": "verse_1",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cm",
+            "F",
+            "Cm",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "III",
+            "IV",
+            "#ivo",
+            "v",
+            "I",
+            "v",
+            "I",
+            "IV"
+          ],
+          "raw": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cmin",
+            "F",
+            "Cmin",
+            "F",
+            "Bb"
+          ]
+        },
+        {
+          "label": "instrumental_1",
+          "normalised": "instrumental",
+          "key": "F major",
+          "written": [
+            "Bdim",
+            "Cm",
+            "F7"
+          ],
+          "roman": [
+            "#ivo",
+            "v",
+            "I7"
+          ],
+          "raw": [
+            "Bdim",
+            "Cmin",
+            "F7"
+          ]
+        },
+        {
+          "label": "verse_2",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cm",
+            "F",
+            "Cm",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "III",
+            "IV",
+            "#ivo",
+            "v",
+            "I",
+            "v",
+            "I",
+            "IV"
+          ],
+          "raw": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cmin",
+            "F",
+            "Cmin",
+            "F",
+            "Bb"
+          ]
+        },
+        {
+          "label": "instrumental_2",
+          "normalised": "instrumental",
+          "key": "F major",
+          "written": [
+            "Bdim",
+            "Cm",
+            "F7"
+          ],
+          "roman": [
+            "#ivo",
+            "v",
+            "I7"
+          ],
+          "raw": [
+            "Bdim",
+            "Cmin",
+            "F7"
+          ]
+        },
+        {
+          "label": "verse_3",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cm",
+            "F",
+            "Cm",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "III",
+            "IV",
+            "#ivo",
+            "v",
+            "I",
+            "v",
+            "I",
+            "IV"
+          ],
+          "raw": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cmin",
+            "F",
+            "Cmin",
+            "F",
+            "Bb"
+          ]
+        },
+        {
+          "label": "instrumental_3",
+          "normalised": "instrumental",
+          "key": "F major",
+          "written": [
+            "Bdim",
+            "Cm",
+            "F7"
+          ],
+          "roman": [
+            "#ivo",
+            "v",
+            "I7"
+          ],
+          "raw": [
+            "Bdim",
+            "Cmin",
+            "F7"
+          ]
+        },
+        {
+          "label": "verse_4",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cm",
+            "F",
+            "Cm",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "III",
+            "IV",
+            "#ivo",
+            "v",
+            "I",
+            "v",
+            "I",
+            "IV"
+          ],
+          "raw": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cmin",
+            "F",
+            "Cmin",
+            "F",
+            "Bb"
+          ]
+        },
+        {
+          "label": "instrumental_4",
+          "normalised": "instrumental",
+          "key": "F major",
+          "written": [
+            "Bdim",
+            "Cm",
+            "F7"
+          ],
+          "roman": [
+            "#ivo",
+            "v",
+            "I7"
+          ],
+          "raw": [
+            "Bdim",
+            "Cmin",
+            "F7"
+          ]
+        },
+        {
+          "label": "verse_5",
+          "normalised": "verse",
+          "key": "F major",
+          "written": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cm",
+            "F",
+            "Cm",
+            "F",
+            "Bb"
+          ],
+          "roman": [
+            "IV",
+            "III",
+            "IV",
+            "#ivo",
+            "v",
+            "I",
+            "v",
+            "I",
+            "IV"
+          ],
+          "raw": [
+            "Bb",
+            "A",
+            "Bb",
+            "Bdim",
+            "Cmin",
+            "F",
+            "Cmin",
+            "F",
+            "Bb"
+          ]
+        }
+      ],
+      "chord_syntax": "Chordonomicon tokens ('s' = sharp, e.g. Fsmin = F#m); raw kept under 'raw'"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,6 +1,6 @@
 {
   "id": "1962-i-cant-stop-loving-you",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -226,7 +226,7 @@
       "rolling_stone_tdc: annotated audio runs to 249 s vs 158 s for our recording (The Very Best of Ray Charles): a different version; section times do not line up with the charting recording"
     ],
     "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
-    "computed": "2026-10-12",
+    "computed": "2026-10-16",
     "confidence": "computed"
   }
 }

@@ -1,6 +1,6 @@
 {
   "id": "2008-with-you",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
   "sources": [
     {
@@ -308,7 +308,7 @@
       "harmonix: annotated audio is 311 s vs 252 s for our recording (MusicBrainz recording length): a different edit or version; section times do not line up with the charting recording"
     ],
     "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
-    "computed": "2026-10-12",
+    "computed": "2026-10-16",
     "confidence": "computed"
   }
 }

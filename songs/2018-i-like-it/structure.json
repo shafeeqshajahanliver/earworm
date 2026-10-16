@@ -1,0 +1,43 @@
+{
+  "id": "2018-i-like-it",
+  "updated": "2026-10-16",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "chordonomicon",
+      "dataset": "Chordonomicon v2",
+      "source_id": "623332",
+      "match": {
+        "spotify_song_id": "58q2HKrzhC3ozto2nDdN4z",
+        "matched_via": "MusicBrainz recording e6e2b27b-2de0-445d-b4a8-bc722c3ebcfe, same artist and title, similar length",
+        "spotify_artist_id": "4kYSro6naA4h99UJvo89HB",
+        "release_date": "2018-04-06",
+        "genres": "'pop' 'rap'",
+        "main_genre": "pop"
+      },
+      "source": "Chordonomicon v2 row 623332 (chordonomicon_v2.csv)",
+      "url": "https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv",
+      "licence": "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites",
+      "retrieved": "2026-10-16",
+      "confidence": "crowd",
+      "version_note": "fan transcription; may follow a different version, key (capo) or simplification than the charting recording; no timings",
+      "sections": [
+        {
+          "label": "intro_1",
+          "normalised": "intro",
+          "start": null,
+          "end": null
+        },
+        {
+          "label": "outro_1",
+          "normalised": "outro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no <bridge_n> tag in the transcription (fan sites often omit or mislabel sections)"
+    }
+  ],
+  "comparison": "only one source"
+}

@@ -1,6 +1,6 @@
 {
   "id": "1960-cathys-clown",
-  "updated": "2026-10-12",
+  "updated": "2026-10-16",
   "note": "Chord changes per section (repeats of the same chord merged). 'written' as chord names, 'roman' relative to the key tonic (upper case major, lower case minor, b/# chromatic roots).",
   "sources": [
     {
@@ -753,7 +753,7 @@
       }
     ],
     "method": "Tonic compared as pitch class (enharmonics equal). roman_root_overlap is the share of scale-degree roots (I, IV, bVII ...) used by both sources (Jaccard index), so a transposed fan transcription can still agree in Roman numerals.",
-    "computed": "2026-10-12",
+    "computed": "2026-10-16",
     "confidence": "computed"
   }
 }
