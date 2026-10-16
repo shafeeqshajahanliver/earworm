@@ -1,6 +1,6 @@
 {
   "id": "2010-break-your-heart",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Break Your Heart",
   "wikidata": {
     "qid": "Q2056214",
@@ -84,12 +84,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group eb71314b-dd33-445e-a2ae-6e921cbf8595 (2009-01-01)",
+  "musicbrainz_match": "single release group eb71314b-dd33-445e-a2ae-6e921cbf8595 (2009-01-01); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "3d95b534-59d4-41b3-8403-45dac0119a74",
-    "title": "Break Your Heart (Tea's in the House dub)",
-    "length_ms": 326000,
-    "first_release_date": "2009",
+    "recording_id": "e8e0b98f-81da-405f-b830-85ceb00917f5",
+    "title": "Break Your Heart",
+    "length_ms": 202000,
+    "first_release_date": "2009-01-01",
     "artist_credit": "Taio Cruz",
     "artists": [
       {
@@ -97,23 +97,371 @@
         "mbid": "ba7d2626-38ce-4859-8495-bdb5732715c4"
       }
     ],
-    "isrcs": [],
+    "isrcs": [
+      "GBUM70908662",
+      "GBUM71000235"
+    ],
     "recording_credits": [],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/2zFq7y4RTlPOfXwXqoVsxe"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/3oN2Kq1h07LSSBSLYQp0Ns"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/4185910"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/7624233"
+      }
+    ],
+    "genres": [
+      "contemporary r&b",
+      "dance-pop",
+      "electronic",
+      "electropop",
+      "europop",
+      "hip hop",
+      "house",
+      "pop",
+      "pop rap",
+      "tech house"
+    ],
+    "tags": [
+      "dance-pop",
+      "pop",
+      "electropop",
+      "contemporary r&b",
+      "electronic",
+      "europop",
+      "hip hop",
+      "house",
+      "pop general",
+      "pop rap"
+    ],
     "releases": [
       {
-        "id": "1c2a4df9-f24c-4cef-9c3b-f0b5a2a4a95e",
-        "title": "Break Your Heart (Rmixes)",
+        "id": "3099fd11-3696-47ef-b23b-4d834c60c085",
+        "title": "Break Your Heart",
         "date": "2009",
-        "country": "GB",
-        "status": "Promotion",
+        "country": null,
+        "status": "Official",
         "release_group": "eb71314b-dd33-445e-a2ae-6e921cbf8595",
         "primary_type": "Single",
         "secondary_types": []
+      },
+      {
+        "id": "23e3b5ea-95ac-4c27-971e-5d348af299c6",
+        "title": "Radio Deejay Yes! Compilation",
+        "date": "2009",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "9242c24f-dcdc-4756-a823-caea89ed06f4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5b2a0f6f-289d-45ef-9dec-55ccc5708029",
+        "title": "Break Your Heart",
+        "date": "2009-01-01",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "eb71314b-dd33-445e-a2ae-6e921cbf8595",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "e7f836d8-1207-49a3-8bb1-09eaa1aeee89",
+        "title": "Break Your Heart",
+        "date": "2009-09-14",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "eb71314b-dd33-445e-a2ae-6e921cbf8595",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "dec53642-6436-4388-94d8-b4c1b5294a19",
+        "title": "Rokstarr",
+        "date": "2009-10-12",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "f4fc9067-305b-412e-b507-c01ab34f4c2c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0af227dc-2e0f-47df-8731-43a69f248b8e",
+        "title": "Rokstarr",
+        "date": "2009-10-12",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "f4fc9067-305b-412e-b507-c01ab34f4c2c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d39e7f25-fffd-4783-a894-64d740ed5aee",
+        "title": "Pop Party 7",
+        "date": "2009-10-26",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "3e1495fc-ad5d-41b8-9042-701d616b9eaa",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7a785565-0bba-4874-ae56-51c17c9489f0",
+        "title": "R&B Collection",
+        "date": "2009-11-13",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "2f578b35-3500-4176-912a-2b2efae05e44",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "39a10d35-44d2-33cd-941e-9f5164ae95e4",
+        "title": "Now That’s What I Call Music! 74",
+        "date": "2009-11-23",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "d5d887f5-c36e-46d9-b1f6-b6e493727f58",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5609b06b-e5b1-4804-bc2c-ac389e82567c",
+        "title": "Now That’s What I Call Music! 74",
+        "date": "2009-11-23",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "d5d887f5-c36e-46d9-b1f6-b6e493727f58",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "870270b3-be31-47f4-8f78-b01360255482",
+        "title": "Floorfillers 2010",
+        "date": "2009-11-30",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "de446843-f803-45ae-862b-f6b5eaf0c89b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0c83b8e7-a747-44d5-b8b9-922a7b6f56b8",
+        "title": "Floorfillers 2010",
+        "date": "2009-11-30",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "de446843-f803-45ae-862b-f6b5eaf0c89b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dd972623-1ffb-45a6-a740-a99701e75686",
+        "title": "Promo Only: Mainstream Radio, February 2010",
+        "date": "2010-01-19",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "2a3cb973-8649-4996-acd5-79556af0ed5a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "04c47a66-cc0c-461d-9a2a-a1701c56c957",
+        "title": "Love 2 Club",
+        "date": "2010-01-25",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "9e92d619-0439-4565-8024-03f1c5f2c4f5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "cc004ab6-1bd9-4e20-ab07-033e12e38e45",
+        "title": "R&B Lovesongs 2010",
+        "date": "2010-01-25",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "7c753617-e6ab-4af7-896f-322ad3d9e670",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ff0adaab-557b-4834-b40a-4cdf6ce8caac",
+        "title": "Love 2 Club",
+        "date": "2010-02-01",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "9e92d619-0439-4565-8024-03f1c5f2c4f5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "41af24dd-756e-4a19-84e7-5bb2693febf8",
+        "title": "Mr Music Hits 2010 3",
+        "date": "2010-03",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "36b5afe0-4229-4ba5-a608-83a408b49872",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "59e7decc-56af-41c9-ae58-5d78c3b226b9",
+        "title": "Massive R&B: Spring 2010",
+        "date": "2010-03-15",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "fb8c1c8e-f988-4150-88f3-8ce0b2e0abc4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d04dadbe-6a5b-4fe9-9f4d-f77c13ce5844",
+        "title": "Weekend Anthems",
+        "date": "2010-03-29",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a73c5c49-22cc-4f77-b2df-2e2bceb35818",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ac9ca252-8861-43cf-8e1c-5ba1767622ea",
+        "title": "Absolute Music 63",
+        "date": "2010-03-31",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "6523cf38-4e9c-4a5d-8071-cd2ab9cc3aba",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dfc7b7e8-16a1-496e-b97d-62447ffe232f",
+        "title": "The Braun MTV Eurochart ’10, Volume 4",
+        "date": "2010-04",
+        "country": "NL",
+        "status": "Bootleg",
+        "release_group": "b8fee495-4485-4b12-86e9-a0bf54a2e4fd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fea43d8a-bc1f-40aa-b2d6-23868ec7f38f",
+        "title": "NRJ Hit List 2010",
+        "date": "2010-04-26",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "8c97d179-f78d-47f4-a732-2cd77e02d0c3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4f750371-6841-4b7e-8047-8c0c7034f33c",
+        "title": "NRJ Dance 2010",
+        "date": "2010-05-24",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "e16ecc86-dadc-485d-ac50-fe3dad38c72a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1ff07206-9cf0-416c-9901-46f3ce58d06d",
+        "title": "Ö3 Greatest Hits 50",
+        "date": "2010-06-04",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "a0c4873b-07d5-4ffb-bf82-c0e51342aaa5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a3e055c0-7f35-4530-a3ab-2605c02958e2",
+        "title": "Hits Attitude 2010",
+        "date": "2010-06-14",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "22b199f7-2a3a-4d60-8bbb-e6afe07485f6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       }
     ],
+    "work": {
+      "id": "4538dceb-18ba-4da8-be4c-f8a300874856",
+      "title": "Break Your Heart",
+      "iswcs": [
+        "T-903.040.607-6"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Taio Cruz",
+          "mbid": "ba7d2626-38ce-4859-8495-bdb5732715c4"
+        },
+        {
+          "role": "writer",
+          "name": "Fraser T. Smith",
+          "mbid": "c998d24c-decb-4022-a501-76f72c642411"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q2056214"
+      ]
+    },
     "main_artist": {
       "name": "Taio Cruz",
       "type": "Person",

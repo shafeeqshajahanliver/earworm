@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/20853",
+    "title": "You're Still the One",
+    "performer": "Shania Twain",
+    "is_original": true,
+    "first_release_date": "1997-11-04",
+    "releases": [
+      {
+        "title": "Come On Over",
+        "uri": "https://api.secondhandsongs.com/release/8448",
+        "performer": "Shania Twain"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 101,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/20853",
+    "title": "You're Still the One",
+    "language": "English",
+    "writers": [
+      "Shania Twain",
+      "Robert John \"Mutt\" Lange"
+    ],
+    "original_performer": "Shania Twain",
+    "versions": 102,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Y sigues siendo tú",
+        "uri": "https://api.secondhandsongs.com/work/313975"
+      }
+    ]
+  }
+}

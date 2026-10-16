@@ -1,0 +1,41 @@
+{
+  "id": "2003-in-da-club",
+  "lyrics_kind": "synced",
+  "lrclib_id": 9038920,
+  "lines": 64,
+  "words": 691,
+  "unique_words": 220,
+  "type_token_ratio": 0.318,
+  "repeated_line_share": 0.281,
+  "distinct_lines": 46,
+  "zlib_compression_ratio": 0.34,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "in da club",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 69,
+    "second": 38,
+    "first_plural": 7
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.13,
+  "last_line_s": 172.81,
+  "sung_time_s": 177.3,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 233.8,
+  "words_per_minute_track": 183.8,
+  "longest_gap_between_lines_s": 4.79,
+  "longest_gap_starts_at_s": 0.13,
+  "first_repeated_block": {
+    "first_at_s": 14.94,
+    "recurs_at_s": 25.29,
+    "lines": [
+      "You can find me in the club, bottle full of bub'",
+      "Look, mami, I got the X if you into takin' drugs"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 9038920",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

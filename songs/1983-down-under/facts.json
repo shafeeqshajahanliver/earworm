@@ -1,6 +1,6 @@
 {
   "id": "1983-down-under",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Down Under (song)",
   "wikidata": {
     "qid": "Q1253170",
@@ -84,12 +84,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group c5639f4d-8363-3447-b44b-5983d933cea7 (1981)",
+  "musicbrainz_match": "single release group c5639f4d-8363-3447-b44b-5983d933cea7 (1981); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "8ac43c1e-f34a-4f2a-b41c-e4c769016305",
+    "recording_id": "78c2a211-1c63-48f1-ad20-28b70eb98491",
     "title": "Down Under",
-    "length_ms": 205720,
-    "first_release_date": "1981",
+    "length_ms": 221746,
+    "first_release_date": "1981-11-09",
     "artist_credit": "Men at Work",
     "artists": [
       {
@@ -98,238 +98,393 @@
       }
     ],
     "isrcs": [
-      "AUSM08100002"
+      "AUSM08100002",
+      "NLB638140003",
+      "USSM18100058",
+      "USSM18100411"
     ],
     "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Jim Barbour",
+        "mbid": "755bb282-21b6-4b55-b32c-368af6adb31b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Peter McIan",
+        "mbid": "f1608731-2a8d-41f9-8883-04cd62320d8e"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Paul Ray",
+        "mbid": "1f3dd825-797d-4a4d-a387-8599c47c09c4"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Greg Ham",
+        "mbid": "c8927e72-ccac-4ec8-90e5-00282396e0c5"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "woodwind"
+        ],
+        "name": "Greg Ham",
+        "mbid": "c8927e72-ccac-4ec8-90e5-00282396e0c5"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "John Rees",
+        "mbid": "41c58829-e7cf-47e3-8721-48b32e65a309"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Jerry Speiser",
+        "mbid": "8daed789-a724-40a3-ada6-2b9bd5e686f1"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Ron Strykert",
+        "mbid": "e2adad86-2ca4-4a21-a4be-3b5f8ead8452"
+      },
       {
         "role": "producer",
         "attributes": [],
         "name": "Peter McIan",
         "mbid": "f1608731-2a8d-41f9-8883-04cd62320d8e"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Colin Hay",
+        "mbid": "864d7069-57dc-45f6-b408-875b35106dd3"
       }
     ],
-    "urls": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=hfmxO-HQ5rU"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/5oVtOWLmWGdqDcE8Josf1B"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2717935922"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/353004573"
+      }
+    ],
     "genres": [
+      "alternative rock",
+      "classic rock",
       "disco",
       "new wave",
       "pop",
       "pop rock",
+      "reggae",
       "rock"
     ],
     "tags": [
-      "pop",
-      "contemporary pop/rock",
-      "disco",
       "new wave",
+      "pop",
       "pop rock",
-      "rock"
+      "rock",
+      "reggae",
+      "80s",
+      "alternative rock",
+      "classic rock",
+      "contemporary pop/rock",
+      "disco"
     ],
     "releases": [
       {
-        "id": "6eaf322d-4472-45a1-adfe-7e1ed2174509",
-        "title": "Down Under",
-        "date": "1981",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "c5639f4d-8363-3447-b44b-5983d933cea7",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "44004703-a2c1-4fd3-849e-2f11524ff16f",
-        "title": "Down Under",
-        "date": "1982",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "c5639f4d-8363-3447-b44b-5983d933cea7",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "456f6c91-6e1b-4069-8d88-76b801ae6476",
-        "title": "Superchart 83, Volume One",
-        "date": "1983",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "55c256ce-46c1-4113-9d87-9190a153c1e9",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "7720e5ef-7575-4f13-9075-e8cc9b35f947",
-        "title": "The Hits of '83, Vol. 1",
-        "date": "1983",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "f38e8c16-9415-4626-af82-7c428990f86f",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "f189186c-0922-4b6d-ad04-8ae39848b4aa",
-        "title": "Jack Pop ’90",
-        "date": "1990",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "696c2c3a-a13f-4578-b540-b9fffd096034",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "9d327b1d-68d4-4862-b7c0-ec54670c588b",
-        "title": "Metropol: En epok i radio 1982-1991",
-        "date": "1993",
-        "country": "SE",
-        "status": "Official",
-        "release_group": "ff9b9d79-2b7e-32d2-9038-7b31e2b78580",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "8df1048d-f3d2-4d6b-a18e-d4753e7cd49a",
-        "title": "100 Pophits",
-        "date": "2000",
-        "country": "DK",
-        "status": "Official",
-        "release_group": "c40992e7-0d13-323a-8a29-b18092b53729",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "96f6c4ed-5ab1-4160-adbd-c3a8339ab23c",
-        "title": "Sheer Idiocy 2002 House Mix 1",
-        "date": "2002",
-        "country": "PL",
-        "status": "Promotion",
-        "release_group": "bb5ebdfd-426e-31a2-a9e9-f7f34d8b6a62",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "bceb24c2-8912-445e-8e15-920ef7dae705",
-        "title": "Party Pack",
-        "date": "2003",
+        "id": "1d607bc7-fac7-429b-9fc0-310d5e4f9d1f",
+        "title": "Business as Usual",
+        "date": "1981-11-09",
         "country": "AU",
         "status": "Official",
-        "release_group": "69b3b3b5-cb47-4068-a888-efe3455e3a86",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "4c843ef3-e153-461e-b4c1-5e1c51118d1d",
-        "title": "Tele Atlas – Drivers’ Choice – Pop",
-        "date": "2003",
-        "country": "NL",
+        "id": "8889cfad-3b67-3f6a-962b-deb41b6cc7cf",
+        "title": "Business as Usual",
+        "date": "1982",
+        "country": "US",
         "status": "Official",
-        "release_group": "e33c9880-4970-4262-b8b9-6953f98cf09e",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "83dc62f8-1d10-4d93-8530-dfa8e36a23f9",
-        "title": "Absolute 80s",
-        "date": "2003-04-22",
-        "country": "SE",
+        "id": "c4177af3-b7a2-4dd6-adb6-3cb6b218bc20",
+        "title": "Business as Usual",
+        "date": "1982",
+        "country": "GB",
         "status": "Official",
-        "release_group": "969c34e5-35a7-3d35-965e-8dad50925c0f",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "c2676b57-1b3f-41dd-a87b-01442cc9ac53",
-        "title": "Halvliter rock",
-        "date": "2005",
-        "country": "NO",
+        "id": "57c55a65-7312-49cf-8ede-15645ba8f64e",
+        "title": "Business as Usual",
+        "date": "1982",
+        "country": "JP",
         "status": "Official",
-        "release_group": "debf19bd-f108-3c39-a8bc-979a3af25f09",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "88f8e315-6df0-4dc1-8c8c-34fd0efb8a12",
-        "title": "Absolute One Hit Wonders",
-        "date": "2005-03-16",
-        "country": "SE",
+        "id": "9e67e01e-036c-4232-8179-6cff68811b40",
+        "title": "Business As Usual",
+        "date": "1982",
+        "country": "US",
         "status": "Official",
-        "release_group": "4d858a33-dd31-3712-9055-e9d93e9c793b",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "845a16ee-c44d-4761-a67f-b88a0efd267d",
-        "title": "Absolute 80’s 2",
-        "date": "2009",
-        "country": "SE",
+        "id": "e13de143-1198-4607-8a6a-b0ca49470639",
+        "title": "Business As Usual",
+        "date": "1982",
+        "country": "XE",
         "status": "Official",
-        "release_group": "d13f851f-bfdb-4749-8ac2-5d945358bbad",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "d134f80d-c9b7-432e-9181-7485c02663a2",
-        "title": "Night to Remember: The Eighties Edition",
-        "date": "2010",
-        "country": "NL",
-        "status": "Official",
-        "release_group": "35e55ddf-b361-446f-87b4-307753f87543",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "3db2619b-3a62-41c1-bfbb-9f837cf6881a",
-        "title": "Het Beste Uit De 80ies Top 800",
-        "date": "2012",
-        "country": "BE",
-        "status": "Official",
-        "release_group": "1ed1ef3a-4fdd-4adb-ade4-e3fca43d4cd6",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "220d7e5e-35b9-4206-8a3a-005073c80cd3",
-        "title": "Het Beste Uit De 80ies Top 800",
-        "date": "2012-01-01",
-        "country": "BE",
-        "status": "Official",
-        "release_group": "1ed1ef3a-4fdd-4adb-ade4-e3fca43d4cd6",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "bb8bd11f-04ec-408b-beeb-bf4708b19a33",
+        "id": "e2fc30c4-2666-4189-af73-63646a960684",
         "title": "Down Under",
-        "date": "",
+        "date": "1982",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c5639f4d-8363-3447-b44b-5983d933cea7",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "c9a75932-e39d-4779-abc3-4781d7cf2d84",
+        "title": "Wired, Vol. 1",
+        "date": "1982",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "ef2f6527-8bb9-48a1-9574-27a7e4c051ab",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "59f820b1-dc46-4c66-bdda-1d0ecbc56dd8",
+        "title": "Business as Usual",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "cff7fe38-24d9-4ab8-8c9f-2e3a4e4ecf6b",
+        "title": "Business as Usual",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "417dc1e8-8b65-3227-8ee2-b5378a1528cc",
+        "title": "Business as Usual",
+        "date": "1983",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c1b2bc11-669a-4ece-b989-5eaa9629c1b7",
+        "title": "Chart Action",
+        "date": "1983",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "31c09a0b-e20e-411d-b8e6-2cdebddf3883",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "523c0ff1-4b44-4669-b498-0d15121b28d6",
+        "title": "Chart Runners",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "873f5883-0230-4701-bc40-a9b6de871fca",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "325a2afc-ed2b-4d84-a5d5-40e6023772f4",
+        "title": "Hotline 1",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4b0368ed-69ba-4831-8857-5588c6816a4d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "203f2262-b2ad-4a7e-96f5-66b63ac4562c",
+        "title": "Work Songs",
+        "date": "1983-05-21",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f42bca16-03a3-3373-9589-be16a4aa06b4",
+        "title": "Now That’s What I Call Music",
+        "date": "1983-11-28",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "bcd7ac33-7a46-346d-b2f2-72dcf51012af",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e2efdc06-0fa7-4e9d-835c-2a99b255b4b6",
+        "title": "Now That’s What I Call Music",
+        "date": "1983-11-28",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "bcd7ac33-7a46-346d-b2f2-72dcf51012af",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dc5e923e-a605-4db9-a1e6-f3158db6ea30",
+        "title": "Stereoplay Highlights CD 7: Meisterwerke aus Pop und Rock",
+        "date": "1985",
         "country": "DE",
+        "status": "Official",
+        "release_group": "b68eac24-e4f3-4050-a3e2-6f7ac4190f0f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5c16fcec-4991-4279-b070-7ac4c9823c63",
+        "title": "’81 – ’85",
+        "date": "1986",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "d07f9835-18c8-47a3-b5a3-9be25db518d4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "024bbb17-8674-4416-917d-105bf7cf71f6",
+        "title": "’81–’85 / Business as Usual",
+        "date": "1986",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "4c949280-858d-4c84-923b-9af9181d4370",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9183f1e9-ddfc-48c0-9392-b31365f37d8e",
+        "title": "10 Χρόνια CBS",
+        "date": "1986",
+        "country": "GR",
+        "status": "Promotion",
+        "release_group": "098bc180-832d-4f9c-8cd8-a4ce3d75e08c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0c77657d-6f77-4e6a-a220-b3bfeb5bfaf9",
+        "title": "Business as Usual",
+        "date": "1987",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "c9bff180-434f-3c93-aba5-ff579e3976aa",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "82e338dc-dda0-4858-84ad-4485a945e492",
+        "title": "25 Years of Rock ’n’ Roll: 1983: 20 of the Year’s Greatest Tracks",
+        "date": "1988",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "94ade07e-62d4-4146-98e0-115b13655434",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "82f43280-da6c-3e89-a438-bbce77b9e527",
+        "title": "Down Under",
+        "date": "1989",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "c5639f4d-8363-3447-b44b-5983d933cea7",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "df76a656-b9ea-3ce8-9604-2c1bf3391cab",
+        "title": "Down Under",
+        "date": "1989",
+        "country": "FR",
         "status": "Official",
         "release_group": "c5639f4d-8363-3447-b44b-5983d933cea7",
         "primary_type": "Single",

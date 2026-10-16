@@ -1,0 +1,53 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/20287",
+    "title": "Because You Loved Me",
+    "performer": "Céline Dion",
+    "is_original": true,
+    "first_release_date": "1996-02-19",
+    "releases": [
+      {
+        "title": "Falling into You",
+        "uri": "https://api.secondhandsongs.com/release/479",
+        "performer": "Céline Dion"
+      },
+      {
+        "title": "Because You Loved Me",
+        "uri": "https://api.secondhandsongs.com/release/112906",
+        "performer": "Céline Dion"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 80,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/20287",
+    "title": "Because You Loved Me",
+    "language": "English",
+    "writers": [
+      "Diane Warren"
+    ],
+    "original_performer": "Céline Dion",
+    "versions": 81,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "只因找到你",
+        "uri": "https://api.secondhandsongs.com/work/201584"
+      },
+      {
+        "title": "Durch deine Liebe",
+        "uri": "https://api.secondhandsongs.com/work/316150"
+      },
+      {
+        "title": "Se tu mi ami",
+        "uri": "https://api.secondhandsongs.com/work/363078"
+      }
+    ]
+  }
+}

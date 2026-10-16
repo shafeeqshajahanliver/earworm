@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/128092",
+    "title": "All My Life",
+    "performer": "K-Ci & JoJo",
+    "is_original": true,
+    "first_release_date": "1997-06-17",
+    "releases": [
+      {
+        "title": "Love Always",
+        "uri": "https://api.secondhandsongs.com/release/50270",
+        "performer": "K-Ci & JoJo"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 25,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/114195",
+    "title": "All My Life",
+    "language": "English",
+    "writers": [
+      "Joel Hailey",
+      "Rory Bennett"
+    ],
+    "original_performer": "K-Ci & JoJo",
+    "versions": 26,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Você É Tudo Que Eu Quero pra Mim",
+        "uri": "https://api.secondhandsongs.com/work/276469"
+      }
+    ]
+  }
+}

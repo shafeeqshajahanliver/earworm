@@ -60,3 +60,11 @@ MusicBrainz (writers, producers, recordings, release dates, ISRCs), Wikidata (aw
 | Rolling Stone corpus | 4 | Two analysts per song; they often disagree on form, never on key |
 | Isophonics | 0 | Beatles albums only |
 | Chordonomicon | 2 | Matching needs Spotify track IDs. No key-free route found for 17 songs; 11 IDs found were different releases from the ones in the dataset. Odesli/song.link now needs a key (gap) |
+
+## Lessons from scaling to 650 (October 2026)
+
+- **Single releases carry other versions.** Matching "the first track with this title on the earliest single" picked 12-inch, dub and remix versions for 44 songs (Le Freak 5:30, Wannabe 6:21). `tools/facts.py` now takes the track closest to the Wikipedia single length and rejects dub/club/extended/percapella titles; 37 of the 44 are fixed, the rest are within normal edit differences or flagged.
+- **Some titles are never sung as written** (Kill Bill, Tik Tok as "tick tock", SexyBack, 7 Rings). The lyrics title-word check now accepts these only when the lyric is time-synced and title, artist and a sourced length all agree. Plain-text entries for instrumentals can carry another song's words (Wheels had Chuck Berry), so they stay rejected.
+- **Charting remixes** (Cold Heart (PNAU Remix), Despacito (Remix)) are allowed to match their own remix name.
+- **SecondHandSongs** stops answering after a few hundred anonymous requests a day; `tools/lineage.py` stops at the first refusal and resumes on the next run.
+- **Chordonomicon** contains rows that are whole albums under one Spotify ID (a Beatles row of ~2,000 chords holds Help! in the middle). Rows over 400 chords are rejected and recorded.

@@ -1,6 +1,6 @@
 {
   "id": "1995-dont-take-it-personal-just-one-of-dem-days",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Don't Take It Personal (Just One of Dem Days)",
   "wikidata": {
     "qid": "Q368746",
@@ -58,11 +58,11 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group cccbd8ce-9033-3d01-af60-c9a88d7a8c1c (1995-04-10)",
+  "musicbrainz_match": "single release group cccbd8ce-9033-3d01-af60-c9a88d7a8c1c (1995-04-10); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "491c06da-a0d4-49b6-bbe4-716cb9c2624c",
-    "title": "Don’t Take It Personal (Just One of Dem Days) (a cappella)",
-    "length_ms": 280000,
+    "recording_id": "6af9eb20-cfe7-4993-b4e4-d371f2702498",
+    "title": "Don’t Take It Personal (Just One of Dem Days)",
+    "length_ms": 258773,
     "first_release_date": "1995-04-10",
     "artist_credit": "Monica",
     "artists": [
@@ -71,24 +71,76 @@
         "mbid": "af84073d-3b6d-4390-9d3f-bf65a91c824f"
       }
     ],
-    "isrcs": [],
-    "recording_credits": [],
+    "isrcs": [
+      "USAR19500001"
+    ],
+    "recording_credits": [
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Dallas Austin",
+        "mbid": "32c23240-70c7-4f19-8f87-d8adf1f4a7ef"
+      }
+    ],
     "urls": [],
-    "genres": [],
-    "tags": [],
+    "genres": [
+      "contemporary r&b",
+      "pop",
+      "r&b",
+      "soul"
+    ],
+    "tags": [
+      "r&b",
+      "soul",
+      "contemporary r&b",
+      "pop",
+      "urban soul"
+    ],
     "releases": [
       {
-        "id": "a0500826-bec3-418c-8219-b98a68f85019",
-        "title": "Don’t Take It Personal (Just One of Dem Days)",
+        "id": "a75f46dc-6b05-45de-9aa1-153528e380f0",
+        "title": "Miss Thang",
         "date": "1995",
-        "country": "GB",
+        "country": "AU",
         "status": "Official",
-        "release_group": "cccbd8ce-9033-3d01-af60-c9a88d7a8c1c",
-        "primary_type": "Single",
+        "release_group": "7bc19aa4-3168-36a9-aee7-8911d1a43248",
+        "primary_type": "Album",
         "secondary_types": []
       },
       {
-        "id": "d68eec8b-f5da-4945-8a96-b14d6158bd52",
+        "id": "efe2bfb8-050f-4b9e-8568-5d12b1332b09",
+        "title": "Miss Thang",
+        "date": "1995",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7bc19aa4-3168-36a9-aee7-8911d1a43248",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e2066cb4-ccfd-4753-9357-7dc427abf52b",
+        "title": "Miss Thang",
+        "date": "1995",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7bc19aa4-3168-36a9-aee7-8911d1a43248",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "9f8cce5b-9106-408c-a7f2-848c49a3c3d8",
+        "title": "Promo Only: Urban Series, May 1995",
+        "date": "1995-04",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "a56f5641-890c-4866-be10-264a7a99c8d8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9a18c267-4850-4e96-94bf-7aeba8698aed",
         "title": "Don’t Take It Personal (Just One of Dem Days)",
         "date": "1995-04-10",
         "country": "US",
@@ -96,8 +148,306 @@
         "release_group": "cccbd8ce-9033-3d01-af60-c9a88d7a8c1c",
         "primary_type": "Single",
         "secondary_types": []
+      },
+      {
+        "id": "27b5e8fa-d56a-4f9f-afc3-28fdfdd7bcaa",
+        "title": "Miss Thang",
+        "date": "1995-07-18",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "7bc19aa4-3168-36a9-aee7-8911d1a43248",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f67b760e-c4e2-4519-95c0-7aa50f9d1ffd",
+        "title": "Miss Thang",
+        "date": "1995-07-18",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7bc19aa4-3168-36a9-aee7-8911d1a43248",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "6d5c236a-90d6-4131-8776-56202876500f",
+        "title": "Miss Thang",
+        "date": "1995-08-23",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "7bc19aa4-3168-36a9-aee7-8911d1a43248",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4540ec69-7da1-418b-9177-142c57ee292e",
+        "title": "Touch My Soul: The Finest of Black Music, Vol. 5",
+        "date": "1996-04-01",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "6a30b997-a3ce-3739-be39-c05d978f0e19",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e2f73975-cc6f-4b2e-be5f-22813749fc49",
+        "title": "Dance Queens Clubbin’ ’97",
+        "date": "1997",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "2e12050e-757e-315d-ac94-cb596d4c4634",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "797c5741-e939-4a30-bb4c-9b235a09bd4f",
+        "title": "Dance to the Max 7",
+        "date": "1997",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "4777e99b-0444-3da2-8e20-997dc6415690",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a744d3af-917d-4b10-bcfe-60014ed1ca14",
+        "title": "Soul'd Out",
+        "date": "1998",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "8eb5643c-5ba4-3cf1-8c18-5e35091f3fb8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "576bd415-adc7-49d8-95bb-e10b22404458",
+        "title": "POP to the Power of 16",
+        "date": "1999",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3f729dbc-e049-320f-9930-7d498cddcb72",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e749e8ae-92b3-4d2f-974a-c1e25007da30",
+        "title": "Media Markt Collection: Black Music",
+        "date": "2002",
+        "country": "DE",
+        "status": null,
+        "release_group": "45f75cbb-25ef-42a0-855e-1087f40327c3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "08137b33-bb18-4b31-9f57-11a573c3b4db",
+        "title": "Xclusive R&B: 45 Smooth Street Beats",
+        "date": "2006-08-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "81ce4795-797a-4142-9005-951f9fa8e1dc",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a79e4d31-87e1-4938-9800-c9cff828dcb6",
+        "title": "Mastercuts: R&B",
+        "date": "2007",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "edfe8ae0-acb7-4fdc-adc4-afddc9637ce4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4d6e237e-cb29-48f0-a972-febbcca577e6",
+        "title": "Midnight Soul: The '90s",
+        "date": "2007",
+        "country": "US",
+        "status": "Official",
+        "release_group": "09f89de7-d49a-3f5e-b6e0-c17acb5510a0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "440e3f50-bd72-4f0c-a47c-1915877bc66b",
+        "title": "Midnight Soul: Midnight Soul",
+        "date": "2008",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "5348a39b-12fe-4bf1-a58a-576ea7d18088",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f1b7d9aa-a2df-457c-ab7b-0572b0a93538",
+        "title": "Essential R&B: 90s Anthems",
+        "date": "2010-08-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "04d6533b-2a74-4425-bc8f-0319fef2179a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b25ca5bc-7cfd-4762-96a4-45770da014ba",
+        "title": "Essential R&B: 90s Anthems",
+        "date": "2010-09-27",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "04d6533b-2a74-4425-bc8f-0319fef2179a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "61c9c4c3-f8f8-4051-b67e-95350ff1b93b",
+        "title": "Pure… R&B",
+        "date": "2011-06-17",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "f7eddada-4230-40f1-b75b-0234eefadd30",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "64921c33-a60e-4095-a70e-edb9f5249572",
+        "title": "The Essential R&B",
+        "date": "2012-04-17",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "970b8828-c528-4580-baf7-76f2b6ca794c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fbcd01fe-60d4-457d-a05c-ef8a32f31bab",
+        "title": "Ministry of Sound: 90s Baby",
+        "date": "2018-03-02",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "52ec48e0-ae95-400f-a0ee-3fe04c614f36",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation",
+          "DJ-mix"
+        ]
+      },
+      {
+        "id": "1eda6ce6-0797-4466-9859-d8bf9fb2e6aa",
+        "title": "Billboard Top 100 of the 90s (1995)",
+        "date": null,
+        "country": null,
+        "status": "Official",
+        "release_group": "ddc77923-d062-4502-a8d2-01feccb447fb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2e6d4c2d-4d27-4557-bcb7-e82de287fb9f",
+        "title": "Monsta Jamz",
+        "date": null,
+        "country": null,
+        "status": "Official",
+        "release_group": "92bc0950-374e-38c2-b166-af8ddb38d2be",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       }
     ],
+    "work": {
+      "id": "defaac32-6463-4d33-98c8-fa575bd2f49d",
+      "title": "Don’t Take It Personal (Just One of Dem Days)",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Dallas Austin",
+          "mbid": "32c23240-70c7-4f19-8f87-d8adf1f4a7ef"
+        },
+        {
+          "role": "writer",
+          "name": "James Brown",
+          "mbid": "20ff3303-4fe2-4a47-a1b6-291e26aa3438"
+        },
+        {
+          "role": "writer",
+          "name": "Chuck D",
+          "mbid": "88633ac3-c8e2-420f-8415-77ac56b3105f"
+        },
+        {
+          "role": "writer",
+          "name": "George Clinton",
+          "mbid": "84683370-5eae-418b-acd8-883ac028a8a0"
+        },
+        {
+          "role": "writer",
+          "name": "LL Cool J",
+          "mbid": "a4dd0e77-83b8-4e92-89b7-effb0e47fd8c"
+        },
+        {
+          "role": "writer",
+          "name": "Monica",
+          "mbid": "af84073d-3b6d-4390-9d3f-bf65a91c824f"
+        },
+        {
+          "role": "writer",
+          "name": "QD III",
+          "mbid": "84a1ff57-7a4c-478d-b728-baaa2afcd646"
+        },
+        {
+          "role": "writer",
+          "name": "Eric Sadler",
+          "mbid": "7837e565-e2a7-45d5-8683-123cfc26bf1c"
+        },
+        {
+          "role": "writer",
+          "name": "Hank Shocklee",
+          "mbid": "6c4ab9aa-fb02-4056-bd6a-9c34d2cf610d"
+        },
+        {
+          "role": "writer",
+          "name": "Derrick Simmons",
+          "mbid": "3a57408c-918f-455b-a458-c8f187fa6297"
+        },
+        {
+          "role": "writer",
+          "name": "Abrim Tilmon",
+          "mbid": "deac95c3-52c3-481d-9efc-1d5db29f3145"
+        }
+      ],
+      "urls": []
+    },
     "main_artist": {
       "name": "Monica",
       "type": "Person",

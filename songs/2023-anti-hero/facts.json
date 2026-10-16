@@ -1,6 +1,6 @@
 {
   "id": "2023-anti-hero",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Anti-Hero (song)",
   "wikidata": {
     "qid": "Q114721508",
@@ -92,11 +92,11 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group d3f575f1-1492-4135-96f5-2534dd901f12 (2022-10-21)",
+  "musicbrainz_match": "single release group d3f575f1-1492-4135-96f5-2534dd901f12 (2022-10-21); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "617b29ec-df5d-473e-87b8-9ac2b8d28ec7",
+    "recording_id": "6bb9e766-97a5-440f-9173-99515493d2d4",
     "title": "Anti‐Hero",
-    "length_ms": 309000,
+    "length_ms": 200680,
     "first_release_date": "2022-10-21",
     "artist_credit": "Taylor Swift",
     "artists": [
@@ -106,51 +106,440 @@
       }
     ],
     "isrcs": [
-      "USUMV2203078"
+      "USUG12205736"
     ],
-    "recording_credits": [],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "John Rooney",
+        "mbid": "6e34fdf9-d4a4-42da-9a38-265048034f93"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Megan Searl",
+        "mbid": "b6b1a3a1-f467-425c-8ee1-15c15177fee9"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Jon Sher",
+        "mbid": "cc8d7e79-4173-490f-b0b5-6daef69ef8e6"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "percussion"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "synthesizer"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "mellotron"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "Wurlitzer electric piano"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "acoustic guitar"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Bobby Hawk",
+        "mbid": "a3f39a73-2ab3-4afc-9604-42c24b63f87a"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Bryce Bordone",
+        "mbid": "8cbe7c9c-c829-46fc-97ef-08f01b8ea53a"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "phonographic copyright",
+        "attributes": [],
+        "name": "Taylor Swift",
+        "mbid": "20244d07-534f-4eff-b4d4-930878889970"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Taylor Swift",
+        "mbid": "20244d07-534f-4eff-b4d4-930878889970"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Jonathan Gautier",
+        "mbid": "d9c8feaf-498d-4874-b247-36b62cffcf19"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Laura Sisk",
+        "mbid": "835e030d-2649-4134-99bd-f228fea4db8d"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Jack Antonoff",
+        "mbid": "1155a7a9-a7b4-46ba-ba27-6b6c98be487e"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Taylor Swift",
+        "mbid": "20244d07-534f-4eff-b4d4-930878889970"
+      }
+    ],
     "urls": [],
-    "genres": [],
-    "tags": [],
+    "genres": [
+      "alternative pop",
+      "country pop",
+      "electro",
+      "indie folk",
+      "pop",
+      "pop rock",
+      "synth-pop"
+    ],
+    "tags": [
+      "synth-pop",
+      "alternative pop",
+      "pop",
+      "country music",
+      "country pop",
+      "electro",
+      "indie folk",
+      "pop music",
+      "pop rock"
+    ],
     "releases": [
       {
-        "id": "cee0afea-e307-409d-bb8c-a6f75e356468",
+        "id": "d188e150-a64d-4012-97aa-06cfc0037be8",
         "title": "Anti‐Hero",
         "date": "2022-10-21",
-        "country": "JP",
+        "country": "US",
         "status": "Official",
         "release_group": "d3f575f1-1492-4135-96f5-2534dd901f12",
         "primary_type": "Single",
         "secondary_types": []
       },
       {
-        "id": "bb5932c6-3477-47c7-a901-1ab7eee874e0",
+        "id": "4e04b44b-2b91-44d8-8ec4-68a7c69ed03c",
         "title": "Midnights",
-        "date": "2022-10-25",
-        "country": null,
+        "date": "2022-10-21",
+        "country": "CA",
         "status": "Official",
         "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
         "primary_type": "Album",
         "secondary_types": []
       },
       {
-        "id": "29f0a09c-dbad-4855-9b64-9682149da33d",
+        "id": "587d8bfc-48b2-463d-8e0c-4607a77f3279",
         "title": "Midnights",
-        "date": "2022-10-25",
-        "country": null,
+        "date": "2022-10-21",
+        "country": "CA",
         "status": "Official",
         "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
         "primary_type": "Album",
         "secondary_types": []
       },
       {
-        "id": "4c107d0d-85c9-404c-8d1e-f87eb307f226",
-        "title": "Anti‐Hero",
-        "date": "2026-09-16",
-        "country": "XW",
+        "id": "4101202a-1aca-4756-8c07-752dca888722",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "AU",
         "status": "Official",
-        "release_group": "d3f575f1-1492-4135-96f5-2534dd901f12",
-        "primary_type": "Single",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d222903a-71ff-4966-bfdc-6142671e4a19",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e348fdd6-f73b-47fe-94c4-670bfee26a39",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8a88b6e1-56a3-4c2e-8642-4bd62eef5021",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b1540802-281a-4d61-b306-78a1d39f386d",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d5b3ccc5-185e-4158-a3cf-e1e1ab765950",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "US",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "06142ac0-bd19-4cbf-b1f8-5b4a71e97ccc",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "39fb5412-f7c7-4382-9a9a-73a5aebf1d9d",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "762de450-3fc1-48e3-9368-bd5732dc4e8b",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8c21906d-7712-4edd-a381-f8717f6c51d9",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c0d13b68-c6be-4a72-ae10-48abfa74e66f",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b6e89751-ebe1-40ef-9757-d75cfb7bbd37",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e64f84de-c1d7-4567-9e48-d27453ed6986",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "51a4fbf5-d204-42ac-adc4-9812c1172c80",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c65022ef-24ea-40b7-b46f-1072b753faee",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a80df556-5750-4855-bf10-7277f7efc997",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "eb10dd1e-3b7f-4531-b287-5b84f8bda67e",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a452a183-fbb9-4431-afcd-696bac2e7619",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f2613560-d29c-47ca-9624-8d6e88421617",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "267da630-1050-42e9-86d3-2d22c22be2c8",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f72e804c-5f69-4821-bec3-1c7749c8a334",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4f6dae88-2e2a-42b1-baed-df0330f3814a",
+        "title": "Midnights",
+        "date": "2022-10-21",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+        "primary_type": "Album",
         "secondary_types": []
       }
     ],

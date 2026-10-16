@@ -1,6 +1,6 @@
 {
   "id": "1971-joy-to-the-world",
-  "retrieved": "2026-10-06",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Joy to the World (Three Dog Night song)",
   "wikidata": {
     "qid": "Q6297345",
@@ -60,11 +60,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
+  "musicbrainz_match": "single release group 98d58e00-1fe0-4870-9342-10e076c88c85 (1971); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "537e3ba4-ab97-4e8f-aad9-26b82b91c4e6",
+    "recording_id": "794dc2ef-c567-48df-932a-7db3938d53f1",
     "title": "Joy to the World",
-    "length_ms": 216480,
-    "first_release_date": "1970-11-18",
+    "length_ms": 197000,
+    "first_release_date": "1971",
     "artist_credit": "Three Dog Night",
     "artists": [
       {
@@ -73,109 +74,93 @@
       }
     ],
     "isrcs": [
-      "USMC17047804",
-      "USMC17049751",
-      "USMC17053309"
+      "USLIC0601859",
+      "USMC17049751"
     ],
     "recording_credits": [],
     "urls": [
       {
-        "type": "free streaming",
-        "url": "https://music.youtube.com/watch?v=EVcpKjXYa5c"
-      },
-      {
-        "type": "free streaming",
-        "url": "https://www.deezer.com/track/2310196405"
-      },
-      {
         "type": "streaming",
-        "url": "https://tidal.com/track/297957397"
+        "url": "https://tidal.com/track/230908243"
       }
     ],
     "genres": [
-      "arena rock",
+      "baroque pop",
+      "classic rock",
+      "folk",
       "pop",
+      "r&b",
       "rock",
-      "rock and roll",
       "soft rock",
-      "soul"
+      "soul",
+      "southern rock"
     ],
     "tags": [
-      "pop",
       "rock",
+      "classic rock",
+      "soundtrack",
       "album rock",
       "am pop",
-      "arena rock",
+      "baroque pop",
       "contemporary pop/rock",
-      "pop/rock",
-      "rock and roll",
-      "soft rock",
-      "soul"
+      "early pop/rock",
+      "early r&b",
+      "folk"
     ],
     "releases": [
       {
-        "id": "ace0a7ac-b374-41a1-9405-7c7958ab9882",
-        "title": "Naturally",
-        "date": "1970-11-18",
-        "country": "US",
-        "status": "Official",
-        "release_group": "1e096954-9f7d-325a-b664-4fa1decdbd76",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "1cd31d38-4554-414f-a204-0aabefc1c9ff",
-        "title": "Joy to the World",
+        "id": "5e50e465-36fe-4625-9821-0d6c9df319ac",
+        "title": "Joy to the World / I Can Hear You Calling",
         "date": "1971",
-        "country": "DE",
+        "country": "US",
         "status": "Official",
         "release_group": "98d58e00-1fe0-4870-9342-10e076c88c85",
         "primary_type": "Single",
         "secondary_types": []
       },
       {
-        "id": "5a7a5850-1cad-4c7b-8904-48bcc8d9f467",
-        "title": "Joy to the World: Their Greatest Hits",
-        "date": "1974-11",
+        "id": "c27d5ce8-73aa-491e-8f77-5ccbd918eb0c",
+        "title": "Billboard Top Rock’n’Roll Hits: 1971",
+        "date": "1989",
         "country": "US",
         "status": "Official",
-        "release_group": "46a8ae41-388d-36e7-92c9-e3148d4bb05f",
+        "release_group": "93f2ef9b-67b6-34a3-8375-09bdc0675152",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "efc1e7ea-ddd3-4ab2-8754-342e896bbfe1",
-        "title": "The Best of 3 Dog Night",
-        "date": "1982",
+        "id": "7b7932b2-d4da-4a09-9945-7c2c8bed1d1d",
+        "title": "Sounds of the Seventies: 1971",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "bb545e89-23a4-3114-840a-ec1a9264fa60",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3b0fbffb-ad2e-4936-90b0-21eac8921220",
+        "title": "Celebrate: The Three Dog Night Story 1965-1975",
+        "date": "1993",
+        "country": "US",
+        "status": "Official",
+        "release_group": "71c9a15c-efbe-3bc6-b8e0-b1825a1194e5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0da0a816-e04b-423b-8898-65db71be676f",
+        "title": "Forrest Gump: The Soundtrack",
+        "date": "1994",
         "country": "CA",
         "status": "Official",
-        "release_group": "da3d02ac-b96f-3491-bd76-da5c559db2eb",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "a8e923ab-8e54-34db-9f97-c3f7957391e8",
-        "title": "The Best of 3 Dog Night",
-        "date": "1982",
-        "country": "US",
-        "status": "Official",
-        "release_group": "da3d02ac-b96f-3491-bd76-da5c559db2eb",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "95db20db-9a10-4c8e-80db-e9db061819c3",
-        "title": "The Big Chill",
-        "date": "1983",
-        "country": "US",
-        "status": "Official",
-        "release_group": "de806f96-59b4-3b67-a6f5-998ac5f31605",
+        "release_group": "6d79d579-213d-3172-a860-1cd9bde0ecd5",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation",
@@ -183,12 +168,12 @@
         ]
       },
       {
-        "id": "f8ece08f-ebb1-4d69-87b2-727ccf506366",
-        "title": "The Big Chill",
-        "date": "1983",
+        "id": "b93f2afb-c33c-4bf6-bc80-b254b6f2156d",
+        "title": "Forrest Gump: The Soundtrack",
+        "date": "1994",
         "country": "AU",
         "status": "Official",
-        "release_group": "de806f96-59b4-3b67-a6f5-998ac5f31605",
+        "release_group": "6d79d579-213d-3172-a860-1cd9bde0ecd5",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation",
@@ -196,12 +181,24 @@
         ]
       },
       {
-        "id": "482623e3-e4e8-4c1f-8e66-887b202e0788",
-        "title": "The Big Chill: Music from the Original Motion Picture Soundtrack",
-        "date": "1983-09",
+        "id": "e6ab10c9-a771-4bce-bde4-2c84d7aa3a9d",
+        "title": "Only Rock’n Roll 1970–1974",
+        "date": "1994",
         "country": "US",
         "status": "Official",
-        "release_group": "de806f96-59b4-3b67-a6f5-998ac5f31605",
+        "release_group": "480963a3-5226-41ea-8a84-851cabb92a3e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e4a08d83-945c-3eb8-ab87-099752e4d94c",
+        "title": "Forrest Gump: The Soundtrack",
+        "date": "1994-06-27",
+        "country": "US",
+        "status": "Official",
+        "release_group": "6d79d579-213d-3172-a860-1cd9bde0ecd5",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation",
@@ -209,12 +206,12 @@
         ]
       },
       {
-        "id": "965c17b3-809d-4ef4-8ebf-cd218a5dac4e",
-        "title": "The Big Chill: Original Motion Picture Soundtrack",
-        "date": "1984",
-        "country": "AU",
+        "id": "97b727f1-8f4e-42fc-ac00-cc87536273aa",
+        "title": "Forrest Gump: The Soundtrack",
+        "date": "1994-06-28",
+        "country": "US",
         "status": "Official",
-        "release_group": "de806f96-59b4-3b67-a6f5-998ac5f31605",
+        "release_group": "6d79d579-213d-3172-a860-1cd9bde0ecd5",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation",
@@ -222,12 +219,12 @@
         ]
       },
       {
-        "id": "adfb1184-c54a-45d9-986b-9b6998ee4974",
-        "title": "The Big Chill: Original Motion Picture Soundtrack",
-        "date": "1984",
-        "country": "US",
+        "id": "4c6122b7-cf59-4ce0-9131-cffa2a1d3d81",
+        "title": "Forrest Gump: The Soundtrack",
+        "date": "1994-06-28",
+        "country": "CA",
         "status": "Official",
-        "release_group": "de806f96-59b4-3b67-a6f5-998ac5f31605",
+        "release_group": "6d79d579-213d-3172-a860-1cd9bde0ecd5",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation",
@@ -235,180 +232,181 @@
         ]
       },
       {
-        "id": "b5437e19-556b-4a2e-99b6-a5df41047cfc",
-        "title": "The Best of Three Dog Night",
-        "date": "1985",
-        "country": "US",
-        "status": "Official",
-        "release_group": "89f1b718-9327-4ac1-8814-2f4827290740",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "5c218d3f-e5a3-47b0-9016-cd6d1d70efae",
-        "title": "The Good‐Feeling Music of the Big Chill Generation!! Volume Two",
-        "date": "1985",
-        "country": "US",
-        "status": "Official",
-        "release_group": "38c890fe-41f9-493f-98e1-1a22774a33fd",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "acd86ee1-ac02-4905-9965-ffe1794fb447",
-        "title": "Real Rock",
-        "date": "1987",
-        "country": "US",
-        "status": "Official",
-        "release_group": "7b5c92df-bab1-494f-adbd-dd6fa5cb33d7",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "1cc7fd15-9bd2-4c9d-8bdb-c0c7b4eab7a3",
-        "title": "25 Years of Rock ’n’ Roll: 1971: 20 of the Year’s Greatest Tracks",
-        "date": "1988",
-        "country": null,
-        "status": "Official",
-        "release_group": "d14800ce-ac4d-484f-b4a1-e01ba07d276b",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "249524dc-0b16-43b7-b24c-27d045bf1000",
-        "title": "16 Original World Hits",
-        "date": "1989",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "50ac05cf-e4d0-4c67-9789-919b79cf9535",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "58d7144a-347b-41e9-aa7f-6f88acdbd901",
-        "title": "Cruisin' Classics Vol. 1 60's & 70's",
-        "date": "1989",
-        "country": "US",
-        "status": "Promotion",
-        "release_group": "edbbe3b2-e8f0-3a2d-b950-a3fa1e18968f",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "d1822d81-08dc-4a15-b55b-fcc4833c1204",
-        "title": "Feel Good Rock",
-        "date": "1989",
-        "country": null,
-        "status": "Official",
-        "release_group": "7b1fadb4-cea0-4175-96e4-027eb542d455",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "f549ee33-677f-41e4-88ef-87cf4cfc0793",
-        "title": "The Seventies Collection, Volume One",
-        "date": "1989",
-        "country": "AU",
-        "status": "Official",
-        "release_group": "254ff987-20fd-4954-b26c-f6d7093a5506",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "9d3f0c92-cfc6-4d5b-b61a-ba43b81a9643",
-        "title": "The Seventies Collection, Volume One",
-        "date": "1989",
-        "country": "NZ",
-        "status": "Official",
-        "release_group": "254ff987-20fd-4954-b26c-f6d7093a5506",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "749a3346-4f70-40c7-859c-7d28cdf1c6a9",
-        "title": "The Best of 3 Dog Night",
-        "date": "1990",
-        "country": "US",
-        "status": "Official",
-        "release_group": "da3d02ac-b96f-3491-bd76-da5c559db2eb",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "1b483e0e-196b-4bc8-b72a-fca71c03bc97",
-        "title": "The Rock Collection: Rock Heroes",
-        "date": "1991",
+        "id": "f79349b9-19e1-3bde-b1bb-890884379318",
+        "title": "Forrest Gump: The Soundtrack",
+        "date": "1994-08-17",
         "country": "XE",
         "status": "Official",
-        "release_group": "4f93ce83-763d-32c4-bbfe-a0459e67e7a4",
+        "release_group": "6d79d579-213d-3172-a860-1cd9bde0ecd5",
         "primary_type": "Album",
         "secondary_types": [
-          "Compilation"
+          "Compilation",
+          "Soundtrack"
         ]
       },
       {
-        "id": "b8ea39e7-e9dc-4f30-970e-e9118080cbf4",
-        "title": "Magical History Tour 2: Born to Be Wild",
-        "date": "1992",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "a8c3934b-ffa0-496a-99fe-d392255fc73b",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "4266969c-bf29-4cc4-9509-b06e4a2447cc",
-        "title": "Entertainment Weekly: Rock Anthems",
-        "date": "1993",
+        "id": "8355f5f5-c80c-45c7-91f2-00bb08789440",
+        "title": "Only Rock ’n’ Roll 1970‐1974: 20 Pop Hits",
+        "date": "1994-12-08",
         "country": "US",
         "status": "Official",
-        "release_group": "cba766a6-750f-3777-ad8b-ab192021a25b",
+        "release_group": "0374374a-9135-3674-a7bf-dfeb5712a544",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "8b43ef74-2255-4301-bd8a-59dc3938e28a",
-        "title": "Party On",
-        "date": "1993",
+        "id": "3667266d-f06d-400d-b39e-53cb93ef9ee0",
+        "title": "36 All-Time Greatest Hits",
+        "date": "1996",
+        "country": "US",
+        "status": "Official",
+        "release_group": "47681b54-8c72-3a67-8a24-57af5891f05c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "170ae0c1-724f-48d1-a375-348881c0296c",
+        "title": "Sounds of the Seventies: Pop Nuggets: Early '70s",
+        "date": "1996",
+        "country": "US",
+        "status": "Official",
+        "release_group": "d761e15e-ef0c-43f2-bb7f-15a0eb27ba5f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b03f0b94-45d9-49bd-974f-75c2d151ae6f",
+        "title": "The Ultimate Collection of Rock & Roll, Volume 5: #1 Hits of the 70's",
+        "date": "1996",
+        "country": "US",
+        "status": "Official",
+        "release_group": "cb7b239b-b38b-497b-95b1-cae7d818d809",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "22072c10-94b1-4bc6-9d43-8f40d7ef38e5",
+        "title": "40 Single Hits, Volume 2",
+        "date": "1997",
         "country": "ZA",
         "status": "Official",
-        "release_group": "b779db80-5072-4e29-8b66-f24b295e3206",
+        "release_group": "3e541d77-598b-3ea5-b240-e3004891c4b3",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "c6c948f1-f6be-4800-8321-6e67b5d80182",
-        "title": "Rock F.M.",
-        "date": "1993",
-        "country": "GB",
+        "id": "758b07a0-94d8-4485-b0e8-432e7099e8c7",
+        "title": "Años 70 IV",
+        "date": "1997",
+        "country": "ES",
         "status": "Official",
-        "release_group": "68c958b6-b39a-4e9d-ab37-2cee503ffb98",
+        "release_group": "cfff1dd5-933b-4ffa-b87b-834b13fdecbd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3cfc0964-e43a-4486-992b-ae9f39bea10e",
+        "title": "Best Seventies Album in the World... Ever! Volume 1",
+        "date": "1997",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "6f4691e2-c2d2-45df-92cc-41b99d8e5c41",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e1854ec7-811c-41c0-ab2d-5b30c3f24601",
+        "title": "Superstars of the 70’s: 1971–1979",
+        "date": "1997",
+        "country": "US",
+        "status": "Official",
+        "release_group": "0f7daa31-b6dc-3e15-8959-8b206444f150",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "49632ad8-8347-4407-80c7-11fcc67acb16",
+        "title": "The Ultimate Rock ’n Roll Collection: The 70’s",
+        "date": "1997",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e96249af-6980-468f-adc6-66cb5e07bed2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e08d1698-c353-4bce-aca9-760ff18a35a3",
+        "title": "Chicken Soup for the Soul: Celebrating Life",
+        "date": "1998",
+        "country": "US",
+        "status": "Official",
+        "release_group": "47a5c5fc-2e75-473f-a050-d626e41c0ac5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5a4df31a-9822-4e5c-b541-7ae7fb339ac1",
+        "title": "Hard Rock Cafe: Party Rock",
+        "date": "1998",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c965cdbb-8c3c-3d72-8065-c9a41f7dfd5a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8287dfe8-fcc5-466f-9487-2b301132a1bb",
+        "title": "Hard Rock Cafe: Party Rock",
+        "date": "1998",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c965cdbb-8c3c-3d72-8065-c9a41f7dfd5a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dff08b8a-ea72-4b28-9394-3bc266d3b37b",
+        "title": "Have a Nice Decade: The ’70s Pop Culture Box",
+        "date": "1998-06-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "fc5260ed-accd-3278-aabe-935e48af4f1f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "aaf40329-b92d-445a-84a6-03c1a844d868",
+        "title": "Sounds of the Seventies: Super 70s",
+        "date": "1998-11-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "99b17c42-32e4-485c-9a84-762b7d8e4f42",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

@@ -1,0 +1,50 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 173564,
+  "kind": "synced",
+  "matched": {
+    "track": "MONTERO (Call Me By Your Name)",
+    "artist": "Lil Nas X",
+    "album": "MONTERO",
+    "duration_s": 138.0
+  },
+  "duration_matched_to": "musicbrainz recording length (138s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 137.876,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 137.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 137.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 37216484 (MONTERO (Call Me By Your Name) / Lil Nas X / MONTERO (Call Me By Your Name) - Single, 190.0s): duration matches no reference length",
+    "lrclib 34573695 (MONTERO (Call Me By Your Name) / Lil Nas X / MONTERO (Call Me By Your Name), 147.0s): duration matches no reference length",
+    "lrclib 34939715 (MONTERO (Call Me By Your Name) / Lil Nas X / Singles, 141.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 34939718 (MONTERO (Call Me By Your Name) / Lil Nas X / Singles, 143.0s): duration matches no reference length",
+    "lrclib 33493374 (MONTERO (Call Me by Your Name) / Lil Nas X / MONTERO, 144.0s): duration matches no reference length",
+    "lrclib 35901883 (MONTERO (Call Me By Your Name) / Lil Nas X / MONTERO (Call Me By Your Name), 110.0s): duration matches no reference length",
+    "lrclib 12355291 (MONTERO (Call Me By Your Name) (Official Video) / Lil Nas X / Lil Nas X, 190.0s): duration matches no reference length",
+    "lrclib 34109994 (MONTERO (Call Me By Your Name) (SATAN'S EXTENDED VERSION) / Lil Nas X / Lil Nas X, 171.0s): live/remix/other version",
+    "lrclib 10237454 (MONTERO / Lil Nas X / MONTERO, 170.0s): duration matches no reference length",
+    "lrclib 33264313 (MONTERO / Lil Nas X / MONTERO, 190.0s): duration matches no reference length",
+    "lrclib 39050066 (MONTERO / Lil Nas X / MONTERO, 132.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 12421334 (MONTERO (Call Me By Your Name) (Official Video) / Lil Nas X / Lil Nas X Videos, 190.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

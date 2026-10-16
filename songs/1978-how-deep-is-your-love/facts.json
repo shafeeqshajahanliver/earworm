@@ -1,6 +1,6 @@
 {
   "id": "1978-how-deep-is-your-love",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "How Deep Is Your Love (Bee Gees song)",
   "wikidata": {
     "qid": "Q1573223",
@@ -90,12 +90,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 4b38f202-cf8d-4dd4-bf2a-ae12f983018f (1977)",
+  "musicbrainz_match": "single release group 4b38f202-cf8d-4dd4-bf2a-ae12f983018f (1977); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "92cedea7-e793-45ae-9116-8d9fdf85905e",
+    "recording_id": "8664037e-bc72-45c8-babf-a4e874205b21",
     "title": "How Deep Is Your Love",
-    "length_ms": 218893,
-    "first_release_date": "1977",
+    "length_ms": 244000,
+    "first_release_date": "2007",
     "artist_credit": "Bee Gees",
     "artists": [
       {
@@ -106,75 +106,31 @@
     "isrcs": [],
     "recording_credits": [],
     "urls": [],
-    "genres": [
-      "classic rock",
-      "disco",
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "classic rock",
-      "disco"
-    ],
+    "genres": [],
+    "tags": [],
     "releases": [
       {
-        "id": "12e9b220-3510-4714-85ee-311afe4c9a80",
+        "id": "801a6d62-3848-40b2-a8e9-c8c5522f9136",
+        "title": "The Complete Audiophile Collection",
+        "date": "2007",
+        "country": null,
+        "status": "Official",
+        "release_group": "6bfc71ad-d801-4e57-a292-d56dece96782",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a5e5019e-a46d-4c33-9715-c5e20d255e68",
         "title": "How Deep Is Your Love",
-        "date": "1977",
-        "country": "US",
+        "date": "2017-04-21",
+        "country": null,
         "status": "Official",
         "release_group": "4b38f202-cf8d-4dd4-bf2a-ae12f983018f",
         "primary_type": "Single",
         "secondary_types": [
           "Soundtrack"
-        ]
-      },
-      {
-        "id": "bdfe3836-f740-4077-b01d-daff859455e2",
-        "title": "Sounds of the Seventies: 1977",
-        "date": "1990",
-        "country": "US",
-        "status": "Official",
-        "release_group": "9c8be85e-74ea-3b86-bcab-6b0923640f9e",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "da5680f8-d29a-4a79-a8fe-8c8ff8845c00",
-        "title": "Sounds of the Seventies: 1977",
-        "date": "1990",
-        "country": "US",
-        "status": "Official",
-        "release_group": "9c8be85e-74ea-3b86-bcab-6b0923640f9e",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "2e40984e-7689-4b2b-819a-d5f11b1c366a",
-        "title": "Sounds of the Seventies: 1977",
-        "date": "2003",
-        "country": "US",
-        "status": "Official",
-        "release_group": "9c8be85e-74ea-3b86-bcab-6b0923640f9e",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "5ecbbe75-98ac-4b35-8cd1-fc32e7be55fd",
-        "title": "Ultimate Seventies: 1977",
-        "date": "2003",
-        "country": "US",
-        "status": "Official",
-        "release_group": "06f561e3-e9b7-393a-99b7-d6273519943f",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
         ]
       }
     ],

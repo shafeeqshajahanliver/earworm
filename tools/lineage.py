@@ -36,7 +36,7 @@ def main():
         try:
             hit = find_performance(s)
         except Exception as e:  # SecondHandSongs answers 403 once its anonymous quota is used up
-            print("QUOTA at", s["id"], e, "- pausing 20 min", flush=True); time.sleep(1200); continue
+            print("QUOTA at", s["id"], e, "- stopping; rerun later to resume", flush=True); return
         if not hit:
             open(song_dir(s["id"], "lineage.none"), "w").close()
             print(s["chart_year"], "no match"); continue
@@ -45,7 +45,7 @@ def main():
             works = p.get("works", [])
             w = fetch_json(works[0]["uri"]) if works else {}
         except Exception as e:
-            print("QUOTA at", s["id"], e, "- pausing 20 min", flush=True); time.sleep(1200); continue
+            print("QUOTA at", s["id"], e, "- stopping; rerun later to resume", flush=True); return
         out = {"source": "SecondHandSongs API", "retrieved": TODAY, "confidence": "crowd",
                "performance": {"uri": p["uri"], "title": p["title"], "performer": p["performer"]["name"],
                                "is_original": p.get("isOriginal"), "first_release_date": p.get("firstReleaseDate"),

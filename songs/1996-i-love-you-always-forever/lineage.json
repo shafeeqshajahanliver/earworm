@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/151107",
+    "title": "I Love You Always Forever",
+    "performer": "Donna Lewis",
+    "is_original": true,
+    "first_release_date": "1996-05-07",
+    "releases": [
+      {
+        "title": "Now in a Minute",
+        "uri": "https://api.secondhandsongs.com/release/57556",
+        "performer": "Donna Lewis"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 29,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/117308",
+    "title": "I Love You Always Forever",
+    "language": "English",
+    "writers": [
+      "Donna Lewis"
+    ],
+    "original_performer": "Donna Lewis",
+    "versions": 30,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Always Forever",
+        "uri": "https://api.secondhandsongs.com/work/319767"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37492927,
+  "kind": "synced",
+  "matched": {
+    "track": "Kill Bill",
+    "artist": "SZA",
+    "album": "Now That's What I Call 40 Years: Volume 4 2013–2023",
+    "duration_s": 154.0
+  },
+  "duration_matched_to": "musicbrainz recording length (154s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 154.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 153.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 155.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 12,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 36894733 (Kill Bill / SZA / 7-16-23 Youtube Playlist, 276.0s): duration matches no reference length",
+    "lrclib 37351609 (Kill Bill / SZA / SOS, Nones): duration matches no reference length",
+    "lrclib 34385966 (Kill Bill / SZA / SOS, 148.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34353593 (Kill Bill / SZA / 140 M de visualizaciones, 276.0s): duration matches no reference length",
+    "lrclib 36203465 (Kill Bill / SZA / 140 jt x ditonton, 276.0s): duration matches no reference length",
+    "lrclib 36006496 (Kill Bill / SZA / 140 Tr lượt xem, 276.0s): duration matches no reference length",
+    "lrclib 35908384 (Kill Bill / SZA / SOS, 110.0s): duration matches no reference length",
+    "lrclib 36016261 (Kill Bill / SZA / SOS, 236.0s): duration matches no reference length",
+    "lrclib 36225676 (Kill Bill / SZA / SOS Deluxe: LANA, Nones): duration matches no reference length",
+    "lrclib 36499093 (KILL BILL / SZA / SOS (EXPLICIT), 202.0s): duration matches no reference length",
+    "lrclib 36589317 (Kill Bill / SZA / #2023 R&B June, 175.0s): duration matches no reference length",
+    "lrclib 36613014 (Kill Bill / SZA / Kill Bill  - Single, 168.0s): duration matches no reference length",
+    "lrclib 36525305 (Kill Bill / SZA / 141 M de visualizaciones, 276.0s): duration matches no reference length",
+    "lrclib 19347051 (Kill Bill / SZA / Kill Bill, 175.836553s): duration matches no reference length",
+    "lrclib 19509467 (Kill Bill / SZA / Kill Bill, 137.560816s): duration matches no reference length",
+    "lrclib 22626759 (Kill Bill / SZA / Kill Bill, 168.608889s): duration matches no reference length",
+    "lrclib 25412383 (Kill Bill / SZA / Kill Bill, 181.0s): duration matches no reference length",
+    "lrclib 12803964 (Kill Bill / SZA / Kill Bill, 276.0s): duration matches no reference length",
+    "lrclib 39030063 (Kill Bill / SZA / Kill Bill, 200.0s): duration matches no reference length",
+    "lrclib 7145005 (Kill Bill / SZA / Kill Bill (Acoustic), 170.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

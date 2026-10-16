@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1233,
+  "kind": "synced",
+  "matched": {
+    "track": "Save Your Tears",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "duration_s": 216.0
+  },
+  "duration_matched_to": "musicbrainz recording length (216s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 215.627,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 215.6,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 217.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 11,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36952947 (Save Your Tears / The Weeknd / Best of Pop 2021, 191.0s): duration matches no reference length",
+    "lrclib 36895409 (Save Your Tears / The Weeknd / Save Your Tears (Remix with Ariana Grande), 191.0s): live/remix/other version",
+    "lrclib 34431706 (Save Your Tears / The Weeknd / After Hours, 547.0s): duration matches no reference length",
+    "lrclib 34431776 (Save Your Tears / The Weeknd / After Hours, 595.0s): duration matches no reference length",
+    "lrclib 34432237 (Save Your Tears / The Weeknd / After Hours, 226.0s): duration matches no reference length",
+    "lrclib 34706032 (Save Your Tears / The Weeknd / Greatest Hits, 191.0s): duration matches no reference length",
+    "lrclib 34724750 (Save Your Tears / The Weeknd / 2,1 bi de visualizações, 249.0s): duration matches no reference length",
+    "lrclib 34431740 (Save Your Tears / The Weeknd / After Hours, 577.0s): duration matches no reference length",
+    "lrclib 34528202 (Save Your Tears / The Weeknd / Best Hits 2023, 259.0s): duration matches no reference length",
+    "lrclib 34431684 (Save Your Tears / The Weeknd / After Hours, 497.0s): duration matches no reference length",
+    "lrclib 34629593 (Save Your Tears (Remix) / The Weeknd and Ariana Grande / Save Your Tears (Remix), 191.0s): live/remix/other version",
+    "lrclib 33976562 (Save Your Tears (minus) / The Weeknd and Ariana Grande / Save Your Tears (Remix), 191.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

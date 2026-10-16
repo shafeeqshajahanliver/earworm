@@ -1,6 +1,6 @@
 {
   "id": "1998-youre-still-the-one",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "You're Still the One",
   "wikidata": {
     "qid": "Q3045853",
@@ -80,12 +80,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 32e2dc5b-2960-3638-ae2a-a1e5b8e88691 (1998-01)",
+  "musicbrainz_match": "single release group 32e2dc5b-2960-3638-ae2a-a1e5b8e88691 (1998-01); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "ded14462-5bd7-422a-aba9-2f78995663e9",
+    "recording_id": "111ed29c-c362-4a91-a837-8536ef0b0ba7",
     "title": "You’re Still the One",
-    "length_ms": 197000,
-    "first_release_date": "1998-02-16",
+    "length_ms": 212400,
+    "first_release_date": "1998-04-06",
     "artist_credit": "Shania Twain",
     "artists": [
       {
@@ -94,74 +94,108 @@
       }
     ],
     "isrcs": [
-      "USMR19887484"
+      "USMR19887499",
+      "USUM71609114"
     ],
     "recording_credits": [
       {
-        "role": "arranger",
-        "attributes": [],
-        "name": "Robert John “Mutt” Lange",
-        "mbid": "61f2ae93-ab59-4c59-aef6-43f5f9afceae"
-      },
-      {
-        "role": "editor",
-        "attributes": [],
-        "name": "Olle Romo",
-        "mbid": "f5b5b8ca-73a5-44ff-9d51-05477fb01896"
-      },
-      {
-        "role": "producer",
-        "attributes": [],
-        "name": "Robert John “Mutt” Lange",
-        "mbid": "61f2ae93-ab59-4c59-aef6-43f5f9afceae"
-      },
-      {
-        "role": "programming",
+        "role": "instrument",
         "attributes": [
-          "assistant"
+          "pedal steel guitar"
         ],
-        "name": "Jay Alvarez",
-        "mbid": "38a511c7-8c03-493e-a996-ad1d98e74242"
+        "name": "Bruce Bouton",
+        "mbid": "464dad63-3e63-4c63-8783-2c85ff5a131a"
       },
       {
-        "role": "programming",
-        "attributes": [],
-        "name": "Olle Romo",
-        "mbid": "f5b5b8ca-73a5-44ff-9d51-05477fb01896"
-      },
-      {
-        "role": "programming",
+        "role": "instrument",
         "attributes": [
-          "assistant"
+          "organ"
         ],
-        "name": "James Somberg",
-        "mbid": "39661028-e4a4-48ab-ade1-62e4a379708e"
+        "name": "John Hobbs",
+        "mbid": "9a760e29-ba75-4cb0-923b-4374330d45e5"
       },
       {
-        "role": "programming",
+        "role": "instrument",
         "attributes": [
-          "additional"
+          "piano"
         ],
-        "name": "Bjorn Thornsrud",
-        "mbid": "4a18deb3-2f09-47b3-a2bc-d03d384103c7"
+        "name": "John Jarvis",
+        "mbid": "a40d61d6-6bd6-4f87-a488-05029b56ef96"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Paul Leim",
+        "mbid": "ce880c70-6a7f-49e1-a0dd-77da59d599dc"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "mandolin"
+        ],
+        "name": "Eric Silver",
+        "mbid": "4460ce72-4f90-4f7e-974c-a7ce93b5c4d9"
       }
     ],
-    "urls": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=YQLG9O988y0"
+      }
+    ],
     "genres": [
-      "contemporary country",
       "country",
-      "country pop",
-      "country rock",
-      "pop"
+      "country rock"
     ],
     "tags": [
       "country",
-      "country pop",
-      "contemporary country",
-      "country rock",
-      "pop"
+      "country rock"
     ],
     "releases": [
+      {
+        "id": "65f233c3-c68f-42ed-8e6a-262fa9abe6e5",
+        "title": "Come On Over",
+        "date": "1998",
+        "country": "ID",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "5d7b70de-dd28-4e0c-8c41-516fbacc14ac",
+        "title": "Come On Over",
+        "date": "1998",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8b81c00b-d56c-4f37-8ead-1da690be5215",
+        "title": "Come On Over",
+        "date": "1998",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "41919748-39c1-4e6a-ba40-47fdc22a8620",
+        "title": "Woman II Woman",
+        "date": "1998",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "3b1730ac-0a96-4215-91ce-f5c709db7b44",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
       {
         "id": "1a7cf060-f251-433c-a4ed-1d8583843331",
         "title": "You're Still the One",
@@ -183,23 +217,13 @@
         "secondary_types": []
       },
       {
-        "id": "213bb4fa-18ac-4b1b-84f0-a80be40f2964",
-        "title": "You’re Still the One",
-        "date": "1998",
-        "country": "GB",
+        "id": "e50864fd-3404-44f4-8593-e7d01b6f4a1f",
+        "title": "Come On Over",
+        "date": "1998-04-06",
+        "country": "XE",
         "status": "Official",
-        "release_group": "32e2dc5b-2960-3638-ae2a-a1e5b8e88691",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "d9ff1857-e7f4-4a43-9780-a70b6e189ab5",
-        "title": "You’re Still the One",
-        "date": "1998-02-16",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "32e2dc5b-2960-3638-ae2a-a1e5b8e88691",
-        "primary_type": "Single",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
         "secondary_types": []
       },
       {
@@ -213,19 +237,9 @@
         "secondary_types": []
       },
       {
-        "id": "b787f7ca-2f13-4008-834b-4f7dbeeac042",
-        "title": "From This Moment On",
-        "date": "1998-11-16",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "637c5972-48bc-38c5-b3ca-b84c61aca7f6",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "4bd697e0-25d6-4a4d-b934-2601fd02c264",
-        "title": "Come On Over",
-        "date": "1999-03-03",
+        "id": "c48dfc45-7e6e-4615-b95c-02536663e0d0",
+        "title": "Come on Over",
+        "date": "1999",
         "country": "AU",
         "status": "Official",
         "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
@@ -233,10 +247,80 @@
         "secondary_types": []
       },
       {
-        "id": "c52a387b-9ed5-4582-a3ee-6ac608f72e26",
+        "id": "79f50179-fd1c-4901-b6ec-d61096925604",
         "title": "Come On Over",
-        "date": "1999-11-10",
-        "country": "JP",
+        "date": "1999",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7502b63e-651e-4f56-a306-7f8324eec762",
+        "title": "Come On Over",
+        "date": "1999",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "6d7538b0-2a52-48b2-9227-17a944a3fa6c",
+        "title": "Come On Over",
+        "date": "1999",
+        "country": "US",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e2015ffa-275f-4c38-af60-48c82c6b9b48",
+        "title": "Come On Over",
+        "date": "1999",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "83b736a2-d5be-4c9c-95d5-ae9c8b6a927a",
+        "title": "That Don’t Impress Me Much",
+        "date": "1999-05-10",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4fdff75d-8e45-3721-a598-f0fd11ec08df",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "9414114a-422b-460d-834d-be1e189bee4f",
+        "title": "Come On Over",
+        "date": "1999-07-05",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "6ee5458e-1ac2-4e65-b08a-76ea929d1759",
+        "title": "Come On Over",
+        "date": "1999-10",
+        "country": "CN",
+        "status": "Official",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "798700a7-3b1d-4b15-af9b-86675f07c46b",
+        "title": "Come On Over",
+        "date": "1999-10-19",
+        "country": null,
         "status": "Official",
         "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
         "primary_type": "Album",
@@ -253,108 +337,78 @@
         "secondary_types": []
       },
       {
-        "id": "958f84cf-4658-38d5-8af7-e82b7e4201cc",
-        "title": "Greatest Hits",
-        "date": "2004",
-        "country": "DE",
+        "id": "b8971b6d-6800-47f7-b09a-4d7c162c326c",
+        "title": "Come On Over",
+        "date": "1999-11-23",
+        "country": "US",
         "status": "Official",
-        "release_group": "a979f644-2c62-3446-9579-47ade07d5aaf",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "5de7d046-53d1-40a0-869b-e1a68750f93b",
-        "title": "Greatest Hits",
-        "date": "2004",
+        "id": "602ec185-15c9-4db2-ba12-5d0d6ef3b14b",
+        "title": "Come On Over / The Woman in Me",
+        "date": "2010",
         "country": "ZA",
         "status": "Official",
-        "release_group": "a979f644-2c62-3446-9579-47ade07d5aaf",
+        "release_group": "57e264f2-9ea5-4551-923c-c82310cdc131",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "21e5556e-581a-41f5-a264-c8ed926edb66",
-        "title": "Greatest Hits",
-        "date": "2004-11-08",
-        "country": "GB",
+        "id": "6e3ba3cc-632c-47c7-ae2b-ed3116783858",
+        "title": "Come On Over",
+        "date": "2017-12-15",
+        "country": "XW",
         "status": "Official",
-        "release_group": "a979f644-2c62-3446-9579-47ade07d5aaf",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8b0228ad-7cbc-4f38-8731-b15a924e0ca2",
+        "title": "NOW That’s What I Call Love Songs",
+        "date": "2018-11-23",
+        "country": null,
+        "status": "Official",
+        "release_group": "d985363f-7a83-4b54-982b-f8dca695a78d",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "60268747-bc2e-46c4-a6f0-2c3a49b22c60",
-        "title": "Je t’aime",
-        "date": "2005-02-07",
-        "country": "FR",
+        "id": "f2a60993-026f-4fd8-b552-0b4d8c849407",
+        "title": "Come On Over",
+        "date": "2022-12-02",
+        "country": "XW",
         "status": "Official",
-        "release_group": "2a693fad-4346-3fff-9a63-d7f8cde7438d",
+        "release_group": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3029ed63-ccc8-48d8-940c-0ec66003eb7c",
+        "title": "Iconic Pop",
+        "date": "2023-01-31",
+        "country": null,
+        "status": "Official",
+        "release_group": "4938ed30-5cb2-4e7b-8bc4-2a6396317c9e",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "1c1c9053-54b3-4f86-b4b3-b0618692c3c4",
-        "title": "100x Women",
-        "date": "2011",
-        "country": "NL",
-        "status": "Official",
-        "release_group": "4f1f37af-151c-4250-a0d2-359029054f08",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "ded6d22b-8e5a-4397-b3ea-4ad6070cf16b",
-        "title": "The Sound of Nashville",
-        "date": "2016-03-25",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "07fdbcec-d656-45a0-afe6-3e11d53330fe",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "fb416410-f105-4f59-864b-3122ca5c5e27",
-        "title": "Now Yearbook '98",
-        "date": "2025-02-14",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "47c45f3a-0428-44b6-8bcc-a716089624c3",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "7e2a9db6-c267-4307-a48e-fd0f75d27fd3",
-        "title": "Now Yearbook 1998",
-        "date": "2025-02-14",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "47c45f3a-0428-44b6-8bcc-a716089624c3",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "663e32c1-986c-47b4-8d0f-999763fb9737",
-        "title": "Now Yearbook 1998",
-        "date": "2025-02-14",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "47c45f3a-0428-44b6-8bcc-a716089624c3",
+        "id": "22cf0974-e189-4440-bc33-a5d2a4939da2",
+        "title": "Most Romantic Songs in the World",
+        "date": "2023-02-05",
+        "country": null,
+        "status": "Withdrawn",
+        "release_group": "55bd2596-1b13-4ca2-9370-4af7b3b5dee7",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

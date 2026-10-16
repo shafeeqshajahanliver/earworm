@@ -1,6 +1,6 @@
 {
   "id": "2001-fallin",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Fallin' (Alicia Keys song)",
   "wikidata": {
     "qid": "Q995862",
@@ -109,12 +109,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 65b99525-b170-4191-b070-0da99f013ccb (2001)",
+  "musicbrainz_match": "single release group adbb6589-64e0-3c07-a836-6d81eda1c937 (2001-08-20); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "ec3f654f-e452-4c00-9032-744ce968a316",
-    "title": "Fallin’ (MJ Cole Rollin’ dub)",
-    "length_ms": 405000,
-    "first_release_date": "2001",
+    "recording_id": "8c3714d2-3213-433b-9a50-6c8a6c5f9672",
+    "title": "Fallin’",
+    "length_ms": 196000,
+    "first_release_date": "2001-07",
     "artist_credit": "Alicia Keys",
     "artists": [
       {
@@ -122,29 +122,346 @@
         "mbid": "8ef1df30-ae4f-4dbd-9351-1a32b208a01e"
       }
     ],
-    "isrcs": [],
+    "isrcs": [
+      "USJAY0000022"
+    ],
     "recording_credits": [
       {
-        "role": "remixer",
+        "role": "mix",
         "attributes": [],
-        "name": "MJ Cole",
-        "mbid": "6e5c1366-5891-4e01-bb13-6c8b2c8cdd35"
+        "name": "Russell Elevado",
+        "mbid": "b8108fbd-14ef-4811-9bec-d952897be6c6"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Kerry Brothers",
+        "mbid": "9b6d374f-4aa4-4483-8587-45ed4758d231"
       }
     ],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/1f2tO9dr43gE7GH2ispSam"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/13141266"
+      }
+    ],
+    "genres": [
+      "ballad",
+      "contemporary r&b",
+      "hip hop",
+      "latin",
+      "neo soul",
+      "pop",
+      "r&b",
+      "soul"
+    ],
+    "tags": [
+      "neo-soul",
+      "ballad",
+      "contemporary r&b",
+      "pop",
+      "r&b",
+      "soul",
+      "hip hop",
+      "latin",
+      "love/pop",
+      "neo soul"
+    ],
     "releases": [
       {
-        "id": "ffaa68b0-6d8f-4637-b951-c492ff209314",
-        "title": "Fallin’ (MJ Cole Rollin’ dub)",
+        "id": "bd2d2775-1d68-4bad-8e64-76df4dbf4581",
+        "title": "Fallin’",
+        "date": "2001",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "adbb6589-64e0-3c07-a836-6d81eda1c937",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "f359f6b5-aabf-42b1-bb5c-5790f2a08f3e",
+        "title": "Het beste uit de Mega Top 100 van 2001, Vol.10",
+        "date": "2001",
+        "country": "NL",
+        "status": "Bootleg",
+        "release_group": "08253fbd-f5e3-4020-938e-30f4d855db20",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7d3eb196-667d-460b-bafd-2ef6abc6304c",
+        "title": "Hits 51",
         "date": "2001",
         "country": "GB",
         "status": "Official",
-        "release_group": "65b99525-b170-4191-b070-0da99f013ccb",
-        "primary_type": "Single",
+        "release_group": "be319df8-b63a-36ba-b6de-39d195469433",
+        "primary_type": "Album",
         "secondary_types": [
-          "Remix"
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d07157ae-0c9e-4f43-8f05-2ad4b04ea66c",
+        "title": "The 4 Box Volume 10 2001",
+        "date": "2001",
+        "country": "NL",
+        "status": "Bootleg",
+        "release_group": "d9cb6ee0-8191-4155-9755-4b4afc9c7f7b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "abd2167f-6ba0-49d3-8e0f-e87d57d36d19",
+        "title": "The Life",
+        "date": "2001",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "5701e04b-efc2-3429-b8af-c6596f1d08cf",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "afd1e6f7-7395-4445-bd5e-15b0ece94f54",
+        "title": "Promo Only: Mainstream Radio, August 2001",
+        "date": "2001-07",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "399e51f9-2840-3fb0-b3ac-38827146ed3b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d7977948-e8c5-442b-a804-55206e2fe06a",
+        "title": "Promo Only Canada: Mainstream Radio, September 2001",
+        "date": "2001-08",
+        "country": "CA",
+        "status": "Promotion",
+        "release_group": "cd3ea67d-4634-39fd-bf6e-cfee80484379",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "102ae81b-5ddb-454e-8fab-215d6e7c6b9f",
+        "title": "Fallin’",
+        "date": "2001-08-20",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "adbb6589-64e0-3c07-a836-6d81eda1c937",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "0112d9e3-5f5d-4f5c-b03a-a48770ea2904",
+        "title": "Touch My Soul: The Finest in Black Music 3/2001",
+        "date": "2001-09-21",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "35dacfc8-a57e-4110-a92b-36c702d74bf5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d0d1a4e1-3db4-4954-9187-ba78834f79a8",
+        "title": "Ö3 Greatest Hits, Volume 15",
+        "date": "2001-09-24",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "d93304cc-be17-3356-997b-f7040051ed92",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "be4dbfdd-3f3a-4fd0-83f9-cfdc54072102",
+        "title": "Fallin’",
+        "date": "2001-10-15",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "adbb6589-64e0-3c07-a836-6d81eda1c937",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "08b3ff2a-a7ed-45a6-b5f1-437aa2003997",
+        "title": "Absolute Music 38",
+        "date": "2001-11-29",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "46ddc401-8fe1-3eb2-9e4a-a7082c4407e2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4d615b2c-8cd0-4d96-b79a-9ceeb2be361c",
+        "title": "100% Black, Sexto Volumen",
+        "date": "2002",
+        "country": null,
+        "status": "Official",
+        "release_group": "1355325b-55ba-42a4-9703-9cb196db9fdf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "62c73f4e-90ea-4540-855b-41558696675f",
+        "title": "Kuschelrock 16",
+        "date": "2002",
+        "country": "CH",
+        "status": "Official",
+        "release_group": "76d21e93-00e1-37d1-afb8-df1dce101be1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "37a62f30-c9d9-4b8a-b1d9-244f98cf6972",
+        "title": "Kuschelrock 16",
+        "date": "2002",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "76d21e93-00e1-37d1-afb8-df1dce101be1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "31131075-2b1e-4cc1-a08e-708098f52f0a",
+        "title": "KuschelRock 16",
+        "date": "2002",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "76d21e93-00e1-37d1-afb8-df1dce101be1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5a565eac-7a78-4a9a-8628-14370eaa9535",
+        "title": "Nu Divas",
+        "date": "2002",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "96523b40-1ae6-36ba-aae6-c4161b19f6d0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d591c7f5-94a9-4436-8729-2d94624cd152",
+        "title": "Girls Night Out",
+        "date": "2002-03-05",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "1d821231-7d0f-3f2e-ae80-c6aa02d925a1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a97e1fc3-1d72-4f90-a6af-6cc9802642ce",
+        "title": "Bravo Supershow 2002",
+        "date": "2002-03-25",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "7e4b5573-ce70-3a8e-bab0-bbd854351adf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8c3dabaa-8e1d-4c07-83ef-55153ff082d1",
+        "title": "Nu Divas",
+        "date": "2002-03-25",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "96523b40-1ae6-36ba-aae6-c4161b19f6d0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5e638d1c-4727-4c10-8b66-430f43b1b71a",
+        "title": "Absolute Music 29",
+        "date": "2002-05",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "a026c100-cace-32f2-8d4d-00b71a22ded1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f4483ff3-8001-4c69-96e2-ec224c767402",
+        "title": "Kuschelrock 16",
+        "date": "2002-09-30",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "76d21e93-00e1-37d1-afb8-df1dce101be1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f6db6e55-48d7-4c4e-bf04-a0eb17d14506",
+        "title": "New Woman: The Autumn Collection",
+        "date": "2002-09-30",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a6333871-9ee6-37e5-9dee-b5ab2ff01b78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "697bc653-39a1-44d9-bf19-e26c71bf19ec",
+        "title": "Kuschelrock 16",
+        "date": "2002-10-01",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "76d21e93-00e1-37d1-afb8-df1dce101be1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "971da846-2829-41eb-9cd6-46645457701f",
+        "title": "Sweet R&B",
+        "date": "2002-10-08",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "dec4c844-6ec9-3fe6-952f-533a37a7605a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
         ]
       }
     ],

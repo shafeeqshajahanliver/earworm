@@ -1,0 +1,40 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/625936",
+    "title": "Return of the Mack",
+    "performer": "Mark Morrison",
+    "is_original": true,
+    "first_release_date": "1996-03-18",
+    "releases": [
+      {
+        "title": "Return of the Mack",
+        "uri": "https://api.secondhandsongs.com/release/189782",
+        "performer": "Mark Morrison"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 5,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/175633",
+    "title": "Return of the Mack",
+    "language": "English",
+    "writers": [
+      "Mark Morrison"
+    ],
+    "original_performer": "Mark Morrison",
+    "versions": 6,
+    "based_on": [],
+    "derived_works": []
+  }
+}

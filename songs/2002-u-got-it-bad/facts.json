@@ -1,6 +1,6 @@
 {
   "id": "2002-u-got-it-bad",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "U Got It Bad",
   "wikidata": {
     "qid": "Q2552835",
@@ -63,12 +63,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 0aca5f44-ee51-3376-9045-2d587b6653a1 (2001-12-03)",
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
   "musicbrainz": {
-    "recording_id": "2c8e7fa1-e97f-48c8-aa0b-6bf80ffaeba7",
-    "title": "U Got It Bad (Tee's dub)",
-    "length_ms": 476440,
-    "first_release_date": null,
+    "recording_id": "8c86a294-ee9a-4978-be01-7a6cf1f2f0d8",
+    "title": "U Got It Bad",
+    "length_ms": 247840,
+    "first_release_date": "2001-07-09",
     "artist_credit": "Usher",
     "artists": [
       {
@@ -76,21 +76,360 @@
         "mbid": "3414d446-735a-443c-931f-10634f57e5b9"
       }
     ],
-    "isrcs": [],
+    "isrcs": [
+      "USAR10100232",
+      "USAR10100251"
+    ],
     "recording_credits": [],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0xYLlOfrz82wrFT2FPZGaQ"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0yT2WB8YlJQDj0EjS35MXF"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/1fnITkrantRTt1GYJmB1FK"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/5dXTnOKo3x5vzGSDIBDS4y"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3147524311"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3172617111"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3260308171"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/68075364"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1799756947"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1799756947"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/409692711"
+      }
+    ],
+    "genres": [
+      "blues",
+      "contemporary r&b",
+      "hip hop",
+      "pop",
+      "r&b",
+      "rock",
+      "soul"
+    ],
+    "tags": [
+      "contemporary r&b",
+      "hip hop",
+      "r&b",
+      "r b",
+      "soul",
+      "blues",
+      "pop",
+      "rnb/swing",
+      "rock",
+      "split me"
+    ],
     "releases": [
       {
-        "id": "b2a7b438-819e-4f76-bf58-8b16408b6236",
-        "title": "U Got It Bad",
-        "date": null,
+        "id": "3351b133-5c4b-48c4-ab59-27a77823d3dc",
+        "title": "8701",
+        "date": "2001",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "44ee6c26-2b36-4f8c-bd3f-99f789d72220",
+        "title": "8701",
+        "date": "2001",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "dbdb4e87-741e-4119-8712-3f5b90a957cb",
+        "title": "8701",
+        "date": "2001-07-09",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2250e9f1-651a-4f2d-b279-f765718f9043",
+        "title": "8701",
+        "date": "2001-07-30",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "253fd5d2-c383-41b2-949f-c3bbe7bd3f37",
+        "title": "8701",
+        "date": "2001-08-07",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "30ed11b0-6b0c-45fa-a306-6fef93731801",
+        "title": "Promo Only: Mainstream Radio, November 2001",
+        "date": "2001-10",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "9ecc8990-4a48-3c3f-93cc-a1151506a162",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1059242b-6964-4e1c-9447-2ab231b0dede",
+        "title": "Now That’s What I Call Music! 8",
+        "date": "2001-11-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "6a746f48-00ab-3d4a-a56e-c129a4018336",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0b7091ff-c26f-425c-92b0-88e09f4fedc5",
+        "title": "8701",
+        "date": "2002",
+        "country": "TW",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f134de2d-3ba2-4a0b-921d-17b151214119",
+        "title": "So Fresh: The Hits of Summer 2003 Plus the Biggest Hits of 2002",
+        "date": "2002",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "95f1854d-1642-3778-9b76-938f5ca0ad36",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ed2dce1b-7561-479d-a297-fb59392d94f3",
+        "title": "Un maxx' de tubes",
+        "date": "2002",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "a0ab4731-1af3-3f29-82f9-d6f74376a32d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "da4ecec6-fc04-4c8c-b547-ad6c17943e3e",
+        "title": "Planet Pop 4",
+        "date": "2002-07-02",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "90c2c84f-704e-3181-bbe6-2f0dfa84d2eb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a93c927a-7d57-3b94-865f-fc0d28fd44a0",
+        "title": "8701",
+        "date": "2002-08-13",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3ce5394e-b4ae-4a97-974b-8b0b2216f239",
+        "title": "8701",
+        "date": "2002-10-15",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "65f98d89-1559-4b67-a1c2-9655aa1d38f0",
+        "title": "All Time Classic Soul Heartbreakers",
+        "date": "2003-08-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "c929f72a-20c7-35e3-ac1e-62e9dd75e491",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7720508a-ebac-41af-88dc-af182b7f340a",
+        "title": "RTL Winter Dreams",
+        "date": "2004-01-16",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "35500399-1f4b-4158-9f8e-635b7b045ff2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fb4e855d-d94a-4505-a9d1-33f2ec024a05",
+        "title": "Bling",
+        "date": "2004-01-26",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "333cc17d-5fe9-3bd7-b576-f86e24471798",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "22890c0c-b3d2-4c8e-a16c-a0d7bf5a5b53",
+        "title": "Essential R&B: The Very Best of R&B: Summer 2004",
+        "date": "2004-06-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "c6c95387-fd1e-3f8e-a4a3-dad3535f6c3a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "72366865-44cc-4091-85d5-f98af7204620",
+        "title": "Platinum Stacks",
+        "date": "2007",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a4f10094-ee47-46ac-adef-5f1415657a80",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8717c150-170d-41d1-97e2-8c6e061db41f",
+        "title": "8701",
+        "date": "2007-12-19",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "aba33ac3-134a-4d56-acb2-44a440bf6bc9",
+        "title": "Essential: The R&B Selection",
+        "date": "2009-10-05",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "796a31d5-51e8-4ef3-8e6b-2240de52f26e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "16784ba0-5dfb-4c7a-884e-07f1ef457c23",
+        "title": "The Singles Collection",
+        "date": "2011",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "698b51f4-e28b-411b-8d77-9bd443e15bb2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "61c9c4c3-f8f8-4051-b67e-95350ff1b93b",
+        "title": "Pure… R&B",
+        "date": "2011-06-17",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "f7eddada-4230-40f1-b75b-0234eefadd30",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "64921c33-a60e-4095-a70e-edb9f5249572",
+        "title": "The Essential R&B",
+        "date": "2012-04-17",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "970b8828-c528-4580-baf7-76f2b6ca794c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f834e410-be66-40f5-8aaf-d95f0d41ce97",
+        "title": "Pure… Voices",
+        "date": "2012-09-07",
         "country": null,
         "status": "Official",
-        "release_group": "0aca5f44-ee51-3376-9045-2d587b6653a1",
-        "primary_type": "Single",
-        "secondary_types": []
+        "release_group": "4df0b1ba-497a-452c-8ca8-37e770cfdfe6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f8f28f4a-df18-4c13-8e79-503485c9c181",
+        "title": "Pure… Voices",
+        "date": "2012-09-10",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "4df0b1ba-497a-452c-8ca8-37e770cfdfe6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       }
     ],
     "work": {

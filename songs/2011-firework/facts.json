@@ -1,6 +1,6 @@
 {
   "id": "2011-firework",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Firework (song)",
   "wikidata": {
     "qid": "Q163412",
@@ -154,12 +154,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group a0bef2bf-5e59-4c63-9bbe-e9e48a551280 (2010-10-26)",
+  "musicbrainz_match": "single release group a0bef2bf-5e59-4c63-9bbe-e9e48a551280 (2010-10-26); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "78fd84b2-2326-4839-ac31-7ed929bd64af",
-    "title": "Firework (Jump Smokers radio extended)",
-    "length_ms": 264000,
-    "first_release_date": "2010",
+    "recording_id": "9846e3f4-7bb9-49be-8e91-837a5ee5cefb",
+    "title": "Firework",
+    "length_ms": 227946,
+    "first_release_date": "2010-08-24",
     "artist_credit": "Katy Perry",
     "artists": [
       {
@@ -167,33 +167,444 @@
         "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c"
       }
     ],
-    "isrcs": [],
-    "recording_credits": [],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "isrcs": [
+      "USCA21001262"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Josh Houghkirk",
+        "mbid": "5a9553df-6a7a-4683-8f59-c3e18d847795"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Damien Lewis",
+        "mbid": "fa621762-b3be-4af7-9859-c02f69f6ef8c"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Carlos Oyanedel",
+        "mbid": "22efb43f-ff71-4bfb-85ff-7a386ea664d2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Mikkel Storleer Eriksen",
+        "mbid": "3394771a-a36b-4739-bcd9-301d09121af8"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Erik Hermansen",
+        "mbid": "d85302c4-c433-40b5-8391-ecabaebd330f"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Sandy Vee",
+        "mbid": "a4e24871-8dad-4862-9939-ae921d2c5553"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Phil Tan",
+        "mbid": "14102906-da3c-469c-96b0-3e9ca2bf48de"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Sandy Vee",
+        "mbid": "a4e24871-8dad-4862-9939-ae921d2c5553"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "StarGate",
+        "mbid": "509d1ba6-dcf4-4ed1-a422-157ecdffef72"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Sandy Vee",
+        "mbid": "a4e24871-8dad-4862-9939-ae921d2c5553"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Mikkel Storleer Eriksen",
+        "mbid": "3394771a-a36b-4739-bcd9-301d09121af8"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Miles Walker",
+        "mbid": "5323d096-4656-4b2e-bcbc-cba3b8c10e12"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Katy Perry",
+        "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=S23IzDZBuBQ"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0kUMtZVaYb7EETkBdrEXXA"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/1OgSLBNfiZ3Wp9gYluVaMF"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/2IMf3AZ7OAgR1UEG5TgDPY"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/513pkGMIWITa1qfm8bQe8Z"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/7uOlaCDWdctnS4Pxuf4975"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/15696864"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2122818087"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2124682117"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2842381352"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=S23IzDZBuBQ"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/song/716192625"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/song/716192625"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/147835071"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/273280538"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/35368467"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/368782642"
+      }
+    ],
+    "genres": [
+      "ballad",
+      "blues rock",
+      "dance-pop",
+      "electropop",
+      "pop",
+      "pop rock"
+    ],
+    "tags": [
+      "pop",
+      "dance-pop",
+      "electropop",
+      "pop rock",
+      "pop/rock",
+      "ballad",
+      "blues rock",
+      "contemporary pop/rock",
+      "party"
+    ],
     "releases": [
       {
-        "id": "2d4ca32b-d716-448e-ba39-7bfe3fefac37",
-        "title": "Firework (Remixes 1)",
-        "date": "2010",
-        "country": "US",
-        "status": "Bootleg",
-        "release_group": "a0bef2bf-5e59-4c63-9bbe-e9e48a551280",
-        "primary_type": "Single",
+        "id": "3b74b057-73fd-47d6-acde-132f89983eb7",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
         "secondary_types": []
       },
       {
-        "id": "a72bccc0-e164-4b3d-b4c7-9c77d2137441",
-        "title": "Firework: Remixes",
-        "date": "2010",
-        "country": "XW",
+        "id": "73666351-3877-4a93-9b35-07ed4296a2c1",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "BS",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8b5e89a7-b768-4a62-99f5-2c759898cb95",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "be663c92-4012-41e7-a982-90091facb8c5",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d610e36f-aae9-4703-9a9b-355c9e8de6c7",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2a666025-eb7c-3cc2-bd76-4fbd80487395",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c83e1420-66a4-4e1c-868c-1251df886564",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f2f72075-f56d-4569-bfca-1742e16eb994",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "957a64fb-74dd-4836-84af-c881409e9eea",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e7d98581-cb23-43ed-ac32-d1dc1bd44eb3",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "26b1f451-1bd3-4b1c-918d-9ae98be00f6c",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3486bc5b-93c2-4e3f-b3c0-d34a665882a9",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "78cf4e06-0340-47da-b5ce-e3fce2f5ba38",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8d6bf2b1-5c1b-3f7e-9757-eb3b5ca205f3",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "87763f82-f67b-4f5a-8f9c-abae0511a27f",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8551cd49-7da6-3139-809d-e48f6f3453e8",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "40037016-c38c-442d-8cb9-56bdf26e0e5f",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "VG",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "17166b5d-2657-4a63-96db-3da2cae677e9",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": "VG",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "380bdb3d-340c-46e0-97d1-90c22ac9f043",
+        "title": "Teenage Dream",
+        "date": "2010-08-27",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ecec291e-10ed-4418-be87-50bdd44b0a87",
+        "title": "Teenage Dream",
+        "date": "2010-08-30",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "750a9359-e2b4-41df-a9a1-3972e68de90f",
+        "title": "Teenage Dream",
+        "date": "2010-08-30",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8a9383f8-aa86-3472-a6ba-0f536046a1be",
+        "title": "Teenage Dream",
+        "date": "2010-08-30",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "206ad0f2-db89-4085-9981-722a901bfee6",
+        "title": "Teenage Dream",
+        "date": "2010-08-31",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "5da010a3-8c94-4857-a643-a0d1e48643e8",
+        "title": "Promo Only: Mainstream Radio, November 2010",
+        "date": "2010-10-15",
+        "country": "US",
         "status": "Promotion",
-        "release_group": "0e17bd61-ec08-480e-980b-cd6f5f3fdb0d",
-        "primary_type": "Single",
+        "release_group": "58686959-5c85-4fcc-94b2-4a6273d606d9",
+        "primary_type": "Album",
         "secondary_types": [
-          "Remix"
+          "Compilation"
         ]
+      },
+      {
+        "id": "6f2ce2a1-7313-4058-a00c-454e7c93dfed",
+        "title": "Firework",
+        "date": "2010-10-26",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "a0bef2bf-5e59-4c63-9bbe-e9e48a551280",
+        "primary_type": "Single",
+        "secondary_types": []
       }
     ],
     "work": {

@@ -1,6 +1,6 @@
 {
   "id": "1992-just-another-day",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Just Another Day (Jon Secada song)",
   "wikidata": {
     "qid": "Q6315760",
@@ -68,11 +68,11 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 57c32081-d690-3b28-88cc-7bafcbafb312 (1992-03-24)",
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
   "musicbrainz": {
-    "recording_id": "e6dfebda-f0b9-4fe7-952d-a301843c40b3",
-    "title": "Just Another Day (underground vocal)",
-    "length_ms": 349000,
+    "recording_id": "8cd8c89e-c30c-4780-a7c8-0d4d5158b7f9",
+    "title": "Just Another Day",
+    "length_ms": 255026,
     "first_release_date": "1992",
     "artist_credit": "Jon Secada",
     "artists": [
@@ -88,14 +88,28 @@
     "tags": [],
     "releases": [
       {
-        "id": "8ec0f345-8ac4-4fd4-b346-e0b5d7a873fb",
-        "title": "Just Another Day (Remix By Tommy Musto)",
+        "id": "be5a1f81-c0ba-4a2d-a4d6-7f2f8666f3a4",
+        "title": "Mr Music Plus: Plus 11*92",
         "date": "1992",
-        "country": "XE",
+        "country": "SE",
         "status": "Official",
-        "release_group": "57c32081-d690-3b28-88cc-7bafcbafb312",
-        "primary_type": "Single",
-        "secondary_types": []
+        "release_group": "7d681c55-47af-4658-9c59-39589a2433e0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "62606118-caf7-4a14-9a94-40de9c94b711",
+        "title": "Buried Treasure 90s",
+        "date": "2021-12-24",
+        "country": "IE",
+        "status": "Official",
+        "release_group": "89de9959-347c-40ba-acbb-df32c6ff2464",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       }
     ],
     "main_artist": {

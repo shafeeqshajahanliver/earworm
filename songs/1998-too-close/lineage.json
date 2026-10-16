@@ -1,0 +1,43 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/707682",
+    "title": "Too Close",
+    "performer": "Next",
+    "is_original": true,
+    "first_release_date": "1997-09-30",
+    "releases": [
+      {
+        "title": "Rated Next",
+        "uri": "https://api.secondhandsongs.com/release/201717",
+        "performer": "Next"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 2,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/188144",
+    "title": "Too Close",
+    "language": "English",
+    "writers": [
+      "Raphael Brown",
+      "Kay Gee",
+      "RL",
+      "Darren Lighty"
+    ],
+    "original_performer": "Next",
+    "versions": 3,
+    "based_on": [],
+    "derived_works": []
+  }
+}

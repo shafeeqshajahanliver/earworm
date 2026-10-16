@@ -1,6 +1,6 @@
 {
   "id": "1973-touch-me-in-the-morning",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Touch Me in the Morning (song)",
   "wikidata": {
     "qid": "Q7828608",
@@ -51,12 +51,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
   "musicbrainz": {
-    "recording_id": "203c4fce-818d-4b6c-801e-7b89e4ade7af",
+    "recording_id": "8c606413-bf48-46d4-bda0-c028d75e0aa3",
     "title": "Touch Me in the Morning",
-    "length_ms": 233013,
-    "first_release_date": "1973-06-22",
+    "length_ms": 195000,
+    "first_release_date": "1973-11-16",
     "artist_credit": "Diana Ross",
     "artists": [
       {
@@ -64,393 +64,25 @@
         "mbid": "60d41417-feda-4734-bbbf-7dcc30e08a83"
       }
     ],
-    "isrcs": [
-      "USMO10000424",
-      "USMO17300350"
-    ],
-    "recording_credits": [
-      {
-        "role": "arranger",
-        "attributes": [],
-        "name": "Tom Baird",
-        "mbid": "01672e30-529b-4b2d-b64f-ccdcacaefd80"
-      },
-      {
-        "role": "arranger",
-        "attributes": [],
-        "name": "Gene Page",
-        "mbid": "e6a6a253-7060-4dc7-94d7-5c316c068ca2"
-      },
-      {
-        "role": "producer",
-        "attributes": [],
-        "name": "Tom Baird",
-        "mbid": "01672e30-529b-4b2d-b64f-ccdcacaefd80"
-      },
-      {
-        "role": "producer",
-        "attributes": [],
-        "name": "Michael Masser",
-        "mbid": "62625f0a-2727-4155-a97f-e82b6ae30f46"
-      }
-    ],
-    "urls": [
-      {
-        "type": "free streaming",
-        "url": "https://open.spotify.com/track/1Y4OVVEI2YntlhHBonzYkr"
-      },
-      {
-        "type": "free streaming",
-        "url": "https://www.deezer.com/track/2155019"
-      },
-      {
-        "type": "streaming",
-        "url": "https://music.apple.com/gb/song/1440829050"
-      },
-      {
-        "type": "streaming",
-        "url": "https://tidal.com/track/576852"
-      }
-    ],
-    "genres": [
-      "disco",
-      "electronic",
-      "motown",
-      "pop",
-      "r&b",
-      "soul"
-    ],
-    "tags": [
-      "r&b",
-      "soul",
-      "motown",
-      "disco",
-      "pop",
-      "am pop",
-      "electronic",
-      "need composers",
-      "pop-soul",
-      "r b"
-    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
     "releases": [
       {
-        "id": "fc399a9c-2cf4-4998-a78d-da2479b2abfc",
-        "title": "Touch Me in the Morning",
-        "date": "1973-06-22",
+        "id": "5765f664-0c5b-4e19-89d7-94b1f3cfdaec",
+        "title": "Diana’s World",
+        "date": "1973-11-16",
         "country": "GB",
-        "status": "Official",
-        "release_group": "71336450-5cab-34a9-9aee-151005655fd7",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "d4bff3bd-c1b9-46aa-837a-3304286c6207",
-        "title": "Touch Me in the Morning",
-        "date": "1973-06-22",
-        "country": "US",
-        "status": "Official",
-        "release_group": "71336450-5cab-34a9-9aee-151005655fd7",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "3686e5f7-a0ac-4140-9bbc-585c306c09b1",
-        "title": "Greatest Hits",
-        "date": "1976",
-        "country": "NL",
-        "status": "Official",
-        "release_group": "de2f67a6-2ab0-4743-9fd7-4fe764beb68d",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "77f6cda5-96da-40e8-aeb1-c99f7d1fb790",
-        "title": "Diana Ross’ Greatest Hits",
-        "date": "1976-06-12",
-        "country": "US",
-        "status": "Official",
-        "release_group": "afed5317-7d89-3301-9cca-b13c1ec6d423",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "4bdfe84d-ff83-4578-9cce-5c6a96e0a2bd",
-        "title": "Diana Ross' Greatest Hits / 2",
-        "date": "1976-07-01",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "c315e0f0-9e0d-4185-9e34-d31fb56ae716",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c8dcc93c-2f51-428f-9c68-d41e4e37a29b",
-        "title": "All the Great Hits",
-        "date": "1981-10",
-        "country": "US",
-        "status": "Official",
-        "release_group": "a62b82af-ce82-3e2b-b3a5-c7d69e8f0de0",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "21aa79f4-abe1-44d4-bfbd-b9a512a62162",
-        "title": "Motown 50 Certified Original No.1 Hits: A Motown Anniversary Collection",
-        "date": "1983",
-        "country": "US",
-        "status": "Official",
-        "release_group": "00cb2cf2-c64a-38f0-9c6f-78cb4a1c431d",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "b38bf067-0a96-48be-b91b-f66716608a03",
-        "title": "Portrait: Her Greatest Hits, Volume 2",
-        "date": "1983",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "674f6ec5-8a4e-3f6a-a12d-da97d37941b2",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "93884ab2-218f-45c4-8c63-10c00ff0da08",
-        "title": "Anthology",
-        "date": "1986",
-        "country": "CA",
-        "status": "Official",
-        "release_group": "87bbebf1-3cc5-3110-b859-b12e529b61d7",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "b0b79621-7a1c-44b8-ae42-cfea3f52423b",
-        "title": "Anthology",
-        "date": "1986",
-        "country": "US",
-        "status": "Official",
-        "release_group": "87bbebf1-3cc5-3110-b859-b12e529b61d7",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "34d17c0f-85ca-3822-8189-7492804aaa81",
-        "title": "Portrait: Her Greatest Hits, Volume 2",
-        "date": "1986",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "674f6ec5-8a4e-3f6a-a12d-da97d37941b2",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "f8613c98-6b20-4914-9c2a-c26f6d27ee37",
-        "title": "Wereldsterren: Het beste van Diana Ross",
-        "date": "1990-07",
-        "country": "NL",
-        "status": "Official",
-        "release_group": "a4641194-38b3-3a63-9845-c6b8a8a499fc",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c2cb04e9-6309-383e-b4ad-f2e7bf41dd3f",
-        "title": "Diana Ross' Greatest Hits",
-        "date": "1992-04-13",
-        "country": "US",
-        "status": "Official",
-        "release_group": "afed5317-7d89-3301-9cca-b13c1ec6d423",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "b196b7cd-880d-3ca8-b3c4-04085bc5306f",
-        "title": "All the Great Hits",
-        "date": "1992-05-11",
-        "country": "US",
-        "status": "Official",
-        "release_group": "a62b82af-ce82-3e2b-b3a5-c7d69e8f0de0",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "aab07906-4d53-3534-a153-252226c9be5d",
-        "title": "Touch Me in the Morning",
-        "date": "1993",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "71336450-5cab-34a9-9aee-151005655fd7",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "6a900574-044a-3b62-84fa-beb3d11337c1",
-        "title": "Anthology",
-        "date": "1993-11-01",
-        "country": "JP",
-        "status": "Official",
-        "release_group": "87bbebf1-3cc5-3110-b859-b12e529b61d7",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c1fb91b7-81bc-447a-b285-c14dcee63d51",
-        "title": "20th Century Masters: The Millennium Collection: The Best of Diana Ross",
-        "date": "2000",
-        "country": "US",
-        "status": "Official",
-        "release_group": "ee1d6b53-87cf-34c9-9202-2ab8c2b0dbf6",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "f429ff49-0c5c-4ccf-b391-b515dddba738",
-        "title": "20th Century Masters: The Millennium Collection: The Best of Diana Ross",
-        "date": "2000-06-27",
-        "country": "US",
-        "status": "Official",
-        "release_group": "ee1d6b53-87cf-34c9-9202-2ab8c2b0dbf6",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c895834c-61f6-4442-907e-dab123ed576c",
-        "title": "Classic: The Universal Masters Collection",
-        "date": "2000-11-06",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "318902b1-2de9-4882-8b36-ac2c467a158d",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c1ecccbc-162e-42f5-86eb-f70e25dad2dd",
-        "title": "All the Great Hits",
-        "date": "2000-11-28",
-        "country": "US",
-        "status": "Official",
-        "release_group": "a62b82af-ce82-3e2b-b3a5-c7d69e8f0de0",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "1db8a523-f564-4bef-befd-34c0dc60c950",
-        "title": "All the Great Hits",
-        "date": "2000-11-28",
-        "country": "XE",
-        "status": "Official",
-        "release_group": "a62b82af-ce82-3e2b-b3a5-c7d69e8f0de0",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "4ba39404-7cb8-45b9-a772-409d682f7206",
-        "title": "Easy, Volume 2",
-        "date": "2001",
-        "country": "IT",
-        "status": "Official",
-        "release_group": "2c845e85-fabf-4fcc-8397-21c4bc7a7a4f",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "5f4f0ad1-8018-4f0d-9a9e-a4f25cfbbd46",
-        "title": "Les talents du siècle: Diana Ross",
-        "date": "2001",
-        "country": "FR",
-        "status": "Official",
-        "release_group": "debee9ae-b152-31e1-8324-aaca671536a8",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "a72f1f1f-53c7-46eb-a525-0f777d983ca8",
-        "title": "The Motown Anthology",
-        "date": "2001-03-27",
-        "country": "US",
-        "status": "Official",
-        "release_group": "e455498d-99ed-340c-8350-1e19b23a8b93",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "5b501ed0-7202-4822-9274-a88b5c2ff9ad",
-        "title": "To Love Again",
-        "date": "2003-01-14",
-        "country": "US",
-        "status": "Official",
-        "release_group": "c13a06cb-cdef-3305-b961-dd6701542d89",
+        "status": "Promotion",
+        "release_group": "74f9cf39-dde5-388c-8274-04dd1a78522c",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       }
     ],
-    "work": {
-      "id": "10babc93-a6ea-3b30-a1e8-8e71b5bb4f72",
-      "title": "Touch Me in the Morning",
-      "iswcs": [
-        "T-070.929.170-2",
-        "T-801.114.118-8"
-      ],
-      "credits": [
-        {
-          "role": "writer",
-          "name": "Michael Masser",
-          "mbid": "62625f0a-2727-4155-a97f-e82b6ae30f46"
-        },
-        {
-          "role": "writer",
-          "name": "Ron Miller",
-          "mbid": "4567d07c-8e2c-4197-9d63-81ae4f04ee44"
-        }
-      ],
-      "urls": [
-        "https://secondhandsongs.com/work/124412"
-      ]
-    },
     "main_artist": {
       "name": "Diana Ross",
       "type": "Person",

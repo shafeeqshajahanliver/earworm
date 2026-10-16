@@ -1,0 +1,45 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/53065",
+    "title": "Kiss from a Rose",
+    "performer": "Seal",
+    "is_original": true,
+    "first_release_date": "1994",
+    "releases": [
+      {
+        "title": "Kiss from a Rose",
+        "uri": "https://api.secondhandsongs.com/release/21501",
+        "performer": "Seal"
+      },
+      {
+        "title": "Seal [II]",
+        "uri": "https://api.secondhandsongs.com/release/46248",
+        "performer": "Seal"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 157,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/53065",
+    "title": "Kiss from a Rose",
+    "language": "English",
+    "writers": [
+      "Seal"
+    ],
+    "original_performer": "Seal",
+    "versions": 158,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kiss from a Rose",
+        "uri": "https://api.secondhandsongs.com/work/147563"
+      }
+    ]
+  }
+}

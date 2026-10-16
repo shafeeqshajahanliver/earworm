@@ -143,7 +143,8 @@ def mb(path, **params):
 
 
 VARIANT = ("live", "remix", "demo", "instrumental", "acoustic", "edit", "mix", "version",
-           "karaoke", "a cappella", "reprise", "mono", "stereo", "remaster", "single")
+           "karaoke", "a cappella", "reprise", "mono", "stereo", "remaster", "single", "dub", "acapella",
+           "percapella", "club", "extended", "underground", "12\"", "12 inch", "12-inch")
 
 
 def full_key(s):
@@ -162,10 +163,12 @@ def main_artist(artist):
     return re.split(r" featuring | feat\. | and Friends| \(", artist)[0]
 
 
-def mb_find_recording(title, artist, year):
-    """Find the charting recording: the earliest single release group with this title by the
-    main artist, then the matching track on its earliest release. Falls back to a recording
-    search (exact title, no variant markers, earliest first release)."""
+def mb_find_recording(title, artist, year, ref_lengths=()):
+    """Find the charting recording: the earliest single release groups with this title by the
+    main artist, and the matching tracks on their releases. When Wikipedia gives the single's
+    length, take the track closest to it (singles often carry 12-inch, remix or album versions
+    under the same title); otherwise the first match on the earliest release. Falls back to a
+    recording search (exact title, no variant markers, earliest first release)."""
     a = main_artist(artist)
     r = mb("release-group", query='releasegroup:"%s" AND artist:"%s" AND primarytype:single'
            % (title.replace('"', ''), a), limit=25)
@@ -173,22 +176,35 @@ def mb_find_recording(title, artist, year):
               if any(title_ok(part, title) for part in g["title"].split(" / "))
               and (g.get("first-release-date") or "9999")[:4] <= str(year)]
     groups.sort(key=lambda g: g.get("first-release-date") or "9999")
+    found = []  # (order, recording id, length s, how)
     for g in groups[:3]:
         rels = mb("release", **{"release-group": g["id"], "inc": "recordings", "limit": 25})
         for rel in sorted(rels.get("releases", []), key=lambda x: x.get("date") or "9999"):
             for m in rel.get("media", []):
                 for t in m.get("tracks", []):
                     if title_ok(t["recording"]["title"], title) or title_ok(t["title"], title):
-                        return t["recording"]["id"], "single release group %s (%s)" % (g["id"], g.get("first-release-date"))
+                        L = (t["recording"].get("length") or t.get("length") or 0) / 1000
+                        found.append((len(found), t["recording"]["id"], L,
+                                      "single release group %s (%s)" % (g["id"], g.get("first-release-date"))))
+    if found:
+        if ref_lengths:
+            timed = [f for f in found if f[2]]
+            if timed:
+                best = min(timed, key=lambda f: (round(min(abs(f[2] - x) for x in ref_lengths) / 5), f[0]))
+                if min(abs(best[2] - x) for x in ref_lengths) <= 15:
+                    return best[1], best[3] + "; track closest to the Wikipedia single length"
+        return found[0][1], found[0][3]
     r = mb("recording", query='recording:"%s" AND artist:"%s"' % (title.replace('"', ''), a), limit=50)
     cands = []
     for rec in r.get("recordings", []):
         dis = (rec.get("disambiguation") or "").lower()
         if not title_ok(rec["title"], title) or any(w in dis for w in VARIANT):
             continue
-        cands.append((rec.get("first-release-date") or "9999", -rec.get("score", 0), rec["id"]))
+        L = (rec.get("length") or 0) / 1000
+        near = 0 if (ref_lengths and L and min(abs(L - x) for x in ref_lengths) <= 15) else 1
+        cands.append((near, rec.get("first-release-date") or "9999", -rec.get("score", 0), rec["id"]))
     cands.sort()
-    return (cands[0][2], "recording search (exact title, earliest release)") if cands else (None, None)
+    return (cands[0][3], "recording search (exact title, length near the Wikipedia single where known, earliest release)") if cands else (None, None)
 
 
 def mb_details(rid):
@@ -290,7 +306,9 @@ def collect(s, sid, e):
                 rid = sorted(dated)[0][1] if dated else None
                 facts["musicbrainz_match"] = "wikidata"
         if not rid:
-            rid, how = mb_find_recording(s["title"], s["artist"], int(s["chart_year"]))
+            ib = pick_infobox(infoboxes(text), s["artist"]) or {}
+            refs = [int(m.group(1)) * 60 + int(m.group(2)) for m in re.finditer(r"(\d{1,2}):(\d{2})", ib.get("length") or "")]
+            rid, how = mb_find_recording(s["title"], s["artist"], int(s["chart_year"]), refs)
             facts["musicbrainz_match"] = how
         if rid:
             facts["musicbrainz"] = mb_details(rid)

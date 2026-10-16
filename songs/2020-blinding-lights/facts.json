@@ -1,6 +1,6 @@
 {
   "id": "2020-blinding-lights",
-  "retrieved": "2026-10-06",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Blinding Lights",
   "wikidata": {
     "qid": "Q76566134",
@@ -102,10 +102,11 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
+  "musicbrainz_match": "single release group 9b905cac-df8d-4942-bc4e-4fe0f2ed635f (2019-11-29); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "5bdbfe86-4ad5-4c19-8d29-ee5f30ba628b",
+    "recording_id": "1a67e215-a19e-40c9-9b12-732de134bf5f",
     "title": "Blinding Lights",
-    "length_ms": 262000,
+    "length_ms": 200046,
     "first_release_date": "2019-11-29",
     "artist_credit": "The Weeknd",
     "artists": [
@@ -115,20 +116,257 @@
       }
     ],
     "isrcs": [
-      "USUMV1902060"
+      "USUG11904206"
     ],
-    "recording_credits": [],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Cory Bice",
+        "mbid": "bf10c9c1-603b-4133-bd62-dca940e317a2"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Shin Kamiyama",
+        "mbid": "ae300db3-6636-43a3-aa35-5804e77fd4e3"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Sean Klein",
+        "mbid": "b19987fa-d3eb-48d0-8cd1-7ee879d7a219"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Jeremy Lertola",
+        "mbid": "e7f594eb-f293-44c6-b42d-67230690204d"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Oscar Holter",
+        "mbid": "c956a6b7-59bd-4155-9fbd-3f3278d0c276"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Oscar Holter",
+        "mbid": "c956a6b7-59bd-4155-9fbd-3f3278d0c276"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Oscar Holter",
+        "mbid": "c956a6b7-59bd-4155-9fbd-3f3278d0c276"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "Oscar Holter",
+        "mbid": "c956a6b7-59bd-4155-9fbd-3f3278d0c276"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "John Hanes",
+        "mbid": "8cb2b8cd-34e5-4197-8a51-7eaf795b65c1"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Oscar Holter",
+        "mbid": "c956a6b7-59bd-4155-9fbd-3f3278d0c276"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Oscar Holter",
+        "mbid": "c956a6b7-59bd-4155-9fbd-3f3278d0c276"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "The Weeknd",
+        "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+      }
+    ],
     "urls": [
       {
         "type": "free streaming",
-        "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+        "url": "https://music.youtube.com/watch?v=J7p4bzqLvCw"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/00uqj8HXl0hWr3tnxC0NZ5"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/6qYkmqFsXbj8CQjAdbYz07"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/1078622712"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=fHI8X4OXluQ"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/155054813"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/155056940"
       }
     ],
-    "genres": [],
-    "tags": [],
+    "genres": [
+      "ballad",
+      "contemporary r&b",
+      "deep house",
+      "disco",
+      "electro house",
+      "electronic",
+      "jazz",
+      "new wave",
+      "pop",
+      "synth-pop",
+      "synthwave",
+      "trance"
+    ],
+    "tags": [
+      "electronic",
+      "synth-pop",
+      "electro house",
+      "jazz",
+      "pop",
+      "ballad",
+      "contemporary r&b",
+      "deep house",
+      "disco",
+      "hiphop"
+    ],
     "releases": [
       {
-        "id": "24f4415e-2684-42ed-b002-807066381839",
+        "id": "e8ec54c8-8e3c-4ea4-9ee1-06ea87405333",
         "title": "Blinding Lights",
         "date": "2019-11-29",
         "country": "XW",
@@ -138,16 +376,244 @@
         "secondary_types": []
       },
       {
-        "id": "7d5e9105-de07-4f54-b096-c1d8a39c74ff",
-        "title": "The Highlights",
-        "date": "2021-02-05",
+        "id": "c400ecc6-74a5-47ba-a96a-0f0cdf454642",
+        "title": "Blinding Lights",
+        "date": "2019-11-29",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "9b905cac-df8d-4942-bc4e-4fe0f2ed635f",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "6e560572-8fc0-4f53-bde3-75d844cce6f5",
+        "title": "Blinding Lights",
+        "date": "2019-11-29",
         "country": "XW",
         "status": "Official",
-        "release_group": "f60c961a-b4c8-4e01-831c-51a0dfa55188",
+        "release_group": "9b905cac-df8d-4942-bc4e-4fe0f2ed635f",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "9168c3ba-4a56-4232-84d5-9e8ef1b77091",
+        "title": "Blinding Lights",
+        "date": "2019-11-29",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "9b905cac-df8d-4942-bc4e-4fe0f2ed635f",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "6e355f73-3b40-46d6-a28e-11a39105568f",
+        "title": "After Hours",
+        "date": "2020-02-19",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
+      },
+      {
+        "id": "19e4f6cc-ca0c-4897-8dfc-a36914b7f998",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "241f61c4-7b16-4967-a4d6-c0b548b349a3",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2a581d8d-fd60-483d-8f4b-d72d3e97885e",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "dcb96a47-c90d-4a9b-a716-5479a0ce41e5",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "71d70268-2559-492c-aa97-f04d36c9f45b",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": null,
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "12fc7ee3-a1dc-4940-b65d-e011980ec790",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d5934384-76eb-4f43-88dd-9cfd6d2db2fd",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "5c166d42-f573-44d8-83d8-07fdffb6dcaf",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "9a14295a-68d2-42dd-83cf-c9468785adec",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "72805ef9-f5a1-460d-bf5b-0de15c83baf8",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "fd7ebee8-8c64-4127-a9be-8e31ed6364e3",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "46b98ab6-eaa5-4990-9410-55fc53282662",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d201bf96-5852-4230-aefd-8b1317fdf866",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "5ab8ba75-071a-48f0-a49c-27cb9cc39bf5",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "57e29be0-27d8-4fb3-961a-1acf9d1c0353",
+        "title": "After Hours",
+        "date": "2020-03-20",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c0646e68-84c6-49f2-92cb-d6b6c4562562",
+        "title": "After Hours",
+        "date": "2020-03-23",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "bc848e25-dab4-4da4-b655-ff75387f71ea",
+        "title": "After Hours",
+        "date": "2020-03-23",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1c23fa7b-7a94-4011-9783-d8d4cf0b6042",
+        "title": "After Hours - Deluxe Edition",
+        "date": "2020-03-23",
+        "country": null,
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f03788c4-8308-40cc-bd51-1e57ac396a87",
+        "title": "After Hours",
+        "date": "2020-03-30",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "78570bea-2a26-467c-a3db-c52723ceb394",
+        "primary_type": "Album",
+        "secondary_types": []
       }
     ],
     "work": {

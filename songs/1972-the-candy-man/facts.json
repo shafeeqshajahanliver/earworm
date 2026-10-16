@@ -1,6 +1,6 @@
 {
   "id": "1972-the-candy-man",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "The Candy Man",
   "wikidata": {
     "qid": "Q7721186",
@@ -42,11 +42,11 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
   "musicbrainz": {
-    "recording_id": "6b3192dd-bfae-44aa-a4b2-843e2ff85a2a",
+    "recording_id": "c7893fd6-f8ef-4af5-971b-8be0277889ad",
     "title": "The Candy Man",
-    "length_ms": 152000,
+    "length_ms": 191000,
     "first_release_date": "1972",
     "artist_credit": "Sammy Davis Jr.",
     "artists": [
@@ -55,19 +55,329 @@
         "mbid": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b"
       }
     ],
-    "isrcs": [],
-    "recording_credits": [],
+    "isrcs": [
+      "USRHD0530846"
+    ],
+    "recording_credits": [
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Don Costa",
+        "mbid": "1f9e4aed-ab31-4d61-a1d0-b524bceb9172"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Mike Curb",
+        "mbid": "2b084d00-fc7d-4967-ae95-c15f08ac4451"
+      }
+    ],
     "urls": [],
-    "genres": [],
-    "tags": [],
+    "genres": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "70s",
+      "rock",
+      "vintage lounge",
+      "vocal"
+    ],
     "releases": [
       {
-        "id": "d5ca8dfa-fcfe-4f26-a5d3-aa04408c7340",
-        "title": "22 Explosive Hits, Volume Two",
+        "id": "1cb9f066-988e-42a7-9dfb-7ce5c7a360f5",
+        "title": "Sammy Davis Jr. Now",
         "date": "1972",
         "country": "US",
         "status": "Official",
-        "release_group": "abd28b26-b1cf-4c4d-bfba-735ae4187cbd",
+        "release_group": "cf68a6be-fef4-4a44-b3a9-2df644016b79",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "07e0baa1-cc6b-4479-968a-49fe0e0196a4",
+        "title": "Greatest Hits",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "8127cf30-ed1c-3d01-b412-8ed09af84f9c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "509b6f2a-45d1-42cc-8362-1a2222119835",
+        "title": "Greatest Hits",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "8127cf30-ed1c-3d01-b412-8ed09af84f9c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "554e9ed1-5a5e-46d5-99f3-8e5572ef952a",
+        "title": "Super Hits of the ’70s: Have a Nice Day, Vol. 8",
+        "date": "1990-04-04",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "3166194e-a417-3ddb-8e93-784c49f2372d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "940dd4f5-5cda-4ee8-8f9a-ce627eafd507",
+        "title": "Super Hits of the ’70s: Have a Nice Day, Vol. 8",
+        "date": "1990-04-04",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3166194e-a417-3ddb-8e93-784c49f2372d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e1a511bc-e1b3-453d-909f-28ca4b087f55",
+        "title": "AM Gold: Early ’70s Classics",
+        "date": "1992",
+        "country": "US",
+        "status": "Official",
+        "release_group": "25934eeb-0982-3a9f-94ae-131c3817f335",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "33cff520-e80e-4916-83b6-9c42c7c5d772",
+        "title": "Superhits: Early '70s Classics",
+        "date": "1992",
+        "country": "US",
+        "status": "Official",
+        "release_group": "9b4c2cdf-a55f-4f82-a6d8-2ca857e316d8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "310e37a4-e638-438a-909b-e8371ca05b05",
+        "title": "The Very Best of Sammy Davis Jr.",
+        "date": "1992",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "446b1c1b-0faf-3a13-ade2-a171611700f0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7cc2da5a-2887-49f1-93c0-005e7f186c77",
+        "title": "The No. 1 Hits 1972",
+        "date": "1994",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "874490cd-4147-3048-87c1-923e1abc9a35",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7c1cd000-b275-43ab-a5b1-764909a4a2d5",
+        "title": "AM Gold: Early ’70s Classics",
+        "date": "1995",
+        "country": "US",
+        "status": "Official",
+        "release_group": "25934eeb-0982-3a9f-94ae-131c3817f335",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8300b17f-941a-3f06-a9af-5f2f2efcc974",
+        "title": "That Old Black Magic",
+        "date": "1995-05-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a290e9cb-2f4d-3fa6-a44e-479be49fe1fe",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "56ce8c0a-0ec5-4fff-9c5b-415e45c92ba6",
+        "title": "My Special Choice",
+        "date": "1995-09-11",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "f22196f8-a99a-3e8d-8f5c-14adeb7725c1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "df389c30-db90-494b-be66-8bf3639e61e5",
+        "title": "De J@ren ’70 – Deel 3 – 1972",
+        "date": "1997",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "422cdc77-3b9d-4b20-9bf1-22934f14fbeb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "86c53bf8-e52b-4b16-918b-35bb660e0006",
+        "title": "'70s Party Classics",
+        "date": "1998-03-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5937626d-17fa-4cee-89a4-65089742d8bb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dff08b8a-ea72-4b28-9394-3bc266d3b37b",
+        "title": "Have a Nice Decade: The ’70s Pop Culture Box",
+        "date": "1998-06-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "fc5260ed-accd-3278-aabe-935e48af4f1f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ad41e8a7-427b-4654-aa22-c912310cb2ff",
+        "title": "AM Gold: Radio Hits '69-'74: Easy Hits",
+        "date": "1999",
+        "country": "US",
+        "status": "Official",
+        "release_group": "580c824d-41bf-3324-b105-5fd17478162e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9012d5db-2b32-44ac-b40c-b9cb9f88e205",
+        "title": "Mr. Bojangles",
+        "date": "1999",
+        "country": "US",
+        "status": "Official",
+        "release_group": "789b2ec8-5cf2-3024-8a19-f3db5b9506f8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "54f9cdee-e581-4b4f-a88c-b415320c2798",
+        "title": "The 20th Century Music Collection",
+        "date": "1999",
+        "country": "BR",
+        "status": "Official",
+        "release_group": "1babf1c4-d562-3d48-886d-5b873159017b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "27e700ba-364c-40fe-b006-c0552196a597",
+        "title": "AM Gold: Mellow Hits of the '70s",
+        "date": "2000",
+        "country": null,
+        "status": "Official",
+        "release_group": "2317c729-0560-3ac7-81d7-d0b1be885e67",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "75629b71-e446-495c-943c-d050bc98a6cd",
+        "title": "Diamonds Are Forever",
+        "date": "2001-03-16",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "41f943f0-803b-4887-9473-95fc6e4fafa1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9c655f73-8377-4a76-abe6-bc35bc83a38d",
+        "title": "Lounge Legends",
+        "date": "2002",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "0a25a12c-31cc-4653-81ee-acec755edc7d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8f540e19-a521-48db-aa1b-a575622d032f",
+        "title": "SATURN Exklusiv Edition: Easy Listening Edition",
+        "date": "2002",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "8388f77d-addd-389d-a987-97b4b14681f0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4184440e-eed5-4843-8f56-0c4bf607b739",
+        "title": "The Candy Man Swings",
+        "date": "2002-01-01",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "15343f60-e380-40ce-abbf-74accd0eb457",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9377b186-da60-494a-a47f-03ff1c77212c",
+        "title": "The Candy Man Swings",
+        "date": "2002-03-13",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "15343f60-e380-40ce-abbf-74accd0eb457",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4aa394e0-e9c7-43ec-9126-25b9ee0c23ad",
+        "title": "20th Century Masters: The Millennium Collection: The Best of Sammy Davis, Jr.",
+        "date": "2002-09-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "743e5d18-6db5-360b-b86d-dbf189bef09c",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

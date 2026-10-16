@@ -1,6 +1,6 @@
 {
   "id": "2010-california-gurls",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "California Gurls",
   "wikidata": {
     "qid": "Q155586",
@@ -138,33 +138,549 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group e5921c6a-6e80-46f8-8031-9e66ce5fe06f (2010)",
+  "musicbrainz_match": "single release group 28a8efeb-5a9e-4f7d-8c99-9b393053346d (2010-05-07)",
   "musicbrainz": {
-    "recording_id": "99ecc11e-2087-4241-b443-2de514c2c858",
-    "title": "California Gurls (Manhattan Clique Malibu dub)",
-    "length_ms": 347186,
-    "first_release_date": "2010",
-    "artist_credit": "Katy Perry",
+    "recording_id": "44e88237-bdb1-4176-9687-714f0d9f6f76",
+    "title": "California Gurls",
+    "length_ms": 235000,
+    "first_release_date": "2010-05-07",
+    "artist_credit": "Katy Perry feat. Snoop Dogg",
     "artists": [
       {
         "name": "Katy Perry",
         "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c"
+      },
+      {
+        "name": "Snoop Dogg",
+        "mbid": "f90e8b26-9e52-4669-a5c9-e28529c47894"
       }
     ],
-    "isrcs": [],
-    "recording_credits": [],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "isrcs": [
+      "USCA21001135",
+      "USCA21001182",
+      "USCA21001767"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Aniela Gottwald",
+        "mbid": "db980e53-a9d1-44fc-b300-b1f54cedd0ca"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "John Hanes",
+        "mbid": "8cb2b8cd-34e5-4197-8a51-7eaf795b65c1"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Sam Holland",
+        "mbid": "f34721e5-6c0f-47c2-a232-187447c9a94c"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Tim Roberts",
+        "mbid": "f2c15d10-f694-4d19-b5f6-e9f46e91ab5e"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Emily Wright",
+        "mbid": "3a1f07ce-4ee7-4cdf-b899-20f6b5ec28e2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "other instruments"
+        ],
+        "name": "Tamra Natisin",
+        "mbid": "138ec3e3-32ca-4c83-b5e3-8da9c68916dd"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "benny blanco",
+        "mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Katy Perry",
+        "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "guest"
+        ],
+        "name": "Snoop Dogg",
+        "mbid": "f90e8b26-9e52-4669-a5c9-e28529c47894"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=ru3tYeyIOFk"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/01UB9qO95ZgJQGPbCp1eBb"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/05vyip6t6at0bymorQbUbw"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0bPspTpidOppWTaxpdJDXu"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/4ryi1Qll4z5G9YgCleLJwN"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/5pire3B5vTJ2z2334HKwTT"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/7zqK6tIgNqi95x7wrbNBWT"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/15696863"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2122817997"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2135230287"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2319593045"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2842381322"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/443937174"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/song/6801604092"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/273280528"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/274871680"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/298886845"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/35368466"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/368782639"
+      }
+    ],
+    "genres": [
+      "dance-pop",
+      "disco",
+      "electro",
+      "electronic",
+      "electropop",
+      "pop",
+      "pop rap",
+      "rock",
+      "synth-pop",
+      "teen pop"
+    ],
+    "tags": [
+      "pop",
+      "dance-pop",
+      "contemporary pop/rock",
+      "electropop",
+      "party",
+      "pop rap",
+      "pop/rock",
+      "rock",
+      "synth-pop",
+      "bubblegum"
+    ],
     "releases": [
       {
-        "id": "9539ac04-03b5-44ba-813f-03d2e710c410",
+        "id": "46cad503-4235-4077-9b84-a6cc0615f637",
         "title": "California Gurls",
-        "date": "2010",
-        "country": "SE",
-        "status": "Promotion",
-        "release_group": "e5921c6a-6e80-46f8-8031-9e66ce5fe06f",
+        "date": "2010-05-07",
+        "country": "US",
+        "status": "Withdrawn",
+        "release_group": "28a8efeb-5a9e-4f7d-8c99-9b393053346d",
         "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "d31913c1-1db0-48f5-9382-05b33d98f943",
+        "title": "California Gurls",
+        "date": "2010-05-07",
+        "country": "CO",
+        "status": "Promotion",
+        "release_group": "28a8efeb-5a9e-4f7d-8c99-9b393053346d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "9edd1053-59f1-3bcd-a146-dc3803d23c30",
+        "title": "California Gurls",
+        "date": "2010-06-01",
+        "country": "US",
+        "status": "Official",
+        "release_group": "28a8efeb-5a9e-4f7d-8c99-9b393053346d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "66a764f1-da11-4d6c-86db-a01b788dd9bd",
+        "title": "California Gurls",
+        "date": "2010-06-01",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "28a8efeb-5a9e-4f7d-8c99-9b393053346d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "7b6a0680-75b8-45e0-98d1-a05fd593137b",
+        "title": "California Gurls",
+        "date": "2010-06-11",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "28a8efeb-5a9e-4f7d-8c99-9b393053346d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "9ea3a30e-ebf0-47ad-9532-1b3fa3db9905",
+        "title": "California Gurls",
+        "date": "2010-06-18",
+        "country": "BS",
+        "status": "Official",
+        "release_group": "28a8efeb-5a9e-4f7d-8c99-9b393053346d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "3eb2865a-67e3-3817-add6-485c40c6ceff",
+        "title": "California Gurls",
+        "date": "2010-06-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "28a8efeb-5a9e-4f7d-8c99-9b393053346d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "9b3e0566-844f-4b2c-b9a4-5acff33a9d51",
+        "title": "DJ.Andi Promotion 07/2010",
+        "date": "2010-07",
+        "country": "DE",
+        "status": "Promotion",
+        "release_group": "399660d5-9700-4e33-b17e-7af216ffe7c3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "21da2e66-6f51-4db7-8511-a5fe877a1e4c",
+        "title": "Best of 2010: Die Zweite",
+        "date": "2010-07-01",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "48d61d27-f666-4c55-b189-e14ccf5aba85",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "99cb80cc-32c1-4eb2-8d93-f212ab5393f4",
+        "title": "Hits July 10",
+        "date": "2010-07-01",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "10d6e2f3-16d0-48cf-9936-75e292c5e060",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a2a8a444-fd42-4a08-908f-557d36cdc267",
+        "title": "100% Top 40",
+        "date": "2010-07-02",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "202eb38d-eb19-4d7e-a07f-73803bfdd349",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d559db9d-5fe4-47ee-aaf6-c3fb5c3c65ee",
+        "title": "Radio 538: Hitzone 54",
+        "date": "2010-07-09",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "e677a7c8-c4e8-445e-acc3-9e35351f59cd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f163d6a5-5870-4e56-bd79-a26b0359f337",
+        "title": "Club Anthems 2010",
+        "date": "2010-07-12",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "d45162c7-0cee-4477-ac51-62e689086b14",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a6d9508f-509e-3371-9b31-b98c064dafa6",
+        "title": "Now That’s What I Call Music! 76",
+        "date": "2010-07-19",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "bcbc32d6-e7a4-42e3-b1fc-0731cb36db54",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5bbe21f6-3309-4e5c-b375-53365d98c3d6",
+        "title": "Now That’s What I Call Music! 76",
+        "date": "2010-07-19",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "bcbc32d6-e7a4-42e3-b1fc-0731cb36db54",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c9ed209e-bb91-4a59-9068-ef1d51e469d5",
+        "title": "Bravo Hits 70",
+        "date": "2010-07-30",
+        "country": "CH",
+        "status": "Official",
+        "release_group": "11646ba9-9c5c-4038-8a92-37b079c0a81e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ad48e45c-770d-469f-868f-31acc5a687bb",
+        "title": "Bravo Hits 70",
+        "date": "2010-07-30",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "11646ba9-9c5c-4038-8a92-37b079c0a81e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "406f7b27-8ce5-4c4b-ae6a-332d4d873048",
+        "title": "NRJ Extrava Dance 2010",
+        "date": "2010-08-02",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "d8fb0bc3-7389-4c16-b9cc-15f8678f39df",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3486bc5b-93c2-4e3f-b3c0-d34a665882a9",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8b5e89a7-b768-4a62-99f5-2c759898cb95",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d610e36f-aae9-4703-9a9b-355c9e8de6c7",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e7d98581-cb23-43ed-ac32-d1dc1bd44eb3",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2a666025-eb7c-3cc2-bd76-4fbd80487395",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c83e1420-66a4-4e1c-868c-1251df886564",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": null,
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "73666351-3877-4a93-9b35-07ed4296a2c1",
+        "title": "Teenage Dream",
+        "date": "2010-08-24",
+        "country": "BS",
+        "status": "Official",
+        "release_group": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+        "primary_type": "Album",
         "secondary_types": []
       }
     ],

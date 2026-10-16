@@ -1,6 +1,6 @@
 {
   "id": "2000-he-wasnt-man-enough",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "He Wasn't Man Enough",
   "wikidata": {
     "qid": "Q838274",
@@ -78,12 +78,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group d41aec99-53cc-3cfb-84f3-3492b21480fb (2000-04-17)",
+  "musicbrainz_match": "single release group d41aec99-53cc-3cfb-84f3-3492b21480fb (2000-04-17); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "dda83fcc-dc68-4da9-aa25-1a48e127a7ad",
+    "recording_id": "435006d2-aaad-4e03-9f3e-f2e5040b94f9",
     "title": "He Wasn’t Man Enough",
-    "length_ms": 240800,
-    "first_release_date": "1999",
+    "length_ms": 262000,
+    "first_release_date": "2000-03",
     "artist_credit": "Toni Braxton",
     "artists": [
       {
@@ -92,314 +92,381 @@
       }
     ],
     "isrcs": [
-      "USLF20000048"
+      "USLF20000020"
     ],
-    "recording_credits": [],
-    "urls": [],
+    "recording_credits": [
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Fred Jerkins",
+        "mbid": "bc37c604-a619-4ca8-a0f2-44ae1e2c8cc2"
+      },
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Rodney Jerkins",
+        "mbid": "5c882e22-3467-4cc3-8c77-6595288f3b39"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "LaShawn Daniels",
+        "mbid": "08f6e184-8da3-4715-a299-33e278087082"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Rodney Jerkins",
+        "mbid": "5c882e22-3467-4cc3-8c77-6595288f3b39"
+      },
+      {
+        "role": "vocal arranger",
+        "attributes": [],
+        "name": "LaShawn Daniels",
+        "mbid": "08f6e184-8da3-4715-a299-33e278087082"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/2y0ooB1i392H682N58zE1D"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/3UqThEVDxwofqNuqu1v2hF"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3172617191"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3260308251"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1799757622"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1799757622"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/409692730"
+      }
+    ],
     "genres": [
+      "ballad",
       "contemporary r&b",
+      "electronic",
+      "hip hop",
       "pop",
       "r&b",
       "soul"
     ],
     "tags": [
-      "contemporary r&b",
       "r&b",
-      "soul",
       "pop",
+      "soul",
+      "contemporary r&b",
       "r b",
-      "urban soul"
+      "ballad",
+      "electronic",
+      "hip hop",
+      "urban soul",
+      "vocal"
     ],
     "releases": [
       {
-        "id": "3e2078c1-47f0-47c9-bac5-74c06e2c9564",
-        "title": "Hit Machine 28",
-        "date": "1999",
-        "country": "AU",
+        "id": "521b8cd3-5ad4-410a-8ac4-6eafea1f26c6",
+        "title": "Absolute Music 32",
+        "date": "2000",
+        "country": "NO",
         "status": "Official",
-        "release_group": "659948d3-e114-3239-a4fe-fa230617e1aa",
+        "release_group": "499c288c-b037-4126-9f98-322e17715e80",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "9d280ff4-2985-4018-ba22-c01baa07e8e4",
-        "title": "Absolute Hits:3",
+        "id": "aaeccea5-9665-4c0f-8fdb-f8acb53e800a",
+        "title": "Euro Top Pop Lighthouse Party, Vol 3",
         "date": "2000",
-        "country": "FI",
-        "status": "Official",
-        "release_group": "a5c8ba2d-8e0e-36be-b00a-5e5662ba05e6",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "1294f0e0-3169-426e-9ae7-e5dd3ff7cf73",
-        "title": "Absolute Music 24",
-        "date": "2000",
-        "country": "DK",
-        "status": "Official",
-        "release_group": "1a55937a-43e0-4bf0-8a62-3146a81e2be5",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "df28ab28-c554-49ef-91ca-95d17b91d0b3",
-        "title": "Best of 2000",
-        "date": "2000",
-        "country": "NL",
-        "status": "Official",
-        "release_group": "5d74cabd-64a2-4c5a-95da-31732699b18a",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "667dbd87-c34a-4e96-9b66-5de75cc873e6",
-        "title": "CoolSweat 5",
-        "date": "2000",
-        "country": "BE",
-        "status": "Official",
-        "release_group": "84e33b91-2615-305d-9f19-201e048cb250",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "cecdc78b-7175-44c1-a49f-0ea7048a2939",
-        "title": "Double Serious Hits 2000 Volume 5",
-        "date": "2000",
-        "country": "NL",
+        "country": "RU",
         "status": "Bootleg",
-        "release_group": "1aa51afd-969a-42c1-b472-4b631bae2d7f",
+        "release_group": "46ea1045-4b4e-4b25-94df-626779b961ae",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "7c7feb50-f443-447b-a15f-7cccae16cb49",
-        "title": "Encore plus de tubes 2000",
-        "date": "2000",
-        "country": "FR",
-        "status": "Official",
-        "release_group": "6b4029d9-c675-49a8-87c8-53f5b9de0a93",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "19af685f-a9d5-4ec2-b444-69282f13600a",
+        "id": "43976c0c-0fb6-4425-ae12-a9f8d29960f2",
         "title": "He Wasn't Man Enough",
         "date": "2000",
-        "country": "XE",
+        "country": "US",
         "status": "Official",
         "release_group": "d41aec99-53cc-3cfb-84f3-3492b21480fb",
         "primary_type": "Single",
         "secondary_types": []
       },
       {
-        "id": "d6b3ab09-180e-493c-996d-c6342cc9f110",
-        "title": "Hit Club 2000.3",
+        "id": "7d9742bd-13e6-4305-812f-a4601bfd54a8",
+        "title": "Het beste uit de Mega Top 100: 2000",
         "date": "2000",
-        "country": "BE",
-        "status": "Official",
-        "release_group": "cbda2c0d-5f2f-3a7a-8c74-a6b46949548d",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "6b6e5025-e4f8-4291-a5af-32beadb2e840",
-        "title": "Hit Club: Very Best 2000",
-        "date": "2000",
-        "country": "BE",
-        "status": "Official",
-        "release_group": "7501bba9-778a-4236-a726-7476a6e1839a",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "728a9258-537d-4e02-b623-e6a4057e62ce",
-        "title": "Mr Music Hits 7. 2000",
-        "date": "2000",
-        "country": "SE",
-        "status": "Official",
-        "release_group": "591076ad-0dac-42fa-b47b-b78348734106",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "edcaebf8-547f-4498-b7ec-b8c6aa8f7681",
-        "title": "Sister Groove 3",
-        "date": "2000",
-        "country": "FR",
-        "status": "Official",
-        "release_group": "a1f0a26d-3a89-45a6-bd14-b926bd307eb7",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "1c4433d2-7630-4507-9d4c-afb3e0b7f6b7",
-        "title": "He Wasn’t Man Enough",
-        "date": "2000-04-17",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "d41aec99-53cc-3cfb-84f3-3492b21480fb",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "a6cf555f-2546-4d7f-b9a6-b3325924b63f",
-        "title": "Hit Explosion 2000, Vol. 5",
-        "date": "2000-05",
         "country": "NL",
-        "status": "Bootleg",
-        "release_group": "bc1a9a9f-1476-420e-ad80-99be8a13d0f1",
+        "status": "Official",
+        "release_group": "2f15e2cd-d373-35de-993f-7141ab2843a8",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "3d01300f-7645-4982-afeb-bf65837881b9",
-        "title": "He Wasn’t Man Enough",
-        "date": "2000-05-23",
+        "id": "73295e61-d9bc-46db-9d15-e8874c8532ac",
+        "title": "max 7",
+        "date": "2000",
+        "country": "ID",
+        "status": "Official",
+        "release_group": "16976acd-d5e3-473f-8a0a-c979b7a32c14",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ef95635b-47fb-423e-9ce4-0d9ee271803e",
+        "title": "The Heat",
+        "date": "2000",
         "country": "XE",
         "status": "Official",
-        "release_group": "d41aec99-53cc-3cfb-84f3-3492b21480fb",
-        "primary_type": "Single",
+        "release_group": "f0fbefee-5f2f-3995-89d7-2c6db5ed69ca",
+        "primary_type": "Album",
         "secondary_types": []
       },
       {
-        "id": "714ea9ad-70d8-425b-9b68-15cda9c0a375",
-        "title": "Radioactivity Volume 00-06",
-        "date": "2000-06",
-        "country": "AU",
+        "id": "67b06837-a983-48b5-8124-b05ddb4e5a29",
+        "title": "Totally Hits 3",
+        "date": "2000",
+        "country": "US",
+        "status": "Official",
+        "release_group": "50d50768-7f91-3c87-ac34-f1067f875fc8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b0b93e00-fb4e-4d58-acc8-9270d060f3e9",
+        "title": "Promo Only: Mainstream Radio, April 2000",
+        "date": "2000-03",
+        "country": "US",
         "status": "Promotion",
-        "release_group": "07057a15-8d89-45da-b77b-6963428a7d97",
+        "release_group": "5afc76e8-1be8-3c25-9d38-696c875ab07c",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "54a4224a-bd3e-41db-8ed0-4515e10748e4",
-        "title": "TMF Hitzone 11",
-        "date": "2000-07-14",
-        "country": "NL",
+        "id": "da5b40b8-e078-48e0-be57-20d9d8cfd027",
+        "title": "The Heat",
+        "date": "2000-04-25",
+        "country": "US",
         "status": "Official",
-        "release_group": "6294bdff-c4dc-31d0-81ae-d161b060b325",
+        "release_group": "f0fbefee-5f2f-3995-89d7-2c6db5ed69ca",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "51d48ba2-d179-4c3a-b474-f422bd75e2c9",
-        "title": "Just the Best 3/2000",
-        "date": "2000-08-04",
-        "country": "DE",
+        "id": "4f2127f8-9d06-49fb-8e03-d8d650722f1e",
+        "title": "The Heat",
+        "date": "2000-04-25",
+        "country": "JP",
         "status": "Official",
-        "release_group": "9fdc40b1-353e-3798-b6f2-fb5bcf6947ae",
+        "release_group": "f0fbefee-5f2f-3995-89d7-2c6db5ed69ca",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "6c7931d9-bcdd-4d8d-8085-8addd27b83f3",
-        "title": "New Woman: Summer 2000",
-        "date": "2000-08-07",
+        "id": "3bfc4bff-b6b6-491c-87d3-2680143843d9",
+        "title": "Street Vibes 5",
+        "date": "2000-06-10",
         "country": "GB",
         "status": "Official",
-        "release_group": "0c9818a0-eb09-30b1-b85d-16361a6b7259",
+        "release_group": "b31ee89d-6842-361f-90dd-dea61a5c3b9b",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "87e0c5fb-9ca6-4e0b-b633-ce254d3129e3",
-        "title": "Absolute Music 34",
-        "date": "2000-08-24",
-        "country": "SE",
+        "id": "63e43209-69f6-4a4f-bfb2-fc3ba85d1154",
+        "title": "Fresh Hits, Volume 1",
+        "date": "2000-07-03",
+        "country": "GB",
         "status": "Official",
-        "release_group": "9f007e22-48f7-3cbc-ae70-8a6b69d93f26",
+        "release_group": "4f22b612-0773-3f7a-8068-b530d9f19b0e",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "db93d487-c3de-427b-bfe3-263dc5e743a4",
-        "title": "Power Hits 10",
-        "date": "2000-09-26",
-        "country": "FR",
+        "id": "5cb5db33-d6f0-4e2b-823b-5c11cc9723f7",
+        "title": "Huge Hits 2000",
+        "date": "2000-10-23",
+        "country": "GB",
         "status": "Official",
-        "release_group": "b23a02ab-b0ea-4632-98bf-22926f73223c",
+        "release_group": "f6b23d49-b3d4-3be5-b804-8334c2e2c925",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "d07e52c3-41d7-4d98-8c12-6e47f6b2152e",
-        "title": "Touch My Soul: The Finest of Black Music, 3/2000",
-        "date": "2000-10-06",
-        "country": "DE",
+        "id": "67bd102f-70fb-42da-b0ea-cebdd3791dad",
+        "title": "max 7",
+        "date": "2000-12",
+        "country": "KR",
         "status": "Official",
-        "release_group": "8556c168-66e0-3769-9496-bba6d7f58d53",
+        "release_group": "16976acd-d5e3-473f-8a0a-c979b7a32c14",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "b6d9da49-375b-46e1-bf4d-8b4f669bdb9a",
+        "id": "9e1fad6c-5e01-45c0-916d-2f8f22e49ffd",
+        "title": "Soul Food: The Series: The Best R&B of 2000",
+        "date": "2000-12-05",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c12e674e-d653-3a97-aa8d-282c58507ea6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a0f6c69f-de9d-463c-8b82-2fee1d959e08",
+        "title": "21st Century Soul",
+        "date": "2001",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "1790d6e2-fef5-4160-838a-706ee24e8686",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d5b738ed-cf5b-4070-9922-e20fe9e85ab8",
         "title": "Absolute R&B",
-        "date": "2000-10-25",
-        "country": "SE",
+        "date": "2001",
+        "country": "NO",
         "status": "Official",
-        "release_group": "222eb577-003a-37d0-8a64-58b58f1422fa",
+        "release_group": "26abdd8b-0744-482b-b830-067b7f1294b6",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "8a04fbe2-abdf-42fb-bcac-0b21ce42fef0",
-        "title": "TMF Hitzone: Best of 2000",
-        "date": "2000-11-24",
-        "country": "NL",
-        "status": "Official",
-        "release_group": "0d6cdd6e-c2cf-35fd-8d7e-b22e7eb9cf10",
-        "primary_type": "Album",
+        "id": "b05afd10-5b44-4ddb-8d5c-270f5a09815f",
+        "title": "Music Collection",
+        "date": "2001",
+        "country": null,
+        "status": "Bootleg",
+        "release_group": "6cfd96b7-009b-41f0-855f-c2f53e250517",
+        "primary_type": "Other",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "c626f123-6000-4f92-82c7-59a6458551b3",
-        "title": "Massive Dance 2001",
-        "date": "2000-11-27",
+        "id": "9fc4082a-649a-46cf-8d1d-2133ed0798c3",
+        "title": "No Sweat 13",
+        "date": "2001",
         "country": "GB",
         "status": "Official",
-        "release_group": "96656661-bd00-3a70-a7ec-90ad445dc6e1",
+        "release_group": "53ae5cea-4a90-4e1c-80ec-bba6df41cd17",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "177e6aef-8777-4223-994c-4e7ed59e2428",
+        "title": "Tunes for Your Space",
+        "date": "2001",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f5836f5a-f0f3-445f-8a20-ae8da3f948bb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8a3a6655-5509-4a19-a278-66212fea9a39",
+        "title": "Woman III",
+        "date": "2001",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "b328c33c-c7c5-403d-85b9-310167135a50",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a804f1fa-5ee5-49fc-b66c-9fb864201036",
+        "title": "Grammy R&B & Rap Nominees 2001",
+        "date": "2001-02-06",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e382213c-08e6-38bd-99a1-bbc70f631295",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2b218449-68cc-4ce6-a61b-c8a0c2548e86",
+        "title": "Funky Divas: The Very Best in Soul, Dance and R&B",
+        "date": "2001-06-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a83d44fb-63c3-3b9d-b998-d97e1ee0e732",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d591c7f5-94a9-4436-8729-2d94624cd152",
+        "title": "Girls Night Out",
+        "date": "2002-03-05",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "1d821231-7d0f-3f2e-ae80-c6aa02d925a1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "66780edb-10f3-4fed-8960-0923e7dda733",
+        "title": "Bad Girls",
+        "date": "2002-10-07",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "31943c63-861f-3bb4-a85f-511ec1017914",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

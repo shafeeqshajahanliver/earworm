@@ -1,0 +1,41 @@
+{
+  "id": "1971-maggie-may",
+  "lyrics_kind": "synced",
+  "lrclib_id": 37493835,
+  "lines": 37,
+  "words": 298,
+  "unique_words": 134,
+  "type_token_ratio": 0.45,
+  "repeated_line_share": 0.135,
+  "distinct_lines": 32,
+  "zlib_compression_ratio": 0.419,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "maggie may",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 41,
+    "second": 25,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 45.94,
+  "last_line_s": 312.21,
+  "sung_time_s": 192.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 93.1,
+  "words_per_minute_track": 51.5,
+  "longest_gap_between_lines_s": 56.34,
+  "longest_gap_starts_at_s": 255.87,
+  "first_repeated_block": {
+    "first_at_s": 70.36,
+    "recurs_at_s": 114.86,
+    "lines": [
+      "Oh Maggie, I couldn't have tried anymore",
+      "You led me away from home"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 37493835",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

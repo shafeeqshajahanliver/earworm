@@ -1,0 +1,62 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37093982,
+  "kind": "synced",
+  "matched": {
+    "track": "7 Rings",
+    "artist": "Ariana Grande",
+    "album": "Wiosna 2019 Disc 1",
+    "duration_s": 181.0
+  },
+  "duration_matched_to": "musicbrainz recording length (184s)",
+  "duration_diff_s": 3.0,
+  "reference_lengths": [
+    {
+      "seconds": 184.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 178.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 178.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 4,
+  "agreement_with_other_candidates": 0.995,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 36977548 (7 Rings / Ariana Grande / Billboard Top 100 Hits Of 2019, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 37499302 (7 rings / Ariana Grande / Black, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 37386232 (7 rings / Ariana Grande / 2019 Top100 Jahrescharts, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 37406591 (7 Rings / Ariana Grande / The Complete UK Number 1 Singles: 2019, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 36854307 (7 rings / Ariana Grande / 7 rings, 173.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 34410985 (7 rings / Ariana Grande / NOW 100 Hits: Decade (2010s) (disc 5: 2016-2019), 178.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 34712290 (7 RINGS / Ariana Grande / THANK U, NEXT 🅴, 178.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 34637819 (7 RINGS / Ariana Grande / Thank You, Next, 202.0s): duration matches no reference length",
+    "lrclib 35090383 (7 rings / Ariana Grande / 2.9B plays, 178.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 35090385 (7 rings / Ariana Grande / 2.9B plays, 177.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 33581701 (7 Rings / Ariana Grande / De Complete Top 40 2019, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 36095995 (7 Rings / Ariana Grande / Top 100 Van 2019, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 36323963 (7 rings / Ariana Grande / Sweetener, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 35881425 (7 rings / Ariana Grande / Remember...the 2010s, 178.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 35873488 (7 rings / Ariana Grande / Every UK Number 1 Single - 1952-2026, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 35897870 (7 rings / Ariana Grande / thank u, next, 50.0s): duration matches no reference length",
+    "lrclib 35915256 (7 rings / Ariana Grande / thank u, next, 104.0s): duration matches no reference length",
+    "lrclib 35977068 (7 rings / Ariana Grande / YouTube, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 18093472 (7 rings / Ariana Grande / Ariana Grande, 179.307708s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 27316451 (7 Rings / Ariana Grande / Ariana Grande Essentials, 178.729796s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 12509973 (7 rings / Ariana Grande / 100% Ariana Grande, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 15360622 (7 rings / Ariana Grande / Ariana Grande Videos, 179.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 14244525 (7 rings (dream & sheezo remix) / ariana grande / ariana grande - 7 rings (dream & sheezo remix), 205.0s): live/remix/other version",
+    "lrclib 15561132 (7 rings (Official Audio) / Ariana Grande / Ariana Grande, 180.0s): only 0% of title words in the lyric (wrong song?)"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

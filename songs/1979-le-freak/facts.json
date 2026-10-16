@@ -1,6 +1,6 @@
 {
   "id": "1979-le-freak",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Le Freak",
   "wikidata": {
     "qid": "Q1671090",
@@ -74,12 +74,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group f737db4d-5407-3ab7-ae3d-5a157fb8732d (1978)",
+  "musicbrainz_match": "single release group f737db4d-5407-3ab7-ae3d-5a157fb8732d (1978); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "57acbd93-8745-430e-9c35-4b4c20b3c5d8",
+    "recording_id": "9ce90b67-8ac5-472a-a97f-2291ab43bf74",
     "title": "Le Freak",
-    "length_ms": 329973,
-    "first_release_date": "1978-11-08",
+    "length_ms": 212426,
+    "first_release_date": "1978",
     "artist_credit": "Chic",
     "artists": [
       {
@@ -88,371 +88,317 @@
       }
     ],
     "isrcs": [
-      "USAT20400864",
-      "USAT20615999",
-      "USAT21304256",
-      "USAT27800012",
-      "USRH11803129",
-      "USRH11803270"
+      "USAT20108541",
+      "USAT20901468",
+      "USRH11803157"
     ],
-    "recording_credits": [
-      {
-        "role": "arranger",
-        "attributes": [],
-        "name": "Bernard Edwards",
-        "mbid": "ba7ff664-5c64-4a62-a3e2-63445c1a25db"
-      },
-      {
-        "role": "arranger",
-        "attributes": [],
-        "name": "Nile Rodgers",
-        "mbid": "c6d571dd-c0ae-4ac8-9500-780b1b9b25e5"
-      },
-      {
-        "role": "conductor",
-        "attributes": [],
-        "name": "Bernard Edwards",
-        "mbid": "ba7ff664-5c64-4a62-a3e2-63445c1a25db"
-      },
-      {
-        "role": "conductor",
-        "attributes": [],
-        "name": "Nile Rodgers",
-        "mbid": "c6d571dd-c0ae-4ac8-9500-780b1b9b25e5"
-      },
-      {
-        "role": "producer",
-        "attributes": [],
-        "name": "Bernard Edwards",
-        "mbid": "ba7ff664-5c64-4a62-a3e2-63445c1a25db"
-      },
-      {
-        "role": "producer",
-        "attributes": [],
-        "name": "Nile Rodgers",
-        "mbid": "c6d571dd-c0ae-4ac8-9500-780b1b9b25e5"
-      }
-    ],
-    "urls": [
-      {
-        "type": "free streaming",
-        "url": "https://music.youtube.com/watch?v=RAYQTfFh4xk"
-      },
-      {
-        "type": "free streaming",
-        "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
-      },
-      {
-        "type": "free streaming",
-        "url": "https://www.deezer.com/track/589735352"
-      },
-      {
-        "type": "free streaming",
-        "url": "https://www.youtube.com/watch?v=RAYQTfFh4xk"
-      },
-      {
-        "type": "purchase for download",
-        "url": "https://open.qobuz.com/track/56433049"
-      },
-      {
-        "type": "streaming",
-        "url": "https://open.qobuz.com/track/56433049"
-      },
-      {
-        "type": "streaming",
-        "url": "https://tidal.com/track/98886385"
-      }
-    ],
+    "recording_credits": [],
+    "urls": [],
     "genres": [
+      "dance",
       "disco",
-      "funk",
-      "rock"
+      "house",
+      "pop",
+      "r&b"
     ],
     "tags": [
       "disco",
-      "funk",
-      "rock"
+      "pop",
+      "dance",
+      "happy",
+      "house",
+      "r&b"
     ],
     "releases": [
       {
-        "id": "2609386e-29fe-4917-8cb5-866c810bcb9b",
-        "title": "C’est Chic",
-        "date": "1978",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "db46b19c-0e97-30de-ba53-7e823104d14a",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "5acf3319-b7f7-45e9-b6c3-2fbeb24f11d5",
-        "title": "C’est Chic",
-        "date": "1978",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "db46b19c-0e97-30de-ba53-7e823104d14a",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "738ed2db-9b4a-4035-a9e1-465b636a44e8",
-        "title": "C’est Chic",
-        "date": "1978",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "db46b19c-0e97-30de-ba53-7e823104d14a",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "2878eb9b-2d4c-429e-ba2f-ce61bf1c11a8",
+        "id": "b3b18556-69b9-457e-b03e-911a310e57a0",
         "title": "Le Freak / Savoir Faire",
         "date": "1978",
-        "country": "DE",
+        "country": "US",
         "status": "Official",
         "release_group": "f737db4d-5407-3ab7-ae3d-5a157fb8732d",
         "primary_type": "Single",
         "secondary_types": []
       },
       {
-        "id": "ee5e159b-b73f-4ecf-8857-5f363bf9ac61",
-        "title": "C’est Chic",
-        "date": "1978-11-08",
-        "country": "US",
-        "status": "Official",
-        "release_group": "db46b19c-0e97-30de-ba53-7e823104d14a",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "228d2f3b-690b-3001-9a40-c7830a517f5c",
-        "title": "C’est Chic",
-        "date": "1990-08-28",
-        "country": "JP",
-        "status": "Official",
-        "release_group": "db46b19c-0e97-30de-ba53-7e823104d14a",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "7d2943a0-2b7b-4676-893c-6b2bac3270d9",
-        "title": "Atlantic & Atco Remasters Series Sampler Two",
-        "date": "1991",
-        "country": "US",
-        "status": "Promotion",
-        "release_group": "9c72442c-4322-43de-959b-c946023d3d79",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "f78c1471-8980-414b-b534-523110717d17",
-        "title": "Dance, Dance, Dance",
-        "date": "1991",
-        "country": "JP",
-        "status": "Official",
-        "release_group": "87c67333-c00e-3502-88a8-cb75ec4a618a",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "9c069a72-abbf-4729-b721-dd31fb4c6bc5",
-        "title": "Dance, Dance, Dance: The Best of Chic",
-        "date": "1991",
-        "country": "AU",
-        "status": "Official",
-        "release_group": "87c67333-c00e-3502-88a8-cb75ec4a618a",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "0908934c-8237-4bcd-9670-3ca66656a4b7",
-        "title": "Dance, Dance, Dance: The Best of Chic",
-        "date": "1991-11-05",
-        "country": "US",
-        "status": "Official",
-        "release_group": "87c67333-c00e-3502-88a8-cb75ec4a618a",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "304ef11f-2c99-4402-ab51-350260dbeae7",
-        "title": "Dance, Dance, Dance: The Best of Chic",
-        "date": "1991-11-05",
-        "country": "US",
-        "status": "Official",
-        "release_group": "87c67333-c00e-3502-88a8-cb75ec4a618a",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "a11b2c99-fb7b-46cc-a109-8cc60c839a3f",
-        "title": "The Best of Chic, Vol. 1&2",
-        "date": "1992",
+        "id": "81449e93-865c-460f-a666-f50f833f71b9",
+        "title": "Le Freak / Savoir Faire",
+        "date": "1978",
         "country": "XE",
         "status": "Official",
-        "release_group": "6ddac5d5-d5af-4241-b9aa-969cabac0477",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "release_group": "f737db4d-5407-3ab7-ae3d-5a157fb8732d",
+        "primary_type": "Single",
+        "secondary_types": []
       },
       {
-        "id": "e2e87938-0356-44f6-950b-3e8acd794827",
-        "title": "The Best of the Best (30 Years of No1 Hits)",
-        "date": "1992",
-        "country": "GR",
+        "id": "5fa8fd21-47f0-4ea3-b2a8-65b06e79ed1d",
+        "title": "Les Plus Grands Succes De Chic (Chic’s Greatest Hits)",
+        "date": "1979",
+        "country": "DE",
         "status": "Official",
-        "release_group": "4e0dae0b-2827-4f53-9b7b-e6dfa5478b42",
+        "release_group": "5bf5c488-95e0-4c97-9576-8cb7da84149a",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "0fe8b085-2f82-4c86-86a1-69e1d040b50a",
-        "title": "C’est Chic",
-        "date": "1992-09",
+        "id": "d269e138-60a7-43ef-8081-e2bb5a7f1e74",
+        "title": "A Night at Studio 54",
+        "date": "1979-06-25",
         "country": "US",
         "status": "Official",
-        "release_group": "db46b19c-0e97-30de-ba53-7e823104d14a",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "aca6675a-79e4-44fa-aa6a-ac6d4a5c5d24",
-        "title": "Absolute Disco 1",
-        "date": "1993",
-        "country": "NZ",
-        "status": "Official",
-        "release_group": "48ae8d2d-be1c-3d6c-b580-9e70d8e72fc4",
+        "release_group": "ee9eca68-2fea-4f00-9f92-8dfd8584aa52",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "c08efc72-87a3-4126-9f1f-20386cc083b9",
-        "title": "C'est Chic",
-        "date": "1993",
-        "country": "DE",
+        "id": "9ac267a1-9af1-43aa-8eae-bc0dbb77a696",
+        "title": "Solid Gold",
+        "date": "1981",
+        "country": "AU",
         "status": "Official",
-        "release_group": "db46b19c-0e97-30de-ba53-7e823104d14a",
-        "primary_type": "Album",
-        "secondary_types": []
-      },
-      {
-        "id": "4bfbc74c-e64f-432c-adc7-88c803c955b1",
-        "title": "Veronica Drive-In Show: The Dance Hits",
-        "date": "1993",
-        "country": "NL",
-        "status": "Official",
-        "release_group": "e2007808-da08-4f8d-9f73-ee6bd46a9d04",
+        "release_group": "5447812d-1a4c-4ce0-987b-3554d75d84d3",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "2618e7de-d971-4e43-941b-d62f4d76f080",
-        "title": "L'America del rock 10: La febbre del sabato sera",
-        "date": "1994",
-        "country": "IT",
-        "status": "Official",
-        "release_group": "5dbf83e7-e029-4006-8ea2-b71e8c0901f1",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "1fefed10-2d51-3951-a82c-b753cf4c8f12",
-        "title": "The 70's Collection: 1978 - Back in the Groove",
-        "date": "1994",
+        "id": "caebe8c1-f949-4036-9320-8f4cc22195c7",
+        "title": "Freak Out: The Greatest Hits of Chic and Sister Sledge",
+        "date": "1987",
         "country": "GB",
         "status": "Official",
-        "release_group": "8d2e3257-80ec-32c7-93bc-4288211086d5",
+        "release_group": "48abce24-505d-3546-b1c9-7694228abe4f",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "63de82a9-5253-408d-b054-92a8757ea2bd",
-        "title": "The 70’s: 1978: Back in the Groove",
-        "date": "1994",
-        "country": "DE",
+        "id": "3d99d1d0-e1fb-4910-8a9b-a0f2f92cf6c8",
+        "title": "Freak Out: The Greatest Hits of Chic and Sister Sledge",
+        "date": "1987",
+        "country": "GB",
         "status": "Official",
-        "release_group": "8d2e3257-80ec-32c7-93bc-4288211086d5",
+        "release_group": "48abce24-505d-3546-b1c9-7694228abe4f",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "03300846-f4c6-4136-8bfb-715223e42bb0",
-        "title": "Let’s Go Disco 2",
-        "date": "1994-11-08",
+        "id": "7b4a612f-d110-4a28-afa3-570606bac773",
+        "title": "Freak Out: The Greatest Hits of Chic and Sister Sledge",
+        "date": "1987",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "48abce24-505d-3546-b1c9-7694228abe4f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b7dfac32-e936-480d-a270-87e7ee0c818f",
+        "title": "NRJ “Le Coffret”",
+        "date": "1987",
         "country": "FR",
         "status": "Official",
-        "release_group": "e17c802b-19a2-4030-9eda-a110463e6a89",
+        "release_group": "fcb63105-208b-4c6e-a105-0c1865d05f67",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "310311f3-33e7-4963-b480-b16e63642243",
-        "title": "Best Dance Music 1",
-        "date": "1995",
-        "country": "JP",
-        "status": "Official",
-        "release_group": "98e3ca41-b64f-3c22-bd40-c6fc6b06f453",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "af0e13ab-dd63-41fe-b959-5f4e58cbb858",
-        "title": "Flared Hits & Platform Soul",
-        "date": "1995",
+        "id": "e07691b8-9588-4c06-8141-91af5b4a9d81",
+        "title": "…and the Beat Goes On! 34 Dance Hits of the 70’s",
+        "date": "1988",
         "country": "GB",
         "status": "Official",
-        "release_group": "0434e92e-47fc-3875-bd96-82894c2aca76",
+        "release_group": "1a93099b-26f5-35d3-abc7-469bd2cd01f6",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "8f278879-b8db-4555-bad0-31f6a40cee4f",
-        "title": "Funkytown, Volume Two",
-        "date": "1995",
+        "id": "d6f37595-f57d-4211-bdd2-32a8d6d1fb54",
+        "title": "Dance Classics, Volume 3",
+        "date": "1988",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "7cffc32a-2be5-3646-9b1e-f2445d2ecf9b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "589055cf-62a8-4c2f-b4ca-996c6841ba23",
+        "title": "Freak Out: The Greatest Hits of Chic and Sister Sledge",
+        "date": "1988",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "48abce24-505d-3546-b1c9-7694228abe4f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "27256ddf-17ba-45be-aff5-ff5a86cd0ecd",
+        "title": "Stereoplay Special CD 35: Black Music",
+        "date": "1988",
         "country": "DE",
         "status": "Official",
-        "release_group": "b94fc683-53ca-419f-ba0e-71eb79950b8d",
+        "release_group": "74b87e97-09fe-35f7-b980-b2901a40c222",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "da8d720b-cfab-4898-999d-f3c40289e213",
-        "title": "Everybody Dance",
-        "date": "1995-01-24",
+        "id": "522d86a1-7e25-4ece-8b15-55eff4893b8d",
+        "title": "The Audio Collection, Volume 1",
+        "date": "1988",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "aace82a9-ba3c-4772-a0a5-c97a31ae6740",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b0f6cb38-bf60-4f74-a00a-ac88ddce5204",
+        "title": "25 Jaar Top 40 Hits, Deel 4: ’77–’80",
+        "date": "1989",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "726fce6f-8148-419b-acca-e720910aa281",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "37946f2d-3a6f-4bce-94fa-4b96d4e3ffd6",
+        "title": "Tanzen! Super Disco Night",
+        "date": "1989",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "cd72b5f6-901b-49f1-b276-95ced5ceb9b1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7bcb3c5f-d0ac-4e66-82e8-727b31e26f09",
+        "title": "Megachic",
+        "date": "1990",
+        "country": "FR",
+        "status": null,
+        "release_group": "a755edab-a5eb-47cb-9f41-e0943417c683",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "d357ffa1-c150-46ba-825e-a07eddf7ad52",
+        "title": "Mr Music Plus: Number Five",
+        "date": "1990",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "12f7306a-7a14-46f7-b3da-262aa3d3a406",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fa7b5979-1086-4a36-b2d6-5e0523dd8e5f",
+        "title": "Sounds of the Seventies: 1978",
+        "date": "1990",
         "country": "US",
         "status": "Official",
-        "release_group": "ba77eae7-e0d7-3373-903c-a684afc7ff7f",
+        "release_group": "10c0dc56-1021-3b0f-b69e-db3924cbb629",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "89c0c850-f8c3-462c-8fcc-4e6947ec9567",
+        "title": "Video Hits Classics",
+        "date": "1990",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "c6732484-548c-4d38-90ac-7147ed4cd557",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a0a2f067-3861-4d9e-b4e8-ee55da3bad21",
+        "title": "Best of Chic",
+        "date": "1990-08-20",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "0fa2cd6b-e096-34fb-a2f0-f4824a68fdf4",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b219ec00-75f0-4c49-9ae9-093ededbf15c",
+        "title": "Dance Classics Gold",
+        "date": "1991",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "ade252b5-3ae0-3483-8e81-6641afe0a99b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c98b7911-819e-4b12-b115-1116788144f5",
+        "title": "Dance Explosion: 50 Disco Hits From the 70’s",
+        "date": "1991",
+        "country": null,
+        "status": "Official",
+        "release_group": "3058f1b4-fd5d-3c30-815d-19717c960c83",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3177a9e3-6d6e-4f34-ba92-b07cfb6f74e3",
+        "title": "De Pre Historie 1978, Volume 1",
+        "date": "1991",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "1bd6cc6a-d624-374f-aa15-d64d263fef74",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c3d745ff-758b-4ec2-ad4f-9aab2f0175c4",
+        "title": "Mega Hits Dance Classics, Volume 10",
+        "date": "1991-10-22",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a4ed6470-7325-3344-b916-edb338d90f9c",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

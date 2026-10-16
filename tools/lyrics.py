@@ -103,7 +103,7 @@ def choose(song, cands, refs, albums=()):
                                                   c.get("albumName"), c.get("duration"))
         if not (title_ok(c.get("trackName", ""), song["title"]) and artist_ok(c.get("artistName", ""), song)):
             continue  # a different song or artist; not worth listing
-        if not clean_version("%s %s" % (c.get("trackName"), c.get("albumName"))):
+        if not clean_version("%s %s" % (c.get("trackName"), c.get("albumName")), song["title"]):
             rejected.append(tag + ": live/remix/other version")
             continue
         if c.get("instrumental"):
@@ -118,9 +118,14 @@ def choose(song, cands, refs, albums=()):
             continue
         text = c.get("plainLyrics") or plain_from_synced(c.get("syncedLyrics"))
         share = title_word_share(song["title"], text)
-        if share < 0.6:
-            rejected.append(tag + ": only %.0f%% of title words in the lyric (wrong song?)" % (share * 100))
-            continue
+        squashed = re.sub(r"[^a-z0-9]", "", title_phrase(song["title"])) in re.sub(r"[^a-z0-9]", "", text.lower())
+        if share < 0.6 and not squashed:
+            # titles that are never sung as written (Kill Bill, Tik Tok as "tick tock", 7 Rings):
+            # accept only when title, artist and a sourced length all agree closely
+            # (synced only: a plain-text entry for an instrumental once carried another song's words)
+            if not (c.get("syncedLyrics") and rm[2].startswith(("musicbrainz", "deezer track matched by ISRC")) and rm[1] <= 3):
+                rejected.append(tag + ": only %.0f%% of title words in the lyric (wrong song?)" % (share * 100))
+                continue
         n_refs = sum(abs(float(c.get("duration") or 0) - sec) <= 5 for sec, _ in refs)
         alb = norm(c.get("albumName"))
         album_tier = 0 if alb and (alb in albums or norm(song["title"]) in alb) else 1
@@ -254,6 +259,8 @@ def process(song):
     flags = []
     if agreement is not None and agreement < 0.5:
         flags.append("words differ a lot from other matching LRCLIB entries (median Jaccard %.2f)" % agreement)
+    if title_word_share(song["title"], text) < 0.6:
+        flags.append("title words barely appear in the lyric; accepted on matching title, artist and a sourced length")
     if not rm[2].startswith("musicbrainz"):
         flags.append("duration matched %s, not the MusicBrainz recording length (missing or another edit)" % rm[2])
     src = {

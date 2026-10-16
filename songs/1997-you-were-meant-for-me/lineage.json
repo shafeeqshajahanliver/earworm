@@ -1,0 +1,46 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/492476",
+    "title": "You Were Meant for Me",
+    "performer": "Jewel",
+    "is_original": true,
+    "first_release_date": "1995-02",
+    "releases": [
+      {
+        "title": "Pieces of You",
+        "uri": "https://api.secondhandsongs.com/release/42235",
+        "performer": "Jewel"
+      },
+      {
+        "title": "You Were Meant for Me",
+        "uri": "https://api.secondhandsongs.com/release/315041",
+        "performer": "Jewel"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 23,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/157509",
+    "title": "You Were Meant for Me",
+    "language": "English",
+    "writers": [
+      "Jewel",
+      "Steve Poltz"
+    ],
+    "original_performer": "Jewel",
+    "versions": 24,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Tudo passa",
+        "uri": "https://api.secondhandsongs.com/work/296510"
+      }
+    ]
+  }
+}

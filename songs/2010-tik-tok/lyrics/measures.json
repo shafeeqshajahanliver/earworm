@@ -1,0 +1,41 @@
+{
+  "id": "2010-tik-tok",
+  "lyrics_kind": "synced",
+  "lrclib_id": 2591835,
+  "lines": 61,
+  "words": 477,
+  "unique_words": 145,
+  "type_token_ratio": 0.304,
+  "repeated_line_share": 0.443,
+  "distinct_lines": 34,
+  "zlib_compression_ratio": 0.285,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "tik tok",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 31,
+    "second": 11,
+    "first_plural": 17
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 0.33,
+  "last_line_s": 192.38,
+  "sung_time_s": 195.4,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 146.4,
+  "words_per_minute_track": 142.4,
+  "longest_gap_between_lines_s": 4.72,
+  "longest_gap_starts_at_s": 103.67,
+  "first_repeated_block": {
+    "first_at_s": 31.63,
+    "recurs_at_s": 47.49,
+    "lines": [
+      "Don't stop, make it pop, DJ, blow my speakers up",
+      "Tonight, I'ma fight 'til we see the sunlight"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 2591835",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

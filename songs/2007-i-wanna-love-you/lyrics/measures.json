@@ -1,0 +1,41 @@
+{
+  "id": "2007-i-wanna-love-you",
+  "lyrics_kind": "synced",
+  "lrclib_id": 30519592,
+  "lines": 62,
+  "words": 577,
+  "unique_words": 195,
+  "type_token_ratio": 0.338,
+  "repeated_line_share": 0.242,
+  "distinct_lines": 47,
+  "zlib_compression_ratio": 0.33,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "i wanna love you",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 53,
+    "second": 82,
+    "first_plural": 2
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 2.19,
+  "last_line_s": 197.91,
+  "sung_time_s": 202.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 171.4,
+  "words_per_minute_track": 137.9,
+  "longest_gap_between_lines_s": 7.22,
+  "longest_gap_starts_at_s": 3.72,
+  "first_repeated_block": {
+    "first_at_s": 10.94,
+    "recurs_at_s": 59.13,
+    "lines": [
+      "I see you windin' and grindin' up on that pole",
+      "I know you see me lookin' at you and you already know"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 30519592",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

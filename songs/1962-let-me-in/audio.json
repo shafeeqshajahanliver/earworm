@@ -12,7 +12,7 @@
     "link": "https://music.apple.com/us/album/let-me-in-remastered/564566880?i=564567170&uo=4",
     "duration_matched_to": "wikipedia infobox length (187s)",
     "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
-    "retrieved": "2026-10-12",
+    "retrieved": "2026-10-16",
     "source": "itunes preview (kept only in _cache, not committed)"
   },
   "measures": {
@@ -55,7 +55,7 @@
     "onset_density_per_s": 4.277,
     "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
     "source": "computed from itunes preview 564567170",
-    "retrieved": "2026-10-12",
+    "retrieved": "2026-10-16",
     "confidence": "computed"
   },
   "deezer_metadata": null,

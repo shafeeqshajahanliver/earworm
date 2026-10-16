@@ -1,0 +1,59 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/46288",
+    "title": "My Love",
+    "performer": "Paul McCartney & Wings",
+    "is_original": true,
+    "first_release_date": "1973-03-23",
+    "releases": [
+      {
+        "title": "My Love",
+        "uri": "https://api.secondhandsongs.com/release/18356",
+        "performer": "Paul McCartney & Wings"
+      },
+      {
+        "title": "Red Rose Speedway",
+        "uri": "https://api.secondhandsongs.com/release/108274",
+        "performer": "Paul McCartney & Wings"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 145,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/46288",
+    "title": "My Love",
+    "language": "English",
+    "writers": [
+      "Linda McCartney",
+      "Paul McCartney"
+    ],
+    "original_performer": "Paul McCartney & Wings",
+    "versions": 146,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Meu amor",
+        "uri": "https://api.secondhandsongs.com/work/147974"
+      },
+      {
+        "title": "Mi amor",
+        "uri": "https://api.secondhandsongs.com/work/281046"
+      },
+      {
+        "title": "My Love",
+        "uri": "https://api.secondhandsongs.com/work/311504"
+      }
+    ]
+  }
+}

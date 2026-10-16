@@ -1,0 +1,63 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 15145909,
+  "kind": "synced",
+  "matched": {
+    "track": "The Three Bells",
+    "artist": "The Browns",
+    "album": "Three Bells",
+    "duration_s": 168.393313
+  },
+  "duration_matched_to": "musicbrainz recording length (167s)",
+  "duration_diff_s": 1.4,
+  "reference_lengths": [
+    {
+      "seconds": 167.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 167.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 167.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 8,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 37175821 (The Three Bells / The Browns / The Teen Years, 173.0s): duration matches no reference length",
+    "lrclib 37288676 (The Three Bells / The Browns / Billboard Top Hits, 172.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37418382 (The Three Bells / The Browns / Billboard Top 100 Hits 1959, 172.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37250685 (The Three Bells / The Browns / Nipper's Greatest Hits∶ The 50'S, Volume 1, 173.0s): duration matches no reference length",
+    "lrclib 36886604 (The Three Bells / The Browns / Billboard Year-End Hot 100 singles of 1959, 171.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34590726 (The Three Bells / The Browns / 100 Country Hits, 172.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34897624 (The Three Bells / The Browns / Love Me Tender, 171.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34897615 (The Three Bells / The Browns / Love Me Tender, 172.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34897626 (The Three Bells / The Browns / Love Me Tender, 175.0s): duration matches no reference length",
+    "lrclib 35194484 (The Three Bells / The Browns / Classic Country: 1950-1959 [2 CD] Disc 1, 173.0s): duration matches no reference length",
+    "lrclib 33841748 (The Three Bells / The Browns / 50 of the Most Loved Records of Your Life, 175.0s): duration matches no reference length",
+    "lrclib 34221733 (The Three Bells / The Browns / va-Pure 50s-cd 2, 172.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34128663 (The Three Bells / The Browns / Remember Great Old Doo Wop, Vol. 4, 176.0s): duration matches no reference length",
+    "lrclib 34197207 (The Three Bells / The Browns / 50's #1 Hits, 139.0s): duration matches no reference length",
+    "lrclib 23778279 (The Three Bells / The Browns / The Three Bells, 173.3538749s): duration matches no reference length",
+    "lrclib 13006220 (The Three Bells / The Browns / The Three Bells, 171.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 33169806 (The Three Bells / The Browns / The Three Bells - Single, 173.0s): duration matches no reference length",
+    "lrclib 15270501 (The Three Bells / The Browns / The Three Bells - Country Greats, 171.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 34294711 (The Three Bells (1959) / The Browns / The Three Bells - Single, 173.0s): duration matches no reference length",
+    "lrclib 14662384 (The Three Bells (Remastered) / The Browns / The Three Bells (Remastered), 171.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 15807964 (The Three Bells / The Browns / The Three Bells (2 of 8), 173.113469s): duration matches no reference length",
+    "lrclib 24305480 (The Three Bells / The Browns / The Three Bells (Bear Family Box Set), 173.0s): duration matches no reference length",
+    "lrclib 37841985 (The Three Bells / Browns / Browns, 172.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 30876503 (The Three Bells / The Browns / Sweet Sounds By The Browns, 172.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36708358 (The Three Bells (Les trois cloches) / The Browns / The Essential Jim Ed Brown & The Browns, 174.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

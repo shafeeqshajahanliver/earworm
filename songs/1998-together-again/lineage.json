@@ -1,0 +1,42 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/472038",
+    "title": "Together Again",
+    "performer": "Janet Jackson",
+    "is_original": true,
+    "first_release_date": "1997-10-07",
+    "releases": [
+      {
+        "title": "The Velvet Rope",
+        "uri": "https://api.secondhandsongs.com/release/662",
+        "performer": "Janet Jackson"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 16,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/155509",
+    "title": "Together Again",
+    "language": "English",
+    "writers": [
+      "Jimmy Jam",
+      "Janet Jackson",
+      "Terry Lewis"
+    ],
+    "original_performer": "Janet Jackson",
+    "versions": 17,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Barbie Dreams",
+        "uri": "https://api.secondhandsongs.com/work/299133"
+      }
+    ]
+  }
+}

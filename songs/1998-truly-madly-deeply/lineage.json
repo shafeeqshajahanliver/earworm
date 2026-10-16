@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/57358",
+    "title": "Truly Madly Deeply",
+    "performer": "Savage Garden",
+    "is_original": true,
+    "first_release_date": "1997-11",
+    "releases": [
+      {
+        "title": "Truly Madly Deeply",
+        "uri": "https://api.secondhandsongs.com/release/23128",
+        "performer": "Savage Garden"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 39,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/57358",
+    "title": "Truly Madly Deeply",
+    "language": "English",
+    "writers": [
+      "Daniel Jones [AU]",
+      "Darren Hayes"
+    ],
+    "original_performer": "Savage Garden",
+    "versions": 40,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "No fundo do coração",
+        "uri": "https://api.secondhandsongs.com/work/186862"
+      }
+    ]
+  }
+}

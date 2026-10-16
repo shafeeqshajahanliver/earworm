@@ -1,6 +1,6 @@
 {
   "id": "1997-wannabe",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Wannabe",
   "wikidata": {
     "qid": "Q418833",
@@ -79,11 +79,11 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group b50ee798-2b55-3c1b-9d67-f8d0d8395732 (1996-07-03)",
+  "musicbrainz_match": "single release group b50ee798-2b55-3c1b-9d67-f8d0d8395732 (1996-07-03); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "5db7328a-07fb-4d8a-9f71-683e212aa300",
-    "title": "Wannabe (Motiv 8 vocal slam mix)",
-    "length_ms": 380560,
+    "recording_id": "640be329-70ad-4353-9026-80d74e5e1966",
+    "title": "Wannabe",
+    "length_ms": 173000,
     "first_release_date": "1996-07-03",
     "artist_credit": "Spice Girls",
     "artists": [
@@ -93,28 +93,30 @@
       }
     ],
     "isrcs": [
-      "GBAAA9600333"
+      "GBAAA9600008"
     ],
     "recording_credits": [
       {
-        "role": "engineer",
-        "attributes": [],
-        "name": "Adrian Bushby",
-        "mbid": "7196ec86-bf2a-4055-a241-c0fb95e9376e"
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Matt Rowe",
+        "mbid": "9c0527f9-b616-494a-9d03-a30b89e81866"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Richard “Biff” Stannard",
+        "mbid": "b08593b7-1514-4f94-b8ee-1138480c58ad"
       },
       {
         "role": "mix",
         "attributes": [],
         "name": "Mark “Spike” Stent",
         "mbid": "141ec521-1e17-4807-9eec-a6f3c9f6f5bd"
-      },
-      {
-        "role": "producer",
-        "attributes": [
-          "additional"
-        ],
-        "name": "Steve Rodway",
-        "mbid": "b56ee25e-db05-4afd-b1de-99563ea84b6d"
       },
       {
         "role": "producer",
@@ -129,52 +131,229 @@
         "mbid": "b08593b7-1514-4f94-b8ee-1138480c58ad"
       },
       {
-        "role": "remixer",
+        "role": "programming",
         "attributes": [],
-        "name": "Motiv8",
-        "mbid": "53a4f2eb-742e-48ff-8d5b-bab60e78581d"
+        "name": "Matt Rowe",
+        "mbid": "9c0527f9-b616-494a-9d03-a30b89e81866"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Richard “Biff” Stannard",
+        "mbid": "b08593b7-1514-4f94-b8ee-1138480c58ad"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Adrian Bushby",
+        "mbid": "7196ec86-bf2a-4055-a241-c0fb95e9376e"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Patrick McGovern",
+        "mbid": "3b993456-5a2f-4410-8361-092f72a9828d"
       }
     ],
-    "urls": [],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=tscL_I2v7pU"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/6eIACPSux7Bu8NnVST8nvG"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/6VLJcYFRlulCaFz6rhExXQ"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/76Seh2YzC2QzAmXmy9IJuO"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2135230037"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2319591265"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/433974409"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/6788859368"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/274871656"
+      }
+    ],
     "genres": [
       "ballad",
+      "dance",
+      "dance-pop",
       "disco",
       "electronic",
+      "euro house",
       "europop",
+      "hip hop",
+      "house",
+      "indie rock",
+      "latin",
       "pop",
+      "rock",
+      "soul",
       "synth-pop"
     ],
     "tags": [
-      "ballad",
-      "disco",
-      "electronic",
-      "europop",
       "pop",
-      "synth-pop",
-      "vocal"
+      "brit pop",
+      "dance-pop",
+      "electronic",
+      "ballad",
+      "europop",
+      "disco",
+      "euro house",
+      "vocal",
+      "band"
     ],
     "releases": [
       {
-        "id": "46d4b696-9ace-4027-92ab-feb77f2c2971",
-        "title": "The Best Dance Album in the World… Ever! Part 6",
+        "id": "3a334a53-24a5-4c3a-a7b1-273d2a16347b",
+        "title": "100% Hits, Volume 21",
         "date": "1996",
-        "country": "GB",
+        "country": "AU",
         "status": "Official",
-        "release_group": "a880dfbd-753a-3b13-9e90-1787c834e488",
+        "release_group": "4ed2fb6e-81c1-3fed-8a75-580169162edc",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "3e009744-7a22-4c7d-a52b-88a3841c2e9b",
-        "title": "Wannabe",
+        "id": "366ebe0e-9ff9-4ed3-8900-15b419468a03",
+        "title": "100% Hits: The Best of ’96",
         "date": "1996",
-        "country": "GB",
-        "status": "Promotion",
-        "release_group": "b50ee798-2b55-3c1b-9d67-f8d0d8395732",
-        "primary_type": "Single",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "896ecaf2-2f59-3258-9312-6c0f46e63ea5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "87e94512-4621-4a1d-83f0-31ee61763c20",
+        "title": "Absolute Music 13",
+        "date": "1996",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "b96329f1-286f-3789-931c-fcf4b5ae8ae0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3a40f008-d819-4a0f-8f92-7ad6caa4d983",
+        "title": "Absolute Music 17",
+        "date": "1996",
+        "country": "NO",
+        "status": "Official",
+        "release_group": "c1b3f027-5d19-353c-a694-d989965b662c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "db176506-b53c-4584-8141-90217857e083",
+        "title": "Best Dance 3/96",
+        "date": "1996",
+        "country": "BE",
+        "status": null,
+        "release_group": "bc1de611-6e28-4347-963d-982d06fa1c42",
+        "primary_type": null,
         "secondary_types": []
+      },
+      {
+        "id": "6c8f6653-7bdf-4390-a0bb-6c9f9835c63e",
+        "title": "Greatest Hits ’96, Vol. 3",
+        "date": "1996",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "08fcaf53-d3d8-448f-8ba5-1fcb7121bf73",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "74263f00-7064-42dc-8059-74d3e42cd60a",
+        "title": "Hit Explosion 1996, Volume 9",
+        "date": "1996",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "047ba938-9eb3-411c-be5c-f230b72e2cb5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3136386e-8844-47d8-9a64-8f9a992fc801",
+        "title": "Hitbox, Vol. 11",
+        "date": "1996",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "22f84396-9e20-49e6-97f1-b1056b2dc41b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "47d6f4ad-b951-44b1-87d2-a7cebc6fdbaa",
+        "title": "Hitz FM -The Original Hitz, Volume Four",
+        "date": "1996",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "c6bcdecd-378a-4d63-b60a-2def5195f4e5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "491c5b6c-77d1-4daf-8e9a-ec7d04bf3627",
+        "title": "Kiss FM Hits 3",
+        "date": "1996",
+        "country": "FI",
+        "status": "Official",
+        "release_group": "d3f590a4-50ce-4044-bb5f-9ca9cb87ad9f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ddec8419-e05b-462f-8f20-16267eb7ff41",
+        "title": "Now Dance Hits 96, Volume 5",
+        "date": "1996",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "80077f19-de55-4796-8df8-2ac445cc3586",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       },
       {
         "id": "4b36f652-2032-45ab-9f4b-5c1af87f6f47",
@@ -187,68 +366,152 @@
         "secondary_types": []
       },
       {
-        "id": "9945c68b-3186-4ebc-8831-670be9217aa5",
-        "title": "Wannabe",
-        "date": "1996-08-19",
-        "country": "AU",
-        "status": "Official",
-        "release_group": "b50ee798-2b55-3c1b-9d67-f8d0d8395732",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "24863f55-f8b3-4cf8-a38c-c853ce500136",
-        "title": "Planet Mix '97",
-        "date": "1997",
-        "country": "ES",
-        "status": "Official",
-        "release_group": "f1b0f810-e599-48fe-9701-0594eec849bd",
-        "primary_type": null,
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "05932ebc-6485-4770-bb6c-da3eb748b378",
-        "title": "Wannabe",
-        "date": "1998",
-        "country": "ZA",
-        "status": "Official",
-        "release_group": "b50ee798-2b55-3c1b-9d67-f8d0d8395732",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "d89b9028-5797-4e9c-b1d6-2916697507f8",
-        "title": "Wannabe",
-        "date": "2007-07-30",
-        "country": "US",
-        "status": "Official",
-        "release_group": "b50ee798-2b55-3c1b-9d67-f8d0d8395732",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "93ad2b7b-445e-35f8-948c-f937f7d7b258",
-        "title": "Greatest Hits",
-        "date": "2007-11-12",
+        "id": "242d6739-2d1f-47ef-976e-b2450f7d1005",
+        "title": "Now That's What I Call Music! 34",
+        "date": "1996-08-12",
         "country": "GB",
         "status": "Official",
-        "release_group": "a84293d0-9be2-356d-aea7-e960cb754436",
+        "release_group": "f9c08d91-4c7d-30bd-a41a-0d99ddd50fa5",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "80d663e5-0e5c-4d08-bf75-7a19d49d7b95",
-        "title": "Wannabe",
-        "date": "2026-07-10",
-        "country": "XW",
+        "id": "6f9fa1f4-186e-4a98-9b49-25f7e42cbb4d",
+        "title": "Now That’s What I Call Music! 34",
+        "date": "1996-08-12",
+        "country": "GB",
         "status": "Official",
-        "release_group": "b50ee798-2b55-3c1b-9d67-f8d0d8395732",
-        "primary_type": "Single",
+        "release_group": "f9c08d91-4c7d-30bd-a41a-0d99ddd50fa5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "779c5c53-c905-47ad-b110-dc98e05666a2",
+        "title": "Absolute Music 22",
+        "date": "1996-08-28",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "d78b3adf-7af4-3490-8382-b2a52aaf0c91",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "498789a7-5bf2-43dc-93ac-cb685b727f43",
+        "title": "Bravo Hits 14",
+        "date": "1996-09-06",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "7d2675cb-c18f-3a9a-b2dd-d553fd789d51",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e46e1fbb-a0c3-4675-ba05-b27ac9d2cf16",
+        "title": "Spice",
+        "date": "1996-09-19",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "4180845c-8700-3fda-af8f-0b9f3a932009",
+        "primary_type": "Album",
         "secondary_types": []
+      },
+      {
+        "id": "e4d29011-b7f9-4ee6-9cbc-81fa02734469",
+        "title": "Radioactivity Volume 96-10",
+        "date": "1996-10",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "999b7ff1-414b-495b-88e4-4f6379795075",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7420bd66-f777-439e-ad4c-b11db6774df9",
+        "title": "The Braun MTV Eurochart '96, Volume 10",
+        "date": "1996-10",
+        "country": "NL",
+        "status": "Bootleg",
+        "release_group": "8742fb2d-6cd9-4083-8ec3-c66d4f04f3ac",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ba831dee-d88e-37da-a7e8-b07e1dd08a57",
+        "title": "Spice",
+        "date": "1996-10-29",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "4180845c-8700-3fda-af8f-0b9f3a932009",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0d2e25dc-a065-4f3b-9261-5094f946256a",
+        "title": "Best of 96",
+        "date": "1996-10-31",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "f9acd941-f984-35fb-9d2c-dcf6045f40f8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5c0534cf-b384-3175-be0e-c245e2b3dd3f",
+        "title": "Spice",
+        "date": "1996-11-04",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "4180845c-8700-3fda-af8f-0b9f3a932009",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "11f89a03-558a-36c9-a192-34bc8f4873aa",
+        "title": "Spice",
+        "date": "1996-11-04",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4180845c-8700-3fda-af8f-0b9f3a932009",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "92775525-c92b-424f-8713-6d3913ec63ee",
+        "title": "Now That’s What I Call Music! 5",
+        "date": "1996-11-07",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "59f8e84d-66bc-485f-8cd0-ee6947551f36",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "03eb48b7-eab5-427f-9aba-04edbd4b7447",
+        "title": "Promo Only: Mainstream Radio, January 1997",
+        "date": "1996-12",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "924e4411-9a4e-4359-9be7-31f4ca272686",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       }
     ],
     "work": {

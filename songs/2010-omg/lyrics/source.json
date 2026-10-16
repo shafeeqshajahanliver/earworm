@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 9730821,
+  "kind": "synced",
+  "matched": {
+    "track": "OMG",
+    "artist": "Usher feat. will.i.am",
+    "album": "Raymond v. Raymond",
+    "duration_s": 269.0
+  },
+  "duration_matched_to": "musicbrainz recording length (269s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 269.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 268.0,
+      "source": "deezer preview track matched by search"
+    }
+  ],
+  "matching_candidates": 35,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 37437645 (OMG / Usher feat. will.i.am / So Fresh the Hits of Summer 2011 + The Best of 2010, 284.0s): duration matches no reference length",
+    "lrclib 34474929 (OMG / Usher feat. will.i.am / DJ Hero 2 OST, 216.0s): duration matches no reference length",
+    "lrclib 33710254 (OMG / Usher feat. will.i.am / Raymond v Raymond, 216.0s): duration matches no reference length",
+    "lrclib 19270793 (OMG / Usher feat. will.i.am / OMG Remix EP, 352.0s): live/remix/other version",
+    "lrclib 34413440 (OMG / Usher / Best of 2010 Workout Mix, 284.0s): duration matches no reference length",
+    "lrclib 33790665 (OMG / Usher / Raymond v Raymond, 398.0s): duration matches no reference length",
+    "lrclib 33411152 (OMG / Usher / hiphop song, 284.0s): duration matches no reference length",
+    "lrclib 34038173 (OMG / Usher / OMG Remix EP, 252.0s): live/remix/other version",
+    "lrclib 34038175 (OMG / Usher / OMG Remix EP, 399.0s): live/remix/other version",
+    "lrclib 35567183 (Omg / Usher / The best of summer 2010, 283.0s): duration matches no reference length",
+    "lrclib 20233259 (OMG / Usher / OMG Tour: Live from London, 270.6750208s): live/remix/other version",
+    "lrclib 21207818 (OMG / Usher / Raymond v Raymond, 284.4276s): duration matches no reference length",
+    "lrclib 27022882 (OMG / Usher / OMG, 284.4276s): duration matches no reference length",
+    "lrclib 32995453 (OMG / Usher ft. will.i.am / Usher ft. will.i.am - OMG, 282.0s): duration matches no reference length",
+    "lrclib 27475978 (OMG / USHER / OMG Remix EP, 269.04s): live/remix/other version",
+    "lrclib 30993547 (OMG / USHER / OMG Remix EP, 352.0s): live/remix/other version",
+    "lrclib 32463014 (OMG (Cory Enemy dub mix) / Usher / OMG, 352.0s): live/remix/other version",
+    "lrclib 31215744 (OMG (Disco Fries radio edit) / Usher / OMG, 399.0s): duration matches no reference length",
+    "lrclib 33156007 (OMG (Cory Enemy radio edit) / Usher / OMG, 352.0s): duration matches no reference length",
+    "lrclib 31817380 (OMG (Cory Enemy club mix) / Usher / OMG, 352.0s): live/remix/other version",
+    "lrclib 25354133 (Omg / Usher Feat. Will.I.Am / OmG (Single), 395.702857s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

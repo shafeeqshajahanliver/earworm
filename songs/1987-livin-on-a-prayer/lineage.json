@@ -1,0 +1,50 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/57653",
+    "title": "Livin' on a Prayer",
+    "performer": "Bon Jovi",
+    "is_original": true,
+    "first_release_date": "1986-08-18",
+    "releases": [
+      {
+        "title": "Slippery When Wet",
+        "uri": "https://api.secondhandsongs.com/release/2260",
+        "performer": "Bon Jovi"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 144,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/57653",
+    "title": "Livin' on a Prayer",
+    "language": "English",
+    "writers": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "original_performer": "Bon Jovi",
+    "versions": 145,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Elän humpalla",
+        "uri": "https://api.secondhandsongs.com/work/120319"
+      },
+      {
+        "title": "Fishin' on a Pier",
+        "uri": "https://api.secondhandsongs.com/work/128553"
+      },
+      {
+        "title": "Viviendo en una plegaria",
+        "uri": "https://api.secondhandsongs.com/work/316314"
+      }
+    ]
+  }
+}

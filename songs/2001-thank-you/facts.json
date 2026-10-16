@@ -1,6 +1,6 @@
 {
   "id": "2001-thank-you",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Thank You (Dido song)",
   "wikidata": {
     "qid": "Q1635376",
@@ -78,12 +78,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group d8867c13-786b-4434-95a8-1ef28538e0d8 (2001-05-21)",
+  "musicbrainz_match": "single release group d8867c13-786b-4434-95a8-1ef28538e0d8 (2001-05-21); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "58913ecb-2514-4ffa-aa33-1487c190e6c3",
-    "title": "Thank You",
-    "length_ms": 193000,
-    "first_release_date": "2001",
+    "recording_id": "bc50dd79-d3c3-4c00-8421-2afaf1e24ceb",
+    "title": "Thankyou",
+    "length_ms": 218200,
+    "first_release_date": "1999-06-01",
     "artist_credit": "Dido",
     "artists": [
       {
@@ -92,126 +92,375 @@
       }
     ],
     "isrcs": [
-      "USAR10100283"
+      "GBBXH0500060",
+      "USAR10001502",
+      "USAR10100283",
+      "USAR19900870"
     ],
-    "recording_credits": [],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "recording_credits": [
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard",
+          "piano"
+        ],
+        "name": "Mark Bates",
+        "mbid": "aa5f2e9d-30e4-4ee1-8e9a-602fbfd5b34b"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "recorder"
+        ],
+        "name": "Dido",
+        "mbid": "d1353a0c-26fb-4318-a116-defde9c7c9ad"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Paul Herman",
+        "mbid": "12718e0c-546e-45f7-ae86-9dbaa65797d2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "percussion"
+        ],
+        "name": "Mal Hyde-Smith",
+        "mbid": "e4b675b7-836e-41b2-a236-043b8b4522bf"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Phill Brown",
+        "mbid": "bc11a8de-0123-424f-b020-54e6975ce22a"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Dido",
+        "mbid": "d1353a0c-26fb-4318-a116-defde9c7c9ad"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Rollo",
+        "mbid": "5bdb71fc-d841-4fa7-a83a-e1af16739b98"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Rollo",
+        "mbid": "5bdb71fc-d841-4fa7-a83a-e1af16739b98"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Goetz",
+        "mbid": "97f2b10c-ff2a-439d-bfa9-40ba707740f1"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Dido",
+        "mbid": "d1353a0c-26fb-4318-a116-defde9c7c9ad"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/751gBcu62kORDelX7FV0mM"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3147523941"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/44710055"
+      }
+    ],
+    "genres": [
+      "britpop",
+      "downtempo",
+      "easy listening",
+      "pop",
+      "pop rock",
+      "singer-songwriter",
+      "trip hop"
+    ],
+    "tags": [
+      "pop",
+      "adult alternative pop",
+      "downtempo",
+      "pop rock",
+      "relaxed",
+      "?",
+      "adult alternative pop/rock",
+      "alternative/indie rock",
+      "britpop",
+      "chill"
+    ],
     "releases": [
       {
-        "id": "127e0e00-48f6-4296-8172-24a2cdb71eac",
-        "title": "Thankyou",
-        "date": "2001",
+        "id": "197b5db4-8f71-4d8a-941a-2d0970da292e",
+        "title": "Life for Rent / No Angel",
+        "date": "1999",
+        "country": "PR",
+        "status": "Official",
+        "release_group": "68d8e13f-e05a-41a6-8ab2-c3e74c9717ad",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5395286e-9330-32fd-858a-babb0f431e52",
+        "title": "No Angel",
+        "date": "1999",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ad7e6a2a-ba80-44c2-ad3f-e0190607d6b0",
+        "title": "No Angel",
+        "date": "1999",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c761d745-2c07-320f-826a-c6665cb992d5",
+        "title": "No Angel",
+        "date": "1999",
+        "country": "US",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4ed40b3e-72ca-36e8-9df3-887fe4058893",
+        "title": "No Angel",
+        "date": "1999",
+        "country": "US",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f0cfb7c3-f6d8-3bef-9000-2b52472c770a",
+        "title": "No Angel",
+        "date": "1999",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ec54e78a-c183-4bf9-bf00-82ef0b52b689",
+        "title": "No Angel",
+        "date": "1999",
+        "country": "US",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "48d268c4-ef24-4d43-b7f4-7841bc5788aa",
+        "title": "No Angel",
+        "date": "1999-06-01",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7a9b4a0c-0888-4889-804b-eae4f6a2d4b5",
+        "title": "No Angel",
+        "date": "1999-06-01",
+        "country": "US",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "67b3c68a-618c-4fce-9275-61a6b50cd517",
+        "title": "No Angel",
+        "date": "1999-06-01",
+        "country": "US",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "72f88491-e692-47fe-ae4d-61de8fa504ad",
+        "title": "No Angel",
+        "date": "2000",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "644d1597-cb6e-451c-aae4-9da23d8b423f",
+        "title": "No Angel",
+        "date": "2000",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "20bf31ff-914e-41ad-9e2c-26a5aa18e75d",
+        "title": "No Angel",
+        "date": "2000",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "753f2720-0482-4035-b33e-dcbaa0950763",
+        "title": "No Angel",
+        "date": "2000",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f1422fec-8379-4693-80b1-3990e129beeb",
+        "title": "No Angel",
+        "date": "2000",
+        "country": "RU",
+        "status": "Bootleg",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ca6de94f-cb85-4fd1-8199-8d1877b985ad",
+        "title": "This Is Alice Music, Volume 4",
+        "date": "2000-09-26",
+        "country": "US",
+        "status": "Official",
+        "release_group": "43c34b4c-851f-4993-97d2-36a9a68bc242",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b64cbfc1-977e-3192-b747-03146dedc2f3",
+        "title": "No Angel",
+        "date": "2000-10-16",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c07731c0-96a7-4990-99bf-cdd1a4e0ac0b",
+        "title": "Promo Only: Mainstream Radio, January 2001",
+        "date": "2000-12",
         "country": "US",
         "status": "Promotion",
+        "release_group": "95b1fc87-c6bd-3499-96cf-c541d9f5c282",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2c536079-b89b-3c2d-ace3-e51a0a3fc00c",
+        "title": "No Angel",
+        "date": "2001-01-29",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c0b992b6-7d48-487d-a5e9-fde6e1cba00c",
+        "title": "Radioactivity Volume 01-04",
+        "date": "2001-04",
+        "country": "AU",
+        "status": "Promotion",
+        "release_group": "ddcf64b7-5e30-451c-83df-373ecc5bd59a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e189a81f-d2cc-43df-97f7-db6f8c443029",
+        "title": "No Angel",
+        "date": "2001-04-25",
+        "country": "JP",
+        "status": "Promotion",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "84991b63-ab81-4ae1-865c-087d5cbf9bfe",
+        "title": "No Angel",
+        "date": "2001-04-25",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "65e2f5a8-aa88-321b-852c-a900773ec300",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4b35b1bb-0a54-4f72-9327-3929aa5bcbbb",
+        "title": "Thank You",
+        "date": "2001-05-21",
+        "country": "GB",
+        "status": "Official",
         "release_group": "d8867c13-786b-4434-95a8-1ef28538e0d8",
         "primary_type": "Single",
         "secondary_types": []
       },
       {
-        "id": "7a0e4ebc-c343-49b3-a3cf-abd34b3f56af",
-        "title": "Woman III",
-        "date": "2002",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "4765de14-4f18-345c-9678-2f7adf98390d",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "d591c7f5-94a9-4436-8729-2d94624cd152",
-        "title": "Girls Night Out",
-        "date": "2002-03-05",
-        "country": "CA",
-        "status": "Official",
-        "release_group": "1d821231-7d0f-3f2e-ae80-c6aa02d925a1",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "5549a2cf-f402-4cb9-86f7-0b5b9bff52f0",
-        "title": "Women & Songs",
-        "date": "2004-04-27",
-        "country": "US",
-        "status": "Official",
-        "release_group": "33f816d4-ef10-3c60-a124-58b13fd962c4",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "661bfdd9-9ac9-454e-a0e9-1bde5ef6af11",
-        "title": "Lovesongs: The Ultimate Collection",
-        "date": "2011-01-28",
-        "country": "IE",
-        "status": "Official",
-        "release_group": "18ca47f2-224e-42de-9294-c15982578684",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c9841797-55a7-448e-a8d5-28c590d4635e",
-        "title": "Keep Calm and Relax",
-        "date": "2012-03-05",
+        "id": "8e71955a-66c5-44b2-805c-46b232327047",
+        "title": "Thank You",
+        "date": "2001-05-21",
         "country": "GB",
         "status": "Official",
-        "release_group": "ab18d3dc-82bb-417e-81ce-53497241e11e",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "release_group": "d8867c13-786b-4434-95a8-1ef28538e0d8",
+        "primary_type": "Single",
+        "secondary_types": []
       },
       {
-        "id": "840081d0-145d-4107-8566-d6ac5f4fcf73",
-        "title": "NOW That’s What I Call Movies",
-        "date": "2013-11-11",
+        "id": "e1cebda9-d216-38f2-8967-47cd0b1f3bc0",
+        "title": "Now That’s What I Call Music! 49",
+        "date": "2001-07-30",
         "country": "GB",
         "status": "Official",
-        "release_group": "b977a630-3230-4451-9281-50d631e0ca60",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "8fe3257e-2464-4fa4-a6fd-ac7ddb9249c7",
-        "title": "Songbird: The Greatest Female Voices",
-        "date": "2014",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "bab1cf38-9462-4e3e-9aaa-ccb140603727",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "9cfcd5cc-4c91-49a6-8aab-1ae1bfabb71b",
-        "title": "Mellow Magic",
-        "date": "2014-03-17",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "90267672-5310-4a44-a87c-f929945a622c",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c6f06b3e-fe26-4b9b-b307-ed17ea0f265f",
-        "title": "Magic: The Album",
-        "date": "2016",
-        "country": null,
-        "status": "Official",
-        "release_group": "6a86f155-a7d5-42de-8734-2bdd249a9879",
+        "release_group": "78d58cbc-3d30-3dca-b56e-fc24f2f46289",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

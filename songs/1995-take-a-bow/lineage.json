@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/77479",
+    "title": "Take a Bow",
+    "performer": "Madonna",
+    "is_original": true,
+    "first_release_date": "1994-10",
+    "releases": [
+      {
+        "title": "Bedtime Stories",
+        "uri": "https://api.secondhandsongs.com/release/4593",
+        "performer": "Madonna"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 28,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/77479",
+    "title": "Take a Bow",
+    "language": "English",
+    "writers": [
+      "Madonna",
+      "Babyface"
+    ],
+    "original_performer": "Madonna",
+    "versions": 29,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Kijk me aan",
+        "uri": "https://api.secondhandsongs.com/work/155315"
+      }
+    ]
+  }
+}

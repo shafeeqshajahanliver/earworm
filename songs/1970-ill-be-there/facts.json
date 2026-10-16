@@ -1,6 +1,6 @@
 {
   "id": "1970-ill-be-there",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "I'll Be There (The Jackson 5 song)",
   "wikidata": {
     "qid": "Q1073719",
@@ -88,12 +88,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 8bacb2b8-a454-487e-8b40-29cbaa5a4545 (1970-08-28)",
+  "musicbrainz_match": "single release group 8bacb2b8-a454-487e-8b40-29cbaa5a4545 (1970-08-28); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "56145b57-f613-471e-b873-40a1c75c89aa",
+    "recording_id": "3f119b17-238c-4b0d-b44b-3cd123b79418",
     "title": "I’ll Be There",
-    "length_ms": 215000,
-    "first_release_date": "1970",
+    "length_ms": 237573,
+    "first_release_date": "1970-08-28",
     "artist_credit": "The Jackson 5",
     "artists": [
       {
@@ -101,23 +101,435 @@
         "mbid": "e5257dc5-1edd-4fca-b7e6-1158e00522c8"
       }
     ],
-    "isrcs": [],
-    "recording_credits": [],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "isrcs": [
+      "USM017082635",
+      "USMO17082635",
+      "USUM70602222"
+    ],
+    "recording_credits": [
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Bob West",
+        "mbid": "65040657-1d30-4e04-9520-c5251d858c6d"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Nickolas Ashford",
+        "mbid": "f47e95aa-2228-4122-858d-4bcb1506057c"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Hal Davis",
+        "mbid": "ee5a60d7-760c-4126-9d17-f458970bfbc7"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Valerie Simpson",
+        "mbid": "03f97204-818e-45e0-b3d5-1108a52789ba"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/1ceaAYlQHDHI0s1lVNAoUP"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/32PkC4Mzq1KbKrZsbUEDTt"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2177941"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3967022511"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/ca/song/1445752867"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/399250284"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/ca/song/1445752867"
+      },
+      {
+        "type": "streaming",
+        "url": "https://open.qobuz.com/track/399250284"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/516690642"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/637917"
+      }
+    ],
+    "genres": [
+      "dance-pop",
+      "disco",
+      "electronic",
+      "funk",
+      "motown",
+      "new jack swing",
+      "pop",
+      "pop rock",
+      "pop soul",
+      "r&b",
+      "soul"
+    ],
+    "tags": [
+      "pop",
+      "soul",
+      "pop soul",
+      "r&b",
+      "dance-pop",
+      "boy band",
+      "bubblegum",
+      "club/dance",
+      "contemporary pop/rock",
+      "disco"
+    ],
     "releases": [
       {
-        "id": "1bcf9873-be21-46d6-9105-35788d88834b",
+        "id": "59f61c71-a040-4cd5-ab89-3d7131b628e7",
         "title": "I'll Be There",
-        "date": "1970",
-        "country": "FR",
+        "date": "1970-08-28",
+        "country": "US",
         "status": "Official",
         "release_group": "8bacb2b8-a454-487e-8b40-29cbaa5a4545",
         "primary_type": "Single",
         "secondary_types": []
+      },
+      {
+        "id": "ea4c5461-e824-4478-946d-4b308e885e02",
+        "title": "Third Album",
+        "date": "1970-09-08",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2b0bb932-db34-3780-b5cd-0df61a03236a",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "5531249d-22da-4b95-9ede-9a0e52427939",
+        "title": "Motown Chartbusters, Vol.5",
+        "date": "1971",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1d124110-5672-4e24-98a4-f33217af0d52",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "99ec4282-48d4-404b-b33e-04ee09fa31a1",
+        "title": "Greatest Hits",
+        "date": "1971-12",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a0b748ef-25ee-39fe-8a93-2ca944aa24cf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ad30aa4e-e9fe-427c-b2da-81d1f4d2e3a1",
+        "title": "Greatest Hits",
+        "date": "1971-12",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a0b748ef-25ee-39fe-8a93-2ca944aa24cf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8a39b266-59f7-4b63-bda2-63405be13f86",
+        "title": "Anthology",
+        "date": "1976",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f9fa8171-38bf-34f1-a73e-be9c28c29464",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7c7b9203-eeaf-433e-a0db-d5d2b73186ef",
+        "title": "18 Greatest Hits",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "54e774a0-7091-31f6-8765-9de5735fcbb1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6402fbc9-cb27-4306-96eb-10e6dc489aaf",
+        "title": "18 Greatest Hits",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6f33ff5d-025a-42d6-827e-6d5bb5a30b4a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "75276adf-7504-4bba-8630-631ef020c31b",
+        "title": "18 Greatest Hits",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "54e774a0-7091-31f6-8765-9de5735fcbb1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fd183228-0883-4805-82b6-4e5a64f8565c",
+        "title": "18 Greatest Hits",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "54e774a0-7091-31f6-8765-9de5735fcbb1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d77fe3d8-8a4b-4849-87d3-dabfb9f75e44",
+        "title": "Great Songs and Performances That Inspired the Motown 25th Anniversary Television Special",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "e6696f23-a356-4cff-a096-fdf2a1e1a358",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0831bbbf-8104-4b3b-9fe1-a33a2f3ba17a",
+        "title": "Motown Hits of Gold, Volume 5",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "be822f54-7cc7-32af-b3ff-48d902028814",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b8e54a6c-def3-4c54-984e-a262efcc79b5",
+        "title": "25 #1 Hits From 25 Years",
+        "date": "1985",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2ee54b6c-3511-3e1e-924c-4f39deadceef",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a7a74484-8c25-47e3-9afc-7de701ad3dde",
+        "title": "Anthology",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "37906983-1005-36fb-b8e7-3a04687e6f4f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f7ef4a8e-68bf-4d2f-8415-9da927fe035a",
+        "title": "Anthology",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f9fa8171-38bf-34f1-a73e-be9c28c29464",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "be37c78a-6e34-40cd-9469-b2aef5c0339b",
+        "title": "Anthology",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "37906983-1005-36fb-b8e7-3a04687e6f4f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "90e26f4c-e28f-499b-be6d-0f4316d53d7d",
+        "title": "Motown’s Biggest Pop Hits: All #1 on Billboard’s Charts",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "0eaa27ea-7b14-3cfe-856a-6c562cfb4234",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d4793bf2-731a-4b26-8b9a-9a0dc7a2609d",
+        "title": "Motown’s Biggest Pop Hits: All #1 on Billboard’s Charts",
+        "date": "1986",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "0eaa27ea-7b14-3cfe-856a-6c562cfb4234",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "19b25bf0-3749-4582-84d2-0afb626585de",
+        "title": "Third Album & Maybe Tomorrow",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1c430d7b-bdeb-48fe-8b03-117843449b33",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1e6c0481-acc0-4796-8c3f-263e5fda1149",
+        "title": "Anthology: The Best Of Michael Jackson",
+        "date": "1986-11-14",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "37906983-1005-36fb-b8e7-3a04687e6f4f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0fcfa777-d04d-4699-8ffa-176a156a5f67",
+        "title": "18 Greatest Hits",
+        "date": "1987",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "54e774a0-7091-31f6-8765-9de5735fcbb1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "61f28ac3-8b59-41d8-ac18-71af0ce8e786",
+        "title": "Greatest Hits",
+        "date": "1987",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "a0b748ef-25ee-39fe-8a93-2ca944aa24cf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "508476a0-3659-44ac-aea3-71237a1b3185",
+        "title": "Greatest Hits",
+        "date": "1987",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "a0b748ef-25ee-39fe-8a93-2ca944aa24cf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "46f1b361-b73f-3759-bb3e-b09ef32bbcc3",
+        "title": "Greatest Hits",
+        "date": "1987",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a0b748ef-25ee-39fe-8a93-2ca944aa24cf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "42cfba66-d7a8-415a-b2ba-d21679031e3d",
+        "title": "Introduction to the Motown Elite 9000 Series",
+        "date": "1987",
+        "country": "US",
+        "status": "Official",
+        "release_group": "33cfb2de-68fe-3975-8a24-64a80717402e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       }
     ],
+    "work": {
+      "id": "c4d75400-e438-3c9b-9893-e2b89ab1f61a",
+      "title": "I’ll Be There",
+      "iswcs": [
+        "T-070.080.433-6"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Hal Davis",
+          "mbid": "ee5a60d7-760c-4126-9d17-f458970bfbc7"
+        },
+        {
+          "role": "writer",
+          "name": "Berry Gordy",
+          "mbid": "55bc7f0d-bc56-4a5e-8555-77557bb757cd"
+        },
+        {
+          "role": "writer",
+          "name": "Willie Hutch",
+          "mbid": "870b79e0-10b7-4e19-b11f-65607cffad9a"
+        },
+        {
+          "role": "writer",
+          "name": "Bob West",
+          "mbid": "65040657-1d30-4e04-9520-c5251d858c6d"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/37513",
+        "https://www.wikidata.org/wiki/Q1073719"
+      ]
+    },
     "main_artist": {
       "name": "The Jacksons",
       "type": "Group",

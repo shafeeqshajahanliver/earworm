@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 2591835,
+  "kind": "synced",
+  "matched": {
+    "track": "TiK ToK",
+    "artist": "Kesha",
+    "album": "Animal",
+    "duration_s": 200.0
+  },
+  "duration_matched_to": "musicbrainz recording length (201s)",
+  "duration_diff_s": 1.0,
+  "reference_lengths": [
+    {
+      "seconds": 201.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 199.9,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 199.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 36910074 (TiK ToK / Kesha / TiK-Tok - Remixes, 301.0s): live/remix/other version",
+    "lrclib 36940571 (TiK ToK / Kesha / Animal (Expanded Edition), Nones): duration matches no reference length",
+    "lrclib 36912018 (TiK ToK / Kesha / Animal (Expanded Edition), 187.0s): duration matches no reference length",
+    "lrclib 36910076 (TiK ToK / Kesha / TiK-Tok - Remixes, 402.0s): live/remix/other version",
+    "lrclib 34518988 (TiK ToK / Kesha / Animal (Expanded Edition), 193.0s): duration matches no reference length",
+    "lrclib 36335111 (TiK ToK / Kesha / TiK ToK, 192.0s): duration matches no reference length",
+    "lrclib 25972341 (TiK ToK / Kesha / TiK ToK, 377.155918s): duration matches no reference length",
+    "lrclib 29551403 (TiK ToK / Kesha / TiK ToK, 215.0s): duration matches no reference length",
+    "lrclib 35845305 (TiK ToK / Kesha / TiK-Tok - Remixes, 216.0s): live/remix/other version",
+    "lrclib 36370584 (TiK ToK / Kesha / TiK-Tok - Remixes, 60.0s): live/remix/other version",
+    "lrclib 34206799 (TiK ToK / Kesha / TiK-Tok - Remixes, 181.0s): live/remix/other version",
+    "lrclib 2573736 (TiK ToK / Kesha / TiK-Tok - Remixes, 200.0s): live/remix/other version",
+    "lrclib 26979626 (TiK ToK / Kesha / TiK-Tok - Remixes, 413.0s): live/remix/other version",
+    "lrclib 5632984 (TiK ToK (Untold remix) / Kesha / TiK ToK, 300.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

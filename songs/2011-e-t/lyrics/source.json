@@ -1,0 +1,55 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 693925,
+  "kind": "synced",
+  "matched": {
+    "track": "E.T.",
+    "artist": "Katy Perry",
+    "album": "Teenage Dream",
+    "duration_s": 206.0
+  },
+  "duration_matched_to": "musicbrainz recording length (206s)",
+  "duration_diff_s": 0.4,
+  "reference_lengths": [
+    {
+      "seconds": 206.373,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 206.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 208.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 231.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 38435034 (E.T. / Katy Perry featuring Kanye West / Teenage Dream, 301.0s): duration matches no reference length",
+    "lrclib 36939931 (E.T. / Katy Perry / Teenage Dream: The Complete Confection, Nones): duration matches no reference length",
+    "lrclib 37117237 (. E.T / Katy Perry / E.T. Remixes, 234.0s): live/remix/other version",
+    "lrclib 37391056 (E.T. / Katy Perry / RTL Hits 2011, 244.0s): duration matches no reference length",
+    "lrclib 36887631 (E.T / Katy Perry / All In One Mai 2011, 265.0s): duration matches no reference length",
+    "lrclib 34432370 (E.T. / Katy Perry / Katy Perry Videos, 219.0s): duration matches no reference length",
+    "lrclib 35266542 (E.T. / Katy Perry / Teenage Dream, 1358.0s): duration matches no reference length",
+    "lrclib 35266513 (E.T. / Katy Perry / Teenage Dream, 1218.0s): duration matches no reference length",
+    "lrclib 35079921 (E.T. / Katy Perry / E.T., 275.0s): duration matches no reference length",
+    "lrclib 35266516 (E.T. / Katy Perry / Teenage Dream, 1268.0s): duration matches no reference length",
+    "lrclib 25998078 (E.T. / Katy Perry / Katy Perry, 301.635918s): duration matches no reference length",
+    "lrclib 11224873 (E.T. / Katy Perry / Katy Perry, 174.0s): duration matches no reference length",
+    "lrclib 23818791 (E.T. (ft. Kanye West) / Katy Perry / Katy Perry, 308.569977s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

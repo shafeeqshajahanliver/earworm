@@ -67,10 +67,15 @@ OK_VERSION = re.compile(r"\b(single|mono|stereo|album|original|7\"?|45|lp)\s+(ve
                         r"\bremaster(ed)?\b", re.I)
 
 
-def clean_version(text):
+def clean_version(text, title=""):
     """False for live, remix, re-recorded, karaoke etc. Single/mono/album versions and
-    remasters are the same recording and pass."""
-    return not BAD_VERSION.search(OK_VERSION.sub(" ", text or ""))
+    remasters are the same recording and pass. When the charting song is itself a remix
+    (Cold Heart (PNAU Remix), Despacito (Remix)), the remix's own name is allowed."""
+    text = text or ""
+    m = re.search(r"\(([^)]*remix[^)]*)\)", title or "", re.I)
+    if m:
+        text = re.sub(re.escape(m.group(1)), " ", text, flags=re.I)
+    return not BAD_VERSION.search(OK_VERSION.sub(" ", text))
 
 
 def deezer_by_isrc(isrcs, song, ref):
@@ -84,7 +89,7 @@ def deezer_by_isrc(isrcs, song, ref):
         if not (title_ok(d.get("title_short") or name, song["title"]) and artist_ok(art, song)):
             hits.append(("rejected", isrc, d, "title/artist mismatch: %s / %s" % (name, art)))
             continue
-        if not clean_version(name + " " + (d.get("title_version") or "")):
+        if not clean_version(name + " " + (d.get("title_version") or ""), song["title"]):
             hits.append(("rejected", isrc, d, "version: %s" % name))
             continue
         hits.append(("ok", isrc, d, ""))
@@ -109,7 +114,7 @@ def deezer_search(song, refs):
         if not (title_ok(d.get("title_short") or name, song["title"]) and artist_ok(art, song)):
             continue
         if not clean_version(name + " " + (d.get("title_version") or "") + " " +
-                             ((d.get("album") or {}).get("title") or "")):
+                             ((d.get("album") or {}).get("title") or ""), song["title"]):
             rejected.append("deezer %s: version (%s)" % (d["id"], name))
             continue
         if not d.get("preview"):
@@ -134,7 +139,7 @@ def itunes_search(song, refs):
     for d in r.get("results", []):
         if not (title_ok(d.get("trackName", ""), song["title"]) and artist_ok(d.get("artistName", ""), song)):
             continue
-        if not clean_version(d.get("trackName", "") + " " + d.get("collectionName", "")):
+        if not clean_version(d.get("trackName", "") + " " + d.get("collectionName", ""), song["title"]):
             rejected.append("itunes %s: version (%s)" % (d.get("trackId"), d.get("trackName")))
             continue
         if not d.get("previewUrl"):

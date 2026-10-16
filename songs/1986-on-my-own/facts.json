@@ -1,6 +1,6 @@
 {
   "id": "1986-on-my-own",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "On My Own (Patti LaBelle and Michael McDonald song)",
   "wikidata": {
     "qid": "Q2023632",
@@ -68,12 +68,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "recording search (exact title, earliest release)",
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
   "musicbrainz": {
-    "recording_id": "129b9f1c-a49d-4173-a145-f0ba97b37785",
+    "recording_id": "1a4e96b6-0d63-4974-8f40-86a740bf44d2",
     "title": "On My Own",
-    "length_ms": 273000,
-    "first_release_date": "1986-08-11",
+    "length_ms": 281466,
+    "first_release_date": "1986-11-17",
     "artist_credit": "Patti LaBelle & Michael McDonald",
     "artists": [
       {
@@ -88,136 +88,314 @@
     "isrcs": [],
     "recording_credits": [
       {
-        "role": "arranger",
+        "role": "performer",
         "attributes": [],
-        "name": "Burt Bacharach",
-        "mbid": "2882ffa3-dec9-4055-a842-a950728bcb02"
-      },
-      {
-        "role": "arranger",
-        "attributes": [],
-        "name": "Carole Bayer Sager",
-        "mbid": "0b7c2cc8-0276-4b23-a538-746ebe4133ce"
-      },
-      {
-        "role": "producer",
-        "attributes": [],
-        "name": "Burt Bacharach",
-        "mbid": "2882ffa3-dec9-4055-a842-a950728bcb02"
-      },
-      {
-        "role": "producer",
-        "attributes": [],
-        "name": "Carole Bayer Sager",
-        "mbid": "0b7c2cc8-0276-4b23-a538-746ebe4133ce"
-      },
-      {
-        "role": "producer",
-        "attributes": [
-          "executive"
-        ],
         "name": "Patti LaBelle",
         "mbid": "f319ec6a-9290-449b-baef-4244809c487a"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Burt Bacharach",
+        "mbid": "2882ffa3-dec9-4055-a842-a950728bcb02"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Carole Bayer Sager",
+        "mbid": "0b7c2cc8-0276-4b23-a538-746ebe4133ce"
       }
     ],
     "urls": [],
     "genres": [
       "ballad",
-      "pop"
+      "disco",
+      "pop",
+      "pop rock",
+      "rock",
+      "soul"
     ],
     "tags": [
-      "pop",
       "adult contemporary",
-      "ballad"
+      "pop",
+      "rock",
+      "ballad",
+      "disco",
+      "pop rock",
+      "soul"
     ],
     "releases": [
       {
-        "id": "85d1f4af-fb43-41d4-8434-44ff420c018e",
-        "title": "Now That’s What I Call Music 7",
+        "id": "250ab6fa-00a0-4db0-991c-f80403603a8c",
+        "title": "Hits 5: The Album",
         "date": "1986",
-        "country": "GB",
+        "country": "XE",
         "status": "Official",
-        "release_group": "0b78162f-8bfb-3805-bdbe-1aef486d949f",
+        "release_group": "78fc35d4-b751-4039-83d6-84aaa7f0f4f0",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "e786dffb-e3c5-4068-ac78-4be62b6667a2",
-        "title": "On My Own",
+        "id": "695d76f7-463e-4f21-93fb-a39988a8ec64",
+        "title": "Hits Album 5",
         "date": "1986",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "82bdb12c-ee39-40bc-8f1c-1a6b57a0705f",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "6e82173e-5c43-4833-a4e5-0becaa036c8f",
-        "title": "On My Own (12″ version)",
-        "date": "1986",
-        "country": "US",
-        "status": "Official",
-        "release_group": "82bdb12c-ee39-40bc-8f1c-1a6b57a0705f",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "a35db6f3-6657-4961-9c06-d1bac62f10b2",
-        "title": "Now That’s What I Call Music 7",
-        "date": "1986-08-11",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "0b78162f-8bfb-3805-bdbe-1aef486d949f",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "2c41ac07-9c20-374b-a530-c75105264a56",
-        "title": "Now That’s What I Call Music 7",
-        "date": "1986-08-11",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "0b78162f-8bfb-3805-bdbe-1aef486d949f",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "3055216c-39ec-4b95-8637-ebfea024f2b3",
-        "title": "Move Closer",
-        "date": "1987",
         "country": "NL",
         "status": "Official",
-        "release_group": "52567098-317a-4a1c-b32b-ed4653fd4817",
+        "release_group": "78fc35d4-b751-4039-83d6-84aaa7f0f4f0",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "502a5fd7-d5d7-44df-8da3-131eb5656168",
-        "title": "Love Songs",
+        "id": "bd1d1618-a8fc-4843-8fb9-522ad0d67709",
+        "title": "Sweet Freedom",
+        "date": "1986",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "f28f464f-123c-389d-bb84-d939380a60ea",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "83779b85-442f-48c9-9a81-4cb9f3fe0f9f",
+        "title": "Sweet Freedom",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f28f464f-123c-389d-bb84-d939380a60ea",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fc68a74a-4486-49e0-8ead-d5fa8a4defcb",
+        "title": "Sweet Freedom",
+        "date": "1986",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "f28f464f-123c-389d-bb84-d939380a60ea",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0e7f0996-6930-4fcd-a878-52344c044bb5",
+        "title": "Now That’s What I Call Music ’86",
+        "date": "1986-11-17",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "57d7e2cd-89a5-3529-8b59-8dbec0629f95",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c77636a1-ab05-4cec-a057-d52457cdf1a0",
+        "title": "Slow Dance, Volume 3",
         "date": "1988",
-        "country": "US",
+        "country": "NL",
         "status": "Official",
-        "release_group": "c10ab90b-04d2-3910-bda1-3d6f2193a04a",
+        "release_group": "1df7d3af-e266-3d3a-9612-4ab71519b578",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "44b5e769-6bd8-4ff6-b700-75d92411cb0d",
-        "title": "Everything ’80s",
-        "date": "1995",
+        "id": "dcc63f7a-a0fb-4028-a040-7145ea8cfcf4",
+        "title": "Kuschelrock 1",
+        "date": "1989",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "d3272a7a-fd5a-359f-8578-bc8b08be4c4b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f8cc4242-9cc3-41a4-b315-07875cb9d9d2",
+        "title": "Kuschelrock 1",
+        "date": "1994",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "d3272a7a-fd5a-359f-8578-bc8b08be4c4b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "55066912-1972-4668-ae93-1d262e9fd644",
+        "title": "KuschelRock 1",
+        "date": "1994",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "d3272a7a-fd5a-359f-8578-bc8b08be4c4b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "90b464ca-93a5-4505-8990-b593b3d46131",
+        "title": "Greatest Hits",
+        "date": "1996-12-03",
         "country": "US",
         "status": "Official",
-        "release_group": "8228ed92-1ff1-34d6-a848-dd5c8af81600",
+        "release_group": "5abdfa73-ab6b-3ef3-a16a-7b6c63b146d8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c2c8bc74-3088-4754-aa6f-14ab34fe695c",
+        "title": "The Look of Love: The Burt Bacharach Collection",
+        "date": "1998-11-03",
+        "country": "US",
+        "status": "Official",
+        "release_group": "b365a8b4-d671-3737-adc0-c6d0cc41d35e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2d7c4c97-4633-4ad3-9869-b42030a1a5da",
+        "title": "Kuschelrock 1",
+        "date": "1999",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "d3272a7a-fd5a-359f-8578-bc8b08be4c4b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "683c4c7d-a872-40b5-9453-a3df506b31ad",
+        "title": "The Love Songs of Burt Bacharach",
+        "date": "1999-07-01",
+        "country": "US",
+        "status": "Official",
+        "release_group": "8328fc36-28eb-3c76-b03d-7372ff601f40",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "82e12072-0023-497d-8e15-6f0c9921986e",
+        "title": "The Voice of Michael McDonald",
+        "date": "2000",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "bf666974-8f20-3cf2-9d80-af5492c49583",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c4bf6d9c-ff3d-4b90-9d32-14109d579740",
+        "title": "The Very Best of Michael McDonald",
+        "date": "2001",
+        "country": "US",
+        "status": "Official",
+        "release_group": "33789ac5-3ce7-3f10-a8ca-0b8379f9710a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "82ba2766-b450-4248-9328-f7e50da55a05",
+        "title": "Pure 80's Love: The #1 Hits",
+        "date": "2003-01-28",
+        "country": "US",
+        "status": "Official",
+        "release_group": "91898505-dc94-3a3b-9acc-de5811bc64b5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0e7cfb40-4f8e-4286-adc2-df25b8472563",
+        "title": "Best of Duets",
+        "date": "2004",
+        "country": "US",
+        "status": "Official",
+        "release_group": "6dfc3ca9-cefd-3299-a043-98f2aa48c45c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4a7e8f84-29f9-45f5-934f-39abb901cb08",
+        "title": "The Ultimate Collection",
+        "date": "2005-08-09",
+        "country": "US",
+        "status": "Official",
+        "release_group": "98bb1fc8-aea2-4956-bba2-39493aed0c04",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2fe6c50f-cf5d-4ae4-9d60-9f86a6fc6d0f",
+        "title": "80’s Gold: Love Songs",
+        "date": "2006",
+        "country": "US",
+        "status": "Official",
+        "release_group": "d6534f82-c102-36c9-a55e-328aabf92d94",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2662afef-f3dc-491e-9b02-7477f8e0731b",
+        "title": "Timeless",
+        "date": "2007",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "bec4741d-d241-48de-9e9d-c8cd11ba2b69",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dc66667e-5dfa-45c8-859c-68423c5bea4b",
+        "title": "Anyone Who Had a Heart: The Best of Burt Bacharach (The Art of the Songwriter)",
+        "date": "2013",
+        "country": "US",
+        "status": "Official",
+        "release_group": "6b9aa1a7-0d9a-4476-bec3-ba2b872f33ca",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "efd797d8-46e2-40c1-a5d6-eb977f9eebda",
+        "title": "Cuts",
+        "date": "2016",
+        "country": null,
+        "status": "Official",
+        "release_group": "4794feb7-7e52-3213-8b5e-80bd1b695bcb",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

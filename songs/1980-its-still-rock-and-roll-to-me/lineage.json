@@ -1,0 +1,53 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/198154",
+    "title": "It's Still Rock and Roll to Me",
+    "performer": "Billy Joel",
+    "is_original": true,
+    "first_release_date": "1980-03-12",
+    "releases": [
+      {
+        "title": "Glass Houses",
+        "uri": "https://api.secondhandsongs.com/release/56881",
+        "performer": "Billy Joel"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 25,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/122832",
+    "title": "It's Still Rock and Roll to Me",
+    "language": "English",
+    "writers": [
+      "Billy Joel"
+    ],
+    "original_performer": "Billy Joel",
+    "versions": 26,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "It's Still Got the Joel you Need",
+        "uri": "https://api.secondhandsongs.com/work/194348"
+      },
+      {
+        "title": "Det är rock and roll för mej",
+        "uri": "https://api.secondhandsongs.com/work/209906"
+      },
+      {
+        "title": "It's Still Billy Joel to Me",
+        "uri": "https://api.secondhandsongs.com/work/257284"
+      }
+    ]
+  }
+}

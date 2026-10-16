@@ -1,6 +1,6 @@
 {
   "id": "2023-snooze",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Snooze (SZA song)",
   "wikidata": {
     "qid": "Q117842122",
@@ -81,12 +81,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 14cb0ff3-0b86-46d4-a907-b2764ce39b2b (2023-08-25)",
+  "musicbrainz_match": "single release group 14cb0ff3-0b86-46d4-a907-b2764ce39b2b (2023-08-25); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "48b334f4-2c05-429a-bc03-dadef309185b",
+    "recording_id": "6cf2ac53-82d4-4c6d-94ca-083cfd23db6d",
     "title": "Snooze",
-    "length_ms": 280000,
-    "first_release_date": "2023-08-25",
+    "length_ms": 201800,
+    "first_release_date": "2022-12-09",
     "artist_credit": "SZA",
     "artists": [
       {
@@ -95,30 +95,328 @@
       }
     ],
     "isrcs": [
-      "USRV82301074"
+      "USRC12204591"
     ],
-    "recording_credits": [],
-    "urls": [
+    "recording_credits": [
       {
-        "type": "free streaming",
-        "url": "https://www.youtube.com/watch?v=LDY_XyxBu8A"
+        "role": "engineer",
+        "attributes": [
+          "task"
+        ],
+        "name": "Dale Becker",
+        "mbid": "4e9fe79c-923a-40d7-b8a3-f296a2efbb6e"
       },
       {
-        "type": "streaming",
-        "url": "https://music.apple.com/us/music-video/1704240876"
+        "role": "engineer",
+        "attributes": [],
+        "name": "Rob Bisel",
+        "mbid": "e01c14e7-ed28-401a-a2ae-8333e76a6a4b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "task"
+        ],
+        "name": "Rob Bisel",
+        "mbid": "e01c14e7-ed28-401a-a2ae-8333e76a6a4b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Jonathan Lopez Garcia",
+        "mbid": "963eec9d-4c85-422a-a5ac-38e12c1ea9a3"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Katie Harvey",
+        "mbid": "332516ea-6988-42e5-9847-6caa8338801b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Noah McCorkle",
+        "mbid": "b4e81c09-5647-4642-93f2-e33c477b15a8"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Syd Tagle",
+        "mbid": "048e5a6d-8000-474a-875d-64d0cedc4778"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Babyface",
+        "mbid": "7fa62c0b-2c74-491e-a2a1-17c3b043f326"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Blair Ferguson",
+        "mbid": "3208d3ea-f036-45f3-876d-5c7f6e0cd096"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "executive"
+        ],
+        "name": "Punch",
+        "mbid": "809dad11-6b57-4a7c-b334-44f9f96fd3ea"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "The Rascals",
+        "mbid": "89cac112-55df-402e-9dd6-8e182ce2e0e7"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "executive"
+        ],
+        "name": "Anthony Tiffith",
+        "mbid": "0b1b3996-d4e5-4b04-986c-340d57ae8d3b"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "SZA",
+        "mbid": "272989c8-5535-492d-a25c-9f58803e027f"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "SZA",
+        "mbid": "272989c8-5535-492d-a25c-9f58803e027f"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Leon Thomas",
+        "mbid": "412ff65d-26bf-4849-ba19-d2a58030fd1a"
       }
     ],
-    "genres": [],
-    "tags": [],
+    "urls": [],
+    "genres": [
+      "soul"
+    ],
+    "tags": [
+      "soul"
+    ],
     "releases": [
       {
-        "id": "1f0081a3-a438-4786-a0b0-8f553653b209",
+        "id": "b82458a3-7d3a-495f-861f-8698731c4dd0",
+        "title": "SOS",
+        "date": "2022-12-09",
+        "country": null,
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2efafa06-c031-4b9c-b088-a6aa4bcf561b",
+        "title": "So Fresh: The Hits of Summer 2024 + The Best of 2023",
+        "date": "2023",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "7a23b53c-0df6-41d0-afe9-61454dacf7aa",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9d414b64-cb31-4cdf-a0f5-e3913e16c36a",
+        "title": "愛情警報 SOS",
+        "date": "2023",
+        "country": "TW",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d75783c9-83ca-4c1e-8044-4b70e2945261",
+        "title": "SOS",
+        "date": "2023-01-05",
+        "country": null,
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b6e42e04-1600-4276-a71f-38e16e6dff14",
+        "title": "SOS",
+        "date": "2023-01-05",
+        "country": null,
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "578536db-0438-4d45-a427-4149e55f4bb8",
+        "title": "SOS",
+        "date": "2023-05-19",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1683708c-e718-4df9-b600-467879ec2ff6",
+        "title": "SOS",
+        "date": "2023-05-19",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418",
+        "title": "SOS",
+        "date": "2023-05-19",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "79a7b5e6-7edb-489d-9481-63387f7bc197",
+        "title": "SOS",
+        "date": "2023-05-19",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "81510594-e076-4fd0-a8fd-0a1eed48be3b",
+        "title": "SOS",
+        "date": "2023-05-24",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "411303bb-07ee-4bb7-a459-3b1c06fdea8c",
         "title": "Snooze",
         "date": "2023-08-25",
         "country": null,
         "status": "Official",
         "release_group": "14cb0ff3-0b86-46d4-a907-b2764ce39b2b",
         "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "cc2bdabe-0ff1-440a-9f97-82ab11342056",
+        "title": "Snooze",
+        "date": "2023-08-25",
+        "country": null,
+        "status": "Withdrawn",
+        "release_group": "14cb0ff3-0b86-46d4-a907-b2764ce39b2b",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "8a8bf60c-c5e7-4bbb-940d-8d6ab4c7df85",
+        "title": "SOS",
+        "date": "2024",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1d39bb1e-c342-4eb3-a686-7b12cb84c1ff",
+        "title": "SOS Deluxe: LANA",
+        "date": "2024-12-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "4fe782ec-2737-46bf-8744-f089891a8bf3",
+        "title": "SOS Deluxe: LANA",
+        "date": "2024-12-20",
+        "country": null,
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c86680d8-7c26-4501-88ed-675ceac59574",
+        "title": "SOS Deluxe: LANA",
+        "date": "2024-12-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3be5ecae-9196-43a7-b308-33283be6d0b7",
+        "title": "SOS Deluxe: LANA",
+        "date": "2024-12-25",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a2451561-f09d-44f5-85d2-7de353ef52b5",
+        "title": "SOS Deluxe: LANA",
+        "date": "2025-02-09",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "85f15747-0b28-4103-ad89-e1db9c8e35e5",
+        "title": "SOS Deluxe: Lana",
+        "date": "2025-06",
+        "country": null,
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f3140800-8765-4802-bfbb-3516c80fd5db",
+        "title": "SOS Deluxe: LANA",
+        "date": "2025-06",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "primary_type": "Album",
         "secondary_types": []
       }
     ],

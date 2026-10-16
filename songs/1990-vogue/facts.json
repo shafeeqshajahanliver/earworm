@@ -1,6 +1,6 @@
 {
   "id": "1990-vogue",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Vogue (song)",
   "wikidata": {
     "qid": "Q1128775",
@@ -83,12 +83,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group beea9671-29f9-3ddf-aeca-4033816735bf (1990-03-20)",
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
   "musicbrainz": {
-    "recording_id": "6b2743c4-bcc1-4844-a45b-21fbf062c543",
-    "title": "Vogue (Bette Davis dub)",
-    "length_ms": 446000,
-    "first_release_date": "1990-04-05",
+    "recording_id": "5a1e44ef-37d6-45fb-a39d-60fe1caf2e85",
+    "title": "Vogue",
+    "length_ms": 299000,
+    "first_release_date": "1990",
     "artist_credit": "Madonna",
     "artists": [
       {
@@ -99,66 +99,20 @@
     "isrcs": [],
     "recording_credits": [],
     "urls": [],
-    "genres": [
-      "hip hop"
-    ],
-    "tags": [
-      "hip hop"
-    ],
+    "genres": [],
+    "tags": [],
     "releases": [
       {
-        "id": "af2217e8-bd9a-468f-b548-a96625a4026e",
-        "title": "Vogue",
+        "id": "54b98607-c15a-46f1-ae97-1dfa91fbb091",
+        "title": "1983 - 1990",
         "date": "1990",
-        "country": "CA",
-        "status": "Official",
-        "release_group": "beea9671-29f9-3ddf-aeca-4033816735bf",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "b9e16f1f-0159-4a03-81cd-9755a8555ebc",
-        "title": "Vogue",
-        "date": "1990-04-05",
-        "country": "US",
-        "status": null,
-        "release_group": "beea9671-29f9-3ddf-aeca-4033816735bf",
-        "primary_type": "Single",
-        "secondary_types": []
-      },
-      {
-        "id": "78ccbbfb-5e6e-4572-a945-1f02e55ac363",
-        "title": "CD Single Collection",
-        "date": "1996-12",
         "country": "JP",
         "status": "Official",
-        "release_group": "bdecb23c-4c36-4168-b3c9-760fe37686d2",
-        "primary_type": "Single",
+        "release_group": "d7a8ca59-6243-4171-8247-18634344057b",
+        "primary_type": "EP",
         "secondary_types": [
           "Compilation"
         ]
-      },
-      {
-        "id": "0b5d3a9e-8bd5-449c-90fd-e4bbc3b82264",
-        "title": "CD Single Collection",
-        "date": "1997-11-25",
-        "country": "JP",
-        "status": "Official",
-        "release_group": "bdecb23c-4c36-4168-b3c9-760fe37686d2",
-        "primary_type": "Single",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "57897b37-81e7-4e3e-9138-4a6b99b8b57f",
-        "title": "Vogue EP",
-        "date": "",
-        "country": "JP",
-        "status": "Official",
-        "release_group": "beea9671-29f9-3ddf-aeca-4033816735bf",
-        "primary_type": "Single",
-        "secondary_types": []
       }
     ],
     "work": {

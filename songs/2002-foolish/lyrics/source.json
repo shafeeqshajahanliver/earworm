@@ -1,0 +1,60 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1005763,
+  "kind": "synced",
+  "matched": {
+    "track": "Foolish",
+    "artist": "Ashanti",
+    "album": "Ashanti",
+    "duration_s": 228.0
+  },
+  "duration_matched_to": "musicbrainz recording length (228s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 228.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 227.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 227.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 14,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 36968326 (Foolish / Ashanti / Body & Soul: Midnight Grooves (Disc 1), 215.0s): duration matches no reference length",
+    "lrclib 37121422 (Foolish / Ashanti / The Best R&B Album In The World...Ever!, 232.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 37080147 (Foolish / Ashanti / Radio Monte Carlo, 203.0s): duration matches no reference length",
+    "lrclib 37402550 (Foolish / Ashanti / Now That’s What I Call Music! 052, 214.0s): duration matches no reference length",
+    "lrclib 34412594 (Foolish / Ashanti / The Best 2000s Album in the World…Ever!, 232.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 35175486 (Foolish / Ashanti / what i imagined music at the club would be like when i was 8, 232.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 33653076 (Foolish / Ashanti / <Unknown>, 244.0s): duration matches no reference length",
+    "lrclib 36177563 (Foolish / Ashanti / 2000's Kids, 232.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 36209892 (Foolish / Ashanti / Def Jam 25: Volume 1 - DJ Bring That Back (2008-1997) [Explicit Version], 224.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 36255954 (Foolish / Ashanti / Ashanti, 271.0s): duration matches no reference length",
+    "lrclib 35951009 (Foolish / Ashanti / Ashanti, 80.0s): duration matches no reference length",
+    "lrclib 20924356 (Foolish / Ashanti / Ashanti, 391.799208s): duration matches no reference length",
+    "lrclib 22260888 (Foolish / Ashanti / Ashanti, 245.36s): duration matches no reference length",
+    "lrclib 24306358 (Foolish / Ashanti / Ashanti, 232.333061s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 23409328 (Foolish / Ashanti / Ashanti, 264.803265s): duration matches no reference length",
+    "lrclib 8737453 (Foolish / Ashanti / Ashanti, 213.0s): duration matches no reference length",
+    "lrclib 9038775 (Foolish / Ashanti / Ashanti, 223.0s): only 0% of title words in the lyric (wrong song?)",
+    "lrclib 26720830 (Foolish / Ashanti / Ashanti, 180.0s): duration matches no reference length",
+    "lrclib 11528456 (Foolish / Ashanti / Ashanti, 199.0s): duration matches no reference length",
+    "lrclib 38069442 (Foolish / Ashanti / Ashanti, 124.0s): duration matches no reference length",
+    "lrclib 4906854 (Foolish / Ashanti / Foolish, 213.0s): duration matches no reference length",
+    "lrclib 4998655 (Foolish / Ashanti / Foolish, 224.0s): only 0% of title words in the lyric (wrong song?)"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

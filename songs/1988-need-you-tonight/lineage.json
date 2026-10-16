@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/94889",
+    "title": "Need You Tonight",
+    "performer": "INXS",
+    "is_original": true,
+    "first_release_date": "1987",
+    "releases": [
+      {
+        "title": "Kick",
+        "uri": "https://api.secondhandsongs.com/release/4042",
+        "performer": "INXS"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 44,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/94889",
+    "title": "Need You Tonight",
+    "language": "English",
+    "writers": [
+      "Andrew Farriss",
+      "Michael Hutchence"
+    ],
+    "original_performer": "INXS",
+    "versions": 45,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Break My Heart",
+        "uri": "https://api.secondhandsongs.com/work/232662"
+      }
+    ]
+  }
+}

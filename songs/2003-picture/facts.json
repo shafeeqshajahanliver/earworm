@@ -1,6 +1,6 @@
 {
   "id": "2003-picture",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Picture (song)",
   "wikidata": {
     "qid": "Q7191144",
@@ -59,12 +59,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 3073e4b1-ae97-4469-8c3e-6aca393a17c3 (2002)",
+  "musicbrainz_match": "single release group 3073e4b1-ae97-4469-8c3e-6aca393a17c3 (2002); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "9761c8a8-1e0a-43b2-9a7d-ecd1a30f431f",
+    "recording_id": "226f63fb-8f80-4057-a834-a6899c8d1714",
     "title": "Picture",
-    "length_ms": 254000,
-    "first_release_date": "2002-11",
+    "length_ms": 298733,
+    "first_release_date": "2001-11-19",
     "artist_credit": "Kid Rock feat. Sheryl Crow",
     "artists": [
       {
@@ -76,18 +76,210 @@
         "mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f"
       }
     ],
-    "isrcs": [],
-    "recording_credits": [],
-    "urls": [],
+    "isrcs": [
+      "USAT20110175",
+      "USAT21207424",
+      "USWB11801843"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Al Sutton",
+        "mbid": "44620696-f7d4-4536-a00e-d1ee5f806342"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Sheryl Crow",
+        "mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "Sheryl Crow",
+        "mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Jimmie Bones",
+        "mbid": "ce01a289-f905-4306-9d03-4127416b5b31"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Kid Rock",
+        "mbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Kenny Olson",
+        "mbid": "998e72ce-be35-4b5b-8309-499e033449dc"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Kid Rock",
+        "mbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Al Sutton",
+        "mbid": "44620696-f7d4-4536-a00e-d1ee5f806342"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Kid Rock",
+        "mbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Sheryl Crow",
+        "mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Shirley Hayden",
+        "mbid": "385cc8d3-9023-4388-9975-4d1e735af32e"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Kid Rock",
+        "mbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Misty Love",
+        "mbid": "5229c2d7-2bf7-4811-9eea-dbe196524284"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/4087068"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/song/586705874"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/song/586705874"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/11009277"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/68612400"
+      }
+    ],
     "genres": [
+      "alternative metal",
+      "alternative rock",
+      "blues rock",
+      "country",
+      "country pop",
+      "country rock",
+      "funk metal",
+      "hip hop",
       "pop",
-      "rock"
+      "pop rock",
+      "rap rock",
+      "rock",
+      "singer-songwriter",
+      "southern rock"
     ],
     "tags": [
       "rock",
-      "pop"
+      "country rock",
+      "southern rock",
+      "alternative and punk",
+      "alternative rock",
+      "pop",
+      "alternative metal",
+      "blues rock",
+      "country",
+      "country pop"
     ],
     "releases": [
+      {
+        "id": "c8fa3e20-e933-48bf-84ad-babf127f710b",
+        "title": "Cocky",
+        "date": "2001",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "89f49ca2-b8d6-3fcd-966f-d68abdb81eb2",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "250b216b-5374-46ed-924c-ebe9468cdbd1",
+        "title": "Cocky",
+        "date": "2001",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "89f49ca2-b8d6-3fcd-966f-d68abdb81eb2",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3ca6751e-d2d4-4fea-833f-d8d2fd157ce7",
+        "title": "Cocky",
+        "date": "2001-11-19",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "89f49ca2-b8d6-3fcd-966f-d68abdb81eb2",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0f31557a-632b-4e17-8776-b20628761576",
+        "title": "Cocky",
+        "date": "2001-11-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "89f49ca2-b8d6-3fcd-966f-d68abdb81eb2",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "9af21aa1-8ffc-316c-ae9d-953d8d65c70c",
+        "title": "Cocky",
+        "date": "2001-11-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "89f49ca2-b8d6-3fcd-966f-d68abdb81eb2",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
       {
         "id": "81249b8a-686d-4565-8147-16bd9aa0f868",
         "title": "Picture",
@@ -99,12 +291,228 @@
         "secondary_types": []
       },
       {
-        "id": "7f2cffcf-337c-4c15-a520-0406ac3c5bdd",
-        "title": "Promo Only: Mainstream Radio, December 2002",
-        "date": "2002-11",
-        "country": "US",
+        "id": "5cf53a3d-01e4-4b7a-a7bd-616fa923e345",
+        "title": "Warner Music Canada Promotional CD, Volume 477, December 2002",
+        "date": "2002-12",
+        "country": "CA",
         "status": "Promotion",
-        "release_group": "5d216f39-1514-37a7-99f6-ccb089b98d21",
+        "release_group": "8f097cca-4b72-4831-96f1-0e9f06885916",
+        "primary_type": null,
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "afa5c252-8b02-4425-b562-859fdf049908",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "23ee90ee-c6c3-4de0-94a5-c0ba438805b9",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a4055fd0-2093-458d-9e3a-5c8a4b109444",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1a7c25f8-e857-4685-9e97-27f9cafa6d09",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ecf7b253-b484-4e03-84e9-d1595f8608aa",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8c9ca92b-804a-4f29-8d2a-bacadbef5d3d",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0226c42d-3c26-4eaf-ad95-d80835bbe4cb",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "99417ae6-837d-42f8-a233-95c9f3a313e5",
+        "title": "The Very Best Of Sheryl Crow",
+        "date": "2003",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "10423ad0-ce96-446d-b66b-8eb746759627",
+        "title": "The Very Best Of Sheryl Crow",
+        "date": "2003-01-01",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "cd16a543-8a99-4d88-8025-a6ad4274f3a7",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003-10-13",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f7d44ac3-3c8b-45f3-83ef-5bc0e5854c4b",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003-10-20",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "60cff636-9283-45e5-ab4b-3948ec67136f",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003-11-04",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ef9c1c06-a3eb-4c08-bde9-b6a3a20dbb96",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003-11-04",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6464aacb-6334-420a-9ffe-93f7fd853344",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003-11-04",
+        "country": "US",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f19a834d-b0c1-4d4a-abb1-c57c8d7b32e0",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003-11-04",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0a0f2638-40d8-4ef9-8533-a9345aa1618e",
+        "title": "KISA, Volume 10: Dealing With the Bad News",
+        "date": "2003-11-25",
+        "country": "US",
+        "status": "Bootleg",
+        "release_group": "5ebf34b2-6ffb-38bd-9db3-935264e2ced0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "86833943-d1d3-417a-a707-1b59a982bf21",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2003-12-30",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3be25457-f96f-31ce-acb8-d5f9569df4ae",
+        "title": "The Very Best of Sheryl Crow",
+        "date": "2004-01-27",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "60357090-6968-343d-8e83-953abba5dc78",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

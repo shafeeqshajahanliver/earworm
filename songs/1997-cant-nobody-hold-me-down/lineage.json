@@ -1,0 +1,52 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/6136",
+    "title": "Can't Nobody Hold Me Down",
+    "performer": "Puff Daddy & The Family feat. Mase",
+    "is_original": true,
+    "first_release_date": "1996",
+    "releases": [
+      {
+        "title": "No Way Out",
+        "uri": "https://api.secondhandsongs.com/release/342",
+        "performer": "Puff Daddy & The Family"
+      },
+      {
+        "title": "Can't Nobody Hold Me Down",
+        "uri": "https://api.secondhandsongs.com/release/58900",
+        "performer": "Puff Daddy & The Family feat. Mase"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 0,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/6136",
+    "title": "Can't Nobody Hold Me Down",
+    "language": "English",
+    "writers": [
+      "Mase",
+      "Puff Daddy",
+      "Stevie J.",
+      "Nashiem Myrick"
+    ],
+    "original_performer": "Puff Daddy & The Family feat. Mase",
+    "versions": 1,
+    "based_on": [],
+    "derived_works": []
+  }
+}

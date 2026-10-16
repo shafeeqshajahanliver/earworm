@@ -1,6 +1,6 @@
 {
   "id": "1991-rush-rush",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Rush Rush (Paula Abdul song)",
   "wikidata": {
     "qid": "Q167469",
@@ -78,12 +78,12 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 0f15ea26-b08e-373d-b902-1b472329b217 (1991-09)",
+  "musicbrainz_match": "single release group 0f15ea26-b08e-373d-b902-1b472329b217 (1991-09); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "b1a82c41-d6f8-4ff3-84db-8f72e6f5fc5c",
+    "recording_id": "84c381dd-11bf-47ff-896e-48284fb52dd0",
     "title": "Rush Rush",
-    "length_ms": 259693,
-    "first_release_date": "1991",
+    "length_ms": 293560,
+    "first_release_date": "1991-05-14",
     "artist_credit": "Paula Abdul",
     "artists": [
       {
@@ -92,9 +92,16 @@
       }
     ],
     "isrcs": [
-      "USVI29100026"
+      "USV129100002",
+      "USVI29100002"
     ],
     "recording_credits": [
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Keith Cohen",
+        "mbid": "33e61d90-16cb-4c78-a53c-130804662be6"
+      },
       {
         "role": "producer",
         "attributes": [],
@@ -111,45 +118,83 @@
     "urls": [],
     "genres": [
       "ballad",
+      "club",
+      "dance",
       "dance-pop",
       "electronic",
-      "hip hop",
+      "house",
       "pop",
       "r&b",
       "synth-pop"
     ],
     "tags": [
       "pop",
+      "ballad",
+      "dance",
       "dance-pop",
       "electronic",
       "adult contemporary",
-      "ballad",
+      "club",
       "club/dance",
-      "hip hop",
-      "pop/rock",
-      "r&b",
-      "synth-pop"
+      "house",
+      "pop music"
     ],
     "releases": [
       {
-        "id": "631059de-f3de-4dbd-abcf-511957bd4210",
-        "title": "100% Hits, Volume 1",
+        "id": "a4e790f9-cc0f-4b24-9960-16d71b6049f6",
+        "title": "Fido Apresenta Número Um",
         "date": "1991",
-        "country": "AU",
-        "status": "Official",
-        "release_group": "4b256954-3fc8-4bcd-81d3-f538d62c4088",
+        "country": "PT",
+        "status": null,
+        "release_group": "5065a421-a9e6-44d9-b01e-ac8e772db2e2",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "2d56f218-6ad6-4b8f-84d6-17fac99da6f0",
-        "title": "Hot and Fresh, Volume 6",
+        "id": "f56a97c4-06db-484b-8b81-9bcc9c44dc46",
+        "title": "Hit News 91, Volume 3",
+        "date": "1991",
+        "country": "CH",
+        "status": "Official",
+        "release_group": "570ebe0b-94d4-3357-bce2-e6c6ce95f82c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9ba0d2a3-90b1-47ba-afcb-8b9c282babe9",
+        "title": "Kuschelrock 5",
         "date": "1991",
         "country": "DE",
         "status": "Official",
-        "release_group": "cf160388-653d-4770-aaad-e36ea9b88b38",
+        "release_group": "d74b89a0-2287-3d34-838c-c74b749cca2b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fd76122d-edc5-4698-a78a-126d20d00987",
+        "title": "Pop Shop 50",
+        "date": "1991",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "260af850-f879-4502-ab0f-46e464a64e5c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7f085508-304a-4255-9d53-5a75e9cdf2e7",
+        "title": "Pop Shop 50",
+        "date": "1991",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "260af850-f879-4502-ab0f-46e464a64e5c",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
@@ -176,252 +221,194 @@
         "secondary_types": []
       },
       {
-        "id": "f88e0242-c4ba-4c6e-ba3c-fe7885169ce0",
-        "title": "Sahnestücke ’91: Soft‐Rock Hits",
+        "id": "d72dccc7-b141-4408-803a-f4fc3cff35e7",
+        "title": "Spellbound",
         "date": "1991",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "f2223c58-47c2-391e-a474-c060a18c42a6",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "b1d8a7e2-45e9-460d-b56b-87aa364cc890",
-        "title": "Schmucke Mucke",
-        "date": "1991",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "5c9b00b7-1978-49d9-ac33-a397d5897aa3",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "ef8c7e35-ab09-4d14-b285-a2d1dd6860d2",
-        "title": "Sweet Emotions",
-        "date": "1991",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "a63eac6c-cd46-3ae1-a959-63fd91b043e1",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "683a7075-fa1f-4257-82bc-9d9ba478561e",
-        "title": "Crème de la Crème",
-        "date": "1993",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "66c3ad1c-f165-48c6-913b-0094b961e2d7",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "138d72df-e531-4ffe-a0ac-33af9aeba6f9",
-        "title": "Moments of Love",
-        "date": "1994",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "5ed72f0f-469e-42f1-9f4e-f33fb04a25a5",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "6b26c746-b6f3-4997-adc3-4fde490d2c67",
-        "title": "The Love Album",
-        "date": "1994",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "0c4f98c0-193a-4381-869c-1d75322fba77",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "a512ff6e-8579-4405-ae4c-a2c0646f9a2a",
-        "title": "Donnamour",
-        "date": "1995",
-        "country": "BE",
-        "status": "Official",
-        "release_group": "650b1ea8-7c95-3747-bdd5-13368e3d4d3b",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "ac121d1c-90ba-4b85-b8c4-6d15eb8f5f74",
-        "title": "All for Love",
-        "date": "1996",
-        "country": "US",
-        "status": "Official",
-        "release_group": "45789a08-a80a-36b6-a2a9-4fe3bece1986",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "554bca71-ee9d-4a8d-b6d4-948aa720ae7f",
-        "title": "The Very Best of Pop Music 1990-91",
-        "date": "1996",
-        "country": "DK",
-        "status": "Official",
-        "release_group": "26382b28-da02-4265-9b61-dc8ac3c09857",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "f3fe7f2e-4db5-4dc1-a585-2211e680ab9f",
-        "title": "Greatest Hits",
-        "date": "2000-09-14",
-        "country": "US",
-        "status": "Official",
-        "release_group": "05e8bcbf-1110-3b71-834c-06546f92fa18",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "b0691889-4d1f-405b-85e5-17ad8d363df3",
-        "title": "Greatest Hits",
-        "date": "2000-09-14",
-        "country": "US",
-        "status": "Official",
-        "release_group": "05e8bcbf-1110-3b71-834c-06546f92fa18",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "8f980ffd-aba1-4fcb-b25c-bed6e0c96ed2",
-        "title": "De Pre Historie 1991",
-        "date": "2001",
-        "country": "BE",
-        "status": "Official",
-        "release_group": "c18a441b-ce4e-4b08-8f18-f411dd5cf349",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "4099100e-c6d3-4e5c-ab3c-aa33c0921462",
-        "title": "Heart Beats: Das geht unter die Haut",
-        "date": "2002",
         "country": "XE",
         "status": "Official",
-        "release_group": "a01e5385-ddb9-4406-affa-0e5829d244e6",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "ebf9dffe-dd40-4987-a18a-d377055c1b41",
-        "title": "Ronny’s Pop Show: Best of 90s",
-        "date": "2002",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "71b0ecc5-d152-3585-a70f-c9b581071778",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "ae648b23-70fd-4972-8f3e-af74d9024439",
-        "title": "Greatest Hits",
-        "date": "2002-10-23",
+        "id": "03e3a807-927e-4b7a-9753-7d6a13e416fa",
+        "title": "Spellbound",
+        "date": "1991",
         "country": "XE",
         "status": "Official",
-        "release_group": "05e8bcbf-1110-3b71-834c-06546f92fa18",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "5cdc1c4a-eb57-4cb0-aeec-47afa69be302",
-        "title": "Die besten Hits der 90er",
-        "date": "2003",
-        "country": "DE",
-        "status": "Official",
-        "release_group": "3fa44588-8824-3750-8263-1c7616d810cc",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "c4749cad-84f9-43c3-bf5c-a1cb5b4cae05",
-        "title": "Greatest Hits of the 90s",
-        "date": "2004-07-12",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "590a7df5-07a1-358e-bdbc-55d4227c6b32",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "f7581f2b-2e78-4372-9df0-02de95e55bdc",
-        "title": "Complete Nineties",
-        "date": "2005",
+        "id": "e400c110-d625-401b-b5ba-1a5bb3d1df6e",
+        "title": "Spellbound",
+        "date": "1991",
         "country": "AU",
         "status": "Official",
-        "release_group": "e7f39917-4f2b-3a96-a51c-612cc61805aa",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
         "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
+        "secondary_types": []
       },
       {
-        "id": "9ffc5e56-af6a-4775-81b2-ea66c6102487",
-        "title": "School Reunion: The Smoochies",
-        "date": "2005-01-31",
-        "country": "GB",
-        "status": "Official",
-        "release_group": "3bf27801-0ee4-311a-b861-7557727c4a73",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "d6fa7a68-83ab-485c-8a21-b4fac89686b3",
-        "title": "Greatest Hits: Straight Up!",
-        "date": "2007-05-08",
-        "country": "XE",
-        "status": "Official",
-        "release_group": "c87334c4-51c0-3e7d-95d6-ad615eae321a",
-        "primary_type": "Album",
-        "secondary_types": [
-          "Compilation"
-        ]
-      },
-      {
-        "id": "51c67d57-ae3c-443d-b778-56478501b8ef",
-        "title": "Greatest Hits: Straight Up!",
-        "date": "2007-05-08",
+        "id": "d831d69f-8cd5-49ec-a80b-4ba3f5b0ca96",
+        "title": "Spellbound",
+        "date": "1991",
         "country": "US",
         "status": "Official",
-        "release_group": "c87334c4-51c0-3e7d-95d6-ad615eae321a",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "123ec63a-4947-4c46-a5ce-3c5ebbf4b2ac",
+        "title": "Spellbound",
+        "date": "1991",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b847d909-b889-439f-97c7-e614eb9f529f",
+        "title": "Spellbound",
+        "date": "1991",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7385a209-aa71-4fd3-9518-59001ab376ba",
+        "title": "Spellbound",
+        "date": "1991",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "6fae51da-4bb1-4e76-bf67-058d208aa0e1",
+        "title": "The Greatest Hits 1991 - 3",
+        "date": "1991",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "8ea61023-e9e9-4b87-bfeb-c27622a36ffc",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "50a60e80-c604-41d8-b445-de9b2283660a",
+        "title": "Wild Attraction",
+        "date": "1991",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "470f658d-74db-487b-9479-692467c5f995",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9103d088-d102-47d4-98a4-d644b65db6e6",
+        "title": "Wow! 91 International",
+        "date": "1991",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "41903fd2-2d7c-4c8f-a72c-951b84df3937",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "acb9a432-f4bb-4f9e-aecf-de9cd116b808",
+        "title": "Spellbound",
+        "date": "1991-05-14",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "bcd0428f-449d-4cf4-99be-971b43960270",
+        "title": "Spellbound",
+        "date": "1991-05-14",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ceba61ea-445a-4e1b-982f-a01108fec12b",
+        "title": "Spellbound",
+        "date": "1991-05-14",
+        "country": "US",
+        "status": "Official",
+        "release_group": "7118af00-fcc9-3116-be07-dbd7cf7415d3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d4691d1e-cd03-4cdf-bf84-df8f3d7dc705",
+        "title": "Rush Rush",
+        "date": "1991-09",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "0f15ea26-b08e-373d-b902-1b472329b217",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "ac4c435f-67dc-3fe6-b140-58c5157c5f97",
+        "title": "Now That’s What I Call Music! 20",
+        "date": "1991-11-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a4d7b4d2-4c8d-3fe4-be6d-4adf676cd300",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "30b8b98e-4e42-41a6-85ba-b9878d1770c7",
+        "title": "Now That’s What I Call Music! 20",
+        "date": "1991-11-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a4d7b4d2-4c8d-3fe4-be6d-4adf676cd300",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "577e3ba1-57b1-332f-ba74-ade17023e884",
+        "title": "Now That’s What I Call Music! 20",
+        "date": "1991-11-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a4d7b4d2-4c8d-3fe4-be6d-4adf676cd300",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d4c522aa-0687-4e8e-9c5d-1da64f247823",
+        "title": "Mr Music Plus: Plus 1*92",
+        "date": "1992",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "520b8486-968c-412f-a21f-7f9737af1ed0",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"

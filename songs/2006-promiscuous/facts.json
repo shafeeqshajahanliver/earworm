@@ -1,6 +1,6 @@
 {
   "id": "2006-promiscuous",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Promiscuous (song)",
   "wikidata": {
     "qid": "Q943285",
@@ -130,13 +130,13 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group 04555eea-c758-35d8-be41-58d7bba9cebf (2006-01-01)",
+  "musicbrainz_match": "single release group 04555eea-c758-35d8-be41-58d7bba9cebf (2006-01-01); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "b8e9dddd-09d2-49a3-82e2-0f63fb832e94",
-    "title": "Promiscuous (Richard Vission Rerub)",
-    "length_ms": 351000,
-    "first_release_date": "2006-07",
-    "artist_credit": "Nelly Furtado feat. Timbaland",
+    "recording_id": "18a6f622-fb42-42b4-82cc-3f8dd428547f",
+    "title": "Promiscuous",
+    "length_ms": 242293,
+    "first_release_date": "2006-05",
+    "artist_credit": "Nelly Furtado featuring Timbaland",
     "artists": [
       {
         "name": "Nelly Furtado",
@@ -147,33 +147,485 @@
         "mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1"
       }
     ],
-    "isrcs": [],
-    "recording_credits": [],
-    "urls": [],
-    "genres": [],
-    "tags": [],
+    "isrcs": [
+      "USUM70603473"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Demacio Castellón",
+        "mbid": "a414f657-bd76-436c-b58a-350845565b8f"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Vadim Chislov",
+        "mbid": "5c755229-74e9-40af-8b5e-bc983136680b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Ben Jost",
+        "mbid": "2d3a7ac8-cd8b-4e8a-81c8-7df8703c1c94"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "James Roach",
+        "mbid": "1efd8940-2620-4125-8d67-38c8f6406f81"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Kobla Tetey",
+        "mbid": "d1d5b62d-7c84-4000-85bd-6150c41de79f"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Danja",
+        "mbid": "791bb864-a45e-462b-8444-f6c0baacddec"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Danja",
+        "mbid": "791bb864-a45e-462b-8444-f6c0baacddec"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Timbaland",
+        "mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Timbaland",
+        "mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Demacio Castellón",
+        "mbid": "a414f657-bd76-436c-b58a-350845565b8f"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Jim Beanz",
+        "mbid": "763bbfc9-a9b8-4eb3-9f00-dd8eb596d898"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Danja",
+        "mbid": "791bb864-a45e-462b-8444-f6c0baacddec"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Timbaland",
+        "mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Demacio Castellón",
+        "mbid": "a414f657-bd76-436c-b58a-350845565b8f"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Marcella Araica",
+        "mbid": "d44cea04-46ea-4d93-84c5-be5c61676baf"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Demacio Castellón",
+        "mbid": "a414f657-bd76-436c-b58a-350845565b8f"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "additional",
+          "background vocals"
+        ],
+        "name": "Jim Beanz",
+        "mbid": "763bbfc9-a9b8-4eb3-9f00-dd8eb596d898"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Nelly Furtado",
+        "mbid": "13655113-cd16-4b43-9dca-cadbbf26ee05"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "guest"
+        ],
+        "name": "Timbaland",
+        "mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://music.youtube.com/watch?v=BO7FQnegW1o"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/00Gm6ns4SKZV4Ww7fJHEAr"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/4ZqU83Atst1wOarobxut5m"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/6MhZIoafhYA8sZRvU4m0Fy"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2319592965"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/4032000481"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/4252841381"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/de/song/6806436964"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/de/song/6806436964"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/298886837"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/526331893"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/556606870"
+      }
+    ],
+    "genres": [
+      "dance-pop",
+      "electro house",
+      "electronic",
+      "europop",
+      "funk",
+      "hip hop",
+      "latin",
+      "pop",
+      "pop rap",
+      "pop rock",
+      "r&b",
+      "rock",
+      "soul"
+    ],
+    "tags": [
+      "pop",
+      "adult alternative pop",
+      "contemporary pop/rock",
+      "hip hop",
+      "latin",
+      "dance-pop",
+      "other pop",
+      "pop rock",
+      "r&b",
+      "electro house"
+    ],
     "releases": [
       {
-        "id": "2f3cc835-7db2-4eba-a3fe-fa06d11fcc05",
-        "title": "Ultimate Club Hits",
+        "id": "9b6724c5-7089-462e-acc6-d7c1be14cd60",
+        "title": "Bravo Hits 55",
         "date": "2006",
-        "country": "SE",
-        "status": "Promotion",
-        "release_group": "e2c0c4a3-40cb-4afc-a5e0-e1afda30d564",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "70f6f2db-5a87-30db-ab71-f49079dc4fdb",
         "primary_type": "Album",
         "secondary_types": [
           "Compilation"
         ]
       },
       {
-        "id": "c064b078-3b52-4894-b163-772dff83d534",
-        "title": "Promiscuous (remixes)",
-        "date": "2006-07",
-        "country": null,
+        "id": "48262c56-9e8d-4038-a882-94d0a460c2b0",
+        "title": "Hit Box: The Very Best of 2006",
+        "date": "2006",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "3016262b-fbf5-45e3-bd17-3b6d126b9e6e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "48bef91f-d2ee-47fb-8503-d919038591e4",
+        "title": "Promo Only: Urban Club, June 2006",
+        "date": "2006-05",
+        "country": "US",
         "status": "Promotion",
+        "release_group": "82eae00e-816f-3a02-ae22-e057e67b25a7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d04cd71f-b6c9-4cd8-9af8-dd492df724e9",
+        "title": "Loose",
+        "date": "2006-06-07",
+        "country": "CZ",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "90764ec3-95fc-4553-b50d-aee97fd415e5",
+        "title": "Loose",
+        "date": "2006-06-07",
+        "country": "JP",
+        "status": null,
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a624b83f-0fbe-49e4-a457-9893e896a7b0",
+        "title": "Loose",
+        "date": "2006-06-07",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c0eb86a1-4e0a-49e0-a049-cded94e3d85b",
+        "title": "Loose",
+        "date": "2006-06-08",
+        "country": "SG",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "9900b10c-8700-48a2-97dc-2ed49b28b02e",
+        "title": "Loose",
+        "date": "2006-06-09",
+        "country": "IE",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0651b228-5eea-454b-99d5-97b1768ca57c",
+        "title": "Loose",
+        "date": "2006-06-09",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e3ca66db-d2b9-45ba-ade8-7da38d081188",
+        "title": "Loose",
+        "date": "2006-06-09",
+        "country": "PL",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "fbc20496-6db7-41b8-9258-b38471ab6e42",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "26461342-bedc-4003-848c-c7ca04dfae73",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "bf4359a9-d379-4c78-880f-46a5638ae68b",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e51f0649-244d-4e6b-af6a-dd991509fa49",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "bd8e1f74-8718-3028-9066-0bedf7772157",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c5f416d3-151a-4c94-9dee-3d98e5f80210",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "ES",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "36ce69b7-c382-4a60-b920-a63ea8948504",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "US",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "90b44637-4fd5-4c1d-89fa-d9bd273920c7",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "US",
+        "status": null,
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "22683ea3-89b6-4a2a-a9ec-e21fb84bda77",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "ES",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0c2e6f17-2b54-47eb-afd2-044e0752c697",
+        "title": "Loose",
+        "date": "2006-06-20",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3fe79a7b-16c9-471d-9fb0-864b31091d0d",
+        "title": "Loose",
+        "date": "2006-07-08",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "723dcf4d-800e-3479-87fb-ba5b9594e375",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ccb18862-4bd0-4dc2-b2bb-510d95b0e833",
+        "title": "Promiscuous Remixes",
+        "date": "2006-08-22",
+        "country": "XW",
+        "status": "Official",
         "release_group": "04555eea-c758-35d8-be41-58d7bba9cebf",
         "primary_type": "Single",
         "secondary_types": []
+      },
+      {
+        "id": "a9819294-6184-4a73-8b91-bced0ef10496",
+        "title": "Bravo Hits 55",
+        "date": "2006-10-13",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "70f6f2db-5a87-30db-ab71-f49079dc4fdb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ca5d5e79-3eba-4a8f-b319-085c9d08b87b",
+        "title": "Bravo Hits 55",
+        "date": "2006-10-13",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "70f6f2db-5a87-30db-ab71-f49079dc4fdb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a218a7bd-1ef7-4a3d-864f-4423cdb866fb",
+        "title": "You Can Dance",
+        "date": "2006-12-22",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "0f8b5101-4500-30e3-87a0-d14d9c48a103",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
       }
     ],
     "work": {

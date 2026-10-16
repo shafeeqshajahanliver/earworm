@@ -20,7 +20,7 @@ us, confidence 'computed'), then recomputes comparisons and *.none markers.
 
 Run: PYTHONPATH=tools python3 tools/chordonomicon.py
 """
-import csv, os, re, sys, urllib.parse
+import csv, os, re, sys, time, urllib.parse
 from common import *
 import harmony as H
 from expert_sets import merge_write, finalise
@@ -31,6 +31,7 @@ MB = "https://musicbrainz.org/ws/2/"
 LICENCE = "CC BY-NC 4.0 (Chordonomicon, Kantarelis et al. 2024); chords are crowd transcriptions from fan sites"
 SP = re.compile(r"open\.spotify\.com/(?:intl-[a-z]+/)?track/([A-Za-z0-9]{22})")
 MAX_LOOKUPS = 25
+MAX_CHORDS = 400  # a long pop song rarely has more than ~250 chord changes
 
 
 def mbj(path):
@@ -187,7 +188,14 @@ def main():
     songs = load_songs()
     ids, arts, info = {}, {}, {}
     for s in songs:
-        found, art, looked = gather_ids(s)
+        for attempt in range(3):  # network blips: retry, then record the song as not looked up
+            try:
+                found, art, looked = gather_ids(s)
+                break
+            except Exception as e:
+                print(s["id"], "lookup error", repr(e)[:120], file=sys.stderr)
+                found, art, looked = {}, [], "error"
+                time.sleep(30)
         ids[s["id"]] = found
         arts[s["id"]] = art
         info[s["id"]] = looked
@@ -201,8 +209,15 @@ def main():
         sid = s["id"]
         hits = [(r, ids[sid][i]) for i in ids[sid] for r in rows.get(i, [])]
         seen, srcs = set(), []
+        rejected = []
         for r, how in hits:
             if r["chords"] in seen:
+                continue
+            n_tok = len([t for t in r["chords"].split() if not t.startswith("<")])
+            if n_tok > MAX_CHORDS:  # whole albums or medleys filed under one Spotify ID
+                rejected.append({"row": r["id"], "chords": n_tok, "reason": "longer than %d chords: "
+                                 "probably a whole album or medley, not one song" % MAX_CHORDS})
+                seen.add(r["chords"])
                 continue
             seen.add(r["chords"])
             srcs.append(build(r, how))
@@ -220,8 +235,10 @@ def main():
             "spotify_artist_ids": arts[sid],
             "musicbrainz_recordings_checked": info[sid],
             "chordonomicon_rows": [r["id"] for r, _ in hits],
+            "rejected_rows": rejected,
             "chordonomicon_rows_for_artist": sum(art_count.get(a, 0) for a in arts[sid]),
             "status": ("matched" if srcs else
+                       "only oversized rows (album or medley), rejected" if rejected else
                        "no Spotify track ID found via MusicBrainz or Wikidata" if not ids[sid] else
                        "Spotify IDs found but none is in Chordonomicon"),
             "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)", "confidence": "sourced",

@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/44509",
+    "title": "Fantasy",
+    "performer": "Mariah Carey",
+    "is_original": true,
+    "first_release_date": "1995-09-19",
+    "releases": [
+      {
+        "title": "Daydream",
+        "uri": "https://api.secondhandsongs.com/release/6499",
+        "performer": "Mariah Carey"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 12,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/44509",
+    "title": "Fantasy",
+    "language": "English",
+    "writers": [
+      "Dave Hall [US1]",
+      "Mariah Carey"
+    ],
+    "original_performer": "Mariah Carey",
+    "versions": 13,
+    "based_on": [],
+    "derived_works": []
+  }
+}

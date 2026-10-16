@@ -1,0 +1,71 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 37493835,
+  "kind": "synced",
+  "matched": {
+    "track": "Maggie May",
+    "artist": "Rod Stewart",
+    "album": "The Best of Rod Stewart [UK]",
+    "duration_s": 347.0
+  },
+  "duration_matched_to": "musicbrainz recording length (347s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 347.133,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 346.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 314.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 350.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 8,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 36840578 (Maggie May / Rod Stewart / Billboard: 1971, 315.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36842350 (Maggie May / Rod Stewart / Hi-Res Masters - Greatest Hits Ever Volume III, 355.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36848854 (Maggie May / Rod Stewart / The Definitive Rod Stewart, 300.0s): duration matches no reference length",
+    "lrclib 36960127 (Maggie May / Rod Stewart / The Ultimate Rock & Roll Collection: The 70S, 314.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36967700 (Maggie May / Rod Stewart / Superhits: The Early '70s, 314.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37464713 (Maggie May / Rod Stewart / Legends the Ultimate Rock Collection (8 Cd Box Set), 316.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37495042 (Maggie May / Rod Stewart / American Classics & Music Legends, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37167401 (Maggie May / Rod Stewart / Vol.2 (1971-1973), 316.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37129530 (Maggie May / Rod Stewart / The Very Best of Rod Stewart, 300.0s): duration matches no reference length",
+    "lrclib 37187543 (Maggie May / Rod Stewart / 70s Hits – The Collection, 317.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37188630 (Maggie May / Rod Stewart / Rock Classics - Milestones, 317.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37184489 (Maggie May / Rod Stewart / Thomas Gottschalk präsentiert - 50 Jahre Rock! - Klassiker & Hits, 298.0s): duration matches no reference length",
+    "lrclib 37033844 (Maggie May / Rod Stewart / Charts 1971 CD 4, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37033955 (Maggie May / Rod Stewart / 70's No 1 Dj Collection, 315.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37091937 (Maggie May / Rod Stewart / 70's #1s, 316.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37094799 (Maggie May / Rod Stewart / Rock & Roll Hits, 343.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 36662838 (Maggie May / Rod Stewart / (Rock Live 33) Maggie May [Rod Stewart], 323.0s): live/remix/other version",
+    "lrclib 29397229 (Maggie May / Rod Stewart / Maggie May The Best Of Rod Stewart, 344.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 29624969 (Maggie May / Rod Stewart / Rod Stewart - Maggie May (The Essential Collection), 315.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 1297570 (Maggie May / Rod Stewart / Maggie May, 309.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 27863354 (Maggie May / Rod Stewart / Maggie May, 318.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 21376142 (Maggie May / Rod Stewart / Rod Stewart, 200.0s): duration matches no reference length",
+    "lrclib 806850 (Maggie May / Rod Stewart / Rod Stewart, 309.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 26857272 (Maggie May / Rod Stewart / Rod Stewart, 299.841437s): duration matches no reference length",
+    "lrclib 13496996 (Maggie May / Rod Stewart / Rod Stewart, 315.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 13687339 (Maggie May / Rod Stewart / Rod Stewart, 322.337959s): duration matches no reference length",
+    "lrclib 15457167 (Maggie May / Rod Stewart / Rod Stewart, 319.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 37730840 (Maggie May / Rod Stewart / Rod Stewart, 326.0s): duration matches no reference length",
+    "lrclib 32714284 (Maggie May / Rod Stewart / Maggie May (Single), 300.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

@@ -1,6 +1,6 @@
 {
   "id": "1988-heaven-is-a-place-on-earth",
-  "retrieved": "2026-10-12",
+  "retrieved": "2026-10-16",
   "wikipedia_article": "Heaven Is a Place on Earth",
   "wikidata": {
     "qid": "Q730527",
@@ -71,11 +71,11 @@
     "source": "Wikidata (CC0)",
     "confidence": "sourced"
   },
-  "musicbrainz_match": "single release group cb0bc408-6ccf-4554-bb1f-44b9c720f4d9 (1987)",
+  "musicbrainz_match": "single release group cb0bc408-6ccf-4554-bb1f-44b9c720f4d9 (1987); track closest to the Wikipedia single length",
   "musicbrainz": {
-    "recording_id": "bfb2b1ae-99af-4b18-81cb-d5e08e53947c",
-    "title": "Heaven Is a Place on Earth (Down to Earth dub)",
-    "length_ms": 323653,
+    "recording_id": "4582e5b6-9bd4-45f9-8c04-419c5b959704",
+    "title": "Heaven Is a Place on Earth (a cappella)",
+    "length_ms": 234000,
     "first_release_date": "1987",
     "artist_credit": "Belinda Carlisle",
     "artists": [
@@ -88,20 +88,36 @@
     "recording_credits": [],
     "urls": [],
     "genres": [
+      "downtempo",
       "electronic",
-      "hi-nrg",
       "pop rock",
+      "power pop",
       "rock",
+      "soft rock",
       "synth-pop"
     ],
     "tags": [
       "electronic",
-      "hi-nrg",
       "pop rock",
       "rock",
-      "synth-pop"
+      "synth-pop",
+      "a cappella",
+      "adult contemporary",
+      "downtempo",
+      "power pop",
+      "soft rock"
     ],
     "releases": [
+      {
+        "id": "308c0054-2e9f-4aa4-bcbb-b0deef20bc6d",
+        "title": "Heaven Is a Place on Earth",
+        "date": "1987",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "cb0bc408-6ccf-4554-bb1f-44b9c720f4d9",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
       {
         "id": "2fd789c6-2d5c-4097-91f3-aa0cdf938e74",
         "title": "Heaven Is a Place on Earth",
@@ -133,20 +149,20 @@
         "secondary_types": []
       },
       {
-        "id": "943a698e-edf3-4061-9b28-22f94e480130",
+        "id": "7f55ac64-92eb-4212-90f9-b74e52b91ca5",
         "title": "Heaven on Earth",
         "date": "2013-08-26",
-        "country": "XE",
+        "country": "GB",
         "status": "Official",
         "release_group": "290f20b7-f6ce-3a03-9f72-30c69d3246f6",
         "primary_type": "Album",
         "secondary_types": []
       },
       {
-        "id": "7f55ac64-92eb-4212-90f9-b74e52b91ca5",
+        "id": "943a698e-edf3-4061-9b28-22f94e480130",
         "title": "Heaven on Earth",
         "date": "2013-08-26",
-        "country": "GB",
+        "country": "XE",
         "status": "Official",
         "release_group": "290f20b7-f6ce-3a03-9f72-30c69d3246f6",
         "primary_type": "Album",

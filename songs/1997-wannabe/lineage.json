@@ -1,0 +1,55 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-16",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/16818",
+    "title": "Wannabe",
+    "performer": "Spice Girls",
+    "is_original": true,
+    "first_release_date": "1996-07-03",
+    "releases": [
+      {
+        "title": "Spice",
+        "uri": "https://api.secondhandsongs.com/release/285",
+        "performer": "Spice Girls"
+      },
+      {
+        "title": "Wannabe",
+        "uri": "https://api.secondhandsongs.com/release/211916",
+        "performer": "Spice Girls"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 59,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/16818",
+    "title": "Wannabe",
+    "language": "English",
+    "writers": [
+      "Victoria Beckham",
+      "Mel B",
+      "Emma Bunton",
+      "Melanie C",
+      "Geri Halliwell",
+      "Matt Rowe",
+      "Biff"
+    ],
+    "original_performer": "Spice Girls",
+    "versions": 60,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Rettungsschwimmer",
+        "uri": "https://api.secondhandsongs.com/work/125547"
+      },
+      {
+        "title": "K padnutí",
+        "uri": "https://api.secondhandsongs.com/work/269889"
+      }
+    ]
+  }
+}
