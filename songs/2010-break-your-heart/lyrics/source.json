@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 8708344,
+  "kind": "synced",
+  "matched": {
+    "track": "Break Your Heart",
+    "artist": "Taio Cruz",
+    "album": "Break Your Heart",
+    "duration_s": 202.0
+  },
+  "duration_matched_to": "musicbrainz recording length (202s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 202.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 203.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 185.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 203.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 0.886,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 34458404 (Break Your Heart / Taio Cruz / WWW.iM1MUSIC.NET, 209.0s): duration matches no reference length",
+    "lrclib 33569802 (Break Your Heart / Taio Cruz / Break Your Heart CDM, 489.0s): duration matches no reference length",
+    "lrclib 33788283 (Break Your Heart / Taio Cruz / Rokstarr, 140.0s): duration matches no reference length",
+    "lrclib 36554677 (Break Your Heart / Taio Cruz / Rokstarr (Special Edition), 173.0s): duration matches no reference length",
+    "lrclib 27645632 (Break Your Heart / Taio Cruz / Taio Cruz best, 214.0s): duration matches no reference length",
+    "lrclib 34115731 (Break Your Heart / Taio Cruz / Break Your Heart, 271.0s): duration matches no reference length",
+    "lrclib 20522324 (Break Your Heart / Taio Cruz / Break Your Heart, 195.134694s): duration matches no reference length",
+    "lrclib 26084236 (Break Your Heart / Taio Cruz / Break Your Heart, 191.874s): duration matches no reference length",
+    "lrclib 31747112 (Break Your Heart / Taio Cruz / Break Your Heart, 442.0s): duration matches no reference length",
+    "lrclib 26816271 (Break Your Heart (Paused) / Taio Cruz / Break Your Heart, 191.874s): duration matches no reference length",
+    "lrclib 38903694 (Break Your Heart (radio) / Taio Cruz / Break Your Heart, 195.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

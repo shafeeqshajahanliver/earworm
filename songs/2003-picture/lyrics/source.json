@@ -1,0 +1,62 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 20522620,
+  "kind": "synced",
+  "matched": {
+    "track": "Picture",
+    "artist": "Kid Rock",
+    "album": "Cocky",
+    "duration_s": 302.9713408
+  },
+  "duration_matched_to": "musicbrainz recording length (299s)",
+  "duration_diff_s": 4.2,
+  "reference_lengths": [
+    {
+      "seconds": 298.733,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 299.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 298.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 307.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 0.985,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37415432 (Picture / Kid Rock Feat. Sheryl Crow / Billboard Hot 100 Charts (2003), 255.0s): duration matches no reference length",
+    "lrclib 35738107 (Picture / Kid Rock feat. Sheryl Crow / Cocky, 274.0s): duration matches no reference length",
+    "lrclib 19666098 (Picture / Kid Rock Feat. Sheryl Crow / Billboard 2003, 255.007347s): duration matches no reference length",
+    "lrclib 22160224 (Picture / Kid Rock Feat. Sheryl Crow / Billboard Top 100 Hits Of 2003, 255.007347s): duration matches no reference length",
+    "lrclib 21585327 (Picture / Kid Rock(feat Sheryl Crow) / Cocky, 87.055562s): duration matches no reference length",
+    "lrclib 23575791 (Picture / Kid Rock Feat. Sheryl Crow / Billboard Top 100 of 2003, 255.007347s): duration matches no reference length",
+    "lrclib 9281556 (Picture / Kid Rock feat. Sheryl Crow / Promo Only: Mainstream Radio, December 2002, 254.0s): duration matches no reference length",
+    "lrclib 4764970 (Picture / Kid Rock Feat. Sheryl Crow / Billboard Top 100 - 2003, 255.0s): duration matches no reference length",
+    "lrclib 6486538 (Picture / Kid Rock feat. Sheryl Crow / Billboard Year-End Chart of 2003, 255.0s): duration matches no reference length",
+    "lrclib 8349967 (Picture / Kid Rock (Feat. Sheryl Crow) / Cocky, 255.0s): duration matches no reference length",
+    "lrclib 27663591 (Picture / Kid Rock feat. Sheryl Crow / The Top 101 of 2003 on KC101, 255.0s): duration matches no reference length",
+    "lrclib 37390220 (Picture / Kid Rock / Billboard Top 100 of 2003, 255.0s): duration matches no reference length",
+    "lrclib 20237507 (Picture / Kid Rock / 2003, 255.0073344s): duration matches no reference length",
+    "lrclib 21070641 (Picture / Kid Rock / Billboard Top 100 Hits Of 2003, 255.007347s): duration matches no reference length",
+    "lrclib 19057576 (Picture / Kid Rock / Badass Hits, 1110.8965s): duration matches no reference length",
+    "lrclib 19002699 (Picture / Kid Rock / 'Live' Trucker, 369.912s): live/remix/other version",
+    "lrclib 20374257 (Picture / Kid Rock / Cocky, 1020.71625s): duration matches no reference length",
+    "lrclib 20520163 (Picture / Kid Rock / Jim Beam Exclusive Live EP, 369.29625s): live/remix/other version",
+    "lrclib 19533471 (Picture / Kid Rock / Cocky, 1486.4135s): duration matches no reference length",
+    "lrclib 28398409 (Picture / Kid Rock / ‘Live’ Trucker, 370.0s): live/remix/other version",
+    "lrclib 28868210 (Picture / Kid Rock / Cocky, 242.0s): duration matches no reference length",
+    "lrclib 31933222 (Picture / Kid Rock / Kid Rock 'Live' Trucker, 370.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

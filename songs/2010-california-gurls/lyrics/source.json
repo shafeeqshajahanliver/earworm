@@ -1,0 +1,51 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35285075,
+  "kind": "synced",
+  "matched": {
+    "track": "California Gurls",
+    "artist": "Katy Perry",
+    "album": "V.A. - Remember...the 2010s (2026 Various) [Flac 16-44] - 36. Katy Perry - California Gurls",
+    "duration_s": 235.0
+  },
+  "duration_matched_to": "musicbrainz recording length (235s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 235.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 234.0,
+      "source": "deezer track matched by ISRC"
+    }
+  ],
+  "matching_candidates": 49,
+  "agreement_with_other_candidates": 0.933,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "title words barely appear in the lyric; accepted on matching title, artist and a sourced length"
+  ],
+  "rejected_candidates": [
+    "lrclib 12561579 (California Gurls / Katy Perry Featuring Snoop Dogg / Billboard Year-End Hot 100 Songs, 233.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 17129200 (California Gurls / Katy Perry Featuring Snoop Dogg / 101 Summer Songs, 237.0s): only 50% of title words in the lyric (wrong song?)",
+    "lrclib 2704432 (California Gurls (Passion Pit Main Mix) / Katy Perry featuring Snoop Dogg / Teenage Dream, 251.0s): live/remix/other version",
+    "lrclib 1344005 (California Gurls (Passion Pit remix main) / Katy Perry featuring Snoop Dogg / California Gurls, 263.0s): live/remix/other version",
+    "lrclib 7051086 (California Gurls (Manhattan Clique Radio Edit) / Katy Perry featuring Snoop Dogg / Wanna Dance?, 218.0s): duration matches no reference length",
+    "lrclib 7051077 (California Gurls (feat. Snoop Dogg) (Passion Pit Main Mix) / Katy Perry featuring Snoop Dogg / Teenage Dream, 251.0s): live/remix/other version",
+    "lrclib 26009248 (California Gurls (feat. Snoop Dogg) [Armand Van Helden Remix] / Katy Perry featuring Snoop Dogg / Teenage Dream, 348.577959s): live/remix/other version",
+    "lrclib 37107030 (California Gurls / Katy Perry / German Top 100 Jahrescharts 2010, 242.0s): duration matches no reference length",
+    "lrclib 35079773 (California Gurls / Katy Perry / Teenage Dream: The Complete Confection, 219.0s): duration matches no reference length",
+    "lrclib 33703703 (California Gurls / Katy Perry / California Gurls (Katy Perry Feat. Snoop Dogg Tribute), 218.0s): live/remix/other version",
+    "lrclib 36922851 (California Gurls / Katy Perry feat. Snoop Dogg / Now That's What I Call Music! 76, 228.0s): duration matches no reference length",
+    "lrclib 18739459 (California Gurls / Katy Perry / California Gurls, 242.076735s): duration matches no reference length",
+    "lrclib 20959792 (California Gurls / Katy Perry / California Gurls, 247.353469s): duration matches no reference length",
+    "lrclib 22584789 (California Gurls / Katy Perry / California Gurls, 228.784625s): duration matches no reference length",
+    "lrclib 24909929 (California Gurls / Katy Perry / California Gurls, 244.285562s): duration matches no reference length",
+    "lrclib 27335670 (California Gurls / Katy Perry / California Gurls, 225.318312s): duration matches no reference length",
+    "lrclib 30637384 (California Gurls / Katy Perry / California Gurls, 220.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}

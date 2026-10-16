@@ -24,9 +24,9 @@ def layers(sid):
         "cover_itunes": bool(cover.get("itunes", {}).get("file")),
         "lineage": has("lineage.json"),
         "structure_expert": any(k in EXPERT for k in st_src),
-        "structure_crowd": "chordonomicon" in st_src,
+        "structure_crowd": any(k.startswith("chordonomicon") for k in st_src),
         "chords_expert": any(k in EXPERT for k in ch_src),
-        "chords_crowd": "chordonomicon" in ch_src,
+        "chords_crowd": any(k.startswith("chordonomicon") for k in ch_src),
         "_struct_sources": st_src, "_chord_sources": ch_src,
     }
 

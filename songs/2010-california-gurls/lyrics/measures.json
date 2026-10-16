@@ -1,0 +1,41 @@
+{
+  "id": "2010-california-gurls",
+  "lyrics_kind": "synced",
+  "lrclib_id": 35285075,
+  "lines": 77,
+  "words": 462,
+  "unique_words": 171,
+  "type_token_ratio": 0.37,
+  "repeated_line_share": 0.377,
+  "distinct_lines": 48,
+  "zlib_compression_ratio": 0.332,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "california gurls",
+  "title_phrase_occurrences": 0,
+  "pronouns": {
+    "first_singular": 12,
+    "second": 15,
+    "first_plural": 18
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 2.97,
+  "last_line_s": 225.63,
+  "sung_time_s": 227.1,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 122.1,
+  "words_per_minute_track": 118.0,
+  "longest_gap_between_lines_s": 4.86,
+  "longest_gap_starts_at_s": 33.81,
+  "first_repeated_block": {
+    "first_at_s": 38.67,
+    "recurs_at_s": 99.78,
+    "lines": [
+      "You could travel the world",
+      "But nothing comes close to the golden coast"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 35285075",
+  "retrieved": "2026-10-16",
+  "confidence": "computed"
+}

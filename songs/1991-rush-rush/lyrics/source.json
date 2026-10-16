@@ -1,0 +1,52 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 1187592,
+  "kind": "synced",
+  "matched": {
+    "track": "Rush Rush",
+    "artist": "Paula Abdul",
+    "album": "Spellbound",
+    "duration_s": 293.0
+  },
+  "duration_matched_to": "musicbrainz recording length (294s)",
+  "duration_diff_s": 0.6,
+  "reference_lengths": [
+    {
+      "seconds": 293.56,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 293.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 296.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 23,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36983491 (Rush Rush / Paula Abdul / Greatest Hits, 263.0s): duration matches no reference length",
+    "lrclib 36951092 (Rush Rush / Paula Abdul / Greatest Hits [162360] [2000], 261.0s): duration matches no reference length",
+    "lrclib 36951098 (Rush, Rush / Paula Abdul / Greatest Hits_ Straight Up! (2007), 261.0s): duration matches no reference length",
+    "lrclib 36998255 (Rush Rush / Paula Abdul / Best Of Pop Maxis Vol.07 (Bootleg), 259.0s): duration matches no reference length",
+    "lrclib 37307773 (Rush Rush / Paula Abdul / Top 13 präsentiert \"Let's Talk About Love 2\" (disc 1), 261.0s): duration matches no reference length",
+    "lrclib 37393693 (Rush Rush / Paula Abdul / Top 100 over 1991, 261.0s): duration matches no reference length",
+    "lrclib 35188650 (Rush Rush / Paula Abdul / Mr Music Hits 1991 Vol. 8, 256.0s): duration matches no reference length",
+    "lrclib 33351150 (Rush Rush / Paula Abdul / Ultimate 90 - Les Plus Grands Tubes Des Années 90, 207.0s): duration matches no reference length",
+    "lrclib 35463392 (Rush Rush / Paula Abdul / Rush Rush, 356.0s): duration matches no reference length",
+    "lrclib 27114203 (Rush Rush / Paula Abdul / Rush Rush, 255.1095s): duration matches no reference length",
+    "lrclib 21443684 (Rush Rush (7\" edit) / Paula Abdul / Rush Rush, 256.44s): duration matches no reference length",
+    "lrclib 4762022 (Rush Rush (7\" edit) / Paula Abdul / Rush Rush, 261.0s): duration matches no reference length",
+    "lrclib 38292215 (Rush, Rush / Paula Abdul / Greatest Hits of Paula Abdul, 260.0s): duration matches no reference length",
+    "lrclib 25225326 (Rush Rush (7' edit) / Paula Abdul / Rush Rush CDM, 260.826667s): duration matches no reference length",
+    "lrclib 23017496 (Rush Rush (Single Edit) / Paula Abdul / Rush Rush Cds, 260.858776s): duration matches no reference length",
+    "lrclib 26365068 (Rush, Rush / Paula Abdul / Paula Abdul - Straight Up (Greatest Hits), 261.146122s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-16",
+  "confidence": "crowd"
+}
