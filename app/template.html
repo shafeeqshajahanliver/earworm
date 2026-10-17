@@ -1,0 +1,335 @@
+<title>Earworm</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: a mixing-desk app. One sticky channel bar (tabs), findings as stacked "tracks" (claim left, chart right), song view as a single console card. */
+:root{
+  --bg:#eef0f4; --panel:#ffffff; --ink:#151a2d; --muted:#5b6178; --line:#d7dbe6;
+  --accent:#d6336c; --accent-soft:#f7d6e2; --teal:#127c76; --dot:#151a2d;
+  --s-intro:#9aa3b8; --s-verse:#3f5bd9; --s-prechorus:#8a6ad8; --s-chorus:#d6336c; --s-bridge:#f0a020; --s-solo:#127c76; --s-instrumental:#56b3a9; --s-outro:#6b7189;
+  --display:"Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --body:"Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1220; --panel:#171b2d; --ink:#e9ebf3; --muted:#9aa0b8; --line:#2a3048;
+  --accent:#ff5c93; --accent-soft:#3a1d2b; --teal:#3cc1b8; --dot:#e9ebf3;
+  --s-intro:#6c7490; --s-verse:#6f86ff; --s-prechorus:#a98cf0; --s-chorus:#ff5c93; --s-bridge:#ffb547; --s-solo:#3cc1b8; --s-instrumental:#7fd3ca; --s-outro:#8a90a8;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1220; --panel:#171b2d; --ink:#e9ebf3; --muted:#9aa0b8; --line:#2a3048;
+  --accent:#ff5c93; --accent-soft:#3a1d2b; --teal:#3cc1b8; --dot:#e9ebf3;
+  --s-intro:#6c7490; --s-verse:#6f86ff; --s-prechorus:#a98cf0; --s-chorus:#ff5c93; --s-bridge:#ffb547; --s-solo:#3cc1b8; --s-instrumental:#7fd3ca; --s-outro:#8a90a8;
+  color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 var(--body);margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{padding-block:28px 8px}
+.brand{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.brand h1{font:800 clamp(40px,7vw,68px)/0.95 var(--display);letter-spacing:-0.03em;margin:0}
+.brand h1 span{color:var(--accent)}
+.brand p{margin:0;color:var(--muted);max-width:46ch}
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;gap:4px;padding-block:10px;overflow-x:auto}
+nav button{font:600 14px var(--body);letter-spacing:.04em;text-transform:uppercase;border:1px solid transparent;background:none;color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
+nav button[aria-selected="true"]{background:var(--ink);color:var(--bg)}
+nav button:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+main{padding-block:24px 64px}
+.eyebrow{font:600 12px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.lede{font:600 clamp(20px,2.6vw,26px)/1.3 var(--display);max-width:40ch;margin:4px 0 24px;text-wrap:balance}
+.track{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:28px;padding-block:26px;border-top:1px solid var(--line);align-items:center}
+.track:first-of-type{border-top:0}
+.claim h2{font:700 clamp(24px,3.2vw,34px)/1.1 var(--display);letter-spacing:-0.01em;margin:6px 0 10px;text-wrap:balance}
+.claim p{margin:0 0 12px;color:var(--muted);max-width:52ch}
+.then-now{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-variant-numeric:tabular-nums}
+.then-now div{display:flex;flex-direction:column}
+.then-now b{font:700 28px var(--display);color:var(--ink)}
+.then-now .now b{color:var(--accent)}
+.then-now small{font-size:12px;color:var(--muted)}
+.tag{display:inline-block;font:600 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:4px;background:var(--accent-soft);color:var(--accent)}
+.tag.myth{background:transparent;border:1px solid var(--line);color:var(--muted)}
+.chart{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 10px 4px;min-width:0}
+.chart svg{display:block;width:100%;height:auto}
+.chart svg text{fill:var(--muted);font:11px var(--mono)}
+.legend{font:11px var(--mono);color:var(--muted);padding:2px 6px 6px}
+/* songs */
+.picker{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
+.picker input{flex:1 1 260px;min-width:0;font:16px var(--body);padding:10px 14px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink)}
+.picker button{font:600 14px var(--body);padding:10px 14px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer}
+.results{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
+.results button{font:14px var(--body);padding:6px 10px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer}
+.results button small{color:var(--muted);font-family:var(--mono)}
+.console{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px;display:grid;gap:22px}
+.song-head{display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap}
+.swatch{width:96px;height:96px;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;flex:none;border:1px solid var(--line)}
+.song-head h2{font:800 clamp(28px,4vw,42px)/1 var(--display);margin:0 0 6px;letter-spacing:-0.02em}
+.song-head .meta{color:var(--muted)}
+.meters{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px}
+.meter{border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+.meter .v{font:700 22px var(--display);font-variant-numeric:tabular-nums}
+.meter .l{font:600 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.meter .bar{height:6px;background:var(--line);border-radius:3px;margin-top:8px;position:relative}
+.meter .bar i{position:absolute;top:-3px;width:3px;height:12px;background:var(--accent);border-radius:1px}
+.meter .cmp{font-size:13px;color:var(--muted);margin-top:4px}
+.strip{display:flex;height:40px;border-radius:6px;overflow:hidden;border:1px solid var(--line)}
+.strip div{min-width:2px;display:flex;align-items:flex-end;padding:3px 4px;font:600 10px var(--mono);color:#fff;text-transform:uppercase;letter-spacing:.04em;overflow:hidden;white-space:nowrap}
+.keys{display:flex;flex-wrap:wrap;gap:6px 12px;font:12px var(--mono);color:var(--muted)}
+.keys span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px;background:var(--c)}
+.romans{font:14px/1.9 var(--mono);display:flex;flex-wrap:wrap;gap:4px}
+.romans span{padding:0 6px;border-radius:4px;background:var(--bg)}
+.romans span.b{background:var(--accent-soft);color:var(--accent)}
+.twin{display:flex;gap:14px;align-items:center;flex-wrap:wrap;border:1px dashed var(--line);border-radius:10px;padding:12px 14px}
+.twin button{font:inherit;color:var(--accent);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline}
+.sec h3{font:700 18px var(--display);margin:0 0 8px}
+.note{font-size:14px;color:var(--muted);max-width:70ch}
+/* method */
+.cov{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.cov td,.cov th{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+.cov th{font:600 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.cov .fill{height:8px;background:var(--line);border-radius:4px;min-width:80px}
+.cov .fill i{display:block;height:100%;background:var(--teal);border-radius:4px}
+.tablewrap{overflow-x:auto}
+@media (max-width:760px){.track{grid-template-columns:1fr;gap:14px}}
+@media (prefers-reduced-motion:no-preference){.console{animation:rise .35s ease-out}@keyframes rise{from{transform:translateY(6px)}to{transform:none}}}
+</style>
+
+<header class="wrap">
+  <div class="brand">
+    <h1>Ear<span>worm</span></h1>
+    <p>What 650 hits say about how pop is built. Billboard's year-end top 10, every year from 1959 to 2023.</p>
+  </div>
+</header>
+<nav aria-label="Sections"><div class="wrap" role="tablist">
+  <button role="tab" id="tab-findings" aria-selected="true" data-view="findings">Findings</button>
+  <button role="tab" id="tab-songs" aria-selected="false" data-view="songs">Song console</button>
+  <button role="tab" id="tab-method" aria-selected="false" data-view="method">How we know</button>
+</div></nav>
+
+<main class="wrap">
+  <section id="view-findings">
+    <div class="eyebrow">Six decades, one chart</div>
+    <p class="lede">Hits now last a year, often enter the top 10 in their first week, and take a team of four or five to write. The tempo has not moved since 1959.</p>
+    <div id="tracks"></div>
+  </section>
+
+  <section id="view-songs" hidden>
+    <div class="picker">
+      <label for="q" class="eyebrow" style="flex-basis:100%">Find a song or artist</label>
+      <input id="q" type="search" placeholder="Try Help!, Prince, 1984, Blinding Lights" autocomplete="off">
+      <button id="random" type="button">Surprise me</button>
+    </div>
+    <div class="results" id="results"></div>
+    <div id="console"></div>
+  </section>
+
+  <section id="view-method" hidden>
+    <div class="eyebrow">Sources and coverage</div>
+    <p class="lede">Every number comes from a named source and carries a confidence level. Here is how much of each layer we hold.</p>
+    <div class="tablewrap"><table class="cov" id="cov"></table></div>
+    <div class="sec" style="margin-top:28px">
+      <h3>Read the findings with these in mind</h3>
+      <ul class="note">
+        <li>The corpus is America's year-end top 10, so it measures what American radio, sales and later streams rewarded. 81% of the acts are North American.</li>
+        <li>Weeks on chart and debut positions change partly because Billboard changed its rules: sales and airplay tracking from 1991, streaming from the 2010s, and recurrent rules that remove older songs.</li>
+        <li>Tempo and loudness come from 30-second previews. Half-speed readings were corrected with Deezer's own BPM.</li>
+        <li>Song structure comes from expert annotation sets (McGill Billboard, Harmonix, Rolling Stone corpus, Isophonics) plus fan chord sheets (Chordonomicon). Coverage is uneven across decades, so the app shows structure per song but does not chart bridge trends yet.</li>
+        <li>Cover colour is measured on the album artwork, or the current digital artwork where the album has none.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const D = JSON.parse(document.getElementById('data').textContent);
+const $ = s => document.querySelector(s);
+const NS = 'http://www.w3.org/2000/svg';
+const median = a => { const v = a.filter(x => x != null && !isNaN(x)).sort((x, y) => x - y); if (!v.length) return null; const m = v.length >> 1; return v.length % 2 ? v[m] : (v[m - 1] + v[m]) / 2; };
+const decade = y => Math.floor(y / 10) * 10;
+const fmt = (v, d = 0) => v == null ? '–' : Number(v).toFixed(d);
+const mmss = s => s == null ? '–' : `${Math.floor(s / 60)}:${String(Math.round(s % 60)).padStart(2, '0')}`;
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const el = (tag, attrs = {}, ns) => { const e = ns ? document.createElementNS(NS, tag) : document.createElement(tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; };
+
+/* ---------- findings ---------- */
+function byDecade(key, filter = () => true) {
+  const out = {}; for (const d of [1960, 1970, 1980, 1990, 2000, 2010, 2020]) out[d] = median(D.filter(s => decade(s.y) === d && filter(s)).map(s => s[key])); return out;
+}
+function share(pred, base = () => true) {
+  const out = {}; for (const d of [1960, 1970, 1980, 1990, 2000, 2010, 2020]) { const S = D.filter(s => decade(s.y) === d && base(s)); out[d] = S.length ? S.filter(pred).length / S.length : null; } return out;
+}
+const F = [
+  { key: 'wks', tag: 'Strong', title: 'A hit now lasts a year', unit: 'weeks on the Hot 100', log: false,
+    body: 'The typical top-10 song of the 1960s spent four months on the chart. In the 2020s it spends a full year. Streaming keeps songs in rotation, and Billboard now counts streams.', dp: 0 },
+  { key: 'debut', tag: 'Strong', title: 'Hits arrive fully formed', unit: 'debut position (1 = top)', invert: true,
+    body: 'Songs used to climb from the bottom of the Hot 100. In the 2020s, 45% of the biggest songs entered straight into the top 10. Release-day streaming lands the whole audience at once.',
+    share: s => s.debut && s.debut <= 10, shareLabel: 'top-10 debuts' },
+  { key: 'w', tag: 'Strong', title: 'The solo songwriter is gone', unit: 'credited writers per song; 2 songs above 15 not shown', cap: 15,
+    body: 'One in three 1960s and 70s hits had a single writer. Since 2010 it is one in twenty. Most modern hits credit four or more writers, and the producer is usually one of them.',
+    share: s => s.w >= 4, shareLabel: '4+ writers' },
+  { key: 'words', tag: 'Strong', title: 'Pop doubled its word count', unit: 'words in the lyric; songs above 1,000 not shown', cap: 1000,
+    body: 'A 1960s hit sang about 200 words. Since 2000 it is over 400, and the pace rose from about 90 to 140 sung words a minute. Rap verses drive much of it, but not all.' },
+  { key: 'fv', tag: 'New lead', title: 'The long intro was an 80s habit', unit: 'seconds before the first sung word; above 60 s not shown',
+    body: 'The wait for the voice rose from 8 seconds in the 60s to 15 in the 80s, then fell to under 6 in the 2000s and 2010s, when listeners could skip. The long intro was a peak, not the historical norm.', cap: 60 },
+  { key: 'len', tag: 'Medium', title: 'Songs peaked at four minutes, then shrank', unit: 'track length (minutes)', fmtY: v => mmss(v),
+    body: 'Hits grew from 2:40 in the 60s to over 4:00 in the 90s CD era, and have fallen back to 3:20. One likely reason: streaming pays per play, not per minute.' },
+  { key: 'bpm', tag: 'Myth', title: 'Tempo has not moved since 1959', unit: 'beats per minute',
+    body: 'Every decade’s median sits between 113 and 127 BPM. Pop feels faster because of production and word density, not because the beat sped up.' },
+  { key: 'bright', tag: 'Myth', title: 'Covers did not get darker', unit: 'album-cover brightness (0 to 1)', dp: 2,
+    body: 'Our 30-song pilot suggested modern covers had gone dark. At 650 songs the lead disappears: median brightness stays between 0.49 and 0.57 in every decade. One reason to scale before believing a trend.' },
+];
+
+function scatter(f) {
+  const W = 640, H = 300, m = { l: 44, r: 12, t: 12, b: 26 };
+  const pts = D.filter(s => s[f.key] != null && (!f.cap || s[f.key] <= f.cap));
+  const ys = pts.map(s => s[f.key]);
+  let lo = Math.min(...ys), hi = Math.max(...ys);
+  if (f.key === 'debut') { lo = 1; hi = 100; }
+  if (f.key === 'bright') { lo = 0; hi = 1; }
+  const x = y => m.l + (y - 1958) / (2024 - 1958) * (W - m.l - m.r);
+  const yv = v => f.invert ? m.t + (v - lo) / (hi - lo) * (H - m.t - m.b) : H - m.b - (v - lo) / (hi - lo) * (H - m.t - m.b);
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': `${f.title}: ${f.unit} for each song by year, with the median per decade` }, 1);
+  // grid + y ticks
+  const ticks = 4;
+  for (let i = 0; i <= ticks; i++) {
+    const v = lo + (hi - lo) * i / ticks, yy = yv(v);
+    svg.append(el('line', { x1: m.l, x2: W - m.r, y1: yy, y2: yy, stroke: css('--line'), 'stroke-width': 1 }, 1));
+    const t = el('text', { x: m.l - 6, y: yy + 4, 'text-anchor': 'end' }, 1); t.textContent = f.fmtY ? f.fmtY(v) : fmt(v, f.dp || 0); svg.append(t);
+  }
+  for (const d of [1960, 1970, 1980, 1990, 2000, 2010, 2020]) {
+    const t = el('text', { x: x(d + 5), y: H - 8, 'text-anchor': 'middle' }, 1); t.textContent = `${String(d).slice(2)}s`; svg.append(t);
+  }
+  const dot = css('--dot');
+  for (const s of pts) {
+    const c = el('circle', { cx: x(s.y + (s.r - 5.5) / 12), cy: yv(s[f.key]), r: 2.6, fill: dot, 'fill-opacity': .22 }, 1);
+    const ti = el('title', {}, 1); ti.textContent = `${s.t} — ${s.a} (${s.y}): ${f.fmtY ? f.fmtY(s[f.key]) : fmt(s[f.key], f.dp || 0)}`; c.append(ti);
+    c.style.cursor = 'pointer'; c.addEventListener('click', () => openSong(s.id));
+    svg.append(c);
+  }
+  // decade medians
+  const med = byDecade(f.key, s => !f.cap || s[f.key] <= f.cap);
+  const path = Object.entries(med).filter(([, v]) => v != null).map(([d, v], i) => `${i ? 'L' : 'M'}${x(+d + 5)},${yv(v)}`).join(' ');
+  svg.append(el('path', { d: path, fill: 'none', stroke: css('--accent'), 'stroke-width': 3, 'stroke-linejoin': 'round' }, 1));
+  for (const [d, v] of Object.entries(med)) if (v != null) svg.append(el('circle', { cx: x(+d + 5), cy: yv(v), r: 4.5, fill: css('--accent'), stroke: css('--panel'), 'stroke-width': 2 }, 1));
+  return { svg, med };
+}
+
+function renderFindings() {
+  const box = $('#tracks'); box.innerHTML = '';
+  for (const f of F) {
+    const { svg, med } = scatter(f);
+    const tr = el('article', { class: 'track' });
+    const c = el('div', { class: 'claim' });
+    const then = med[1960], now = med[2020] ?? med[2010];
+    const fy = v => f.fmtY ? f.fmtY(v) : fmt(v, f.dp || 0);
+    let extra = '';
+    if (f.share) { const sh = share(f.share); extra = `<div><small>60s ${f.shareLabel}</small><b>${Math.round(sh[1960] * 100)}%</b></div><div class="now"><small>2020s</small><b>${Math.round(sh[2020] * 100)}%</b></div>`; }
+    c.innerHTML = `<span class="tag ${f.tag === 'Myth' ? 'myth' : ''}">${f.tag === 'Myth' ? 'Myth checked' : f.tag}</span>
+      <h2>${f.title}</h2><p>${f.body}</p>
+      <div class="then-now"><div><small>1960s median</small><b>${fy(then)}</b></div><div class="now"><small>2020s median</small><b>${fy(now)}</b></div>${extra}</div>`;
+    const ch = el('div', { class: 'chart' }); ch.append(svg);
+    const lg = el('div', { class: 'legend' }); lg.textContent = `Each dot is a song (${f.unit}). Line: median per decade. Click a dot to open the song.`; ch.append(lg);
+    tr.append(c, ch); box.append(tr);
+  }
+}
+
+/* ---------- song console ---------- */
+const SECT = ['intro', 'verse', 'prechorus', 'chorus', 'bridge', 'solo', 'instrumental', 'outro'];
+function pct(s, key) { const peers = D.filter(x => decade(x.y) === decade(s.y) && x[key] != null).map(x => x[key]).sort((a, b) => a - b); if (s[key] == null || !peers.length) return null; return peers.filter(v => v < s[key]).length / Math.max(1, peers.length - 1); }
+function meter(s, key, label, show) {
+  const p = pct(s, key), med = median(D.filter(x => decade(x.y) === decade(s.y)).map(x => x[key]));
+  const v = s[key];
+  const cmp = v == null ? 'not measured' : `${decade(s.y)}s median ${show(med)}`;
+  return `<div class="meter"><div class="l">${label}</div><div class="v">${show(v)}</div>
+    <div class="bar" title="Position among its decade's hits">${p == null ? '' : `<i style="left:calc(${(p * 100).toFixed(0)}% - 1px)"></i>`}</div><div class="cmp">${cmp}</div></div>`;
+}
+const FEAT = ['bpm', 'len', 'words', 'rep', 'fv', 'w'];
+const stats = {}; for (const k of FEAT) { const v = D.map(s => s[k]).filter(x => x != null); const mu = v.reduce((a, b) => a + b, 0) / v.length; const sd = Math.sqrt(v.reduce((a, b) => a + (b - mu) ** 2, 0) / v.length); stats[k] = { mu, sd }; }
+function twin(s) {
+  let best = null;
+  for (const o of D) {
+    if (Math.abs(decade(o.y) - decade(s.y)) < 20 || o.id === s.id) continue;
+    let d = 0, n = 0; for (const k of FEAT) if (s[k] != null && o[k] != null) { d += ((s[k] - o[k]) / stats[k].sd) ** 2; n++; }
+    if (n >= 4 && (!best || d / n < best.d)) best = { o, d: d / n };
+  }
+  return best && best.o;
+}
+function openSong(id) {
+  const s = D.find(x => x.id === id); if (!s) return;
+  show('songs');
+  const pal = (s.pal || []).map((c, i) => `<div style="background:${c};flex:${s.palw[i]}"></div>`).join('');
+  const total = s.form && s.form.length && s.form[s.form.length - 1][2] ? s.form[s.form.length - 1][2] - (s.form[0][1] || 0) : null;
+  const strip = s.form ? `<div class="strip" role="img" aria-label="Song form: ${s.form.map(f => f[0]).join(', ')}">${s.form.map(f => {
+      const w = total && f[2] != null ? (f[2] - f[1]) / total * 100 : 100 / s.form.length;
+      return `<div style="flex:0 0 ${w.toFixed(2)}%;background:var(--s-${f[0]})" title="${f[0]}${f[1] != null ? ' ' + mmss(f[1]) : ''}">${w > 7 ? f[0] : ''}</div>`; }).join('')}</div>
+      <div class="keys">${SECT.filter(k => s.form.some(f => f[0] === k)).map(k => `<span style="--c:var(--s-${k})">${k}</span>`).join('')}</div>
+      <p class="note">${total ? 'Section lengths to scale, from expert annotation.' : 'Section order from fan chord sheets; lengths not to scale.'} Bridge: <b>${s.bridge || 'unknown'}</b>.</p>`
+    : `<p class="note">No structure annotation for this song yet. About 30% of the corpus has one.</p>`;
+  const romans = s.romans && s.romans.length ? `<div class="romans">${s.romans.slice(0, 48).map(r => `<span class="${/^b|#/.test(r) ? 'b' : ''}">${r}</span>`).join('')}${s.romans.length > 48 ? '<span>…</span>' : ''}</div>
+    <p class="note">Chords as positions in the key${s.key ? ` (key ${s.key})` : ''}. Highlighted: chords borrowed from outside the key. Source: ${s.csrc.startsWith('chordonomicon') ? 'fan chord sheet (crowd)' : 'expert annotation'}.</p>`
+    : `<p class="note">No chord data for this song yet. About 20% of the corpus has chords.</p>`;
+  const T = twin(s);
+  const lin = s.orig == null ? 'Lineage not yet collected.' : s.orig ? `An original. ${s.versions ? s.versions + ' recorded versions exist.' : ''}` : `A remake: first recorded by ${s.origby}.`;
+  $('#console').innerHTML = `<article class="console">
+    <div class="song-head"><div class="swatch" title="Cover palette">${pal || ''}</div>
+      <div style="min-width:0"><div class="eyebrow">${s.y} · year-end #${s.r} · ${s.c || ''}</div><h2>${s.t}</h2><div class="meta">${s.a}</div>
+      <p class="note" style="margin:6px 0 0">${s.instr ? 'Instrumental. ' : ''}${lin}</p></div></div>
+    <div class="meters">
+      ${meter(s, 'wks', 'Weeks on chart', v => fmt(v))}
+      ${meter(s, 'debut', 'Debut position', v => v == null ? '–' : '#' + v)}
+      ${meter(s, 'bpm', 'Tempo (BPM)', v => fmt(v))}
+      ${meter(s, 'len', 'Length', mmss)}
+      ${meter(s, 'words', 'Words sung', v => fmt(v))}
+      ${meter(s, 'fv', 'First word at', v => v == null ? '–' : fmt(v, 1) + 's')}
+      ${meter(s, 'rep', 'Repeated lines', v => v == null ? '–' : Math.round(v * 100) + '%')}
+      ${meter(s, 'w', 'Writers', v => fmt(v))}
+    </div>
+    <div class="sec"><h3>Form</h3>${strip}</div>
+    <div class="sec"><h3>Harmony</h3>${romans}</div>
+    ${T ? `<div class="twin"><span class="eyebrow">Era twin</span><span>Built most like <button type="button" data-id="${T.id}">${T.t} — ${T.a} (${T.y})</button>, by tempo, length, word count, repetition, intro and writing team.</span></div>` : ''}
+    <p class="note">The pink tick on each meter shows where this song sits among its decade's hits.</p>
+  </article>`;
+  const tb = $('#console .twin button'); if (tb) tb.addEventListener('click', () => openSong(tb.dataset.id));
+  try { localStorage.setItem('earworm-song', id); } catch (e) {}
+}
+function search() {
+  const q = $('#q').value.trim().toLowerCase(); const box = $('#results'); box.innerHTML = '';
+  if (!q) return;
+  const hits = D.filter(s => s.t.toLowerCase().includes(q) || s.a.toLowerCase().includes(q) || String(s.y) === q).slice(0, 30);
+  if (!hits.length) { box.innerHTML = '<span class="note">No song in the 650 matches that.</span>'; return; }
+  for (const s of hits) { const b = el('button', { type: 'button' }); b.innerHTML = `${s.t} <small>${s.y}</small>`; b.addEventListener('click', () => openSong(s.id)); box.append(b); }
+}
+
+/* ---------- method ---------- */
+function renderMethod() {
+  const n = D.length, c = p => D.filter(p).length;
+  const rows = [
+    ['Billboard chart run', c(s => s.wks != null), 'sourced'], ['Writers', c(s => s.w > 0), 'sourced'],
+    ['Timed lyrics', c(s => s.words != null), 'crowd'], ['Tempo and loudness', c(s => s.bpm != null), 'computed'],
+    ['Cover colour', c(s => s.bright != null), 'computed'], ['Lineage (covers and remakes)', c(s => s.orig != null), 'crowd, still collecting'],
+    ['Song structure', c(s => s.form), 'expert and crowd'], ['Chords', c(s => s.romans && s.romans.length), 'expert and crowd'],
+  ];
+  $('#cov').innerHTML = `<tr><th>Layer</th><th>Songs</th><th style="width:40%">Coverage</th><th>Confidence</th></tr>` +
+    rows.map(([l, k, conf]) => `<tr><td>${l}</td><td>${k} / ${n}</td><td><div class="fill"><i style="width:${(k / n * 100).toFixed(0)}%"></i></div></td><td>${conf}</td></tr>`).join('');
+}
+
+/* ---------- tabs ---------- */
+function show(view) {
+  for (const b of document.querySelectorAll('nav button')) b.setAttribute('aria-selected', b.dataset.view === view);
+  for (const v of ['findings', 'songs', 'method']) $('#view-' + v).hidden = v !== view;
+  try { localStorage.setItem('earworm-view', view); } catch (e) {}
+}
+for (const b of document.querySelectorAll('nav button')) b.addEventListener('click', () => show(b.dataset.view));
+$('#q').addEventListener('input', search);
+$('#random').addEventListener('click', () => { const pool = D.filter(s => s.form); openSong(pool[Math.floor(Math.random() * pool.length)].id); });
+
+renderFindings(); renderMethod();
+let startSong = '1965-help'; try { startSong = localStorage.getItem('earworm-song') || startSong; } catch (e) {}
+openSong(startSong);
+let startView = location.hash.replace('#', '') || 'findings'; try { if (!location.hash) startView = localStorage.getItem('earworm-view') || 'findings'; } catch (e) {}
+show(['findings', 'songs', 'method'].includes(startView) ? startView : 'findings');
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', renderFindings);
+new MutationObserver(renderFindings).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+</script>
